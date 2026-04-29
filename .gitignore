@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Données sensibles / trop lourdes (optionnel, décommente si besoin)
+# DATA_PIPELINE/SCRAPPING/raw/
+
+# Logs
+*.log
+
+# Sous-dépôts Git (opendata a son propre .git)
+opendata/

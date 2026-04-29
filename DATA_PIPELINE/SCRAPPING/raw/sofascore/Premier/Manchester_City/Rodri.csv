@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rodri,2026-02-11,Manchester City,Fulham,7.2,71,7921.0,14.0,111.56,0,0,0.03,0.03,89,97,0,0,0,0,3,102,0,1.77
+Rodri,2026-02-14,Manchester City,Salford City,6.9,15,1718.0,3.0,114.53,0,0,0.0,0.0,26,28,0,0,0,0,2,28,0,1.75
+Rodri,2026-02-21,Manchester City,Newcastle United,8.6,90,9924.0,19.0,110.27,0,0,0.0,0.11,67,77,2,0,1,0,6,95,0,1.91
+Rodri,2026-02-28,Leeds United,Manchester City,7.9,90,10071.0,17.0,111.9,0,0,0.12,0.07,114,124,1,0,0,0,2,142,0,1.69
+Rodri,2026-03-04,Manchester City,Nottingham Forest,8.1,90,10050.0,17.0,111.67,1,0,0.37,0.18,100,106,2,0,0,0,9,116,0,1.69
+Rodri,2026-03-07,Newcastle United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rodri,2026-03-11,Real Madrid,Manchester City,7.2,90,9987.0,17.0,110.97,0,0,0.0,0.14,90,102,1,0,0,0,5,113,0,1.7
+Rodri,2026-03-14,West Ham United,Manchester City,7.0,90,10192.0,19.0,113.24,0,0,0.0,0.59,116,134,3,0,1,0,9,150,0,1.86
+Rodri,2026-03-17,Manchester City,Real Madrid,7.3,74,8143.0,14.0,110.04,0,0,0.25,0.09,52,57,2,0,0,0,6,71,0,1.72
+Rodri,2026-03-22,Arsenal,Manchester City,7.5,90,9953.0,20.0,110.59,0,0,0.0,0.0,83,93,0,0,2,0,6,102,0,2.01
+Rodri,2026-03-27,Spain,Serbia,7.4,77,8630.0,16.0,112.08,0,0,0.0,0.0,100,107,0,0,1,0,5,115,0,1.85
+Rodri,2026-03-31,Spain,Egypt,6.7,45,5035.0,11.0,111.89,0,0,0.0,0.0,45,52,0,0,2,0,4,62,0,2.18
+Rodri,2026-04-04,Manchester City,Liverpool,7.0,62,6955.0,13.0,112.18,0,0,0.0,0.0,72,78,1,0,1,0,6,88,0,1.87
+Rodri,2026-04-12,Chelsea,Manchester City,6.6,90,9966.0,17.0,110.73,0,0,0.0,0.04,95,102,0,0,0,0,4,111,0,1.71
+Rodri,2026-04-19,Manchester City,Arsenal,7.7,88,9647.0,17.0,109.62,0,0,0.04,0.15,69,74,0,0,0,0,4,85,0,1.76

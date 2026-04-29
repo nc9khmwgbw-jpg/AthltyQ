@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Maxime Colin,2025-12-20,ASC Biesheim,Metz,6.5,90,,,0.0,0,0,0.0,0.0,28,31,0,0,1,0,3,39
+Maxime Colin,2026-01-04,Lorient,Metz,6.6,90,,,0.0,0,0,0.02,0.13,49,57,2,0,1,0,2,82
+Maxime Colin,2026-01-11,Metz,Montpellier,6.2,31,,,0.0,0,0,0.0,0.0,24,24,0,0,1,0,0,27
+Maxime Colin,2026-01-18,RC Strasbourg,Metz,6.6,90,,,0.0,0,0,0.0,0.0,39,45,0,0,0,0,3,68
+Maxime Colin,2026-01-25,Metz,Olympique Lyonnais,5.5,78,,,0.0,0,0,0.0,0.0,42,46,0,0,2,0,2,56
+Maxime Colin,2026-02-01,Angers,Metz,7.3,31,,,0.0,0,0,0.0,0.0,13,15,0,0,1,0,1,19
+Maxime Colin,2026-02-06,Metz,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Maxime Colin,2026-02-15,Metz,Auxerre,6.2,27,,,0.0,0,0,0.0,0.02,17,20,0,0,1,0,4,27
+Maxime Colin,2026-02-21,Paris Saint-Germain,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Maxime Colin,2026-03-01,Metz,Stade Brestois,7.1,76,,,0.0,0,0,0.02,0.03,45,47,0,0,1,0,5,67
+Maxime Colin,2026-03-08,RC Lens,Metz,6.8,90,,,0.0,0,0,0.0,0.01,54,63,0,0,2,0,5,83
+Maxime Colin,2026-03-15,Metz,Toulouse,6.2,90,,,0.0,0,0,0.0,0.03,51,53,1,0,1,0,3,72
+Maxime Colin,2026-03-22,Stade Rennais,Metz,6.9,90,,,0.0,0,0,0.0,0.0,21,28,0,0,1,0,2,40
+Maxime Colin,2026-04-05,Metz,Nantes,6.8,63,,,0.0,0,0,0.0,0.04,43,48,0,0,1,0,3,59
+Maxime Colin,2026-04-10,Olympique de Marseille,Metz,6.2,82,,,0.0,0,0,0.0,0.01,37,39,0,0,2,0,4,53

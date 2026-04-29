@@ -1,0 +1,27 @@
+# AthlytIQ - Dependencies
+# Install: pip install -r requirements.txt
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+imbalanced-learn>=0.11.0
+shap>=0.42.0
+joblib>=1.3.0
+
+# Web Scraping
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+beautifulsoup4>=4.12.0
+
+# API & Server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# Utilities
+python-dateutil>=2.8.0
+requests>=2.31.0

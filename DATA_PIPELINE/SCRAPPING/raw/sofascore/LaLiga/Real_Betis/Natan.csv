@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Natan,2026-02-05,Real Betis,Atlético Madrid,6.0,45,,,0.0,0,0,0.0,0.0,18,20,0,0,0,0,2,21
+Natan,2026-02-08,Atlético Madrid,Real Betis,6.9,90,,,0.0,0,0,0.0,0.0,26,27,0,0,2,0,0,36
+Natan,2026-02-15,Mallorca,Real Betis,6.4,90,,,0.0,0,0,0.0,0.0,28,30,0,0,0,0,1,43
+Natan,2026-02-21,Real Betis,Rayo Vallecano,6.6,90,,,0.0,0,0,0.0,0.0,41,47,0,0,0,0,3,56
+Natan,2026-03-01,Real Betis,Sevilla,6.4,90,,,0.0,0,0,0.0,0.0,43,48,0,0,0,0,4,54
+Natan,2026-03-08,Getafe,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Natan,2026-03-12,Panathinaikos FC,Real Betis,7.0,45,,,0.0,0,0,0.0,0.0,33,38,0,0,0,0,4,44
+Natan,2026-03-15,Real Betis,Celta Vigo,6.6,90,,,0.0,0,0,0.0,0.0,37,42,0,0,2,0,2,55
+Natan,2026-03-19,Real Betis,Panathinaikos FC,7.6,90,,,0.0,0,0,0.0,0.01,65,71,0,0,3,0,8,89
+Natan,2026-03-22,Athletic Club,Real Betis,6.2,90,,,0.0,0,0,0.0,0.0,54,61,0,0,3,0,5,77
+Natan,2026-04-04,Real Betis,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Natan,2026-04-08,Sporting Braga,Real Betis,6.9,90,,,0.0,0,0,0.0,0.0,35,38,0,0,0,0,3,51
+Natan,2026-04-12,Osasuna,Real Betis,6.8,90,,,0.0,0,0,0.0,0.06,39,50,0,0,1,0,2,64
+Natan,2026-04-21,Girona FC,Real Betis,6.4,90,,,0.0,0,0,0.0,0.01,53,56,1,0,2,0,2,63
+Natan,2026-04-24,Real Betis,Real Madrid,6.7,90,,,0.0,0,0,0.17,0.0,33,40,0,0,1,0,3,52
