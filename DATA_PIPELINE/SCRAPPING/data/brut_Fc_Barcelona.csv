@@ -1,0 +1,414 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Robert Lewandowski,2026-02-22,FC Barcelona,Levante UD,6.6,66,,,0.0,0,0,0.21,0.18,11,12,1,0,0,0,1,18
+Robert Lewandowski,2026-02-28,FC Barcelona,Villarreal,7.0,23,,,0.0,1,0,1.11,0.01,6,7,0,0,0,0,0,11
+Robert Lewandowski,2026-03-07,Athletic Club,FC Barcelona,6.4,28,,,0.0,0,0,0.12,0.0,3,3,0,0,0,0,1,10
+Robert Lewandowski,2026-03-10,Newcastle United,FC Barcelona,6.2,70,,,0.0,0,0,0.15,0.02,8,11,0,0,0,0,2,22
+Robert Lewandowski,2026-03-15,FC Barcelona,Sevilla,6.5,90,,,0.0,0,0,0.83,0.04,17,21,0,0,0,0,1,29
+Robert Lewandowski,2026-03-18,FC Barcelona,Newcastle United,9.0,66,,,0.0,2,0,0.87,0.14,9,11,3,0,0,0,2,29
+Robert Lewandowski,2026-03-22,FC Barcelona,Rayo Vallecano,6.4,45,,,0.0,0,0,0.0,0.0,5,5,0,0,0,0,0,12
+Robert Lewandowski,2026-03-26,Poland,Albania,7.2,89,,,0.0,1,0,0.0,0.0,10,12,1,0,0,0,2,24
+Robert Lewandowski,2026-03-31,Sweden,Poland,7.1,90,,,0.0,0,0,0.0,0.0,16,21,2,0,0,0,1,32
+Robert Lewandowski,2026-04-04,Atlético Madrid,FC Barcelona,6.8,11,,,0.0,1,0,0.63,0.01,5,5,0,0,0,0,0,7
+Robert Lewandowski,2026-04-08,FC Barcelona,Atlético Madrid,6.5,45,,,0.0,0,0,0.04,0.0,4,6,0,0,0,0,1,11
+Robert Lewandowski,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Robert Lewandowski,2026-04-14,Atlético Madrid,FC Barcelona,6.7,22,,,0.0,0,0,0.05,0.0,0,1,0,0,0,0,0,4
+Robert Lewandowski,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Robert Lewandowski,2026-04-25,Getafe,FC Barcelona,7.0,90,,,0.0,0,0,0.07,0.01,10,13,1,0,1,0,3,27
+Marcus Rashford,2026-02-28,FC Barcelona,Villarreal,7.0,17,,,0.0,0,0,0.06,0.18,13,14,1,0,0,0,0,25
+Marcus Rashford,2026-03-03,FC Barcelona,Atlético Madrid,6.7,26,,,0.0,0,0,0.0,0.0,14,15,1,0,0,0,3,29
+Marcus Rashford,2026-03-07,Athletic Club,FC Barcelona,6.2,62,,,0.0,0,0,0.05,0.07,19,23,2,0,0,0,3,35
+Marcus Rashford,2026-03-10,Newcastle United,FC Barcelona,6.4,20,,,0.0,0,0,0.04,0.0,5,7,0,0,0,0,2,12
+Marcus Rashford,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marcus Rashford,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marcus Rashford,2026-03-22,FC Barcelona,Rayo Vallecano,6.8,8,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,1,8
+Marcus Rashford,2026-03-27,England,Uruguay,7.4,69,,,0.0,0,0,0.0,0.0,21,28,1,0,0,0,4,50
+Marcus Rashford,2026-03-31,England,Japan,6.3,19,,,0.0,0,0,0.0,0.0,10,18,1,0,0,0,0,26
+Marcus Rashford,2026-04-04,Atlético Madrid,FC Barcelona,7.5,79,,,0.0,1,0,0.31,0.21,30,33,3,0,0,0,2,51
+Marcus Rashford,2026-04-08,FC Barcelona,Atlético Madrid,6.7,73,,,0.0,0,0,0.52,0.17,15,21,1,0,1,0,1,43
+Marcus Rashford,2026-04-11,FC Barcelona,Espanyol,7.9,26,,,0.0,1,0,0.34,0.01,11,11,0,0,0,0,0,17
+Marcus Rashford,2026-04-14,Atlético Madrid,FC Barcelona,6.9,22,,,0.0,0,0,0.0,0.28,10,13,1,0,0,0,1,17
+Marcus Rashford,2026-04-22,FC Barcelona,Celta Vigo,6.4,17,,,0.0,0,0,0.0,0.01,5,6,0,0,0,0,0,10
+Marcus Rashford,2026-04-25,Getafe,FC Barcelona,7.6,30,,,0.0,1,0,0.46,0.06,8,9,2,0,0,0,0,18
+Ferran Torres,2026-02-28,FC Barcelona,Villarreal,6.3,67,,,0.0,0,0,0.07,0.01,7,10,0,0,0,0,0,16
+Ferran Torres,2026-03-03,FC Barcelona,Atlético Madrid,6.3,64,,,0.0,0,0,0.0,0.0,2,7,1,0,0,0,1,15
+Ferran Torres,2026-03-07,Athletic Club,FC Barcelona,6.0,62,,,0.0,0,0,0.02,0.0,2,5,0,0,0,0,0,9
+Ferran Torres,2026-03-10,Newcastle United,FC Barcelona,6.7,9,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,6
+Ferran Torres,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Ferran Torres,2026-03-18,FC Barcelona,Newcastle United,6.5,24,,,0.0,0,0,0.16,0.0,1,1,0,0,0,0,0,4
+Ferran Torres,2026-03-22,FC Barcelona,Rayo Vallecano,6.3,45,,,0.0,0,0,0.03,0.01,5,9,0,0,0,0,1,16
+Ferran Torres,2026-03-27,Spain,Serbia,7.0,27,,,0.0,0,0,0.0,0.0,10,11,2,0,0,0,0,15
+Ferran Torres,2026-03-31,Spain,Egypt,6.2,62,,,0.0,0,0,0.0,0.0,12,12,0,0,0,0,2,26
+Ferran Torres,2026-04-04,Atlético Madrid,FC Barcelona,6.3,45,,,0.0,0,0,0.2,0.04,8,8,0,0,0,0,0,15
+Ferran Torres,2026-04-08,FC Barcelona,Atlético Madrid,6.5,17,,,0.0,0,0,0.0,0.01,3,4,0,0,0,0,2,4
+Ferran Torres,2026-04-11,FC Barcelona,Espanyol,8.7,74,,,0.0,2,0,0.6,0.03,23,25,2,0,0,0,3,33
+Ferran Torres,2026-04-14,Atlético Madrid,FC Barcelona,8.3,68,,,0.0,1,0,0.8,0.27,19,22,2,0,0,0,1,32
+Ferran Torres,2026-04-22,FC Barcelona,Celta Vigo,6.5,73,,,0.0,0,0,0.06,0.07,16,17,2,0,0,0,2,26
+Ferran Torres,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-02-22,FC Barcelona,Levante UD,,2,,,0.0,0,0,0.0,0.05,1,1,1,0,0,0,1,4
+Roony Bardghji,2026-02-28,FC Barcelona,Villarreal,6.5,17,,,0.0,0,0,0.0,0.01,14,18,0,0,0,0,0,18
+Roony Bardghji,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-03-15,FC Barcelona,Sevilla,6.7,67,,,0.0,0,0,0.0,0.0,11,14,0,0,0,0,1,23
+Roony Bardghji,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-03-26,Ukraine,Sweden,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Roony Bardghji,2026-04-14,Atlético Madrid,FC Barcelona,6.9,10,,,0.0,0,0,0.02,0.24,5,6,1,0,0,0,0,13
+Roony Bardghji,2026-04-22,FC Barcelona,Celta Vigo,6.9,46,,,0.0,0,0,0.03,0.21,32,34,1,0,2,0,1,49
+Roony Bardghji,2026-04-25,Getafe,FC Barcelona,6.7,60,,,0.0,0,0,0.05,0.09,23,23,1,0,0,0,2,44
+Lamine Yamal,2026-02-22,FC Barcelona,Levante UD,7.1,88,,,0.0,0,0,0.07,0.13,60,65,1,0,0,0,4,93
+Lamine Yamal,2026-02-28,FC Barcelona,Villarreal,10.0,73,,,0.0,3,0,0.94,0.11,41,47,2,0,0,0,3,70
+Lamine Yamal,2026-03-03,FC Barcelona,Atlético Madrid,9.2,90,,,0.0,0,0,0.0,0.0,47,59,4,0,1,0,7,104
+Lamine Yamal,2026-03-07,Athletic Club,FC Barcelona,7.9,90,,,0.0,1,0,0.1,0.33,39,50,1,0,1,0,3,71
+Lamine Yamal,2026-03-10,Newcastle United,FC Barcelona,7.0,90,,,0.0,1,0,0.83,0.08,24,36,0,0,0,0,4,52
+Lamine Yamal,2026-03-15,FC Barcelona,Sevilla,6.5,23,,,0.0,0,0,0.0,0.01,8,13,0,0,0,0,1,16
+Lamine Yamal,2026-03-18,FC Barcelona,Newcastle United,8.1,90,,,0.0,1,0,1.35,0.36,24,28,1,0,0,0,2,44
+Lamine Yamal,2026-03-22,FC Barcelona,Rayo Vallecano,7.1,82,,,0.0,0,0,0.07,0.11,21,28,1,0,1,0,4,48
+Lamine Yamal,2026-03-27,Spain,Serbia,7.1,63,,,0.0,0,0,0.0,0.0,34,43,0,0,1,0,2,61
+Lamine Yamal,2026-03-31,Spain,Egypt,7.0,45,,,0.0,0,0,0.0,0.0,13,13,0,0,1,0,1,23
+Lamine Yamal,2026-04-04,Atlético Madrid,FC Barcelona,6.8,90,,,0.0,0,0,0.6,0.36,54,69,5,0,0,0,2,103
+Lamine Yamal,2026-04-08,FC Barcelona,Atlético Madrid,8.6,90,,,0.0,0,0,0.19,0.53,24,31,3,0,0,0,8,74
+Lamine Yamal,2026-04-11,FC Barcelona,Espanyol,10.0,90,,,0.0,1,0,1.2,0.53,26,35,4,0,0,0,5,72
+Lamine Yamal,2026-04-14,Atlético Madrid,FC Barcelona,8.9,90,,,0.0,1,0,0.59,0.86,41,51,4,0,2,0,9,93
+Lamine Yamal,2026-04-22,FC Barcelona,Celta Vigo,8.1,44,,,0.0,1,0,0.91,0.21,13,15,1,0,0,0,0,24
+Raphinha,2026-01-15,Real Racing Club,FC Barcelona,6.8,23,,,0.0,0,0,0.0,0.0,14,18,2,0,0,0,0,21
+Raphinha,2026-01-21,SK Slavia Praha,FC Barcelona,6.0,90,,,0.0,0,0,0.08,0.15,22,26,3,0,1,0,1,37
+Raphinha,2026-01-25,FC Barcelona,Real Oviedo,8.2,60,,,0.0,1,0,0.51,0.28,21,27,4,0,0,0,2,46
+Raphinha,2026-01-28,FC Barcelona,FC København,7.1,90,,,0.0,1,0,0.84,0.11,32,37,3,0,0,0,3,52
+Raphinha,2026-01-31,Elche,FC Barcelona,7.1,45,,,0.0,0,0,0.05,0.21,14,22,1,0,1,0,3,33
+Raphinha,2026-02-16,Girona FC,FC Barcelona,6.6,63,,,0.0,0,0,0.35,0.12,18,23,4,0,1,0,0,35
+Raphinha,2026-02-22,FC Barcelona,Levante UD,7.4,90,,,0.0,0,0,0.7,0.22,41,45,3,0,0,0,1,67
+Raphinha,2026-02-28,FC Barcelona,Villarreal,7.6,73,,,0.0,0,0,0.05,0.21,26,33,3,0,1,0,1,49
+Raphinha,2026-03-03,FC Barcelona,Atlético Madrid,7.2,90,,,0.0,1,0,0.0,0.0,32,45,2,0,0,0,9,75
+Raphinha,2026-03-07,Athletic Club,FC Barcelona,6.3,28,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,6
+Raphinha,2026-03-10,Newcastle United,FC Barcelona,7.4,90,,,0.0,0,0,0.03,0.34,18,22,4,0,1,0,3,41
+Raphinha,2026-03-15,FC Barcelona,Sevilla,9.9,82,,,0.0,3,0,1.7,0.45,37,45,1,0,1,0,7,68
+Raphinha,2026-03-18,FC Barcelona,Newcastle United,10.0,90,,,0.0,2,0,0.92,0.69,16,26,6,0,0,0,3,44
+Raphinha,2026-03-22,FC Barcelona,Rayo Vallecano,7.2,90,,,0.0,0,0,0.89,0.18,18,24,1,0,0,0,3,49
+Raphinha,2026-03-26,Brazil,France,6.2,45,,,0.0,0,0,0.0,0.0,3,6,1,0,0,0,1,15
+Pedri,2026-02-28,FC Barcelona,Villarreal,8.1,31,,,0.0,0,0,0.0,0.26,52,55,3,0,0,0,4,57
+Pedri,2026-03-03,FC Barcelona,Atlético Madrid,9.2,90,,,0.0,0,0,0.0,0.0,83,91,2,0,0,0,14,115
+Pedri,2026-03-07,Athletic Club,FC Barcelona,7.1,45,,,0.0,0,0,0.0,0.01,19,23,1,0,1,0,1,37
+Pedri,2026-03-10,Newcastle United,FC Barcelona,7.0,70,,,0.0,0,0,0.0,0.01,32,39,0,0,0,0,2,54
+Pedri,2026-03-15,FC Barcelona,Sevilla,6.5,45,,,0.0,0,0,0.0,0.01,20,22,2,0,0,0,1,26
+Pedri,2026-03-18,FC Barcelona,Newcastle United,7.2,90,,,0.0,0,0,0.0,0.27,62,66,2,0,0,0,4,78
+Pedri,2026-03-22,FC Barcelona,Rayo Vallecano,8.0,90,,,0.0,0,0,0.0,0.05,56,64,3,0,2,0,12,87
+Pedri,2026-03-27,Spain,Serbia,6.9,45,,,0.0,0,0,0.0,0.0,43,44,2,0,0,0,1,47
+Pedri,2026-03-31,Spain,Egypt,7.0,45,,,0.0,0,0,0.0,0.0,51,53,0,0,1,0,5,65
+Pedri,2026-04-04,Atlético Madrid,FC Barcelona,7.3,90,,,0.0,0,0,0.01,0.09,84,91,2,0,1,0,8,113
+Pedri,2026-04-08,FC Barcelona,Atlético Madrid,6.7,45,,,0.0,0,0,0.0,0.02,28,32,2,0,0,0,3,40
+Pedri,2026-04-11,FC Barcelona,Espanyol,8.0,90,,,0.0,0,0,0.04,0.08,81,88,2,0,0,0,3,109
+Pedri,2026-04-14,Atlético Madrid,FC Barcelona,7.2,90,,,0.0,0,0,0.0,0.14,104,111,2,0,2,0,2,126
+Pedri,2026-04-22,FC Barcelona,Celta Vigo,7.5,90,,,0.0,0,0,0.02,0.39,84,90,1,0,2,0,11,110
+Pedri,2026-04-25,Getafe,FC Barcelona,7.9,88,,,0.0,0,0,0.0,0.26,58,66,3,0,0,0,7,75
+Pablo Gavi,2025-07-31,FC Seoul,FC Barcelona,8.2,32,,,0.0,1,0,0.0,0.0,36,38,2,0,0,0,1,47
+Pablo Gavi,2025-08-04,Daegu FC,FC Barcelona,8.6,45,,,0.0,2,0,0.0,0.0,37,39,0,0,0,0,3,47
+Pablo Gavi,2025-08-16,Mallorca,FC Barcelona,7.1,21,,,0.0,0,0,0.0,0.05,19,20,2,0,0,0,2,20
+Pablo Gavi,2025-08-23,Levante UD,FC Barcelona,7.0,45,,,0.0,0,0,0.0,0.04,44,47,1,0,0,0,3,55
+Pablo Gavi,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pablo Gavi,2026-03-15,FC Barcelona,Sevilla,6.4,8,,,0.0,0,0,0.0,0.0,14,16,0,0,1,0,2,18
+Pablo Gavi,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pablo Gavi,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pablo Gavi,2026-04-04,Atlético Madrid,FC Barcelona,6.8,12,,,0.0,0,0,0.0,0.02,10,11,0,0,0,0,0,14
+Pablo Gavi,2026-04-08,FC Barcelona,Atlético Madrid,6.4,45,,,0.0,0,0,0.0,0.01,32,34,2,0,0,0,1,40
+Pablo Gavi,2026-04-11,FC Barcelona,Espanyol,7.1,64,,,0.0,0,0,0.0,0.02,40,41,1,0,0,0,3,53
+Pablo Gavi,2026-04-14,Atlético Madrid,FC Barcelona,7.1,81,,,0.0,0,0,0.15,0.02,44,47,1,0,3,0,2,68
+Pablo Gavi,2026-04-22,FC Barcelona,Celta Vigo,6.6,45,,,0.0,0,0,0.0,0.01,12,12,0,0,0,0,1,17
+Pablo Gavi,2026-04-25,Getafe,FC Barcelona,6.8,60,,,0.0,0,0,0.0,0.02,37,42,0,0,0,0,2,49
+Frenkie de Jong,2026-01-07,FC Barcelona,Athletic Club,6.8,64,,,0.0,0,0,0.0,0.0,68,73,0,0,1,0,0,82
+Frenkie de Jong,2026-01-11,FC Barcelona,Real Madrid,7.3,90,,,0.0,0,0,0.0,0.0,84,89,1,0,0,0,6,100
+Frenkie de Jong,2026-01-18,Real Sociedad,FC Barcelona,7.0,90,,,0.0,0,0,0.0,0.08,81,89,0,0,0,0,9,100
+Frenkie de Jong,2026-01-21,SK Slavia Praha,FC Barcelona,7.6,90,,,0.0,0,0,0.0,0.12,64,71,4,0,2,0,10,81
+Frenkie de Jong,2026-01-25,FC Barcelona,Real Oviedo,7.4,90,,,0.0,0,0,0.14,0.06,68,72,0,0,2,0,4,88
+Frenkie de Jong,2026-01-31,Elche,FC Barcelona,7.8,90,,,0.0,0,0,0.0,0.47,55,60,5,0,1,0,6,70
+Frenkie de Jong,2026-02-03,Albacete Balompié,FC Barcelona,7.8,90,,,0.0,0,0,0.0,0.0,80,83,1,0,0,0,5,92
+Frenkie de Jong,2026-02-07,FC Barcelona,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Frenkie de Jong,2026-02-12,Atlético Madrid,FC Barcelona,6.7,90,,,0.0,0,0,0.0,0.0,88,90,0,0,0,0,7,103
+Frenkie de Jong,2026-02-16,Girona FC,FC Barcelona,6.8,90,,,0.0,0,0,0.0,0.09,96,101,1,0,0,0,2,107
+Frenkie de Jong,2026-02-22,FC Barcelona,Levante UD,10.0,90,,,0.0,1,0,0.48,0.46,114,117,4,0,1,0,5,128
+Frenkie de Jong,2026-04-11,FC Barcelona,Espanyol,6.8,12,,,0.0,0,0,0.0,0.14,8,10,1,0,0,0,1,10
+Frenkie de Jong,2026-04-14,Atlético Madrid,FC Barcelona,7.0,9,,,0.0,0,0,0.0,0.01,25,26,0,0,0,0,4,31
+Frenkie de Jong,2026-04-22,FC Barcelona,Celta Vigo,6.8,17,,,0.0,0,0,0.0,0.01,17,17,0,0,0,0,0,19
+Frenkie de Jong,2026-04-25,Getafe,FC Barcelona,6.8,30,,,0.0,0,0,0.0,0.03,21,23,0,0,0,0,2,24
+Fermín López,2026-02-28,FC Barcelona,Villarreal,8.2,90,,,0.0,0,0,0.21,0.33,54,60,3,0,1,0,4,79
+Fermín López,2026-03-03,FC Barcelona,Atlético Madrid,7.0,64,,,0.0,0,0,0.0,0.0,20,22,1,0,1,0,0,39
+Fermín López,2026-03-07,Athletic Club,FC Barcelona,6.7,28,,,0.0,0,0,0.0,0.0,13,15,0,0,0,0,4,23
+Fermín López,2026-03-10,Newcastle United,FC Barcelona,6.8,88,,,0.0,0,0,0.15,0.04,20,22,2,0,0,0,4,38
+Fermín López,2026-03-15,FC Barcelona,Sevilla,6.8,45,,,0.0,0,0,0.0,0.2,20,23,2,0,0,0,3,38
+Fermín López,2026-03-18,FC Barcelona,Newcastle United,7.7,67,,,0.0,1,0,0.64,0.09,12,17,1,0,1,0,3,31
+Fermín López,2026-03-22,FC Barcelona,Rayo Vallecano,6.8,61,,,0.0,0,0,0.08,0.14,25,29,2,0,0,0,3,44
+Fermín López,2026-03-27,Spain,Serbia,7.5,45,,,0.0,0,0,0.0,0.0,28,30,2,0,1,0,0,40
+Fermín López,2026-03-31,Spain,Egypt,7.4,45,,,0.0,0,0,0.0,0.0,23,26,2,0,0,0,2,44
+Fermín López,2026-04-04,Atlético Madrid,FC Barcelona,6.7,45,,,0.0,0,0,0.39,0.26,15,16,1,0,0,0,0,25
+Fermín López,2026-04-08,FC Barcelona,Atlético Madrid,6.9,45,,,0.0,0,0,0.02,0.02,31,34,0,0,0,0,1,49
+Fermín López,2026-04-11,FC Barcelona,Espanyol,7.1,84,,,0.0,0,0,0.43,0.03,30,35,1,0,0,0,5,61
+Fermín López,2026-04-14,Atlético Madrid,FC Barcelona,6.2,68,,,0.0,0,0,0.16,0.08,33,37,0,0,0,0,5,51
+Fermín López,2026-04-22,FC Barcelona,Celta Vigo,7.1,45,,,0.0,0,0,0.04,0.01,24,27,0,0,0,0,2,41
+Fermín López,2026-04-25,Getafe,FC Barcelona,7.7,82,,,0.0,1,0,0.57,0.01,26,30,1,0,0,0,0,48
+Dani Olmo,2026-02-28,FC Barcelona,Villarreal,5.9,59,,,0.0,0,0,0.44,0.04,43,50,0,0,2,0,7,64
+Dani Olmo,2026-03-03,FC Barcelona,Atlético Madrid,6.6,26,,,0.0,0,0,0.0,0.0,9,13,1,0,0,0,1,17
+Dani Olmo,2026-03-07,Athletic Club,FC Barcelona,7.1,62,,,0.0,0,0,0.05,0.02,37,41,1,0,1,0,5,49
+Dani Olmo,2026-03-10,Newcastle United,FC Barcelona,7.0,20,,,0.0,0,0,0.0,0.0,14,15,0,0,0,0,0,20
+Dani Olmo,2026-03-15,FC Barcelona,Sevilla,8.1,90,,,0.0,1,0,0.51,0.19,49,56,1,0,1,0,9,74
+Dani Olmo,2026-03-18,FC Barcelona,Newcastle United,6.9,23,,,0.0,0,0,0.0,0.39,4,5,1,0,0,0,2,9
+Dani Olmo,2026-03-22,FC Barcelona,Rayo Vallecano,6.6,29,,,0.0,0,0,0.02,0.01,8,10,0,0,1,0,2,16
+Dani Olmo,2026-03-27,Spain,Serbia,6.8,45,,,0.0,0,0,0.0,0.0,19,21,0,0,0,0,1,26
+Dani Olmo,2026-03-31,Spain,Egypt,6.5,45,,,0.0,0,0,0.0,0.0,28,32,1,0,0,0,4,39
+Dani Olmo,2026-04-04,Atlético Madrid,FC Barcelona,6.9,90,,,0.0,0,0,0.06,0.4,34,39,4,0,0,0,1,54
+Dani Olmo,2026-04-08,FC Barcelona,Atlético Madrid,7.3,90,,,0.0,0,0,0.12,0.07,51,58,1,0,3,0,8,78
+Dani Olmo,2026-04-11,FC Barcelona,Espanyol,6.8,16,,,0.0,0,0,0.0,0.01,8,9,0,0,0,0,1,12
+Dani Olmo,2026-04-14,Atlético Madrid,FC Barcelona,6.7,89,,,0.0,0,0,0.31,0.33,46,55,2,0,0,0,5,74
+Dani Olmo,2026-04-22,FC Barcelona,Celta Vigo,6.6,73,,,0.0,0,0,0.24,0.03,31,35,1,0,0,0,3,52
+Dani Olmo,2026-04-25,Getafe,FC Barcelona,6.8,90,,,0.0,0,0,0.3,0.04,38,44,0,0,0,0,3,56
+Marc Bernal,2026-02-03,Albacete Balompié,FC Barcelona,6.7,66,,,0.0,0,0,0.0,0.0,36,37,1,0,0,0,1,47
+Marc Bernal,2026-02-07,FC Barcelona,Mallorca,7.9,23,,,0.0,1,0,0.38,0.01,9,12,2,0,0,0,1,16
+Marc Bernal,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Bernal,2026-02-16,Girona FC,FC Barcelona,6.8,10,,,0.0,0,0,0.0,0.02,10,10,1,0,0,0,1,14
+Marc Bernal,2026-02-22,FC Barcelona,Levante UD,8.0,66,,,0.0,1,0,0.27,0.06,46,46,0,0,1,0,0,58
+Marc Bernal,2026-02-28,FC Barcelona,Villarreal,6.6,67,,,0.0,0,0,0.03,0.03,53,59,0,0,2,0,3,70
+Marc Bernal,2026-03-03,FC Barcelona,Atlético Madrid,8.9,90,,,0.0,2,0,0.0,0.0,43,49,0,0,1,0,3,63
+Marc Bernal,2026-03-07,Athletic Club,FC Barcelona,7.1,45,,,0.0,0,0,0.0,0.01,30,31,0,0,1,0,3,41
+Marc Bernal,2026-03-10,Newcastle United,FC Barcelona,6.6,73,,,0.0,0,0,0.0,0.01,22,27,0,0,0,0,2,35
+Marc Bernal,2026-03-15,FC Barcelona,Sevilla,6.9,67,,,0.0,0,0,0.0,0.01,27,29,0,0,2,0,3,40
+Marc Bernal,2026-03-18,FC Barcelona,Newcastle United,7.4,90,,,0.0,1,0,0.25,0.04,41,46,0,0,1,0,6,58
+Marc Bernal,2026-03-22,FC Barcelona,Rayo Vallecano,7.0,61,,,0.0,0,0,0.0,0.01,28,32,0,0,0,0,3,45
+Marc Bernal,2026-03-27,Cyprus U21,Spain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Bernal,2026-03-31,Spain U21,Kosovo U21,6.8,57,,,0.0,0,0,0.0,0.0,28,33,0,0,1,0,3,39
+Marc Bernal,2026-04-04,Atlético Madrid,FC Barcelona,6.5,22,,,0.0,0,0,0.25,0.02,15,15,0,0,0,0,0,22
+Marc Casadó,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-03-07,Athletic Club,FC Barcelona,6.8,78,,,0.0,0,0,0.0,0.01,55,58,0,0,0,0,5,66
+Marc Casadó,2026-03-10,Newcastle United,FC Barcelona,6.7,17,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,0,7
+Marc Casadó,2026-03-15,FC Barcelona,Sevilla,6.7,23,,,0.0,0,0,0.0,0.01,14,16,0,0,1,0,0,21
+Marc Casadó,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-03-22,FC Barcelona,Rayo Vallecano,7.0,29,,,0.0,0,0,0.0,0.03,11,14,0,0,0,0,0,22
+Marc Casadó,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-04-11,FC Barcelona,Espanyol,6.6,45,,,0.0,0,0,0.0,0.01,22,25,1,0,0,0,0,30
+Marc Casadó,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Marc Casadó,2026-04-25,Getafe,FC Barcelona,,2,,,0.0,0,0,0.36,0.01,4,4,0,0,0,0,0,7
+Tomás Marqués,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-02-17,Barcelona Atlètic,FC Andorra,6.3,45,,,0.0,0,0,0.0,0.0,9,13,0,0,0,0,5,14
+Tomás Marqués,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tomás Marqués,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pau Cubarsí,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pau Cubarsí,2026-02-28,FC Barcelona,Villarreal,6.9,90,,,0.0,0,0,0.0,0.01,89,93,0,0,2,0,2,101
+Pau Cubarsí,2026-03-03,FC Barcelona,Atlético Madrid,8.0,90,,,0.0,0,0,0.0,0.0,108,114,0,0,1,0,6,128
+Pau Cubarsí,2026-03-07,Athletic Club,FC Barcelona,6.6,90,,,0.0,0,0,0.03,0.01,100,105,0,0,1,0,5,116
+Pau Cubarsí,2026-03-10,Newcastle United,FC Barcelona,7.2,90,,,0.0,0,0,0.0,0.0,52,60,0,0,0,0,3,72
+Pau Cubarsí,2026-03-15,FC Barcelona,Sevilla,7.2,90,,,0.0,0,0,0.0,0.02,111,117,0,0,1,0,4,129
+Pau Cubarsí,2026-03-18,FC Barcelona,Newcastle United,6.3,90,,,0.0,0,0,0.0,0.01,58,63,0,0,3,0,1,72
+Pau Cubarsí,2026-03-22,FC Barcelona,Rayo Vallecano,7.1,90,,,0.0,0,0,0.0,0.02,75,82,0,0,2,0,1,92
+Pau Cubarsí,2026-03-27,Spain,Serbia,7.6,83,,,0.0,0,0,0.0,0.0,91,94,1,0,0,0,1,100
+Pau Cubarsí,2026-03-31,Spain,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pau Cubarsí,2026-04-04,Atlético Madrid,FC Barcelona,7.0,90,,,0.0,0,0,0.0,0.02,79,84,0,0,2,0,8,96
+Pau Cubarsí,2026-04-08,FC Barcelona,Atlético Madrid,5.9,44,,,0.0,0,0,0.0,0.01,45,48,0,0,1,0,4,53
+Pau Cubarsí,2026-04-11,FC Barcelona,Espanyol,7.1,90,,,0.0,0,0,0.0,0.01,128,134,1,0,0,0,0,147
+Pau Cubarsí,2026-04-22,FC Barcelona,Celta Vigo,7.6,90,,,0.0,0,0,0.0,0.03,114,117,0,0,0,0,4,126
+Pau Cubarsí,2026-04-25,Getafe,FC Barcelona,8.5,90,,,0.0,0,0,0.0,0.02,91,95,0,0,0,0,3,112
+Jules Koundé,2026-01-28,FC Barcelona,FC København,6.3,90,,,0.0,0,0,0.0,0.05,109,114,1,0,1,0,5,129
+Jules Koundé,2026-01-31,Elche,FC Barcelona,6.9,84,,,0.0,0,0,0.0,0.17,52,55,1,0,1,0,2,68
+Jules Koundé,2026-02-03,Albacete Balompié,FC Barcelona,6.4,12,,,0.0,0,0,0.0,0.0,12,16,0,0,0,0,2,20
+Jules Koundé,2026-02-07,FC Barcelona,Mallorca,6.7,90,,,0.0,0,0,0.09,0.02,76,84,2,0,2,0,4,104
+Jules Koundé,2026-02-12,Atlético Madrid,FC Barcelona,8.2,90,,,0.0,0,0,0.0,0.0,70,80,3,0,1,0,4,102
+Jules Koundé,2026-02-16,Girona FC,FC Barcelona,6.5,90,,,0.0,0,0,0.0,0.12,91,99,2,0,3,0,2,126
+Jules Koundé,2026-02-22,FC Barcelona,Levante UD,7.0,90,,,0.0,0,0,0.2,0.33,99,103,2,0,0,0,3,123
+Jules Koundé,2026-02-28,FC Barcelona,Villarreal,8.2,90,,,0.0,0,0,0.29,0.64,101,110,3,0,4,0,7,140
+Jules Koundé,2026-03-03,FC Barcelona,Atlético Madrid,6.7,13,,,0.0,0,0,0.0,0.0,14,15,0,0,0,0,0,18
+Jules Koundé,2026-04-04,Atlético Madrid,FC Barcelona,6.8,28,,,0.0,0,0,0.0,0.05,33,35,0,0,0,0,0,43
+Jules Koundé,2026-04-08,FC Barcelona,Atlético Madrid,6.3,73,,,0.0,0,0,0.0,0.01,46,47,1,0,1,0,1,56
+Jules Koundé,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Jules Koundé,2026-04-14,Atlético Madrid,FC Barcelona,6.7,90,,,0.0,0,0,0.0,0.03,60,66,0,0,1,0,2,86
+Jules Koundé,2026-04-22,FC Barcelona,Celta Vigo,7.0,90,,,0.0,0,0,0.0,0.05,82,86,0,0,2,0,4,107
+Jules Koundé,2026-04-25,Getafe,FC Barcelona,7.2,60,,,0.0,0,0,0.02,0.11,62,66,2,0,0,0,1,82
+Alejandro Balde,2026-01-28,FC Barcelona,FC København,7.1,90,,,0.0,0,0,0.0,0.13,64,71,2,0,0,0,1,85
+Alejandro Balde,2026-01-31,Elche,FC Barcelona,7.3,90,,,0.0,0,0,0.0,0.2,47,51,3,0,0,0,7,73
+Alejandro Balde,2026-02-03,Albacete Balompié,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Alejandro Balde,2026-02-07,FC Barcelona,Mallorca,6.9,90,,,0.0,0,0,0.0,0.05,84,89,1,0,0,0,6,112
+Alejandro Balde,2026-02-12,Atlético Madrid,FC Barcelona,5.8,77,,,0.0,0,0,0.0,0.0,41,45,0,0,0,0,3,56
+Alejandro Balde,2026-02-16,Girona FC,FC Barcelona,6.2,27,,,0.0,0,0,0.0,0.03,19,22,1,0,0,0,0,27
+Alejandro Balde,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Alejandro Balde,2026-02-28,FC Barcelona,Villarreal,6.7,90,,,0.0,0,0,0.0,0.04,70,74,0,0,0,0,6,93
+Alejandro Balde,2026-03-03,FC Barcelona,Atlético Madrid,7.2,58,,,0.0,0,0,0.0,0.0,41,42,1,0,0,0,2,51
+Alejandro Balde,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Alejandro Balde,2026-04-08,FC Barcelona,Atlético Madrid,6.8,8,,,0.0,0,0,0.0,0.01,7,7,0,0,0,0,1,8
+Alejandro Balde,2026-04-11,FC Barcelona,Espanyol,6.5,64,,,0.0,0,0,0.0,0.03,43,45,0,0,0,0,1,55
+Alejandro Balde,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Alejandro Balde,2026-04-22,FC Barcelona,Celta Vigo,7.0,67,,,0.0,0,0,0.0,0.02,48,51,0,0,0,0,4,61
+Alejandro Balde,2026-04-25,Getafe,FC Barcelona,6.7,8,,,0.0,0,0,0.0,0.0,9,9,0,0,0,0,1,9
+Ronald Araújo,2026-02-28,FC Barcelona,Villarreal,6.8,23,,,0.0,0,0,0.0,0.0,22,22,0,0,0,0,1,24
+Ronald Araújo,2026-03-03,FC Barcelona,Atlético Madrid,6.6,19,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,2
+Ronald Araújo,2026-03-07,Athletic Club,FC Barcelona,6.7,12,,,0.0,0,0,0.0,0.0,10,13,0,0,0,0,0,14
+Ronald Araújo,2026-03-10,Newcastle United,FC Barcelona,6.7,88,,,0.0,0,0,0.17,0.01,32,38,0,0,1,0,2,62
+Ronald Araújo,2026-03-15,FC Barcelona,Sevilla,6.3,24,,,0.0,0,0,0.47,0.0,29,30,0,0,0,0,1,32
+Ronald Araújo,2026-03-18,FC Barcelona,Newcastle United,7.1,68,,,0.0,0,0,0.1,0.01,43,48,0,0,0,0,1,66
+Ronald Araújo,2026-03-22,FC Barcelona,Rayo Vallecano,8.1,90,,,0.0,1,0,0.22,0.02,61,69,1,0,1,0,8,85
+Ronald Araújo,2026-03-27,England,Uruguay,7.1,90,,,0.0,0,0,0.0,0.0,46,53,0,0,3,0,1,65
+Ronald Araújo,2026-03-31,Algeria,Uruguay,7.0,45,,,0.0,0,0,0.0,0.0,33,35,0,0,0,0,1,41
+Ronald Araújo,2026-04-04,Atlético Madrid,FC Barcelona,6.5,40,,,0.0,0,0,0.0,0.0,28,30,0,0,0,0,1,39
+Ronald Araújo,2026-04-08,FC Barcelona,Atlético Madrid,6.7,17,,,0.0,0,0,0.11,0.02,11,11,1,0,0,0,0,13
+Ronald Araújo,2026-04-11,FC Barcelona,Espanyol,7.3,90,,,0.0,0,0,0.05,0.25,71,75,1,0,0,0,1,89
+Ronald Araújo,2026-04-14,Atlético Madrid,FC Barcelona,6.2,10,,,0.0,0,0,0.14,0.0,0,2,0,0,0,0,0,3
+Ronald Araújo,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Ronald Araújo,2026-04-25,Getafe,FC Barcelona,7.1,30,,,0.0,0,0,0.03,0.0,14,19,0,0,0,0,0,31
+João Cancelo,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+João Cancelo,2026-03-03,FC Barcelona,Atlético Madrid,8.4,90,,,0.0,0,0,0.0,0.0,77,83,2,0,0,0,3,112
+João Cancelo,2026-03-07,Athletic Club,FC Barcelona,6.7,90,,,0.0,0,0,0.04,0.02,62,72,0,0,3,0,7,97
+João Cancelo,2026-03-10,Newcastle United,FC Barcelona,6.6,90,,,0.0,0,0,0.05,0.01,28,36,0,0,2,0,3,62
+João Cancelo,2026-03-15,FC Barcelona,Sevilla,8.3,66,,,0.0,1,0,0.11,0.02,18,24,0,0,1,0,2,41
+João Cancelo,2026-03-18,FC Barcelona,Newcastle United,6.7,66,,,0.0,0,0,0.0,0.25,25,31,0,0,1,0,3,55
+João Cancelo,2026-03-22,FC Barcelona,Rayo Vallecano,8.0,89,,,0.0,0,0,0.02,0.25,26,30,2,0,2,0,6,64
+João Cancelo,2026-03-29,Mexico,Portugal,6.9,45,,,0.0,0,0,0.0,0.0,24,27,0,0,0,0,0,39
+João Cancelo,2026-04-01,USA,Portugal,6.4,45,,,0.0,0,0,0.0,0.0,12,15,0,0,1,0,1,26
+João Cancelo,2026-04-04,Atlético Madrid,FC Barcelona,6.6,90,,,0.0,0,0,0.1,0.18,43,48,3,0,1,0,7,73
+João Cancelo,2026-04-08,FC Barcelona,Atlético Madrid,6.4,86,,,0.0,0,0,0.08,0.08,49,56,1,0,1,0,5,76
+João Cancelo,2026-04-11,FC Barcelona,Espanyol,7.1,26,,,0.0,0,0,0.05,0.02,23,24,0,0,0,0,3,31
+João Cancelo,2026-04-14,Atlético Madrid,FC Barcelona,6.8,89,,,0.0,0,0,0.0,0.06,51,58,0,0,0,0,5,82
+João Cancelo,2026-04-22,FC Barcelona,Celta Vigo,6.8,23,,,0.0,0,0,0.0,0.0,8,9,0,0,0,0,2,15
+João Cancelo,2026-04-25,Getafe,FC Barcelona,7.6,90,,,0.0,0,0,0.0,0.25,46,56,3,0,0,0,3,80
+Andreas Christensen,2025-10-05,Sevilla,FC Barcelona,6.0,13,,,0.0,0,0,0.0,0.0,5,7,0,0,0,0,0,7
+Andreas Christensen,2025-10-09,Belarus,Denmark,8.9,90,,,0.0,0,0,0.0,0.0,107,112,2,0,2,0,11,134
+Andreas Christensen,2025-10-12,Denmark,Greece,6.7,90,,,0.0,0,0,0.0,0.0,45,49,1,0,1,0,3,74
+Andreas Christensen,2025-10-18,FC Barcelona,Girona FC,6.7,27,,,0.0,0,0,0.0,0.02,32,34,0,0,0,0,3,38
+Andreas Christensen,2025-11-09,Celta Vigo,FC Barcelona,6.7,12,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2
+Andreas Christensen,2025-11-15,Denmark,Belarus,7.1,90,,,0.0,0,0,0.0,0.0,80,91,1,0,1,0,9,106
+Andreas Christensen,2025-11-18,Scotland,Denmark,7.1,90,,,0.0,0,0,0.0,0.0,91,98,2,0,0,0,8,113
+Andreas Christensen,2025-11-22,FC Barcelona,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Andreas Christensen,2025-11-25,Chelsea,FC Barcelona,6.5,28,,,0.0,0,0,0.01,0.0,7,9,0,0,0,0,3,13
+Andreas Christensen,2025-11-29,FC Barcelona,Deportivo Alavés,6.7,12,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,1,7
+Andreas Christensen,2025-12-02,FC Barcelona,Atlético Madrid,6.7,10,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1
+Andreas Christensen,2025-12-06,Real Betis,FC Barcelona,6.4,45,,,0.0,0,0,0.0,0.0,21,23,0,0,0,0,2,30
+Andreas Christensen,2025-12-09,FC Barcelona,Eintracht Frankfurt,,1,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,1,2
+Andreas Christensen,2025-12-13,FC Barcelona,Osasuna,,2,,,0.0,0,0,0.0,0.0,7,7,0,0,0,0,0,8
+Andreas Christensen,2025-12-16,Guadalajara,FC Barcelona,9.4,86,,,0.0,1,0,0.0,0.0,98,101,0,0,2,0,11,119
+Eric García,2026-02-07,FC Barcelona,Mallorca,8.1,90,,,0.0,0,0,0.0,0.05,98,104,2,0,1,0,6,120
+Eric García,2026-02-12,Atlético Madrid,FC Barcelona,4.9,85,,,0.0,0,0,0.0,0.0,87,90,1,0,2,0,2,100
+Eric García,2026-02-16,Girona FC,FC Barcelona,6.4,73,,,0.0,0,0,0.22,0.05,71,75,0,0,0,0,5,80
+Eric García,2026-02-22,FC Barcelona,Levante UD,8.4,90,,,0.0,0,0,0.05,0.39,118,120,1,0,0,0,5,132
+Eric García,2026-02-28,FC Barcelona,Villarreal,7.5,90,,,0.0,0,0,0.0,0.06,98,103,1,0,3,0,5,112
+Eric García,2026-03-07,Athletic Club,FC Barcelona,7.5,90,,,0.0,0,0,0.0,0.01,62,68,0,0,3,0,2,96
+Eric García,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eric García,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eric García,2026-03-18,FC Barcelona,Newcastle United,6.2,22,,,0.0,0,0,0.0,0.0,5,7,0,0,0,0,1,8
+Eric García,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eric García,2026-04-04,Atlético Madrid,FC Barcelona,6.8,78,,,0.0,0,0,0.0,0.05,42,42,0,0,0,0,4,48
+Eric García,2026-04-08,FC Barcelona,Atlético Madrid,7.0,90,,,0.0,0,0,0.0,0.08,78,85,2,0,1,0,5,93
+Eric García,2026-04-11,FC Barcelona,Espanyol,7.6,90,,,0.0,0,0,0.03,0.29,68,72,2,0,1,0,1,89
+Eric García,2026-04-14,Atlético Madrid,FC Barcelona,6.5,79,,,0.0,0,0,0.0,0.02,82,87,0,0,2,0,2,99
+Eric García,2026-04-22,FC Barcelona,Celta Vigo,6.9,90,,,0.0,0,0,0.0,0.04,60,67,1,0,2,0,2,77
+Gerard Martín,2026-02-12,Atlético Madrid,FC Barcelona,6.7,3,,,0.0,0,0,0.0,0.0,10,11,0,0,0,0,1,13
+Gerard Martín,2026-02-16,Girona FC,FC Barcelona,6.5,63,,,0.0,0,0,0.0,0.05,32,34,1,0,2,0,4,47
+Gerard Martín,2026-02-22,FC Barcelona,Levante UD,6.8,88,,,0.0,0,0,0.0,0.02,62,67,0,0,0,0,1,72
+Gerard Martín,2026-03-03,FC Barcelona,Atlético Madrid,7.7,90,,,0.0,0,0,0.0,0.0,94,99,0,0,0,0,3,118
+Gerard Martín,2026-03-07,Athletic Club,FC Barcelona,7.7,90,,,0.0,0,0,0.0,0.02,96,103,0,0,1,0,2,115
+Gerard Martín,2026-03-10,Newcastle United,FC Barcelona,7.0,90,,,0.0,0,0,0.0,0.01,43,50,0,0,1,0,0,65
+Gerard Martín,2026-03-15,FC Barcelona,Sevilla,6.6,90,,,0.0,0,0,0.04,0.04,95,102,0,0,3,0,1,114
+Gerard Martín,2026-03-18,FC Barcelona,Newcastle United,7.1,90,,,0.0,0,0,0.0,0.26,59,64,1,0,0,0,3,77
+Gerard Martín,2026-03-22,FC Barcelona,Rayo Vallecano,7.0,90,,,0.0,0,0,0.05,0.08,49,56,1,0,0,0,4,73
+Gerard Martín,2026-04-04,Atlético Madrid,FC Barcelona,6.7,90,,,0.0,0,0,0.0,0.02,67,72,0,0,1,0,2,79
+Gerard Martín,2026-04-08,FC Barcelona,Atlético Madrid,6.8,90,,,0.0,0,0,0.02,0.03,94,100,0,0,2,0,4,114
+Gerard Martín,2026-04-11,FC Barcelona,Espanyol,7.1,45,,,0.0,0,0,0.0,0.02,57,61,0,0,0,0,1,66
+Gerard Martín,2026-04-14,Atlético Madrid,FC Barcelona,7.8,90,,,0.0,0,0,0.0,0.03,81,86,0,0,0,0,1,102
+Gerard Martín,2026-04-22,FC Barcelona,Celta Vigo,7.8,90,,,0.0,0,0,0.0,0.03,93,100,0,0,3,0,2,117
+Gerard Martín,2026-04-25,Getafe,FC Barcelona,7.1,90,,,0.0,0,0,0.04,0.02,82,87,0,0,2,0,2,99
+Xavi Espart,2026-02-17,Barcelona Atlètic,FC Andorra,6.5,45,,,0.0,0,0,0.0,0.0,11,14,0,0,1,0,1,31
+Xavi Espart,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-03-10,Newcastle United,FC Barcelona,6.8,9,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4
+Xavi Espart,2026-03-15,FC Barcelona,Sevilla,6.6,90,,,0.0,0,0,0.0,0.01,49,56,0,0,5,0,4,86
+Xavi Espart,2026-03-18,FC Barcelona,Newcastle United,6.7,24,,,0.0,0,0,0.0,0.01,15,15,1,0,0,0,1,21
+Xavi Espart,2026-03-22,FC Barcelona,Rayo Vallecano,,1,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,2
+Xavi Espart,2026-03-25,Spain U19,Slovenia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-03-31,Netherlands U19,Spain U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Xavi Espart,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2025-10-11,Spain U20,Colombia U20,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-02-17,Barcelona Atlètic,FC Andorra,6.9,90,,,0.0,0,0,0.0,0.0,45,53,1,0,0,0,4,65
+Álvaro Cortés,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Álvaro Cortés,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Joan García,2026-02-22,FC Barcelona,Levante UD,7.3,90,,,0.0,0,0,0.0,0.0,19,19,0,0,0,0,9,30
+Joan García,2026-02-28,FC Barcelona,Villarreal,7.0,90,,,0.0,0,0,0.0,0.0,22,23,0,0,0,0,3,28
+Joan García,2026-03-03,FC Barcelona,Atlético Madrid,7.9,90,,,0.0,0,0,0.0,0.0,29,30,0,0,0,0,7,36
+Joan García,2026-03-07,Athletic Club,FC Barcelona,8.1,90,,,0.0,0,0,0.0,0.0,36,45,0,0,0,0,10,60
+Joan García,2026-03-10,Newcastle United,FC Barcelona,6.8,90,,,0.0,0,0,0.0,0.0,25,37,0,0,0,0,13,53
+Joan García,2026-03-15,FC Barcelona,Sevilla,6.6,90,,,0.0,0,0,0.0,0.0,31,32,0,0,0,0,6,40
+Joan García,2026-03-18,FC Barcelona,Newcastle United,6.4,82,,,0.0,0,0,0.0,0.0,24,27,0,0,0,0,10,35
+Joan García,2026-03-22,FC Barcelona,Rayo Vallecano,8.5,90,,,0.0,0,0,0.0,0.0,23,26,0,0,1,0,7,40
+Joan García,2026-03-31,Spain,Egypt,6.6,28,,,0.0,0,0,0.0,0.0,5,5,0,0,0,0,2,7
+Joan García,2026-04-04,Atlético Madrid,FC Barcelona,6.7,90,,,0.0,0,0,0.0,0.0,32,33,0,0,0,0,6,40
+Joan García,2026-04-08,FC Barcelona,Atlético Madrid,6.6,90,,,0.0,0,0,0.0,0.0,18,22,0,0,0,0,2,26
+Joan García,2026-04-11,FC Barcelona,Espanyol,6.6,90,,,0.0,0,0,0.0,0.0,37,40,0,0,0,0,11,49
+Joan García,2026-04-14,Atlético Madrid,FC Barcelona,7.6,90,,,0.0,0,0,0.0,0.0,28,31,0,0,0,0,7,40
+Joan García,2026-04-22,FC Barcelona,Celta Vigo,8.1,90,,,0.0,0,0,0.0,0.0,26,28,0,0,0,0,9,38
+Joan García,2026-04-25,Getafe,FC Barcelona,6.7,90,,,0.0,0,0,0.0,0.0,24,30,0,0,0,0,7,39
+Wojciech Szczęsny,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-03-18,FC Barcelona,Newcastle United,6.7,8,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,1,6
+Wojciech Szczęsny,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Wojciech Szczęsny,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-02-03,Albacete Balompié,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-02-07,FC Barcelona,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Diego Kochen,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-10-18,FC Barcelona,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-10-21,FC Barcelona,Olympiacos FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-10-26,Real Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-11-02,FC Barcelona,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-11-05,Club Brugge KV,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-11-09,Celta Vigo,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-11-25,Chelsea U19,Barcelona U19,7.3,90,,,0.0,0,0,0.0,0.0,19,25,0,0,0,0,11,37
+Eder Aller,2025-11-29,FC Barcelona,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-12-06,Real Betis,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2025-12-09,Barcelona U19,Eintracht Frankfurt U19,6.0,90,,,0.0,0,0,0.0,0.0,9,10,0,0,0,0,9,22
+Eder Aller,2026-02-17,Barcelona Atlètic,FC Andorra,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eder Aller,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0

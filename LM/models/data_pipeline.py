@@ -38,15 +38,15 @@ def run_full_pipeline(nb_pages=10, retrain=False, saison_debut='2024-08-01'):
     print("═" * 70)
 
     from DATA_PIPELINE.SCRAPPING.scripts.sofascore_match_scraper import scraper_equipe_match_par_match
-    from DATA_PIPELINE.NETTOYAGE.scripts.data_cleaner import run_cleaning_pipeline
-    from LM.pipeline.feature_engineering import run_feature_engineering
+    from DATA_PIPELINE.NETTOYAGE.scripts.data_cleaner import clean_and_merge_data
+    from LM.models.feature_engineering import run_feature_engineering
     from LM.models.train import entrainer_tous_les_modeles
     from LM.models.anomaly_detector import detecter_anomalies
     from LM.models.injury_predictor import predire_risque_blessure
 
-    all_cleaned_matchs = []
+    # ── Étape 1 : Scraping ──
     for equipe_nom in teams:
-        print(f"\n🔄 TRAITEMENT DE L'ÉQUIPE : {equipe_nom.upper()}")
+        print(f"\n🔄 SCRAPING DE L'ÉQUIPE : {equipe_nom.upper()}")
         print("-" * 50)
         
         # Chercher le fichier (avec ou sans préfixe 'equipe_')
@@ -54,40 +54,26 @@ def run_full_pipeline(nb_pages=10, retrain=False, saison_debut='2024-08-01'):
         if not matchs_csv.exists():
             matchs_csv = data_dir / f"brut_equipe_{equipe_nom.replace(' ', '_')}.csv"
         
-        # ── Étape 1 : Scraping ──
         if not matchs_csv.exists():
-            print(f"\n📥 [1/2] Scraping match par match pour {equipe_nom}...")
+            print(f"\n📥 Scraping match par match pour {equipe_nom}...")
             df_raw = scraper_equipe_match_par_match(
                 equipe_nom=equipe_nom, nb_pages=nb_pages, saison_debut=saison_debut
             )
-            if df_raw is None or df_raw.empty:
-                print(f"❌ Aucune donnée pour {equipe_nom}. On passe à la suivante.")
-                continue
         else:
-            print(f"\n✅ [1/2] Données scrapées trouvées : {matchs_csv.name}")
+            print(f"\n✅ Données scrapées trouvées : {matchs_csv.name}")
 
-        # ── Étape 2 : Nettoyage ──
-        print(f"🧹 [2/2] Nettoyage contextuel pour {equipe_nom}...")
-        df_matchs = run_cleaning_pipeline(
-            matchs_csv_path=str(matchs_csv)
-        )
-
-        if not df_matchs.empty:
-            # Assurer que la colonne Equipe est présente
-            if 'Equipe' not in df_matchs.columns:
-                df_matchs['Equipe'] = equipe_nom
-            all_cleaned_matchs.append(df_matchs)
-        else:
-            print(f"❌ Aucune donnée propre pour {equipe_nom}.")
-
-    if not all_cleaned_matchs:
-        print("\n❌ ERREUR CRITIQUE : Aucune donnée propre disponible pour aucune équipe.")
+    # ── Étape 2 : Nettoyage Global ──
+    print("\n" + "═" * 70)
+    print("🧹 ÉTAPE 2 — Consolidation et Nettoyage Global...")
+    clean_and_merge_data()
+    
+    # Charger le dataset nettoyé
+    clean_path = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
+    if not clean_path.exists():
+        print(f"\n❌ ERREUR : Fichier {clean_path} introuvable après nettoyage.")
         return
-
-    # Fusion de toutes les données d'équipe
-    print("\n🔗 FUSION DES DONNÉES DE TOUTE LA LIGUE...")
-    df_combined = pd.concat(all_cleaned_matchs, ignore_index=True)
-    print(f"   📊 Shape combinée globale : {df_combined.shape}")
+        
+    df_combined = pd.read_csv(clean_path)
 
     # ── Étape 3 : Feature Engineering Global ──
     print("\n⚙️  ÉTAPE 3 — Feature Engineering sur le dataset global...")
@@ -97,7 +83,7 @@ def run_full_pipeline(nb_pages=10, retrain=False, saison_debut='2024-08-01'):
         print("❌ Aucune feature générée.")
         return
         
-    # On sauvegarde au cas où
+    # On sauvegarde
     output_dir = ROOT / "data" / "processed"
     output_dir.mkdir(parents=True, exist_ok=True)
     df_features.to_csv(output_dir / "features_dataset.csv", index=False)

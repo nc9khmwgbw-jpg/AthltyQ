@@ -1,16 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Thiago Almada,2026-02-28,Real Oviedo,Atlético Madrid,6.8,72,7858.0,15.0,109.14,0,0,0.03,0.05,37,41,2,0,1,0,5,56,0,1.91
-Thiago Almada,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Thiago Almada,2026-03-07,Atlético Madrid,Real Sociedad,6.7,54,5888.0,12.0,109.04,0,0,0.0,0.11,30,33,2,0,1,0,2,46,0,2.04
-Thiago Almada,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Thiago Almada,2026-03-14,Atlético Madrid,Getafe,6.6,66,7127.0,13.0,107.98,0,0,0.0,0.02,18,24,0,0,0,0,3,38,0,1.82
-Thiago Almada,2026-03-18,Tottenham Hotspur,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Thiago Almada,2026-03-22,Real Madrid,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Thiago Almada,2026-03-28,Argentina,Mauritania,6.8,75,8290.0,14.0,110.53,0,0,0.0,0.0,67,76,1,0,0,0,3,90,0,1.69
-Thiago Almada,2026-04-01,Argentina,Zambia,7.7,74,8122.0,14.0,109.76,0,0,0.0,0.0,62,68,1,0,0,0,3,75,0,1.72
-Thiago Almada,2026-04-04,Atlético Madrid,FC Barcelona,6.6,90,9718.0,19.0,107.98,0,0,0.0,0.01,22,27,0,0,1,0,3,55,0,1.96
-Thiago Almada,2026-04-08,FC Barcelona,Atlético Madrid,6.5,10,1100.0,2.0,110.0,0,0,0.0,0.0,6,6,0,0,0,0,2,6,0,1.82
-Thiago Almada,2026-04-11,Sevilla,Atlético Madrid,6.8,90,9798.0,17.0,108.87,0,0,0.04,0.52,49,58,2,0,0,0,1,80,0,1.74
-Thiago Almada,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Thiago Almada,2026-04-18,Atlético Madrid,Real Sociedad,7.7,50,5610.0,11.0,112.2,0,0,0.0,0.0,40,43,1,0,1,0,9,59,0,1.96
-Thiago Almada,2026-04-22,Elche,Atlético Madrid,4.5,30,3230.0,6.0,107.67,0,0,0.0,0.01,7,8,0,0,0,0,2,13,0,1.86
+Thiago Almada,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Thiago Almada,2026-03-07,Atlético Madrid,Real Sociedad,6.7,54,5888.0,12.0,109.04,0,0,0.0,0.11,30,33,2,0,1,0,2,46,0.0,2.04
+Thiago Almada,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Thiago Almada,2026-03-14,Atlético Madrid,Getafe,6.6,66,7127.0,13.0,107.98,0,0,0.0,0.02,18,24,0,0,0,0,3,38,0.0,1.82
+Thiago Almada,2026-03-18,Tottenham Hotspur,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Thiago Almada,2026-03-22,Real Madrid,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Thiago Almada,2026-03-28,Argentina,Mauritania,6.8,75,8290.0,14.0,110.53,0,0,0.0,0.0,67,76,1,0,0,0,3,90,0.0,1.69
+Thiago Almada,2026-04-01,Argentina,Zambia,7.7,74,8122.0,14.0,109.76,0,0,0.0,0.0,62,68,1,0,0,0,3,75,0.0,1.72
+Thiago Almada,2026-04-04,Atlético Madrid,FC Barcelona,6.6,90,9718.0,19.0,107.98,0,0,0.0,0.01,22,27,0,0,1,0,3,55,0.0,1.96
+Thiago Almada,2026-04-08,FC Barcelona,Atlético Madrid,6.5,10,1100.0,2.0,110.0,0,0,0.0,0.0,6,6,0,0,0,0,2,6,0.0,1.82
+Thiago Almada,2026-04-11,Sevilla,Atlético Madrid,6.8,90,9798.0,17.0,108.87,0,0,0.04,0.52,49,58,2,0,0,0,1,80,0.0,1.74
+Thiago Almada,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Thiago Almada,2026-04-18,Atlético Madrid,Real Sociedad,7.7,50,5610.0,11.0,112.2,0,0,0.0,0.0,40,43,1,0,1,0,9,59,0.0,1.96
+Thiago Almada,2026-04-22,Elche,Atlético Madrid,4.5,30,3230.0,6.0,107.67,0,0,0.0,0.01,7,8,0,0,0,0,2,13,0.0,1.86
+Thiago Almada,2026-04-29,Atlético Madrid,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0

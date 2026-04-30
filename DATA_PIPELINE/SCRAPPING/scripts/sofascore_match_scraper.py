@@ -98,16 +98,11 @@ def charger_joueurs_depuis_csv(csv_path):
 # 3. EXTRACTION DES MATCHS VIA SELENIUM + JS FETCH
 # ══════════════════════════════════════════════════════════════════════
 
-def extraire_matchs_joueur(driver, player_id, player_name, nb_pages=10, saison_debut='2024-08-01', total_match_limit=15):
+def extraire_matchs_joueur(driver, player_id, player_name, nb_pages=10, saison_debut='2024-08-01', total_match_limit=15, last_scraped_date=None):
     all_match_data_pool = []
     date_cutoff = datetime.strptime(saison_debut, '%Y-%m-%d')
 
-    try:
-        driver.get(f"https://www.sofascore.com/player/player/{player_id}")
-        time.sleep(2)
-    except: pass
-
-    # Collecte du pool de matchs
+    # Collecte du pool de matchs (via API ultra-rapide)
     for page in range(nb_pages):
         js_script = f"return await fetch('https://api.sofascore.com/api/v1/player/{player_id}/events/last/{page}').then(r => r.json()).catch(e => ({{}}));"
         try:
@@ -119,10 +114,16 @@ def extraire_matchs_joueur(driver, player_id, player_name, nb_pages=10, saison_d
                 if event.get('status', {}).get('type') != 'finished': continue
                 ts = event.get('startTimestamp', 0)
                 dt = datetime.fromtimestamp(ts)
+                dt_str = dt.strftime('%Y-%m-%d')
+                
                 if dt < date_cutoff: continue 
                 
+                # OPTIMISATION INCRÉMENTALE : Si ce match est déjà dans notre CSV, on l'ignore
+                if last_scraped_date and dt_str <= last_scraped_date:
+                    continue
+                
                 all_match_data_pool.append({
-                    'id': event.get('id'), 'date': dt.strftime('%Y-%m-%d'), 'dt_obj': dt,
+                    'id': event.get('id'), 'date': dt_str, 'dt_obj': dt,
                     'home': event.get('homeTeam', {}).get('name', 'Unknown'),
                     'away': event.get('awayTeam', {}).get('name', 'Unknown'),
                     'tournament': event.get('tournament', {}).get('name', 'Unknown'),
@@ -215,6 +216,67 @@ def get_players_in_team(team_id, driver=None):
         response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
         return [{'id': p['player']['id'], 'name': p['player']['name']} for p in response.json().get('players', [])]
     except: return []
+
+def scraper_equipe_match_par_match(equipe_nom, nb_pages=10, saison_debut='2024-08-01'):
+    """
+    Scrape tous les matchs de tous les joueurs d'une équipe donnée.
+    Utilisé par l'orchestrateur pour les nouvelles équipes.
+    """
+    print(f"🚀 Démarrage du scraping complet pour l'équipe : {equipe_nom}")
+    driver = creer_driver(headless=True)
+    
+    try:
+        # Mapping rapide pour les IDs d'équipes communes (ou recherche dynamique)
+        team_mapping = {
+            "Fc Barcelona": 2817,
+            "Real Madrid": 2829,
+            "Arsenal": 42,
+            "Manchester City": 17,
+            "Chelsea": 38,
+            "Liverpool": 44,
+            "Paris Saint Germain": 1644,
+            "Monaco": 1617
+        }
+        
+        team_id = team_mapping.get(equipe_nom)
+        if not team_id:
+            print(f"⚠️ Équipe {equipe_nom} non référencée. Tentative avec ID par défaut (Barça).")
+            team_id = 2817 # Default
+            
+        # 1. Récupérer les joueurs
+        print(f"👥 Récupération des joueurs pour {equipe_nom} (ID: {team_id})...")
+        joueurs = get_players_in_team(team_id, driver=driver)
+        
+        if not joueurs:
+            print("❌ Aucun joueur trouvé.")
+            return None
+            
+        all_results = []
+        for i, p in enumerate(joueurs):
+            print(f"🕒 [{i+1}/{len(joueurs)}] Scraping : {p['name']}...")
+            try:
+                res = extraire_matchs_joueur(driver, p['id'], p['name'], nb_pages=nb_pages, saison_debut=saison_debut)
+                if res:
+                    all_results.extend(res)
+            except Exception as e:
+                print(f"   ⚠️ Erreur pour {p['name']}: {e}")
+                
+        if not all_results:
+            return None
+            
+        df = pd.DataFrame(all_results)
+        
+        # Sauvegarde
+        root = Path(__file__).resolve().parents[3]
+        save_path = root / "DATA_PIPELINE" / "SCRAPPING" / "data" / f"brut_{equipe_nom.replace(' ', '_')}.csv"
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        df.to_csv(save_path, index=False, encoding='utf-8-sig')
+        print(f"✅ Scraping terminé. {len(df)} lignes sauvegardées dans {save_path.name}")
+        
+        return df
+        
+    finally:
+        driver.quit()
 
 if __name__ == "__main__":
     print("🚀 Moteur AthlytIQ Physique Prêt.")

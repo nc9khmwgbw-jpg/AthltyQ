@@ -1,16 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Rodrigo Mendoza,2026-02-05,Real Betis,Atlético Madrid,6.8,23,2558.0,6.0,111.22,0,0,0.0,0.0,19,19,0,0,1,0,3,25,0,2.35
-Rodrigo Mendoza,2026-02-08,Atlético Madrid,Real Betis,6.3,55,5993.0,11.0,108.96,0,0,0.01,0.02,38,43,0,0,0,0,2,46,0,1.84
-Rodrigo Mendoza,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Rodrigo Mendoza,2026-02-15,Rayo Vallecano,Atlético Madrid,6.6,56,6065.0,11.0,108.3,0,0,0.0,0.02,22,25,0,0,0,0,2,38,0,1.81
-Rodrigo Mendoza,2026-02-18,Club Brugge KV,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Rodrigo Mendoza,2026-02-24,Atlético Madrid,Club Brugge KV,6.5,10,1084.0,2.0,108.4,0,0,0.0,0.0,3,4,0,0,0,0,0,8,0,1.85
-Rodrigo Mendoza,2026-02-28,Real Oviedo,Atlético Madrid,6.6,61,6707.0,12.0,109.95,0,0,0.08,0.03,38,43,1,0,0,0,4,60,0,1.79
-Rodrigo Mendoza,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Rodrigo Mendoza,2026-03-07,Atlético Madrid,Real Sociedad,6.4,45,4872.0,9.0,108.27,0,0,0.0,0.01,17,23,0,0,0,0,3,26,0,1.85
-Rodrigo Mendoza,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Rodrigo Mendoza,2026-04-11,Sevilla,Atlético Madrid,6.5,71,7778.0,14.0,109.55,0,0,0.02,0.05,49,54,3,0,0,0,3,68,0,1.8
-Rodrigo Mendoza,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Rodrigo Mendoza,2026-04-18,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Rodrigo Mendoza,2026-04-22,Elche,Atlético Madrid,5.9,62,6611.0,12.0,106.63,0,0,0.0,0.09,10,13,1,0,0,0,2,18,0,1.82
-Rodrigo Mendoza,2026-04-25,Atlético Madrid,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rodrigo Mendoza,2026-02-08,Atlético Madrid,Real Betis,6.3,55,5993.0,11.0,108.96,0,0,0.01,0.02,38,43,0,0,0,0,2,46,0.0,1.84
+Rodrigo Mendoza,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Rodrigo Mendoza,2026-02-15,Rayo Vallecano,Atlético Madrid,6.6,56,6065.0,11.0,108.3,0,0,0.0,0.02,22,25,0,0,0,0,2,38,0.0,1.81
+Rodrigo Mendoza,2026-02-18,Club Brugge KV,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Rodrigo Mendoza,2026-02-24,Atlético Madrid,Club Brugge KV,6.5,10,1084.0,2.0,108.4,0,0,0.0,0.0,3,4,0,0,0,0,0,8,0.0,1.85
+Rodrigo Mendoza,2026-02-28,Real Oviedo,Atlético Madrid,6.6,61,6707.0,12.0,109.95,0,0,0.08,0.03,38,43,1,0,0,0,4,60,0.0,1.79
+Rodrigo Mendoza,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Rodrigo Mendoza,2026-03-07,Atlético Madrid,Real Sociedad,6.4,45,4872.0,9.0,108.27,0,0,0.0,0.01,17,23,0,0,0,0,3,26,0.0,1.85
+Rodrigo Mendoza,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Rodrigo Mendoza,2026-04-11,Sevilla,Atlético Madrid,6.5,71,7778.0,14.0,109.55,0,0,0.02,0.05,49,54,3,0,0,0,3,68,0.0,1.8
+Rodrigo Mendoza,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Rodrigo Mendoza,2026-04-18,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Rodrigo Mendoza,2026-04-22,Elche,Atlético Madrid,5.9,62,6611.0,12.0,106.63,0,0,0.0,0.09,10,13,1,0,0,0,2,18,0.0,1.82
+Rodrigo Mendoza,2026-04-25,Atlético Madrid,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Rodrigo Mendoza,2026-04-29,Atlético Madrid,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0

@@ -14,9 +14,8 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-# Racine du projet (3 niveaux au-dessus : models/ ← LM/ ← root/)
+# Définition de la racine du projet
 ROOT = Path(__file__).resolve().parent.parent.parent
-
 
 
 # ══════════════════════════════════════════════════════════════════════
@@ -77,44 +76,25 @@ def calculer_match_context(df):
 def calculer_features_match(df):
     """
     Calcule les ratios et features dérivés pour chaque match individuel.
-    Gère les colonnes manquantes avec des valeurs par défaut à 0.
     """
     df = df.copy()
 
-    # Colonnes optionnelles — on les crée à 0 si absentes du dataset
-    cols_optionnelles = [
-        'Total_Shots', 'Shots_On_Target', 'Possession_Lost',
-        'Successful_Dribbles', 'Key_Passes', 'Clearances',
-        'Ground_Duels_Won', 'Ground_Duels_Lost',
-        'Aerial_Duels_Won', 'Aerial_Duels_Lost',
-        'Was_Fouled', 'Fouls_Committed', 'Yellow_Cards', 'Red_Cards',
-        'Ground_Duels_Won_Pct', 'Aerial_Duels_Won_Pct',
-        'Was_Fouled_P90',
-    ]
-    for col in cols_optionnelles:
-        if col not in df.columns:
-            df[col] = 0
-
-    # Colonnes requises — on force la conversion numérique
-    cols_requises = [
-        'Goals', 'Assists', 'Expected_Goals', 'Expected_Assists',
-        'Minutes_Played', 'Touches', 'Tackles', 'Interceptions',
-        'Ball_Recovery', 'Accurate_Passes', 'Total_Passes', 'Rating'
-    ]
-    for col in cols_requises:
-        if col not in df.columns:
-            df[col] = 0
-        df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0)
-
     # --- Offensive ---
-    df['Shots_Accuracy'] = np.where(
-        df['Total_Shots'] > 0,
-        (df['Shots_On_Target'] / df['Total_Shots']) * 100, 0
-    )
-    df['Goal_Conversion'] = np.where(
-        df['Total_Shots'] > 0,
-        (df['Goals'] / df['Total_Shots']) * 100, 0
-    )
+    if 'Total_Shots' in df.columns and 'Shots_On_Target' in df.columns:
+        df['Shots_Accuracy'] = np.where(
+            df['Total_Shots'] > 0,
+            (df['Shots_On_Target'] / df['Total_Shots']) * 100, 0
+        )
+    else:
+        df['Shots_Accuracy'] = 0
+
+    if 'Total_Shots' in df.columns:
+        df['Goal_Conversion'] = np.where(
+            df['Total_Shots'] > 0,
+            (df['Goals'] / df['Total_Shots']) * 100, 0
+        )
+    else:
+        df['Goal_Conversion'] = 0
     df['xG_Overperformance'] = df['Goals'] - df['Expected_Goals']
     df['xA_Overperformance'] = df['Assists'] - df['Expected_Assists']
     df['G_A'] = df['Goals'] + df['Assists']
@@ -130,10 +110,13 @@ def calculer_features_match(df):
     df['Defensive_Actions'] = df['Tackles'] + df['Interceptions'] + df['Ball_Recovery']
 
     # --- Ball Control ---
-    df['Possession_Security'] = np.where(
-        df['Touches'] > 0,
-        ((df['Touches'] - df['Possession_Lost']) / df['Touches']) * 100, 0
-    )
+    if 'Touches' in df.columns and 'Possession_Lost' in df.columns:
+        df['Possession_Security'] = np.where(
+            df['Touches'] > 0,
+            ((df['Touches'] - df['Possession_Lost']) / df['Touches']) * 100, 0
+        )
+    else:
+        df['Possession_Security'] = 0
     df['Threat_Per_Touch'] = np.where(
         df['Touches'] > 0,
         (df['Expected_Goals'] + df['Expected_Assists']) / df['Touches'], 0
@@ -160,6 +143,11 @@ def calculer_features_match(df):
     for new_col, source_col in per90_cols.items():
         if source_col in df.columns:
             df[new_col] = df[source_col] * df['P90_Factor']
+
+    # Sécurité : Assurer que les colonnes de duels existent (parfois absentes selon le scraper)
+    for col in ['Ground_Duels_Lost', 'Aerial_Duels_Lost', 'Ground_Duels_Won', 'Aerial_Duels_Won', 'Was_Fouled']:
+        if col not in df.columns:
+            df[col] = 0
 
     df = df.drop(columns=['P90_Factor'])
 
@@ -346,6 +334,8 @@ def integrer_historique_medical(df):
     Crée un profil de risque par joueur.
     """
     df = df.copy()
+    # Chercher l'historique médical dans le dossier scrapping
+    ROOT = Path(__file__).resolve().parent.parent.parent
     history_path = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "raw" / "transfermarkt" / "injury_history.csv"
     
     if not history_path.exists():
@@ -355,6 +345,8 @@ def integrer_historique_medical(df):
         return df
 
     history_df = pd.read_csv(history_path)
+    # Filtrer les blessures non valides
+    history_df = history_df[~history_df['Injury_Type'].astype(str).str.upper().isin(['NONE', 'N/A', '', 'NAN'])]
     
     # Agrégation par joueur
     stats_med = history_df.groupby('Nom').agg({
@@ -492,16 +484,12 @@ def calculer_form_score(df):
 
 
 # ══════════════════════════════════════════════════════════════════════
-# 4. CRÉATION DE LA CIBLE (TARGET) POUR LE ML
+# 4. CRÉATION DE LA CIBLE
 # ══════════════════════════════════════════════════════════════════════
 
 def creer_targets(df, horizons=[1, 2, 4]):
     """
     Crée les variables cibles (Form Score futur) pour chaque horizon.
-    horizons: [1, 2, 4] → prochain match, dans 2 matchs, dans 4 matchs
-
-    Équivalent conceptuel de J+7, J+14, J+30 (environ 1 match/semaine).
-
     AMÉLIORATION: Target de blessure basée sur des règles plus réalistes.
     """
     df = df.copy()
@@ -513,14 +501,14 @@ def creer_targets(df, horizons=[1, 2, 4]):
             .transform(lambda x: x.shift(-h))
         )
 
-        # Moyenne du form score sur les h prochains matchs (plus lisse)
+        # Moyenne du form score sur les h prochains matchs
         col_avg = f'Target_Form_Avg_{h}m'
         df[col_avg] = (
             df.groupby('Nom')['Form_Score']
             .transform(lambda x: x.shift(-1).rolling(window=h, min_periods=1).mean())
         )
 
-        # AJOUT : Moyenne des notes SofaScore (Rating) sur les h prochains matchs
+        # Moyenne des notes SofaScore (Rating)
         if h <= 2 and 'Rating' in df.columns:
             col_rating_avg = f'Target_Rating_Avg_{h}m'
             df[col_rating_avg] = (
@@ -528,75 +516,88 @@ def creer_targets(df, horizons=[1, 2, 4]):
                 .transform(lambda x: x.shift(-1).rolling(window=h, min_periods=1).mean())
             )
 
-    # ── Indice de Fatigue (Cœur du projet — Fatigue Focus v1.0) ──
+    # ── Indice de Risque Médical (Calcul Physiologique) ──
     if 'ACWR' in df.columns:
-        # 1. Facteur d'Exposition (Exposure/Usage Factor)
-        # Un joueur qui ne joue pas ne peut pas statistiquement subir une blessure d'usure de 50%.
-        # On base l'exposition sur les minutes cumulées (Ex: 270 min = 3 matchs pleins = 1.0 exposure)
-        df['Usage_Factor'] = (df['Cumulative_Minutes_21d'] / 270.0).clip(0.05, 1.2)
+        # 1. Facteur d'Exposition (Usage Factor)
+        # On garde une base saine pour le calcul du score brut
+        df['Usage_Factor'] = (df['Cumulative_Minutes_21d'] / 270.0).clip(0.40, 1.15)
         
-        # 2. Seuils cliniques réels
-        # ACWR : 0.8-1.3 est la zone "Goldilocks", >1.5 est surcharge, <0.7 est sous-charge (désentrainement)
-        condition_surcharge = (df['ACWR'] > 1.5) | (df['ACWR'] < 0.7)
-        condition_epuisement = (df['Fatigue_Index'] > 0.8)
-        
-        # 1.5. Facteur d'Âge (Age Factor)
-        # La récupération est plus lente avec l'âge, augmentant le risque d'usure.
+        # 2. Facteur d'Âge (Age Factor)
         if 'Age' in df.columns:
-            # 25 ans = 1.0. Chaque année au-dessus ajoute 2% de risque
-            df['Age_Factor'] = 1.0 + ((pd.to_numeric(df['Age'], errors='coerce').fillna(25) - 25) * 0.02)
-            df['Age_Factor'] = df['Age_Factor'].clip(0.85, 1.3)
+            df['Age_Factor'] = 1.0 + ((pd.to_numeric(df['Age'], errors='coerce').fillna(25) - 25) * 0.01)
+            df['Age_Factor'] = df['Age_Factor'].clip(0.95, 1.15)
         else:
             df['Age_Factor'] = 1.0
 
-        # 3. Calcul de l'Indice de Fatigue Brut (Basé sur la physiologie)
+        # 3. Calcul du risque continu (Physiologie brute)
+        score_base = 0.35 
+        score_fatigue = (df['Fatigue_Index'] * 0.15).clip(0, 0.25)
+        score_acwr = np.where(df['ACWR'] > 1.4, (df['ACWR'] - 1.4) * 0.10, 0)
+        score_history = df.get('Injury_Prone_Index', 0) * 0.15
+        
         raw_risk = (
-            (condition_surcharge.astype(int) * 0.40) + 
-            (condition_epuisement.astype(int) * 0.40) + 
-            ((df['Congestion_Risk'] - 1.0).clip(0, 1) * 0.1) +
-            ((df['Age_Factor'] - 1.0).clip(0, 1) * 0.2)
+            score_base + score_fatigue + score_acwr + score_history + 
+            ((df['Congestion_Risk'] - 1.0).clip(0, 1) * 0.05)
         ).clip(0, 1)
         
-        # 4. Application du Usage_Factor et Age_Factor
+        # 4. Score Final
         df['Medical_Risk_Score'] = (raw_risk * df['Usage_Factor'] * df['Age_Factor']).clip(0, 1)
+        df['Fatigue_Score'] = (df['Fatigue_Index'] * 100).round(1)
 
-    # ── VRAIES BLESSURES (Depuis Transfermarkt) ──
-    history_path = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "raw" / "transfermarkt" / "injury_history.csv"
-    df['Target_Injury_Occurred'] = 0
+        # =====================================================================
+        # 5. CATÉGORISATION SCIENTIFIQUE (Z-SCORE / ÉCART-TYPE)
+        # =====================================================================
+        # Cette méthode rend le modèle autonome pour n'importe quelle ligue.
+        mean_risk = df['Medical_Risk_Score'].mean()
+        std_risk = df['Medical_Risk_Score'].std()
+        
+        if pd.isna(std_risk) or std_risk == 0: std_risk = 0.1 
 
-    if history_path.exists():
-        try:
-            history_df = pd.read_csv(history_path)
-            if not history_df.empty and 'Date_From' in history_df.columns:
-                history_df['Date_From'] = pd.to_datetime(history_df['Date_From'], errors='coerce')
-                history_df = history_df.dropna(subset=['Date_From'])
+        # Seuils dynamiques basés sur la distribution réelle de la ligue
+        # ÉLEVÉ  : Moyenne + 1.0 écart-type (~16% des cas si distribution normale)
+        # FAIBLE : Moyenne - 1.1 écart-types (~12% des cas)
+        seuil_eleve = mean_risk + (1.0 * std_risk)
+        seuil_faible = mean_risk - (1.1 * std_risk) 
 
-                # Créer un dictionnaire Joueur -> Liste des dates de blessures
-                injuries_dict = history_df.groupby('Nom')['Date_From'].apply(list).to_dict()
+        # Sécurités physiologiques
+        seuil_eleve = min(max(seuil_eleve, 0.55), 0.85)
+        seuil_faible = max(min(seuil_faible, 0.25), 0.10)
 
-                if 'Match_Date' in df.columns:
-                    # On convertit les Match_Date au format datetime
-                    df_dates = pd.to_datetime(df['Match_Date'], errors='coerce')
+        conditions = [
+            (df['Medical_Risk_Score'] <= seuil_faible),
+            (df['Medical_Risk_Score'] >= seuil_eleve)
+        ]
+        choix = ['🟢 FAIBLE', '🔴 ÉLEVÉ']
+        df['Risk_Category'] = np.select(conditions, choix, default='🟠 MODÉRÉ')
+        # =====================================================================
 
-                    # Fonction vectorisée ou apply pour trouver si blessure dans les 14 jours
-                    def check_injury(row):
-                        nom = row['Nom']
-                        m_date = row['_match_date_temp']
-                        if pd.isna(m_date) or nom not in injuries_dict:
+        # 6. Target de Blessure Réelle (Transfermarkt)
+        history_path = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "raw" / "transfermarkt" / "injury_history.csv"
+        df['Target_Injury_Occurred'] = 0
+        if history_path.exists():
+            try:
+                history_df = pd.read_csv(history_path)
+                if not history_df.empty and 'Date_From' in history_df.columns:
+                    history_df['Date_From'] = pd.to_datetime(history_df['Date_From'], errors='coerce')
+                    history_df = history_df.dropna(subset=['Date_From'])
+                    injuries_dict = history_df.groupby('Nom')['Date_From'].apply(list).to_dict()
+
+                    if 'Match_Date' in df.columns:
+                        df_dates = pd.to_datetime(df['Match_Date'], errors='coerce')
+                        def check_injury(row):
+                            nom = row['Nom']
+                            m_date = row['_match_date_temp']
+                            if pd.isna(m_date) or nom not in injuries_dict: return 0
+                            for i_date in injuries_dict[nom]:
+                                diff = (i_date - m_date).days
+                                if 0 < diff <= 14: return 1
                             return 0
-                        for i_date in injuries_dict[nom]:
-                            diff = (i_date - m_date).days
-                            if 0 < diff <= 14:  # Blessure dans les 14 jours après ce match
-                                return 1
-                        return 0
-
-                    df['_match_date_temp'] = df_dates
-                    df['Target_Injury_Occurred'] = df.apply(check_injury, axis=1)
-                    df = df.drop(columns=['_match_date_temp'])
-                    
-                    print(f"   🎯 Cible Blessure : {df['Target_Injury_Occurred'].sum()} cas réels trouvés.")
-        except Exception as e:
-            print(f"   ⚠️ Erreur création cibles blessures: {e}")
+                        df['_match_date_temp'] = df_dates
+                        df['Target_Injury_Occurred'] = df.apply(check_injury, axis=1)
+                        df = df.drop(columns=['_match_date_temp'])
+                        print(f"   🎯 Cible Blessure : {df['Target_Injury_Occurred'].sum()} cas réels trouvés.")
+            except Exception as e:
+                print(f"   ⚠️ Erreur création cibles blessures: {e}")
 
     return df
 

@@ -267,3 +267,27 @@ Projet AthlytIQ — Data Science & Football Analytics
 ---
 
 *AthlytIQ — De la data à la performance* ⚽
+
+
+
+Ce que tu as (précision estimée : ~68-72%)
+✅ Minutes jouées, dates, ACWR, Fatigue_Index
+✅ Historique blessures Transfermarkt (une fois scrapé)
+⚠️ distanceRun et sprints → estimés, pas réels
+⚠️ Beaucoup de Rating = 0.0 dans tes CSV (données manquantes)
+
+Ce qui manque pour passer à 80%+
+🔴 Priorité 1 — Corriger les données manquantes (gain : +4-5%)
+Regarde tes CSV → beaucoup de lignes ont Rating = 0.0 alors que le joueur a joué. C'est du bruit qui affaiblit le modèle. Il faut réparer ces valeurs via FotMob (orchestrate_repair.py).
+
+🟠 Priorité 2 — Ajouter l'âge du joueur (gain : +3-4%)
+Un joueur de 34 ans se fatigue différemment qu'un joueur de 21 ans. C'est disponible sur Transfermarkt — tu le scrapes déjà, il suffit d'ajouter la date de naissance.
+
+🟠 Priorité 3 — Ajouter le poste (gain : +3-4%)
+Un ailier fait 11km/match, un défenseur central 9km. Sans le poste, le modèle compare des profils incomparables.
+
+🟡 Priorité 4 — Augmenter le nombre de matchs par joueur (gain : +3-5%)
+Tu limites à 15 matchs par joueur. Passer à 30-40 matchs (2 saisons) donnerait beaucoup plus de données temporelles à apprendre.
+
+🟡 Priorité 5 — Ajouter les matchs en sélection nationale (gain : +2-3%)
+Un joueur qui part en sélection et revient 3 jours avant un match de ligue est beaucoup plus à risque. Ces matchs ne sont pas capturés dans tes CSV de ligue.

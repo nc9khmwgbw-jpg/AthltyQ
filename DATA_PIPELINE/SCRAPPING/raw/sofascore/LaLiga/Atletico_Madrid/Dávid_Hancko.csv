@@ -1,15 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Dávid Hancko,2026-02-15,Rayo Vallecano,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Dávid Hancko,2026-02-18,Club Brugge KV,Atlético Madrid,6.1,90,9810.0,20.0,109.0,0,0,0.0,0.01,48,53,0,0,2,0,8,62,0,2.04
-Dávid Hancko,2026-02-21,Atlético Madrid,Espanyol,7.1,90,9924.0,20.0,110.27,0,0,0.1,0.03,85,88,0,0,2,0,4,101,0,2.02
-Dávid Hancko,2026-02-24,Atlético Madrid,Club Brugge KV,7.6,90,9873.0,20.0,109.7,0,0,0.0,0.02,57,62,0,0,2,0,8,77,0,2.03
-Dávid Hancko,2026-02-28,Real Oviedo,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Dávid Hancko,2026-03-03,FC Barcelona,Atlético Madrid,6.3,90,9756.0,22.0,108.4,0,0,0.0,0.0,30,34,1,0,3,0,7,52,0,2.26
-Dávid Hancko,2026-03-07,Atlético Madrid,Real Sociedad,7.1,90,9819.0,19.0,109.1,0,0,0.09,0.02,46,54,1,0,1,0,5,73,0,1.94
-Dávid Hancko,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.8,90,9832.0,17.0,109.24,0,0,0.0,0.01,57,65,0,0,0,0,4,79,0,1.73
-Dávid Hancko,2026-03-14,Atlético Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Dávid Hancko,2026-03-18,Tottenham Hotspur,Atlético Madrid,7.2,90,9681.0,20.0,107.57,1,0,0.07,0.01,34,38,0,0,2,0,2,49,0,2.07
-Dávid Hancko,2026-03-22,Real Madrid,Atlético Madrid,6.0,90,9769.0,17.0,108.54,0,0,0.0,0.01,47,50,0,0,0,0,4,64,0,1.74
-Dávid Hancko,2026-03-26,Slovakia,Kosovo,7.7,90,9748.0,19.0,108.31,0,0,0.0,0.0,31,39,2,0,1,0,4,59,0,1.95
-Dávid Hancko,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Dávid Hancko,2026-04-08,FC Barcelona,Atlético Madrid,6.8,31,3343.0,7.0,107.84,0,0,0.0,0.0,14,16,0,0,1,0,1,18,0,2.09
+Dávid Hancko,2026-02-15,Rayo Vallecano,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dávid Hancko,2026-02-18,Club Brugge KV,Atlético Madrid,6.1,90,9810.0,20.0,109.0,0,0,0.0,0.01,48,53,0,0,2,0,8,62,0.0,2.04
+Dávid Hancko,2026-02-21,Atlético Madrid,Espanyol,7.1,90,9924.0,20.0,110.27,0,0,0.1,0.03,85,88,0,0,2,0,4,101,0.0,2.02
+Dávid Hancko,2026-02-24,Atlético Madrid,Club Brugge KV,7.6,90,9873.0,20.0,109.7,0,0,0.0,0.02,57,62,0,0,2,0,8,77,0.0,2.03
+Dávid Hancko,2026-02-28,Real Oviedo,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dávid Hancko,2026-03-03,FC Barcelona,Atlético Madrid,6.3,90,9756.0,22.0,108.4,0,0,0.0,0.0,30,34,1,0,3,0,7,52,0.0,2.26
+Dávid Hancko,2026-03-07,Atlético Madrid,Real Sociedad,7.1,90,9819.0,19.0,109.1,0,0,0.09,0.02,46,54,1,0,1,0,5,73,0.0,1.94
+Dávid Hancko,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.8,90,9832.0,17.0,109.24,0,0,0.0,0.01,57,65,0,0,0,0,4,79,0.0,1.73
+Dávid Hancko,2026-03-14,Atlético Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dávid Hancko,2026-03-18,Tottenham Hotspur,Atlético Madrid,7.2,90,9681.0,20.0,107.57,1,0,0.07,0.01,34,38,0,0,2,0,2,49,0.0,2.07
+Dávid Hancko,2026-03-22,Real Madrid,Atlético Madrid,6.0,90,9769.0,17.0,108.54,0,0,0.0,0.01,47,50,0,0,0,0,4,64,0.0,1.74
+Dávid Hancko,2026-03-26,Slovakia,Kosovo,7.7,90,9748.0,19.0,108.31,0,0,0.0,0.0,31,39,2,0,1,0,4,59,0.0,1.95
+Dávid Hancko,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dávid Hancko,2026-04-08,FC Barcelona,Atlético Madrid,6.8,31,3343.0,7.0,107.84,0,0,0.0,0.0,14,16,0,0,1,0,1,18,0.0,2.09
+Dávid Hancko,2026-04-29,Atlético Madrid,Arsenal,6.0,90,9828.0,19.0,109.2,0,0,0.05,0.01,58,67,2,0,1,0,5,75,0.0,1.93

@@ -1,16 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Piero Hincapié,2026-02-15,Arsenal,Wigan Athletic,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Piero Hincapié,2026-02-18,Wolverhampton,Arsenal,8.1,90,9807.0,22.0,108.97,1,0,0.31,0.13,41,44,3,0,3,0,2,79,0,2.24
-Piero Hincapié,2026-02-22,Tottenham Hotspur,Arsenal,7.3,90,9723.0,19.0,108.03,0,0,0.02,0.27,24,27,3,0,1,0,3,56,0,1.95
-Piero Hincapié,2026-03-01,Arsenal,Chelsea,5.8,90,9639.0,19.0,107.1,0,0,0.0,0.0,22,25,0,0,1,0,2,39,0,1.97
-Piero Hincapié,2026-03-04,Brighton & Hove Albion,Arsenal,7.0,90,9744.0,19.0,108.27,0,0,0.0,0.0,16,21,0,0,1,0,4,58,0,1.95
-Piero Hincapié,2026-03-07,Mansfield Town,Arsenal,6.5,52,5691.0,10.0,109.44,0,0,0.0,0.0,29,37,0,0,0,0,3,46,0,1.76
-Piero Hincapié,2026-03-11,Bayer 04 Leverkusen,Arsenal,5.9,90,9685.0,17.0,107.61,0,0,0.05,0.02,28,37,0,0,0,0,2,50,0,1.76
-Piero Hincapié,2026-03-14,Arsenal,Everton,7.2,16,1722.0,3.0,107.62,0,0,0.0,0.04,5,5,1,0,0,0,0,10,0,1.74
-Piero Hincapié,2026-03-17,Arsenal,Bayer 04 Leverkusen,8.4,90,9668.0,19.0,107.42,0,0,0.0,0.85,16,20,1,0,1,0,2,46,0,1.97
-Piero Hincapié,2026-03-22,Arsenal,Manchester City,5.8,65,6959.0,12.0,107.06,0,0,0.0,0.0,10,16,0,0,0,0,2,26,0,1.72
-Piero Hincapié,2026-03-27,Morocco,Ecuador,6.6,72,7711.0,15.0,107.1,0,0,0.0,0.0,13,20,0,0,1,0,1,33,0,1.95
-Piero Hincapié,2026-04-11,Arsenal,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Piero Hincapié,2026-04-15,Arsenal,Sporting CP,7.2,90,9710.0,19.0,107.89,0,0,0.02,0.03,23,29,0,0,1,0,1,59,0,1.96
-Piero Hincapié,2026-04-19,Manchester City,Arsenal,6.4,90,9652.0,17.0,107.24,0,0,0.0,0.01,15,22,0,0,0,0,1,45,0,1.76
-Piero Hincapié,2026-04-25,Arsenal,Newcastle United,7.8,90,9668.0,23.0,107.42,0,0,0.0,0.25,14,16,1,0,4,0,3,43,0,2.38
+Piero Hincapié,2026-02-18,Wolverhampton,Arsenal,8.1,90,9807.0,22.0,108.97,1,0,0.31,0.13,41,44,3,0,3,0,2,79,0.0,2.24
+Piero Hincapié,2026-02-22,Tottenham Hotspur,Arsenal,7.3,90,9723.0,19.0,108.03,0,0,0.02,0.27,24,27,3,0,1,0,3,56,0.0,1.95
+Piero Hincapié,2026-03-01,Arsenal,Chelsea,5.8,90,9639.0,19.0,107.1,0,0,0.0,0.0,22,25,0,0,1,0,2,39,0.0,1.97
+Piero Hincapié,2026-03-04,Brighton & Hove Albion,Arsenal,7.0,90,9744.0,19.0,108.27,0,0,0.0,0.0,16,21,0,0,1,0,4,58,0.0,1.95
+Piero Hincapié,2026-03-07,Mansfield Town,Arsenal,6.5,52,5691.0,10.0,109.44,0,0,0.0,0.0,29,37,0,0,0,0,3,46,0.0,1.76
+Piero Hincapié,2026-03-11,Bayer 04 Leverkusen,Arsenal,5.9,90,9685.0,17.0,107.61,0,0,0.05,0.02,28,37,0,0,0,0,2,50,0.0,1.76
+Piero Hincapié,2026-03-14,Arsenal,Everton,7.2,16,1722.0,3.0,107.62,0,0,0.0,0.04,5,5,1,0,0,0,0,10,0.0,1.74
+Piero Hincapié,2026-03-17,Arsenal,Bayer 04 Leverkusen,8.4,90,9668.0,19.0,107.42,0,0,0.0,0.85,16,20,1,0,1,0,2,46,0.0,1.97
+Piero Hincapié,2026-03-22,Arsenal,Manchester City,5.8,65,6959.0,12.0,107.06,0,0,0.0,0.0,10,16,0,0,0,0,2,26,0.0,1.72
+Piero Hincapié,2026-03-27,Morocco,Ecuador,6.6,72,7711.0,15.0,107.1,0,0,0.0,0.0,13,20,0,0,1,0,1,33,0.0,1.95
+Piero Hincapié,2026-04-11,Arsenal,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Piero Hincapié,2026-04-15,Arsenal,Sporting CP,7.2,90,9710.0,19.0,107.89,0,0,0.02,0.03,23,29,0,0,1,0,1,59,0.0,1.96
+Piero Hincapié,2026-04-19,Manchester City,Arsenal,6.4,90,9652.0,17.0,107.24,0,0,0.0,0.01,15,22,0,0,0,0,1,45,0.0,1.76
+Piero Hincapié,2026-04-25,Arsenal,Newcastle United,7.8,90,9668.0,23.0,107.42,0,0,0.0,0.25,14,16,1,0,4,0,3,43,0.0,2.38
+Piero Hincapié,2026-04-29,Atlético Madrid,Arsenal,6.4,90,9731.0,23.0,108.12,0,0,0.09,0.09,25,37,0,0,4,0,4,55,0.0,2.36

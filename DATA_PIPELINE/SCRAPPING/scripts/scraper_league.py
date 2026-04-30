@@ -3,6 +3,7 @@ import sys
 import time
 import pandas as pd
 from pathlib import Path
+from unidecode import unidecode
 
 # Import du moteur avec les fonctions API
 sys.path.append(str(Path(__file__).resolve().parent))
@@ -25,7 +26,16 @@ LEAGUES = {
     "6": {"id": 7, "name": "Champions League", "country": "Europe", "url": "https://www.sofascore.com/tournament/football/europe/uefa-champions-league/7"},
 }
 
-def scrape_league(league_key):
+def find_existing_file(save_path, p_name_safe):
+    """Cherche intelligemment si un fichier similaire existe déjà (en ignorant les accents) pour ne JAMAIS créer de doublons."""
+    target_clean = unidecode(p_name_safe).lower().replace('-', '_')
+    if save_path.exists():
+        for f in save_path.glob("*.csv"):
+            if unidecode(f.stem).lower().replace('-', '_') == target_clean:
+                return f  # On a trouvé le fichier existant (même s'il a/n'a pas d'accents)
+    return save_path / f"{p_name_safe}.csv"
+
+def scrape_league(league_key, force_update=False):
     info = LEAGUES[league_key]
     print(f"✅ Sélection : {info['name']} ({info['country']}) (ID: {info['id']})")
     
@@ -72,22 +82,50 @@ def scrape_league(league_key):
                 p_name_safe = p_name.replace(" ", "_")
                 
                 save_path = RAW_DIR / info['name'] / team_name.replace(" ", "_")
-                file_path = save_path / f"{p_name_safe}.csv"
                 
-                if file_path.exists():
+                # RECHERCHE INTELLIGENTE : Évite la création de doublons (ex: Jose_Sa vs José_Sá)
+                file_path = find_existing_file(save_path, p_name_safe)
+                
+                if file_path.exists() and not force_update:
                     print(f"      ⏩ [{j}/{len(players)}] {p_name}... (Déjà fait)")
                     continue
+                is_update = file_path.exists() and force_update
                 
                 print(f"      🏃 [{j}/{len(players)}] {p_name} (ID: {p_id})...")
                 
-                # Scraping des matchs
-                match_data = extraire_matchs_joueur(driver, p_id, p_name, nb_pages=2, total_match_limit=15)
+                # Lecture de la dernière date scrapée pour ne récupérer que les NOUVEAUX matchs
+                last_date = None
+                if is_update:
+                    try:
+                        df_old_temp = pd.read_csv(file_path)
+                        if 'Match_Date' in df_old_temp.columns and not df_old_temp.empty:
+                            last_date = df_old_temp['Match_Date'].max()
+                    except: pass
+                
+                # Scraping des matchs (1 page suffit si on fait juste une mise à jour des derniers jours)
+                nb_pages_to_scrape = 1 if is_update else 2
+                match_data = extraire_matchs_joueur(driver, p_id, p_name, nb_pages=nb_pages_to_scrape, total_match_limit=15, last_scraped_date=last_date)
                 
                 if match_data:
-                    df = pd.DataFrame(match_data)
+                    df_new = pd.DataFrame(match_data)
                     save_path.mkdir(parents=True, exist_ok=True)
-                    df.to_csv(file_path, index=False, encoding='utf-8-sig')
-                    print(f"      🎯 {len(df)} matchs sauvés.")
+                    
+                    if is_update:
+                        try:
+                            df_old = pd.read_csv(file_path)
+                            # Fusionner, supprimer les doublons par date, trier du plus ancien au plus récent (ordre chronologique normal)
+                            df_merged = pd.concat([df_new, df_old]).drop_duplicates(subset=['Match_Date'], keep='first')
+                            df_merged = df_merged.sort_values('Match_Date', ascending=True)
+                            # Garder maximum 15 matchs au total pour rester consistant (les 15 derniers = les plus récents)
+                            df_merged = df_merged.tail(15)
+                            df_merged.to_csv(file_path, index=False, encoding='utf-8-sig')
+                            print(f"      🎯 Mise à jour incrémentale réussie ({len(df_merged)} matchs au total).")
+                        except Exception as e:
+                            print(f"      ⚠️ Erreur lors de la fusion: {e}. Écrasement...")
+                            df_new.to_csv(file_path, index=False, encoding='utf-8-sig')
+                    else:
+                        df_new.to_csv(file_path, index=False, encoding='utf-8-sig')
+                        print(f"      🎯 {len(df_new)} matchs sauvés.")
                 else:
                     print(f"      ⚠️ Pas de matchs trouvés.")
                     
@@ -104,7 +142,9 @@ def main():
     
     choix = input("\n👉 Votre choix : ").strip()
     if choix in LEAGUES:
-        scrape_league(choix)
+        rep = input("🔄 Mettre à jour les joueurs existants ? (o/N) : ").strip().lower()
+        force_update = (rep == 'o')
+        scrape_league(choix, force_update=force_update)
 
 if __name__ == "__main__":
     main()

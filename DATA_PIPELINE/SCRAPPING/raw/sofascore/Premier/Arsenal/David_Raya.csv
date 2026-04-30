@@ -1,16 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-David Raya,2026-02-22,Tottenham Hotspur,Arsenal,8.3,90,9831.0,17.0,109.23,0,0,0.0,0.0,17,29,0,0,0,0,14,49,0,1.73
-David Raya,2026-03-01,Arsenal,Chelsea,7.6,90,9647.0,17.0,107.19,0,0,0.0,0.01,16,25,0,0,0,0,4,35,0,1.76
-David Raya,2026-03-04,Brighton & Hove Albion,Arsenal,7.9,90,9785.0,17.0,108.72,0,0,0.0,0.0,25,43,0,0,0,0,8,56,0,1.74
-David Raya,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.5,90,9676.0,17.0,107.51,0,0,0.0,0.0,18,24,0,0,0,0,7,33,0,1.76
-David Raya,2026-03-14,Arsenal,Everton,7.3,90,9655.0,17.0,107.28,0,0,0.0,0.0,17,24,0,0,0,0,6,31,0,1.76
-David Raya,2026-03-17,Arsenal,Bayer 04 Leverkusen,7.4,90,9701.0,17.0,107.79,0,0,0.0,0.0,15,20,0,0,0,0,10,30,0,1.75
-David Raya,2026-03-22,Arsenal,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-David Raya,2026-03-27,Spain,Serbia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-David Raya,2026-03-31,Spain,Egypt,6.7,62,6606.0,12.0,106.55,0,0,0.0,0.0,10,11,0,0,0,0,3,14,0,1.82
-David Raya,2026-04-04,Southampton,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-David Raya,2026-04-07,Sporting CP,Arsenal,8.7,90,9689.0,17.0,107.66,0,0,0.0,0.0,26,28,0,0,0,0,5,42,0,1.75
-David Raya,2026-04-11,Arsenal,Bournemouth,6.1,90,9852.0,17.0,109.47,0,0,0.0,0.0,35,49,0,0,0,0,12,60,0,1.73
-David Raya,2026-04-15,Arsenal,Sporting CP,7.1,90,9655.0,17.0,107.28,0,0,0.0,0.01,16,22,0,0,0,0,6,31,0,1.76
-David Raya,2026-04-19,Manchester City,Arsenal,6.4,90,9731.0,17.0,108.12,0,0,0.0,0.0,16,32,0,0,0,0,8,43,0,1.75
-David Raya,2026-04-25,Arsenal,Newcastle United,6.9,90,9806.0,17.0,108.96,0,0,0.0,0.0,14,31,0,0,0,0,13,46,0,1.73
+David Raya,2026-03-01,Arsenal,Chelsea,7.6,90,9647.0,17.0,107.19,0,0,0.0,0.01,16,25,0,0,0,0,4,35,0.0,1.76
+David Raya,2026-03-04,Brighton & Hove Albion,Arsenal,7.9,90,9785.0,17.0,108.72,0,0,0.0,0.0,25,43,0,0,0,0,8,56,0.0,1.74
+David Raya,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.5,90,9676.0,17.0,107.51,0,0,0.0,0.0,18,24,0,0,0,0,7,33,0.0,1.76
+David Raya,2026-03-14,Arsenal,Everton,7.3,90,9655.0,17.0,107.28,0,0,0.0,0.0,17,24,0,0,0,0,6,31,0.0,1.76
+David Raya,2026-03-17,Arsenal,Bayer 04 Leverkusen,7.4,90,9701.0,17.0,107.79,0,0,0.0,0.0,15,20,0,0,0,0,10,30,0.0,1.75
+David Raya,2026-03-22,Arsenal,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David Raya,2026-03-27,Spain,Serbia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David Raya,2026-03-31,Spain,Egypt,6.7,62,6606.0,12.0,106.55,0,0,0.0,0.0,10,11,0,0,0,0,3,14,0.0,1.82
+David Raya,2026-04-04,Southampton,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David Raya,2026-04-07,Sporting CP,Arsenal,8.7,90,9689.0,17.0,107.66,0,0,0.0,0.0,26,28,0,0,0,0,5,42,0.0,1.75
+David Raya,2026-04-11,Arsenal,Bournemouth,6.1,90,9852.0,17.0,109.47,0,0,0.0,0.0,35,49,0,0,0,0,12,60,0.0,1.73
+David Raya,2026-04-15,Arsenal,Sporting CP,7.1,90,9655.0,17.0,107.28,0,0,0.0,0.01,16,22,0,0,0,0,6,31,0.0,1.76
+David Raya,2026-04-19,Manchester City,Arsenal,6.4,90,9731.0,17.0,108.12,0,0,0.0,0.0,16,32,0,0,0,0,8,43,0.0,1.75
+David Raya,2026-04-25,Arsenal,Newcastle United,6.9,90,9806.0,17.0,108.96,0,0,0.0,0.0,14,31,0,0,0,0,13,46,0.0,1.73
+David Raya,2026-04-29,Atlético Madrid,Arsenal,7.1,90,9718.0,17.0,107.98,0,0,0.0,0.01,19,27,0,0,0,0,8,40,0.0,1.75

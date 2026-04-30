@@ -1,16 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Marquinhos,2026-02-13,Stade Rennais,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marquinhos,2026-02-17,AS Monaco,Paris Saint-Germain,6.7,90,9953.0,17.0,110.59,0,0,0.0,0.03,87,93,0,0,0,0,7,99,0,1.71
-Marquinhos,2026-02-21,Paris Saint-Germain,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marquinhos,2026-02-25,Paris Saint-Germain,AS Monaco,7.4,90,9853.0,17.0,109.48,1,0,0.8,0.04,79,83,1,0,0,0,2,90,0,1.73
-Marquinhos,2026-02-28,Le Havre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marquinhos,2026-03-06,Paris Saint-Germain,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marquinhos,2026-03-11,Paris Saint-Germain,Chelsea,6.5,90,9832.0,17.0,109.24,0,0,0.0,0.01,62,70,0,0,0,0,5,76,0,1.73
-Marquinhos,2026-03-17,Chelsea,Paris Saint-Germain,7.5,90,9731.0,19.0,108.12,0,0,0.0,0.0,51,58,0,0,1,0,0,67,0,1.95
-Marquinhos,2026-03-21,Nice,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marquinhos,2026-04-01,Croatia,Brazil,7.0,90,9878.0,17.0,109.76,0,0,0.0,0.0,75,78,1,0,0,0,4,90,0,1.72
-Marquinhos,2026-04-03,Paris Saint-Germain,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marquinhos,2026-04-08,Paris Saint-Germain,Liverpool,7.5,90,9890.0,17.0,109.89,0,0,0.0,0.02,80,84,0,0,0,0,5,90,0,1.72
-Marquinhos,2026-04-14,Liverpool,Paris Saint-Germain,7.2,90,9706.0,19.0,107.84,0,0,0.0,0.01,31,42,0,0,1,0,2,55,0,1.96
-Marquinhos,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marquinhos,2026-04-22,Paris Saint-Germain,Nantes,7.7,90,9890.0,19.0,109.89,0,0,0.03,0.08,72,79,0,0,1,0,6,87,0,1.92
+Marquinhos,2026-02-17,AS Monaco,Paris Saint-Germain,6.7,90,9953.0,17.0,110.59,0,0,0.0,0.03,87,93,0,0,0,0,7,99,0.0,1.71
+Marquinhos,2026-02-21,Paris Saint-Germain,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marquinhos,2026-02-25,Paris Saint-Germain,AS Monaco,7.4,90,9853.0,17.0,109.48,1,0,0.8,0.04,79,83,1,0,0,0,2,90,0.0,1.73
+Marquinhos,2026-02-28,Le Havre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marquinhos,2026-03-06,Paris Saint-Germain,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marquinhos,2026-03-11,Paris Saint-Germain,Chelsea,6.5,90,9832.0,17.0,109.24,0,0,0.0,0.01,62,70,0,0,0,0,5,76,0.0,1.73
+Marquinhos,2026-03-17,Chelsea,Paris Saint-Germain,7.5,90,9731.0,19.0,108.12,0,0,0.0,0.0,51,58,0,0,1,0,0,67,0.0,1.95
+Marquinhos,2026-03-21,Nice,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marquinhos,2026-04-01,Croatia,Brazil,7.0,90,9878.0,17.0,109.76,0,0,0.0,0.0,75,78,1,0,0,0,4,90,0.0,1.72
+Marquinhos,2026-04-03,Paris Saint-Germain,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marquinhos,2026-04-08,Paris Saint-Germain,Liverpool,7.5,90,9890.0,17.0,109.89,0,0,0.0,0.02,80,84,0,0,0,0,5,90,0.0,1.72
+Marquinhos,2026-04-14,Liverpool,Paris Saint-Germain,7.2,90,9706.0,19.0,107.84,0,0,0.0,0.01,31,42,0,0,1,0,2,55,0.0,1.96
+Marquinhos,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marquinhos,2026-04-22,Paris Saint-Germain,Nantes,7.7,90,9890.0,19.0,109.89,0,0,0.03,0.08,72,79,0,0,1,0,6,87,0.0,1.92
+Marquinhos,2026-04-28,Paris Saint-Germain,FC Bayern München,6.6,90,9756.0,19.0,108.4,0,0,0.0,0.01,45,49,0,0,1,0,5,58,0.0,1.95

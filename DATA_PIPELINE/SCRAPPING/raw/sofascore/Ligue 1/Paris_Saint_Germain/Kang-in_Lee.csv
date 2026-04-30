@@ -1,16 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Kang-in Lee,2026-02-21,Paris Saint-Germain,Metz,7.5,63,6913.0,12.0,109.73,0,0,0.0,0.11,44,50,3,0,0,0,4,59,0,1.74
-Kang-in Lee,2026-02-25,Paris Saint-Germain,AS Monaco,6.2,21,2331.0,5.0,111.0,0,0,0.03,0.05,23,24,0,0,1,0,1,27,0,2.15
-Kang-in Lee,2026-02-28,Le Havre,Paris Saint-Germain,7.1,61,6703.0,12.0,109.89,0,0,0.58,0.65,44,50,3,0,0,0,1,68,0,1.79
-Kang-in Lee,2026-03-06,Paris Saint-Germain,AS Monaco,6.1,30,3242.0,6.0,108.07,0,0,0.0,0.13,18,19,2,0,0,0,0,22,0,1.85
-Kang-in Lee,2026-03-11,Paris Saint-Germain,Chelsea,6.5,21,2239.0,4.0,106.62,0,0,0.0,0.07,5,6,0,0,0,0,0,8,0,1.79
-Kang-in Lee,2026-03-17,Chelsea,Paris Saint-Germain,6.5,17,1848.0,3.0,108.71,0,0,0.0,0.0,11,12,0,0,0,0,0,15,0,1.62
-Kang-in Lee,2026-03-21,Nice,Paris Saint-Germain,6.6,64,6946.0,12.0,108.53,0,0,0.0,0.04,26,30,1,0,0,0,4,42,0,1.73
-Kang-in Lee,2026-03-28,South Korea,Côte d'Ivoire,6.5,32,3498.0,6.0,109.31,0,0,0.0,0.0,14,18,0,0,0,0,3,24,0,1.72
-Kang-in Lee,2026-03-31,Austria,South Korea,7.0,90,9727.0,17.0,108.08,0,0,0.0,0.0,27,35,1,0,0,0,2,60,0,1.75
-Kang-in Lee,2026-04-03,Paris Saint-Germain,Toulouse,7.2,59,6443.0,13.0,109.2,0,0,0.0,0.19,34,39,5,0,1,0,2,53,0,2.02
-Kang-in Lee,2026-04-08,Paris Saint-Germain,Liverpool,6.6,12,1315.0,2.0,109.58,0,0,0.0,0.13,10,11,3,0,0,0,0,13,0,1.52
-Kang-in Lee,2026-04-14,Liverpool,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Kang-in Lee,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,6.6,31,3444.0,6.0,111.1,0,0,0.0,0.16,25,27,3,0,0,0,2,39,0,1.74
-Kang-in Lee,2026-04-22,Paris Saint-Germain,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Kang-in Lee,2026-04-25,Angers,Paris Saint-Germain,8.2,90,9911.0,17.0,110.12,1,0,0.22,0.46,66,69,3,0,0,0,7,89,0,1.72
+Kang-in Lee,2026-02-25,Paris Saint-Germain,AS Monaco,6.2,21,2331.0,5.0,111.0,0,0,0.03,0.05,23,24,0,0,1,0,1,27,0.0,2.15
+Kang-in Lee,2026-02-28,Le Havre,Paris Saint-Germain,7.1,61,6703.0,12.0,109.89,0,0,0.58,0.65,44,50,3,0,0,0,1,68,0.0,1.79
+Kang-in Lee,2026-03-06,Paris Saint-Germain,AS Monaco,6.1,30,3242.0,6.0,108.07,0,0,0.0,0.13,18,19,2,0,0,0,0,22,0.0,1.85
+Kang-in Lee,2026-03-11,Paris Saint-Germain,Chelsea,6.5,21,2239.0,4.0,106.62,0,0,0.0,0.07,5,6,0,0,0,0,0,8,0.0,1.79
+Kang-in Lee,2026-03-17,Chelsea,Paris Saint-Germain,6.5,17,1848.0,3.0,108.71,0,0,0.0,0.0,11,12,0,0,0,0,0,15,0.0,1.62
+Kang-in Lee,2026-03-21,Nice,Paris Saint-Germain,6.6,64,6946.0,12.0,108.53,0,0,0.0,0.04,26,30,1,0,0,0,4,42,0.0,1.73
+Kang-in Lee,2026-03-28,South Korea,Côte d'Ivoire,6.5,32,3498.0,6.0,109.31,0,0,0.0,0.0,14,18,0,0,0,0,3,24,0.0,1.72
+Kang-in Lee,2026-03-31,Austria,South Korea,7.0,90,9727.0,17.0,108.08,0,0,0.0,0.0,27,35,1,0,0,0,2,60,0.0,1.75
+Kang-in Lee,2026-04-03,Paris Saint-Germain,Toulouse,7.2,59,6443.0,13.0,109.2,0,0,0.0,0.19,34,39,5,0,1,0,2,53,0.0,2.02
+Kang-in Lee,2026-04-08,Paris Saint-Germain,Liverpool,6.6,12,1315.0,2.0,109.58,0,0,0.0,0.13,10,11,3,0,0,0,0,13,0.0,1.52
+Kang-in Lee,2026-04-14,Liverpool,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kang-in Lee,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,6.6,31,3444.0,6.0,111.1,0,0,0.0,0.16,25,27,3,0,0,0,2,39,0.0,1.74
+Kang-in Lee,2026-04-22,Paris Saint-Germain,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kang-in Lee,2026-04-25,Angers,Paris Saint-Germain,8.2,90,9911.0,17.0,110.12,1,0,0.22,0.46,66,69,3,0,0,0,7,89,0.0,1.72
+Kang-in Lee,2026-04-28,Paris Saint-Germain,FC Bayern München,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0

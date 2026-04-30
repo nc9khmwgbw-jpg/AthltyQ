@@ -1,16 +1,16 @@
 ﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Marc Pubill,2026-02-15,Rayo Vallecano,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marc Pubill,2026-02-18,Club Brugge KV,Atlético Madrid,6.7,90,9807.0,19.0,108.97,0,0,0.0,0.04,53,59,1,0,1,0,2,79,0,1.94
-Marc Pubill,2026-02-21,Atlético Madrid,Espanyol,7.3,90,9966.0,20.0,110.73,0,0,0.0,0.13,86,98,1,0,2,0,2,117,0,2.01
-Marc Pubill,2026-02-24,Atlético Madrid,Club Brugge KV,7.0,90,9748.0,19.0,108.31,0,0,0.0,0.01,51,54,0,0,1,0,1,68,0,1.95
-Marc Pubill,2026-02-28,Real Oviedo,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marc Pubill,2026-03-03,FC Barcelona,Atlético Madrid,5.6,90,9630.0,20.0,107.0,0,0,0.0,0.0,15,23,0,0,2,0,2,37,0,2.08
-Marc Pubill,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marc Pubill,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.8,90,9798.0,17.0,108.87,0,0,0.0,0.01,46,54,0,0,0,0,4,71,0,1.74
-Marc Pubill,2026-03-14,Atlético Madrid,Getafe,7.0,66,7265.0,14.0,110.08,0,0,0.07,0.0,37,44,0,0,1,0,7,59,0,1.93
-Marc Pubill,2026-03-18,Tottenham Hotspur,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Marc Pubill,2026-04-08,FC Barcelona,Atlético Madrid,6.8,59,6384.0,13.0,108.2,0,0,0.0,0.0,37,40,0,0,1,0,0,45,0,2.04
-Marc Pubill,2026-04-11,Sevilla,Atlético Madrid,6.5,90,9886.0,17.0,109.84,0,0,0.05,0.01,72,80,0,0,0,0,4,92,0,1.72
-Marc Pubill,2026-04-18,Atlético Madrid,Real Sociedad,6.7,120,13049.0,29.0,108.74,0,0,0.0,0.0,67,76,0,0,4,0,5,92,0,2.22
-Marc Pubill,2026-04-22,Elche,Atlético Madrid,6.6,45,4830.0,10.0,107.33,0,0,0.0,0.0,11,12,0,0,1,0,1,22,0,2.07
-Marc Pubill,2026-04-25,Atlético Madrid,Athletic Club,7.0,90,9870.0,17.0,109.67,0,0,0.0,0.0,70,82,0,0,0,0,2,94,0,1.72
+Marc Pubill,2026-02-18,Club Brugge KV,Atlético Madrid,6.7,90,9807.0,19.0,108.97,0,0,0.0,0.04,53,59,1,0,1,0,2,79,0.0,1.94
+Marc Pubill,2026-02-21,Atlético Madrid,Espanyol,7.3,90,9966.0,20.0,110.73,0,0,0.0,0.13,86,98,1,0,2,0,2,117,0.0,2.01
+Marc Pubill,2026-02-24,Atlético Madrid,Club Brugge KV,7.0,90,9748.0,19.0,108.31,0,0,0.0,0.01,51,54,0,0,1,0,1,68,0.0,1.95
+Marc Pubill,2026-02-28,Real Oviedo,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marc Pubill,2026-03-03,FC Barcelona,Atlético Madrid,5.6,90,9630.0,20.0,107.0,0,0,0.0,0.0,15,23,0,0,2,0,2,37,0.0,2.08
+Marc Pubill,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marc Pubill,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.8,90,9798.0,17.0,108.87,0,0,0.0,0.01,46,54,0,0,0,0,4,71,0.0,1.74
+Marc Pubill,2026-03-14,Atlético Madrid,Getafe,7.0,66,7265.0,14.0,110.08,0,0,0.07,0.0,37,44,0,0,1,0,7,59,0.0,1.93
+Marc Pubill,2026-03-18,Tottenham Hotspur,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marc Pubill,2026-04-08,FC Barcelona,Atlético Madrid,6.8,59,6384.0,13.0,108.2,0,0,0.0,0.0,37,40,0,0,1,0,0,45,0.0,2.04
+Marc Pubill,2026-04-11,Sevilla,Atlético Madrid,6.5,90,9886.0,17.0,109.84,0,0,0.05,0.01,72,80,0,0,0,0,4,92,0.0,1.72
+Marc Pubill,2026-04-18,Atlético Madrid,Real Sociedad,6.7,120,13049.0,29.0,108.74,0,0,0.0,0.0,67,76,0,0,4,0,5,92,0.0,2.22
+Marc Pubill,2026-04-22,Elche,Atlético Madrid,6.6,45,4830.0,10.0,107.33,0,0,0.0,0.0,11,12,0,0,1,0,1,22,0.0,2.07
+Marc Pubill,2026-04-25,Atlético Madrid,Athletic Club,7.0,90,9870.0,17.0,109.67,0,0,0.0,0.0,70,82,0,0,0,0,2,94,0.0,1.72
+Marc Pubill,2026-04-29,Atlético Madrid,Arsenal,6.8,90,9689.0,17.0,107.66,0,0,0.0,0.02,33,38,0,0,0,0,2,51,0.0,1.75

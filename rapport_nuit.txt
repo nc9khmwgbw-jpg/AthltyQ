@@ -1,0 +1,360 @@
+📂 Chargement des données : /Users/fahamayoub/Desktop/AthlytIQ/DATA_PIPELINE/NETTOYAGE/data/merged_dataset_clean.csv
+⚙️  Phase 1 — Features instantanées par match...
+⚙️  Phase 1.5 — Contexte du match (Adversaire, Domicile/Ext)...
+⚙️  Phase 2 — Features temporelles (moyennes glissantes)...
+⚙️  Phase 2.5 — Intégration Médicale & Trauma...
+⚙️  Phase 3 — Score de forme composite...
+⚙️  Phase 4 — Création des cibles ML...
+   🎯 Cible Blessure : 1427 cas réels trouvés.
+
+✅ Feature Engineering terminé !
+   📊 Shape finale : (24927, 243)
+   📁 Sauvegardé dans : data/processed/features_dataset.csv
+   🎯 Form Score moyen : 29.2 / 100
+   📈 Features temporelles : 85
+   🎯 Targets créées : 9
+
+─────────────────────────────────────────────────────────────────
+   🏥 ENTRAÎNEMENT — Ensemble ML AthlytIQ (GB + RF)
+─────────────────────────────────────────────────────────────────
+   📊 Dataset : 23163 lignes | Cas à risque : 1343 (5.8%)
+   ✅ Modèles sauvegardés dans saved/
+📊 [INFO] Distribution du jour : Moyenne=0.358, Std=0.224
+   Seuils appliqués : Faible <= 0.179 | Élevé >= 0.538
+
+═════════════════════════════════════════════════════════════════
+   🏥 RAPPORT DE RISQUE DE BLESSURE — AthlytIQ
+═════════════════════════════════════════════════════════════════
+
+🔴 ÉLEVÉ (271 joueurs) :
+   ──────────────────────────────────────────────────────
+   Kai Havertz                                    Fatigue:  18.1/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Muscle injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Evann Guessand                                 Fatigue:  26.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Justin Kluivert                                Fatigue:  28.1/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee surgery)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Jérémy Jacquet                                 Fatigue:  33.4/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Shoulder injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Abdoulaye Touré                                Fatigue:  32.5/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Kamory Doumbia                                 Fatigue:  31.5/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Adductor pain)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Kelvin Amian                                   Fatigue:  24.6/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Pubalgia)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Kenny Tete                                     Fatigue:  27.2/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Foot injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Kylian Mbappé                                  Fatigue:  34.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Muscle tear)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Kyllian Antonio                                Fatigue:  16.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Foot injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Ladislav Krejčí                                Fatigue:  35.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Neck injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Lucas Chevalier                                Fatigue:  55.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Hamstring injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Marc-Aurele Caillard                           Fatigue:  40.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Elbow injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Marcão                                         Fatigue:  29.8/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Scaphoid fracture)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Marius Broholm                                 Fatigue:   6.8/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Dead leg)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Marius Courcoul                                Fatigue:  45.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Matai Akinmboni                                Fatigue:  39.5/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Muscle injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Julien López                                   Fatigue:   7.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Back injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Julen Agirrezabala                             Fatigue:  35.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Meniscus tear)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Joseph Mangondo                                Fatigue:  12.8/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee problems)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Ilia Gruev                                     Fatigue:  20.7/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Meniscus injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Filip Jørgensen                                Fatigue:  24.6/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Groin surgery)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Geoffrey Kondogbia                             Fatigue:  28.7/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Dead leg)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Giorgi Mamardashvili                           Fatigue:  47.5/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Guglielmo Vicario                              Fatigue:  33.7/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (surgery)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Hamza Igamane                                  Fatigue:  11.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Cruciate ligament tear)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Igor Paixão                                    Fatigue:  31.4/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Calf injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   James McConnell                                Fatigue:   6.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (unknown injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Jordan Henderson                               Fatigue:  31.6/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knock)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Jamie Gittens                                  Fatigue:  27.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Hamstring injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Jan Salas                                      Fatigue:  34.2/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Partial damage to the cruciate ligament)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Jean-Philippe Krasso                           Fatigue:  11.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Jocelin Ta Bi                                  Fatigue:  25.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Ankle injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   John Victor                                    Fatigue:  34.1/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee surgery)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Jonathan Gradit                                Fatigue:  34.9/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Lower leg fracture)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Matt Doherty                                   Fatigue:  23.9/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (unknown injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Maxime Colin                                   Fatigue:  32.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Calf injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Mohamed Salah                                  Fatigue:  23.1/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Thigh problems)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Tuomas Ollila                                  Fatigue:  29.1/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Calf injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Rémi Himbert                                   Fatigue:  27.7/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Ankle injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Sam Johnstone                                  Fatigue:  19.5/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Shoulder injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Stanis Idumbo Muzambo                          Fatigue:   5.3/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Shoulder injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Stephan Zagadou                                Fatigue:  29.8/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Cruciate ligament tear)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Théo Le Bris                                   Fatigue:  24.5/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Tino Livramento                                Fatigue:  24.1/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Thigh problems)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Tylel Tati                                     Fatigue:  13.5/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Dead leg)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Romaine Mundle                                 Fatigue:  14.6/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Hamstring injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Vincent Marchetti                              Fatigue:   5.9/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Back injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Willy Boly                                     Fatigue:  40.0/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Knee injury)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   Wilson Odobert                                 Fatigue:  23.1/100  Risque: 100% (Prédiction du LM)
+                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ (Cruciate ligament tear)
+                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)
+
+   ... et 221 autres joueurs dans cette catégorie.
+
+🟠 MODÉRÉ (970 joueurs) :
+   ──────────────────────────────────────────────────────
+   Bernd Leno                                     Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Harry Maguire                                  Fatigue:  28.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Jaka Bijol                                     Fatigue:  31.8/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Jordan Lefort                                  Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Pierre-Emile Højbjerg                          Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Guido Rodríguez                                Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Pierre-Emerick Aubameyang                      Fatigue:  32.5/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Zaid Romero                                    Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Andriy Lunin                                   Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Nathan Collins                                 Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Matheus Cunha                                  Fatigue:  31.1/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Iñigo Ruiz de Galarreta                        Fatigue:  23.9/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Aïssa Mandi                                    Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Willian Pacho                                  Fatigue:  43.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   David Raya                                     Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Adrien Truffert                                Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   David Soria                                    Fatigue:  35.0/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Jérémy Doku                                    Fatigue:  27.1/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Ola Aina                                       Fatigue:  27.9/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Haris Belkebla                                 Fatigue:  33.5/100  Risque: 53% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   ... et 950 autres joueurs dans cette catégorie.
+
+🟢 FAIBLE (523 joueurs) :
+   ──────────────────────────────────────────────────────
+   Carlos Álvarez                                 Fatigue:  19.5/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Asier Hierro                                   Fatigue:  10.2/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Alexei Rojas                                   Fatigue:  34.7/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Julio Díaz                                     Fatigue:  27.7/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Wesley                                         Fatigue:   0.9/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Bertrand Traoré                                Fatigue:  30.7/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Tolu Arokodare                                 Fatigue:  25.5/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Hans Hateboer                                  Fatigue:  28.5/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Nick Pope                                      Fatigue:  19.7/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Etta Eyong                                     Fatigue:   9.9/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Ezra Mayers                                    Fatigue:  20.5/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Abdoulaye Bamba                                Fatigue:  23.0/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Borna Sosa                                     Fatigue:  24.7/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Lucas Hernandez                                Fatigue:   7.0/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Gerard Gumbau                                  Fatigue:   9.8/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Joel Roca                                      Fatigue:   9.2/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Donny van de Beek                              Fatigue:   6.6/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Charles Pickel                                 Fatigue:   9.5/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Tanguy Nianzou                                 Fatigue:  32.4/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   Dilane Bakwa                                   Fatigue:  10.2/100  Risque: 17% (Prédiction du LM)
+                                                   -> État Actuel : 🟢 APTE (Temps réduit)
+
+   ... et 503 autres joueurs dans cette catégorie.
+
