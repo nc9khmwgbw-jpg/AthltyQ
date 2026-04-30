@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jarrad Branthwaite,2025-05-10,Fulham,Everton,6.7,90,,,0.0,0,0,0.07,0.01,27,33,0,0,2,0,5,48
-Jarrad Branthwaite,2025-05-18,Everton,Southampton,7.1,74,,,0.0,0,0,0.05,0.01,48,59,0,0,2,0,4,64
-Jarrad Branthwaite,2025-08-09,Everton,Roma,7.4,79,,,0.0,0,0,0.0,0.0,42,44,0,0,1,0,4,57
-Jarrad Branthwaite,2026-01-26,Everton,Leeds United,7.3,45,,,0.0,0,0,0.0,0.02,49,56,1,0,0,0,5,62
-Jarrad Branthwaite,2026-01-31,Brighton & Hove Albion,Everton,6.4,89,,,0.0,0,0,0.02,0.01,27,36,0,0,0,0,5,54
-Jarrad Branthwaite,2026-02-07,Fulham,Everton,7.0,13,,,0.0,0,0,0.0,0.0,1,1,0,0,1,0,1,6
-Jarrad Branthwaite,2026-02-10,Everton,Bournemouth,6.9,90,,,0.0,0,0,0.16,0.01,40,53,0,0,2,0,1,66
-Jarrad Branthwaite,2026-02-23,Everton,Manchester United,6.8,90,,,0.0,0,0,0.0,0.04,30,38,1,0,3,0,4,59
-Jarrad Branthwaite,2026-02-28,Newcastle United,Everton,7.8,90,,,0.0,1,0,0.04,0.0,19,26,0,0,1,0,3,39
-Jarrad Branthwaite,2026-03-03,Everton,Burnley,7.4,83,,,0.0,0,0,0.06,0.01,62,65,0,0,1,0,0,71
-Jarrad Branthwaite,2026-03-21,Everton,Chelsea,6.6,12,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,0,8
-Jarrad Branthwaite,2026-04-11,Brentford,Everton,6.9,90,,,0.0,0,0,0.06,0.0,30,35,0,0,2,0,3,50
-Jarrad Branthwaite,2026-04-19,Everton,Liverpool,7.0,87,,,0.0,0,0,0.0,0.02,32,36,1,0,1,0,7,49
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jarrad Branthwaite,2025-05-10,Fulham,Everton,6.7,90,9714.0,20.0,107.93,0,0,0.07,0.01,27,33,0,0,2,0,5,48,0,2.06
+Jarrad Branthwaite,2025-05-18,Everton,Southampton,7.1,74,8089.0,17.0,109.31,0,0,0.05,0.01,48,59,0,0,2,0,4,64,0,2.1
+Jarrad Branthwaite,2025-08-09,Everton,Roma,7.4,79,8584.0,17.0,108.66,0,0,0.0,0.0,42,44,0,0,1,0,4,57,0,1.98
+Jarrad Branthwaite,2026-01-26,Everton,Leeds United,7.3,45,5048.0,9.0,112.18,0,0,0.0,0.02,49,56,1,0,0,0,5,62,0,1.78
+Jarrad Branthwaite,2026-01-31,Brighton & Hove Albion,Everton,6.4,89,9634.0,17.0,108.25,0,0,0.02,0.01,27,36,0,0,0,0,5,54,0,1.76
+Jarrad Branthwaite,2026-02-07,Fulham,Everton,7.0,13,1403.0,4.0,107.92,0,0,0.0,0.0,1,1,0,0,1,0,1,6,0,2.85
+Jarrad Branthwaite,2026-02-10,Everton,Bournemouth,6.9,90,9740.0,20.0,108.22,0,0,0.16,0.01,40,53,0,0,2,0,1,66,0,2.05
+Jarrad Branthwaite,2026-02-23,Everton,Manchester United,6.8,90,9748.0,22.0,108.31,0,0,0.0,0.04,30,38,1,0,3,0,4,59,0,2.26
+Jarrad Branthwaite,2026-02-28,Newcastle United,Everton,7.8,90,9651.0,19.0,107.23,1,0,0.04,0.0,19,26,0,0,1,0,3,39,0,1.97
+Jarrad Branthwaite,2026-03-03,Everton,Burnley,7.4,83,9013.0,17.0,108.59,0,0,0.06,0.01,62,65,0,0,1,0,0,71,0,1.89
+Jarrad Branthwaite,2026-03-21,Everton,Chelsea,6.6,12,1294.0,2.0,107.83,0,0,0.0,0.0,4,5,0,0,0,0,0,8,0,1.55
+Jarrad Branthwaite,2026-04-11,Brentford,Everton,6.9,90,9698.0,20.0,107.76,0,0,0.06,0.0,30,35,0,0,2,0,3,50,0,2.06
+Jarrad Branthwaite,2026-04-19,Everton,Liverpool,7.0,87,9428.0,18.0,108.37,0,0,0.0,0.02,32,36,1,0,1,0,7,49,0,1.91

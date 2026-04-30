@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Roman Yaremchuk,2026-01-24,Olympiacos FC,NPS Volos,6.4,26,,,0.0,0,0,0.09,0.04,4,5,0,0,0,0,0,7
-Roman Yaremchuk,2026-02-15,Olympique Lyonnais,Nice,6.5,9,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,0,8
-Roman Yaremchuk,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.7,32,,,0.0,0,0,0.0,0.04,6,9,1,0,0,0,1,10
-Roman Yaremchuk,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.6,60,,,0.0,0,0,0.14,0.11,12,15,1,0,0,0,2,23
-Roman Yaremchuk,2026-03-05,Olympique Lyonnais,RC Lens,7.1,90,,,0.0,1,0,0.0,0.0,15,20,1,0,0,0,5,34
-Roman Yaremchuk,2026-03-08,Olympique Lyonnais,Paris FC,6.2,32,,,0.0,0,0,0.0,0.01,4,6,0,0,0,0,1,11
-Roman Yaremchuk,2026-03-12,Celta Vigo,Olympique Lyonnais,6.5,90,,,0.0,0,0,0.28,0.03,17,17,1,0,0,0,0,23
-Roman Yaremchuk,2026-03-15,Le Havre,Olympique Lyonnais,6.4,32,,,0.0,0,0,0.16,0.0,2,3,0,0,0,0,0,7
-Roman Yaremchuk,2026-03-19,Olympique Lyonnais,Celta Vigo,7.0,45,,,0.0,0,0,0.0,0.01,5,7,1,0,0,0,0,15
-Roman Yaremchuk,2026-03-26,Ukraine,Sweden,6.5,30,,,0.0,0,0,0.0,0.0,8,11,0,0,0,0,1,11
-Roman Yaremchuk,2026-04-05,Angers,Olympique Lyonnais,6.6,35,,,0.0,0,0,0.0,0.26,7,11,1,0,0,0,0,14
-Roman Yaremchuk,2026-04-12,Olympique Lyonnais,Lorient,6.5,86,,,0.0,1,0,0.47,0.0,8,13,0,0,0,0,3,26
-Roman Yaremchuk,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Roman Yaremchuk,2026-04-25,Olympique Lyonnais,Auxerre,8.8,77,,,0.0,2,0,0.9,0.06,13,16,2,0,0,0,5,28
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Roman Yaremchuk,2026-01-24,Olympiacos FC,NPS Volos,6.4,26,2759.0,5.0,106.12,0,0,0.09,0.04,4,5,0,0,0,0,0,7,0,1.81
+Roman Yaremchuk,2026-02-15,Olympique Lyonnais,Nice,6.5,9,979.0,2.0,108.78,0,0,0.0,0.0,5,6,0,0,0,0,0,8,0,2.04
+Roman Yaremchuk,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.7,32,3414.0,6.0,106.69,0,0,0.0,0.04,6,9,1,0,0,0,1,10,0,1.76
+Roman Yaremchuk,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.6,60,6422.0,12.0,107.03,0,0,0.14,0.11,12,15,1,0,0,0,2,23,0,1.87
+Roman Yaremchuk,2026-03-05,Olympique Lyonnais,RC Lens,7.1,90,9655.0,17.0,107.28,1,0,0.0,0.0,15,20,1,0,0,0,5,34,0,1.76
+Roman Yaremchuk,2026-03-08,Olympique Lyonnais,Paris FC,6.2,32,3419.0,6.0,106.84,0,0,0.0,0.01,4,6,0,0,0,0,1,11,0,1.75
+Roman Yaremchuk,2026-03-12,Celta Vigo,Olympique Lyonnais,6.5,90,9547.0,17.0,106.08,0,0,0.28,0.03,17,17,1,0,0,0,0,23,0,1.78
+Roman Yaremchuk,2026-03-15,Le Havre,Olympique Lyonnais,6.4,32,3389.0,6.0,105.91,0,0,0.16,0.0,2,3,0,0,0,0,0,7,0,1.77
+Roman Yaremchuk,2026-03-19,Olympique Lyonnais,Celta Vigo,7.0,45,4788.0,9.0,106.4,0,0,0.0,0.01,5,7,1,0,0,0,0,15,0,1.88
+Roman Yaremchuk,2026-03-26,Ukraine,Sweden,6.5,30,3209.0,6.0,106.97,0,0,0.0,0.0,8,11,0,0,0,0,1,11,0,1.87
+Roman Yaremchuk,2026-04-05,Angers,Olympique Lyonnais,6.6,35,3734.0,7.0,106.69,0,0,0.0,0.26,7,11,1,0,0,0,0,14,0,1.87
+Roman Yaremchuk,2026-04-12,Olympique Lyonnais,Lorient,6.5,86,9177.0,17.0,106.71,1,0,0.47,0.0,8,13,0,0,0,0,3,26,0,1.85
+Roman Yaremchuk,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Roman Yaremchuk,2026-04-25,Olympique Lyonnais,Auxerre,8.8,77,8265.0,15.0,107.34,2,0,0.9,0.06,13,16,2,0,0,0,5,28,0,1.81

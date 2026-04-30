@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Evanilson,2026-01-07,Bournemouth,Tottenham Hotspur,6.5,64,,,0.0,1,0,0.11,0.03,8,9,1,0,1,0,1,23
-Evanilson,2026-01-10,Newcastle United,Bournemouth,5.9,92,,,0.0,0,0,0.0,0.0,25,28,2,0,2,0,1,41
-Evanilson,2026-01-19,Brighton & Hove Albion,Bournemouth,6.6,90,,,0.0,0,0,0.25,0.0,8,13,0,0,0,0,3,29
-Evanilson,2026-01-24,Bournemouth,Liverpool,7.2,89,,,0.0,1,0,0.97,0.03,11,16,2,0,1,0,3,30
-Evanilson,2026-01-31,Wolverhampton,Bournemouth,6.5,85,,,0.0,0,0,0.0,0.01,5,13,1,0,0,0,1,23
-Evanilson,2026-02-07,Bournemouth,Aston Villa,6.3,89,,,0.0,0,0,0.57,0.11,10,12,3,0,0,0,2,23
-Evanilson,2026-02-10,Everton,Bournemouth,6.4,58,,,0.0,0,0,0.12,0.01,8,11,0,0,0,0,1,14
-Evanilson,2026-02-21,West Ham United,Bournemouth,5.9,80,,,0.0,0,0,0.0,0.0,6,11,0,0,0,0,0,18
-Evanilson,2026-02-28,Bournemouth,Sunderland,7.3,40,,,0.0,1,0,0.15,0.0,4,6,0,0,0,0,0,9
-Evanilson,2026-03-03,Bournemouth,Brentford,6.9,80,,,0.0,0,0,0.0,0.21,16,18,2,0,0,0,5,26
-Evanilson,2026-03-14,Burnley,Bournemouth,6.1,90,,,0.0,0,0,0.74,0.0,6,12,0,0,0,0,6,27
-Evanilson,2026-03-20,Bournemouth,Manchester United,6.8,90,,,0.0,0,0,0.05,0.01,15,20,0,0,0,0,5,36
-Evanilson,2026-04-11,Arsenal,Bournemouth,6.4,89,,,0.0,0,0,0.04,0.03,7,11,1,0,1,0,3,21
-Evanilson,2026-04-18,Newcastle United,Bournemouth,5.9,89,,,0.0,0,0,1.12,0.03,11,13,1,0,0,0,1,24
-Evanilson,2026-04-22,Bournemouth,Leeds United,5.8,90,,,0.0,0,0,0.19,0.06,14,19,2,0,0,0,0,35
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Evanilson,2026-01-07,Bournemouth,Tottenham Hotspur,6.5,64,6829.0,14.0,106.7,1,0,0.11,0.03,8,9,1,0,1,0,1,23,0,2.05
+Evanilson,2026-01-10,Newcastle United,Bournemouth,5.9,92,9845.0,20.0,107.01,0,0,0.0,0.0,25,28,2,0,2,0,1,41,0,2.03
+Evanilson,2026-01-19,Brighton & Hove Albion,Bournemouth,6.6,90,9609.0,17.0,106.77,0,0,0.25,0.0,8,13,0,0,0,0,3,29,0,1.77
+Evanilson,2026-01-24,Bournemouth,Liverpool,7.2,89,9508.0,19.0,106.83,1,0,0.97,0.03,11,16,2,0,1,0,3,30,0,2.0
+Evanilson,2026-01-31,Wolverhampton,Bournemouth,6.5,85,9034.0,16.0,106.28,0,0,0.0,0.01,5,13,1,0,0,0,1,23,0,1.77
+Evanilson,2026-02-07,Bournemouth,Aston Villa,6.3,89,9467.0,17.0,106.37,0,0,0.57,0.11,10,12,3,0,0,0,2,23,0,1.8
+Evanilson,2026-02-10,Everton,Bournemouth,6.4,58,6161.0,11.0,106.22,0,0,0.12,0.01,8,11,0,0,0,0,1,14,0,1.79
+Evanilson,2026-02-21,West Ham United,Bournemouth,5.9,80,8476.0,15.0,105.95,0,0,0.0,0.0,6,11,0,0,0,0,0,18,0,1.77
+Evanilson,2026-02-28,Bournemouth,Sunderland,7.3,40,4238.0,8.0,105.95,1,0,0.15,0.0,4,6,0,0,0,0,0,9,0,1.89
+Evanilson,2026-03-03,Bournemouth,Brentford,6.9,80,8572.0,15.0,107.15,0,0,0.0,0.21,16,18,2,0,0,0,5,26,0,1.75
+Evanilson,2026-03-14,Burnley,Bournemouth,6.1,90,9638.0,17.0,107.09,0,0,0.74,0.0,6,12,0,0,0,0,6,27,0,1.76
+Evanilson,2026-03-20,Bournemouth,Manchester United,6.8,90,9664.0,17.0,107.38,0,0,0.05,0.01,15,20,0,0,0,0,5,36,0,1.76
+Evanilson,2026-04-11,Arsenal,Bournemouth,6.4,89,9471.0,19.0,106.42,0,0,0.04,0.03,7,11,1,0,1,0,3,21,0,2.01
+Evanilson,2026-04-18,Newcastle United,Bournemouth,5.9,89,9458.0,17.0,106.27,0,0,1.12,0.03,11,13,1,0,0,0,1,24,0,1.8
+Evanilson,2026-04-22,Bournemouth,Leeds United,5.8,90,9597.0,17.0,106.63,0,0,0.19,0.06,14,19,2,0,0,0,0,35,0,1.77

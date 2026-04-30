@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Rafa Mir,2025-12-13,Mallorca,Elche,6.7,87,,,0.0,0,0,0.07,0.0,13,19,0,0,0,0,1,30
-Rafa Mir,2025-12-16,Eibar,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rafa Mir,2025-12-21,Elche,Rayo Vallecano,6.2,89,,,0.0,0,0,0.35,0.03,14,18,0,0,1,0,2,33
-Rafa Mir,2026-01-03,Elche,Villarreal,6.5,79,,,0.0,0,0,0.1,0.04,25,27,1,0,0,0,2,39
-Rafa Mir,2026-02-13,Elche,Osasuna,6.4,11,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2
-Rafa Mir,2026-02-20,Athletic Club,Elche,6.4,15,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,5
-Rafa Mir,2026-03-01,Elche,Espanyol,6.9,90,,,0.0,1,0,1.27,0.0,5,11,0,0,0,0,0,29
-Rafa Mir,2026-03-08,Villarreal,Elche,6.4,77,,,0.0,0,0,0.03,0.15,16,18,2,0,0,0,5,29
-Rafa Mir,2026-03-14,Real Madrid,Elche,6.2,26,,,0.0,0,0,0.11,0.0,5,5,1,0,0,0,1,10
-Rafa Mir,2026-03-21,Elche,Mallorca,7.5,80,,,0.0,1,0,0.35,0.02,9,13,0,0,0,0,0,21
-Rafa Mir,2026-04-03,Rayo Vallecano,Elche,6.4,45,,,0.0,0,0,0.1,0.01,7,13,0,0,0,0,0,24
-Rafa Mir,2026-04-11,Elche,Valencia,6.9,90,,,0.0,0,0,0.2,0.0,10,15,0,0,0,0,0,26
-Rafa Mir,2026-04-22,Elche,Atlético Madrid,5.6,67,,,0.0,0,0,0.41,0.01,10,13,0,0,0,0,1,24
-Rafa Mir,2026-04-26,Real Oviedo,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rafa Mir,2025-12-13,Mallorca,Elche,6.7,87,9274.0,17.0,106.6,0,0,0.07,0.0,13,19,0,0,0,0,1,30,0,1.83
+Rafa Mir,2025-12-16,Eibar,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rafa Mir,2025-12-21,Elche,Rayo Vallecano,6.2,89,9509.0,19.0,106.84,0,0,0.35,0.03,14,18,0,0,1,0,2,33,0,2.0
+Rafa Mir,2026-01-03,Elche,Villarreal,6.5,79,8484.0,15.0,107.39,0,0,0.1,0.04,25,27,1,0,0,0,2,39,0,1.77
+Rafa Mir,2026-02-13,Elche,Osasuna,6.4,11,1163.0,2.0,105.73,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,1.72
+Rafa Mir,2026-02-20,Athletic Club,Elche,6.4,15,1596.0,3.0,106.4,0,0,0.0,0.0,2,2,0,0,0,0,0,5,0,1.88
+Rafa Mir,2026-03-01,Elche,Espanyol,6.9,90,9572.0,17.0,106.36,1,0,1.27,0.0,5,11,0,0,0,0,0,29,0,1.78
+Rafa Mir,2026-03-08,Villarreal,Elche,6.4,77,8269.0,15.0,107.39,0,0,0.03,0.15,16,18,2,0,0,0,5,29,0,1.81
+Rafa Mir,2026-03-14,Real Madrid,Elche,6.2,26,2784.0,5.0,107.08,0,0,0.11,0.0,5,5,1,0,0,0,1,10,0,1.8
+Rafa Mir,2026-03-21,Elche,Mallorca,7.5,80,8488.0,15.0,106.1,1,0,0.35,0.02,9,13,0,0,0,0,0,21,0,1.77
+Rafa Mir,2026-04-03,Rayo Vallecano,Elche,6.4,45,4826.0,9.0,107.24,0,0,0.1,0.01,7,13,0,0,0,0,0,24,0,1.86
+Rafa Mir,2026-04-11,Elche,Valencia,6.9,90,9559.0,17.0,106.21,0,0,0.2,0.0,10,15,0,0,0,0,0,26,0,1.78
+Rafa Mir,2026-04-22,Elche,Atlético Madrid,5.6,67,7148.0,13.0,106.69,0,0,0.41,0.01,10,13,0,0,0,0,1,24,0,1.82
+Rafa Mir,2026-04-26,Real Oviedo,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

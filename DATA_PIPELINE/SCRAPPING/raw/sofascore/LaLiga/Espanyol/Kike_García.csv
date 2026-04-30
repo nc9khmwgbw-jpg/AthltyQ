@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kike García,2026-01-11,Levante UD,Espanyol,6.3,61,,,0.0,0,0,0.04,0.14,11,14,2,0,0,0,4,24
-Kike García,2026-01-16,Espanyol,Girona FC,6.6,20,,,0.0,0,0,0.0,0.0,2,2,1,0,0,0,0,7
-Kike García,2026-01-24,Valencia,Espanyol,6.7,39,,,0.0,0,0,0.61,0.65,3,4,2,0,0,0,0,21
-Kike García,2026-01-30,Espanyol,Deportivo Alavés,6.3,90,,,0.0,0,0,0.26,0.0,7,16,0,0,0,0,5,29
-Kike García,2026-02-09,Villarreal,Espanyol,6.3,31,,,0.0,0,0,0.03,0.01,9,9,0,0,1,0,0,14
-Kike García,2026-02-14,Espanyol,Celta Vigo,7.9,34,,,0.0,1,0,0.11,0.02,6,7,0,0,0,0,1,16
-Kike García,2026-02-21,Atlético Madrid,Espanyol,5.7,70,,,0.0,0,0,0.0,0.02,17,23,1,0,0,0,2,35
-Kike García,2026-03-01,Elche,Espanyol,7.5,76,,,0.0,1,0,0.08,0.02,10,17,0,0,1,0,2,25
-Kike García,2026-03-09,Espanyol,Real Oviedo,7.7,90,,,0.0,1,0,0.25,0.02,21,26,2,0,0,0,5,47
-Kike García,2026-03-15,Mallorca,Espanyol,6.6,71,,,0.0,0,0,0.65,0.0,10,15,0,0,0,0,2,27
-Kike García,2026-03-21,Espanyol,Getafe,6.9,90,,,0.0,0,0,0.51,0.01,12,17,0,0,1,0,1,37
-Kike García,2026-04-04,Real Betis,Espanyol,6.4,32,,,0.0,0,0,0.0,0.01,6,7,1,0,0,0,0,9
-Kike García,2026-04-11,FC Barcelona,Espanyol,6.1,71,,,0.0,0,0,0.14,0.0,7,9,0,0,0,0,0,20
-Kike García,2026-04-23,Rayo Vallecano,Espanyol,5.8,90,,,0.0,0,0,1.08,0.01,11,19,0,0,0,0,1,43
-Kike García,2026-04-27,Espanyol,Levante UD,6.4,85,,,0.0,0,0,0.5,0.07,11,15,0,0,0,0,1,30
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kike García,2026-01-11,Levante UD,Espanyol,6.3,61,6556.0,12.0,107.48,0,0,0.04,0.14,11,14,2,0,0,0,4,24,0,1.83
+Kike García,2026-01-16,Espanyol,Girona FC,6.6,20,2129.0,4.0,106.45,0,0,0.0,0.0,2,2,1,0,0,0,0,7,0,1.88
+Kike García,2026-01-24,Valencia,Espanyol,6.7,39,4183.0,8.0,107.26,0,0,0.61,0.65,3,4,2,0,0,0,0,21,0,1.91
+Kike García,2026-01-30,Espanyol,Deportivo Alavés,6.3,90,9634.0,17.0,107.04,0,0,0.26,0.0,7,16,0,0,0,0,5,29,0,1.76
+Kike García,2026-02-09,Villarreal,Espanyol,6.3,31,3314.0,7.0,106.9,0,0,0.03,0.01,9,9,0,0,1,0,0,14,0,2.11
+Kike García,2026-02-14,Espanyol,Celta Vigo,7.9,34,3650.0,7.0,107.35,1,0,0.11,0.02,6,7,0,0,0,0,1,16,0,1.92
+Kike García,2026-02-21,Atlético Madrid,Espanyol,5.7,70,7522.0,13.0,107.46,0,0,0.0,0.02,17,23,1,0,0,0,2,35,0,1.73
+Kike García,2026-03-01,Elche,Espanyol,7.5,76,8110.0,16.0,106.71,1,0,0.08,0.02,10,17,0,0,1,0,2,25,0,1.97
+Kike García,2026-03-09,Espanyol,Real Oviedo,7.7,90,9710.0,17.0,107.89,1,0,0.25,0.02,21,26,2,0,0,0,5,47,0,1.75
+Kike García,2026-03-15,Mallorca,Espanyol,6.6,71,7593.0,14.0,106.94,0,0,0.65,0.0,10,15,0,0,0,0,2,27,0,1.84
+Kike García,2026-03-21,Espanyol,Getafe,6.9,90,9618.0,19.0,106.87,0,0,0.51,0.01,12,17,0,0,1,0,1,37,0,1.98
+Kike García,2026-04-04,Real Betis,Espanyol,6.4,32,3398.0,6.0,106.19,0,0,0.0,0.01,6,7,1,0,0,0,0,9,0,1.77
+Kike García,2026-04-11,FC Barcelona,Espanyol,6.1,71,7539.0,14.0,106.18,0,0,0.14,0.0,7,9,0,0,0,0,0,20,0,1.86
+Kike García,2026-04-23,Rayo Vallecano,Espanyol,5.8,90,9643.0,17.0,107.14,0,0,1.08,0.01,11,19,0,0,0,0,1,43,0,1.76
+Kike García,2026-04-27,Espanyol,Levante UD,6.4,85,9064.0,16.0,106.64,0,0,0.5,0.07,11,15,0,0,0,0,1,30,0,1.77

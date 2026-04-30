@@ -1,8 +1,8 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ruben Montero,2025-08-30,Deportivo Alavés,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Montero,2025-09-27,Mallorca,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Montero,2025-12-14,Deportivo Alavés,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Montero,2026-01-25,Deportivo Alavés,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Montero,2026-01-30,Espanyol,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Montero,2026-03-22,Celta Vigo,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Montero,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ruben Montero,2025-08-30,Deportivo Alavés,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Montero,2025-09-27,Mallorca,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Montero,2025-12-14,Deportivo Alavés,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Montero,2026-01-25,Deportivo Alavés,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Montero,2026-01-30,Espanyol,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Montero,2026-03-22,Celta Vigo,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Montero,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

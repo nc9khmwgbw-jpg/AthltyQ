@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ruben Aguilar,2025-11-22,RC Lens,RC Strasbourg,6.4,90,,,0.0,0,0,0.0,0.01,41,45,0,0,2,0,8,71
-Ruben Aguilar,2025-11-30,Angers,RC Lens,6.5,78,,,0.0,0,0,0.0,0.16,38,46,3,0,4,0,4,75
-Ruben Aguilar,2025-12-06,Nantes,RC Lens,7.1,90,,,0.0,0,0,0.01,0.13,62,69,1,0,3,0,9,103
-Ruben Aguilar,2025-12-14,RC Lens,Nice,6.7,90,,,0.0,0,0,0.14,0.02,25,38,0,0,2,0,5,72
-Ruben Aguilar,2025-12-19,RC Lens,Entente Feignies-Aulnoye,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Aguilar,2026-01-11,Sochaux,RC Lens,6.7,14,,,0.0,0,0,0.0,0.0,13,14,0,0,0,0,2,17
-Ruben Aguilar,2026-01-17,RC Lens,Auxerre,6.9,24,,,0.0,0,0,0.02,0.03,5,7,0,0,0,0,0,14
-Ruben Aguilar,2026-01-24,Olympique de Marseille,RC Lens,6.4,78,,,0.0,0,0,0.0,0.06,34,39,1,0,2,0,2,50
-Ruben Aguilar,2026-01-30,RC Lens,Le Havre,7.8,90,,,0.0,1,0,0.26,0.05,47,56,1,0,0,0,2,86
-Ruben Aguilar,2026-02-04,Troyes,RC Lens,6.8,21,,,0.0,0,0,0.0,0.0,9,11,1,0,0,0,0,20
-Ruben Aguilar,2026-02-07,RC Lens,Stade Rennais,7.2,56,,,0.0,1,0,0.25,0.39,19,27,1,0,1,0,2,55
-Ruben Aguilar,2026-02-21,RC Lens,AS Monaco,6.7,12,,,0.0,0,0,0.0,0.0,10,10,0,0,0,0,0,10
-Ruben Aguilar,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ruben Aguilar,2026-04-21,RC Lens,Toulouse,6.5,12,,,0.0,0,0,0.0,0.0,6,8,0,0,0,0,0,8
-Ruben Aguilar,2026-04-24,Stade Brestois,RC Lens,7.3,52,,,0.0,0,0,0.0,0.26,44,47,4,0,0,0,6,58
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ruben Aguilar,2025-11-22,RC Lens,RC Strasbourg,6.4,90,9848.0,20.0,109.42,0,0,0.0,0.01,41,45,0,0,2,0,8,71,0,2.03
+Ruben Aguilar,2025-11-30,Angers,RC Lens,6.5,78,8555.0,21.0,109.68,0,0,0.0,0.16,38,46,3,0,4,0,4,75,0,2.45
+Ruben Aguilar,2025-12-06,Nantes,RC Lens,7.1,90,9995.0,22.0,111.06,0,0,0.01,0.13,62,69,1,0,3,0,9,103,0,2.2
+Ruben Aguilar,2025-12-14,RC Lens,Nice,6.7,90,9815.0,20.0,109.06,0,0,0.14,0.02,25,38,0,0,2,0,5,72,0,2.04
+Ruben Aguilar,2025-12-19,RC Lens,Entente Feignies-Aulnoye,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Aguilar,2026-01-11,Sochaux,RC Lens,6.7,14,1566.0,3.0,111.86,0,0,0.0,0.0,13,14,0,0,0,0,2,17,0,1.92
+Ruben Aguilar,2026-01-17,RC Lens,Auxerre,6.9,24,2579.0,5.0,107.46,0,0,0.02,0.03,5,7,0,0,0,0,0,14,0,1.94
+Ruben Aguilar,2026-01-24,Olympique de Marseille,RC Lens,6.4,78,8425.0,18.0,108.01,0,0,0.0,0.06,34,39,1,0,2,0,2,50,0,2.14
+Ruben Aguilar,2026-01-30,RC Lens,Le Havre,7.8,90,9836.0,17.0,109.29,1,0,0.26,0.05,47,56,1,0,0,0,2,86,0,1.73
+Ruben Aguilar,2026-02-04,Troyes,RC Lens,6.8,21,2289.0,4.0,109.0,0,0,0.0,0.0,9,11,1,0,0,0,0,20,0,1.75
+Ruben Aguilar,2026-02-07,RC Lens,Stade Rennais,7.2,56,6136.0,12.0,109.57,1,0,0.25,0.39,19,27,1,0,1,0,2,55,0,1.96
+Ruben Aguilar,2026-02-21,RC Lens,AS Monaco,6.7,12,1302.0,2.0,108.5,0,0,0.0,0.0,10,10,0,0,0,0,0,10,0,1.54
+Ruben Aguilar,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ruben Aguilar,2026-04-21,RC Lens,Toulouse,6.5,12,1294.0,2.0,107.83,0,0,0.0,0.0,6,8,0,0,0,0,0,8,0,1.55
+Ruben Aguilar,2026-04-24,Stade Brestois,RC Lens,7.3,52,5779.0,10.0,111.13,0,0,0.0,0.26,44,47,4,0,0,0,6,58,0,1.73

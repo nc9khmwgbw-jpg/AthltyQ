@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Harvey Barnes,2026-02-18,Qarabağ FK,Newcastle United,6.6,87,,,0.0,0,0,1.04,0.07,22,25,3,0,0,0,4,43
-Harvey Barnes,2026-02-21,Manchester City,Newcastle United,6.6,30,,,0.0,0,0,0.01,0.01,9,11,0,0,0,0,0,15
-Harvey Barnes,2026-02-24,Newcastle United,Qarabağ FK,8.0,90,,,0.0,0,0,0.09,0.95,27,34,3,0,0,0,4,54
-Harvey Barnes,2026-02-28,Newcastle United,Everton,6.6,34,,,0.0,0,0,0.11,0.1,24,27,1,0,0,0,2,34
-Harvey Barnes,2026-03-04,Newcastle United,Manchester United,6.3,45,,,0.0,0,0,0.26,0.01,9,11,0,0,0,0,0,16
-Harvey Barnes,2026-03-07,Newcastle United,Manchester City,7.7,90,,,0.0,1,0,0.0,0.0,11,14,1,0,0,0,5,24
-Harvey Barnes,2026-03-10,Newcastle United,FC Barcelona,7.4,89,,,0.0,1,0,0.72,0.01,10,13,0,0,1,0,1,29
-Harvey Barnes,2026-03-14,Chelsea,Newcastle United,6.5,90,,,0.0,0,0,0.0,0.04,17,24,1,0,1,0,1,34
-Harvey Barnes,2026-03-18,FC Barcelona,Newcastle United,7.1,90,,,0.0,0,0,0.08,0.68,15,17,1,0,0,0,4,30
-Harvey Barnes,2026-03-22,Newcastle United,Sunderland,6.4,76,,,0.0,0,0,0.05,0.01,14,17,1,0,0,0,3,28
-Harvey Barnes,2026-03-27,England,Uruguay,6.7,21,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4
-Harvey Barnes,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Harvey Barnes,2026-04-12,Crystal Palace,Newcastle United,6.4,19,,,0.0,0,0,0.0,0.01,8,12,0,0,0,0,0,16
-Harvey Barnes,2026-04-18,Newcastle United,Bournemouth,6.4,90,,,0.0,0,0,0.17,0.08,18,26,0,0,0,0,5,46
-Harvey Barnes,2026-04-25,Arsenal,Newcastle United,6.8,24,,,0.0,0,0,0.0,0.07,10,10,1,0,0,0,2,13
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Harvey Barnes,2026-02-18,Qarabağ FK,Newcastle United,6.6,87,9366.0,17.0,107.66,0,0,1.04,0.07,22,25,3,0,0,0,4,43,0,1.82
+Harvey Barnes,2026-02-21,Manchester City,Newcastle United,6.6,30,3213.0,6.0,107.1,0,0,0.01,0.01,9,11,0,0,0,0,0,15,0,1.87
+Harvey Barnes,2026-02-24,Newcastle United,Qarabağ FK,8.0,90,9727.0,17.0,108.08,0,0,0.09,0.95,27,34,3,0,0,0,4,54,0,1.75
+Harvey Barnes,2026-02-28,Newcastle United,Everton,6.6,34,3738.0,7.0,109.94,0,0,0.11,0.1,24,27,1,0,0,0,2,34,0,1.87
+Harvey Barnes,2026-03-04,Newcastle United,Manchester United,6.3,45,4792.0,9.0,106.49,0,0,0.26,0.01,9,11,0,0,0,0,0,16,0,1.88
+Harvey Barnes,2026-03-07,Newcastle United,Manchester City,7.7,90,9613.0,17.0,106.81,1,0,0.0,0.0,11,14,1,0,0,0,5,24,0,1.77
+Harvey Barnes,2026-03-10,Newcastle United,FC Barcelona,7.4,89,9479.0,19.0,106.51,1,0,0.72,0.01,10,13,0,0,1,0,1,29,0,2.0
+Harvey Barnes,2026-03-14,Chelsea,Newcastle United,6.5,90,9605.0,19.0,106.72,0,0,0.0,0.04,17,24,1,0,1,0,1,34,0,1.98
+Harvey Barnes,2026-03-18,FC Barcelona,Newcastle United,7.1,90,9626.0,17.0,106.96,0,0,0.08,0.68,15,17,1,0,0,0,4,30,0,1.77
+Harvey Barnes,2026-03-22,Newcastle United,Sunderland,6.4,76,8135.0,15.0,107.04,0,0,0.05,0.01,14,17,1,0,0,0,3,28,0,1.84
+Harvey Barnes,2026-03-27,England,Uruguay,6.7,21,2234.0,4.0,106.38,0,0,0.0,0.0,1,1,0,0,0,0,1,4,0,1.79
+Harvey Barnes,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Harvey Barnes,2026-04-12,Crystal Palace,Newcastle United,6.4,19,2062.0,4.0,108.53,0,0,0.0,0.01,8,12,0,0,0,0,0,16,0,1.94
+Harvey Barnes,2026-04-18,Newcastle United,Bournemouth,6.4,90,9706.0,17.0,107.84,0,0,0.17,0.08,18,26,0,0,0,0,5,46,0,1.75
+Harvey Barnes,2026-04-25,Arsenal,Newcastle United,6.8,24,2600.0,5.0,108.33,0,0,0.0,0.07,10,10,1,0,0,0,2,13,0,1.92

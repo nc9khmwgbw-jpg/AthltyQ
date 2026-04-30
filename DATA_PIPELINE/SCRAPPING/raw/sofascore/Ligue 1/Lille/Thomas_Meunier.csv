@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Thomas Meunier,2026-01-16,Paris Saint-Germain,Lille,6.2,8,,,0.0,0,0,0.0,0.01,6,6,0,0,0,0,1,6
-Thomas Meunier,2026-01-22,Celta Vigo,Lille,6.3,45,,,0.0,0,0,0.0,0.03,33,36,0,0,0,0,3,46
-Thomas Meunier,2026-01-25,Lille,RC Strasbourg,6.2,21,,,0.0,0,0,0.0,0.0,11,14,0,0,0,0,1,20
-Thomas Meunier,2026-03-01,Lille,Nantes,7.4,27,,,0.0,0,0,0.0,0.13,27,31,1,0,0,0,1,44
-Thomas Meunier,2026-03-08,Lille,Lorient,6.3,17,,,0.0,0,0,0.0,0.0,7,10,0,0,0,0,1,13
-Thomas Meunier,2026-03-12,Lille,Aston Villa,6.7,24,,,0.0,0,0,0.0,0.04,17,22,0,0,0,0,1,26
-Thomas Meunier,2026-03-15,Stade Rennais,Lille,7.3,90,,,0.0,0,0,0.22,0.01,27,41,0,0,1,0,5,72
-Thomas Meunier,2026-03-19,Aston Villa,Lille,6.8,81,,,0.0,0,0,0.02,0.01,36,43,0,0,0,0,5,57
-Thomas Meunier,2026-03-22,Olympique de Marseille,Lille,7.9,90,,,0.0,1,0,0.13,0.24,23,31,2,0,0,0,2,44
-Thomas Meunier,2026-03-28,USA,Belgium,7.0,70,,,0.0,0,0,0.0,0.0,27,30,2,0,2,0,4,44
-Thomas Meunier,2026-04-01,Mexico,Belgium,6.8,27,,,0.0,0,0,0.0,0.0,10,13,0,0,1,0,2,17
-Thomas Meunier,2026-04-04,Lille,RC Lens,6.7,90,,,0.0,0,0,0.0,0.01,39,42,0,0,0,0,3,62
-Thomas Meunier,2026-04-12,Toulouse,Lille,7.8,82,,,0.0,0,0,0.0,0.31,49,56,1,0,2,0,4,67
-Thomas Meunier,2026-04-18,Lille,Nice,7.3,90,,,0.0,0,0,0.0,0.17,63,70,1,0,0,0,7,97
-Thomas Meunier,2026-04-26,Paris FC,Lille,6.8,90,,,0.0,0,0,0.05,0.25,46,54,1,0,0,0,5,76
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Thomas Meunier,2026-01-16,Paris Saint-Germain,Lille,6.2,8,878.0,2.0,109.75,0,0,0.0,0.01,6,6,0,0,0,0,1,6,0,2.28
+Thomas Meunier,2026-01-22,Celta Vigo,Lille,6.3,45,4956.0,9.0,110.13,0,0,0.0,0.03,33,36,0,0,0,0,3,46,0,1.82
+Thomas Meunier,2026-01-25,Lille,RC Strasbourg,6.2,21,2302.0,4.0,109.62,0,0,0.0,0.0,11,14,0,0,0,0,1,20,0,1.74
+Thomas Meunier,2026-03-01,Lille,Nantes,7.4,27,3032.0,5.0,112.3,0,0,0.0,0.13,27,31,1,0,0,0,1,44,0,1.65
+Thomas Meunier,2026-03-08,Lille,Lorient,6.3,17,1852.0,3.0,108.94,0,0,0.0,0.0,7,10,0,0,0,0,1,13,0,1.62
+Thomas Meunier,2026-03-12,Lille,Aston Villa,6.7,24,2642.0,5.0,110.08,0,0,0.0,0.04,17,22,0,0,0,0,1,26,0,1.89
+Thomas Meunier,2026-03-15,Stade Rennais,Lille,7.3,90,9815.0,19.0,109.06,0,0,0.22,0.01,27,41,0,0,1,0,5,72,0,1.94
+Thomas Meunier,2026-03-19,Aston Villa,Lille,6.8,81,8807.0,16.0,108.73,0,0,0.02,0.01,36,43,0,0,0,0,5,57,0,1.82
+Thomas Meunier,2026-03-22,Olympique de Marseille,Lille,7.9,90,9660.0,17.0,107.33,1,0,0.13,0.24,23,31,2,0,0,0,2,44,0,1.76
+Thomas Meunier,2026-03-28,USA,Belgium,7.0,70,7585.0,16.0,108.36,0,0,0.0,0.0,27,30,2,0,2,0,4,44,0,2.11
+Thomas Meunier,2026-04-01,Mexico,Belgium,6.8,27,2931.0,7.0,108.56,0,0,0.0,0.0,10,13,0,0,1,0,2,17,0,2.39
+Thomas Meunier,2026-04-04,Lille,RC Lens,6.7,90,9748.0,17.0,108.31,0,0,0.0,0.01,39,42,0,0,0,0,3,62,0,1.74
+Thomas Meunier,2026-04-12,Toulouse,Lille,7.8,82,8941.0,19.0,109.04,0,0,0.0,0.31,49,56,1,0,2,0,4,67,0,2.13
+Thomas Meunier,2026-04-18,Lille,Nice,7.3,90,9945.0,17.0,110.5,0,0,0.0,0.17,63,70,1,0,0,0,7,97,0,1.71
+Thomas Meunier,2026-04-26,Paris FC,Lille,6.8,90,9832.0,17.0,109.24,0,0,0.05,0.25,46,54,1,0,0,0,5,76,0,1.73

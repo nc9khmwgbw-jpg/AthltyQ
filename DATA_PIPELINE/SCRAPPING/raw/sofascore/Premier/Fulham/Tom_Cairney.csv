@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tom Cairney,2026-01-04,Fulham,Liverpool,7.0,74,,,0.0,0,0,0.0,0.02,62,67,1,0,1,0,4,74
-Tom Cairney,2026-01-07,Fulham,Chelsea,7.0,73,,,0.0,0,0,0.03,0.06,68,74,1,0,1,0,5,81
-Tom Cairney,2026-01-10,Fulham,Middlesbrough,7.5,34,,,0.0,0,0,0.0,0.0,35,38,1,0,1,0,3,41
-Tom Cairney,2026-01-17,Leeds United,Fulham,6.5,24,,,0.0,0,0,0.0,0.01,19,21,0,0,0,0,2,24
-Tom Cairney,2026-01-24,Fulham,Brighton & Hove Albion,6.4,21,,,0.0,0,0,0.16,0.0,6,6,0,0,0,0,0,9
-Tom Cairney,2026-02-01,Manchester United,Fulham,6.5,11,,,0.0,0,0,0.0,0.01,23,26,0,0,0,0,0,27
-Tom Cairney,2026-02-22,Sunderland,Fulham,6.6,12,,,0.0,0,0,0.0,0.0,6,7,0,0,0,0,1,8
-Tom Cairney,2026-03-01,Fulham,Tottenham Hotspur,6.8,18,,,0.0,0,0,0.13,0.01,14,16,0,0,0,0,3,18
-Tom Cairney,2026-03-04,Fulham,West Ham United,6.6,61,,,0.0,0,0,0.0,0.06,39,42,1,0,0,0,4,44
-Tom Cairney,2026-03-08,Fulham,Southampton,7.2,65,,,0.0,0,0,0.0,0.0,74,79,1,0,0,0,6,91
-Tom Cairney,2026-03-15,Nottingham Forest,Fulham,6.9,12,,,0.0,0,0,0.0,0.01,16,16,0,0,0,0,1,17
-Tom Cairney,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tom Cairney,2026-04-11,Liverpool,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tom Cairney,2026-04-18,Brentford,Fulham,7.3,81,,,0.0,0,0,0.0,0.25,64,66,2,0,0,0,3,75
-Tom Cairney,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tom Cairney,2026-01-04,Fulham,Liverpool,7.0,74,8131.0,16.0,109.88,0,0,0.0,0.02,62,67,1,0,1,0,4,74,0,1.97
+Tom Cairney,2026-01-07,Fulham,Chelsea,7.0,73,8068.0,15.0,110.52,0,0,0.03,0.06,68,74,1,0,1,0,5,81,0,1.86
+Tom Cairney,2026-01-10,Fulham,Middlesbrough,7.5,34,3780.0,8.0,111.18,0,0,0.0,0.0,35,38,1,0,1,0,3,41,0,2.12
+Tom Cairney,2026-01-17,Leeds United,Fulham,6.5,24,2646.0,5.0,110.25,0,0,0.0,0.01,19,21,0,0,0,0,2,24,0,1.89
+Tom Cairney,2026-01-24,Fulham,Brighton & Hove Albion,6.4,21,2243.0,4.0,106.81,0,0,0.16,0.0,6,6,0,0,0,0,0,9,0,1.78
+Tom Cairney,2026-02-01,Manchester United,Fulham,6.5,11,1268.0,2.0,115.27,0,0,0.0,0.01,23,26,0,0,0,0,0,27,0,1.58
+Tom Cairney,2026-02-22,Sunderland,Fulham,6.6,12,1306.0,2.0,108.83,0,0,0.0,0.0,6,7,0,0,0,0,1,8,0,1.53
+Tom Cairney,2026-03-01,Fulham,Tottenham Hotspur,6.8,18,2003.0,3.0,111.28,0,0,0.13,0.01,14,16,0,0,0,0,3,18,0,1.5
+Tom Cairney,2026-03-04,Fulham,West Ham United,6.6,61,6640.0,12.0,108.85,0,0,0.0,0.06,39,42,1,0,0,0,4,44,0,1.81
+Tom Cairney,2026-03-08,Fulham,Southampton,7.2,65,7282.0,12.0,112.03,0,0,0.0,0.0,74,79,1,0,0,0,6,91,0,1.65
+Tom Cairney,2026-03-15,Nottingham Forest,Fulham,6.9,12,1344.0,2.0,112.0,0,0,0.0,0.01,16,16,0,0,0,0,1,17,0,1.49
+Tom Cairney,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tom Cairney,2026-04-11,Liverpool,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tom Cairney,2026-04-18,Brentford,Fulham,7.3,81,8858.0,16.0,109.36,0,0,0.0,0.25,64,66,2,0,0,0,3,75,0,1.81
+Tom Cairney,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

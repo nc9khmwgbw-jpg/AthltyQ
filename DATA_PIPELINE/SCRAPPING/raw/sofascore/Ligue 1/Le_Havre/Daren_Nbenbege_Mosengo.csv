@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Daren Nbenbege Mosengo,2025-12-21,Le Havre,Amiens SC,6.5,45,,,0.0,0,0,0.0,0.0,21,24,0,0,1,0,1,27
-Daren Nbenbege Mosengo,2026-01-04,Le Havre,Angers,6.5,33,,,0.0,0,0,0.0,0.0,8,11,0,0,0,0,4,17
-Daren Nbenbege Mosengo,2026-01-24,Le Havre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-01-30,RC Lens,Le Havre,6.8,31,,,0.0,0,0,0.0,0.0,22,25,0,0,1,0,3,34
-Daren Nbenbege Mosengo,2026-02-08,Le Havre,RC Strasbourg,6.5,8,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,2,2
-Daren Nbenbege Mosengo,2026-02-15,Le Havre,Toulouse,6.6,25,,,0.0,0,0,0.0,0.0,1,4,0,0,0,0,0,8
-Daren Nbenbege Mosengo,2026-02-22,Nantes,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-02-28,Le Havre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-03-08,Stade Brestois,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-03-15,Le Havre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-03-22,Paris FC,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-04-12,Nice,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daren Nbenbege Mosengo,2026-04-18,Angers,Le Havre,,1,,,0.0,0,0,0.0,0.01,1,1,0,0,0,0,0,2
-Daren Nbenbege Mosengo,2026-04-26,Le Havre,Metz,,1,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,2,3
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Daren Nbenbege Mosengo,2025-12-21,Le Havre,Amiens SC,6.5,45,4851.0,10.0,107.8,0,0,0.0,0.0,21,24,0,0,1,0,1,27,0,2.06
+Daren Nbenbege Mosengo,2026-01-04,Le Havre,Angers,6.5,33,3586.0,6.0,108.67,0,0,0.0,0.0,8,11,0,0,0,0,4,17,0,1.67
+Daren Nbenbege Mosengo,2026-01-24,Le Havre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-01-30,RC Lens,Le Havre,6.8,31,3435.0,7.0,110.81,0,0,0.0,0.0,22,25,0,0,1,0,3,34,0,2.04
+Daren Nbenbege Mosengo,2026-02-08,Le Havre,RC Strasbourg,6.5,8,873.0,2.0,109.12,0,0,0.0,0.0,1,2,0,0,0,0,2,2,0,2.29
+Daren Nbenbege Mosengo,2026-02-15,Le Havre,Toulouse,6.6,25,2659.0,5.0,106.36,0,0,0.0,0.0,1,4,0,0,0,0,0,8,0,1.88
+Daren Nbenbege Mosengo,2026-02-22,Nantes,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-02-28,Le Havre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-03-08,Stade Brestois,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-03-15,Le Havre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-03-22,Paris FC,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-04-12,Nice,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daren Nbenbege Mosengo,2026-04-18,Angers,Le Havre,,1,113.0,0.0,113.0,0,0,0.0,0.01,1,1,0,0,0,0,0,2,0,0.0
+Daren Nbenbege Mosengo,2026-04-26,Le Havre,Metz,,1,143.0,0.0,143.0,0,0,0.0,0.0,2,2,0,0,0,0,2,3,0,0.0

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kiernan Dewsbury-Hall,2025-12-02,Bournemouth,Everton,7.1,90,,,0.0,0,0,0.0,0.04,38,47,0,0,1,0,6,64
-Kiernan Dewsbury-Hall,2025-12-06,Everton,Nottingham Forest,8.3,90,,,0.0,1,0,0.17,0.04,24,29,0,0,1,0,5,58
-Kiernan Dewsbury-Hall,2025-12-13,Chelsea,Everton,6.7,16,,,0.0,0,0,0.0,0.0,5,5,0,0,0,0,0,8
-Kiernan Dewsbury-Hall,2026-01-26,Everton,Leeds United,6.5,45,,,0.0,0,0,0.0,0.05,35,41,0,0,0,0,2,55
-Kiernan Dewsbury-Hall,2026-01-31,Brighton & Hove Albion,Everton,6.5,79,,,0.0,0,0,0.4,0.01,29,34,0,0,0,0,1,50
-Kiernan Dewsbury-Hall,2026-02-07,Fulham,Everton,7.6,89,,,0.0,1,0,0.22,0.36,26,30,3,0,0,0,4,44
-Kiernan Dewsbury-Hall,2026-02-10,Everton,Bournemouth,6.9,90,,,0.0,0,0,0.16,0.09,35,40,0,0,0,0,4,68
-Kiernan Dewsbury-Hall,2026-02-23,Everton,Manchester United,6.8,90,,,0.0,0,0,0.06,0.08,46,55,1,0,0,0,10,83
-Kiernan Dewsbury-Hall,2026-02-28,Newcastle United,Everton,7.3,89,,,0.0,0,0,0.0,0.62,21,25,3,0,0,0,8,37
-Kiernan Dewsbury-Hall,2026-03-03,Everton,Burnley,7.6,90,,,0.0,1,0,0.6,0.03,38,47,0,0,1,0,5,64
-Kiernan Dewsbury-Hall,2026-03-14,Arsenal,Everton,6.3,90,,,0.0,0,0,0.08,0.01,21,28,0,0,0,0,2,40
-Kiernan Dewsbury-Hall,2026-03-21,Everton,Chelsea,7.5,89,,,0.0,0,0,0.23,0.02,28,36,0,0,0,0,5,60
-Kiernan Dewsbury-Hall,2026-04-11,Brentford,Everton,7.6,90,,,0.0,1,0,0.37,0.05,25,31,2,0,0,0,8,46
-Kiernan Dewsbury-Hall,2026-04-19,Everton,Liverpool,7.7,90,,,0.0,0,0,0.0,0.64,32,43,2,0,0,0,8,60
-Kiernan Dewsbury-Hall,2026-04-25,West Ham United,Everton,7.1,90,,,0.0,1,0,0.1,0.06,34,43,1,0,2,0,7,53
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kiernan Dewsbury-Hall,2025-12-02,Bournemouth,Everton,7.1,90,9794.0,19.0,108.82,0,0,0.0,0.04,38,47,0,0,1,0,6,64,0,1.94
+Kiernan Dewsbury-Hall,2025-12-06,Everton,Nottingham Forest,8.3,90,9756.0,19.0,108.4,1,0,0.17,0.04,24,29,0,0,1,0,5,58,0,1.95
+Kiernan Dewsbury-Hall,2025-12-13,Chelsea,Everton,6.7,16,1714.0,3.0,107.12,0,0,0.0,0.0,5,5,0,0,0,0,0,8,0,1.75
+Kiernan Dewsbury-Hall,2026-01-26,Everton,Leeds United,6.5,45,4981.0,9.0,110.69,0,0,0.0,0.05,35,41,0,0,0,0,2,55,0,1.81
+Kiernan Dewsbury-Hall,2026-01-31,Brighton & Hove Albion,Everton,6.5,79,8518.0,15.0,107.82,0,0,0.4,0.01,29,34,0,0,0,0,1,50,0,1.76
+Kiernan Dewsbury-Hall,2026-02-07,Fulham,Everton,7.6,89,9580.0,17.0,107.64,1,0,0.22,0.36,26,30,3,0,0,0,4,44,0,1.77
+Kiernan Dewsbury-Hall,2026-02-10,Everton,Bournemouth,6.9,90,9786.0,17.0,108.73,0,0,0.16,0.09,35,40,0,0,0,0,4,68,0,1.74
+Kiernan Dewsbury-Hall,2026-02-23,Everton,Manchester United,6.8,90,9924.0,17.0,110.27,0,0,0.06,0.08,46,55,1,0,0,0,10,83,0,1.71
+Kiernan Dewsbury-Hall,2026-02-28,Newcastle United,Everton,7.3,89,9600.0,17.0,107.87,0,0,0.0,0.62,21,25,3,0,0,0,8,37,0,1.77
+Kiernan Dewsbury-Hall,2026-03-03,Everton,Burnley,7.6,90,9781.0,19.0,108.68,1,0,0.6,0.03,38,47,0,0,1,0,5,64,0,1.94
+Kiernan Dewsbury-Hall,2026-03-14,Arsenal,Everton,6.3,90,9643.0,17.0,107.14,0,0,0.08,0.01,21,28,0,0,0,0,2,40,0,1.76
+Kiernan Dewsbury-Hall,2026-03-21,Everton,Chelsea,7.5,89,9660.0,17.0,108.54,0,0,0.23,0.02,28,36,0,0,0,0,5,60,0,1.76
+Kiernan Dewsbury-Hall,2026-04-11,Brentford,Everton,7.6,90,9743.0,17.0,108.26,1,0,0.37,0.05,25,31,2,0,0,0,8,46,0,1.74
+Kiernan Dewsbury-Hall,2026-04-19,Everton,Liverpool,7.7,90,9802.0,17.0,108.91,0,0,0.0,0.64,32,43,2,0,0,0,8,60,0,1.73
+Kiernan Dewsbury-Hall,2026-04-25,West Ham United,Everton,7.1,90,9760.0,20.0,108.44,1,0,0.1,0.06,34,43,1,0,2,0,7,53,0,2.05

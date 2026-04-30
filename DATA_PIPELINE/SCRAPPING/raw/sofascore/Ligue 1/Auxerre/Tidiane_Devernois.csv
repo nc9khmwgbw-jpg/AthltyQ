@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tidiane Devernois,2025-10-29,RC Strasbourg,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-11-01,Auxerre,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-11-12,France U19,Faroe Islands U19,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-11-15,France U19,Bulgaria U19,,25,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-11-18,Hungary U19,France U19,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-11-23,Auxerre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-11-29,Paris FC,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-12-07,Auxerre,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-12-14,Auxerre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2025-12-21,Auxerre,AS Monaco,6.7,9,,,0.0,0,0,0.0,0.0,7,7,1,0,0,0,0,11
-Tidiane Devernois,2026-01-04,Stade Brestois,Auxerre,6.5,4,,,0.0,0,0,0.0,0.0,3,5,1,0,0,0,1,6
-Tidiane Devernois,2026-02-15,Metz,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tidiane Devernois,2026-02-22,Auxerre,Stade Rennais,6.7,4,,,0.0,0,0,0.0,0.06,3,5,1,0,0,0,1,7
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tidiane Devernois,2025-10-29,RC Strasbourg,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tidiane Devernois,2025-11-01,Auxerre,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tidiane Devernois,2025-11-12,France U19,Faroe Islands U19,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Tidiane Devernois,2025-11-15,France U19,Bulgaria U19,,25,2625.0,5.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.9
+Tidiane Devernois,2025-11-18,Hungary U19,France U19,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Tidiane Devernois,2025-11-23,Auxerre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tidiane Devernois,2025-11-29,Paris FC,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tidiane Devernois,2025-12-07,Auxerre,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tidiane Devernois,2025-12-14,Auxerre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tidiane Devernois,2025-12-21,Auxerre,AS Monaco,6.7,9,991.0,2.0,110.11,0,0,0.0,0.0,7,7,1,0,0,0,0,11,0,2.02
+Tidiane Devernois,2026-01-04,Stade Brestois,Auxerre,6.5,4,458.0,1.0,114.5,0,0,0.0,0.0,3,5,1,0,0,0,1,6,0,2.18
+Tidiane Devernois,2026-02-15,Metz,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tidiane Devernois,2026-02-22,Auxerre,Stade Rennais,6.7,4,462.0,1.0,115.5,0,0,0.0,0.06,3,5,1,0,0,0,1,7,0,2.16

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Guglielmo Vicario,2026-01-10,Tottenham Hotspur,Aston Villa,6.4,90,,,0.0,0,0,0.0,0.0,16,22,0,0,0,0,9,32
-Guglielmo Vicario,2026-01-17,Tottenham Hotspur,West Ham United,7.1,90,,,0.0,0,0,0.0,0.0,30,32,0,0,0,0,6,39
-Guglielmo Vicario,2026-01-20,Tottenham Hotspur,Borussia Dortmund,7.2,90,,,0.0,0,0,0.0,0.0,21,28,0,0,0,0,7,36
-Guglielmo Vicario,2026-01-24,Burnley,Tottenham Hotspur,6.3,90,,,0.0,0,0,0.0,0.0,30,38,0,0,0,0,7,44
-Guglielmo Vicario,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,6.9,90,,,0.0,0,0,0.0,0.0,20,24,0,0,0,0,4,29
-Guglielmo Vicario,2026-02-01,Tottenham Hotspur,Manchester City,6.1,90,,,0.0,0,0,0.0,0.0,16,33,0,0,0,0,4,36
-Guglielmo Vicario,2026-02-07,Manchester United,Tottenham Hotspur,8.1,90,,,0.0,0,0,0.0,0.0,21,37,0,0,0,0,13,57
-Guglielmo Vicario,2026-02-10,Tottenham Hotspur,Newcastle United,7.6,90,,,0.0,0,0,0.0,0.0,26,33,0,0,0,0,5,41
-Guglielmo Vicario,2026-02-22,Tottenham Hotspur,Arsenal,5.8,90,,,0.0,0,0,0.0,0.0,13,35,0,0,0,0,7,43
-Guglielmo Vicario,2026-03-01,Fulham,Tottenham Hotspur,6.1,90,,,0.0,0,0,0.0,0.0,19,32,0,0,0,0,9,39
-Guglielmo Vicario,2026-03-05,Tottenham Hotspur,Crystal Palace,6.2,90,,,0.0,0,0,0.0,0.0,19,29,0,0,0,0,4,34
-Guglielmo Vicario,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.3,73,,,0.0,0,0,0.0,0.0,13,24,0,0,0,0,4,30
-Guglielmo Vicario,2026-03-15,Liverpool,Tottenham Hotspur,6.6,90,,,0.0,0,0,0.0,0.02,21,39,1,0,0,0,5,45
-Guglielmo Vicario,2026-03-18,Tottenham Hotspur,Atlético Madrid,7.2,90,,,0.0,0,0,0.0,0.0,20,26,0,0,0,0,5,36
-Guglielmo Vicario,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.0,90,,,0.0,0,0,0.0,0.0,16,23,0,0,0,0,11,36
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Guglielmo Vicario,2026-01-10,Tottenham Hotspur,Aston Villa,6.4,90,9697.0,17.0,107.74,0,0,0.0,0.0,16,22,0,0,0,0,9,32,0,1.75
+Guglielmo Vicario,2026-01-17,Tottenham Hotspur,West Ham United,7.1,90,9689.0,17.0,107.66,0,0,0.0,0.0,30,32,0,0,0,0,6,39,0,1.75
+Guglielmo Vicario,2026-01-20,Tottenham Hotspur,Borussia Dortmund,7.2,90,9689.0,17.0,107.66,0,0,0.0,0.0,21,28,0,0,0,0,7,36,0,1.75
+Guglielmo Vicario,2026-01-24,Burnley,Tottenham Hotspur,6.3,90,9722.0,17.0,108.02,0,0,0.0,0.0,30,38,0,0,0,0,7,44,0,1.75
+Guglielmo Vicario,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,6.9,90,9622.0,17.0,106.91,0,0,0.0,0.0,20,24,0,0,0,0,4,29,0,1.77
+Guglielmo Vicario,2026-02-01,Tottenham Hotspur,Manchester City,6.1,90,9651.0,17.0,107.23,0,0,0.0,0.0,16,33,0,0,0,0,4,36,0,1.76
+Guglielmo Vicario,2026-02-07,Manchester United,Tottenham Hotspur,8.1,90,9852.0,17.0,109.47,0,0,0.0,0.0,21,37,0,0,0,0,13,57,0,1.73
+Guglielmo Vicario,2026-02-10,Tottenham Hotspur,Newcastle United,7.6,90,9685.0,17.0,107.61,0,0,0.0,0.0,26,33,0,0,0,0,5,41,0,1.76
+Guglielmo Vicario,2026-02-22,Tottenham Hotspur,Arsenal,5.8,90,9718.0,17.0,107.98,0,0,0.0,0.0,13,35,0,0,0,0,7,43,0,1.75
+Guglielmo Vicario,2026-03-01,Fulham,Tottenham Hotspur,6.1,90,9726.0,17.0,108.07,0,0,0.0,0.0,19,32,0,0,0,0,9,39,0,1.75
+Guglielmo Vicario,2026-03-05,Tottenham Hotspur,Crystal Palace,6.2,90,9643.0,17.0,107.14,0,0,0.0,0.0,19,29,0,0,0,0,4,34,0,1.76
+Guglielmo Vicario,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.3,73,7841.0,14.0,107.41,0,0,0.0,0.0,13,24,0,0,0,0,4,30,0,1.79
+Guglielmo Vicario,2026-03-15,Liverpool,Tottenham Hotspur,6.6,90,9702.0,17.0,107.8,0,0,0.0,0.02,21,39,1,0,0,0,5,45,0,1.75
+Guglielmo Vicario,2026-03-18,Tottenham Hotspur,Atlético Madrid,7.2,90,9664.0,17.0,107.38,0,0,0.0,0.0,20,26,0,0,0,0,5,36,0,1.76
+Guglielmo Vicario,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.0,90,9739.0,17.0,108.21,0,0,0.0,0.0,16,23,0,0,0,0,11,36,0,1.75

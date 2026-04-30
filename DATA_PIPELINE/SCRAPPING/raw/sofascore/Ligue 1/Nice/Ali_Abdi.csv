@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ali Abdi,2026-01-22,Nice,Go Ahead Eagles,7.1,90,,,0.0,0,0,0.0,0.23,15,16,1,0,2,0,0,42
-Ali Abdi,2026-01-25,Nantes,Nice,5.9,90,,,0.0,0,0,0.0,0.0,22,40,0,0,2,0,8,80
-Ali Abdi,2026-02-01,Nice,Stade Brestois,7.9,90,,,0.0,1,0,0.28,0.02,30,38,3,0,1,0,5,67
-Ali Abdi,2026-02-04,Nice,Montpellier,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ali Abdi,2026-02-08,Nice,AS Monaco,6.4,90,,,0.0,0,0,0.01,0.01,17,26,0,0,0,0,8,62
-Ali Abdi,2026-02-15,Olympique Lyonnais,Nice,6.0,90,,,0.0,0,0,0.0,0.26,32,42,1,0,0,0,2,58
-Ali Abdi,2026-02-22,Nice,Lorient,6.5,64,,,0.0,0,0,0.0,0.0,30,37,0,0,2,0,5,60
-Ali Abdi,2026-03-21,Nice,Paris Saint-Germain,6.1,19,,,0.0,0,0,0.0,0.0,5,5,0,0,1,0,2,7
-Ali Abdi,2026-03-29,Haiti,Tunisia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ali Abdi,2026-04-01,Canada,Tunisia,7.2,58,,,0.0,0,0,0.0,0.0,21,30,0,0,0,0,3,46
-Ali Abdi,2026-04-04,RC Strasbourg,Nice,6.4,26,,,0.0,0,0,0.02,0.0,12,15,0,0,0,0,1,24
-Ali Abdi,2026-04-12,Nice,Le Havre,7.4,81,,,0.0,1,0,1.33,0.01,12,24,1,0,0,0,3,45
-Ali Abdi,2026-04-18,Lille,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ali Abdi,2026-04-22,RC Strasbourg,Nice,6.8,17,,,0.0,0,0,0.0,0.0,4,6,1,0,0,0,2,11
-Ali Abdi,2026-04-26,Olympique de Marseille,Nice,6.9,9,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,8
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ali Abdi,2026-01-22,Nice,Go Ahead Eagles,7.1,90,9626.0,20.0,106.96,0,0,0.0,0.23,15,16,1,0,2,0,0,42,0,2.08
+Ali Abdi,2026-01-25,Nantes,Nice,5.9,90,9886.0,20.0,109.84,0,0,0.0,0.0,22,40,0,0,2,0,8,80,0,2.02
+Ali Abdi,2026-02-01,Nice,Stade Brestois,7.9,90,9794.0,19.0,108.82,1,0,0.28,0.02,30,38,3,0,1,0,5,67,0,1.94
+Ali Abdi,2026-02-04,Nice,Montpellier,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ali Abdi,2026-02-08,Nice,AS Monaco,6.4,90,9810.0,17.0,109.0,0,0,0.01,0.01,17,26,0,0,0,0,8,62,0,1.73
+Ali Abdi,2026-02-15,Olympique Lyonnais,Nice,6.0,90,9719.0,17.0,107.99,0,0,0.0,0.26,32,42,1,0,0,0,2,58,0,1.75
+Ali Abdi,2026-02-22,Nice,Lorient,6.5,64,7034.0,15.0,109.91,0,0,0.0,0.0,30,37,0,0,2,0,5,60,0,2.13
+Ali Abdi,2026-03-21,Nice,Paris Saint-Germain,6.1,19,2049.0,5.0,107.84,0,0,0.0,0.0,5,5,0,0,1,0,2,7,0,2.44
+Ali Abdi,2026-03-29,Haiti,Tunisia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ali Abdi,2026-04-01,Canada,Tunisia,7.2,58,6321.0,11.0,108.98,0,0,0.0,0.0,21,30,0,0,0,0,3,46,0,1.74
+Ali Abdi,2026-04-04,RC Strasbourg,Nice,6.4,26,2843.0,5.0,109.35,0,0,0.02,0.0,12,15,0,0,0,0,1,24,0,1.76
+Ali Abdi,2026-04-12,Nice,Le Havre,7.4,81,8732.0,16.0,107.8,1,0,1.33,0.01,12,24,1,0,0,0,3,45,0,1.83
+Ali Abdi,2026-04-18,Lille,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ali Abdi,2026-04-22,RC Strasbourg,Nice,6.8,17,1856.0,3.0,109.18,0,0,0.0,0.0,4,6,1,0,0,0,2,11,0,1.62
+Ali Abdi,2026-04-26,Olympique de Marseille,Nice,6.9,9,979.0,2.0,108.78,0,0,0.0,0.0,1,2,0,0,0,0,0,8,0,2.04

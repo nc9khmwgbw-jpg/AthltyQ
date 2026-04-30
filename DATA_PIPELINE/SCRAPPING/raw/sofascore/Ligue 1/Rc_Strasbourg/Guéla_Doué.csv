@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Guéla Doué,2026-01-18,RC Strasbourg,Metz,7.1,90,,,0.0,0,0,0.02,0.1,55,60,1,0,0,0,4,80
-Guéla Doué,2026-01-25,Lille,RC Strasbourg,7.2,76,,,0.0,0,0,0.0,0.05,29,36,1,0,1,0,3,59
-Guéla Doué,2026-02-01,RC Strasbourg,Paris Saint-Germain,7.2,90,,,0.0,1,0,0.59,0.01,28,35,1,0,4,0,5,64
-Guéla Doué,2026-02-05,RC Strasbourg,AS Monaco,7.1,90,,,0.0,0,0,0.0,0.0,27,35,1,0,3,0,7,59
-Guéla Doué,2026-02-14,Olympique de Marseille,RC Strasbourg,6.2,90,,,0.0,0,0,0.11,0.04,40,51,0,0,0,0,2,84
-Guéla Doué,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.5,90,,,0.0,0,0,0.12,0.01,43,50,1,0,3,0,4,79
-Guéla Doué,2026-02-27,RC Strasbourg,RC Lens,6.5,90,,,0.0,0,0,0.0,0.01,37,45,0,0,1,0,6,68
-Guéla Doué,2026-03-03,RC Strasbourg,Stade de Reims,6.7,90,,,0.0,0,0,0.0,0.0,62,66,1,0,0,0,1,85
-Guéla Doué,2026-03-12,HNK Rijeka,RC Strasbourg,6.4,90,,,0.0,0,0,0.25,0.12,18,26,2,0,2,0,4,49
-Guéla Doué,2026-03-15,RC Strasbourg,Paris FC,8.2,90,,,0.0,0,0,0.14,0.1,87,92,0,0,1,0,4,110
-Guéla Doué,2026-03-22,Nantes,RC Strasbourg,6.2,90,,,0.0,0,0,0.1,0.0,37,41,0,0,5,0,5,69
-Guéla Doué,2026-03-28,South Korea,Côte d'Ivoire,7.1,79,,,0.0,0,0,0.0,0.0,27,28,0,0,1,0,1,41
-Guéla Doué,2026-03-31,Scotland,Côte d'Ivoire,6.7,28,,,0.0,0,0,0.0,0.0,18,19,0,0,0,0,0,24
-Guéla Doué,2026-04-04,RC Strasbourg,Nice,8.0,90,,,0.0,0,0,0.02,0.42,62,68,2,0,1,0,4,94
-Guéla Doué,2026-04-09,1. FSV Mainz 05,RC Strasbourg,6.9,90,,,0.0,0,0,0.23,0.04,79,86,0,0,0,0,4,113
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Guéla Doué,2026-01-18,RC Strasbourg,Metz,7.1,90,9836.0,17.0,109.29,0,0,0.02,0.1,55,60,1,0,0,0,4,80,0,1.73
+Guéla Doué,2026-01-25,Lille,RC Strasbourg,7.2,76,8265.0,16.0,108.75,0,0,0.0,0.05,29,36,1,0,1,0,3,59,0,1.94
+Guéla Doué,2026-02-01,RC Strasbourg,Paris Saint-Germain,7.2,90,9781.0,23.0,108.68,1,0,0.59,0.01,28,35,1,0,4,0,5,64,0,2.35
+Guéla Doué,2026-02-05,RC Strasbourg,AS Monaco,7.1,90,9785.0,22.0,108.72,0,0,0.0,0.0,27,35,1,0,3,0,7,59,0,2.25
+Guéla Doué,2026-02-14,Olympique de Marseille,RC Strasbourg,6.2,90,9828.0,17.0,109.2,0,0,0.11,0.04,40,51,0,0,0,0,2,84,0,1.73
+Guéla Doué,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.5,90,9832.0,22.0,109.24,0,0,0.12,0.01,43,50,1,0,3,0,4,79,0,2.24
+Guéla Doué,2026-02-27,RC Strasbourg,RC Lens,6.5,90,9811.0,19.0,109.01,0,0,0.0,0.01,37,45,0,0,1,0,6,68,0,1.94
+Guéla Doué,2026-03-03,RC Strasbourg,Stade de Reims,6.7,90,9820.0,17.0,109.11,0,0,0.0,0.0,62,66,1,0,0,0,1,85,0,1.73
+Guéla Doué,2026-03-12,HNK Rijeka,RC Strasbourg,6.4,90,9706.0,20.0,107.84,0,0,0.25,0.12,18,26,2,0,2,0,4,49,0,2.06
+Guéla Doué,2026-03-15,RC Strasbourg,Paris FC,8.2,90,9962.0,19.0,110.69,0,0,0.14,0.1,87,92,0,0,1,0,4,110,0,1.91
+Guéla Doué,2026-03-22,Nantes,RC Strasbourg,6.2,90,9802.0,24.0,108.91,0,0,0.1,0.0,37,41,0,0,5,0,5,69,0,2.45
+Guéla Doué,2026-03-28,South Korea,Côte d'Ivoire,7.1,79,8480.0,17.0,107.34,0,0,0.0,0.0,27,28,0,0,1,0,1,41,0,2.0
+Guéla Doué,2026-03-31,Scotland,Côte d'Ivoire,6.7,28,3041.0,5.0,108.61,0,0,0.0,0.0,18,19,0,0,0,0,0,24,0,1.64
+Guéla Doué,2026-04-04,RC Strasbourg,Nice,8.0,90,9895.0,19.0,109.94,0,0,0.02,0.42,62,68,2,0,1,0,4,94,0,1.92
+Guéla Doué,2026-04-09,1. FSV Mainz 05,RC Strasbourg,6.9,90,9975.0,17.0,110.83,0,0,0.23,0.04,79,86,0,0,0,0,4,113,0,1.7

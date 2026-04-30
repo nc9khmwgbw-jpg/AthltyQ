@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pablo Durán,2026-02-01,Getafe,Celta Vigo,6.3,22,,,0.0,0,0,0.0,0.0,4,7,0,0,0,0,0,10
-Pablo Durán,2026-02-06,Celta Vigo,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pablo Durán,2026-02-14,Espanyol,Celta Vigo,6.4,20,,,0.0,0,0,0.28,0.01,5,7,1,0,0,0,2,15
-Pablo Durán,2026-02-19,PAOK,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pablo Durán,2026-02-22,Celta Vigo,Mallorca,6.5,44,,,0.0,0,0,0.19,0.01,9,16,1,0,0,0,0,23
-Pablo Durán,2026-03-12,Celta Vigo,Olympique Lyonnais,6.9,24,,,0.0,0,0,0.0,0.01,2,3,1,0,0,0,0,9
-Pablo Durán,2026-03-15,Real Betis,Celta Vigo,6.2,79,,,0.0,0,0,0.29,0.06,16,20,1,0,0,0,2,29
-Pablo Durán,2026-03-19,Olympique Lyonnais,Celta Vigo,5.8,57,,,0.0,0,0,0.11,0.01,8,13,0,0,0,0,1,18
-Pablo Durán,2026-03-22,Celta Vigo,Deportivo Alavés,6.2,21,,,0.0,0,0,0.29,0.0,2,4,0,0,0,0,0,7
-Pablo Durán,2026-04-05,Valencia,Celta Vigo,6.6,45,,,0.0,0,0,0.0,0.0,6,7,0,0,0,0,2,8
-Pablo Durán,2026-04-09,SC Freiburg,Celta Vigo,6.4,17,,,0.0,0,0,0.0,0.0,7,8,0,0,0,0,0,9
-Pablo Durán,2026-04-12,Celta Vigo,Real Oviedo,6.6,60,,,0.0,0,0,0.05,0.04,14,15,1,0,0,0,3,23
-Pablo Durán,2026-04-16,Celta Vigo,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pablo Durán,2026-04-22,FC Barcelona,Celta Vigo,6.9,72,,,0.0,0,0,0.34,0.16,11,14,0,0,0,0,1,21
-Pablo Durán,2026-04-26,Villarreal,Celta Vigo,6.4,45,,,0.0,0,0,0.03,0.14,10,12,1,0,0,0,2,18
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pablo Durán,2026-02-01,Getafe,Celta Vigo,6.3,22,2352.0,4.0,106.91,0,0,0.0,0.0,4,7,0,0,0,0,0,10,0,1.7
+Pablo Durán,2026-02-06,Celta Vigo,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pablo Durán,2026-02-14,Espanyol,Celta Vigo,6.4,20,2188.0,4.0,109.4,0,0,0.28,0.01,5,7,1,0,0,0,2,15,0,1.83
+Pablo Durán,2026-02-19,PAOK,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pablo Durán,2026-02-22,Celta Vigo,Mallorca,6.5,44,4717.0,8.0,107.2,0,0,0.19,0.01,9,16,1,0,0,0,0,23,0,1.7
+Pablo Durán,2026-03-12,Celta Vigo,Olympique Lyonnais,6.9,24,2558.0,5.0,106.58,0,0,0.0,0.01,2,3,1,0,0,0,0,9,0,1.95
+Pablo Durán,2026-03-15,Real Betis,Celta Vigo,6.2,79,8442.0,15.0,106.86,0,0,0.29,0.06,16,20,1,0,0,0,2,29,0,1.78
+Pablo Durán,2026-03-19,Olympique Lyonnais,Celta Vigo,5.8,57,6073.0,11.0,106.54,0,0,0.11,0.01,8,13,0,0,0,0,1,18,0,1.81
+Pablo Durán,2026-03-22,Celta Vigo,Deportivo Alavés,6.2,21,2234.0,4.0,106.38,0,0,0.29,0.0,2,4,0,0,0,0,0,7,0,1.79
+Pablo Durán,2026-04-05,Valencia,Celta Vigo,6.6,45,4784.0,9.0,106.31,0,0,0.0,0.0,6,7,0,0,0,0,2,8,0,1.88
+Pablo Durán,2026-04-09,SC Freiburg,Celta Vigo,6.4,17,1823.0,3.0,107.24,0,0,0.0,0.0,7,8,0,0,0,0,0,9,0,1.65
+Pablo Durán,2026-04-12,Celta Vigo,Real Oviedo,6.6,60,6434.0,12.0,107.23,0,0,0.05,0.04,14,15,1,0,0,0,3,23,0,1.87
+Pablo Durán,2026-04-16,Celta Vigo,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pablo Durán,2026-04-22,FC Barcelona,Celta Vigo,6.9,72,7661.0,14.0,106.4,0,0,0.34,0.16,11,14,0,0,0,0,1,21,0,1.83
+Pablo Durán,2026-04-26,Villarreal,Celta Vigo,6.4,45,4826.0,9.0,107.24,0,0,0.03,0.14,10,12,1,0,0,0,2,18,0,1.86

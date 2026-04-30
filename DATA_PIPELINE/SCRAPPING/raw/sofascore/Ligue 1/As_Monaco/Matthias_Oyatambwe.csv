@@ -1,11 +1,11 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Matthias Oyatambwe,2025-08-15,SK Beveren,Jong KRC Genk U23,5.9,87,,,0.0,0,0,0.0,0.0,30,34,0,0,1,0,2,42
-Matthias Oyatambwe,2025-10-01,AS Monaco U19,Manchester City U19,6.4,90,,,0.0,0,0,0.0,0.0,39,45,0,0,2,0,7,57
-Matthias Oyatambwe,2025-10-05,AS Monaco,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matthias Oyatambwe,2025-12-02,Southampton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matthias Oyatambwe,2025-12-19,Everton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matthias Oyatambwe,2026-01-20,Manchester City U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matthias Oyatambwe,2026-02-03,Club Brugge U19,AS Monaco U19,6.5,90,,,0.0,0,0,0.0,0.0,29,29,0,0,0,0,3,36
-Matthias Oyatambwe,2026-02-10,Wolverhampton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matthias Oyatambwe,2026-03-25,Belgium U19,Cyprus U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matthias Oyatambwe,2026-03-28,Belgium U19,Sweden U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Matthias Oyatambwe,2025-08-15,SK Beveren,Jong KRC Genk U23,5.9,87,9336.0,18.0,107.31,0,0,0.0,0.0,30,34,0,0,1,0,2,42,0,1.93
+Matthias Oyatambwe,2025-10-01,AS Monaco U19,Manchester City U19,6.4,90,9777.0,20.0,108.63,0,0,0.0,0.0,39,45,0,0,2,0,7,57,0,2.05
+Matthias Oyatambwe,2025-10-05,AS Monaco,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Matthias Oyatambwe,2025-12-02,Southampton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Matthias Oyatambwe,2025-12-19,Everton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Matthias Oyatambwe,2026-01-20,Manchester City U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Matthias Oyatambwe,2026-02-03,Club Brugge U19,AS Monaco U19,6.5,90,9639.0,17.0,107.1,0,0,0.0,0.0,29,29,0,0,0,0,3,36,0,1.76
+Matthias Oyatambwe,2026-02-10,Wolverhampton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Matthias Oyatambwe,2026-03-25,Belgium U19,Cyprus U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Matthias Oyatambwe,2026-03-28,Belgium U19,Sweden U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

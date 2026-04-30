@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ismael Bekhoucha,2025-05-18,Mallorca,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-05-24,Getafe,Celta Vigo,6.6,31,,,0.0,0,0,0.0,0.0,10,12,0,0,0,0,3,18
-Ismael Bekhoucha,2025-08-17,Celta Vigo,Getafe,7.0,90,,,0.0,0,0,0.0,0.0,9,15,1,0,2,0,2,36
-Ismael Bekhoucha,2025-08-25,Sevilla,Getafe,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-08-29,Valencia,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-09-13,Getafe,Real Oviedo,6.8,17,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,2,14
-Ismael Bekhoucha,2025-09-21,FC Barcelona,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-09-24,Getafe,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-09-27,Getafe,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-10-03,Osasuna,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-10-19,Getafe,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-10-25,Athletic Club,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2025-10-28,Inter Valdemoro,Getafe,6.6,62,,,0.0,0,0,0.0,0.0,23,29,1,0,0,0,2,49
-Ismael Bekhoucha,2025-12-18,Burgos Club de Fútbol,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismael Bekhoucha,2026-01-09,Getafe,Real Sociedad,6.1,12,,,0.0,0,0,0.02,0.0,0,0,0,0,0,0,0,5
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ismael Bekhoucha,2025-05-18,Mallorca,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-05-24,Getafe,Celta Vigo,6.6,31,3368.0,6.0,108.65,0,0,0.0,0.0,10,12,0,0,0,0,3,18,0,1.78
+Ismael Bekhoucha,2025-08-17,Celta Vigo,Getafe,7.0,90,9626.0,20.0,106.96,0,0,0.0,0.0,9,15,1,0,2,0,2,36,0,2.08
+Ismael Bekhoucha,2025-08-25,Sevilla,Getafe,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-08-29,Valencia,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-09-13,Getafe,Real Oviedo,6.8,17,1869.0,3.0,109.94,0,0,0.0,0.0,3,4,0,0,0,0,2,14,0,1.61
+Ismael Bekhoucha,2025-09-21,FC Barcelona,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-09-24,Getafe,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-09-27,Getafe,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-10-03,Osasuna,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-10-19,Getafe,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-10-25,Athletic Club,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2025-10-28,Inter Valdemoro,Getafe,6.6,62,6741.0,12.0,108.73,0,0,0.0,0.0,23,29,1,0,0,0,2,49,0,1.78
+Ismael Bekhoucha,2025-12-18,Burgos Club de Fútbol,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismael Bekhoucha,2026-01-09,Getafe,Real Sociedad,6.1,12,1281.0,2.0,106.75,0,0,0.02,0.0,0,0,0,0,0,0,0,5,0,1.56

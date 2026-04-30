@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jair,2025-12-03,Wolverhampton,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jair,2025-12-06,Everton,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jair,2026-01-09,Wrexham,Nottingham Forest,6.6,120,,,0.0,0,0,0.0,0.0,63,74,0,0,1,0,4,91
-Jair,2026-01-26,Nottingham Forest U21,Reading U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jair,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jair,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jair,2026-02-19,Fenerbahçe,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jair,2026-02-22,Nottingham Forest,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jair,2026-02-26,Nottingham Forest,Fenerbahçe,6.2,90,,,0.0,0,0,0.21,0.0,51,55,0,0,2,0,4,76
-Jair,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.8,34,,,0.0,0,0,0.16,0.0,15,21,0,0,1,0,1,28
-Jair,2026-03-04,Manchester City,Nottingham Forest,6.1,90,,,0.0,0,0,0.0,0.0,24,32,0,0,0,0,1,40
-Jair,2026-03-12,Nottingham Forest,FC Midtjylland,6.6,9,,,0.0,0,0,0.0,0.0,0,2,0,0,0,0,0,2
-Jair,2026-04-16,Nottingham Forest,FC Porto,7.3,90,,,0.0,0,0,0.0,0.08,39,43,1,0,0,0,2,54
-Jair,2026-04-19,Nottingham Forest,Burnley,6.7,48,,,0.0,0,0,0.0,0.0,26,30,0,0,0,0,1,39
-Jair,2026-04-24,Sunderland,Nottingham Forest,6.9,50,,,0.0,0,0,0.0,0.0,10,14,0,0,0,0,0,21
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jair,2025-12-03,Wolverhampton,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jair,2025-12-06,Everton,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jair,2026-01-09,Wrexham,Nottingham Forest,6.6,120,13032.0,24.0,108.6,0,0,0.0,0.0,63,74,0,0,1,0,4,91,0,1.84
+Jair,2026-01-26,Nottingham Forest U21,Reading U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jair,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jair,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jair,2026-02-19,Fenerbahçe,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jair,2026-02-22,Nottingham Forest,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jair,2026-02-26,Nottingham Forest,Fenerbahçe,6.2,90,9819.0,20.0,109.1,0,0,0.21,0.0,51,55,0,0,2,0,4,76,0,2.04
+Jair,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.8,34,3700.0,8.0,108.82,0,0,0.16,0.0,15,21,0,0,1,0,1,28,0,2.16
+Jair,2026-03-04,Manchester City,Nottingham Forest,6.1,90,9630.0,17.0,107.0,0,0,0.0,0.0,24,32,0,0,0,0,1,40,0,1.77
+Jair,2026-03-12,Nottingham Forest,FC Midtjylland,6.6,9,953.0,2.0,105.89,0,0,0.0,0.0,0,2,0,0,0,0,0,2,0,2.1
+Jair,2026-04-16,Nottingham Forest,FC Porto,7.3,90,9702.0,17.0,107.8,0,0,0.0,0.08,39,43,1,0,0,0,2,54,0,1.75
+Jair,2026-04-19,Nottingham Forest,Burnley,6.7,48,5216.0,9.0,108.67,0,0,0.0,0.0,26,30,0,0,0,0,1,39,0,1.73
+Jair,2026-04-24,Sunderland,Nottingham Forest,6.9,50,5338.0,10.0,106.76,0,0,0.0,0.0,10,14,0,0,0,0,0,21,0,1.87

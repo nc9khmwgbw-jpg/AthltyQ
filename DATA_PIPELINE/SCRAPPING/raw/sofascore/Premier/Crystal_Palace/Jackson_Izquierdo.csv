@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jackson Izquierdo,2025-10-21,Stevenage,Crystal Palace U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2025-11-07,Crystal Palace U21,Stoke City U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2025-11-12,Crystal Palace U21,Juventus U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2025-11-26,Crystal Palace U21,FC Nordsjælland Reserve U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2026-01-10,Chelsea U21,Crystal Palace U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2026-01-26,Crystal Palace U21,Derby County U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2026-01-30,Ipswich Town U21,Crystal Palace U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2026-02-09,Crystal Palace U21,Middlesbrough U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2026-02-13,Crystal Palace U21,Fulham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2026-02-18,Crystal Palace U21,Borussia Mönchengladbach II U23,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jackson Izquierdo,2026-03-19,AEK Larnaca,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jackson Izquierdo,2025-10-21,Stevenage,Crystal Palace U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jackson Izquierdo,2025-11-07,Crystal Palace U21,Stoke City U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jackson Izquierdo,2025-11-12,Crystal Palace U21,Juventus U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jackson Izquierdo,2025-11-26,Crystal Palace U21,FC Nordsjælland Reserve U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jackson Izquierdo,2026-01-10,Chelsea U21,Crystal Palace U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jackson Izquierdo,2026-01-26,Crystal Palace U21,Derby County U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jackson Izquierdo,2026-01-30,Ipswich Town U21,Crystal Palace U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jackson Izquierdo,2026-02-09,Crystal Palace U21,Middlesbrough U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jackson Izquierdo,2026-02-13,Crystal Palace U21,Fulham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jackson Izquierdo,2026-02-18,Crystal Palace U21,Borussia Mönchengladbach II U23,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jackson Izquierdo,2026-03-19,AEK Larnaca,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

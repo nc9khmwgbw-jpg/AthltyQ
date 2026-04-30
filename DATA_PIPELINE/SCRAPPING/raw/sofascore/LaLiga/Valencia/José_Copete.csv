@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-José Copete,2025-12-01,Rayo Vallecano,Valencia,7.2,90,,,0.0,0,0,0.0,0.01,33,40,0,0,3,0,2,53
-José Copete,2025-12-04,FC Cartagena,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-José Copete,2025-12-07,Valencia,Sevilla,7.1,90,,,0.0,0,0,0.0,0.06,59,71,1,0,1,0,5,87
-José Copete,2025-12-13,Atlético Madrid,Valencia,7.3,90,,,0.0,0,0,0.12,0.19,56,65,1,0,0,0,4,81
-José Copete,2025-12-16,Sporting Gijón,Valencia,6.8,45,,,0.0,0,0,0.0,0.0,34,38,1,0,0,0,1,40
-José Copete,2025-12-19,Valencia,Mallorca,7.1,90,,,0.0,0,0,0.0,0.05,69,75,0,0,0,0,4,84
-José Copete,2026-01-03,Celta Vigo,Valencia,6.1,81,,,0.0,0,0,0.06,0.03,64,73,1,0,0,0,4,79
-José Copete,2026-01-10,Valencia,Elche,7.1,90,,,0.0,0,0,0.01,0.1,25,31,1,0,2,0,0,50
-José Copete,2026-01-15,Burgos Club de Fútbol,Valencia,7.1,45,,,0.0,0,0,0.0,0.0,19,24,1,0,0,0,2,31
-José Copete,2026-01-18,Getafe,Valencia,7.6,90,,,0.0,0,0,0.0,0.01,24,35,0,0,1,0,4,53
-José Copete,2026-01-24,Valencia,Espanyol,5.9,90,,,0.0,0,0,0.0,0.01,40,50,0,0,3,0,4,69
-José Copete,2026-02-01,Real Betis,Valencia,6.1,80,,,0.0,0,0,0.06,0.01,38,41,0,0,0,0,1,49
-José Copete,2026-02-04,Valencia,Athletic Club,6.4,59,,,0.0,0,0,0.0,0.0,35,41,0,0,0,0,5,49
-José Copete,2026-02-08,Valencia,Real Madrid,6.3,90,,,0.0,0,0,0.0,0.0,31,36,0,0,2,0,0,45
-José Copete,2026-02-22,Villarreal,Valencia,6.4,90,,,0.0,0,0,0.04,0.01,52,66,0,0,0,0,6,76
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+José Copete,2025-12-01,Rayo Vallecano,Valencia,7.2,90,9698.0,22.0,107.76,0,0,0.0,0.01,33,40,0,0,3,0,2,53,0,2.27
+José Copete,2025-12-04,FC Cartagena,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+José Copete,2025-12-07,Valencia,Sevilla,7.1,90,9878.0,19.0,109.76,0,0,0.0,0.06,59,71,1,0,1,0,5,87,0,1.92
+José Copete,2025-12-13,Atlético Madrid,Valencia,7.3,90,9840.0,17.0,109.33,0,0,0.12,0.19,56,65,1,0,0,0,4,81,0,1.73
+José Copete,2025-12-16,Sporting Gijón,Valencia,6.8,45,4906.0,9.0,109.02,0,0,0.0,0.0,34,38,1,0,0,0,1,40,0,1.83
+José Copete,2025-12-19,Valencia,Mallorca,7.1,90,9853.0,17.0,109.48,0,0,0.0,0.05,69,75,0,0,0,0,4,84,0,1.73
+José Copete,2026-01-03,Celta Vigo,Valencia,6.1,81,8887.0,16.0,109.72,0,0,0.06,0.03,64,73,1,0,0,0,4,79,0,1.8
+José Copete,2026-01-10,Valencia,Elche,7.1,90,9660.0,20.0,107.33,0,0,0.01,0.1,25,31,1,0,2,0,0,50,0,2.07
+José Copete,2026-01-15,Burgos Club de Fútbol,Valencia,7.1,45,4880.0,9.0,108.44,0,0,0.0,0.0,19,24,1,0,0,0,2,31,0,1.84
+José Copete,2026-01-18,Getafe,Valencia,7.6,90,9723.0,19.0,108.03,0,0,0.0,0.01,24,35,0,0,1,0,4,53,0,1.95
+José Copete,2026-01-24,Valencia,Espanyol,5.9,90,9790.0,22.0,108.78,0,0,0.0,0.01,40,50,0,0,3,0,4,69,0,2.25
+José Copete,2026-02-01,Real Betis,Valencia,6.1,80,8618.0,15.0,107.72,0,0,0.06,0.01,38,41,0,0,0,0,1,49,0,1.74
+José Copete,2026-02-04,Valencia,Athletic Club,6.4,59,6463.0,11.0,109.54,0,0,0.0,0.0,35,41,0,0,0,0,5,49,0,1.7
+José Copete,2026-02-08,Valencia,Real Madrid,6.3,90,9639.0,20.0,107.1,0,0,0.0,0.0,31,36,0,0,2,0,0,45,0,2.07
+José Copete,2026-02-22,Villarreal,Valencia,6.4,90,9844.0,17.0,109.38,0,0,0.04,0.01,52,66,0,0,0,0,6,76,0,1.73

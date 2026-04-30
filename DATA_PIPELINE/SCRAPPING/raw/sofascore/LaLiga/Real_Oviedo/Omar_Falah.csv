@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Omar Falah,2025-04-20,Córdoba,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-04-26,Real Oviedo,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-05-03,Huesca,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-05-11,Real Racing Club,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-05-18,Real Oviedo,Real Zaragoza,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-06-01,Real Oviedo,Cádiz,6.6,8,,,0.0,0,0,0.0,0.0,0,1,0,0,1,0,1,2
-Omar Falah,2025-06-07,Almería,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-08-15,Villarreal,Real Oviedo,6.7,13,,,0.0,0,0,0.0,0.0,6,7,0,0,0,0,1,14
-Omar Falah,2025-08-24,Real Oviedo,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-08-30,Real Oviedo,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Omar Falah,2025-09-13,Getafe,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Omar Falah,2025-04-20,Córdoba,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-04-26,Real Oviedo,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-05-03,Huesca,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-05-11,Real Racing Club,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-05-18,Real Oviedo,Real Zaragoza,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-06-01,Real Oviedo,Cádiz,6.6,8,861.0,3.0,107.62,0,0,0.0,0.0,0,1,0,0,1,0,1,2,0,3.48
+Omar Falah,2025-06-07,Almería,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-08-15,Villarreal,Real Oviedo,6.7,13,1436.0,2.0,110.46,0,0,0.0,0.0,6,7,0,0,0,0,1,14,0,1.39
+Omar Falah,2025-08-24,Real Oviedo,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-08-30,Real Oviedo,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Omar Falah,2025-09-13,Getafe,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

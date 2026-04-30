@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Yehvann Diouf,2026-02-08,Nice,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Yehvann Diouf,2026-02-15,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Yehvann Diouf,2026-02-22,Nice,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Yehvann Diouf,2026-03-01,Paris FC,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Yehvann Diouf,2026-03-04,Lorient,Nice,8.2,90,,,0.0,0,0,0.0,0.0,15,20,0,0,0,0,5,26
-Yehvann Diouf,2026-03-08,Nice,Stade Rennais,5.6,90,,,0.0,0,0,0.0,0.0,13,17,0,0,0,0,4,26
-Yehvann Diouf,2026-03-14,Angers,Nice,6.9,90,,,0.0,0,0,0.0,0.0,19,26,0,0,0,0,5,29
-Yehvann Diouf,2026-03-21,Nice,Paris Saint-Germain,6.9,90,,,0.0,0,0,0.0,0.0,16,25,0,0,1,0,9,39
-Yehvann Diouf,2026-03-28,Senegal,Peru,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Yehvann Diouf,2026-04-04,RC Strasbourg,Nice,7.6,90,,,0.0,0,0,0.0,0.0,17,25,0,0,0,0,6,37
-Yehvann Diouf,2026-04-12,Nice,Le Havre,7.4,90,,,0.0,0,0,0.0,0.0,16,24,0,0,0,0,8,35
-Yehvann Diouf,2026-04-18,Lille,Nice,7.5,90,,,0.0,0,0,0.0,0.0,10,26,0,0,1,0,13,37
-Yehvann Diouf,2026-04-22,RC Strasbourg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Yehvann Diouf,2026-04-26,Olympique de Marseille,Nice,6.4,90,,,0.0,0,0,0.0,0.0,12,33,0,0,0,0,8,43
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Yehvann Diouf,2026-02-08,Nice,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Yehvann Diouf,2026-02-15,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Yehvann Diouf,2026-02-22,Nice,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Yehvann Diouf,2026-03-01,Paris FC,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Yehvann Diouf,2026-03-04,Lorient,Nice,8.2,90,9622.0,17.0,106.91,0,0,0.0,0.0,15,20,0,0,0,0,5,26,0,1.77
+Yehvann Diouf,2026-03-08,Nice,Stade Rennais,5.6,90,9609.0,17.0,106.77,0,0,0.0,0.0,13,17,0,0,0,0,4,26,0,1.77
+Yehvann Diouf,2026-03-14,Angers,Nice,6.9,90,9634.0,17.0,107.04,0,0,0.0,0.0,19,26,0,0,0,0,5,29,0,1.76
+Yehvann Diouf,2026-03-21,Nice,Paris Saint-Germain,6.9,90,9726.0,19.0,108.07,0,0,0.0,0.0,16,25,0,0,1,0,9,39,0,1.95
+Yehvann Diouf,2026-03-28,Senegal,Peru,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Yehvann Diouf,2026-04-04,RC Strasbourg,Nice,7.6,90,9680.0,17.0,107.56,0,0,0.0,0.0,17,25,0,0,0,0,6,37,0,1.76
+Yehvann Diouf,2026-04-12,Nice,Le Havre,7.4,90,9697.0,17.0,107.74,0,0,0.0,0.0,16,24,0,0,0,0,8,35,0,1.75
+Yehvann Diouf,2026-04-18,Lille,Nice,7.5,90,9768.0,19.0,108.53,0,0,0.0,0.0,10,26,0,0,1,0,13,37,0,1.95
+Yehvann Diouf,2026-04-22,RC Strasbourg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Yehvann Diouf,2026-04-26,Olympique de Marseille,Nice,6.4,90,9731.0,17.0,108.12,0,0,0.0,0.0,12,33,0,0,0,0,8,43,0,1.75

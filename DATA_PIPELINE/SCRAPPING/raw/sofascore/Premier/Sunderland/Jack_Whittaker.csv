@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jack Whittaker,2026-01-16,Sunderland U21,Newcastle United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-01-21,Sunderland U21,Borussia Dortmund II U23,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-01-26,Wolverhampton U21,Sunderland U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-02-01,Sunderland U21,Leicester City U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-02-06,Brighton & Hove Albion U21,Sunderland U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-02-15,Oxford United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-02-20,Everton U21,Sunderland U21,,61,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-03-08,Port Vale,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-03-09,Sunderland U21,Leeds United U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-03-14,Sunderland,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-03-23,Sunderland U21,Arsenal U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-03-30,Sunderland U21,Reading U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-04-06,Derby County U21,Sunderland U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jack Whittaker,2026-04-26,Manchester United U21,Sunderland U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jack Whittaker,2026-01-16,Sunderland U21,Newcastle United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-01-21,Sunderland U21,Borussia Dortmund II U23,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jack Whittaker,2026-01-26,Wolverhampton U21,Sunderland U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-02-01,Sunderland U21,Leicester City U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-02-06,Brighton & Hove Albion U21,Sunderland U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-02-15,Oxford United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jack Whittaker,2026-02-20,Everton U21,Sunderland U21,,61,6405.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.87
+Jack Whittaker,2026-03-08,Port Vale,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jack Whittaker,2026-03-09,Sunderland U21,Leeds United U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-03-14,Sunderland,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jack Whittaker,2026-03-23,Sunderland U21,Arsenal U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-03-30,Sunderland U21,Reading U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-04-06,Derby County U21,Sunderland U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jack Whittaker,2026-04-26,Manchester United U21,Sunderland U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8

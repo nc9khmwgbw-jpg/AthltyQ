@@ -1,10 +1,10 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Alvin Petit Dol,2025-09-13,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2025-09-21,Auxerre,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2025-09-27,Paris Saint-Germain,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2025-10-04,Auxerre,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2025-10-19,Stade Rennais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2025-12-07,Auxerre,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2025-12-21,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2026-01-04,Stade Brestois,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alvin Petit Dol,2026-01-17,RC Lens,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alvin Petit Dol,2025-09-13,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2025-09-21,Auxerre,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2025-09-27,Paris Saint-Germain,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2025-10-04,Auxerre,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2025-10-19,Stade Rennais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2025-12-07,Auxerre,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2025-12-21,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2026-01-04,Stade Brestois,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alvin Petit Dol,2026-01-17,RC Lens,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

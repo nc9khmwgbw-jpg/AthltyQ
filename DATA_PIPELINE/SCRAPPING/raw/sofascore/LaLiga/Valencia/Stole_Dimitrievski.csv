@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Stole Dimitrievski,2026-02-01,Real Betis,Valencia,5.7,90,,,0.0,0,0,0.0,0.0,14,30,0,0,0,0,6,34
-Stole Dimitrievski,2026-02-04,Valencia,Athletic Club,7.1,90,,,0.0,0,0,0.0,0.0,31,48,0,0,0,0,9,56
-Stole Dimitrievski,2026-02-08,Valencia,Real Madrid,6.8,90,,,0.0,0,0,0.0,0.0,19,37,0,0,0,0,8,45
-Stole Dimitrievski,2026-02-15,Levante UD,Valencia,7.9,90,,,0.0,0,0,0.0,0.0,31,39,0,0,0,0,10,48
-Stole Dimitrievski,2026-02-22,Villarreal,Valencia,7.1,90,,,0.0,0,0,0.0,0.0,22,25,0,0,0,0,5,32
-Stole Dimitrievski,2026-03-01,Valencia,Osasuna,7.0,90,,,0.0,0,0,0.0,0.0,17,34,0,0,0,0,12,42
-Stole Dimitrievski,2026-03-08,Valencia,Deportivo Alavés,6.8,90,,,0.0,0,0,0.0,0.0,17,18,0,0,0,0,11,29
-Stole Dimitrievski,2026-03-14,Real Oviedo,Valencia,7.6,90,,,0.0,0,0,0.0,0.0,25,36,0,0,0,0,7,46
-Stole Dimitrievski,2026-03-21,Sevilla,Valencia,7.0,90,,,0.0,0,0,0.0,0.0,22,44,0,0,0,0,11,50
-Stole Dimitrievski,2026-03-26,Denmark,North Macedonia,7.0,90,,,0.0,0,0,0.0,0.0,9,27,0,0,0,0,9,40
-Stole Dimitrievski,2026-03-31,Ireland,North Macedonia,7.2,90,,,0.0,0,0,0.0,0.0,18,37,0,0,0,0,9,45
-Stole Dimitrievski,2026-04-05,Valencia,Celta Vigo,6.1,90,,,0.0,0,0,0.0,0.0,26,33,0,0,0,0,12,41
-Stole Dimitrievski,2026-04-11,Elche,Valencia,7.0,90,,,0.0,0,0,0.0,0.0,22,35,0,0,0,0,9,51
-Stole Dimitrievski,2026-04-21,Mallorca,Valencia,8.8,90,,,0.0,0,0,0.0,0.0,22,35,0,0,0,0,10,49
-Stole Dimitrievski,2026-04-25,Valencia,Girona FC,7.2,90,,,0.0,0,0,0.0,0.0,19,28,0,0,0,0,8,33
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Stole Dimitrievski,2026-02-01,Real Betis,Valencia,5.7,90,9668.0,17.0,107.42,0,0,0.0,0.0,14,30,0,0,0,0,6,34,0,1.76
+Stole Dimitrievski,2026-02-04,Valencia,Athletic Club,7.1,90,9798.0,17.0,108.87,0,0,0.0,0.0,31,48,0,0,0,0,9,56,0,1.74
+Stole Dimitrievski,2026-02-08,Valencia,Real Madrid,6.8,90,9739.0,17.0,108.21,0,0,0.0,0.0,19,37,0,0,0,0,8,45,0,1.75
+Stole Dimitrievski,2026-02-15,Levante UD,Valencia,7.9,90,9777.0,17.0,108.63,0,0,0.0,0.0,31,39,0,0,0,0,10,48,0,1.74
+Stole Dimitrievski,2026-02-22,Villarreal,Valencia,7.1,90,9647.0,17.0,107.19,0,0,0.0,0.0,22,25,0,0,0,0,5,32,0,1.76
+Stole Dimitrievski,2026-03-01,Valencia,Osasuna,7.0,90,9776.0,17.0,108.62,0,0,0.0,0.0,17,34,0,0,0,0,12,42,0,1.74
+Stole Dimitrievski,2026-03-08,Valencia,Deportivo Alavés,6.8,90,9709.0,17.0,107.88,0,0,0.0,0.0,17,18,0,0,0,0,11,29,0,1.75
+Stole Dimitrievski,2026-03-14,Real Oviedo,Valencia,7.6,90,9731.0,17.0,108.12,0,0,0.0,0.0,25,36,0,0,0,0,7,46,0,1.75
+Stole Dimitrievski,2026-03-21,Sevilla,Valencia,7.0,90,9798.0,17.0,108.87,0,0,0.0,0.0,22,44,0,0,0,0,11,50,0,1.74
+Stole Dimitrievski,2026-03-26,Denmark,North Macedonia,7.0,90,9730.0,17.0,108.11,0,0,0.0,0.0,9,27,0,0,0,0,9,40,0,1.75
+Stole Dimitrievski,2026-03-31,Ireland,North Macedonia,7.2,90,9752.0,17.0,108.36,0,0,0.0,0.0,18,37,0,0,0,0,9,45,0,1.74
+Stole Dimitrievski,2026-04-05,Valencia,Celta Vigo,6.1,90,9772.0,17.0,108.58,0,0,0.0,0.0,26,33,0,0,0,0,12,41,0,1.74
+Stole Dimitrievski,2026-04-11,Elche,Valencia,7.0,90,9777.0,17.0,108.63,0,0,0.0,0.0,22,35,0,0,0,0,9,51,0,1.74
+Stole Dimitrievski,2026-04-21,Mallorca,Valencia,8.8,90,9781.0,17.0,108.68,0,0,0.0,0.0,22,35,0,0,0,0,10,49,0,1.74
+Stole Dimitrievski,2026-04-25,Valencia,Girona FC,7.2,90,9689.0,17.0,107.66,0,0,0.0,0.0,19,28,0,0,0,0,8,33,0,1.75

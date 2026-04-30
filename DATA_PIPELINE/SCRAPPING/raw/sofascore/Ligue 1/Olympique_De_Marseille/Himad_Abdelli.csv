@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Himad Abdelli,2025-12-28,Algeria,Burkina Faso,6.5,8,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,1,2
-Himad Abdelli,2025-12-31,Equatorial Guinea,Algeria,6.5,90,,,0.0,0,0,0.0,0.0,68,72,2,0,5,0,7,84
-Himad Abdelli,2026-01-06,Algeria,DR Congo,7.1,71,,,0.0,0,0,0.0,0.0,31,36,1,0,1,0,6,44
-Himad Abdelli,2026-01-10,Algeria,Nigeria,6.5,9,,,0.0,0,0,0.0,0.0,9,10,0,0,0,0,1,11
-Himad Abdelli,2026-02-08,Paris Saint-Germain,Olympique de Marseille,6.0,28,,,0.0,0,0,0.13,0.0,4,7,0,0,0,0,1,11
-Himad Abdelli,2026-02-14,Olympique de Marseille,RC Strasbourg,6.5,19,,,0.0,0,0,0.0,0.01,16,18,1,0,0,0,0,20
-Himad Abdelli,2026-02-20,Stade Brestois,Olympique de Marseille,6.8,11,,,0.0,0,0,0.0,0.02,13,14,0,0,0,0,1,15
-Himad Abdelli,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.6,15,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2
-Himad Abdelli,2026-03-04,Olympique de Marseille,Toulouse,6.1,45,,,0.0,0,0,0.0,0.0,23,29,0,0,0,0,2,32
-Himad Abdelli,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Himad Abdelli,2026-03-22,Olympique de Marseille,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Himad Abdelli,2026-04-05,AS Monaco,Olympique de Marseille,6.6,8,,,0.0,0,0,0.0,0.0,8,8,0,0,1,0,1,10
-Himad Abdelli,2026-04-10,Olympique de Marseille,Metz,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Himad Abdelli,2026-04-18,Lorient,Olympique de Marseille,6.5,59,,,0.0,0,0,0.02,0.03,38,41,0,0,0,0,6,50
-Himad Abdelli,2026-04-26,Olympique de Marseille,Nice,6.4,9,,,0.0,0,0,0.0,0.0,5,7,0,0,1,0,0,8
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Himad Abdelli,2025-12-28,Algeria,Burkina Faso,6.5,8,861.0,2.0,107.62,0,0,0.0,0.0,0,1,0,0,0,0,1,2,0,2.32
+Himad Abdelli,2025-12-31,Equatorial Guinea,Algeria,6.5,90,9890.0,24.0,109.89,0,0,0.0,0.0,68,72,2,0,5,0,7,84,0,2.43
+Himad Abdelli,2026-01-06,Algeria,DR Congo,7.1,71,7715.0,15.0,108.66,0,0,0.0,0.0,31,36,1,0,1,0,6,44,0,1.94
+Himad Abdelli,2026-01-10,Algeria,Nigeria,6.5,9,1004.0,2.0,111.56,0,0,0.0,0.0,9,10,0,0,0,0,1,11,0,1.99
+Himad Abdelli,2026-02-08,Paris Saint-Germain,Olympique de Marseille,6.0,28,2999.0,5.0,107.11,0,0,0.13,0.0,4,7,0,0,0,0,1,11,0,1.67
+Himad Abdelli,2026-02-14,Olympique de Marseille,RC Strasbourg,6.5,19,2079.0,4.0,109.42,0,0,0.0,0.01,16,18,1,0,0,0,0,20,0,1.92
+Himad Abdelli,2026-02-20,Stade Brestois,Olympique de Marseille,6.8,11,1230.0,2.0,111.82,0,0,0.0,0.02,13,14,0,0,0,0,1,15,0,1.63
+Himad Abdelli,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.6,15,1583.0,3.0,105.53,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0,1.9
+Himad Abdelli,2026-03-04,Olympique de Marseille,Toulouse,6.1,45,4884.0,9.0,108.53,0,0,0.0,0.0,23,29,0,0,0,0,2,32,0,1.84
+Himad Abdelli,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Himad Abdelli,2026-03-22,Olympique de Marseille,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Himad Abdelli,2026-04-05,AS Monaco,Olympique de Marseille,6.6,8,894.0,3.0,111.75,0,0,0.0,0.0,8,8,0,0,1,0,1,10,0,3.36
+Himad Abdelli,2026-04-10,Olympique de Marseille,Metz,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Himad Abdelli,2026-04-18,Lorient,Olympique de Marseille,6.5,59,6480.0,11.0,109.83,0,0,0.02,0.03,38,41,0,0,0,0,6,50,0,1.7
+Himad Abdelli,2026-04-26,Olympique de Marseille,Nice,6.4,9,979.0,3.0,108.78,0,0,0.0,0.0,5,7,0,0,1,0,0,8,0,3.06

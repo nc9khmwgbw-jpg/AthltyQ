@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Vincent Marchetti,2025-11-29,Paris FC,Auxerre,7.0,90,,,0.0,0,0,0.01,0.01,40,45,0,0,0,0,3,63
-Vincent Marchetti,2025-12-07,Le Havre,Paris FC,6.5,66,,,0.0,0,0,0.0,0.01,36,39,0,0,0,0,1,46
-Vincent Marchetti,2025-12-13,Paris FC,Toulouse,6.4,70,,,0.0,0,0,0.03,0.01,39,42,0,0,0,0,2,48
-Vincent Marchetti,2025-12-20,U.S Raon-l'Étape,Paris FC,7.2,83,,,0.0,0,0,0.0,0.0,61,79,1,0,1,0,8,98
-Vincent Marchetti,2026-01-04,Paris Saint-Germain,Paris FC,6.8,13,,,0.0,0,0,0.11,0.05,8,8,1,0,0,0,1,12
-Vincent Marchetti,2026-01-18,Nantes,Paris FC,6.4,9,,,0.0,0,0,0.03,0.0,1,2,0,0,0,0,1,5
-Vincent Marchetti,2026-01-25,Paris FC,Angers,6.7,60,,,0.0,0,0,0.0,0.01,22,29,0,0,0,0,1,34
-Vincent Marchetti,2026-01-31,Paris FC,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Vincent Marchetti,2026-02-04,Lorient,Paris FC,6.4,58,,,0.0,0,0,0.0,0.0,27,29,0,0,2,0,3,36
-Vincent Marchetti,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Vincent Marchetti,2026-02-14,Paris FC,RC Lens,6.7,17,,,0.0,0,0,0.02,0.06,12,13,0,0,0,0,3,18
-Vincent Marchetti,2026-02-21,Toulouse,Paris FC,6.7,23,,,0.0,0,0,0.0,0.02,8,11,0,0,0,0,0,19
-Vincent Marchetti,2026-03-01,Paris FC,Nice,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Vincent Marchetti,2026-03-08,Olympique Lyonnais,Paris FC,6.5,11,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,1,2
-Vincent Marchetti,2026-04-19,Metz,Paris FC,6.8,24,,,0.0,0,0,0.06,0.01,5,6,0,0,1,0,0,10
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Vincent Marchetti,2025-11-29,Paris FC,Auxerre,7.0,90,9752.0,17.0,108.36,0,0,0.01,0.01,40,45,0,0,0,0,3,63,0,1.74
+Vincent Marchetti,2025-12-07,Le Havre,Paris FC,6.5,66,7136.0,13.0,108.12,0,0,0.0,0.01,36,39,0,0,0,0,1,46,0,1.82
+Vincent Marchetti,2025-12-13,Paris FC,Toulouse,6.4,70,7577.0,13.0,108.24,0,0,0.03,0.01,39,42,0,0,0,0,2,48,0,1.72
+Vincent Marchetti,2025-12-20,U.S Raon-l'Étape,Paris FC,7.2,83,9227.0,17.0,111.17,0,0,0.0,0.0,61,79,1,0,1,0,8,98,0,1.84
+Vincent Marchetti,2026-01-04,Paris Saint-Germain,Paris FC,6.8,13,1428.0,2.0,109.85,0,0,0.11,0.05,8,8,1,0,0,0,1,12,0,1.4
+Vincent Marchetti,2026-01-18,Nantes,Paris FC,6.4,9,978.0,2.0,108.67,0,0,0.03,0.0,1,2,0,0,0,0,1,5,0,2.04
+Vincent Marchetti,2026-01-25,Paris FC,Angers,6.7,60,6455.0,12.0,107.58,0,0,0.0,0.01,22,29,0,0,0,0,1,34,0,1.86
+Vincent Marchetti,2026-01-31,Paris FC,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Vincent Marchetti,2026-02-04,Lorient,Paris FC,6.4,58,6279.0,14.0,108.26,0,0,0.0,0.0,27,29,0,0,2,0,3,36,0,2.23
+Vincent Marchetti,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Vincent Marchetti,2026-02-14,Paris FC,RC Lens,6.7,17,1898.0,3.0,111.65,0,0,0.02,0.06,12,13,0,0,0,0,3,18,0,1.58
+Vincent Marchetti,2026-02-21,Toulouse,Paris FC,6.7,23,2495.0,4.0,108.48,0,0,0.0,0.02,8,11,0,0,0,0,0,19,0,1.6
+Vincent Marchetti,2026-03-01,Paris FC,Nice,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Vincent Marchetti,2026-03-08,Olympique Lyonnais,Paris FC,6.5,11,1176.0,2.0,106.91,0,0,0.0,0.0,1,2,0,0,0,0,1,2,0,1.7
+Vincent Marchetti,2026-04-19,Metz,Paris FC,6.8,24,2562.0,6.0,106.75,0,0,0.06,0.01,5,6,0,0,1,0,0,10,0,2.34

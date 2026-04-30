@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Antonee Robinson,2026-01-24,Fulham,Brighton & Hove Albion,6.3,59,,,0.0,0,0,0.0,0.01,29,43,0,0,1,0,3,59
-Antonee Robinson,2026-02-01,Manchester United,Fulham,6.1,71,,,0.0,0,0,0.0,0.02,34,36,1,0,1,0,4,54
-Antonee Robinson,2026-02-07,Fulham,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonee Robinson,2026-02-11,Manchester City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonee Robinson,2026-02-15,Stoke City,Fulham,6.9,90,,,0.0,0,0,0.0,0.0,55,64,0,0,2,0,8,94
-Antonee Robinson,2026-03-01,Fulham,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonee Robinson,2026-03-04,Fulham,West Ham United,6.9,90,,,0.0,0,0,0.0,0.16,35,45,3,0,1,0,5,75
-Antonee Robinson,2026-03-08,Fulham,Southampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonee Robinson,2026-03-15,Nottingham Forest,Fulham,6.8,90,,,0.0,0,0,0.0,0.02,27,37,1,0,3,0,7,69
-Antonee Robinson,2026-03-21,Fulham,Burnley,6.5,61,,,0.0,0,0,0.0,0.01,19,24,0,0,1,0,3,52
-Antonee Robinson,2026-03-28,USA,Belgium,6.4,64,,,0.0,0,0,0.0,0.0,18,32,1,0,1,0,2,48
-Antonee Robinson,2026-04-01,USA,Portugal,6.3,45,,,0.0,0,0,0.0,0.0,12,17,1,0,0,0,1,24
-Antonee Robinson,2026-04-11,Liverpool,Fulham,6.7,69,,,0.0,0,0,0.0,0.03,26,34,1,0,2,0,3,61
-Antonee Robinson,2026-04-18,Brentford,Fulham,6.8,9,,,0.0,0,0,0.0,0.01,3,3,1,0,1,0,1,6
-Antonee Robinson,2026-04-25,Fulham,Aston Villa,6.7,9,,,0.0,0,0,0.0,0.0,3,6,0,0,1,0,2,9
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Antonee Robinson,2026-01-24,Fulham,Brighton & Hove Albion,6.3,59,6480.0,13.0,109.83,0,0,0.0,0.01,29,43,0,0,1,0,3,59,0,2.01
+Antonee Robinson,2026-02-01,Manchester United,Fulham,6.1,71,7732.0,15.0,108.9,0,0,0.0,0.02,34,36,1,0,1,0,4,54,0,1.94
+Antonee Robinson,2026-02-07,Fulham,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonee Robinson,2026-02-11,Manchester City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonee Robinson,2026-02-15,Stoke City,Fulham,6.9,90,9945.0,20.0,110.5,0,0,0.0,0.0,55,64,0,0,2,0,8,94,0,2.01
+Antonee Robinson,2026-03-01,Fulham,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonee Robinson,2026-03-04,Fulham,West Ham United,6.9,90,9828.0,19.0,109.2,0,0,0.0,0.16,35,45,3,0,1,0,5,75,0,1.93
+Antonee Robinson,2026-03-08,Fulham,Southampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonee Robinson,2026-03-15,Nottingham Forest,Fulham,6.8,90,9827.0,22.0,109.19,0,0,0.0,0.02,27,37,1,0,3,0,7,69,0,2.24
+Antonee Robinson,2026-03-21,Fulham,Burnley,6.5,61,6661.0,13.0,109.2,0,0,0.0,0.01,19,24,0,0,1,0,3,52,0,1.95
+Antonee Robinson,2026-03-28,USA,Belgium,6.4,64,6947.0,14.0,108.55,0,0,0.0,0.0,18,32,1,0,1,0,2,48,0,2.02
+Antonee Robinson,2026-04-01,USA,Portugal,6.3,45,4838.0,9.0,107.51,0,0,0.0,0.0,12,17,1,0,0,0,1,24,0,1.86
+Antonee Robinson,2026-04-11,Liverpool,Fulham,6.7,69,7539.0,16.0,109.26,0,0,0.0,0.03,26,34,1,0,2,0,3,61,0,2.12
+Antonee Robinson,2026-04-18,Brentford,Fulham,6.8,9,983.0,3.0,109.22,0,0,0.0,0.01,3,3,1,0,1,0,1,6,0,3.05
+Antonee Robinson,2026-04-25,Fulham,Aston Villa,6.7,9,1008.0,3.0,112.0,0,0,0.0,0.0,3,6,0,0,1,0,2,9,0,2.98

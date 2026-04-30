@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Adedamola Samuel Alabi,2025-10-28,England U17,Scotland U17,,64,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-10-31,England U17,Lithuania U17,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-11-03,Sweden U17,England U17,,3,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-11-11,Harrogate Town,Newcastle United U21,6.4,90,,,0.0,0,0,0.0,0.0,41,44,0,0,0,0,4,52
-Adedamola Samuel Alabi,2025-11-21,Newcastle United U21,Paris Saint-Germain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-11-25,Olympique de Marseille,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-12-02,Scunthorpe United,Newcastle United U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-12-06,Manchester United U18,Newcastle United U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-12-10,Bayer Leverkusen U19,Newcastle United U19,,64,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-12-20,Newcastle United U21,GNK Dinamo Zagreb U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-12-26,Manchester United,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2025-12-30,Burnley,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2026-01-09,Newcastle United U21,Middlesbrough U21,,13,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2026-01-10,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adedamola Samuel Alabi,2026-01-13,Newcastle United U21,SL Benfica B U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Adedamola Samuel Alabi,2025-10-28,England U17,Scotland U17,,64,6720.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79
+Adedamola Samuel Alabi,2025-10-31,England U17,Lithuania U17,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Adedamola Samuel Alabi,2025-11-03,Sweden U17,England U17,,3,315.0,1.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,3.17
+Adedamola Samuel Alabi,2025-11-11,Harrogate Town,Newcastle United U21,6.4,90,9718.0,17.0,107.98,0,0,0.0,0.0,41,44,0,0,0,0,4,52,0,1.75
+Adedamola Samuel Alabi,2025-11-21,Newcastle United U21,Paris Saint-Germain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2025-11-25,Olympique de Marseille,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2025-12-02,Scunthorpe United,Newcastle United U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2025-12-06,Manchester United U18,Newcastle United U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2025-12-10,Bayer Leverkusen U19,Newcastle United U19,,64,6720.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79
+Adedamola Samuel Alabi,2025-12-20,Newcastle United U21,GNK Dinamo Zagreb U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2025-12-26,Manchester United,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2025-12-30,Burnley,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2026-01-09,Newcastle United U21,Middlesbrough U21,,13,1365.0,2.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.47
+Adedamola Samuel Alabi,2026-01-10,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adedamola Samuel Alabi,2026-01-13,Newcastle United U21,SL Benfica B U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

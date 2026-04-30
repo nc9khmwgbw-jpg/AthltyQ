@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Josh Cullen,2025-10-05,Aston Villa,Burnley,7.2,90,,,0.0,0,0,0.07,0.02,50,60,0,0,1,0,11,74
-Josh Cullen,2025-10-11,Portugal,Ireland,6.7,90,,,0.0,0,0,0.0,0.0,23,26,0,0,0,0,2,32
-Josh Cullen,2025-10-18,Burnley,Leeds United,6.9,90,,,0.0,0,0,0.0,0.02,38,43,1,0,2,0,2,55
-Josh Cullen,2025-10-26,Wolverhampton,Burnley,6.9,90,,,0.0,0,0,0.05,0.05,53,57,0,0,0,0,2,78
-Josh Cullen,2025-11-01,Burnley,Arsenal,6.7,82,,,0.0,0,0,0.0,0.02,33,36,0,0,1,0,1,43
-Josh Cullen,2025-11-08,West Ham United,Burnley,7.1,90,,,0.0,1,0,0.42,0.04,69,74,1,0,0,0,5,85
-Josh Cullen,2025-11-13,Ireland,Portugal,7.7,90,,,0.0,0,0,0.0,0.0,24,29,3,0,0,0,1,45
-Josh Cullen,2025-11-16,Hungary,Ireland,6.6,80,,,0.0,0,0,0.0,0.0,38,47,0,0,0,0,4,56
-Josh Cullen,2025-11-22,Burnley,Chelsea,6.4,90,,,0.0,0,0,0.0,0.01,41,51,0,0,0,0,2,61
-Josh Cullen,2025-11-29,Brentford,Burnley,6.5,81,,,0.0,0,0,0.0,0.01,34,46,0,0,0,0,4,62
-Josh Cullen,2025-12-03,Burnley,Crystal Palace,6.9,81,,,0.0,0,0,0.1,0.02,49,57,0,0,4,0,9,75
-Josh Cullen,2025-12-06,Newcastle United,Burnley,6.4,90,,,0.0,0,0,0.06,0.32,31,37,1,0,1,0,2,42
-Josh Cullen,2025-12-13,Burnley,Fulham,6.8,90,,,0.0,0,0,0.05,0.25,61,75,2,0,2,0,4,83
-Josh Cullen,2025-12-20,Bournemouth,Burnley,6.8,90,,,0.0,0,0,0.04,0.01,24,33,1,0,1,0,5,44
-Josh Cullen,2025-12-27,Burnley,Everton,6.5,53,,,0.0,0,0,0.04,0.01,29,36,0,0,1,0,4,44
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Josh Cullen,2025-10-05,Aston Villa,Burnley,7.2,90,9898.0,19.0,109.98,0,0,0.07,0.02,50,60,0,0,1,0,11,74,0,1.92
+Josh Cullen,2025-10-11,Portugal,Ireland,6.7,90,9609.0,17.0,106.77,0,0,0.0,0.0,23,26,0,0,0,0,2,32,0,1.77
+Josh Cullen,2025-10-18,Burnley,Leeds United,6.9,90,9706.0,20.0,107.84,0,0,0.0,0.02,38,43,1,0,2,0,2,55,0,2.06
+Josh Cullen,2025-10-26,Wolverhampton,Burnley,6.9,90,9803.0,17.0,108.92,0,0,0.05,0.05,53,57,0,0,0,0,2,78,0,1.73
+Josh Cullen,2025-11-01,Burnley,Arsenal,6.7,82,8803.0,17.0,107.35,0,0,0.0,0.02,33,36,0,0,1,0,1,43,0,1.93
+Josh Cullen,2025-11-08,West Ham United,Burnley,7.1,90,9870.0,17.0,109.67,1,0,0.42,0.04,69,74,1,0,0,0,5,85,0,1.72
+Josh Cullen,2025-11-13,Ireland,Portugal,7.7,90,9652.0,17.0,107.24,0,0,0.0,0.0,24,29,3,0,0,0,1,45,0,1.76
+Josh Cullen,2025-11-16,Hungary,Ireland,6.6,80,8685.0,15.0,108.56,0,0,0.0,0.0,38,47,0,0,0,0,4,56,0,1.73
+Josh Cullen,2025-11-22,Burnley,Chelsea,6.4,90,9731.0,17.0,108.12,0,0,0.0,0.01,41,51,0,0,0,0,2,61,0,1.75
+Josh Cullen,2025-11-29,Brentford,Burnley,6.5,81,8815.0,16.0,108.83,0,0,0.0,0.01,34,46,0,0,0,0,4,62,0,1.82
+Josh Cullen,2025-12-03,Burnley,Crystal Palace,6.9,81,8932.0,21.0,110.27,0,0,0.1,0.02,49,57,0,0,4,0,9,75,0,2.35
+Josh Cullen,2025-12-06,Newcastle United,Burnley,6.4,90,9651.0,19.0,107.23,0,0,0.06,0.32,31,37,1,0,1,0,2,42,0,1.97
+Josh Cullen,2025-12-13,Burnley,Fulham,6.8,90,9849.0,20.0,109.43,0,0,0.05,0.25,61,75,2,0,2,0,4,83,0,2.03
+Josh Cullen,2025-12-20,Bournemouth,Burnley,6.8,90,9697.0,19.0,107.74,0,0,0.04,0.01,24,33,1,0,1,0,5,44,0,1.96
+Josh Cullen,2025-12-27,Burnley,Everton,6.5,53,5800.0,12.0,109.43,0,0,0.04,0.01,29,36,0,0,1,0,4,44,0,2.07

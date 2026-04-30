@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Dwight McNeil,2025-12-30,Nottingham Forest,Everton,6.6,90,,,0.0,0,0,0.1,0.2,14,21,2,0,0,0,4,41
-Dwight McNeil,2026-01-04,Everton,Brentford,7.1,45,,,0.0,0,0,0.04,0.21,7,8,1,0,0,0,2,16
-Dwight McNeil,2026-01-07,Everton,Wolverhampton,7.1,89,,,0.0,0,0,0.02,0.1,17,20,0,0,0,0,1,41
-Dwight McNeil,2026-01-10,Everton,Sunderland,7.1,120,,,0.0,0,0,0.0,0.0,36,41,2,0,1,0,8,61
-Dwight McNeil,2026-01-18,Aston Villa,Everton,6.6,90,,,0.0,0,0,0.05,0.02,21,24,1,0,1,0,6,35
-Dwight McNeil,2026-01-26,Everton,Leeds United,6.5,45,,,0.0,0,0,0.0,0.0,6,8,0,0,0,0,2,12
-Dwight McNeil,2026-01-31,Brighton & Hove Albion,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dwight McNeil,2026-02-23,Everton,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dwight McNeil,2026-02-28,Newcastle United,Everton,6.9,81,,,0.0,0,0,0.16,0.01,14,17,0,0,0,0,4,41
-Dwight McNeil,2026-03-03,Everton,Burnley,6.8,87,,,0.0,0,0,0.11,0.07,40,50,1,0,2,0,10,70
-Dwight McNeil,2026-03-14,Arsenal,Everton,7.0,86,,,0.0,0,0,0.34,0.01,15,17,1,0,1,0,2,35
-Dwight McNeil,2026-03-21,Everton,Chelsea,7.0,78,,,0.0,0,0,0.0,0.07,20,24,2,0,0,0,3,32
-Dwight McNeil,2026-04-11,Brentford,Everton,6.2,74,,,0.0,0,0,0.17,0.01,18,24,0,0,1,0,5,38
-Dwight McNeil,2026-04-19,Everton,Liverpool,6.4,80,,,0.0,0,0,0.1,0.11,15,18,1,0,2,0,4,36
-Dwight McNeil,2026-04-25,West Ham United,Everton,6.9,65,,,0.0,0,0,0.03,0.95,12,14,2,0,1,0,3,26
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Dwight McNeil,2025-12-30,Nottingham Forest,Everton,6.6,90,9672.0,17.0,107.47,0,0,0.1,0.2,14,21,2,0,0,0,4,41,0,1.76
+Dwight McNeil,2026-01-04,Everton,Brentford,7.1,45,4817.0,9.0,107.04,0,0,0.04,0.21,7,8,1,0,0,0,2,16,0,1.87
+Dwight McNeil,2026-01-07,Everton,Wolverhampton,7.1,89,9530.0,17.0,107.08,0,0,0.02,0.1,17,20,0,0,0,0,1,41,0,1.78
+Dwight McNeil,2026-01-10,Everton,Sunderland,7.1,120,12956.0,24.0,107.97,0,0,0.0,0.0,36,41,2,0,1,0,8,61,0,1.85
+Dwight McNeil,2026-01-18,Aston Villa,Everton,6.6,90,9672.0,19.0,107.47,0,0,0.05,0.02,21,24,1,0,1,0,6,35,0,1.96
+Dwight McNeil,2026-01-26,Everton,Leeds United,6.5,45,4800.0,9.0,106.67,0,0,0.0,0.0,6,8,0,0,0,0,2,12,0,1.88
+Dwight McNeil,2026-01-31,Brighton & Hove Albion,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dwight McNeil,2026-02-23,Everton,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dwight McNeil,2026-02-28,Newcastle United,Everton,6.9,81,8727.0,16.0,107.74,0,0,0.16,0.01,14,17,0,0,0,0,4,41,0,1.83
+Dwight McNeil,2026-03-03,Everton,Burnley,6.8,87,9554.0,20.0,109.82,0,0,0.11,0.07,40,50,1,0,2,0,10,70,0,2.09
+Dwight McNeil,2026-03-14,Arsenal,Everton,7.0,86,9202.0,18.0,107.0,0,0,0.34,0.01,15,17,1,0,1,0,2,35,0,1.96
+Dwight McNeil,2026-03-21,Everton,Chelsea,7.0,78,8362.0,15.0,107.21,0,0,0.0,0.07,20,24,2,0,0,0,3,32,0,1.79
+Dwight McNeil,2026-04-11,Brentford,Everton,6.2,74,7992.0,16.0,108.0,0,0,0.17,0.01,18,24,0,0,1,0,5,38,0,2.0
+Dwight McNeil,2026-04-19,Everton,Liverpool,6.4,80,8601.0,18.0,107.51,0,0,0.1,0.11,15,18,1,0,2,0,4,36,0,2.09
+Dwight McNeil,2026-04-25,West Ham United,Everton,6.9,65,6972.0,14.0,107.26,0,0,0.03,0.95,12,14,2,0,1,0,3,26,0,2.01

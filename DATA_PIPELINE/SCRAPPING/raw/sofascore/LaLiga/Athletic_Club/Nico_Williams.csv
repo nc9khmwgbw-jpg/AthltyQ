@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Nico Williams,2025-12-18,Ourense CF,Athletic Club,6.6,51,,,0.0,0,0,0.0,0.0,14,17,0,0,0,0,6,40
-Nico Williams,2025-12-22,Athletic Club,Espanyol,6.3,57,,,0.0,0,0,0.02,0.13,19,21,2,0,1,0,5,41
-Nico Williams,2026-01-03,Osasuna,Athletic Club,6.6,89,,,0.0,0,0,0.34,0.2,24,31,1,0,0,0,4,60
-Nico Williams,2026-01-07,FC Barcelona,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nico Williams,2026-01-13,Cultural Leonesa,Athletic Club,7.8,120,,,0.0,0,0,0.0,0.0,32,37,4,0,1,0,11,74
-Nico Williams,2026-01-17,Mallorca,Athletic Club,7.3,72,,,0.0,1,0,0.21,0.05,27,34,1,0,1,0,1,60
-Nico Williams,2026-01-24,Sevilla,Athletic Club,6.6,33,,,0.0,0,0,0.0,0.01,9,11,0,0,0,0,2,24
-Nico Williams,2026-02-01,Athletic Club,Real Sociedad,6.6,72,,,0.0,0,0,0.15,0.14,14,25,1,0,0,0,3,51
-Nico Williams,2026-02-04,Valencia,Athletic Club,6.7,20,,,0.0,0,0,0.0,0.0,6,9,1,0,0,0,1,15
-Nico Williams,2026-02-08,Athletic Club,Levante UD,6.5,76,,,0.0,0,0,0.06,0.03,32,34,2,0,0,0,5,51
-Nico Williams,2026-02-11,Athletic Club,Real Sociedad,6.8,34,,,0.0,0,0,0.0,0.0,8,11,0,0,0,0,3,26
-Nico Williams,2026-04-05,Getafe,Athletic Club,6.5,45,,,0.0,0,0,0.0,0.34,16,18,2,0,0,0,1,44
-Nico Williams,2026-04-12,Athletic Club,Villarreal,6.9,66,,,0.0,0,0,0.22,0.02,24,28,2,0,0,0,3,57
-Nico Williams,2026-04-21,Athletic Club,Osasuna,6.6,65,,,0.0,0,0,0.08,0.04,6,8,1,0,0,0,3,22
-Nico Williams,2026-04-25,Atlético Madrid,Athletic Club,6.5,70,,,0.0,0,0,0.0,0.01,16,21,1,0,1,0,4,46
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nico Williams,2025-12-18,Ourense CF,Athletic Club,6.6,51,5598.0,10.0,109.76,0,0,0.0,0.0,14,17,0,0,0,0,6,40,0,1.79
+Nico Williams,2025-12-22,Athletic Club,Espanyol,6.3,57,6220.0,12.0,109.12,0,0,0.02,0.13,19,21,2,0,1,0,5,41,0,1.93
+Nico Williams,2026-01-03,Osasuna,Athletic Club,6.6,89,9647.0,17.0,108.39,0,0,0.34,0.2,24,31,1,0,0,0,4,60,0,1.76
+Nico Williams,2026-01-07,FC Barcelona,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nico Williams,2026-01-13,Cultural Leonesa,Athletic Club,7.8,120,13048.0,24.0,108.73,0,0,0.0,0.0,32,37,4,0,1,0,11,74,0,1.84
+Nico Williams,2026-01-17,Mallorca,Athletic Club,7.3,72,7824.0,15.0,108.67,1,0,0.21,0.05,27,34,1,0,1,0,1,60,0,1.92
+Nico Williams,2026-01-24,Sevilla,Athletic Club,6.6,33,3591.0,6.0,108.82,0,0,0.0,0.01,9,11,0,0,0,0,2,24,0,1.67
+Nico Williams,2026-02-01,Athletic Club,Real Sociedad,6.6,72,7812.0,14.0,108.5,0,0,0.15,0.14,14,25,1,0,0,0,3,51,0,1.79
+Nico Williams,2026-02-04,Valencia,Athletic Club,6.7,20,2176.0,4.0,108.8,0,0,0.0,0.0,6,9,1,0,0,0,1,15,0,1.84
+Nico Williams,2026-02-08,Athletic Club,Levante UD,6.5,76,8257.0,15.0,108.64,0,0,0.06,0.03,32,34,2,0,0,0,5,51,0,1.82
+Nico Williams,2026-02-11,Athletic Club,Real Sociedad,6.8,34,3717.0,7.0,109.32,0,0,0.0,0.0,8,11,0,0,0,0,3,26,0,1.88
+Nico Williams,2026-04-05,Getafe,Athletic Club,6.5,45,4922.0,9.0,109.38,0,0,0.0,0.34,16,18,2,0,0,0,1,44,0,1.83
+Nico Williams,2026-04-12,Athletic Club,Villarreal,6.9,66,7207.0,13.0,109.2,0,0,0.22,0.02,24,28,2,0,0,0,3,57,0,1.8
+Nico Williams,2026-04-21,Athletic Club,Osasuna,6.6,65,6955.0,12.0,107.0,0,0,0.08,0.04,6,8,1,0,0,0,3,22,0,1.73
+Nico Williams,2026-04-25,Atlético Madrid,Athletic Club,6.5,70,7593.0,15.0,108.47,0,0,0.0,0.01,16,21,1,0,1,0,4,46,0,1.98

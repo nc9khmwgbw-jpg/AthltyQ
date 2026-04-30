@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Romain Faivre,2025-09-21,Al Faisaly,Al-Taawoun,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Romain Faivre,2025-09-25,Al-Khaleej,Al-Taawoun,6.8,17,,,0.0,0,0,0.0,0.01,8,8,0,0,0,0,0,12
-Romain Faivre,2025-10-19,Al-Taawoun,Damac FC,7.4,18,,,0.0,1,0,0.84,0.02,6,10,0,0,1,0,0,15
-Romain Faivre,2025-10-23,Al-Fayha,Al-Taawoun,6.8,63,,,0.0,0,1,0.07,0.05,19,20,2,0,0,0,4,29
-Romain Faivre,2026-01-17,RC Lens,Auxerre,6.7,14,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,2,15
-Romain Faivre,2026-01-23,Auxerre,Paris Saint-Germain,6.6,5,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,1,4
-Romain Faivre,2026-02-01,Toulouse,Auxerre,6.7,73,,,0.0,0,0,0.06,0.06,31,32,1,0,0,0,2,43
-Romain Faivre,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Romain Faivre,2026-02-15,Metz,Auxerre,7.1,72,,,0.0,0,0,0.04,0.31,18,22,0,0,1,0,8,40
-Romain Faivre,2026-03-13,Olympique de Marseille,Auxerre,6.5,23,,,0.0,0,0,0.1,0.01,11,13,1,0,0,0,1,19
-Romain Faivre,2026-03-21,Auxerre,Stade Brestois,7.9,64,,,0.0,0,2,0.0,0.38,12,12,2,0,0,0,1,21
-Romain Faivre,2026-04-05,Le Havre,Auxerre,6.7,90,,,0.0,0,0,0.31,0.11,23,30,3,0,0,0,2,49
-Romain Faivre,2026-04-11,Auxerre,Nantes,6.7,77,,,0.0,0,0,0.0,0.01,5,10,0,0,0,0,0,23
-Romain Faivre,2026-04-19,AS Monaco,Auxerre,6.9,90,,,0.0,0,0,0.04,0.07,22,31,3,0,1,0,6,47
-Romain Faivre,2026-04-25,Olympique Lyonnais,Auxerre,6.7,75,,,0.0,0,0,0.07,0.05,17,19,0,0,3,0,4,36
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Romain Faivre,2025-09-21,Al Faisaly,Al-Taawoun,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Romain Faivre,2025-09-25,Al-Khaleej,Al-Taawoun,6.8,17,1835.0,3.0,107.94,0,0,0.0,0.01,8,8,0,0,0,0,0,12,0,1.63
+Romain Faivre,2025-10-19,Al-Taawoun,Damac FC,7.4,18,1953.0,5.0,108.5,1,0,0.84,0.02,6,10,0,0,1,0,0,15,0,2.56
+Romain Faivre,2025-10-23,Al-Fayha,Al-Taawoun,6.8,63,6787.0,12.0,107.73,0,1,0.07,0.05,19,20,2,0,0,0,4,29,0,1.77
+Romain Faivre,2026-01-17,RC Lens,Auxerre,6.7,14,1558.0,3.0,111.29,0,0,0.0,0.0,4,5,0,0,0,0,2,15,0,1.93
+Romain Faivre,2026-01-23,Auxerre,Paris Saint-Germain,6.6,5,554.0,1.0,110.8,0,0,0.0,0.0,3,4,0,0,0,0,1,4,0,1.81
+Romain Faivre,2026-02-01,Toulouse,Auxerre,6.7,73,7871.0,14.0,107.82,0,0,0.06,0.06,31,32,1,0,0,0,2,43,0,1.78
+Romain Faivre,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Romain Faivre,2026-02-15,Metz,Auxerre,7.1,72,7828.0,15.0,108.72,0,0,0.04,0.31,18,22,0,0,1,0,8,40,0,1.92
+Romain Faivre,2026-03-13,Olympique de Marseille,Auxerre,6.5,23,2507.0,4.0,109.0,0,0,0.1,0.01,11,13,1,0,0,0,1,19,0,1.6
+Romain Faivre,2026-03-21,Auxerre,Stade Brestois,7.9,64,6821.0,12.0,106.58,0,2,0.0,0.38,12,12,2,0,0,0,1,21,0,1.76
+Romain Faivre,2026-04-05,Le Havre,Auxerre,6.7,90,9681.0,17.0,107.57,0,0,0.31,0.11,23,30,3,0,0,0,2,49,0,1.76
+Romain Faivre,2026-04-11,Auxerre,Nantes,6.7,77,8182.0,15.0,106.26,0,0,0.0,0.01,5,10,0,0,0,0,0,23,0,1.83
+Romain Faivre,2026-04-19,AS Monaco,Auxerre,6.9,90,9722.0,19.0,108.02,0,0,0.04,0.07,22,31,3,0,1,0,6,47,0,1.95
+Romain Faivre,2026-04-25,Olympique Lyonnais,Auxerre,6.7,75,8076.0,19.0,107.68,0,0,0.07,0.05,17,19,0,0,3,0,4,36,0,2.35

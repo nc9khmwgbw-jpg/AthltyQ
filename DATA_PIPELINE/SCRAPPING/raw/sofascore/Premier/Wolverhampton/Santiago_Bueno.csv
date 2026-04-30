@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Santiago Bueno,2026-01-24,Manchester City,Wolverhampton,6.5,90,,,0.0,0,0,0.0,0.0,34,41,0,0,0,0,3,50
-Santiago Bueno,2026-01-31,Wolverhampton,Bournemouth,6.5,89,,,0.0,0,0,0.06,0.0,57,69,0,0,0,0,2,81
-Santiago Bueno,2026-02-07,Wolverhampton,Chelsea,6.0,90,,,0.0,0,0,0.0,0.36,39,46,0,0,1,0,4,57
-Santiago Bueno,2026-02-11,Nottingham Forest,Wolverhampton,7.2,90,,,0.0,0,0,0.0,0.14,20,22,1,0,0,0,0,29
-Santiago Bueno,2026-02-15,Grimsby Town,Wolverhampton,8.3,90,,,0.0,1,0,0.0,0.0,7,14,0,0,1,0,3,33
-Santiago Bueno,2026-02-18,Wolverhampton,Arsenal,6.9,90,,,0.0,0,0,0.0,0.02,34,37,2,0,1,0,3,48
-Santiago Bueno,2026-02-22,Crystal Palace,Wolverhampton,6.5,90,,,0.0,0,0,0.02,0.01,25,30,0,0,2,0,3,47
-Santiago Bueno,2026-02-27,Wolverhampton,Aston Villa,7.1,90,,,0.0,0,0,0.0,0.0,24,29,0,0,0,0,1,42
-Santiago Bueno,2026-03-03,Wolverhampton,Liverpool,7.4,90,,,0.0,0,0,0.0,0.0,31,32,0,0,0,0,2,42
-Santiago Bueno,2026-03-06,Wolverhampton,Liverpool,6.0,90,,,0.0,0,0,0.0,0.0,48,52,0,0,1,0,1,57
-Santiago Bueno,2026-03-16,Brentford,Wolverhampton,6.5,90,,,0.0,0,0,0.04,0.01,42,52,0,0,0,0,5,65
-Santiago Bueno,2026-03-31,Algeria,Uruguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Santiago Bueno,2026-04-10,West Ham United,Wolverhampton,6.1,90,,,0.0,0,0,0.0,0.0,52,58,0,0,1,0,2,69
-Santiago Bueno,2026-04-18,Leeds United,Wolverhampton,6.8,90,,,0.0,0,0,0.0,0.02,31,45,0,0,1,0,5,68
-Santiago Bueno,2026-04-25,Wolverhampton,Tottenham Hotspur,6.9,90,,,0.0,0,0,0.1,0.0,29,31,0,0,0,0,2,42
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Santiago Bueno,2026-01-24,Manchester City,Wolverhampton,6.5,90,9698.0,17.0,107.76,0,0,0.0,0.0,34,41,0,0,0,0,3,50,0,1.75
+Santiago Bueno,2026-01-31,Wolverhampton,Bournemouth,6.5,89,9710.0,17.0,109.1,0,0,0.06,0.0,57,69,0,0,0,0,2,81,0,1.75
+Santiago Bueno,2026-02-07,Wolverhampton,Chelsea,6.0,90,9739.0,19.0,108.21,0,0,0.0,0.36,39,46,0,0,1,0,4,57,0,1.95
+Santiago Bueno,2026-02-11,Nottingham Forest,Wolverhampton,7.2,90,9572.0,17.0,106.36,0,0,0.0,0.14,20,22,1,0,0,0,0,29,0,1.78
+Santiago Bueno,2026-02-15,Grimsby Town,Wolverhampton,8.3,90,9626.0,19.0,106.96,1,0,0.0,0.0,7,14,0,0,1,0,3,33,0,1.97
+Santiago Bueno,2026-02-18,Wolverhampton,Arsenal,6.9,90,9689.0,19.0,107.66,0,0,0.0,0.02,34,37,2,0,1,0,3,48,0,1.96
+Santiago Bueno,2026-02-22,Crystal Palace,Wolverhampton,6.5,90,9685.0,20.0,107.61,0,0,0.02,0.01,25,30,0,0,2,0,3,47,0,2.07
+Santiago Bueno,2026-02-27,Wolverhampton,Aston Villa,7.1,90,9639.0,17.0,107.1,0,0,0.0,0.0,24,29,0,0,0,0,1,42,0,1.76
+Santiago Bueno,2026-03-03,Wolverhampton,Liverpool,7.4,90,9651.0,17.0,107.23,0,0,0.0,0.0,31,32,0,0,0,0,2,42,0,1.76
+Santiago Bueno,2026-03-06,Wolverhampton,Liverpool,6.0,90,9702.0,19.0,107.8,0,0,0.0,0.0,48,52,0,0,1,0,1,57,0,1.96
+Santiago Bueno,2026-03-16,Brentford,Wolverhampton,6.5,90,9786.0,17.0,108.73,0,0,0.04,0.01,42,52,0,0,0,0,5,65,0,1.74
+Santiago Bueno,2026-03-31,Algeria,Uruguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Santiago Bueno,2026-04-10,West Ham United,Wolverhampton,6.1,90,9765.0,19.0,108.5,0,0,0.0,0.0,52,58,0,0,1,0,2,69,0,1.95
+Santiago Bueno,2026-04-18,Leeds United,Wolverhampton,6.8,90,9798.0,19.0,108.87,0,0,0.0,0.02,31,45,0,0,1,0,5,68,0,1.94
+Santiago Bueno,2026-04-25,Wolverhampton,Tottenham Hotspur,6.9,90,9651.0,17.0,107.23,0,0,0.1,0.0,29,31,0,0,0,0,2,42,0,1.76

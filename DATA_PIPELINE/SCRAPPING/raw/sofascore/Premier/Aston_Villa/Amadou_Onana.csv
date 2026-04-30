@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Amadou Onana,2026-02-11,Aston Villa,Brighton & Hove Albion,7.0,75,,,0.0,0,0,0.07,0.02,35,41,0,0,1,0,2,54
-Amadou Onana,2026-02-14,Aston Villa,Newcastle United,7.4,90,,,0.0,0,0,0.0,0.0,25,31,0,0,0,0,1,45
-Amadou Onana,2026-02-21,Aston Villa,Leeds United,6.7,61,,,0.0,0,0,0.35,0.01,28,33,0,0,1,0,2,41
-Amadou Onana,2026-02-27,Wolverhampton,Aston Villa,6.7,90,,,0.0,0,0,0.22,0.01,32,41,0,0,1,0,4,54
-Amadou Onana,2026-03-04,Aston Villa,Chelsea,6.6,90,,,0.0,0,0,0.0,0.01,36,42,0,0,0,0,1,52
-Amadou Onana,2026-03-12,Lille,Aston Villa,7.1,90,,,0.0,0,0,0.06,0.12,57,61,0,0,4,0,10,72
-Amadou Onana,2026-03-15,Manchester United,Aston Villa,6.5,90,,,0.0,0,0,0.18,0.12,46,54,1,0,0,0,5,69
-Amadou Onana,2026-03-19,Aston Villa,Lille,7.2,90,,,0.0,0,0,0.09,0.01,46,46,0,0,3,0,6,56
-Amadou Onana,2026-03-22,Aston Villa,West Ham United,7.9,90,,,0.0,0,0,0.17,0.23,42,44,1,0,3,0,5,67
-Amadou Onana,2026-03-28,USA,Belgium,7.4,70,,,0.0,1,0,0.0,0.0,23,26,0,0,2,0,2,34
-Amadou Onana,2026-04-01,Mexico,Belgium,6.7,27,,,0.0,0,0,0.0,0.0,21,22,0,0,2,0,5,24
-Amadou Onana,2026-04-09,Bologna,Aston Villa,7.0,80,,,0.0,0,0,0.0,0.01,26,34,0,0,0,0,6,41
-Amadou Onana,2026-04-12,Nottingham Forest,Aston Villa,7.0,90,,,0.0,0,0,0.02,0.04,50,54,1,0,2,0,5,70
-Amadou Onana,2026-04-16,Aston Villa,Bologna,7.6,78,,,0.0,0,0,0.0,0.01,22,24,1,0,1,0,1,39
-Amadou Onana,2026-04-19,Aston Villa,Sunderland,6.8,90,,,0.0,0,0,0.28,0.01,34,39,1,0,0,0,3,47
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Amadou Onana,2026-02-11,Aston Villa,Brighton & Hove Albion,7.0,75,8127.0,16.0,108.36,0,0,0.07,0.02,35,41,0,0,1,0,2,54,0,1.97
+Amadou Onana,2026-02-14,Aston Villa,Newcastle United,7.4,90,9652.0,17.0,107.24,0,0,0.0,0.0,25,31,0,0,0,0,1,45,0,1.76
+Amadou Onana,2026-02-21,Aston Villa,Leeds United,6.7,61,6602.0,13.0,108.23,0,0,0.35,0.01,28,33,0,0,1,0,2,41,0,1.97
+Amadou Onana,2026-02-27,Wolverhampton,Aston Villa,6.7,90,9727.0,19.0,108.08,0,0,0.22,0.01,32,41,0,0,1,0,4,54,0,1.95
+Amadou Onana,2026-03-04,Aston Villa,Chelsea,6.6,90,9681.0,17.0,107.57,0,0,0.0,0.01,36,42,0,0,0,0,1,52,0,1.76
+Amadou Onana,2026-03-12,Lille,Aston Villa,7.1,90,9877.0,23.0,109.74,0,0,0.06,0.12,57,61,0,0,4,0,10,72,0,2.33
+Amadou Onana,2026-03-15,Manchester United,Aston Villa,6.5,90,9802.0,17.0,108.91,0,0,0.18,0.12,46,54,1,0,0,0,5,69,0,1.73
+Amadou Onana,2026-03-19,Aston Villa,Lille,7.2,90,9760.0,22.0,108.44,0,0,0.09,0.01,46,46,0,0,3,0,6,56,0,2.25
+Amadou Onana,2026-03-22,Aston Villa,West Ham United,7.9,90,9794.0,22.0,108.82,0,0,0.17,0.23,42,44,1,0,3,0,5,67,0,2.25
+Amadou Onana,2026-03-28,USA,Belgium,7.4,70,7518.0,16.0,107.4,1,0,0.0,0.0,23,26,0,0,2,0,2,34,0,2.13
+Amadou Onana,2026-04-01,Mexico,Belgium,6.7,27,2998.0,8.0,111.04,0,0,0.0,0.0,21,22,0,0,2,0,5,24,0,2.67
+Amadou Onana,2026-04-09,Bologna,Aston Villa,7.0,80,8647.0,15.0,108.09,0,0,0.0,0.01,26,34,0,0,0,0,6,41,0,1.73
+Amadou Onana,2026-04-12,Nottingham Forest,Aston Villa,7.0,90,9806.0,20.0,108.96,0,0,0.02,0.04,50,54,1,0,2,0,5,70,0,2.04
+Amadou Onana,2026-04-16,Aston Villa,Bologna,7.6,78,8366.0,16.0,107.26,0,0,0.0,0.01,22,24,1,0,1,0,1,39,0,1.91
+Amadou Onana,2026-04-19,Aston Villa,Sunderland,6.8,90,9685.0,17.0,107.61,0,0,0.28,0.01,34,39,1,0,0,0,3,47,0,1.76

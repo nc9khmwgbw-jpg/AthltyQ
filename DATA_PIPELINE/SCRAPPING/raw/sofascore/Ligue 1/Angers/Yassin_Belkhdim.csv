@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Yassin Belkhdim,2025-11-30,Angers,RC Lens,6.5,71,,,0.0,0,0,0.07,0.0,12,16,0,0,1,0,0,25
-Yassin Belkhdim,2025-12-07,Nice,Angers,8.1,83,,,0.0,1,0,0.39,0.03,25,31,1,0,2,0,3,51
-Yassin Belkhdim,2025-12-12,Angers,Nantes,7.1,82,,,0.0,0,0,0.38,0.23,16,19,1,0,1,0,1,36
-Yassin Belkhdim,2026-01-04,Le Havre,Angers,6.4,90,,,0.0,0,0,0.07,0.1,31,38,1,0,1,0,2,53
-Yassin Belkhdim,2026-01-10,Angers,Toulouse,6.2,75,,,0.0,0,0,0.0,0.0,16,24,0,0,1,0,2,32
-Yassin Belkhdim,2026-01-17,Angers,Olympique de Marseille,6.3,90,,,0.0,0,0,0.03,0.01,22,25,0,0,0,0,5,40
-Yassin Belkhdim,2026-01-25,Paris FC,Angers,6.4,87,,,0.0,0,0,0.02,0.0,20,24,0,0,1,0,2,30
-Yassin Belkhdim,2026-02-01,Angers,Metz,7.0,90,,,0.0,0,0,0.03,0.05,64,67,1,0,2,0,6,85
-Yassin Belkhdim,2026-02-08,Angers,Toulouse,7.4,90,,,0.0,0,0,0.11,0.0,33,35,0,0,4,0,5,58
-Yassin Belkhdim,2026-02-15,Lorient,Angers,6.2,67,,,0.0,0,0,0.04,0.06,11,16,1,0,1,0,1,24
-Yassin Belkhdim,2026-02-22,Angers,Lille,6.3,90,,,0.0,0,0,0.03,0.0,21,26,0,0,0,0,3,31
-Yassin Belkhdim,2026-02-28,AS Monaco,Angers,6.4,81,,,0.0,0,0,0.45,0.0,16,20,0,0,4,0,0,34
-Yassin Belkhdim,2026-03-07,Nantes,Angers,6.5,15,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,3
-Yassin Belkhdim,2026-03-20,RC Lens,Angers,6.6,90,,,0.0,0,0,0.13,0.03,26,31,1,0,2,0,4,46
-Yassin Belkhdim,2026-04-05,Angers,Olympique Lyonnais,6.6,89,,,0.0,0,0,0.16,0.02,10,14,0,0,2,0,2,28
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Yassin Belkhdim,2025-11-30,Angers,RC Lens,6.5,71,7560.0,15.0,106.48,0,0,0.07,0.0,12,16,0,0,1,0,0,25,0,1.98
+Yassin Belkhdim,2025-12-07,Nice,Angers,8.1,83,8967.0,19.0,108.04,1,0,0.39,0.03,25,31,1,0,2,0,3,51,0,2.12
+Yassin Belkhdim,2025-12-12,Angers,Nantes,7.1,82,8774.0,17.0,107.0,0,0,0.38,0.23,16,19,1,0,1,0,1,36,0,1.94
+Yassin Belkhdim,2026-01-04,Le Havre,Angers,6.4,90,9698.0,19.0,107.76,0,0,0.07,0.1,31,38,1,0,1,0,2,53,0,1.96
+Yassin Belkhdim,2026-01-10,Angers,Toulouse,6.2,75,8034.0,16.0,107.12,0,0,0.0,0.0,16,24,0,0,1,0,2,32,0,1.99
+Yassin Belkhdim,2026-01-17,Angers,Olympique de Marseille,6.3,90,9680.0,17.0,107.56,0,0,0.03,0.01,22,25,0,0,0,0,5,40,0,1.76
+Yassin Belkhdim,2026-01-25,Paris FC,Angers,6.4,87,9286.0,18.0,106.74,0,0,0.02,0.0,20,24,0,0,1,0,2,30,0,1.94
+Yassin Belkhdim,2026-02-01,Angers,Metz,7.0,90,9882.0,20.0,109.8,0,0,0.03,0.05,64,67,1,0,2,0,6,85,0,2.02
+Yassin Belkhdim,2026-02-08,Angers,Toulouse,7.4,90,9756.0,23.0,108.4,0,0,0.11,0.0,33,35,0,0,4,0,5,58,0,2.36
+Yassin Belkhdim,2026-02-15,Lorient,Angers,6.2,67,7148.0,14.0,106.69,0,0,0.04,0.06,11,16,1,0,1,0,1,24,0,1.96
+Yassin Belkhdim,2026-02-22,Angers,Lille,6.3,90,9618.0,17.0,106.87,0,0,0.03,0.0,21,26,0,0,0,0,3,31,0,1.77
+Yassin Belkhdim,2026-02-28,AS Monaco,Angers,6.4,81,8648.0,21.0,106.77,0,0,0.45,0.0,16,20,0,0,4,0,0,34,0,2.43
+Yassin Belkhdim,2026-03-07,Nantes,Angers,6.5,15,1588.0,3.0,105.87,0,0,0.0,0.0,2,3,0,0,0,0,0,3,0,1.89
+Yassin Belkhdim,2026-03-20,RC Lens,Angers,6.6,90,9693.0,20.0,107.7,0,0,0.13,0.03,26,31,1,0,2,0,4,46,0,2.06
+Yassin Belkhdim,2026-04-05,Angers,Olympique Lyonnais,6.6,89,9488.0,20.0,106.61,0,0,0.16,0.02,10,14,0,0,2,0,2,28,0,2.11

@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Luke Rawlings,2025-12-20,Wolverhampton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2025-12-27,Liverpool,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-01-12,Wolverhampton U21,Manchester United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-01-16,Norwich City U21,Wolverhampton U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-01-26,Wolverhampton U21,Sunderland U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-02-07,Wolverhampton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-02-15,Grimsby Town,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-02-18,Wolverhampton,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-03-02,Wolverhampton U21,Reading U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-03-08,Liverpool U21,Wolverhampton U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-03-14,Crystal Palace U21,Wolverhampton U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-03-20,Wolverhampton U21,Chelsea U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luke Rawlings,2026-04-10,Tottenham U21,Wolverhampton U21,,68,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Luke Rawlings,2025-12-20,Wolverhampton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luke Rawlings,2025-12-27,Liverpool,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luke Rawlings,2026-01-12,Wolverhampton U21,Manchester United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Luke Rawlings,2026-01-16,Norwich City U21,Wolverhampton U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Luke Rawlings,2026-01-26,Wolverhampton U21,Sunderland U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Luke Rawlings,2026-02-07,Wolverhampton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luke Rawlings,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luke Rawlings,2026-02-15,Grimsby Town,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luke Rawlings,2026-02-18,Wolverhampton,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luke Rawlings,2026-03-02,Wolverhampton U21,Reading U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Luke Rawlings,2026-03-08,Liverpool U21,Wolverhampton U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Luke Rawlings,2026-03-14,Crystal Palace U21,Wolverhampton U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Luke Rawlings,2026-03-20,Wolverhampton U21,Chelsea U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Luke Rawlings,2026-04-10,Tottenham U21,Wolverhampton U21,,68,7140.0,13.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.82

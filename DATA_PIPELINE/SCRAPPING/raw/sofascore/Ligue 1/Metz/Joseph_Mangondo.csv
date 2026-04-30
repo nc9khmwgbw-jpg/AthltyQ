@@ -1,13 +1,13 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Joseph Mangondo,2024-08-24,CA Pontarlier,Metz II,,45,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joseph Mangondo,2024-08-31,Metz II,FCOS Koenigshoffen,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joseph Mangondo,2024-09-07,US Sarre-Union,Metz II,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joseph Mangondo,2024-09-22,Metz II,U.S Raon-l'Étape,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joseph Mangondo,2024-10-05,ASM Belfort FC,Metz II,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joseph Mangondo,2024-10-19,Metz II,Jura Dolois Foot,,19,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joseph Mangondo,2024-11-02,Racing Besançon,Metz II,,82,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joseph Mangondo,2024-12-09,Metz,USL Dunkerque,6.5,14,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,2,14
-Joseph Mangondo,2024-12-14,Annecy FC,Metz,6.7,13,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,6
-Joseph Mangondo,2024-12-20,Troyes,Metz,6.6,25,,,0.0,0,0,0.0,0.0,6,8,0,0,0,0,1,13
-Joseph Mangondo,2025-01-04,Metz,Pau FC,6.8,22,,,0.0,0,0,0.0,0.0,4,4,1,0,0,0,1,9
-Joseph Mangondo,2025-05-10,Stade Lavallois,Metz,7.1,27,,,0.0,0,0,0.0,0.0,5,6,1,0,0,0,0,19
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Joseph Mangondo,2024-08-24,CA Pontarlier,Metz II,,45,4725.0,9.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.9
+Joseph Mangondo,2024-08-31,Metz II,FCOS Koenigshoffen,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Joseph Mangondo,2024-09-07,US Sarre-Union,Metz II,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Joseph Mangondo,2024-09-22,Metz II,U.S Raon-l'Étape,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Joseph Mangondo,2024-10-05,ASM Belfort FC,Metz II,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Joseph Mangondo,2024-10-19,Metz II,Jura Dolois Foot,,19,1995.0,4.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,2.01
+Joseph Mangondo,2024-11-02,Racing Besançon,Metz II,,82,8610.0,16.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86
+Joseph Mangondo,2024-12-09,Metz,USL Dunkerque,6.5,14,1554.0,3.0,111.0,0,0,0.0,0.0,2,4,0,0,0,0,2,14,0,1.93
+Joseph Mangondo,2024-12-14,Annecy FC,Metz,6.7,13,1390.0,2.0,106.92,0,0,0.0,0.0,1,1,0,0,0,0,0,6,0,1.44
+Joseph Mangondo,2024-12-20,Troyes,Metz,6.6,25,2692.0,5.0,107.68,0,0,0.0,0.0,6,8,0,0,0,0,1,13,0,1.86
+Joseph Mangondo,2025-01-04,Metz,Pau FC,6.8,22,2360.0,4.0,107.27,0,0,0.0,0.0,4,4,1,0,0,0,1,9,0,1.69
+Joseph Mangondo,2025-05-10,Stade Lavallois,Metz,7.1,27,2915.0,5.0,107.96,0,0,0.0,0.0,5,6,1,0,0,0,0,19,0,1.72

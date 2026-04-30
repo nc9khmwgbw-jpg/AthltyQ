@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jordan Henderson,2026-01-01,Brentford,Tottenham Hotspur,8.0,90,,,0.0,0,0,0.0,0.75,54,68,1,0,0,0,3,79
-Jordan Henderson,2026-01-04,Everton,Brentford,6.2,26,,,0.0,0,0,0.0,0.14,9,14,0,0,0,0,2,18
-Jordan Henderson,2026-01-07,Brentford,Sunderland,6.7,14,,,0.0,0,0,0.0,0.01,21,23,0,0,0,0,1,23
-Jordan Henderson,2026-01-10,Sheffield Wednesday,Brentford,7.0,45,,,0.0,0,0,0.0,0.0,40,43,2,0,0,0,6,48
-Jordan Henderson,2026-01-25,Brentford,Nottingham Forest,6.6,9,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,5
-Jordan Henderson,2026-02-01,Aston Villa,Brentford,6.5,60,,,0.0,0,0,0.0,0.0,21,26,0,0,2,0,3,34
-Jordan Henderson,2026-02-07,Newcastle United,Brentford,6.7,56,,,0.0,0,0,0.0,0.01,26,33,0,0,0,0,1,38
-Jordan Henderson,2026-02-12,Brentford,Arsenal,6.6,17,,,0.0,0,0,0.0,0.01,6,9,0,0,1,0,2,12
-Jordan Henderson,2026-02-21,Brentford,Brighton & Hove Albion,6.5,67,,,0.0,0,0,0.0,0.02,23,34,2,0,0,0,4,39
-Jordan Henderson,2026-02-28,Burnley,Brentford,6.7,18,,,0.0,0,0,0.0,0.02,8,13,1,0,1,0,1,16
-Jordan Henderson,2026-03-03,Bournemouth,Brentford,6.7,62,,,0.0,0,0,0.0,0.01,39,43,0,0,1,0,4,50
-Jordan Henderson,2026-03-09,West Ham United,Brentford,6.7,120,,,0.0,0,0,0.0,0.0,63,75,0,0,2,0,5,88
-Jordan Henderson,2026-03-16,Brentford,Wolverhampton,6.9,90,,,0.0,0,0,0.0,0.16,36,52,1,0,1,0,5,56
-Jordan Henderson,2026-03-21,Leeds United,Brentford,6.6,90,,,0.0,0,0,0.0,0.0,33,54,0,0,0,0,6,67
-Jordan Henderson,2026-03-27,England,Uruguay,6.9,45,,,0.0,0,0,0.0,0.0,32,36,0,0,0,0,1,38
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jordan Henderson,2026-01-01,Brentford,Tottenham Hotspur,8.0,90,9819.0,17.0,109.1,0,0,0.0,0.75,54,68,1,0,0,0,3,79,0,1.73
+Jordan Henderson,2026-01-04,Everton,Brentford,6.2,26,2831.0,5.0,108.88,0,0,0.0,0.14,9,14,0,0,0,0,2,18,0,1.77
+Jordan Henderson,2026-01-07,Brentford,Sunderland,6.7,14,1579.0,3.0,112.79,0,0,0.0,0.01,21,23,0,0,0,0,1,23,0,1.9
+Jordan Henderson,2026-01-10,Sheffield Wednesday,Brentford,7.0,45,5002.0,9.0,111.16,0,0,0.0,0.0,40,43,2,0,0,0,6,48,0,1.8
+Jordan Henderson,2026-01-25,Brentford,Nottingham Forest,6.6,9,966.0,2.0,107.33,0,0,0.0,0.0,3,3,0,0,0,0,0,5,0,2.07
+Jordan Henderson,2026-02-01,Aston Villa,Brentford,6.5,60,6480.0,14.0,108.0,0,0,0.0,0.0,21,26,0,0,2,0,3,34,0,2.16
+Jordan Henderson,2026-02-07,Newcastle United,Brentford,6.7,56,6052.0,11.0,108.07,0,0,0.0,0.01,26,33,0,0,0,0,1,38,0,1.82
+Jordan Henderson,2026-02-12,Brentford,Arsenal,6.6,17,1860.0,5.0,109.41,0,0,0.0,0.01,6,9,0,0,1,0,2,12,0,2.69
+Jordan Henderson,2026-02-21,Brentford,Brighton & Hove Albion,6.5,67,7249.0,13.0,108.19,0,0,0.0,0.02,23,34,2,0,0,0,4,39,0,1.79
+Jordan Henderson,2026-02-28,Burnley,Brentford,6.7,18,1970.0,5.0,109.44,0,0,0.0,0.02,8,13,1,0,1,0,1,16,0,2.54
+Jordan Henderson,2026-03-03,Bournemouth,Brentford,6.7,62,6770.0,13.0,109.19,0,0,0.0,0.01,39,43,0,0,1,0,4,50,0,1.92
+Jordan Henderson,2026-03-09,West Ham United,Brentford,6.7,120,13032.0,26.0,108.6,0,0,0.0,0.0,63,75,0,0,2,0,5,88,0,2.0
+Jordan Henderson,2026-03-16,Brentford,Wolverhampton,6.9,90,9748.0,19.0,108.31,0,0,0.0,0.16,36,52,1,0,1,0,5,56,0,1.95
+Jordan Henderson,2026-03-21,Leeds United,Brentford,6.6,90,9806.0,17.0,108.96,0,0,0.0,0.0,33,54,0,0,0,0,6,67,0,1.73
+Jordan Henderson,2026-03-27,England,Uruguay,6.9,45,4897.0,9.0,108.82,0,0,0.0,0.0,32,36,0,0,0,0,1,38,0,1.84

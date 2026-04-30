@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kyle Walker-Peters,2026-01-24,West Ham United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kyle Walker-Peters,2026-01-31,Chelsea,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kyle Walker-Peters,2026-02-07,Burnley,West Ham United,,1,,,0.0,0,0,0.0,0.0,1,3,0,0,1,0,1,5
-Kyle Walker-Peters,2026-02-10,West Ham United,Manchester United,6.3,8,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,2
-Kyle Walker-Peters,2026-02-14,Burton Albion,West Ham United,7.6,120,,,0.0,0,0,0.0,0.0,52,61,0,0,2,0,9,102
-Kyle Walker-Peters,2026-02-21,West Ham United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kyle Walker-Peters,2026-02-28,Liverpool,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kyle Walker-Peters,2026-03-04,Fulham,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kyle Walker-Peters,2026-03-09,West Ham United,Brentford,6.4,90,,,0.0,0,0,0.0,0.0,42,46,1,0,1,0,4,66
-Kyle Walker-Peters,2026-03-14,West Ham United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kyle Walker-Peters,2026-03-22,Aston Villa,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kyle Walker-Peters,2026-04-05,West Ham United,Leeds United,7.4,120,,,0.0,0,0,0.0,0.0,49,52,1,0,0,0,7,87
-Kyle Walker-Peters,2026-04-10,West Ham United,Wolverhampton,7.8,90,,,0.0,0,0,0.0,0.08,33,36,2,0,1,0,3,66
-Kyle Walker-Peters,2026-04-20,Crystal Palace,West Ham United,6.9,90,,,0.0,0,0,0.0,0.01,27,36,0,0,0,0,6,63
-Kyle Walker-Peters,2026-04-25,West Ham United,Everton,7.0,90,,,0.0,0,0,0.0,0.01,32,38,0,0,1,0,3,63
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kyle Walker-Peters,2026-01-24,West Ham United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kyle Walker-Peters,2026-01-31,Chelsea,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kyle Walker-Peters,2026-02-07,Burnley,West Ham United,,1,138.0,2.0,138.0,0,0,0.0,0.0,1,3,0,0,1,0,1,5,0,14.49
+Kyle Walker-Peters,2026-02-10,West Ham United,Manchester United,6.3,8,848.0,2.0,106.0,0,0,0.0,0.0,2,2,0,0,0,0,0,2,0,2.36
+Kyle Walker-Peters,2026-02-14,Burton Albion,West Ham United,7.6,120,13141.0,26.0,109.51,0,0,0.0,0.0,52,61,0,0,2,0,9,102,0,1.98
+Kyle Walker-Peters,2026-02-21,West Ham United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kyle Walker-Peters,2026-02-28,Liverpool,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kyle Walker-Peters,2026-03-04,Fulham,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kyle Walker-Peters,2026-03-09,West Ham United,Brentford,6.4,90,9777.0,19.0,108.63,0,0,0.0,0.0,42,46,1,0,1,0,4,66,0,1.94
+Kyle Walker-Peters,2026-03-14,West Ham United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kyle Walker-Peters,2026-03-22,Aston Villa,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kyle Walker-Peters,2026-04-05,West Ham United,Leeds United,7.4,120,13053.0,23.0,108.78,0,0,0.0,0.0,49,52,1,0,0,0,7,87,0,1.76
+Kyle Walker-Peters,2026-04-10,West Ham United,Wolverhampton,7.8,90,9765.0,19.0,108.5,0,0,0.0,0.08,33,36,2,0,1,0,3,66,0,1.95
+Kyle Walker-Peters,2026-04-20,Crystal Palace,West Ham United,6.9,90,9790.0,17.0,108.78,0,0,0.0,0.01,27,36,0,0,0,0,6,63,0,1.74
+Kyle Walker-Peters,2026-04-25,West Ham United,Everton,7.0,90,9752.0,19.0,108.36,0,0,0.0,0.01,32,38,0,0,1,0,3,63,0,1.95

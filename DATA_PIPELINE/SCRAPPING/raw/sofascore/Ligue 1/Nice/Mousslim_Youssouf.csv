@@ -1,6 +1,6 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Mousslim Youssouf,2025-01-23,IF Elfsborg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mousslim Youssouf,2025-01-30,Nice,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mousslim Youssouf,2025-12-21,Nice,Saint-Étienne,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mousslim Youssouf,2026-01-03,Nice,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mousslim Youssouf,2026-01-29,Ludogorets,Nice,6.5,11,,,0.0,0,0,0.0,0.0,5,5,0,0,0,0,0,5
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mousslim Youssouf,2025-01-23,IF Elfsborg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mousslim Youssouf,2025-01-30,Nice,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mousslim Youssouf,2025-12-21,Nice,Saint-Étienne,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mousslim Youssouf,2026-01-03,Nice,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mousslim Youssouf,2026-01-29,Ludogorets,Nice,6.5,11,1176.0,2.0,106.91,0,0,0.0,0.0,5,5,0,0,0,0,0,5,0,1.7

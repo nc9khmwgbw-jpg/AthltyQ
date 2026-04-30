@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Bamo Meïté,2026-01-16,AS Monaco,Lorient,7.2,90,,,0.0,0,1,0.0,0.01,29,34,1,0,0,0,1,55
-Bamo Meïté,2026-01-24,Stade Rennais,Lorient,7.4,90,,,0.0,0,0,0.0,0.0,13,20,0,0,0,0,2,45
-Bamo Meïté,2026-01-31,Lorient,Nantes,6.5,74,,,0.0,0,0,0.0,0.0,33,40,0,0,0,0,4,56
-Bamo Meïté,2026-02-04,Lorient,Paris FC,6.8,12,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,6
-Bamo Meïté,2026-02-07,Stade Brestois,Lorient,6.1,90,,,0.0,0,0,0.0,0.01,32,36,0,0,1,0,1,53
-Bamo Meïté,2026-02-15,Lorient,Angers,6.8,4,,,0.0,0,0,0.0,0.0,8,9,0,0,0,0,2,12
-Bamo Meïté,2026-02-22,Nice,Lorient,6.6,45,,,0.0,0,0,0.11,0.01,33,39,0,0,0,0,4,50
-Bamo Meïté,2026-03-01,Lorient,Auxerre,6.6,90,,,0.0,0,0,0.01,0.01,35,43,0,0,3,0,3,63
-Bamo Meïté,2026-03-04,Lorient,Nice,6.4,90,,,0.0,0,0,0.0,0.0,13,18,0,0,0,0,4,40
-Bamo Meïté,2026-03-08,Lille,Lorient,6.6,90,,,0.0,0,1,0.0,0.0,17,20,1,0,0,0,1,35
-Bamo Meïté,2026-03-14,Lorient,RC Lens,6.5,90,,,0.0,0,0,0.0,0.01,21,25,1,0,0,0,0,42
-Bamo Meïté,2026-04-05,Lorient,Paris FC,6.4,90,,,0.0,0,0,0.0,0.0,20,27,0,0,0,0,3,35
-Bamo Meïté,2026-04-12,Olympique Lyonnais,Lorient,6.1,90,,,0.0,0,0,0.01,0.01,35,42,0,0,0,0,5,67
-Bamo Meïté,2026-04-18,Lorient,Olympique de Marseille,7.0,90,,,0.0,0,0,0.0,0.0,28,31,0,0,1,0,3,45
-Bamo Meïté,2026-04-26,Lorient,RC Strasbourg,6.6,90,,,0.0,0,0,0.04,0.0,19,23,0,0,0,0,4,41
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Bamo Meïté,2026-01-16,AS Monaco,Lorient,7.2,90,9694.0,17.0,107.71,0,1,0.0,0.01,29,34,1,0,0,0,1,55,0,1.75
+Bamo Meïté,2026-01-24,Stade Rennais,Lorient,7.4,90,9664.0,17.0,107.38,0,0,0.0,0.0,13,20,0,0,0,0,2,45,0,1.76
+Bamo Meïté,2026-01-31,Lorient,Nantes,6.5,74,8055.0,14.0,108.85,0,0,0.0,0.0,33,40,0,0,0,0,4,56,0,1.74
+Bamo Meïté,2026-02-04,Lorient,Paris FC,6.8,12,1285.0,2.0,107.08,0,0,0.0,0.0,1,1,0,0,0,0,0,6,0,1.56
+Bamo Meïté,2026-02-07,Stade Brestois,Lorient,6.1,90,9685.0,19.0,107.61,0,0,0.0,0.01,32,36,0,0,1,0,1,53,0,1.96
+Bamo Meïté,2026-02-15,Lorient,Angers,6.8,4,495.0,1.0,123.75,0,0,0.0,0.0,8,9,0,0,0,0,2,12,0,2.02
+Bamo Meïté,2026-02-22,Nice,Lorient,6.6,45,4985.0,9.0,110.78,0,0,0.11,0.01,33,39,0,0,0,0,4,50,0,1.81
+Bamo Meïté,2026-03-01,Lorient,Auxerre,6.6,90,9752.0,22.0,108.36,0,0,0.01,0.01,35,43,0,0,3,0,3,63,0,2.26
+Bamo Meïté,2026-03-04,Lorient,Nice,6.4,90,9668.0,17.0,107.42,0,0,0.0,0.0,13,18,0,0,0,0,4,40,0,1.76
+Bamo Meïté,2026-03-08,Lille,Lorient,6.6,90,9610.0,17.0,106.78,0,1,0.0,0.0,17,20,1,0,0,0,1,35,0,1.77
+Bamo Meïté,2026-03-14,Lorient,RC Lens,6.5,90,9626.0,17.0,106.96,0,0,0.0,0.01,21,25,1,0,0,0,0,42,0,1.77
+Bamo Meïté,2026-04-05,Lorient,Paris FC,6.4,90,9634.0,17.0,107.04,0,0,0.0,0.0,20,27,0,0,0,0,3,35,0,1.76
+Bamo Meïté,2026-04-12,Olympique Lyonnais,Lorient,6.1,90,9794.0,17.0,108.82,0,0,0.01,0.01,35,42,0,0,0,0,5,67,0,1.74
+Bamo Meïté,2026-04-18,Lorient,Olympique de Marseille,7.0,90,9676.0,19.0,107.51,0,0,0.0,0.0,28,31,0,0,1,0,3,45,0,1.96
+Bamo Meïté,2026-04-26,Lorient,RC Strasbourg,6.6,90,9672.0,17.0,107.47,0,0,0.04,0.0,19,23,0,0,0,0,4,41,0,1.76

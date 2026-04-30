@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kenny Tete,2025-12-07,Fulham,Crystal Palace,6.3,90,,,0.0,0,0,0.06,0.05,57,65,1,0,2,0,7,99
-Kenny Tete,2025-12-13,Burnley,Fulham,6.3,90,,,0.0,0,0,0.0,0.01,37,48,0,0,0,0,6,75
-Kenny Tete,2025-12-17,Newcastle United,Fulham,6.6,90,,,0.0,0,0,0.0,0.0,17,22,0,0,0,0,3,48
-Kenny Tete,2025-12-22,Fulham,Nottingham Forest,7.6,90,,,0.0,0,0,0.0,0.23,32,41,1,0,3,0,3,64
-Kenny Tete,2025-12-27,West Ham United,Fulham,7.2,82,,,0.0,0,0,0.08,0.04,26,28,0,0,1,0,0,53
-Kenny Tete,2026-01-01,Crystal Palace,Fulham,6.8,51,,,0.0,0,0,0.02,0.02,25,30,0,0,2,0,3,36
-Kenny Tete,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kenny Tete,2026-02-07,Fulham,Everton,6.4,15,,,0.0,0,0,0.0,0.11,10,12,1,0,0,0,1,17
-Kenny Tete,2026-02-11,Manchester City,Fulham,6.8,90,,,0.0,0,0,0.27,0.07,59,66,1,0,0,0,9,92
-Kenny Tete,2026-02-15,Stoke City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kenny Tete,2026-02-22,Sunderland,Fulham,6.9,88,,,0.0,0,0,0.05,0.0,26,31,0,0,2,0,4,54
-Kenny Tete,2026-03-01,Fulham,Tottenham Hotspur,7.5,90,,,0.0,0,0,0.18,0.29,33,35,1,0,0,0,5,60
-Kenny Tete,2026-03-04,Fulham,West Ham United,6.5,82,,,0.0,0,0,0.06,0.04,41,50,1,0,1,0,3,65
-Kenny Tete,2026-03-08,Fulham,Southampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kenny Tete,2026-03-15,Nottingham Forest,Fulham,6.9,90,,,0.0,0,0,0.0,0.03,42,48,0,0,3,0,4,66
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kenny Tete,2025-12-07,Fulham,Crystal Palace,6.3,90,9953.0,20.0,110.59,0,0,0.06,0.05,57,65,1,0,2,0,7,99,0,2.01
+Kenny Tete,2025-12-13,Burnley,Fulham,6.3,90,9840.0,17.0,109.33,0,0,0.0,0.01,37,48,0,0,0,0,6,75,0,1.73
+Kenny Tete,2025-12-17,Newcastle United,Fulham,6.6,90,9689.0,17.0,107.66,0,0,0.0,0.0,17,22,0,0,0,0,3,48,0,1.75
+Kenny Tete,2025-12-22,Fulham,Nottingham Forest,7.6,90,9756.0,22.0,108.4,0,0,0.0,0.23,32,41,1,0,3,0,3,64,0,2.26
+Kenny Tete,2025-12-27,West Ham United,Fulham,7.2,82,8833.0,17.0,107.72,0,0,0.08,0.04,26,28,0,0,1,0,0,53,0,1.92
+Kenny Tete,2026-01-01,Crystal Palace,Fulham,6.8,51,5544.0,13.0,108.71,0,0,0.02,0.02,25,30,0,0,2,0,3,36,0,2.34
+Kenny Tete,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kenny Tete,2026-02-07,Fulham,Everton,6.4,15,1659.0,3.0,110.6,0,0,0.0,0.11,10,12,1,0,0,0,1,17,0,1.81
+Kenny Tete,2026-02-11,Manchester City,Fulham,6.8,90,9949.0,17.0,110.54,0,0,0.27,0.07,59,66,1,0,0,0,9,92,0,1.71
+Kenny Tete,2026-02-15,Stoke City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kenny Tete,2026-02-22,Sunderland,Fulham,6.9,88,9517.0,20.0,108.15,0,0,0.05,0.0,26,31,0,0,2,0,4,54,0,2.1
+Kenny Tete,2026-03-01,Fulham,Tottenham Hotspur,7.5,90,9764.0,17.0,108.49,0,0,0.18,0.29,33,35,1,0,0,0,5,60,0,1.74
+Kenny Tete,2026-03-04,Fulham,West Ham United,6.5,82,8920.0,17.0,108.78,0,0,0.06,0.04,41,50,1,0,1,0,3,65,0,1.91
+Kenny Tete,2026-03-08,Fulham,Southampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kenny Tete,2026-03-15,Nottingham Forest,Fulham,6.9,90,9777.0,22.0,108.63,0,0,0.0,0.03,42,48,0,0,3,0,4,66,0,2.25

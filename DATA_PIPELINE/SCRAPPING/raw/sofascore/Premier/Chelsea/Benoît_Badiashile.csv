@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Benoît Badiashile,2026-01-14,Chelsea,Arsenal,6.2,37,,,0.0,0,0,0.0,0.0,27,29,0,0,0,0,1,30
-Benoît Badiashile,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-01-21,Chelsea,Pafos FC,7.4,90,,,0.0,0,0,0.13,0.09,111,116,1,0,1,0,5,123
-Benoît Badiashile,2026-01-25,Crystal Palace,Chelsea,6.6,90,,,0.0,0,0,0.0,0.01,77,89,0,0,3,0,4,106
-Benoît Badiashile,2026-01-28,Napoli,Chelsea,,1,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2
-Benoît Badiashile,2026-01-31,Chelsea,West Ham United,6.9,45,,,0.0,0,0,0.0,0.01,73,75,0,0,0,0,1,83
-Benoît Badiashile,2026-02-03,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-02-07,Wolverhampton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-02-13,Hull City,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-03-01,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-03-04,Aston Villa,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-03-07,Wrexham,Chelsea,7.0,120,,,0.0,0,0,0.0,0.0,119,126,0,0,3,0,5,140
-Benoît Badiashile,2026-03-11,Paris Saint-Germain,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Benoît Badiashile,2026-03-14,Chelsea,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Benoît Badiashile,2026-01-14,Chelsea,Arsenal,6.2,37,4024.0,7.0,108.76,0,0,0.0,0.0,27,29,0,0,0,0,1,30,0,1.74
+Benoît Badiashile,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-01-21,Chelsea,Pafos FC,7.4,90,10029.0,19.0,111.43,0,0,0.13,0.09,111,116,1,0,1,0,5,123,0,1.89
+Benoît Badiashile,2026-01-25,Crystal Palace,Chelsea,6.6,90,9945.0,22.0,110.5,0,0,0.0,0.01,77,89,0,0,3,0,4,106,0,2.21
+Benoît Badiashile,2026-01-28,Napoli,Chelsea,,1,113.0,0.0,113.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0,0.0
+Benoît Badiashile,2026-01-31,Chelsea,West Ham United,6.9,45,5086.0,9.0,113.02,0,0,0.0,0.01,73,75,0,0,0,0,1,83,0,1.77
+Benoît Badiashile,2026-02-03,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-02-07,Wolverhampton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-02-13,Hull City,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-03-01,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-03-04,Aston Villa,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-03-07,Wrexham,Chelsea,7.0,120,13250.0,27.0,110.42,0,0,0.0,0.0,119,126,0,0,3,0,5,140,0,2.04
+Benoît Badiashile,2026-03-11,Paris Saint-Germain,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Benoît Badiashile,2026-03-14,Chelsea,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

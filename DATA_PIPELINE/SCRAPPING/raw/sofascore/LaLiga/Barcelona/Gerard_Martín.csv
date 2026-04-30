@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Gerard Martín,2026-02-12,Atlético Madrid,FC Barcelona,6.7,3,,,0.0,0,0,0.0,0.0,10,11,0,0,0,0,1,13
-Gerard Martín,2026-02-16,Girona FC,FC Barcelona,6.5,63,,,0.0,0,0,0.0,0.05,32,34,1,0,2,0,4,47
-Gerard Martín,2026-02-22,FC Barcelona,Levante UD,6.8,88,,,0.0,0,0,0.0,0.02,62,67,0,0,0,0,1,72
-Gerard Martín,2026-03-03,FC Barcelona,Atlético Madrid,7.7,90,,,0.0,0,0,0.0,0.0,94,99,0,0,0,0,3,118
-Gerard Martín,2026-03-07,Athletic Club,FC Barcelona,7.7,90,,,0.0,0,0,0.0,0.02,96,103,0,0,1,0,2,115
-Gerard Martín,2026-03-10,Newcastle United,FC Barcelona,7.0,90,,,0.0,0,0,0.0,0.01,43,50,0,0,1,0,0,65
-Gerard Martín,2026-03-15,FC Barcelona,Sevilla,6.6,90,,,0.0,0,0,0.04,0.04,95,102,0,0,3,0,1,114
-Gerard Martín,2026-03-18,FC Barcelona,Newcastle United,7.1,90,,,0.0,0,0,0.0,0.26,59,64,1,0,0,0,3,77
-Gerard Martín,2026-03-22,FC Barcelona,Rayo Vallecano,7.0,90,,,0.0,0,0,0.05,0.08,49,56,1,0,0,0,4,73
-Gerard Martín,2026-04-04,Atlético Madrid,FC Barcelona,6.7,90,,,0.0,0,0,0.0,0.02,67,72,0,0,1,0,2,79
-Gerard Martín,2026-04-08,FC Barcelona,Atlético Madrid,6.8,90,,,0.0,0,0,0.02,0.03,94,100,0,0,2,0,4,114
-Gerard Martín,2026-04-11,FC Barcelona,Espanyol,7.1,45,,,0.0,0,0,0.0,0.02,57,61,0,0,0,0,1,66
-Gerard Martín,2026-04-14,Atlético Madrid,FC Barcelona,7.8,90,,,0.0,0,0,0.0,0.03,81,86,0,0,0,0,1,102
-Gerard Martín,2026-04-22,FC Barcelona,Celta Vigo,7.8,90,,,0.0,0,0,0.0,0.03,93,100,0,0,3,0,2,117
-Gerard Martín,2026-04-25,Getafe,FC Barcelona,7.1,90,,,0.0,0,0,0.04,0.02,82,87,0,0,2,0,2,99
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Gerard Martín,2026-02-12,Atlético Madrid,FC Barcelona,6.7,3,382.0,1.0,127.33,0,0,0.0,0.0,10,11,0,0,0,0,1,13,0,2.62
+Gerard Martín,2026-02-16,Girona FC,FC Barcelona,6.5,63,6862.0,15.0,108.92,0,0,0.0,0.05,32,34,1,0,2,0,4,47,0,2.19
+Gerard Martín,2026-02-22,FC Barcelona,Levante UD,6.8,88,9555.0,17.0,108.58,0,0,0.0,0.02,62,67,0,0,0,0,1,72,0,1.78
+Gerard Martín,2026-03-03,FC Barcelona,Atlético Madrid,7.7,90,9983.0,17.0,110.92,0,0,0.0,0.0,94,99,0,0,0,0,3,118,0,1.7
+Gerard Martín,2026-03-07,Athletic Club,FC Barcelona,7.7,90,9958.0,19.0,110.64,0,0,0.0,0.02,96,103,0,0,1,0,2,115,0,1.91
+Gerard Martín,2026-03-10,Newcastle United,FC Barcelona,7.0,90,9723.0,19.0,108.03,0,0,0.0,0.01,43,50,0,0,1,0,0,65,0,1.95
+Gerard Martín,2026-03-15,FC Barcelona,Sevilla,6.6,90,9941.0,22.0,110.46,0,0,0.04,0.04,95,102,0,0,3,0,1,114,0,2.21
+Gerard Martín,2026-03-18,FC Barcelona,Newcastle United,7.1,90,9811.0,17.0,109.01,0,0,0.0,0.26,59,64,1,0,0,0,3,77,0,1.73
+Gerard Martín,2026-03-22,FC Barcelona,Rayo Vallecano,7.0,90,9807.0,17.0,108.97,0,0,0.05,0.08,49,56,1,0,0,0,4,73,0,1.73
+Gerard Martín,2026-04-04,Atlético Madrid,FC Barcelona,6.7,90,9807.0,19.0,108.97,0,0,0.0,0.02,67,72,0,0,1,0,2,79,0,1.94
+Gerard Martín,2026-04-08,FC Barcelona,Atlético Madrid,6.8,90,9979.0,20.0,110.88,0,0,0.02,0.03,94,100,0,0,2,0,4,114,0,2.0
+Gerard Martín,2026-04-11,FC Barcelona,Espanyol,7.1,45,5015.0,9.0,111.44,0,0,0.0,0.02,57,61,0,0,0,0,1,66,0,1.79
+Gerard Martín,2026-04-14,Atlético Madrid,FC Barcelona,7.8,90,9891.0,17.0,109.9,0,0,0.0,0.03,81,86,0,0,0,0,1,102,0,1.72
+Gerard Martín,2026-04-22,FC Barcelona,Celta Vigo,7.8,90,9966.0,22.0,110.73,0,0,0.0,0.03,93,100,0,0,3,0,2,117,0,2.21
+Gerard Martín,2026-04-25,Getafe,FC Barcelona,7.1,90,9891.0,20.0,109.9,0,0,0.04,0.02,82,87,0,0,2,0,2,99,0,2.02

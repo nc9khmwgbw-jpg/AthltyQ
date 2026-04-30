@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ilaix Moriba,2026-02-14,Espanyol,Celta Vigo,6.4,20,,,0.0,0,0,0.0,0.01,19,20,0,0,0,0,1,22
-Ilaix Moriba,2026-02-19,PAOK,Celta Vigo,6.6,90,,,0.0,0,0,0.0,0.02,30,33,2,0,1,0,5,41
-Ilaix Moriba,2026-02-22,Celta Vigo,Mallorca,6.8,21,,,0.0,0,0,0.0,0.01,14,15,0,0,0,0,1,20
-Ilaix Moriba,2026-02-26,Celta Vigo,PAOK,7.1,45,,,0.0,0,0,0.0,0.01,26,27,0,0,1,0,0,36
-Ilaix Moriba,2026-03-01,Girona FC,Celta Vigo,7.2,90,,,0.0,0,0,0.0,0.04,39,44,0,0,0,0,7,53
-Ilaix Moriba,2026-03-06,Celta Vigo,Real Madrid,6.6,89,,,0.0,0,0,0.0,0.02,28,29,0,0,1,0,4,37
-Ilaix Moriba,2026-03-12,Celta Vigo,Olympique Lyonnais,6.7,89,,,0.0,0,0,0.0,0.0,14,16,0,0,0,0,1,24
-Ilaix Moriba,2026-03-15,Real Betis,Celta Vigo,7.1,32,,,0.0,0,0,0.0,0.01,9,9,0,0,0,0,0,15
-Ilaix Moriba,2026-03-19,Olympique Lyonnais,Celta Vigo,6.7,90,,,0.0,0,0,0.0,0.02,28,33,0,0,1,0,4,40
-Ilaix Moriba,2026-04-05,Valencia,Celta Vigo,7.4,90,,,0.0,1,0,0.23,0.19,34,41,2,0,0,0,3,57
-Ilaix Moriba,2026-04-09,SC Freiburg,Celta Vigo,6.9,90,,,0.0,0,0,0.0,0.02,35,37,0,0,0,0,6,52
-Ilaix Moriba,2026-04-12,Celta Vigo,Real Oviedo,7.1,45,,,0.0,0,0,0.0,0.04,45,46,0,0,0,0,3,54
-Ilaix Moriba,2026-04-16,Celta Vigo,SC Freiburg,6.4,45,,,0.0,0,0,0.0,0.01,11,14,0,0,0,0,1,21
-Ilaix Moriba,2026-04-22,FC Barcelona,Celta Vigo,7.1,90,,,0.0,0,0,0.0,0.02,38,42,0,0,0,0,3,59
-Ilaix Moriba,2026-04-26,Villarreal,Celta Vigo,6.4,90,,,0.0,0,0,0.0,0.03,33,37,0,0,1,0,5,47
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ilaix Moriba,2026-02-14,Espanyol,Celta Vigo,6.4,20,2205.0,4.0,110.25,0,0,0.0,0.01,19,20,0,0,0,0,1,22,0,1.81
+Ilaix Moriba,2026-02-19,PAOK,Celta Vigo,6.6,90,9685.0,19.0,107.61,0,0,0.0,0.02,30,33,2,0,1,0,5,41,0,1.96
+Ilaix Moriba,2026-02-22,Celta Vigo,Mallorca,6.8,21,2302.0,4.0,109.62,0,0,0.0,0.01,14,15,0,0,0,0,1,20,0,1.74
+Ilaix Moriba,2026-02-26,Celta Vigo,PAOK,7.1,45,4876.0,10.0,108.36,0,0,0.0,0.01,26,27,0,0,1,0,0,36,0,2.05
+Ilaix Moriba,2026-03-01,Girona FC,Celta Vigo,7.2,90,9760.0,17.0,108.44,0,0,0.0,0.04,39,44,0,0,0,0,7,53,0,1.74
+Ilaix Moriba,2026-03-06,Celta Vigo,Real Madrid,6.6,89,9550.0,19.0,107.3,0,0,0.0,0.02,28,29,0,0,1,0,4,37,0,1.99
+Ilaix Moriba,2026-03-12,Celta Vigo,Olympique Lyonnais,6.7,89,9458.0,17.0,106.27,0,0,0.0,0.0,14,16,0,0,0,0,1,24,0,1.8
+Ilaix Moriba,2026-03-15,Real Betis,Celta Vigo,7.1,32,3423.0,6.0,106.97,0,0,0.0,0.01,9,9,0,0,0,0,0,15,0,1.75
+Ilaix Moriba,2026-03-19,Olympique Lyonnais,Celta Vigo,6.7,90,9668.0,19.0,107.42,0,0,0.0,0.02,28,33,0,0,1,0,4,40,0,1.97
+Ilaix Moriba,2026-04-05,Valencia,Celta Vigo,7.4,90,9727.0,17.0,108.08,1,0,0.23,0.19,34,41,2,0,0,0,3,57,0,1.75
+Ilaix Moriba,2026-04-09,SC Freiburg,Celta Vigo,6.9,90,9743.0,17.0,108.26,0,0,0.0,0.02,35,37,0,0,0,0,6,52,0,1.74
+Ilaix Moriba,2026-04-12,Celta Vigo,Real Oviedo,7.1,45,4989.0,9.0,110.87,0,0,0.0,0.04,45,46,0,0,0,0,3,54,0,1.8
+Ilaix Moriba,2026-04-16,Celta Vigo,SC Freiburg,6.4,45,4826.0,9.0,107.24,0,0,0.0,0.01,11,14,0,0,0,0,1,21,0,1.86
+Ilaix Moriba,2026-04-22,FC Barcelona,Celta Vigo,7.1,90,9735.0,17.0,108.17,0,0,0.0,0.02,38,42,0,0,0,0,3,59,0,1.75
+Ilaix Moriba,2026-04-26,Villarreal,Celta Vigo,6.4,90,9710.0,19.0,107.89,0,0,0.0,0.03,33,37,0,0,1,0,5,47,0,1.96

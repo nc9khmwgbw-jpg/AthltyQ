@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Amine Adli,2026-01-19,Brighton & Hove Albion,Bournemouth,6.5,79,,,0.0,0,0,0.0,0.02,14,18,0,0,0,0,1,32
-Amine Adli,2026-01-24,Bournemouth,Liverpool,7.8,90,,,0.0,1,0,0.38,0.1,24,33,0,0,1,0,8,60
-Amine Adli,2026-01-31,Wolverhampton,Bournemouth,6.7,68,,,0.0,0,0,0.3,0.08,24,27,3,0,0,0,3,47
-Amine Adli,2026-02-07,Bournemouth,Aston Villa,8.1,90,,,0.0,0,0,0.06,0.86,30,39,4,0,1,0,3,58
-Amine Adli,2026-02-10,Everton,Bournemouth,7.6,80,,,0.0,1,0,0.75,0.02,17,26,0,0,0,0,3,39
-Amine Adli,2026-02-21,West Ham United,Bournemouth,6.5,66,,,0.0,0,0,0.0,0.02,23,32,1,0,1,0,5,40
-Amine Adli,2026-02-28,Bournemouth,Sunderland,6.6,9,,,0.0,0,0,0.0,0.02,3,3,0,0,0,0,1,6
-Amine Adli,2026-03-03,Bournemouth,Brentford,6.6,16,,,0.0,0,0,0.04,0.0,2,5,0,0,0,0,2,8
-Amine Adli,2026-03-14,Burnley,Bournemouth,6.4,29,,,0.0,0,0,0.02,0.04,14,16,1,0,0,0,2,19
-Amine Adli,2026-03-20,Bournemouth,Manchester United,6.9,73,,,0.0,0,0,0.0,0.06,18,20,0,0,0,0,5,37
-Amine Adli,2026-03-27,Morocco,Ecuador,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Amine Adli,2026-03-31,Morocco,Paraguay,6.3,23,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,1,6
-Amine Adli,2026-04-11,Arsenal,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Amine Adli,2026-04-18,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Amine Adli,2026-04-22,Bournemouth,Leeds United,6.8,17,,,0.0,0,0,0.06,0.03,11,13,1,0,0,0,1,17
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Amine Adli,2026-01-19,Brighton & Hove Albion,Bournemouth,6.5,79,8442.0,15.0,106.86,0,0,0.0,0.02,14,18,0,0,0,0,1,32,0,1.78
+Amine Adli,2026-01-24,Bournemouth,Liverpool,7.8,90,9802.0,19.0,108.91,1,0,0.38,0.1,24,33,0,0,1,0,8,60,0,1.94
+Amine Adli,2026-01-31,Wolverhampton,Bournemouth,6.7,68,7375.0,13.0,108.46,0,0,0.3,0.08,24,27,3,0,0,0,3,47,0,1.76
+Amine Adli,2026-02-07,Bournemouth,Aston Villa,8.1,90,9731.0,19.0,108.12,0,0,0.06,0.86,30,39,4,0,1,0,3,58,0,1.95
+Amine Adli,2026-02-10,Everton,Bournemouth,7.6,80,8601.0,15.0,107.51,1,0,0.75,0.02,17,26,0,0,0,0,3,39,0,1.74
+Amine Adli,2026-02-21,West Ham United,Bournemouth,6.5,66,7160.0,14.0,108.48,0,0,0.0,0.02,23,32,1,0,1,0,5,40,0,1.96
+Amine Adli,2026-02-28,Bournemouth,Sunderland,6.6,9,983.0,2.0,109.22,0,0,0.0,0.02,3,3,0,0,0,0,1,6,0,2.03
+Amine Adli,2026-03-03,Bournemouth,Brentford,6.6,16,1739.0,3.0,108.69,0,0,0.04,0.0,2,5,0,0,0,0,2,8,0,1.73
+Amine Adli,2026-03-14,Burnley,Bournemouth,6.4,29,3150.0,6.0,108.62,0,0,0.02,0.04,14,16,1,0,0,0,2,19,0,1.9
+Amine Adli,2026-03-20,Bournemouth,Manchester United,6.9,73,7883.0,14.0,107.99,0,0,0.0,0.06,18,20,0,0,0,0,5,37,0,1.78
+Amine Adli,2026-03-27,Morocco,Ecuador,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Amine Adli,2026-03-31,Morocco,Paraguay,6.3,23,2453.0,4.0,106.65,0,0,0.0,0.0,4,5,0,0,0,0,1,6,0,1.63
+Amine Adli,2026-04-11,Arsenal,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Amine Adli,2026-04-18,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Amine Adli,2026-04-22,Bournemouth,Leeds United,6.8,17,1869.0,3.0,109.94,0,0,0.06,0.03,11,13,1,0,0,0,1,17,0,1.61

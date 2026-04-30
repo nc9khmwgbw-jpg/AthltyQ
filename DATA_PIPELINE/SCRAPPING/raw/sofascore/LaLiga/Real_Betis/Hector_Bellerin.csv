@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Hector Bellerin,2026-01-04,Real Madrid,Real Betis,5.5,45,,,0.0,0,0,0.0,0.0,14,15,0,0,0,0,1,23
-Hector Bellerin,2026-01-10,Real Oviedo,Real Betis,6.4,29,,,0.0,0,0,0.0,0.15,16,19,1,0,0,0,1,28
-Hector Bellerin,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hector Bellerin,2026-03-01,Real Betis,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hector Bellerin,2026-03-08,Getafe,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hector Bellerin,2026-03-12,Panathinaikos FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hector Bellerin,2026-03-15,Real Betis,Celta Vigo,7.6,90,,,0.0,1,0,0.14,0.02,50,56,0,0,1,0,5,78
-Hector Bellerin,2026-03-19,Real Betis,Panathinaikos FC,7.0,90,,,0.0,0,0,0.0,0.02,62,67,1,0,1,0,3,82
-Hector Bellerin,2026-03-22,Athletic Club,Real Betis,6.9,45,,,0.0,0,0,0.0,0.01,23,28,0,0,0,0,2,44
-Hector Bellerin,2026-04-04,Real Betis,Espanyol,7.8,74,,,0.0,0,0,0.0,0.44,52,59,2,0,2,0,1,74
-Hector Bellerin,2026-04-08,Sporting Braga,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hector Bellerin,2026-04-12,Osasuna,Real Betis,6.3,45,,,0.0,0,0,0.0,0.16,26,28,1,0,0,0,1,42
-Hector Bellerin,2026-04-16,Real Betis,Sporting Braga,5.5,77,,,0.0,0,0,0.0,0.01,29,36,0,0,2,0,2,57
-Hector Bellerin,2026-04-21,Girona FC,Real Betis,6.8,15,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,1,9
-Hector Bellerin,2026-04-24,Real Betis,Real Madrid,7.8,90,,,0.0,1,0,0.07,0.09,56,59,0,0,1,0,4,71
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Hector Bellerin,2026-01-04,Real Madrid,Real Betis,5.5,45,4834.0,9.0,107.42,0,0,0.0,0.0,14,15,0,0,0,0,1,23,0,1.86
+Hector Bellerin,2026-01-10,Real Oviedo,Real Betis,6.4,29,3175.0,6.0,109.48,0,0,0.0,0.15,16,19,1,0,0,0,1,28,0,1.89
+Hector Bellerin,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hector Bellerin,2026-03-01,Real Betis,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hector Bellerin,2026-03-08,Getafe,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hector Bellerin,2026-03-12,Panathinaikos FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hector Bellerin,2026-03-15,Real Betis,Celta Vigo,7.6,90,9840.0,19.0,109.33,1,0,0.14,0.02,50,56,0,0,1,0,5,78,0,1.93
+Hector Bellerin,2026-03-19,Real Betis,Panathinaikos FC,7.0,90,9832.0,19.0,109.24,0,0,0.0,0.02,62,67,1,0,1,0,3,82,0,1.93
+Hector Bellerin,2026-03-22,Athletic Club,Real Betis,6.9,45,4935.0,9.0,109.67,0,0,0.0,0.01,23,28,0,0,0,0,2,44,0,1.82
+Hector Bellerin,2026-04-04,Real Betis,Espanyol,7.8,74,8093.0,17.0,109.36,0,0,0.0,0.44,52,59,2,0,2,0,1,74,0,2.1
+Hector Bellerin,2026-04-08,Sporting Braga,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hector Bellerin,2026-04-12,Osasuna,Real Betis,6.3,45,4914.0,9.0,109.2,0,0,0.0,0.16,26,28,1,0,0,0,1,42,0,1.83
+Hector Bellerin,2026-04-16,Real Betis,Sporting Braga,5.5,77,8349.0,18.0,108.43,0,0,0.0,0.01,29,36,0,0,2,0,2,57,0,2.16
+Hector Bellerin,2026-04-21,Girona FC,Real Betis,6.8,15,1625.0,3.0,108.33,0,0,0.0,0.0,4,6,0,0,0,0,1,9,0,1.85
+Hector Bellerin,2026-04-24,Real Betis,Real Madrid,7.8,90,9798.0,19.0,108.87,1,0,0.07,0.09,56,59,0,0,1,0,4,71,0,1.94

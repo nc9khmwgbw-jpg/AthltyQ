@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Victor Muñoz,2026-01-24,Rayo Vallecano,Osasuna,6.5,89,,,0.0,0,0,0.2,0.01,7,12,1,0,0,0,5,55
-Victor Muñoz,2026-01-31,Osasuna,Villarreal,7.3,90,,,0.0,1,0,0.45,0.09,10,14,1,0,0,0,4,45
-Victor Muñoz,2026-02-06,Celta Vigo,Osasuna,6.8,90,,,0.0,0,0,0.0,0.07,17,21,0,0,1,0,3,37
-Victor Muñoz,2026-02-13,Elche,Osasuna,6.1,67,,,0.0,0,0,0.07,0.0,3,4,0,0,1,0,1,25
-Victor Muñoz,2026-02-21,Osasuna,Real Madrid,7.4,90,,,0.0,0,0,0.17,0.27,15,19,2,0,0,0,2,38
-Victor Muñoz,2026-03-01,Valencia,Osasuna,6.1,90,,,0.0,0,0,0.15,0.01,11,12,0,0,0,0,3,35
-Victor Muñoz,2026-03-07,Osasuna,Mallorca,6.4,90,,,0.0,0,0,0.89,0.17,22,33,3,0,0,0,0,62
-Victor Muñoz,2026-03-15,Real Sociedad,Osasuna,7.4,90,,,0.0,1,0,0.19,0.13,21,26,2,0,2,0,2,48
-Victor Muñoz,2026-03-21,Osasuna,Girona FC,8.2,90,,,0.0,0,0,0.71,0.39,34,37,1,0,0,0,5,70
-Victor Muñoz,2026-03-27,Spain,Serbia,7.7,27,,,0.0,1,0,0.0,0.0,21,26,1,0,1,0,3,36
-Victor Muñoz,2026-03-31,Spain,Egypt,6.8,45,,,0.0,0,0,0.0,0.0,12,15,1,0,0,0,0,20
-Victor Muñoz,2026-04-05,Deportivo Alavés,Osasuna,6.8,30,,,0.0,0,0,0.0,0.01,6,7,0,0,0,0,1,17
-Victor Muñoz,2026-04-12,Osasuna,Real Betis,7.2,90,,,0.0,0,0,0.28,0.07,30,38,1,0,1,0,6,72
-Victor Muñoz,2026-04-21,Athletic Club,Osasuna,6.6,90,,,0.0,0,0,0.03,0.22,14,24,2,0,0,0,3,50
-Victor Muñoz,2026-04-26,Osasuna,Sevilla,7.2,89,,,0.0,0,0,0.2,0.07,25,27,1,0,0,0,9,48
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Victor Muñoz,2026-01-24,Rayo Vallecano,Osasuna,6.5,89,9638.0,17.0,108.29,0,0,0.2,0.01,7,12,1,0,0,0,5,55,0,1.76
+Victor Muñoz,2026-01-31,Osasuna,Villarreal,7.3,90,9689.0,17.0,107.66,1,0,0.45,0.09,10,14,1,0,0,0,4,45,0,1.75
+Victor Muñoz,2026-02-06,Celta Vigo,Osasuna,6.8,90,9643.0,19.0,107.14,0,0,0.0,0.07,17,21,0,0,1,0,3,37,0,1.97
+Victor Muñoz,2026-02-13,Elche,Osasuna,6.1,67,7152.0,14.0,106.75,0,0,0.07,0.0,3,4,0,0,1,0,1,25,0,1.96
+Victor Muñoz,2026-02-21,Osasuna,Real Madrid,7.4,90,9635.0,17.0,107.06,0,0,0.17,0.27,15,19,2,0,0,0,2,38,0,1.76
+Victor Muñoz,2026-03-01,Valencia,Osasuna,6.1,90,9634.0,17.0,107.04,0,0,0.15,0.01,11,12,0,0,0,0,3,35,0,1.76
+Victor Muñoz,2026-03-07,Osasuna,Mallorca,6.4,90,9710.0,17.0,107.89,0,0,0.89,0.17,22,33,3,0,0,0,0,62,0,1.75
+Victor Muñoz,2026-03-15,Real Sociedad,Osasuna,7.4,90,9677.0,20.0,107.52,1,0,0.19,0.13,21,26,2,0,2,0,2,48,0,2.07
+Victor Muñoz,2026-03-21,Osasuna,Girona FC,8.2,90,9806.0,17.0,108.96,0,0,0.71,0.39,34,37,1,0,0,0,5,70,0,1.73
+Victor Muñoz,2026-03-27,Spain,Serbia,7.7,27,3024.0,7.0,112.0,1,0,0.0,0.0,21,26,1,0,1,0,3,36,0,2.31
+Victor Muñoz,2026-03-31,Spain,Egypt,6.8,45,4809.0,9.0,106.87,0,0,0.0,0.0,12,15,1,0,0,0,0,20,0,1.87
+Victor Muñoz,2026-04-05,Deportivo Alavés,Osasuna,6.8,30,3234.0,6.0,107.8,0,0,0.0,0.01,6,7,0,0,0,0,1,17,0,1.86
+Victor Muñoz,2026-04-12,Osasuna,Real Betis,7.2,90,9827.0,19.0,109.19,0,0,0.28,0.07,30,38,1,0,1,0,6,72,0,1.93
+Victor Muñoz,2026-04-21,Athletic Club,Osasuna,6.6,90,9698.0,17.0,107.76,0,0,0.03,0.22,14,24,2,0,0,0,3,50,0,1.75
+Victor Muñoz,2026-04-26,Osasuna,Sevilla,7.2,89,9659.0,17.0,108.53,0,0,0.2,0.07,25,27,1,0,0,0,9,48,0,1.76

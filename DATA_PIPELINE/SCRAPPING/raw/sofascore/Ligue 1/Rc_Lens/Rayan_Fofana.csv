@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Rayan Fofana,2026-02-04,Troyes,RC Lens,6.7,81,,,0.0,0,0,0.0,0.0,10,14,0,0,1,0,1,24
-Rayan Fofana,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rayan Fofana,2026-02-14,Paris FC,RC Lens,8.5,21,,,0.0,2,0,0.79,0.0,3,4,0,0,0,0,0,9
-Rayan Fofana,2026-02-21,RC Lens,AS Monaco,6.5,15,,,0.0,0,0,0.37,0.0,2,3,0,0,0,0,1,6
-Rayan Fofana,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rayan Fofana,2026-03-05,Olympique Lyonnais,RC Lens,,1,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3
-Rayan Fofana,2026-03-08,RC Lens,Metz,6.6,27,,,0.0,0,0,0.4,0.0,1,1,0,0,0,0,0,8
-Rayan Fofana,2026-03-14,Lorient,RC Lens,6.4,14,,,0.0,0,0,0.1,0.0,3,3,0,0,0,0,1,4
-Rayan Fofana,2026-03-20,RC Lens,Angers,6.8,20,,,0.0,0,0,0.09,0.09,2,2,1,0,0,0,1,8
-Rayan Fofana,2026-03-26,Luxembourg U21,France U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rayan Fofana,2026-04-04,Lille,RC Lens,6.6,11,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4
-Rayan Fofana,2026-04-17,RC Lens,Toulouse,6.2,55,,,0.0,0,0,0.17,0.01,6,7,0,0,0,0,1,13
-Rayan Fofana,2026-04-21,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rayan Fofana,2026-04-24,Stade Brestois,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rayan Fofana,2026-02-04,Troyes,RC Lens,6.7,81,8618.0,17.0,106.4,0,0,0.0,0.0,10,14,0,0,1,0,1,24,0,1.97
+Rayan Fofana,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rayan Fofana,2026-02-14,Paris FC,RC Lens,8.5,21,2243.0,4.0,106.81,2,0,0.79,0.0,3,4,0,0,0,0,0,9,0,1.78
+Rayan Fofana,2026-02-21,RC Lens,AS Monaco,6.5,15,1613.0,3.0,107.53,0,0,0.37,0.0,2,3,0,0,0,0,1,6,0,1.86
+Rayan Fofana,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rayan Fofana,2026-03-05,Olympique Lyonnais,RC Lens,,1,118.0,0.0,118.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0,0.0
+Rayan Fofana,2026-03-08,RC Lens,Metz,6.6,27,2869.0,5.0,106.26,0,0,0.4,0.0,1,1,0,0,0,0,0,8,0,1.74
+Rayan Fofana,2026-03-14,Lorient,RC Lens,6.4,14,1499.0,3.0,107.07,0,0,0.1,0.0,3,3,0,0,0,0,1,4,0,2.0
+Rayan Fofana,2026-03-20,RC Lens,Angers,6.8,20,2146.0,4.0,107.3,0,0,0.09,0.09,2,2,1,0,0,0,1,8,0,1.86
+Rayan Fofana,2026-03-26,Luxembourg U21,France U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rayan Fofana,2026-04-04,Lille,RC Lens,6.6,11,1172.0,2.0,106.55,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0,1.71
+Rayan Fofana,2026-04-17,RC Lens,Toulouse,6.2,55,5842.0,11.0,106.22,0,0,0.17,0.01,6,7,0,0,0,0,1,13,0,1.88
+Rayan Fofana,2026-04-21,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rayan Fofana,2026-04-24,Stade Brestois,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

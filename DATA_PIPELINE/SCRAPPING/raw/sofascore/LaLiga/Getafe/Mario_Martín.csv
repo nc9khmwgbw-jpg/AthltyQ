@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Mario Martín,2026-01-09,Getafe,Real Sociedad,6.0,64,,,0.0,0,0,0.0,0.0,10,13,0,0,0,0,1,22
-Mario Martín,2026-01-18,Getafe,Valencia,7.2,85,,,0.0,0,0,0.11,0.14,15,24,3,0,0,0,2,43
-Mario Martín,2026-01-26,Girona FC,Getafe,6.4,90,,,0.0,0,0,0.11,0.01,16,23,0,0,1,0,7,45
-Mario Martín,2026-02-01,Getafe,Celta Vigo,6.9,68,,,0.0,0,0,0.1,0.0,18,22,0,0,1,0,2,39
-Mario Martín,2026-02-08,Deportivo Alavés,Getafe,6.5,34,,,0.0,0,0,0.02,0.03,4,5,0,0,0,0,0,12
-Mario Martín,2026-02-22,Getafe,Sevilla,6.5,14,,,0.0,0,0,0.0,0.01,5,6,0,0,1,0,2,12
-Mario Martín,2026-03-02,Real Madrid,Getafe,6.4,21,,,0.0,0,0,0.0,0.0,2,3,0,0,1,0,0,7
-Mario Martín,2026-03-08,Getafe,Real Betis,6.8,45,,,0.0,0,0,0.0,0.0,9,13,0,0,0,0,4,22
-Mario Martín,2026-03-14,Atlético Madrid,Getafe,6.3,16,,,0.0,0,0,0.0,0.0,6,10,0,0,2,0,1,14
-Mario Martín,2026-03-21,Espanyol,Getafe,6.2,56,,,0.0,0,0,0.47,0.0,7,10,0,0,1,0,2,19
-Mario Martín,2026-03-27,Cyprus U21,Spain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mario Martín,2026-04-05,Getafe,Athletic Club,7.7,23,,,0.0,0,0,0.0,0.48,3,6,1,0,1,0,1,15
-Mario Martín,2026-04-13,Levante UD,Getafe,6.7,35,,,0.0,0,0,0.09,0.0,6,9,0,0,1,0,1,24
-Mario Martín,2026-04-22,Real Sociedad,Getafe,6.4,68,,,0.0,0,0,0.0,0.0,10,20,0,0,0,0,2,29
-Mario Martín,2026-04-25,Getafe,FC Barcelona,6.0,90,,,0.0,0,0,0.31,0.0,13,17,0,0,2,0,2,30
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mario Martín,2026-01-09,Getafe,Real Sociedad,6.0,64,6825.0,12.0,106.64,0,0,0.0,0.0,10,13,0,0,0,0,1,22,0,1.76
+Mario Martín,2026-01-18,Getafe,Valencia,7.2,85,9131.0,16.0,107.42,0,0,0.11,0.14,15,24,3,0,0,0,2,43,0,1.75
+Mario Martín,2026-01-26,Girona FC,Getafe,6.4,90,9726.0,19.0,108.07,0,0,0.11,0.01,16,23,0,0,1,0,7,45,0,1.95
+Mario Martín,2026-02-01,Getafe,Celta Vigo,6.9,68,7329.0,14.0,107.78,0,0,0.1,0.0,18,22,0,0,1,0,2,39,0,1.91
+Mario Martín,2026-02-08,Deportivo Alavés,Getafe,6.5,34,3620.0,7.0,106.47,0,0,0.02,0.03,4,5,0,0,0,0,0,12,0,1.93
+Mario Martín,2026-02-22,Getafe,Sevilla,6.5,14,1545.0,4.0,110.36,0,0,0.0,0.01,5,6,0,0,1,0,2,12,0,2.59
+Mario Martín,2026-03-02,Real Madrid,Getafe,6.4,21,2234.0,5.0,106.38,0,0,0.0,0.0,2,3,0,0,1,0,0,7,0,2.24
+Mario Martín,2026-03-08,Getafe,Real Betis,6.8,45,4867.0,9.0,108.16,0,0,0.0,0.0,9,13,0,0,0,0,4,22,0,1.85
+Mario Martín,2026-03-14,Atlético Madrid,Getafe,6.3,16,1751.0,6.0,109.44,0,0,0.0,0.0,6,10,0,0,2,0,1,14,0,3.43
+Mario Martín,2026-03-21,Espanyol,Getafe,6.2,56,5985.0,12.0,106.88,0,0,0.47,0.0,7,10,0,0,1,0,2,19,0,2.01
+Mario Martín,2026-03-27,Cyprus U21,Spain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mario Martín,2026-04-05,Getafe,Athletic Club,7.7,23,2490.0,6.0,108.26,0,0,0.0,0.48,3,6,1,0,1,0,1,15,0,2.41
+Mario Martín,2026-04-13,Levante UD,Getafe,6.7,35,3788.0,8.0,108.23,0,0,0.09,0.0,6,9,0,0,1,0,1,24,0,2.11
+Mario Martín,2026-04-22,Real Sociedad,Getafe,6.4,68,7287.0,13.0,107.16,0,0,0.0,0.0,10,20,0,0,0,0,2,29,0,1.78
+Mario Martín,2026-04-25,Getafe,FC Barcelona,6.0,90,9601.0,20.0,106.68,0,0,0.31,0.0,13,17,0,0,2,0,2,30,0,2.08

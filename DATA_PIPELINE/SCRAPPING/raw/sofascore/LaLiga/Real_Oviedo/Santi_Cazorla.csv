@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Santi Cazorla,2026-01-10,Real Oviedo,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Santi Cazorla,2026-01-17,Osasuna,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Santi Cazorla,2026-01-25,FC Barcelona,Real Oviedo,6.7,8,,,0.0,0,0,0.0,0.0,3,3,1,0,0,0,0,3
-Santi Cazorla,2026-01-31,Real Oviedo,Girona FC,6.9,26,,,0.0,0,0,0.0,0.02,7,7,1,0,0,0,2,11
-Santi Cazorla,2026-02-15,Real Oviedo,Athletic Club,6.6,25,,,0.0,0,0,0.0,0.0,14,18,0,0,0,0,2,25
-Santi Cazorla,2026-02-21,Real Sociedad,Real Oviedo,6.5,14,,,0.0,0,0,0.0,0.06,7,10,1,0,0,0,3,13
-Santi Cazorla,2026-02-28,Real Oviedo,Atlético Madrid,6.7,10,,,0.0,0,0,0.0,0.2,6,8,3,0,0,0,1,11
-Santi Cazorla,2026-03-04,Rayo Vallecano,Real Oviedo,6.7,45,,,0.0,0,0,0.0,0.16,20,23,1,0,0,0,1,35
-Santi Cazorla,2026-03-09,Espanyol,Real Oviedo,6.7,18,,,0.0,0,0,0.0,0.01,11,15,1,0,0,0,2,20
-Santi Cazorla,2026-03-14,Real Oviedo,Valencia,6.7,13,,,0.0,0,0,0.0,0.0,3,5,0,0,0,0,1,9
-Santi Cazorla,2026-03-21,Levante UD,Real Oviedo,6.5,26,,,0.0,0,0,0.07,0.01,19,20,0,0,0,0,4,28
-Santi Cazorla,2026-04-05,Real Oviedo,Sevilla,6.7,18,,,0.0,0,0,0.1,0.02,12,13,2,0,0,0,0,15
-Santi Cazorla,2026-04-12,Celta Vigo,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Santi Cazorla,2026-04-23,Real Oviedo,Villarreal,6.7,18,,,0.0,0,0,0.0,0.08,13,14,1,0,1,0,1,18
-Santi Cazorla,2026-04-26,Real Oviedo,Elche,7.1,32,,,0.0,0,0,0.0,0.14,21,24,2,0,0,0,1,33
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Santi Cazorla,2026-01-10,Real Oviedo,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Santi Cazorla,2026-01-17,Osasuna,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Santi Cazorla,2026-01-25,FC Barcelona,Real Oviedo,6.7,8,853.0,2.0,106.62,0,0,0.0,0.0,3,3,1,0,0,0,0,3,0,2.34
+Santi Cazorla,2026-01-31,Real Oviedo,Girona FC,6.9,26,2801.0,5.0,107.73,0,0,0.0,0.02,7,7,1,0,0,0,2,11,0,1.79
+Santi Cazorla,2026-02-15,Real Oviedo,Athletic Club,6.6,25,2755.0,5.0,110.2,0,0,0.0,0.0,14,18,0,0,0,0,2,25,0,1.81
+Santi Cazorla,2026-02-21,Real Sociedad,Real Oviedo,6.5,14,1562.0,3.0,111.57,0,0,0.0,0.06,7,10,1,0,0,0,3,13,0,1.92
+Santi Cazorla,2026-02-28,Real Oviedo,Atlético Madrid,6.7,10,1109.0,2.0,110.9,0,0,0.0,0.2,6,8,3,0,0,0,1,11,0,1.8
+Santi Cazorla,2026-03-04,Rayo Vallecano,Real Oviedo,6.7,45,4884.0,9.0,108.53,0,0,0.0,0.16,20,23,1,0,0,0,1,35,0,1.84
+Santi Cazorla,2026-03-09,Espanyol,Real Oviedo,6.7,18,1999.0,3.0,111.06,0,0,0.0,0.01,11,15,1,0,0,0,2,20,0,1.5
+Santi Cazorla,2026-03-14,Real Oviedo,Valencia,6.7,13,1415.0,2.0,108.85,0,0,0.0,0.0,3,5,0,0,0,0,1,9,0,1.41
+Santi Cazorla,2026-03-21,Levante UD,Real Oviedo,6.5,26,2898.0,5.0,111.46,0,0,0.07,0.01,19,20,0,0,0,0,4,28,0,1.73
+Santi Cazorla,2026-04-05,Real Oviedo,Sevilla,6.7,18,1953.0,3.0,108.5,0,0,0.1,0.02,12,13,2,0,0,0,0,15,0,1.54
+Santi Cazorla,2026-04-12,Celta Vigo,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Santi Cazorla,2026-04-23,Real Oviedo,Villarreal,6.7,18,1978.0,5.0,109.89,0,0,0.0,0.08,13,14,1,0,1,0,1,18,0,2.53
+Santi Cazorla,2026-04-26,Real Oviedo,Elche,7.1,32,3511.0,6.0,109.72,0,0,0.0,0.14,21,24,2,0,0,0,1,33,0,1.71

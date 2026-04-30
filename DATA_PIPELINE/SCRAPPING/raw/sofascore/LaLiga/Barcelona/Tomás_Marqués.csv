@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tomás Marqués,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-02-17,Barcelona Atlètic,FC Andorra,6.3,45,,,0.0,0,0,0.0,0.0,9,13,0,0,0,0,5,14
-Tomás Marqués,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tomás Marqués,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tomás Marqués,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-02-17,Barcelona Atlètic,FC Andorra,6.3,45,4846.0,9.0,107.69,0,0,0.0,0.0,9,13,0,0,0,0,5,14,0,1.86
+Tomás Marqués,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-04-04,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-04-08,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tomás Marqués,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

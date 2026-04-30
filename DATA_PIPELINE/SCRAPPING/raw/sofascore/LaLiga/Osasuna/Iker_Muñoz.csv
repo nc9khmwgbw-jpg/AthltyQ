@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Iker Muñoz,2026-01-13,Real Sociedad,Osasuna,7.1,84,,,0.0,0,0,0.0,0.0,21,24,0,0,3,0,6,41
-Iker Muñoz,2026-01-17,Osasuna,Real Oviedo,6.5,17,,,0.0,0,0,0.07,0.0,6,9,0,0,1,0,1,12
-Iker Muñoz,2026-01-24,Rayo Vallecano,Osasuna,6.5,67,,,0.0,0,0,0.02,0.02,22,26,0,0,2,0,3,39
-Iker Muñoz,2026-01-31,Osasuna,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iker Muñoz,2026-02-06,Celta Vigo,Osasuna,6.5,90,,,0.0,0,0,0.0,0.02,34,37,1,0,1,0,5,47
-Iker Muñoz,2026-02-13,Elche,Osasuna,6.7,66,,,0.0,0,0,0.0,0.02,14,22,0,0,0,0,1,26
-Iker Muñoz,2026-02-21,Osasuna,Real Madrid,6.5,19,,,0.0,0,0,0.08,0.0,5,7,0,0,0,0,2,12
-Iker Muñoz,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iker Muñoz,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iker Muñoz,2026-03-15,Real Sociedad,Osasuna,7.0,45,,,0.0,0,0,0.07,0.01,20,25,0,0,1,0,2,36
-Iker Muñoz,2026-03-21,Osasuna,Girona FC,8.0,83,,,0.0,0,0,0.01,0.1,46,49,2,0,1,0,6,64
-Iker Muñoz,2026-04-05,Deportivo Alavés,Osasuna,6.3,13,,,0.0,0,0,0.0,0.0,0,2,0,0,0,0,2,3
-Iker Muñoz,2026-04-12,Osasuna,Real Betis,7.0,89,,,0.0,0,0,0.05,0.04,48,54,1,0,2,0,3,69
-Iker Muñoz,2026-04-21,Athletic Club,Osasuna,6.7,19,,,0.0,0,0,0.0,0.0,11,14,0,0,0,0,1,19
-Iker Muñoz,2026-04-26,Osasuna,Sevilla,6.9,71,,,0.0,0,0,0.0,0.01,24,32,1,0,0,0,1,38
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Iker Muñoz,2026-01-13,Real Sociedad,Osasuna,7.1,84,9067.0,20.0,107.94,0,0,0.0,0.0,21,24,0,0,3,0,6,41,0,2.21
+Iker Muñoz,2026-01-17,Osasuna,Real Oviedo,6.5,17,1848.0,5.0,108.71,0,0,0.07,0.0,6,9,0,0,1,0,1,12,0,2.71
+Iker Muñoz,2026-01-24,Rayo Vallecano,Osasuna,6.5,67,7236.0,16.0,108.0,0,0,0.02,0.02,22,26,0,0,2,0,3,39,0,2.21
+Iker Muñoz,2026-01-31,Osasuna,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iker Muñoz,2026-02-06,Celta Vigo,Osasuna,6.5,90,9710.0,19.0,107.89,0,0,0.0,0.02,34,37,1,0,1,0,5,47,0,1.96
+Iker Muñoz,2026-02-13,Elche,Osasuna,6.7,66,7052.0,13.0,106.85,0,0,0.0,0.02,14,22,0,0,0,0,1,26,0,1.84
+Iker Muñoz,2026-02-21,Osasuna,Real Madrid,6.5,19,2070.0,4.0,108.95,0,0,0.08,0.0,5,7,0,0,0,0,2,12,0,1.93
+Iker Muñoz,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iker Muñoz,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iker Muñoz,2026-03-15,Real Sociedad,Osasuna,7.0,45,4901.0,10.0,108.91,0,0,0.07,0.01,20,25,0,0,1,0,2,36,0,2.04
+Iker Muñoz,2026-03-21,Osasuna,Girona FC,8.0,83,9059.0,17.0,109.14,0,0,0.01,0.1,46,49,2,0,1,0,6,64,0,1.88
+Iker Muñoz,2026-04-05,Deportivo Alavés,Osasuna,6.3,13,1403.0,2.0,107.92,0,0,0.0,0.0,0,2,0,0,0,0,2,3,0,1.43
+Iker Muñoz,2026-04-12,Osasuna,Real Betis,7.0,89,9672.0,20.0,108.67,0,0,0.05,0.04,48,54,1,0,2,0,3,69,0,2.07
+Iker Muñoz,2026-04-21,Athletic Club,Osasuna,6.7,19,2087.0,4.0,109.84,0,0,0.0,0.0,11,14,0,0,0,0,1,19,0,1.92
+Iker Muñoz,2026-04-26,Osasuna,Sevilla,6.9,71,7627.0,14.0,107.42,0,0,0.0,0.01,24,32,1,0,0,0,1,38,0,1.84

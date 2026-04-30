@@ -1,11 +1,11 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Saad Boussadia,2026-01-03,Lille,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-01-22,Celta Vigo,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-01-25,Lille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-01-29,Lille,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-02-01,Olympique Lyonnais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-02-19,Lille,FK Crvena zvezda,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-02-26,FK Crvena zvezda,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Saad Boussadia,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Saad Boussadia,2026-01-03,Lille,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-01-22,Celta Vigo,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-01-25,Lille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-01-29,Lille,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-02-01,Olympique Lyonnais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-02-19,Lille,FK Crvena zvezda,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-02-26,FK Crvena zvezda,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Saad Boussadia,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

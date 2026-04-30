@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Alex Iwobi,2026-01-24,Fulham,Brighton & Hove Albion,6.2,88,,,0.0,0,0,0.03,0.01,38,46,1,0,1,0,4,62
-Alex Iwobi,2026-02-01,Manchester United,Fulham,6.7,90,,,0.0,0,0,0.03,0.49,72,75,2,0,1,0,6,88
-Alex Iwobi,2026-02-07,Fulham,Everton,7.2,90,,,0.0,0,0,0.0,0.53,68,72,2,0,0,0,5,87
-Alex Iwobi,2026-02-11,Manchester City,Fulham,6.4,90,,,0.0,0,0,0.05,0.02,58,63,0,0,0,0,4,72
-Alex Iwobi,2026-02-15,Stoke City,Fulham,6.4,90,,,0.0,0,0,0.0,0.0,68,74,1,0,1,0,6,85
-Alex Iwobi,2026-02-22,Sunderland,Fulham,8.2,88,,,0.0,1,0,0.29,0.19,33,35,3,0,0,0,2,40
-Alex Iwobi,2026-03-01,Fulham,Tottenham Hotspur,9.0,89,,,0.0,1,0,0.07,0.13,49,57,4,0,1,0,7,75
-Alex Iwobi,2026-03-04,Fulham,West Ham United,6.8,90,,,0.0,0,0,0.04,0.07,51,64,1,0,0,0,5,80
-Alex Iwobi,2026-03-08,Fulham,Southampton,7.0,25,,,0.0,0,0,0.0,0.0,24,27,1,0,2,0,2,38
-Alex Iwobi,2026-03-15,Nottingham Forest,Fulham,6.6,90,,,0.0,0,0,0.0,0.23,39,47,1,0,0,0,4,60
-Alex Iwobi,2026-03-21,Fulham,Burnley,7.3,90,,,0.0,0,0,0.08,0.26,60,76,2,0,1,0,8,87
-Alex Iwobi,2026-04-11,Liverpool,Fulham,6.9,90,,,0.0,0,0,0.04,0.32,56,65,1,0,2,0,5,90
-Alex Iwobi,2026-04-18,Brentford,Fulham,6.8,43,,,0.0,0,0,0.03,0.07,16,21,1,0,0,0,3,28
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alex Iwobi,2026-01-24,Fulham,Brighton & Hove Albion,6.2,88,9550.0,18.0,108.52,0,0,0.03,0.01,38,46,1,0,1,0,4,62,0,1.88
+Alex Iwobi,2026-02-01,Manchester United,Fulham,6.7,90,9895.0,19.0,109.94,0,0,0.03,0.49,72,75,2,0,1,0,6,88,0,1.92
+Alex Iwobi,2026-02-07,Fulham,Everton,7.2,90,9878.0,17.0,109.76,0,0,0.0,0.53,68,72,2,0,0,0,5,87,0,1.72
+Alex Iwobi,2026-02-11,Manchester City,Fulham,6.4,90,9802.0,17.0,108.91,0,0,0.05,0.02,58,63,0,0,0,0,4,72,0,1.73
+Alex Iwobi,2026-02-15,Stoke City,Fulham,6.4,90,9882.0,19.0,109.8,0,0,0.0,0.0,68,74,1,0,1,0,6,85,0,1.92
+Alex Iwobi,2026-02-22,Sunderland,Fulham,8.2,88,9433.0,17.0,107.19,1,0,0.29,0.19,33,35,3,0,0,0,2,40,0,1.8
+Alex Iwobi,2026-03-01,Fulham,Tottenham Hotspur,9.0,89,9748.0,19.0,109.53,1,0,0.07,0.13,49,57,4,0,1,0,7,75,0,1.95
+Alex Iwobi,2026-03-04,Fulham,West Ham United,6.8,90,9848.0,17.0,109.42,0,0,0.04,0.07,51,64,1,0,0,0,5,80,0,1.73
+Alex Iwobi,2026-03-08,Fulham,Southampton,7.0,25,2810.0,8.0,112.4,0,0,0.0,0.0,24,27,1,0,2,0,2,38,0,2.85
+Alex Iwobi,2026-03-15,Nottingham Forest,Fulham,6.6,90,9752.0,17.0,108.36,0,0,0.0,0.23,39,47,1,0,0,0,4,60,0,1.74
+Alex Iwobi,2026-03-21,Fulham,Burnley,7.3,90,9915.0,19.0,110.17,0,0,0.08,0.26,60,76,2,0,1,0,8,87,0,1.92
+Alex Iwobi,2026-04-11,Liverpool,Fulham,6.9,90,9890.0,20.0,109.89,0,0,0.04,0.32,56,65,1,0,2,0,5,90,0,2.02
+Alex Iwobi,2026-04-18,Brentford,Fulham,6.8,43,4670.0,8.0,108.6,0,0,0.03,0.07,16,21,1,0,0,0,3,28,0,1.71

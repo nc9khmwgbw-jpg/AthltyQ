@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Quilindschy Hartman,2025-12-06,Newcastle United,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quilindschy Hartman,2025-12-13,Burnley,Fulham,5.6,90,,,0.0,0,0,0.0,0.04,31,47,0,0,1,0,6,75
-Quilindschy Hartman,2025-12-27,Burnley,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quilindschy Hartman,2026-01-07,Burnley,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quilindschy Hartman,2026-01-10,Burnley,Millwall,7.0,90,,,0.0,0,0,0.0,0.0,59,66,1,0,4,0,4,93
-Quilindschy Hartman,2026-01-17,Liverpool,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quilindschy Hartman,2026-02-14,Burnley,Mansfield Town,7.3,90,,,0.0,0,0,0.0,0.0,39,46,1,0,1,0,3,64
-Quilindschy Hartman,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quilindschy Hartman,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quilindschy Hartman,2026-03-03,Everton,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quilindschy Hartman,2026-03-14,Burnley,Bournemouth,7.1,74,,,0.0,0,0,0.0,0.01,11,16,0,0,0,0,2,35
-Quilindschy Hartman,2026-03-21,Fulham,Burnley,6.3,90,,,0.0,0,0,0.02,0.22,45,51,3,0,3,0,4,70
-Quilindschy Hartman,2026-04-11,Burnley,Brighton & Hove Albion,6.3,82,,,0.0,0,0,0.0,0.02,36,48,0,0,0,0,5,61
-Quilindschy Hartman,2026-04-19,Nottingham Forest,Burnley,6.4,90,,,0.0,0,0,0.0,0.22,39,51,1,0,3,0,5,72
-Quilindschy Hartman,2026-04-22,Burnley,Manchester City,7.3,90,,,0.0,0,0,0.13,0.0,19,31,0,0,2,0,2,61
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Quilindschy Hartman,2025-12-06,Newcastle United,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quilindschy Hartman,2025-12-13,Burnley,Fulham,5.6,90,9840.0,19.0,109.33,0,0,0.0,0.04,31,47,0,0,1,0,6,75,0,1.93
+Quilindschy Hartman,2025-12-27,Burnley,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quilindschy Hartman,2026-01-07,Burnley,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quilindschy Hartman,2026-01-10,Burnley,Millwall,7.0,90,9891.0,23.0,109.9,0,0,0.0,0.0,59,66,1,0,4,0,4,93,0,2.33
+Quilindschy Hartman,2026-01-17,Liverpool,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quilindschy Hartman,2026-02-14,Burnley,Mansfield Town,7.3,90,9756.0,19.0,108.4,0,0,0.0,0.0,39,46,1,0,1,0,3,64,0,1.95
+Quilindschy Hartman,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quilindschy Hartman,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quilindschy Hartman,2026-03-03,Everton,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quilindschy Hartman,2026-03-14,Burnley,Bournemouth,7.1,74,7942.0,14.0,107.32,0,0,0.0,0.01,11,16,0,0,0,0,2,35,0,1.76
+Quilindschy Hartman,2026-03-21,Fulham,Burnley,6.3,90,9794.0,22.0,108.82,0,0,0.02,0.22,45,51,3,0,3,0,4,70,0,2.25
+Quilindschy Hartman,2026-04-11,Burnley,Brighton & Hove Albion,6.3,82,8929.0,16.0,108.89,0,0,0.0,0.02,36,48,0,0,0,0,5,61,0,1.79
+Quilindschy Hartman,2026-04-19,Nottingham Forest,Burnley,6.4,90,9815.0,22.0,109.06,0,0,0.0,0.22,39,51,1,0,3,0,5,72,0,2.24
+Quilindschy Hartman,2026-04-22,Burnley,Manchester City,7.3,90,9731.0,20.0,108.12,0,0,0.13,0.0,19,31,0,0,2,0,2,61,0,2.06

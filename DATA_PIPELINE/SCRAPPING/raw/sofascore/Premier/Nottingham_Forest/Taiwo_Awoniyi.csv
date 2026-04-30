@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Taiwo Awoniyi,2025-12-30,Nottingham Forest,Everton,6.6,28,,,0.0,0,0,0.27,0.36,6,6,1,0,0,0,0,12
-Taiwo Awoniyi,2026-01-03,Aston Villa,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Taiwo Awoniyi,2026-01-06,West Ham United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Taiwo Awoniyi,2026-01-09,Wrexham,Nottingham Forest,5.9,32,,,0.0,0,0,0.0,0.0,9,10,2,0,0,0,0,13
-Taiwo Awoniyi,2026-01-17,Nottingham Forest,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Taiwo Awoniyi,2026-01-25,Brentford,Nottingham Forest,7.7,22,,,0.0,1,0,0.39,0.0,4,4,0,0,0,0,1,13
-Taiwo Awoniyi,2026-02-01,Nottingham Forest,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Taiwo Awoniyi,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Taiwo Awoniyi,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Taiwo Awoniyi,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.4,14,,,0.0,0,0,0.06,0.0,0,0,0,0,0,0,1,2
-Taiwo Awoniyi,2026-03-04,Manchester City,Nottingham Forest,6.4,11,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,4
-Taiwo Awoniyi,2026-03-15,Nottingham Forest,Fulham,6.1,27,,,0.0,0,0,0.54,0.0,2,3,0,0,0,0,1,11
-Taiwo Awoniyi,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.0,19,,,0.0,1,0,0.52,0.0,0,2,0,0,0,0,0,6
-Taiwo Awoniyi,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Taiwo Awoniyi,2026-04-24,Sunderland,Nottingham Forest,6.7,10,,,0.0,0,0,0.0,0.01,2,3,1,0,0,0,1,5
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Taiwo Awoniyi,2025-12-30,Nottingham Forest,Everton,6.6,28,2990.0,5.0,106.79,0,0,0.27,0.36,6,6,1,0,0,0,0,12,0,1.67
+Taiwo Awoniyi,2026-01-03,Aston Villa,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Taiwo Awoniyi,2026-01-06,West Ham United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Taiwo Awoniyi,2026-01-09,Wrexham,Nottingham Forest,5.9,32,3415.0,6.0,106.72,0,0,0.0,0.0,9,10,2,0,0,0,0,13,0,1.76
+Taiwo Awoniyi,2026-01-17,Nottingham Forest,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Taiwo Awoniyi,2026-01-25,Brentford,Nottingham Forest,7.7,22,2377.0,4.0,108.05,1,0,0.39,0.0,4,4,0,0,0,0,1,13,0,1.68
+Taiwo Awoniyi,2026-02-01,Nottingham Forest,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Taiwo Awoniyi,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Taiwo Awoniyi,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Taiwo Awoniyi,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.4,14,1491.0,3.0,106.5,0,0,0.06,0.0,0,0,0,0,0,0,1,2,0,2.01
+Taiwo Awoniyi,2026-03-04,Manchester City,Nottingham Forest,6.4,11,1172.0,2.0,106.55,0,0,0.0,0.0,0,1,0,0,0,0,0,4,0,1.71
+Taiwo Awoniyi,2026-03-15,Nottingham Forest,Fulham,6.1,27,2894.0,5.0,107.19,0,0,0.54,0.0,2,3,0,0,0,0,1,11,0,1.73
+Taiwo Awoniyi,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.0,19,2020.0,4.0,106.32,1,0,0.52,0.0,0,2,0,0,0,0,0,6,0,1.98
+Taiwo Awoniyi,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Taiwo Awoniyi,2026-04-24,Sunderland,Nottingham Forest,6.7,10,1084.0,2.0,108.4,0,0,0.0,0.01,2,3,1,0,0,0,1,5,0,1.85

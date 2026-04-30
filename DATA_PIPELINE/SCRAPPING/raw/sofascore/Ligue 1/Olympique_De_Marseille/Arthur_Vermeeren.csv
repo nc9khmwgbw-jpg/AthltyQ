@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Arthur Vermeeren,2026-01-31,Paris FC,Olympique de Marseille,6.5,11,,,0.0,0,0,0.0,0.0,6,6,0,0,1,0,1,9
-Arthur Vermeeren,2026-02-03,Olympique de Marseille,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Vermeeren,2026-02-08,Paris Saint-Germain,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Vermeeren,2026-02-14,Olympique de Marseille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Vermeeren,2026-02-20,Stade Brestois,Olympique de Marseille,6.3,45,,,0.0,0,0,0.0,0.05,22,24,2,0,1,0,2,28
-Arthur Vermeeren,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Vermeeren,2026-03-04,Olympique de Marseille,Toulouse,6.5,58,,,0.0,0,0,0.0,0.0,27,30,0,0,0,0,1,35
-Arthur Vermeeren,2026-03-07,Toulouse,Olympique de Marseille,6.5,8,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4
-Arthur Vermeeren,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Vermeeren,2026-03-27,Belgium U21,Austria U21,7.3,90,,,0.0,1,0,0.0,0.0,46,54,0,0,0,0,2,65
-Arthur Vermeeren,2026-03-30,Netherlands U21,Belgium U21,6.8,90,,,0.0,0,0,0.0,0.0,48,53,0,0,2,0,8,69
-Arthur Vermeeren,2026-04-05,AS Monaco,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Vermeeren,2026-04-10,Olympique de Marseille,Metz,7.0,18,,,0.0,0,0,0.0,0.03,12,13,1,0,1,0,3,16
-Arthur Vermeeren,2026-04-18,Lorient,Olympique de Marseille,6.7,14,,,0.0,0,0,0.0,0.03,10,12,1,0,0,0,2,12
-Arthur Vermeeren,2026-04-26,Olympique de Marseille,Nice,6.5,63,,,0.0,0,0,0.14,0.03,29,34,1,0,2,0,6,49
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Arthur Vermeeren,2026-01-31,Paris FC,Olympique de Marseille,6.5,11,1205.0,4.0,109.55,0,0,0.0,0.0,6,6,0,0,1,0,1,9,0,3.32
+Arthur Vermeeren,2026-02-03,Olympique de Marseille,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Vermeeren,2026-02-08,Paris Saint-Germain,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Vermeeren,2026-02-14,Olympique de Marseille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Vermeeren,2026-02-20,Stade Brestois,Olympique de Marseille,6.3,45,4868.0,10.0,108.18,0,0,0.0,0.05,22,24,2,0,1,0,2,28,0,2.05
+Arthur Vermeeren,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Vermeeren,2026-03-04,Olympique de Marseille,Toulouse,6.5,58,6250.0,11.0,107.76,0,0,0.0,0.0,27,30,0,0,0,0,1,35,0,1.76
+Arthur Vermeeren,2026-03-07,Toulouse,Olympique de Marseille,6.5,8,857.0,2.0,107.12,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0,2.33
+Arthur Vermeeren,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Vermeeren,2026-03-27,Belgium U21,Austria U21,7.3,90,9748.0,17.0,108.31,1,0,0.0,0.0,46,54,0,0,0,0,2,65,0,1.74
+Arthur Vermeeren,2026-03-30,Netherlands U21,Belgium U21,6.8,90,9840.0,20.0,109.33,0,0,0.0,0.0,48,53,0,0,2,0,8,69,0,2.03
+Arthur Vermeeren,2026-04-05,AS Monaco,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Vermeeren,2026-04-10,Olympique de Marseille,Metz,7.0,18,1995.0,5.0,110.83,0,0,0.0,0.03,12,13,1,0,1,0,3,16,0,2.51
+Arthur Vermeeren,2026-04-18,Lorient,Olympique de Marseille,6.7,14,1545.0,3.0,110.36,0,0,0.0,0.03,10,12,1,0,0,0,2,12,0,1.94
+Arthur Vermeeren,2026-04-26,Olympique de Marseille,Nice,6.5,63,6896.0,15.0,109.46,0,0,0.14,0.03,29,34,1,0,2,0,6,49,0,2.18

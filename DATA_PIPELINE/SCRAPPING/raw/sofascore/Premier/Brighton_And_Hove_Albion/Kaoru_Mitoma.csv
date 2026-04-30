@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kaoru Mitoma,2026-01-19,Brighton & Hove Albion,Bournemouth,6.2,90,,,0.0,0,0,0.08,0.04,23,32,2,0,0,0,0,47
-Kaoru Mitoma,2026-01-24,Fulham,Brighton & Hove Albion,6.8,90,,,0.0,0,0,0.26,0.35,27,37,1,0,0,0,4,51
-Kaoru Mitoma,2026-01-31,Brighton & Hove Albion,Everton,6.9,90,,,0.0,0,0,0.49,0.21,24,30,2,0,0,0,7,50
-Kaoru Mitoma,2026-02-08,Brighton & Hove Albion,Crystal Palace,7.0,90,,,0.0,0,0,0.0,0.25,25,28,1,0,0,0,4,51
-Kaoru Mitoma,2026-02-11,Aston Villa,Brighton & Hove Albion,7.3,81,,,0.0,0,0,0.09,0.1,19,21,1,0,0,0,3,39
-Kaoru Mitoma,2026-02-14,Liverpool,Brighton & Hove Albion,6.7,28,,,0.0,0,0,0.0,0.0,18,20,1,0,0,0,1,29
-Kaoru Mitoma,2026-02-21,Brentford,Brighton & Hove Albion,6.8,90,,,0.0,0,0,0.29,0.06,24,30,2,0,1,0,2,46
-Kaoru Mitoma,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.8,89,,,0.0,0,0,0.62,0.09,30,36,3,0,0,0,3,50
-Kaoru Mitoma,2026-03-04,Brighton & Hove Albion,Arsenal,6.7,45,,,0.0,0,0,0.06,0.01,9,9,0,0,1,0,0,16
-Kaoru Mitoma,2026-03-21,Brighton & Hove Albion,Liverpool,7.0,14,,,0.0,0,0,0.1,0.29,4,8,0,0,1,0,0,19
-Kaoru Mitoma,2026-03-28,Scotland,Japan,7.1,45,,,0.0,0,0,0.0,0.0,16,17,2,0,2,0,3,28
-Kaoru Mitoma,2026-03-31,England,Japan,7.9,71,,,0.0,1,0,0.0,0.0,16,17,0,0,2,0,2,33
-Kaoru Mitoma,2026-04-11,Burnley,Brighton & Hove Albion,6.7,10,,,0.0,0,0,0.0,0.06,9,12,0,0,0,0,2,16
-Kaoru Mitoma,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,7.6,55,,,0.0,1,0,0.09,0.1,14,14,0,0,0,0,0,34
-Kaoru Mitoma,2026-04-21,Brighton & Hove Albion,Chelsea,7.6,82,,,0.0,0,0,0.28,0.08,29,32,3,0,0,0,7,46
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kaoru Mitoma,2026-01-19,Brighton & Hove Albion,Bournemouth,6.2,90,9647.0,17.0,107.19,0,0,0.08,0.04,23,32,2,0,0,0,0,47,0,1.76
+Kaoru Mitoma,2026-01-24,Fulham,Brighton & Hove Albion,6.8,90,9714.0,17.0,107.93,0,0,0.26,0.35,27,37,1,0,0,0,4,51,0,1.75
+Kaoru Mitoma,2026-01-31,Brighton & Hove Albion,Everton,6.9,90,9748.0,17.0,108.31,0,0,0.49,0.21,24,30,2,0,0,0,7,50,0,1.74
+Kaoru Mitoma,2026-02-08,Brighton & Hove Albion,Crystal Palace,7.0,90,9714.0,17.0,107.93,0,0,0.0,0.25,25,28,1,0,0,0,4,51,0,1.75
+Kaoru Mitoma,2026-02-11,Aston Villa,Brighton & Hove Albion,7.3,81,8706.0,16.0,107.48,0,0,0.09,0.1,19,21,1,0,0,0,3,39,0,1.84
+Kaoru Mitoma,2026-02-14,Liverpool,Brighton & Hove Albion,6.7,28,3074.0,5.0,109.79,0,0,0.0,0.0,18,20,1,0,0,0,1,29,0,1.63
+Kaoru Mitoma,2026-02-21,Brentford,Brighton & Hove Albion,6.8,90,9668.0,19.0,107.42,0,0,0.29,0.06,24,30,2,0,1,0,2,46,0,1.97
+Kaoru Mitoma,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.8,89,9592.0,17.0,107.78,0,0,0.62,0.09,30,36,3,0,0,0,3,50,0,1.77
+Kaoru Mitoma,2026-03-04,Brighton & Hove Albion,Arsenal,6.7,45,4792.0,10.0,106.49,0,0,0.06,0.01,9,9,0,0,1,0,0,16,0,2.09
+Kaoru Mitoma,2026-03-21,Brighton & Hove Albion,Liverpool,7.0,14,1550.0,4.0,110.71,0,0,0.1,0.29,4,8,0,0,1,0,0,19,0,2.58
+Kaoru Mitoma,2026-03-28,Scotland,Japan,7.1,45,4880.0,11.0,108.44,0,0,0.0,0.0,16,17,2,0,2,0,3,28,0,2.25
+Kaoru Mitoma,2026-03-31,England,Japan,7.9,71,7619.0,16.0,107.31,1,0,0.0,0.0,16,17,0,0,2,0,2,33,0,2.1
+Kaoru Mitoma,2026-04-11,Burnley,Brighton & Hove Albion,6.7,10,1142.0,2.0,114.2,0,0,0.0,0.06,9,12,0,0,0,0,2,16,0,1.75
+Kaoru Mitoma,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,7.6,55,5918.0,11.0,107.6,1,0,0.09,0.1,14,14,0,0,0,0,0,34,0,1.86
+Kaoru Mitoma,2026-04-21,Brighton & Hove Albion,Chelsea,7.6,82,8891.0,16.0,108.43,0,0,0.28,0.08,29,32,3,0,0,0,7,46,0,1.8

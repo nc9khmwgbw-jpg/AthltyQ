@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pablo Fornals,2026-02-21,Real Betis,Rayo Vallecano,6.5,61,,,0.0,0,0,0.0,0.15,24,27,1,0,0,0,3,34
-Pablo Fornals,2026-03-01,Real Betis,Sevilla,6.9,90,,,0.0,0,0,0.0,0.16,54,61,3,0,1,0,5,78
-Pablo Fornals,2026-03-08,Getafe,Real Betis,6.8,29,,,0.0,0,0,0.0,0.13,28,31,2,0,0,0,1,36
-Pablo Fornals,2026-03-12,Panathinaikos FC,Real Betis,6.6,89,,,0.0,0,0,0.0,0.1,44,55,3,0,1,0,6,69
-Pablo Fornals,2026-03-15,Real Betis,Celta Vigo,7.2,90,,,0.0,0,0,0.0,0.32,66,70,4,0,0,0,1,92
-Pablo Fornals,2026-03-19,Real Betis,Panathinaikos FC,7.5,74,,,0.0,0,0,0.22,0.03,63,72,1,0,0,0,4,86
-Pablo Fornals,2026-03-22,Athletic Club,Real Betis,8.0,45,,,0.0,1,0,0.07,0.05,30,37,1,0,2,0,1,54
-Pablo Fornals,2026-03-27,Spain,Serbia,6.6,45,,,0.0,0,0,0.0,0.0,37,41,2,0,0,0,2,45
-Pablo Fornals,2026-03-31,Spain,Egypt,6.5,45,,,0.0,0,0,0.0,0.0,30,34,0,0,1,0,1,39
-Pablo Fornals,2026-04-04,Real Betis,Espanyol,8.1,90,,,0.0,0,0,0.02,0.48,74,84,9,0,0,0,3,101
-Pablo Fornals,2026-04-08,Sporting Braga,Real Betis,6.9,90,,,0.0,0,0,0.04,0.08,33,35,3,0,2,0,5,50
-Pablo Fornals,2026-04-12,Osasuna,Real Betis,6.4,74,,,0.0,0,0,0.04,0.01,35,38,0,0,0,0,4,50
-Pablo Fornals,2026-04-16,Real Betis,Sporting Braga,7.0,77,,,0.0,0,0,0.01,0.21,36,40,1,0,3,0,3,58
-Pablo Fornals,2026-04-21,Girona FC,Real Betis,7.2,75,,,0.0,0,0,0.0,0.25,37,45,2,0,1,0,5,57
-Pablo Fornals,2026-04-24,Real Betis,Real Madrid,6.6,68,,,0.0,0,0,0.05,0.14,54,61,3,0,3,0,8,76
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pablo Fornals,2026-02-21,Real Betis,Rayo Vallecano,6.5,61,6585.0,12.0,107.95,0,0,0.0,0.15,24,27,1,0,0,0,3,34,0,1.82
+Pablo Fornals,2026-03-01,Real Betis,Sevilla,6.9,90,9840.0,19.0,109.33,0,0,0.0,0.16,54,61,3,0,1,0,5,78,0,1.93
+Pablo Fornals,2026-03-08,Getafe,Real Betis,6.8,29,3209.0,6.0,110.66,0,0,0.0,0.13,28,31,2,0,0,0,1,36,0,1.87
+Pablo Fornals,2026-03-12,Panathinaikos FC,Real Betis,6.6,89,9710.0,19.0,109.1,0,0,0.0,0.1,44,55,3,0,1,0,6,69,0,1.96
+Pablo Fornals,2026-03-15,Real Betis,Celta Vigo,7.2,90,9849.0,17.0,109.43,0,0,0.0,0.32,66,70,4,0,0,0,1,92,0,1.73
+Pablo Fornals,2026-03-19,Real Betis,Panathinaikos FC,7.5,74,8181.0,14.0,110.55,0,0,0.22,0.03,63,72,1,0,0,0,4,86,0,1.71
+Pablo Fornals,2026-03-22,Athletic Club,Real Betis,8.0,45,4964.0,11.0,110.31,1,0,0.07,0.05,30,37,1,0,2,0,1,54,0,2.22
+Pablo Fornals,2026-03-27,Spain,Serbia,6.6,45,4939.0,9.0,109.76,0,0,0.0,0.0,37,41,2,0,0,0,2,45,0,1.82
+Pablo Fornals,2026-03-31,Spain,Egypt,6.5,45,4901.0,10.0,108.91,0,0,0.0,0.0,30,34,0,0,1,0,1,39,0,2.04
+Pablo Fornals,2026-04-04,Real Betis,Espanyol,8.1,90,9912.0,17.0,110.13,0,0,0.02,0.48,74,84,9,0,0,0,3,101,0,1.72
+Pablo Fornals,2026-04-08,Sporting Braga,Real Betis,6.9,90,9722.0,20.0,108.02,0,0,0.04,0.08,33,35,3,0,2,0,5,50,0,2.06
+Pablo Fornals,2026-04-12,Osasuna,Real Betis,6.4,74,8030.0,14.0,108.51,0,0,0.04,0.01,35,38,0,0,0,0,4,50,0,1.74
+Pablo Fornals,2026-04-16,Real Betis,Sporting Braga,7.0,77,8366.0,19.0,108.65,0,0,0.01,0.21,36,40,1,0,3,0,3,58,0,2.27
+Pablo Fornals,2026-04-21,Girona FC,Real Betis,7.2,75,8177.0,16.0,109.03,0,0,0.0,0.25,37,45,2,0,1,0,5,57,0,1.96
+Pablo Fornals,2026-04-24,Real Betis,Real Madrid,6.6,68,7559.0,17.0,111.16,0,0,0.05,0.14,54,61,3,0,3,0,8,76,0,2.25

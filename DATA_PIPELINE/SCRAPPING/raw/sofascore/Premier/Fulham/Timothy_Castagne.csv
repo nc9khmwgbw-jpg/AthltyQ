@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Timothy Castagne,2026-02-01,Manchester United,Fulham,5.3,90,,,0.0,0,0,0.0,0.02,40,47,0,0,4,0,2,72
-Timothy Castagne,2026-02-07,Fulham,Everton,6.3,83,,,0.0,0,0,0.0,0.02,27,33,0,0,1,0,3,42
-Timothy Castagne,2026-02-11,Manchester City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Timothy Castagne,2026-02-15,Stoke City,Fulham,6.3,90,,,0.0,0,0,0.0,0.0,55,64,2,0,2,0,5,82
-Timothy Castagne,2026-02-22,Sunderland,Fulham,6.7,12,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4
-Timothy Castagne,2026-03-01,Fulham,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Timothy Castagne,2026-03-04,Fulham,West Ham United,6.6,8,,,0.0,0,0,0.16,0.0,6,8,0,0,0,0,0,14
-Timothy Castagne,2026-03-08,Fulham,Southampton,6.9,90,,,0.0,0,0,0.0,0.0,42,47,1,0,2,0,4,79
-Timothy Castagne,2026-03-15,Nottingham Forest,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Timothy Castagne,2026-03-21,Fulham,Burnley,8.0,90,,,0.0,0,0,0.09,0.16,40,47,3,0,0,0,4,71
-Timothy Castagne,2026-03-28,USA,Belgium,6.2,20,,,0.0,0,0,0.0,0.0,10,12,0,0,0,0,0,15
-Timothy Castagne,2026-04-01,Mexico,Belgium,6.1,63,,,0.0,0,0,0.0,0.0,33,40,0,0,0,0,1,52
-Timothy Castagne,2026-04-11,Liverpool,Fulham,7.1,90,,,0.0,0,0,0.02,0.12,32,36,3,0,1,0,3,58
-Timothy Castagne,2026-04-18,Brentford,Fulham,7.1,90,,,0.0,0,0,0.0,0.01,38,45,0,0,2,0,2,61
-Timothy Castagne,2026-04-25,Fulham,Aston Villa,6.9,90,,,0.0,0,0,0.0,0.14,24,25,1,0,2,0,1,39
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Timothy Castagne,2026-02-01,Manchester United,Fulham,5.3,90,9777.0,23.0,108.63,0,0,0.0,0.02,40,47,0,0,4,0,2,72,0,2.35
+Timothy Castagne,2026-02-07,Fulham,Everton,6.3,83,8929.0,17.0,107.58,0,0,0.0,0.02,27,33,0,0,1,0,3,42,0,1.9
+Timothy Castagne,2026-02-11,Manchester City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Timothy Castagne,2026-02-15,Stoke City,Fulham,6.3,90,9857.0,20.0,109.52,0,0,0.0,0.0,55,64,2,0,2,0,5,82,0,2.03
+Timothy Castagne,2026-02-22,Sunderland,Fulham,6.7,12,1277.0,2.0,106.42,0,0,0.0,0.0,2,2,0,0,0,0,0,4,0,1.57
+Timothy Castagne,2026-03-01,Fulham,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Timothy Castagne,2026-03-04,Fulham,West Ham United,6.6,8,899.0,2.0,112.38,0,0,0.16,0.0,6,8,0,0,0,0,0,14,0,2.22
+Timothy Castagne,2026-03-08,Fulham,Southampton,6.9,90,9832.0,20.0,109.24,0,0,0.0,0.0,42,47,1,0,2,0,4,79,0,2.03
+Timothy Castagne,2026-03-15,Nottingham Forest,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Timothy Castagne,2026-03-21,Fulham,Burnley,8.0,90,9798.0,17.0,108.87,0,0,0.09,0.16,40,47,3,0,0,0,4,71,0,1.74
+Timothy Castagne,2026-03-28,USA,Belgium,6.2,20,2163.0,4.0,108.15,0,0,0.0,0.0,10,12,0,0,0,0,0,15,0,1.85
+Timothy Castagne,2026-04-01,Mexico,Belgium,6.1,63,6846.0,12.0,108.67,0,0,0.0,0.0,33,40,0,0,0,0,1,52,0,1.75
+Timothy Castagne,2026-04-11,Liverpool,Fulham,7.1,90,9731.0,19.0,108.12,0,0,0.02,0.12,32,36,3,0,1,0,3,58,0,1.95
+Timothy Castagne,2026-04-18,Brentford,Fulham,7.1,90,9731.0,20.0,108.12,0,0,0.0,0.01,38,45,0,0,2,0,2,61,0,2.06
+Timothy Castagne,2026-04-25,Fulham,Aston Villa,6.9,90,9626.0,20.0,106.96,0,0,0.0,0.14,24,25,1,0,2,0,1,39,0,2.08

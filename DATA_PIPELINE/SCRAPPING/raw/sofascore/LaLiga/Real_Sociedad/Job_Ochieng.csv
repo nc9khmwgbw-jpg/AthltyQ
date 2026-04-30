@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Job Ochieng,2026-01-10,Real Sociedad B U21,Albacete Balompié,6.8,82,,,0.0,0,0,0.0,0.0,21,25,1,0,1,0,8,42
-Job Ochieng,2026-01-18,Real Sociedad,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Job Ochieng,2026-01-25,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Job Ochieng,2026-02-01,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Job Ochieng,2026-02-07,Real Sociedad,Elche,6.7,25,,,0.0,0,0,0.0,0.04,9,12,2,0,0,0,3,22
-Job Ochieng,2026-02-11,Athletic Club,Real Sociedad,,1,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1
-Job Ochieng,2026-02-14,Real Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Job Ochieng,2026-02-16,Real Sociedad B U21,Málaga CF,7.4,77,,,0.0,1,0,0.0,0.0,11,18,0,0,0,0,3,33
-Job Ochieng,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Job Ochieng,2026-02-23,Cádiz,Real Sociedad B U21,7.7,79,,,0.0,1,0,0.0,0.0,23,26,2,0,0,0,3,49
-Job Ochieng,2026-03-01,Real Sociedad B U21,Deportivo La Coruña,7.8,76,,,0.0,1,0,0.0,0.0,9,14,0,0,0,0,5,36
-Job Ochieng,2026-03-07,Real Sociedad B U21,CD Castellón,9.4,81,,,0.0,2,0,0.0,0.0,9,14,2,0,1,0,4,38
-Job Ochieng,2026-03-15,Córdoba,Real Sociedad B U21,7.7,71,,,0.0,1,0,0.0,0.0,4,8,0,0,0,0,3,23
-Job Ochieng,2026-03-22,Real Sociedad B U21,Granada,7.3,90,,,0.0,0,0,0.0,0.0,20,23,2,0,0,0,9,53
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Job Ochieng,2026-01-10,Real Sociedad B U21,Albacete Balompié,6.8,82,8886.0,17.0,108.37,0,0,0.0,0.0,21,25,1,0,1,0,8,42,0,1.91
+Job Ochieng,2026-01-18,Real Sociedad,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Job Ochieng,2026-01-25,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Job Ochieng,2026-02-01,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Job Ochieng,2026-02-07,Real Sociedad,Elche,6.7,25,2755.0,5.0,110.2,0,0,0.0,0.04,9,12,2,0,0,0,3,22,0,1.81
+Job Ochieng,2026-02-11,Athletic Club,Real Sociedad,,1,109.0,0.0,109.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,0.0
+Job Ochieng,2026-02-14,Real Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Job Ochieng,2026-02-16,Real Sociedad B U21,Málaga CF,7.4,77,8261.0,15.0,107.29,1,0,0.0,0.0,11,18,0,0,0,0,3,33,0,1.82
+Job Ochieng,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Job Ochieng,2026-02-23,Cádiz,Real Sociedad B U21,7.7,79,8538.0,15.0,108.08,1,0,0.0,0.0,23,26,2,0,0,0,3,49,0,1.76
+Job Ochieng,2026-03-01,Real Sociedad B U21,Deportivo La Coruña,7.8,76,8194.0,15.0,107.82,1,0,0.0,0.0,9,14,0,0,0,0,5,36,0,1.83
+Job Ochieng,2026-03-07,Real Sociedad B U21,CD Castellón,9.4,81,8715.0,17.0,107.59,2,0,0.0,0.0,9,14,2,0,1,0,4,38,0,1.95
+Job Ochieng,2026-03-15,Córdoba,Real Sociedad B U21,7.7,71,7589.0,14.0,106.89,1,0,0.0,0.0,4,8,0,0,0,0,3,23,0,1.84
+Job Ochieng,2026-03-22,Real Sociedad B U21,Granada,7.3,90,9785.0,17.0,108.72,0,0,0.0,0.0,20,23,2,0,0,0,9,53,0,1.74

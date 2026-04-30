@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Andrei Rațiu,2026-02-28,Rayo Vallecano,Athletic Club,6.4,90,,,0.0,0,0,0.01,0.06,24,38,2,0,1,0,5,60
-Andrei Rațiu,2026-03-04,Rayo Vallecano,Real Oviedo,7.5,90,,,0.0,0,0,0.06,0.07,37,46,1,0,1,0,8,70
-Andrei Rațiu,2026-03-08,Sevilla,Rayo Vallecano,6.3,90,,,0.0,0,0,0.0,0.01,24,28,0,0,0,0,6,56
-Andrei Rațiu,2026-03-12,Samsunspor,Rayo Vallecano,6.2,90,,,0.0,0,0,0.0,0.01,20,30,1,0,0,0,4,47
-Andrei Rațiu,2026-03-16,Rayo Vallecano,Levante UD,7.3,25,,,0.0,0,0,0.05,0.23,18,20,2,0,1,0,2,36
-Andrei Rațiu,2026-03-19,Rayo Vallecano,Samsunspor,6.6,90,,,0.0,0,0,0.06,0.06,24,37,0,0,0,0,4,73
-Andrei Rațiu,2026-03-22,FC Barcelona,Rayo Vallecano,7.5,90,,,0.0,0,0,0.0,0.02,23,30,1,0,1,0,4,65
-Andrei Rațiu,2026-03-26,Türkiye,Romania,5.9,90,,,0.0,0,0,0.0,0.0,14,24,1,0,1,0,5,52
-Andrei Rațiu,2026-04-03,Rayo Vallecano,Elche,8.0,90,,,0.0,0,0,0.03,0.24,39,44,4,0,0,0,8,74
-Andrei Rațiu,2026-04-09,Rayo Vallecano,AEK Athens,7.1,90,,,0.0,0,0,0.0,0.12,27,36,1,0,1,0,1,62
-Andrei Rațiu,2026-04-12,Mallorca,Rayo Vallecano,6.2,90,,,0.0,0,0,0.0,0.17,42,53,2,0,2,0,7,92
-Andrei Rațiu,2026-04-16,AEK Athens,Rayo Vallecano,5.1,90,,,0.0,0,0,0.81,0.0,8,13,0,0,2,0,2,38
-Andrei Rațiu,2026-04-23,Rayo Vallecano,Espanyol,8.2,90,,,0.0,0,0,0.14,0.37,28,35,4,0,1,0,7,76
-Andrei Rațiu,2026-04-26,Rayo Vallecano,Real Sociedad,6.0,90,,,0.0,0,0,0.02,0.12,25,29,2,0,2,0,2,64
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Andrei Rațiu,2026-02-28,Rayo Vallecano,Athletic Club,6.4,90,9764.0,19.0,108.49,0,0,0.01,0.06,24,38,2,0,1,0,5,60,0,1.95
+Andrei Rațiu,2026-03-04,Rayo Vallecano,Real Oviedo,7.5,90,9844.0,19.0,109.38,0,0,0.06,0.07,37,46,1,0,1,0,8,70,0,1.93
+Andrei Rațiu,2026-03-08,Sevilla,Rayo Vallecano,6.3,90,9760.0,17.0,108.44,0,0,0.0,0.01,24,28,0,0,0,0,6,56,0,1.74
+Andrei Rațiu,2026-03-12,Samsunspor,Rayo Vallecano,6.2,90,9697.0,17.0,107.74,0,0,0.0,0.01,20,30,1,0,0,0,4,47,0,1.75
+Andrei Rațiu,2026-03-16,Rayo Vallecano,Levante UD,7.3,25,2801.0,6.0,112.04,0,0,0.05,0.23,18,20,2,0,1,0,2,36,0,2.14
+Andrei Rațiu,2026-03-19,Rayo Vallecano,Samsunspor,6.6,90,9807.0,17.0,108.97,0,0,0.06,0.06,24,37,0,0,0,0,4,73,0,1.73
+Andrei Rațiu,2026-03-22,FC Barcelona,Rayo Vallecano,7.5,90,9773.0,19.0,108.59,0,0,0.0,0.02,23,30,1,0,1,0,4,65,0,1.94
+Andrei Rațiu,2026-03-26,Türkiye,Romania,5.9,90,9731.0,19.0,108.12,0,0,0.0,0.0,14,24,1,0,1,0,5,52,0,1.95
+Andrei Rațiu,2026-04-03,Rayo Vallecano,Elche,8.0,90,9861.0,17.0,109.57,0,0,0.03,0.24,39,44,4,0,0,0,8,74,0,1.72
+Andrei Rațiu,2026-04-09,Rayo Vallecano,AEK Athens,7.1,90,9723.0,19.0,108.03,0,0,0.0,0.12,27,36,1,0,1,0,1,62,0,1.95
+Andrei Rațiu,2026-04-12,Mallorca,Rayo Vallecano,6.2,90,9924.0,20.0,110.27,0,0,0.0,0.17,42,53,2,0,2,0,7,92,0,2.02
+Andrei Rațiu,2026-04-16,AEK Athens,Rayo Vallecano,5.1,90,9635.0,20.0,107.06,0,0,0.81,0.0,8,13,0,0,2,0,2,38,0,2.08
+Andrei Rațiu,2026-04-23,Rayo Vallecano,Espanyol,8.2,90,9857.0,19.0,109.52,0,0,0.14,0.37,28,35,4,0,1,0,7,76,0,1.93
+Andrei Rațiu,2026-04-26,Rayo Vallecano,Real Sociedad,6.0,90,9744.0,20.0,108.27,0,0,0.02,0.12,25,29,2,0,2,0,2,64,0,2.05

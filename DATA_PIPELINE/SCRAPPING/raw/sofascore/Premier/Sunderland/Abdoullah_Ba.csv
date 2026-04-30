@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Abdoullah Ba,2025-02-07,Sunderland U21,Wolverhampton U21,,46,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdoullah Ba,2025-02-10,Caen,USL Dunkerque,6.5,11,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,5
-Abdoullah Ba,2025-02-15,USL Dunkerque,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdoullah Ba,2025-02-26,Stade Brestois,USL Dunkerque,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdoullah Ba,2025-04-07,USL Dunkerque,Guingamp,8.2,26,,,0.0,1,0,0.0,0.0,6,6,2,0,0,0,2,13
-Abdoullah Ba,2025-04-11,Amiens SC,USL Dunkerque,6.6,45,,,0.0,0,0,0.0,0.0,22,25,0,0,0,0,2,34
-Abdoullah Ba,2025-04-18,USL Dunkerque,Grenoble Foot 38,6.8,85,,,0.0,0,0,0.0,0.0,16,19,2,0,0,0,3,33
-Abdoullah Ba,2025-04-25,Troyes,USL Dunkerque,6.6,77,,,0.0,0,0,0.0,0.0,11,14,0,0,1,0,1,28
-Abdoullah Ba,2025-05-02,USL Dunkerque,Stade Lavallois,7.4,89,,,0.0,0,0,0.0,0.0,16,21,1,0,1,0,2,36
-Abdoullah Ba,2025-05-10,Red Star FC,USL Dunkerque,6.5,19,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3
-Abdoullah Ba,2025-05-14,USL Dunkerque,Guingamp,6.9,72,,,0.0,0,0,0.0,0.0,10,13,2,0,0,0,0,26
-Abdoullah Ba,2025-05-17,Metz,USL Dunkerque,6.6,27,,,0.0,0,0,0.0,0.0,3,5,0,0,0,0,1,11
-Abdoullah Ba,2025-10-21,Gateshead,Sunderland U21,,120,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdoullah Ba,2025-11-25,FC Halifax Town,Sunderland U21,,120,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdoullah Ba,2026-03-09,Sunderland U21,Leeds United U21,,46,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abdoullah Ba,2025-02-07,Sunderland U21,Wolverhampton U21,,46,4830.0,9.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86
+Abdoullah Ba,2025-02-10,Caen,USL Dunkerque,6.5,11,1176.0,2.0,106.91,0,0,0.0,0.0,3,3,0,0,0,0,0,5,0,1.7
+Abdoullah Ba,2025-02-15,USL Dunkerque,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdoullah Ba,2025-02-26,Stade Brestois,USL Dunkerque,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdoullah Ba,2025-04-07,USL Dunkerque,Guingamp,8.2,26,2810.0,5.0,108.08,1,0,0.0,0.0,6,6,2,0,0,0,2,13,0,1.78
+Abdoullah Ba,2025-04-11,Amiens SC,USL Dunkerque,6.6,45,4893.0,9.0,108.73,0,0,0.0,0.0,22,25,0,0,0,0,2,34,0,1.84
+Abdoullah Ba,2025-04-18,USL Dunkerque,Grenoble Foot 38,6.8,85,9101.0,16.0,107.07,0,0,0.0,0.0,16,19,2,0,0,0,3,33,0,1.76
+Abdoullah Ba,2025-04-25,Troyes,USL Dunkerque,6.6,77,8215.0,16.0,106.69,0,0,0.0,0.0,11,14,0,0,1,0,1,28,0,1.95
+Abdoullah Ba,2025-05-02,USL Dunkerque,Stade Lavallois,7.4,89,9521.0,19.0,106.98,0,0,0.0,0.0,16,21,1,0,1,0,2,36,0,2.0
+Abdoullah Ba,2025-05-10,Red Star FC,USL Dunkerque,6.5,19,2008.0,4.0,105.68,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,1.99
+Abdoullah Ba,2025-05-14,USL Dunkerque,Guingamp,6.9,72,7669.0,14.0,106.51,0,0,0.0,0.0,10,13,2,0,0,0,0,26,0,1.83
+Abdoullah Ba,2025-05-17,Metz,USL Dunkerque,6.6,27,2894.0,5.0,107.19,0,0,0.0,0.0,3,5,0,0,0,0,1,11,0,1.73
+Abdoullah Ba,2025-10-21,Gateshead,Sunderland U21,,120,12600.0,23.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.83
+Abdoullah Ba,2025-11-25,FC Halifax Town,Sunderland U21,,120,12600.0,23.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.83
+Abdoullah Ba,2026-03-09,Sunderland U21,Leeds United U21,,46,4830.0,9.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86

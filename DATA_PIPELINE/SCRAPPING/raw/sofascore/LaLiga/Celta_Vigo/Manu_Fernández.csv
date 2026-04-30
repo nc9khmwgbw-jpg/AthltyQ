@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Manu Fernández,2026-02-06,Celta Vigo,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-02-14,Espanyol,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-02-19,PAOK,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-02-22,Celta Vigo,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-02-26,Celta Vigo,PAOK,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-03-01,Girona FC,Celta Vigo,6.7,11,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4
-Manu Fernández,2026-03-06,Celta Vigo,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-03-19,Olympique Lyonnais,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-03-22,Celta Vigo,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-04-05,Valencia,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-04-09,SC Freiburg,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-04-12,Celta Vigo,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-04-16,Celta Vigo,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manu Fernández,2026-04-26,Villarreal,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Manu Fernández,2026-02-06,Celta Vigo,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-02-14,Espanyol,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-02-19,PAOK,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-02-22,Celta Vigo,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-02-26,Celta Vigo,PAOK,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-03-01,Girona FC,Celta Vigo,6.7,11,1172.0,2.0,106.55,0,0,0.0,0.0,2,2,0,0,0,0,0,4,0,1.71
+Manu Fernández,2026-03-06,Celta Vigo,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-03-19,Olympique Lyonnais,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-03-22,Celta Vigo,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-04-05,Valencia,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-04-09,SC Freiburg,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-04-12,Celta Vigo,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-04-16,Celta Vigo,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Manu Fernández,2026-04-26,Villarreal,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

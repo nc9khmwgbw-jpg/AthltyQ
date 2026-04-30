@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Chris Richards,2026-02-11,Crystal Palace,Burnley,6.0,90,,,0.0,0,0,0.16,0.01,55,64,1,0,1,0,6,87
-Chris Richards,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.0,90,,,0.0,0,0,0.21,0.05,97,104,0,0,0,0,6,119
-Chris Richards,2026-02-22,Crystal Palace,Wolverhampton,7.0,90,,,0.0,0,0,0.11,0.01,51,58,0,0,1,0,2,77
-Chris Richards,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,7.6,90,,,0.0,0,0,0.19,0.27,70,75,1,0,1,0,5,93
-Chris Richards,2026-03-01,Manchester United,Crystal Palace,6.3,90,,,0.0,0,0,0.0,0.01,52,60,1,0,2,0,1,77
-Chris Richards,2026-03-05,Tottenham Hotspur,Crystal Palace,7.3,90,,,0.0,0,0,0.0,0.04,80,83,0,0,3,0,1,110
-Chris Richards,2026-03-12,Crystal Palace,AEK Larnaca,8.6,90,,,0.0,0,0,0.15,0.23,87,97,1,0,2,0,4,122
-Chris Richards,2026-03-15,Crystal Palace,Leeds United,7.8,90,,,0.0,0,0,0.05,0.11,58,63,2,0,3,0,3,86
-Chris Richards,2026-03-19,AEK Larnaca,Crystal Palace,6.5,76,,,0.0,0,0,0.1,0.09,61,66,0,0,2,0,3,89
-Chris Richards,2026-04-01,USA,Portugal,6.3,90,,,0.0,0,0,0.0,0.0,35,39,0,0,0,0,4,47
-Chris Richards,2026-04-09,Crystal Palace,Fiorentina,7.1,90,,,0.0,0,0,0.0,0.01,41,47,0,0,0,0,3,56
-Chris Richards,2026-04-12,Crystal Palace,Newcastle United,6.6,90,,,0.0,0,0,0.0,0.01,27,35,0,0,1,0,3,53
-Chris Richards,2026-04-16,Fiorentina,Crystal Palace,7.1,90,,,0.0,0,0,0.04,0.0,13,21,0,0,0,0,0,39
-Chris Richards,2026-04-20,Crystal Palace,West Ham United,7.2,90,,,0.0,0,0,0.0,0.02,48,59,0,0,0,0,2,84
-Chris Richards,2026-04-25,Liverpool,Crystal Palace,5.6,90,,,0.0,0,0,0.62,0.0,39,46,0,0,1,0,3,63
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Chris Richards,2026-02-11,Crystal Palace,Burnley,6.0,90,9890.0,19.0,109.89,0,0,0.16,0.01,55,64,1,0,1,0,6,87,0,1.92
+Chris Richards,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.0,90,10025.0,17.0,111.39,0,0,0.21,0.05,97,104,0,0,0,0,6,119,0,1.7
+Chris Richards,2026-02-22,Crystal Palace,Wolverhampton,7.0,90,9798.0,19.0,108.87,0,0,0.11,0.01,51,58,0,0,1,0,2,77,0,1.94
+Chris Richards,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,7.6,90,9903.0,19.0,110.03,0,0,0.19,0.27,70,75,1,0,1,0,5,93,0,1.92
+Chris Richards,2026-03-01,Manchester United,Crystal Palace,6.3,90,9786.0,20.0,108.73,0,0,0.0,0.01,52,60,1,0,2,0,1,77,0,2.04
+Chris Richards,2026-03-05,Tottenham Hotspur,Crystal Palace,7.3,90,9924.0,22.0,110.27,0,0,0.0,0.04,80,83,0,0,3,0,1,110,0,2.22
+Chris Richards,2026-03-12,Crystal Palace,AEK Larnaca,8.6,90,10012.0,20.0,111.24,0,0,0.15,0.23,87,97,1,0,2,0,4,122,0,2.0
+Chris Richards,2026-03-15,Crystal Palace,Leeds United,7.8,90,9849.0,22.0,109.43,0,0,0.05,0.11,58,63,2,0,3,0,3,86,0,2.23
+Chris Richards,2026-03-19,AEK Larnaca,Crystal Palace,6.5,76,8391.0,17.0,110.41,0,0,0.1,0.09,61,66,0,0,2,0,3,89,0,2.03
+Chris Richards,2026-04-01,USA,Portugal,6.3,90,9697.0,17.0,107.74,0,0,0.0,0.0,35,39,0,0,0,0,4,47,0,1.75
+Chris Richards,2026-04-09,Crystal Palace,Fiorentina,7.1,90,9723.0,17.0,108.03,0,0,0.0,0.01,41,47,0,0,0,0,3,56,0,1.75
+Chris Richards,2026-04-12,Crystal Palace,Newcastle United,6.6,90,9710.0,19.0,107.89,0,0,0.0,0.01,27,35,0,0,1,0,3,53,0,1.96
+Chris Richards,2026-04-16,Fiorentina,Crystal Palace,7.1,90,9614.0,17.0,106.82,0,0,0.04,0.0,13,21,0,0,0,0,0,39,0,1.77
+Chris Richards,2026-04-20,Crystal Palace,West Ham United,7.2,90,9828.0,17.0,109.2,0,0,0.0,0.02,48,59,0,0,0,0,2,84,0,1.73
+Chris Richards,2026-04-25,Liverpool,Crystal Palace,5.6,90,9752.0,19.0,108.36,0,0,0.62,0.0,39,46,0,0,1,0,3,63,0,1.95

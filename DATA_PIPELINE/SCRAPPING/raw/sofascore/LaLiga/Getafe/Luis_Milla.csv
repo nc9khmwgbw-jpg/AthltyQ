@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Luis Milla,2026-01-09,Getafe,Real Sociedad,6.9,90,,,0.0,0,0,0.0,0.02,33,46,2,0,2,0,7,65
-Luis Milla,2026-01-18,Getafe,Valencia,7.2,90,,,0.0,0,0,0.04,0.34,39,48,2,0,2,0,6,80
-Luis Milla,2026-01-26,Girona FC,Getafe,7.4,90,,,0.0,0,0,0.0,0.2,28,30,3,0,1,0,5,43
-Luis Milla,2026-02-01,Getafe,Celta Vigo,7.5,90,,,0.0,0,0,0.05,0.22,39,47,3,0,1,0,9,65
-Luis Milla,2026-02-08,Deportivo Alavés,Getafe,8.1,90,,,0.0,0,0,0.0,0.34,29,42,7,0,1,0,8,60
-Luis Milla,2026-02-14,Getafe,Villarreal,7.6,90,,,0.0,0,0,0.22,0.04,25,33,0,0,0,0,5,63
-Luis Milla,2026-02-22,Getafe,Sevilla,6.2,90,,,0.0,0,0,0.0,0.02,13,23,1,0,0,0,4,39
-Luis Milla,2026-03-02,Real Madrid,Getafe,7.0,90,,,0.0,0,0,0.0,0.27,24,30,2,0,1,0,10,43
-Luis Milla,2026-03-08,Getafe,Real Betis,7.3,90,,,0.0,0,0,0.0,0.1,24,33,2,0,2,0,3,47
-Luis Milla,2026-03-14,Atlético Madrid,Getafe,6.2,89,,,0.0,0,0,0.31,0.01,27,37,0,0,0,0,5,50
-Luis Milla,2026-03-21,Espanyol,Getafe,7.4,90,,,0.0,0,0,0.0,0.21,27,34,4,0,2,0,7,64
-Luis Milla,2026-04-05,Getafe,Athletic Club,7.4,90,,,0.0,0,0,0.0,0.24,27,36,4,0,6,0,14,52
-Luis Milla,2026-04-13,Levante UD,Getafe,6.8,90,,,0.0,0,0,0.0,0.15,22,29,1,0,1,0,3,45
-Luis Milla,2026-04-22,Real Sociedad,Getafe,6.8,90,,,0.0,0,0,0.02,0.02,21,29,1,0,3,0,6,44
-Luis Milla,2026-04-25,Getafe,FC Barcelona,6.9,90,,,0.0,0,0,0.0,0.34,19,27,2,0,3,0,3,43
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Luis Milla,2026-01-09,Getafe,Real Sociedad,6.9,90,9810.0,20.0,109.0,0,0,0.0,0.02,33,46,2,0,2,0,7,65,0,2.04
+Luis Milla,2026-01-18,Getafe,Valencia,7.2,90,9861.0,20.0,109.57,0,0,0.04,0.34,39,48,2,0,2,0,6,80,0,2.03
+Luis Milla,2026-01-26,Girona FC,Getafe,7.4,90,9693.0,19.0,107.7,0,0,0.0,0.2,28,30,3,0,1,0,5,43,0,1.96
+Luis Milla,2026-02-01,Getafe,Celta Vigo,7.5,90,9836.0,19.0,109.29,0,0,0.05,0.22,39,47,3,0,1,0,9,65,0,1.93
+Luis Milla,2026-02-08,Deportivo Alavés,Getafe,8.1,90,9802.0,19.0,108.91,0,0,0.0,0.34,29,42,7,0,1,0,8,60,0,1.94
+Luis Milla,2026-02-14,Getafe,Villarreal,7.6,90,9777.0,17.0,108.63,0,0,0.22,0.04,25,33,0,0,0,0,5,63,0,1.74
+Luis Milla,2026-02-22,Getafe,Sevilla,6.2,90,9664.0,17.0,107.38,0,0,0.0,0.02,13,23,1,0,0,0,4,39,0,1.76
+Luis Milla,2026-03-02,Real Madrid,Getafe,7.0,90,9756.0,19.0,108.4,0,0,0.0,0.27,24,30,2,0,1,0,10,43,0,1.95
+Luis Milla,2026-03-08,Getafe,Real Betis,7.3,90,9685.0,20.0,107.61,0,0,0.0,0.1,24,33,2,0,2,0,3,47,0,2.07
+Luis Milla,2026-03-14,Atlético Madrid,Getafe,6.2,89,9618.0,17.0,108.07,0,0,0.31,0.01,27,37,0,0,0,0,5,50,0,1.77
+Luis Milla,2026-03-21,Espanyol,Getafe,7.4,90,9806.0,20.0,108.96,0,0,0.0,0.21,27,34,4,0,2,0,7,64,0,2.04
+Luis Milla,2026-04-05,Getafe,Athletic Club,7.4,90,9843.0,26.0,109.37,0,0,0.0,0.24,27,36,4,0,6,0,14,52,0,2.64
+Luis Milla,2026-04-13,Levante UD,Getafe,6.8,90,9676.0,19.0,107.51,0,0,0.0,0.15,22,29,1,0,1,0,3,45,0,1.96
+Luis Milla,2026-04-22,Real Sociedad,Getafe,6.8,90,9710.0,22.0,107.89,0,0,0.02,0.02,21,29,1,0,3,0,6,44,0,2.27
+Luis Milla,2026-04-25,Getafe,FC Barcelona,6.9,90,9668.0,22.0,107.42,0,0,0.0,0.34,19,27,2,0,3,0,3,43,0,2.28

@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pape Cabral,2025-10-18,Angers,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2025-10-22,AS Monaco,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2025-10-25,AS Monaco,Toulouse,6.6,14,,,0.0,0,0,0.48,0.0,7,9,0,0,0,0,1,14
-Pape Cabral,2025-10-29,Nantes,AS Monaco,6.5,21,,,0.0,0,0,0.04,0.03,8,9,0,0,0,0,1,13
-Pape Cabral,2025-11-01,AS Monaco,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2025-11-04,Bodø/Glimt,AS Monaco,7.0,26,,,0.0,0,0,0.0,0.0,10,10,0,0,0,0,0,18
-Pape Cabral,2025-11-08,AS Monaco,RC Lens,6.7,29,,,0.0,0,0,0.0,0.02,17,21,0,0,0,0,1,25
-Pape Cabral,2025-11-26,Pafos FC,AS Monaco,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2025-12-02,Southampton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2025-12-05,Stade Brestois,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2025-12-21,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2026-04-10,Paris FC,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Cabral,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pape Cabral,2025-10-18,Angers,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Cabral,2025-10-22,AS Monaco,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Cabral,2025-10-25,AS Monaco,Toulouse,6.6,14,1541.0,3.0,110.07,0,0,0.48,0.0,7,9,0,0,0,0,1,14,0,1.95
+Pape Cabral,2025-10-29,Nantes,AS Monaco,6.5,21,2272.0,4.0,108.19,0,0,0.04,0.03,8,9,0,0,0,0,1,13,0,1.76
+Pape Cabral,2025-11-01,AS Monaco,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Cabral,2025-11-04,Bodø/Glimt,AS Monaco,7.0,26,2806.0,5.0,107.92,0,0,0.0,0.0,10,10,0,0,0,0,0,18,0,1.78
+Pape Cabral,2025-11-08,AS Monaco,RC Lens,6.7,29,3162.0,6.0,109.03,0,0,0.0,0.02,17,21,0,0,0,0,1,25,0,1.9
+Pape Cabral,2025-11-26,Pafos FC,AS Monaco,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Pape Cabral,2025-12-02,Southampton U21,AS Monaco U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Cabral,2025-12-05,Stade Brestois,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Cabral,2025-12-21,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Cabral,2026-04-10,Paris FC,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Cabral,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

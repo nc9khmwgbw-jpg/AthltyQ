@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jessy Deminguet,2025-12-20,ASC Biesheim,Metz,7.2,90,,,0.0,0,0,0.0,0.0,53,62,0,0,2,0,4,95
-Jessy Deminguet,2026-01-04,Lorient,Metz,6.5,45,,,0.0,0,0,0.0,0.01,35,36,0,0,1,0,1,43
-Jessy Deminguet,2026-01-18,RC Strasbourg,Metz,7.0,71,,,0.0,0,0,0.01,0.01,36,39,0,0,0,0,0,55
-Jessy Deminguet,2026-01-25,Metz,Olympique Lyonnais,6.6,62,,,0.0,0,0,0.0,0.01,33,36,0,0,0,0,2,41
-Jessy Deminguet,2026-02-01,Angers,Metz,6.8,32,,,0.0,0,0,0.0,0.04,10,12,1,0,0,0,1,22
-Jessy Deminguet,2026-02-06,Metz,Lille,6.7,70,,,0.0,0,0,0.0,0.16,19,24,1,0,1,0,4,34
-Jessy Deminguet,2026-02-15,Metz,Auxerre,6.3,45,,,0.0,0,0,0.0,0.01,30,37,0,0,0,0,5,42
-Jessy Deminguet,2026-02-21,Paris Saint-Germain,Metz,6.4,24,,,0.0,0,0,0.04,0.04,14,16,0,0,0,0,0,18
-Jessy Deminguet,2026-03-08,RC Lens,Metz,6.4,45,,,0.0,0,0,0.0,0.01,26,28,0,0,0,0,1,37
-Jessy Deminguet,2026-03-15,Metz,Toulouse,6.2,70,,,0.0,0,0,0.09,0.0,14,18,0,0,3,0,2,36
-Jessy Deminguet,2026-03-22,Stade Rennais,Metz,6.7,80,,,0.0,0,0,0.0,0.0,7,12,0,0,1,0,1,25
-Jessy Deminguet,2026-04-05,Metz,Nantes,7.5,87,,,0.0,0,0,0.25,0.03,43,49,0,0,1,0,5,64
-Jessy Deminguet,2026-04-10,Olympique de Marseille,Metz,6.6,81,,,0.0,0,0,0.18,0.01,24,25,0,0,0,0,1,36
-Jessy Deminguet,2026-04-19,Metz,Paris FC,6.8,75,,,0.0,0,0,0.0,0.08,34,38,0,0,0,0,3,45
-Jessy Deminguet,2026-04-26,Le Havre,Metz,6.8,82,,,0.0,0,0,0.04,0.02,37,38,0,0,0,0,2,48
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jessy Deminguet,2025-12-20,ASC Biesheim,Metz,7.2,90,9899.0,20.0,109.99,0,0,0.0,0.0,53,62,0,0,2,0,4,95,0,2.02
+Jessy Deminguet,2026-01-04,Lorient,Metz,6.5,45,4918.0,10.0,109.29,0,0,0.0,0.01,35,36,0,0,1,0,1,43,0,2.03
+Jessy Deminguet,2026-01-18,RC Strasbourg,Metz,7.0,71,7686.0,14.0,108.25,0,0,0.01,0.01,36,39,0,0,0,0,0,55,0,1.82
+Jessy Deminguet,2026-01-25,Metz,Olympique Lyonnais,6.6,62,6707.0,12.0,108.18,0,0,0.0,0.01,33,36,0,0,0,0,2,41,0,1.79
+Jessy Deminguet,2026-02-01,Angers,Metz,6.8,32,3465.0,6.0,108.28,0,0,0.0,0.04,10,12,1,0,0,0,1,22,0,1.73
+Jessy Deminguet,2026-02-06,Metz,Lille,6.7,70,7543.0,15.0,107.76,0,0,0.0,0.16,19,24,1,0,1,0,4,34,0,1.99
+Jessy Deminguet,2026-02-15,Metz,Auxerre,6.3,45,4964.0,9.0,110.31,0,0,0.0,0.01,30,37,0,0,0,0,5,42,0,1.81
+Jessy Deminguet,2026-02-21,Paris Saint-Germain,Metz,6.4,24,2596.0,5.0,108.17,0,0,0.04,0.04,14,16,0,0,0,0,0,18,0,1.93
+Jessy Deminguet,2026-03-08,RC Lens,Metz,6.4,45,4893.0,9.0,108.73,0,0,0.0,0.01,26,28,0,0,0,0,1,37,0,1.84
+Jessy Deminguet,2026-03-15,Metz,Toulouse,6.2,70,7526.0,18.0,107.51,0,0,0.09,0.0,14,18,0,0,3,0,2,36,0,2.39
+Jessy Deminguet,2026-03-22,Stade Rennais,Metz,6.7,80,8518.0,17.0,106.48,0,0,0.0,0.0,7,12,0,0,1,0,1,25,0,2.0
+Jessy Deminguet,2026-04-05,Metz,Nantes,7.5,87,9466.0,18.0,108.8,0,0,0.25,0.03,43,49,0,0,1,0,5,64,0,1.9
+Jessy Deminguet,2026-04-10,Olympique de Marseille,Metz,6.6,81,8669.0,16.0,107.02,0,0,0.18,0.01,24,25,0,0,0,0,1,36,0,1.85
+Jessy Deminguet,2026-04-19,Metz,Paris FC,6.8,75,8102.0,14.0,108.03,0,0,0.0,0.08,34,38,0,0,0,0,3,45,0,1.73
+Jessy Deminguet,2026-04-26,Le Havre,Metz,6.8,82,8837.0,16.0,107.77,0,0,0.04,0.02,37,38,0,0,0,0,2,48,0,1.81

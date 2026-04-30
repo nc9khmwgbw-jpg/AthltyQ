@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Francisco Sierralta,2025-10-26,Auxerre,Le Havre,0.0,90,,,0.0,0,0,0.0,0.0,26,0,0,0,0,0,2,0
-Francisco Sierralta,2025-10-29,RC Strasbourg,Auxerre,0.0,76,,,0.0,0,0,0.0,0.0,23,0,0,0,0,0,0,0
-Francisco Sierralta,2025-11-01,Auxerre,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2025-11-09,Angers,Auxerre,0.0,90,,,0.0,0,0,0.0,0.0,35,0,0,0,2,0,5,0
-Francisco Sierralta,2025-11-29,Paris FC,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2025-12-14,Auxerre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2025-12-21,Auxerre,AS Monaco,0.0,90,,,0.0,0,0,0.0,0.0,35,0,0,0,4,0,3,0
-Francisco Sierralta,2026-03-01,Lorient,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2026-03-07,Auxerre,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2026-03-21,Auxerre,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2026-04-11,Auxerre,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Francisco Sierralta,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Francisco Sierralta,2025-10-26,Auxerre,Le Havre,0.0,90,9475.0,17.0,105.28,0,0,0.0,0.0,26,0,0,0,0,0,2,0,0,1.79
+Francisco Sierralta,2025-10-29,RC Strasbourg,Auxerre,0.0,76,7980.0,15.0,105.0,0,0,0.0,0.0,23,0,0,0,0,0,0,0,0,1.88
+Francisco Sierralta,2025-11-01,Auxerre,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2025-11-09,Angers,Auxerre,0.0,90,9512.0,20.0,105.69,0,0,0.0,0.0,35,0,0,0,2,0,5,0,0,2.1
+Francisco Sierralta,2025-11-29,Paris FC,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2025-12-14,Auxerre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2025-12-21,Auxerre,AS Monaco,0.0,90,9488.0,23.0,105.42,0,0,0.0,0.0,35,0,0,0,4,0,3,0,0,2.42
+Francisco Sierralta,2026-03-01,Lorient,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2026-03-07,Auxerre,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2026-03-21,Auxerre,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2026-04-11,Auxerre,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Francisco Sierralta,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

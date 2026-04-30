@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Facundo Buonanotte,2025-12-09,Atalanta,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2025-12-16,Cardiff City,Chelsea,6.9,66,,,0.0,0,0,0.0,0.0,19,22,3,0,2,0,4,44
-Facundo Buonanotte,2025-12-20,Newcastle United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2025-12-30,Chelsea,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2026-01-10,Charlton Athletic,Chelsea,7.6,69,,,0.0,0,0,0.0,0.0,38,44,3,0,0,0,1,62
-Facundo Buonanotte,2026-01-14,Chelsea,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2026-01-17,Leeds United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2026-01-26,Everton,Leeds United,6.5,10,,,0.0,0,0,0.04,0.01,2,3,0,0,1,0,1,5
-Facundo Buonanotte,2026-01-31,Leeds United,Arsenal,6.3,19,,,0.0,0,0,0.0,0.0,2,5,0,0,0,0,0,11
-Facundo Buonanotte,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2026-02-15,Birmingham City,Leeds United,6.3,45,,,0.0,0,0,0.0,0.0,15,19,0,0,0,0,3,30
-Facundo Buonanotte,2026-03-08,Leeds United,Norwich City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2026-04-13,Manchester United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2026-04-18,Leeds United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Buonanotte,2026-04-22,Bournemouth,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Facundo Buonanotte,2025-12-09,Atalanta,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2025-12-16,Cardiff City,Chelsea,6.9,66,7165.0,15.0,108.56,0,0,0.0,0.0,19,22,3,0,2,0,4,44,0,2.09
+Facundo Buonanotte,2025-12-20,Newcastle United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2025-12-30,Chelsea,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2026-01-10,Charlton Athletic,Chelsea,7.6,69,7518.0,13.0,108.96,0,0,0.0,0.0,38,44,3,0,0,0,1,62,0,1.73
+Facundo Buonanotte,2026-01-14,Chelsea,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2026-01-17,Leeds United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2026-01-26,Everton,Leeds United,6.5,10,1084.0,3.0,108.4,0,0,0.04,0.01,2,3,0,0,1,0,1,5,0,2.77
+Facundo Buonanotte,2026-01-31,Leeds United,Arsenal,6.3,19,2041.0,4.0,107.42,0,0,0.0,0.0,2,5,0,0,0,0,0,11,0,1.96
+Facundo Buonanotte,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2026-02-15,Birmingham City,Leeds United,6.3,45,4888.0,9.0,108.62,0,0,0.0,0.0,15,19,0,0,0,0,3,30,0,1.84
+Facundo Buonanotte,2026-03-08,Leeds United,Norwich City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2026-04-13,Manchester United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2026-04-18,Leeds United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Buonanotte,2026-04-22,Bournemouth,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

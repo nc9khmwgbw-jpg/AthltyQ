@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Charlie Holland,2025-03-08,West Bromwich Albion U18,Chelsea U18,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-09-13,Arsenal U18,Chelsea U18,,46,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-09-20,Chelsea U18,Brighton U18,,63,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-09-27,West Bromwich Albion U18,Chelsea U18,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-10-18,Chelsea U18,Tottenham Hotspur U18,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-10-22,Chelsea U19,Ajax U19,6.9,4,,,0.0,1,0,0.0,0.0,2,2,0,0,0,0,0,4
-Charlie Holland,2025-10-28,England U17,Scotland U17,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-11-03,Sweden U17,England U17,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-11-05,Qarabağ U19,Chelsea U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-11-08,Chelsea U18,Norwich City U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-11-25,Chelsea U19,Barcelona U19,6.7,18,,,0.0,0,0,0.0,0.0,7,7,0,0,0,0,1,12
-Charlie Holland,2025-11-29,West Ham United U18,Chelsea U18,,89,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-12-06,Ipswich Town U18,Chelsea U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Holland,2025-12-09,Atalanta U19,Chelsea U19,7.5,90,,,0.0,0,0,0.0,0.0,85,87,0,0,0,0,4,100
-Charlie Holland,2026-02-03,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Charlie Holland,2025-03-08,West Bromwich Albion U18,Chelsea U18,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Charlie Holland,2025-09-13,Arsenal U18,Chelsea U18,,46,4830.0,9.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86
+Charlie Holland,2025-09-20,Chelsea U18,Brighton U18,,63,6615.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.81
+Charlie Holland,2025-09-27,West Bromwich Albion U18,Chelsea U18,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Charlie Holland,2025-10-18,Chelsea U18,Tottenham Hotspur U18,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Charlie Holland,2025-10-22,Chelsea U19,Ajax U19,6.9,4,437.0,1.0,109.25,1,0,0.0,0.0,2,2,0,0,0,0,0,4,0,2.29
+Charlie Holland,2025-10-28,England U17,Scotland U17,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Charlie Holland,2025-11-03,Sweden U17,England U17,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Charlie Holland,2025-11-05,Qarabağ U19,Chelsea U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Charlie Holland,2025-11-08,Chelsea U18,Norwich City U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Charlie Holland,2025-11-25,Chelsea U19,Barcelona U19,6.7,18,1953.0,3.0,108.5,0,0,0.0,0.0,7,7,0,0,0,0,1,12,0,1.54
+Charlie Holland,2025-11-29,West Ham United U18,Chelsea U18,,89,9345.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.82
+Charlie Holland,2025-12-06,Ipswich Town U18,Chelsea U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Charlie Holland,2025-12-09,Atalanta U19,Chelsea U19,7.5,90,9920.0,17.0,110.22,0,0,0.0,0.0,85,87,0,0,0,0,4,100,0,1.71
+Charlie Holland,2026-02-03,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

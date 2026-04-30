@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Arsène Kouassi,2026-01-16,AS Monaco,Lorient,6.5,90,,,0.0,0,0,0.0,0.04,33,36,2,0,2,0,5,60
-Arsène Kouassi,2026-01-24,Stade Rennais,Lorient,7.1,90,,,0.0,0,0,0.0,0.03,13,19,0,0,0,0,6,52
-Arsène Kouassi,2026-01-31,Lorient,Nantes,7.6,90,,,0.0,1,0,0.06,0.03,23,26,0,0,1,0,3,46
-Arsène Kouassi,2026-02-04,Lorient,Paris FC,6.8,68,,,0.0,0,0,0.0,0.0,20,26,2,0,1,0,2,41
-Arsène Kouassi,2026-02-07,Stade Brestois,Lorient,6.4,64,,,0.0,0,0,0.0,0.01,19,22,0,0,0,0,3,30
-Arsène Kouassi,2026-02-15,Lorient,Angers,6.8,90,,,0.0,0,1,0.0,0.04,26,31,2,0,0,0,3,49
-Arsène Kouassi,2026-02-22,Nice,Lorient,6.6,45,,,0.0,0,0,0.0,0.02,13,15,0,0,0,0,1,25
-Arsène Kouassi,2026-03-04,Lorient,Nice,7.6,90,,,0.0,0,0,0.0,0.0,20,24,1,0,2,0,5,47
-Arsène Kouassi,2026-03-08,Lille,Lorient,6.4,74,,,0.0,0,0,0.0,0.0,30,34,1,0,2,0,5,59
-Arsène Kouassi,2026-03-14,Lorient,RC Lens,7.7,90,,,0.0,0,1,0.0,0.6,21,29,2,0,1,0,5,49
-Arsène Kouassi,2026-03-21,Toulouse,Lorient,6.7,90,,,0.0,0,0,0.02,0.01,32,36,0,0,0,0,3,58
-Arsène Kouassi,2026-04-05,Lorient,Paris FC,6.7,90,,,0.0,0,0,0.0,0.03,22,27,0,0,0,0,1,47
-Arsène Kouassi,2026-04-12,Olympique Lyonnais,Lorient,6.6,73,,,0.0,0,0,0.03,0.12,22,24,1,0,0,0,4,31
-Arsène Kouassi,2026-04-26,Lorient,RC Strasbourg,7.3,90,,,0.0,0,0,0.0,0.07,23,25,2,0,1,0,6,34
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Arsène Kouassi,2026-01-16,AS Monaco,Lorient,6.5,90,9764.0,20.0,108.49,0,0,0.0,0.04,33,36,2,0,2,0,5,60,0,2.05
+Arsène Kouassi,2026-01-24,Stade Rennais,Lorient,7.1,90,9743.0,17.0,108.26,0,0,0.0,0.03,13,19,0,0,0,0,6,52,0,1.74
+Arsène Kouassi,2026-01-31,Lorient,Nantes,7.6,90,9681.0,19.0,107.57,1,0,0.06,0.03,23,26,0,0,1,0,3,46,0,1.96
+Arsène Kouassi,2026-02-04,Lorient,Paris FC,6.8,68,7337.0,14.0,107.9,0,0,0.0,0.0,20,26,2,0,1,0,2,41,0,1.91
+Arsène Kouassi,2026-02-07,Stade Brestois,Lorient,6.4,64,6884.0,12.0,107.56,0,0,0.0,0.01,19,22,0,0,0,0,3,30,0,1.74
+Arsène Kouassi,2026-02-15,Lorient,Angers,6.8,90,9693.0,17.0,107.7,0,1,0.0,0.04,26,31,2,0,0,0,3,49,0,1.75
+Arsène Kouassi,2026-02-22,Nice,Lorient,6.6,45,4842.0,9.0,107.6,0,0,0.0,0.02,13,15,0,0,0,0,1,25,0,1.86
+Arsène Kouassi,2026-03-04,Lorient,Nice,7.6,90,9710.0,20.0,107.89,0,0,0.0,0.0,20,24,1,0,2,0,5,47,0,2.06
+Arsène Kouassi,2026-03-08,Lille,Lorient,6.4,74,8080.0,17.0,109.19,0,0,0.0,0.0,30,34,1,0,2,0,5,59,0,2.1
+Arsène Kouassi,2026-03-14,Lorient,RC Lens,7.7,90,9718.0,19.0,107.98,0,1,0.0,0.6,21,29,2,0,1,0,5,49,0,1.96
+Arsène Kouassi,2026-03-21,Toulouse,Lorient,6.7,90,9731.0,17.0,108.12,0,0,0.02,0.01,32,36,0,0,0,0,3,58,0,1.75
+Arsène Kouassi,2026-04-05,Lorient,Paris FC,6.7,90,9660.0,17.0,107.33,0,0,0.0,0.03,22,27,0,0,0,0,1,47,0,1.76
+Arsène Kouassi,2026-04-12,Olympique Lyonnais,Lorient,6.6,73,7845.0,14.0,107.47,0,0,0.03,0.12,22,24,1,0,0,0,4,31,0,1.78
+Arsène Kouassi,2026-04-26,Lorient,RC Strasbourg,7.3,90,9668.0,19.0,107.42,0,0,0.0,0.07,23,25,2,0,1,0,6,34,0,1.97

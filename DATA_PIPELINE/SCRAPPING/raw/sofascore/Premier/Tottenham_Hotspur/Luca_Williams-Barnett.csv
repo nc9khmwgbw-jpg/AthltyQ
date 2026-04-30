@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Luca Williams-Barnett,2025-11-29,Tottenham Hotspur U18,Arsenal U18,,64,,,0.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2025-12-09,Tottenham Hotspur,SK Slavia Praha,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-01-04,Tottenham Hotspur,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-01-07,Bournemouth,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-01-10,Tottenham Hotspur,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-01-16,Burnley U21,Tottenham U21,,68,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-01-20,Tottenham Hotspur,Borussia Dortmund,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-01-23,Stoke City U21,Tottenham U21,,67,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-01-24,Burnley,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-02-04,Real Betis U19,Tottenham U19,8.1,76,,,0.0,1,0,0.0,0.0,10,14,2,0,0,0,3,44
-Luca Williams-Barnett,2026-02-07,Manchester United,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-02-10,Tottenham Hotspur,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-02-20,Tottenham U21,Norwich City U21,,56,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,2026-02-22,Tottenham Hotspur,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Luca Williams-Barnett,2025-11-29,Tottenham Hotspur U18,Arsenal U18,,64,6720.0,12.0,105.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79
+Luca Williams-Barnett,2025-12-09,Tottenham Hotspur,SK Slavia Praha,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-01-04,Tottenham Hotspur,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-01-07,Bournemouth,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-01-10,Tottenham Hotspur,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-01-16,Burnley U21,Tottenham U21,,68,7140.0,13.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.82
+Luca Williams-Barnett,2026-01-20,Tottenham Hotspur,Borussia Dortmund,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-01-23,Stoke City U21,Tottenham U21,,67,7035.0,13.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.85
+Luca Williams-Barnett,2026-01-24,Burnley,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-02-04,Real Betis U19,Tottenham U19,8.1,76,8202.0,15.0,107.92,1,0,0.0,0.0,10,14,2,0,0,0,3,44,0,1.83
+Luca Williams-Barnett,2026-02-07,Manchester United,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-02-10,Tottenham Hotspur,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Williams-Barnett,2026-02-20,Tottenham U21,Norwich City U21,,56,5880.0,11.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.87
+Luca Williams-Barnett,2026-02-22,Tottenham Hotspur,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

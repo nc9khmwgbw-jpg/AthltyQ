@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Nehemiah Oriola,2025-12-14,Brighton & Hove Albion U21,Paris Saint-Germain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2025-12-20,Brighton & Hove Albion,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-01-16,Southampton U21,Brighton & Hove Albion U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-01-20,Brighton & Hove Albion U21,GNK Dinamo Zagreb U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-01-26,Manchester United U21,Brighton & Hove Albion U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-01-30,Brighton & Hove Albion U21,Liverpool U21,,76,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-02-06,Brighton & Hove Albion U21,Sunderland U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-02-16,Wolverhampton U21,Brighton & Hove Albion U21,,90,,,0.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-02-22,Brighton & Hove Albion U21,Birmingham City U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-02-27,Newcastle United U21,Brighton & Hove Albion U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-03-06,Brighton & Hove Albion U21,Fulham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-03-16,Burnley U21,Brighton & Hove Albion U21,,82,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-03-22,Brighton & Hove Albion U21,Everton U21,,85,,,0.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-04-03,Brighton & Hove Albion U21,Aston Villa U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nehemiah Oriola,2026-04-24,Ipswich Town U21,Brighton & Hove Albion U21,,76,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nehemiah Oriola,2025-12-14,Brighton & Hove Albion U21,Paris Saint-Germain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nehemiah Oriola,2025-12-20,Brighton & Hove Albion,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nehemiah Oriola,2026-01-16,Southampton U21,Brighton & Hove Albion U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-01-20,Brighton & Hove Albion U21,GNK Dinamo Zagreb U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nehemiah Oriola,2026-01-26,Manchester United U21,Brighton & Hove Albion U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-01-30,Brighton & Hove Albion U21,Liverpool U21,,76,7980.0,15.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.88
+Nehemiah Oriola,2026-02-06,Brighton & Hove Albion U21,Sunderland U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-02-16,Wolverhampton U21,Brighton & Hove Albion U21,,90,9450.0,17.0,105.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-02-22,Brighton & Hove Albion U21,Birmingham City U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-02-27,Newcastle United U21,Brighton & Hove Albion U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-03-06,Brighton & Hove Albion U21,Fulham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-03-16,Burnley U21,Brighton & Hove Albion U21,,82,8610.0,16.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86
+Nehemiah Oriola,2026-03-22,Brighton & Hove Albion U21,Everton U21,,85,8925.0,16.0,105.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79
+Nehemiah Oriola,2026-04-03,Brighton & Hove Albion U21,Aston Villa U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Nehemiah Oriola,2026-04-24,Ipswich Town U21,Brighton & Hove Albion U21,,76,7980.0,15.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.88

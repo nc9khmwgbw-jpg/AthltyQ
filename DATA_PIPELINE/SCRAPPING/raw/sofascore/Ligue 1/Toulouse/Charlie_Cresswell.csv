@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Charlie Cresswell,2025-12-20,Lyon-La Duchère,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Charlie Cresswell,2026-01-02,Toulouse,RC Lens,6.0,90,,,0.0,0,0,0.0,0.01,24,33,0,0,2,0,6,46
-Charlie Cresswell,2026-01-10,Angers,Toulouse,7.0,90,,,0.0,0,0,0.0,0.0,43,51,1,0,1,0,2,61
-Charlie Cresswell,2026-01-17,Toulouse,Nice,7.5,90,,,0.0,0,0,0.0,0.01,50,57,0,0,1,0,1,70
-Charlie Cresswell,2026-01-25,Stade Brestois,Toulouse,7.6,90,,,0.0,0,0,0.05,0.0,26,35,0,0,0,0,0,53
-Charlie Cresswell,2026-02-01,Toulouse,Auxerre,7.5,90,,,0.0,0,0,0.04,0.01,71,83,0,0,1,0,2,97
-Charlie Cresswell,2026-02-08,Angers,Toulouse,6.6,90,,,0.0,0,0,0.0,0.01,65,71,0,0,2,0,0,83
-Charlie Cresswell,2026-02-15,Le Havre,Toulouse,6.0,90,,,0.0,0,0,0.14,0.07,68,74,1,0,1,0,4,89
-Charlie Cresswell,2026-02-21,Toulouse,Paris FC,6.9,90,,,0.0,0,0,0.22,0.04,54,66,1,0,0,0,3,76
-Charlie Cresswell,2026-02-28,Stade Rennais,Toulouse,6.8,90,,,0.0,0,0,0.19,0.01,34,43,0,0,1,0,2,59
-Charlie Cresswell,2026-03-04,Olympique de Marseille,Toulouse,7.3,65,,,0.0,1,0,0.0,0.0,24,27,0,0,0,0,2,31
-Charlie Cresswell,2026-04-12,Toulouse,Lille,6.0,31,,,0.0,0,0,0.0,0.0,16,21,0,0,1,0,2,26
-Charlie Cresswell,2026-04-17,RC Lens,Toulouse,6.6,72,,,0.0,0,0,0.0,0.0,8,10,0,0,0,0,2,19
-Charlie Cresswell,2026-04-21,RC Lens,Toulouse,5.8,90,,,0.0,0,0,0.0,0.0,49,54,0,0,0,0,3,66
-Charlie Cresswell,2026-04-25,Toulouse,AS Monaco,6.6,90,,,0.0,0,0,0.29,0.03,64,67,1,0,1,0,2,79
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Charlie Cresswell,2025-12-20,Lyon-La Duchère,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Charlie Cresswell,2026-01-02,Toulouse,RC Lens,6.0,90,9718.0,20.0,107.98,0,0,0.0,0.01,24,33,0,0,2,0,6,46,0,2.06
+Charlie Cresswell,2026-01-10,Angers,Toulouse,7.0,90,9731.0,19.0,108.12,0,0,0.0,0.0,43,51,1,0,1,0,2,61,0,1.95
+Charlie Cresswell,2026-01-17,Toulouse,Nice,7.5,90,9756.0,19.0,108.4,0,0,0.0,0.01,50,57,0,0,1,0,1,70,0,1.95
+Charlie Cresswell,2026-01-25,Stade Brestois,Toulouse,7.6,90,9673.0,17.0,107.48,0,0,0.05,0.0,26,35,0,0,0,0,0,53,0,1.76
+Charlie Cresswell,2026-02-01,Toulouse,Auxerre,7.5,90,9882.0,19.0,109.8,0,0,0.04,0.01,71,83,0,0,1,0,2,97,0,1.92
+Charlie Cresswell,2026-02-08,Angers,Toulouse,6.6,90,9799.0,20.0,108.88,0,0,0.0,0.01,65,71,0,0,2,0,0,83,0,2.04
+Charlie Cresswell,2026-02-15,Le Havre,Toulouse,6.0,90,9874.0,19.0,109.71,0,0,0.14,0.07,68,74,1,0,1,0,4,89,0,1.92
+Charlie Cresswell,2026-02-21,Toulouse,Paris FC,6.9,90,9807.0,17.0,108.97,0,0,0.22,0.04,54,66,1,0,0,0,3,76,0,1.73
+Charlie Cresswell,2026-02-28,Stade Rennais,Toulouse,6.8,90,9723.0,19.0,108.03,0,0,0.19,0.01,34,43,0,0,1,0,2,59,0,1.95
+Charlie Cresswell,2026-03-04,Olympique de Marseille,Toulouse,7.3,65,6980.0,12.0,107.38,1,0,0.0,0.0,24,27,0,0,0,0,2,31,0,1.72
+Charlie Cresswell,2026-04-12,Toulouse,Lille,6.0,31,3389.0,7.0,109.32,0,0,0.0,0.0,16,21,0,0,1,0,2,26,0,2.07
+Charlie Cresswell,2026-04-17,RC Lens,Toulouse,6.6,72,7665.0,14.0,106.46,0,0,0.0,0.0,8,10,0,0,0,0,2,19,0,1.83
+Charlie Cresswell,2026-04-21,RC Lens,Toulouse,5.8,90,9765.0,17.0,108.5,0,0,0.0,0.0,49,54,0,0,0,0,3,66,0,1.74
+Charlie Cresswell,2026-04-25,Toulouse,AS Monaco,6.6,90,9807.0,19.0,108.97,0,0,0.29,0.03,64,67,1,0,1,0,2,79,0,1.94

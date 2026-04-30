@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Cristian Romero,2026-01-01,Brentford,Tottenham Hotspur,7.4,90,,,0.0,0,0,0.05,0.04,36,45,0,0,1,0,6,60
-Cristian Romero,2026-01-04,Tottenham Hotspur,Sunderland,6.8,90,,,0.0,0,0,0.0,0.29,41,46,2,0,1,0,3,55
-Cristian Romero,2026-01-07,Bournemouth,Tottenham Hotspur,8.2,90,,,0.0,0,0,0.18,0.44,45,55,3,0,2,0,6,82
-Cristian Romero,2026-01-17,Tottenham Hotspur,West Ham United,8.5,90,,,0.0,1,0,0.17,0.12,51,60,1,0,2,0,5,76
-Cristian Romero,2026-01-20,Tottenham Hotspur,Borussia Dortmund,8.5,90,,,0.0,1,0,0.15,0.16,52,56,1,0,0,0,5,71
-Cristian Romero,2026-01-24,Burnley,Tottenham Hotspur,7.8,89,,,0.0,1,0,0.09,0.01,58,66,0,0,2,0,7,82
-Cristian Romero,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,8.5,90,,,0.0,0,0,0.06,0.57,82,85,3,0,2,0,6,95
-Cristian Romero,2026-02-01,Tottenham Hotspur,Manchester City,5.8,45,,,0.0,0,0,0.0,0.0,22,25,0,0,1,0,1,28
-Cristian Romero,2026-02-07,Manchester United,Tottenham Hotspur,5.3,29,,,0.0,0,0,0.0,0.02,12,13,0,0,0,0,2,19
-Cristian Romero,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.4,90,,,0.0,0,0,0.05,0.33,44,47,0,0,4,0,6,61
-Cristian Romero,2026-03-18,Tottenham Hotspur,Atlético Madrid,7.5,81,,,0.0,0,0,0.0,0.29,30,36,1,0,2,0,4,48
-Cristian Romero,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.1,90,,,0.0,0,0,0.02,0.04,59,68,1,0,0,0,6,84
-Cristian Romero,2026-03-28,Argentina,Mauritania,7.2,90,,,0.0,0,0,0.0,0.0,84,90,0,0,3,0,6,104
-Cristian Romero,2026-04-01,Argentina,Zambia,8.1,90,,,0.0,0,0,0.0,0.0,96,97,0,0,1,0,7,107
-Cristian Romero,2026-04-12,Sunderland,Tottenham Hotspur,7.1,70,,,0.0,0,0,0.04,0.01,29,32,1,0,2,0,2,47
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Cristian Romero,2026-01-01,Brentford,Tottenham Hotspur,7.4,90,9777.0,19.0,108.63,0,0,0.05,0.04,36,45,0,0,1,0,6,60,0,1.94
+Cristian Romero,2026-01-04,Tottenham Hotspur,Sunderland,6.8,90,9718.0,19.0,107.98,0,0,0.0,0.29,41,46,2,0,1,0,3,55,0,1.96
+Cristian Romero,2026-01-07,Bournemouth,Tottenham Hotspur,8.2,90,9869.0,20.0,109.66,0,0,0.18,0.44,45,55,3,0,2,0,6,82,0,2.03
+Cristian Romero,2026-01-17,Tottenham Hotspur,West Ham United,8.5,90,9832.0,20.0,109.24,1,0,0.17,0.12,51,60,1,0,2,0,5,76,0,2.03
+Cristian Romero,2026-01-20,Tottenham Hotspur,Borussia Dortmund,8.5,90,9811.0,17.0,109.01,1,0,0.15,0.16,52,56,1,0,0,0,5,71,0,1.73
+Cristian Romero,2026-01-24,Burnley,Tottenham Hotspur,7.8,89,9777.0,20.0,109.85,1,0,0.09,0.01,58,66,0,0,2,0,7,82,0,2.05
+Cristian Romero,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,8.5,90,9924.0,20.0,110.27,0,0,0.06,0.57,82,85,3,0,2,0,6,95,0,2.02
+Cristian Romero,2026-02-01,Tottenham Hotspur,Manchester City,5.8,45,4855.0,10.0,107.89,0,0,0.0,0.0,22,25,0,0,1,0,1,28,0,2.06
+Cristian Romero,2026-02-07,Manchester United,Tottenham Hotspur,5.3,29,3150.0,6.0,108.62,0,0,0.0,0.02,12,13,0,0,0,0,2,19,0,1.9
+Cristian Romero,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.4,90,9781.0,23.0,108.68,0,0,0.05,0.33,44,47,0,0,4,0,6,61,0,2.35
+Cristian Romero,2026-03-18,Tottenham Hotspur,Atlético Madrid,7.5,81,8757.0,18.0,108.11,0,0,0.0,0.29,30,36,1,0,2,0,4,48,0,2.06
+Cristian Romero,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.1,90,9878.0,17.0,109.76,0,0,0.02,0.04,59,68,1,0,0,0,6,84,0,1.72
+Cristian Romero,2026-03-28,Argentina,Mauritania,7.2,90,9962.0,22.0,110.69,0,0,0.0,0.0,84,90,0,0,3,0,6,104,0,2.21
+Cristian Romero,2026-04-01,Argentina,Zambia,8.1,90,9987.0,19.0,110.97,0,0,0.0,0.0,96,97,0,0,1,0,7,107,0,1.9
+Cristian Romero,2026-04-12,Sunderland,Tottenham Hotspur,7.1,70,7572.0,16.0,108.17,0,0,0.04,0.01,29,32,1,0,2,0,2,47,0,2.11

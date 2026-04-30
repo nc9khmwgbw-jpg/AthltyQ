@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ian Maatsen,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,,,0.0,0,0,0.03,0.08,21,28,2,0,2,0,3,64
-Ian Maatsen,2026-02-14,Aston Villa,Newcastle United,6.0,13,,,0.0,0,0,0.0,0.0,4,6,1,0,0,0,0,7
-Ian Maatsen,2026-02-21,Aston Villa,Leeds United,6.5,90,,,0.0,0,0,0.0,0.02,35,42,0,0,0,0,4,67
-Ian Maatsen,2026-02-27,Wolverhampton,Aston Villa,6.4,20,,,0.0,0,0,0.2,0.08,9,10,2,0,1,0,2,25
-Ian Maatsen,2026-03-04,Aston Villa,Chelsea,5.8,90,,,0.0,0,0,0.0,0.02,37,46,1,0,4,0,3,90
-Ian Maatsen,2026-03-12,Lille,Aston Villa,6.6,12,,,0.0,0,0,0.0,0.0,2,2,0,0,1,0,1,6
-Ian Maatsen,2026-03-15,Manchester United,Aston Villa,6.7,8,,,0.0,0,0,0.0,0.01,4,4,0,0,0,0,0,4
-Ian Maatsen,2026-03-19,Aston Villa,Lille,6.3,90,,,0.0,0,0,0.0,0.01,27,33,0,0,0,0,5,53
-Ian Maatsen,2026-03-22,Aston Villa,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ian Maatsen,2026-04-09,Bologna,Aston Villa,,2,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,1,3
-Ian Maatsen,2026-04-12,Nottingham Forest,Aston Villa,6.9,12,,,0.0,0,0,0.15,0.0,4,5,0,0,0,0,0,11
-Ian Maatsen,2026-04-16,Aston Villa,Bologna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ian Maatsen,2026-04-19,Aston Villa,Sunderland,6.6,70,,,0.0,0,0,0.0,0.39,20,24,2,0,1,0,1,46
-Ian Maatsen,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ian Maatsen,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,9756.0,20.0,108.4,0,0,0.03,0.08,21,28,2,0,2,0,3,64,0,2.05
+Ian Maatsen,2026-02-14,Aston Villa,Newcastle United,6.0,13,1394.0,2.0,107.23,0,0,0.0,0.0,4,6,1,0,0,0,0,7,0,1.43
+Ian Maatsen,2026-02-21,Aston Villa,Leeds United,6.5,90,9781.0,17.0,108.68,0,0,0.0,0.02,35,42,0,0,0,0,4,67,0,1.74
+Ian Maatsen,2026-02-27,Wolverhampton,Aston Villa,6.4,20,2230.0,5.0,111.5,0,0,0.2,0.08,9,10,2,0,1,0,2,25,0,2.24
+Ian Maatsen,2026-03-04,Aston Villa,Chelsea,5.8,90,9866.0,23.0,109.62,0,0,0.0,0.02,37,46,1,0,4,0,3,90,0,2.33
+Ian Maatsen,2026-03-12,Lille,Aston Villa,6.6,12,1298.0,4.0,108.17,0,0,0.0,0.0,2,2,0,0,1,0,1,6,0,3.08
+Ian Maatsen,2026-03-15,Manchester United,Aston Villa,6.7,8,857.0,2.0,107.12,0,0,0.0,0.01,4,4,0,0,0,0,0,4,0,2.33
+Ian Maatsen,2026-03-19,Aston Villa,Lille,6.3,90,9735.0,17.0,108.17,0,0,0.0,0.01,27,33,0,0,0,0,5,53,0,1.75
+Ian Maatsen,2026-03-22,Aston Villa,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ian Maatsen,2026-04-09,Bologna,Aston Villa,,2,235.0,0.0,117.5,0,0,0.0,0.0,2,3,0,0,0,0,1,3,0,0.0
+Ian Maatsen,2026-04-12,Nottingham Forest,Aston Villa,6.9,12,1306.0,2.0,108.83,0,0,0.15,0.0,4,5,0,0,0,0,0,11,0,1.53
+Ian Maatsen,2026-04-16,Aston Villa,Bologna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ian Maatsen,2026-04-19,Aston Villa,Sunderland,6.6,70,7556.0,15.0,107.94,0,0,0.0,0.39,20,24,2,0,1,0,1,46,0,1.99
+Ian Maatsen,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

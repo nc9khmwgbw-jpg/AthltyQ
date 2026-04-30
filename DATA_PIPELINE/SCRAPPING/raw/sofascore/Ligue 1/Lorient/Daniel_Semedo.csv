@@ -1,10 +1,10 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Daniel Semedo,2025-12-20,AS Gosier,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daniel Semedo,2026-01-04,Lorient,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daniel Semedo,2026-03-08,Lille,Lorient,6.4,10,,,0.0,0,0,0.0,0.0,2,2,0,0,1,0,1,3
-Daniel Semedo,2026-03-14,Lorient,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daniel Semedo,2026-03-21,Toulouse,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daniel Semedo,2026-03-22,FC Lorient B,Aviron Bayonnais FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daniel Semedo,2026-04-05,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daniel Semedo,2026-04-12,Olympique Lyonnais,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daniel Semedo,2026-04-18,Lorient,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Daniel Semedo,2025-12-20,AS Gosier,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daniel Semedo,2026-01-04,Lorient,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daniel Semedo,2026-03-08,Lille,Lorient,6.4,10,1075.0,3.0,107.5,0,0,0.0,0.0,2,2,0,0,1,0,1,3,0,2.79
+Daniel Semedo,2026-03-14,Lorient,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daniel Semedo,2026-03-21,Toulouse,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daniel Semedo,2026-03-22,FC Lorient B,Aviron Bayonnais FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daniel Semedo,2026-04-05,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daniel Semedo,2026-04-12,Olympique Lyonnais,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daniel Semedo,2026-04-18,Lorient,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

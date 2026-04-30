@@ -1,13 +1,13 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Dan Sinaté,2025-06-06,France U18,Mali U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dan Sinaté,2025-06-09,Saudi Arabia U23,Mali U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dan Sinaté,2025-10-29,Olympique de Marseille,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dan Sinaté,2025-12-19,Les Herbiers,Angers,7.0,5,,,0.0,0,0,0.0,0.0,4,7,0,0,0,0,0,11
-Dan Sinaté,2026-01-04,Le Havre,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dan Sinaté,2026-01-10,Angers,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dan Sinaté,2026-03-14,Angers,Nice,6.5,11,,,0.0,0,0,0.12,0.0,5,6,0,0,0,0,0,9
-Dan Sinaté,2026-03-20,RC Lens,Angers,6.3,19,,,0.0,0,0,0.0,0.01,9,10,0,0,0,0,1,15
-Dan Sinaté,2026-04-05,Angers,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dan Sinaté,2026-04-11,Stade Rennais,Angers,,1,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1
-Dan Sinaté,2026-04-18,Angers,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dan Sinaté,2026-04-25,Angers,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Dan Sinaté,2025-06-06,France U18,Mali U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dan Sinaté,2025-06-09,Saudi Arabia U23,Mali U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dan Sinaté,2025-10-29,Olympique de Marseille,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dan Sinaté,2025-12-19,Les Herbiers,Angers,7.0,5,571.0,1.0,114.2,0,0,0.0,0.0,4,7,0,0,0,0,0,11,0,1.75
+Dan Sinaté,2026-01-04,Le Havre,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dan Sinaté,2026-01-10,Angers,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dan Sinaté,2026-03-14,Angers,Nice,6.5,11,1193.0,2.0,108.45,0,0,0.12,0.0,5,6,0,0,0,0,0,9,0,1.68
+Dan Sinaté,2026-03-20,RC Lens,Angers,6.3,19,2070.0,4.0,108.95,0,0,0.0,0.01,9,10,0,0,0,0,1,15,0,1.93
+Dan Sinaté,2026-04-05,Angers,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dan Sinaté,2026-04-11,Stade Rennais,Angers,,1,109.0,0.0,109.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0,0.0
+Dan Sinaté,2026-04-18,Angers,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dan Sinaté,2026-04-25,Angers,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

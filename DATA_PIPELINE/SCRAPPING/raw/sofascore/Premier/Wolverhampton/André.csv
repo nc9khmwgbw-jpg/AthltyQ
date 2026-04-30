@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-André,2026-01-03,Wolverhampton,West Ham United,6.8,45,,,0.0,0,0,0.0,0.01,14,16,1,0,0,0,1,25
-André,2026-01-07,Everton,Wolverhampton,6.8,45,,,0.0,0,0,0.0,0.05,25,28,1,0,0,0,4,38
-André,2026-01-10,Wolverhampton,Shrewsbury Town,6.9,90,,,0.0,0,0,0.0,0.0,78,83,1,0,1,0,9,97
-André,2026-01-18,Wolverhampton,Newcastle United,6.9,90,,,0.0,0,0,0.0,0.01,37,47,0,0,1,0,6,57
-André,2026-01-24,Manchester City,Wolverhampton,7.1,90,,,0.0,0,0,0.0,0.01,41,45,0,0,1,0,5,58
-André,2026-01-31,Wolverhampton,Bournemouth,7.0,80,,,0.0,0,0,0.02,0.01,51,59,1,0,0,0,7,67
-André,2026-02-15,Grimsby Town,Wolverhampton,6.6,89,,,0.0,0,0,0.0,0.0,23,30,0,0,1,0,6,50
-André,2026-02-18,Wolverhampton,Arsenal,6.2,90,,,0.0,0,0,0.05,0.01,33,38,0,0,0,0,7,49
-André,2026-02-22,Crystal Palace,Wolverhampton,6.8,90,,,0.0,0,0,0.05,0.01,26,28,0,0,4,0,7,43
-André,2026-02-27,Wolverhampton,Aston Villa,7.0,89,,,0.0,0,0,0.0,0.01,40,44,0,0,1,0,8,57
-André,2026-03-03,Wolverhampton,Liverpool,8.6,90,,,0.0,1,0,0.06,0.05,43,45,1,0,2,0,11,67
-André,2026-03-16,Brentford,Wolverhampton,6.5,90,,,0.0,0,0,0.1,0.01,38,46,1,0,1,0,5,58
-André,2026-04-10,West Ham United,Wolverhampton,6.5,90,,,0.0,0,0,0.02,0.06,54,55,1,0,1,0,6,66
-André,2026-04-18,Leeds United,Wolverhampton,7.0,90,,,0.0,0,0,0.0,0.02,30,31,0,0,0,0,6,50
-André,2026-04-25,Wolverhampton,Tottenham Hotspur,6.9,90,,,0.0,0,0,0.0,0.01,34,35,0,0,0,0,8,49
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+André,2026-01-03,Wolverhampton,West Ham United,6.8,45,4842.0,9.0,107.6,0,0,0.0,0.01,14,16,1,0,0,0,1,25,0,1.86
+André,2026-01-07,Everton,Wolverhampton,6.8,45,4935.0,9.0,109.67,0,0,0.0,0.05,25,28,1,0,0,0,4,38,0,1.82
+André,2026-01-10,Wolverhampton,Shrewsbury Town,6.9,90,9970.0,19.0,110.78,0,0,0.0,0.0,78,83,1,0,1,0,9,97,0,1.91
+André,2026-01-18,Wolverhampton,Newcastle United,6.9,90,9764.0,19.0,108.49,0,0,0.0,0.01,37,47,0,0,1,0,6,57,0,1.95
+André,2026-01-24,Manchester City,Wolverhampton,7.1,90,9756.0,19.0,108.4,0,0,0.0,0.01,41,45,0,0,1,0,5,58,0,1.95
+André,2026-01-31,Wolverhampton,Bournemouth,7.0,80,8769.0,15.0,109.61,0,0,0.02,0.01,51,59,1,0,0,0,7,67,0,1.71
+André,2026-02-15,Grimsby Town,Wolverhampton,6.6,89,9630.0,19.0,108.2,0,0,0.0,0.0,23,30,0,0,1,0,6,50,0,1.97
+André,2026-02-18,Wolverhampton,Arsenal,6.2,90,9743.0,17.0,108.26,0,0,0.05,0.01,33,38,0,0,0,0,7,49,0,1.74
+André,2026-02-22,Crystal Palace,Wolverhampton,6.8,90,9718.0,23.0,107.98,0,0,0.05,0.01,26,28,0,0,4,0,7,43,0,2.37
+André,2026-02-27,Wolverhampton,Aston Villa,7.0,89,9684.0,19.0,108.81,0,0,0.0,0.01,40,44,0,0,1,0,8,57,0,1.96
+André,2026-03-03,Wolverhampton,Liverpool,8.6,90,9869.0,20.0,109.66,1,0,0.06,0.05,43,45,1,0,2,0,11,67,0,2.03
+André,2026-03-16,Brentford,Wolverhampton,6.5,90,9756.0,19.0,108.4,0,0,0.1,0.01,38,46,1,0,1,0,5,58,0,1.95
+André,2026-04-10,West Ham United,Wolverhampton,6.5,90,9802.0,19.0,108.91,0,0,0.02,0.06,54,55,1,0,1,0,6,66,0,1.94
+André,2026-04-18,Leeds United,Wolverhampton,7.0,90,9735.0,17.0,108.17,0,0,0.0,0.02,30,31,0,0,0,0,6,50,0,1.75
+André,2026-04-25,Wolverhampton,Tottenham Hotspur,6.9,90,9756.0,17.0,108.4,0,0,0.0,0.01,34,35,0,0,0,0,8,49,0,1.74

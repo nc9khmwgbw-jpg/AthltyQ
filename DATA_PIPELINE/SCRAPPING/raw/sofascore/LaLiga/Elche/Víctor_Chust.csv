@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Víctor Chust,2026-01-03,Elche,Villarreal,6.6,90,,,0.0,0,0,0.0,0.08,85,93,0,0,4,0,6,108
-Víctor Chust,2026-01-10,Valencia,Elche,6.9,90,,,0.0,0,0,0.0,0.08,71,81,0,0,1,0,3,95
-Víctor Chust,2026-01-14,Real Betis,Elche,6.6,90,,,0.0,0,0,0.0,0.0,65,74,0,0,1,0,4,91
-Víctor Chust,2026-01-19,Elche,Sevilla,7.0,90,,,0.0,0,0,0.0,0.06,23,28,0,0,0,0,2,55
-Víctor Chust,2026-01-31,Elche,FC Barcelona,7.7,90,,,0.0,0,0,0.0,0.03,39,41,0,0,1,0,4,59
-Víctor Chust,2026-02-07,Real Sociedad,Elche,6.2,72,,,0.0,0,0,0.0,0.02,81,82,0,0,0,0,1,84
-Víctor Chust,2026-02-13,Elche,Osasuna,7.1,90,,,0.0,0,0,0.01,0.03,57,62,0,0,1,0,3,83
-Víctor Chust,2026-02-20,Athletic Club,Elche,6.9,90,,,0.0,0,0,0.0,0.02,55,61,0,0,2,0,3,78
-Víctor Chust,2026-03-01,Elche,Espanyol,6.8,45,,,0.0,0,0,0.0,0.02,50,54,0,0,0,0,4,62
-Víctor Chust,2026-03-08,Villarreal,Elche,6.4,90,,,0.0,0,0,0.03,0.11,55,63,1,0,3,0,4,84
-Víctor Chust,2026-03-14,Real Madrid,Elche,5.5,90,,,0.0,0,0,0.04,0.01,61,68,0,0,1,0,2,78
-Víctor Chust,2026-03-21,Elche,Mallorca,7.2,90,,,0.0,0,0,0.0,0.01,44,54,0,0,0,0,9,72
-Víctor Chust,2026-04-11,Elche,Valencia,6.5,8,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,1,4
-Víctor Chust,2026-04-22,Elche,Atlético Madrid,7.1,30,,,0.0,0,0,0.0,0.03,35,36,0,0,0,0,4,40
-Víctor Chust,2026-04-26,Real Oviedo,Elche,6.7,8,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,5
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Víctor Chust,2026-01-03,Elche,Villarreal,6.6,90,9979.0,23.0,110.88,0,0,0.0,0.08,85,93,0,0,4,0,6,108,0,2.3
+Víctor Chust,2026-01-10,Valencia,Elche,6.9,90,9886.0,19.0,109.84,0,0,0.0,0.08,71,81,0,0,1,0,3,95,0,1.92
+Víctor Chust,2026-01-14,Real Betis,Elche,6.6,90,9882.0,19.0,109.8,0,0,0.0,0.0,65,74,0,0,1,0,4,91,0,1.92
+Víctor Chust,2026-01-19,Elche,Sevilla,7.0,90,9706.0,17.0,107.84,0,0,0.0,0.06,23,28,0,0,0,0,2,55,0,1.75
+Víctor Chust,2026-01-31,Elche,FC Barcelona,7.7,90,9748.0,19.0,108.31,0,0,0.0,0.03,39,41,0,0,1,0,4,59,0,1.95
+Víctor Chust,2026-02-07,Real Sociedad,Elche,6.2,72,7925.0,14.0,110.07,0,0,0.0,0.02,81,82,0,0,0,0,1,84,0,1.77
+Víctor Chust,2026-02-13,Elche,Osasuna,7.1,90,9836.0,19.0,109.29,0,0,0.01,0.03,57,62,0,0,1,0,3,83,0,1.93
+Víctor Chust,2026-02-20,Athletic Club,Elche,6.9,90,9815.0,20.0,109.06,0,0,0.0,0.02,55,61,0,0,2,0,3,78,0,2.04
+Víctor Chust,2026-03-01,Elche,Espanyol,6.8,45,5035.0,9.0,111.89,0,0,0.0,0.02,50,54,0,0,0,0,4,62,0,1.79
+Víctor Chust,2026-03-08,Villarreal,Elche,6.4,90,9853.0,22.0,109.48,0,0,0.03,0.11,55,63,1,0,3,0,4,84,0,2.23
+Víctor Chust,2026-03-14,Real Madrid,Elche,5.5,90,9803.0,19.0,108.92,0,0,0.04,0.01,61,68,0,0,1,0,2,78,0,1.94
+Víctor Chust,2026-03-21,Elche,Mallorca,7.2,90,9865.0,17.0,109.61,0,0,0.0,0.01,44,54,0,0,0,0,9,72,0,1.72
+Víctor Chust,2026-04-11,Elche,Valencia,6.5,8,869.0,2.0,108.62,0,0,0.0,0.0,2,3,0,0,0,0,1,4,0,2.3
+Víctor Chust,2026-04-22,Elche,Atlético Madrid,7.1,30,3368.0,6.0,112.27,0,0,0.0,0.03,35,36,0,0,0,0,4,40,0,1.78
+Víctor Chust,2026-04-26,Real Oviedo,Elche,6.7,8,861.0,2.0,107.62,0,0,0.0,0.0,0,0,0,0,0,0,0,5,0,2.32

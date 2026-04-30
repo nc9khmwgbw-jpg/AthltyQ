@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pape Sy,2025-08-17,Metz,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-08-23,Olympique Lyonnais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-08-31,Paris FC,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-09-14,Metz,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-09-21,AS Monaco,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-09-28,Metz,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-10-04,Metz,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-10-19,Toulouse,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2025-10-26,Lille,Metz,6.3,77,,,0.0,0,0,0.0,0.0,12,27,0,0,0,0,7,38
-Pape Sy,2026-03-15,Metz,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pape Sy,2026-03-22,Stade Rennais,Metz,9.4,90,,,0.0,0,0,0.0,0.0,12,30,0,0,0,0,13,49
-Pape Sy,2026-04-05,Metz,Nantes,7.0,90,,,0.0,0,0,0.0,0.0,16,17,0,0,0,0,12,32
-Pape Sy,2026-04-10,Olympique de Marseille,Metz,7.7,90,,,0.0,0,0,0.0,0.0,16,26,0,0,0,0,7,39
-Pape Sy,2026-04-19,Metz,Paris FC,7.4,90,,,0.0,0,0,0.0,0.0,26,30,0,0,0,0,10,40
-Pape Sy,2026-04-26,Le Havre,Metz,5.7,90,,,0.0,0,0,0.0,0.0,21,29,0,0,0,0,5,39
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pape Sy,2025-08-17,Metz,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-08-23,Olympique Lyonnais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-08-31,Paris FC,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-09-14,Metz,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-09-21,AS Monaco,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-09-28,Metz,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-10-04,Metz,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-10-19,Toulouse,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2025-10-26,Lille,Metz,6.3,77,8332.0,15.0,108.21,0,0,0.0,0.0,12,27,0,0,0,0,7,38,0,1.8
+Pape Sy,2026-03-15,Metz,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pape Sy,2026-03-22,Stade Rennais,Metz,9.4,90,9818.0,17.0,109.09,0,0,0.0,0.0,12,30,0,0,0,0,13,49,0,1.73
+Pape Sy,2026-04-05,Metz,Nantes,7.0,90,9734.0,17.0,108.16,0,0,0.0,0.0,16,17,0,0,0,0,12,32,0,1.75
+Pape Sy,2026-04-10,Olympique de Marseille,Metz,7.7,90,9701.0,17.0,107.79,0,0,0.0,0.0,16,26,0,0,0,0,7,39,0,1.75
+Pape Sy,2026-04-19,Metz,Paris FC,7.4,90,9743.0,17.0,108.26,0,0,0.0,0.0,26,30,0,0,0,0,10,40,0,1.74
+Pape Sy,2026-04-26,Le Havre,Metz,5.7,90,9676.0,17.0,107.51,0,0,0.0,0.0,21,29,0,0,0,0,5,39,0,1.76

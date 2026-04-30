@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ferran Jutglà,2026-02-19,PAOK,Celta Vigo,6.4,29,,,0.0,0,0,0.0,0.0,5,10,0,0,0,0,2,12
-Ferran Jutglà,2026-02-22,Celta Vigo,Mallorca,6.3,68,,,0.0,0,0,0.01,0.02,10,15,0,0,0,0,2,28
-Ferran Jutglà,2026-02-26,Celta Vigo,PAOK,6.9,23,,,0.0,0,0,0.0,0.11,3,4,1,0,0,0,1,9
-Ferran Jutglà,2026-03-01,Girona FC,Celta Vigo,7.6,73,,,0.0,1,0,0.4,0.0,9,9,0,0,2,0,1,21
-Ferran Jutglà,2026-03-06,Celta Vigo,Real Madrid,7.2,70,,,0.0,0,0,0.11,0.0,14,18,0,0,1,0,2,30
-Ferran Jutglà,2026-03-12,Celta Vigo,Olympique Lyonnais,6.5,45,,,0.0,0,0,0.05,0.0,4,8,0,0,0,0,2,20
-Ferran Jutglà,2026-03-15,Real Betis,Celta Vigo,7.7,66,,,0.0,1,0,0.38,0.01,6,11,0,0,0,0,0,26
-Ferran Jutglà,2026-03-19,Olympique Lyonnais,Celta Vigo,7.6,33,,,0.0,1,0,0.58,0.02,7,7,0,0,0,0,1,11
-Ferran Jutglà,2026-03-22,Celta Vigo,Deportivo Alavés,10.0,90,,,0.0,2,0,0.35,0.03,18,19,1,0,0,0,4,41
-Ferran Jutglà,2026-04-05,Valencia,Celta Vigo,5.9,71,,,0.0,0,0,0.14,0.14,15,19,1,0,1,0,0,37
-Ferran Jutglà,2026-04-09,SC Freiburg,Celta Vigo,6.3,73,,,0.0,0,0,0.0,0.02,14,17,0,0,0,0,4,28
-Ferran Jutglà,2026-04-12,Celta Vigo,Real Oviedo,6.1,30,,,0.0,0,0,0.19,0.03,5,9,0,0,0,0,2,24
-Ferran Jutglà,2026-04-16,Celta Vigo,SC Freiburg,6.2,90,,,0.0,0,0,0.44,0.06,23,28,0,0,1,0,3,44
-Ferran Jutglà,2026-04-22,FC Barcelona,Celta Vigo,6.3,81,,,0.0,0,0,0.38,0.01,20,27,0,0,0,0,4,44
-Ferran Jutglà,2026-04-26,Villarreal,Celta Vigo,6.0,45,,,0.0,0,0,0.23,0.03,10,16,1,0,0,0,4,27
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ferran Jutglà,2026-02-19,PAOK,Celta Vigo,6.4,29,3120.0,6.0,107.59,0,0,0.0,0.0,5,10,0,0,0,0,2,12,0,1.92
+Ferran Jutglà,2026-02-22,Celta Vigo,Mallorca,6.3,68,7283.0,13.0,107.1,0,0,0.01,0.02,10,15,0,0,0,0,2,28,0,1.78
+Ferran Jutglà,2026-02-26,Celta Vigo,PAOK,6.9,23,2465.0,4.0,107.17,0,0,0.0,0.11,3,4,1,0,0,0,1,9,0,1.62
+Ferran Jutglà,2026-03-01,Girona FC,Celta Vigo,7.6,73,7766.0,17.0,106.38,1,0,0.4,0.0,9,9,0,0,2,0,1,21,0,2.19
+Ferran Jutglà,2026-03-06,Celta Vigo,Real Madrid,7.2,70,7501.0,15.0,107.16,0,0,0.11,0.0,14,18,0,0,1,0,2,30,0,2.0
+Ferran Jutglà,2026-03-12,Celta Vigo,Olympique Lyonnais,6.5,45,4834.0,9.0,107.42,0,0,0.05,0.0,4,8,0,0,0,0,2,20,0,1.86
+Ferran Jutglà,2026-03-15,Real Betis,Celta Vigo,7.7,66,7039.0,13.0,106.65,1,0,0.38,0.01,6,11,0,0,0,0,0,26,0,1.85
+Ferran Jutglà,2026-03-19,Olympique Lyonnais,Celta Vigo,7.6,33,3524.0,6.0,106.79,1,0,0.58,0.02,7,7,0,0,0,0,1,11,0,1.7
+Ferran Jutglà,2026-03-22,Celta Vigo,Deportivo Alavés,10.0,90,9672.0,17.0,107.47,2,0,0.35,0.03,18,19,1,0,0,0,4,41,0,1.76
+Ferran Jutglà,2026-04-05,Valencia,Celta Vigo,5.9,71,7610.0,15.0,107.18,0,0,0.14,0.14,15,19,1,0,1,0,0,37,0,1.97
+Ferran Jutglà,2026-04-09,SC Freiburg,Celta Vigo,6.3,73,7833.0,14.0,107.3,0,0,0.0,0.02,14,17,0,0,0,0,4,28,0,1.79
+Ferran Jutglà,2026-04-12,Celta Vigo,Real Oviedo,6.1,30,3276.0,6.0,109.2,0,0,0.19,0.03,5,9,0,0,0,0,2,24,0,1.83
+Ferran Jutglà,2026-04-16,Celta Vigo,SC Freiburg,6.2,90,9672.0,19.0,107.47,0,0,0.44,0.06,23,28,0,0,1,0,3,44,0,1.96
+Ferran Jutglà,2026-04-22,FC Barcelona,Celta Vigo,6.3,81,8740.0,16.0,107.9,0,0,0.38,0.01,20,27,0,0,0,0,4,44,0,1.83
+Ferran Jutglà,2026-04-26,Villarreal,Celta Vigo,6.0,45,4888.0,9.0,108.62,0,0,0.23,0.03,10,16,1,0,0,0,4,27,0,1.84

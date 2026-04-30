@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kevin Danso,2026-01-17,Tottenham Hotspur,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kevin Danso,2026-01-20,Tottenham Hotspur,Borussia Dortmund,7.0,90,,,0.0,0,0,0.0,0.02,48,59,1,0,0,0,5,73
-Kevin Danso,2026-01-24,Burnley,Tottenham Hotspur,6.9,78,,,0.0,0,0,0.0,0.02,73,82,0,0,1,0,3,97
-Kevin Danso,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,7.2,90,,,0.0,0,0,0.0,0.07,70,72,1,0,1,0,2,84
-Kevin Danso,2026-03-01,Fulham,Tottenham Hotspur,,1,,,0.0,0,0,0.0,0.0,3,5,0,0,0,0,1,8
-Kevin Danso,2026-03-05,Tottenham Hotspur,Crystal Palace,6.8,90,,,0.0,0,0,0.13,0.01,37,44,0,0,1,0,2,66
-Kevin Danso,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.5,90,,,0.0,0,0,0.0,0.05,33,42,0,0,2,0,3,60
-Kevin Danso,2026-03-15,Liverpool,Tottenham Hotspur,7.0,90,,,0.0,0,0,0.0,0.0,21,29,0,0,1,0,2,47
-Kevin Danso,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.8,9,,,0.0,0,0,0.0,0.0,11,14,0,0,0,0,0,18
-Kevin Danso,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.5,90,,,0.0,0,0,0.1,0.01,57,72,0,0,5,0,1,92
-Kevin Danso,2026-03-27,Austria,Ghana,7.0,45,,,0.0,0,0,0.0,0.0,39,44,0,0,1,0,4,49
-Kevin Danso,2026-03-31,Austria,South Korea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kevin Danso,2026-04-12,Sunderland,Tottenham Hotspur,7.1,20,,,0.0,0,0,0.0,0.01,18,18,0,0,0,0,1,28
-Kevin Danso,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,5.9,90,,,0.0,0,0,0.0,0.0,29,33,0,0,2,0,1,51
-Kevin Danso,2026-04-25,Wolverhampton,Tottenham Hotspur,7.4,90,,,0.0,0,0,0.0,0.03,54,62,2,0,1,0,1,74
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kevin Danso,2026-01-17,Tottenham Hotspur,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kevin Danso,2026-01-20,Tottenham Hotspur,Borussia Dortmund,7.0,90,9819.0,17.0,109.1,0,0,0.0,0.02,48,59,1,0,0,0,5,73,0,1.73
+Kevin Danso,2026-01-24,Burnley,Tottenham Hotspur,6.9,78,8635.0,16.0,110.71,0,0,0.0,0.02,73,82,0,0,1,0,3,97,0,1.85
+Kevin Danso,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,7.2,90,9828.0,19.0,109.2,0,0,0.0,0.07,70,72,1,0,1,0,2,84,0,1.93
+Kevin Danso,2026-03-01,Fulham,Tottenham Hotspur,,1,151.0,0.0,151.0,0,0,0.0,0.0,3,5,0,0,0,0,1,8,0,0.0
+Kevin Danso,2026-03-05,Tottenham Hotspur,Crystal Palace,6.8,90,9752.0,19.0,108.36,0,0,0.13,0.01,37,44,0,0,1,0,2,66,0,1.95
+Kevin Danso,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.5,90,9740.0,20.0,108.22,0,0,0.0,0.05,33,42,0,0,2,0,3,60,0,2.05
+Kevin Danso,2026-03-15,Liverpool,Tottenham Hotspur,7.0,90,9672.0,19.0,107.47,0,0,0.0,0.0,21,29,0,0,1,0,2,47,0,1.96
+Kevin Danso,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.8,9,1021.0,2.0,113.44,0,0,0.0,0.0,11,14,0,0,0,0,0,18,0,1.96
+Kevin Danso,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.5,90,9849.0,24.0,109.43,0,0,0.1,0.01,57,72,0,0,5,0,1,92,0,2.44
+Kevin Danso,2026-03-27,Austria,Ghana,7.0,45,4981.0,10.0,110.69,0,0,0.0,0.0,39,44,0,0,1,0,4,49,0,2.01
+Kevin Danso,2026-03-31,Austria,South Korea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kevin Danso,2026-04-12,Sunderland,Tottenham Hotspur,7.1,20,2230.0,4.0,111.5,0,0,0.0,0.01,18,18,0,0,0,0,1,28,0,1.79
+Kevin Danso,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,5.9,90,9677.0,20.0,107.52,0,0,0.0,0.0,29,33,0,0,2,0,1,51,0,2.07
+Kevin Danso,2026-04-25,Wolverhampton,Tottenham Hotspur,7.4,90,9773.0,19.0,108.59,0,0,0.0,0.03,54,62,2,0,1,0,1,74,0,1.94

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Eric Ebimbe,2026-01-04,South Africa,Cameroon,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Ebimbe,2026-01-09,Cameroon,Morocco,6.4,34,,,0.0,0,0,0.0,0.0,5,8,0,0,0,0,0,13
-Eric Ebimbe,2026-01-18,Olympique Lyonnais,Stade Brestois,7.5,9,,,0.0,1,0,0.16,0.0,2,4,0,0,0,0,0,7
-Eric Ebimbe,2026-01-25,Stade Brestois,Toulouse,6.4,17,,,0.0,0,0,0.13,0.0,2,3,0,0,0,0,0,5
-Eric Ebimbe,2026-02-01,Nice,Stade Brestois,6.6,13,,,0.0,0,0,0.0,0.0,4,4,0,0,0,0,1,5
-Eric Ebimbe,2026-02-07,Stade Brestois,Lorient,6.3,17,,,0.0,0,0,0.13,0.01,6,7,0,0,0,0,2,10
-Eric Ebimbe,2026-02-14,Lille,Stade Brestois,5.9,77,,,0.0,0,0,0.16,0.03,9,16,0,0,1,0,4,29
-Eric Ebimbe,2026-02-20,Stade Brestois,Olympique de Marseille,7.2,73,,,0.0,0,0,0.18,0.18,16,19,1,0,0,0,4,32
-Eric Ebimbe,2026-03-01,Metz,Stade Brestois,6.2,26,,,0.0,0,0,0.06,0.0,4,5,0,0,0,0,0,11
-Eric Ebimbe,2026-03-08,Stade Brestois,Le Havre,6.4,70,,,0.0,0,0,0.0,0.01,13,15,0,0,1,0,3,24
-Eric Ebimbe,2026-03-14,AS Monaco,Stade Brestois,5.6,67,,,0.0,0,0,0.66,0.08,14,15,1,0,0,0,2,23
-Eric Ebimbe,2026-03-21,Auxerre,Stade Brestois,5.9,65,,,0.0,0,0,0.03,0.05,12,13,0,0,0,0,1,21
-Eric Ebimbe,2026-04-04,Stade Brestois,Stade Rennais,7.5,76,,,0.0,2,0,0.51,0.0,7,14,0,0,0,0,2,20
-Eric Ebimbe,2026-04-19,Nantes,Stade Brestois,6.8,67,,,0.0,0,0,0.0,0.0,14,15,0,0,0,0,2,25
-Eric Ebimbe,2026-04-24,Stade Brestois,RC Lens,7.0,67,,,0.0,1,0,0.08,0.01,13,17,0,0,1,0,6,31
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Eric Ebimbe,2026-01-04,South Africa,Cameroon,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Ebimbe,2026-01-09,Cameroon,Morocco,6.4,34,3625.0,7.0,106.62,0,0,0.0,0.0,5,8,0,0,0,0,0,13,0,1.93
+Eric Ebimbe,2026-01-18,Olympique Lyonnais,Stade Brestois,7.5,9,974.0,2.0,108.22,1,0,0.16,0.0,2,4,0,0,0,0,0,7,0,2.05
+Eric Ebimbe,2026-01-25,Stade Brestois,Toulouse,6.4,17,1806.0,3.0,106.24,0,0,0.13,0.0,2,3,0,0,0,0,0,5,0,1.66
+Eric Ebimbe,2026-02-01,Nice,Stade Brestois,6.6,13,1398.0,2.0,107.54,0,0,0.0,0.0,4,4,0,0,0,0,1,5,0,1.43
+Eric Ebimbe,2026-02-07,Stade Brestois,Lorient,6.3,17,1852.0,3.0,108.94,0,0,0.13,0.01,6,7,0,0,0,0,2,10,0,1.62
+Eric Ebimbe,2026-02-14,Lille,Stade Brestois,5.9,77,8257.0,16.0,107.23,0,0,0.16,0.03,9,16,0,0,1,0,4,29,0,1.94
+Eric Ebimbe,2026-02-20,Stade Brestois,Olympique de Marseille,7.2,73,7849.0,14.0,107.52,0,0,0.18,0.18,16,19,1,0,0,0,4,32,0,1.78
+Eric Ebimbe,2026-03-01,Metz,Stade Brestois,6.2,26,2776.0,5.0,106.77,0,0,0.06,0.0,4,5,0,0,0,0,0,11,0,1.8
+Eric Ebimbe,2026-03-08,Stade Brestois,Le Havre,6.4,70,7488.0,15.0,106.97,0,0,0.0,0.01,13,15,0,0,1,0,3,24,0,2.0
+Eric Ebimbe,2026-03-14,AS Monaco,Stade Brestois,5.6,67,7157.0,13.0,106.82,0,0,0.66,0.08,14,15,1,0,0,0,2,23,0,1.82
+Eric Ebimbe,2026-03-21,Auxerre,Stade Brestois,5.9,65,6926.0,12.0,106.55,0,0,0.03,0.05,12,13,0,0,0,0,1,21,0,1.73
+Eric Ebimbe,2026-04-04,Stade Brestois,Stade Rennais,7.5,76,8089.0,15.0,106.43,2,0,0.51,0.0,7,14,0,0,0,0,2,20,0,1.85
+Eric Ebimbe,2026-04-19,Nantes,Stade Brestois,6.8,67,7165.0,13.0,106.94,0,0,0.0,0.0,14,15,0,0,0,0,2,25,0,1.81
+Eric Ebimbe,2026-04-24,Stade Brestois,RC Lens,7.0,67,7240.0,14.0,108.06,1,0,0.08,0.01,13,17,0,0,1,0,6,31,0,1.93

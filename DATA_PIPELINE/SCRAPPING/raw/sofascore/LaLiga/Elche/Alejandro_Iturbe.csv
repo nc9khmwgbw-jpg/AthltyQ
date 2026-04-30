@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Alejandro Iturbe,2025-12-21,Elche,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-01-03,Elche,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-01-10,Valencia,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-01-14,Real Betis,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-01-31,Elche,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-03-08,Villarreal,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-03-14,Real Madrid,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-03-21,Elche,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-04-11,Elche,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alejandro Iturbe,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alejandro Iturbe,2025-12-21,Elche,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-01-03,Elche,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-01-10,Valencia,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-01-14,Real Betis,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-01-31,Elche,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-03-08,Villarreal,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-03-14,Real Madrid,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-03-21,Elche,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-04-11,Elche,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alejandro Iturbe,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

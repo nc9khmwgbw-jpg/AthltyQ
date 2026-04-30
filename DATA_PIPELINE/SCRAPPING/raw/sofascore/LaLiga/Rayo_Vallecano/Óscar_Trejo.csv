@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Óscar Trejo,2026-01-24,Rayo Vallecano,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-02-01,Real Madrid,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-02-15,Rayo Vallecano,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-03-04,Rayo Vallecano,Real Oviedo,6.6,21,,,0.0,0,0,0.0,0.03,5,6,0,0,0,0,0,16
-Óscar Trejo,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-03-12,Samsunspor,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-03-19,Rayo Vallecano,Samsunspor,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-04-09,Rayo Vallecano,AEK Athens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-04-16,AEK Athens,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Óscar Trejo,2026-04-26,Rayo Vallecano,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Óscar Trejo,2026-01-24,Rayo Vallecano,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-02-01,Real Madrid,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-02-15,Rayo Vallecano,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-03-04,Rayo Vallecano,Real Oviedo,6.6,21,2272.0,4.0,108.19,0,0,0.0,0.03,5,6,0,0,0,0,0,16,0,1.76
+Óscar Trejo,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-03-12,Samsunspor,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-03-19,Rayo Vallecano,Samsunspor,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-04-09,Rayo Vallecano,AEK Athens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-04-16,AEK Athens,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Óscar Trejo,2026-04-26,Rayo Vallecano,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

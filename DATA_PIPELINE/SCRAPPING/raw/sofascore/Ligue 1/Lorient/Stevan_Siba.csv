@@ -1,8 +1,8 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Stevan Siba,2025-08-17,Auxerre,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Stevan Siba,2025-08-24,Lorient,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Stevan Siba,2025-08-30,Lorient,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Stevan Siba,2025-09-12,Olympique de Marseille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Stevan Siba,2025-11-23,Nantes,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Stevan Siba,2026-04-18,Lorient,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Stevan Siba,2026-04-26,Lorient,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Stevan Siba,2025-08-17,Auxerre,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Stevan Siba,2025-08-24,Lorient,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Stevan Siba,2025-08-30,Lorient,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Stevan Siba,2025-09-12,Olympique de Marseille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Stevan Siba,2025-11-23,Nantes,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Stevan Siba,2026-04-18,Lorient,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Stevan Siba,2026-04-26,Lorient,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

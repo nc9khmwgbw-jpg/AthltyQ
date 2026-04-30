@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Eliezer Mayenda,2026-02-02,Sunderland,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eliezer Mayenda,2026-02-07,Arsenal,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eliezer Mayenda,2026-02-11,Sunderland,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eliezer Mayenda,2026-02-15,Oxford United,Sunderland,6.2,26,,,0.0,0,0,0.0,0.0,3,3,1,0,0,0,0,7
-Eliezer Mayenda,2026-02-22,Sunderland,Fulham,6.5,20,,,0.0,0,0,0.09,0.06,3,4,1,0,0,0,0,15
-Eliezer Mayenda,2026-02-28,Bournemouth,Sunderland,6.6,89,,,0.0,1,0,0.99,0.02,5,7,0,0,0,0,2,25
-Eliezer Mayenda,2026-03-03,Leeds United,Sunderland,6.3,56,,,0.0,0,0,0.0,0.0,2,5,0,0,0,0,1,9
-Eliezer Mayenda,2026-03-08,Port Vale,Sunderland,5.6,90,,,0.0,0,0,0.0,0.0,2,5,0,0,0,0,1,18
-Eliezer Mayenda,2026-03-14,Sunderland,Brighton & Hove Albion,6.2,12,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,8
-Eliezer Mayenda,2026-03-22,Newcastle United,Sunderland,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,4
-Eliezer Mayenda,2026-03-27,Cyprus U21,Spain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eliezer Mayenda,2026-03-31,Spain U21,Kosovo U21,6.4,45,,,0.0,0,0,0.0,0.0,12,15,0,0,0,0,1,26
-Eliezer Mayenda,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eliezer Mayenda,2026-04-19,Aston Villa,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eliezer Mayenda,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Eliezer Mayenda,2026-02-02,Sunderland,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eliezer Mayenda,2026-02-07,Arsenal,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eliezer Mayenda,2026-02-11,Sunderland,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eliezer Mayenda,2026-02-15,Oxford United,Sunderland,6.2,26,2759.0,5.0,106.12,0,0,0.0,0.0,3,3,1,0,0,0,0,7,0,1.81
+Eliezer Mayenda,2026-02-22,Sunderland,Fulham,6.5,20,2163.0,4.0,108.15,0,0,0.09,0.06,3,4,1,0,0,0,0,15,0,1.85
+Eliezer Mayenda,2026-02-28,Bournemouth,Sunderland,6.6,89,9475.0,17.0,106.46,1,0,0.99,0.02,5,7,0,0,0,0,2,25,0,1.79
+Eliezer Mayenda,2026-03-03,Leeds United,Sunderland,6.3,56,5930.0,11.0,105.89,0,0,0.0,0.0,2,5,0,0,0,0,1,9,0,1.85
+Eliezer Mayenda,2026-03-08,Port Vale,Sunderland,5.6,90,9538.0,17.0,105.98,0,0,0.0,0.0,2,5,0,0,0,0,1,18,0,1.78
+Eliezer Mayenda,2026-03-14,Sunderland,Brighton & Hove Albion,6.2,12,1294.0,2.0,107.83,0,0,0.0,0.0,2,3,0,0,0,0,0,8,0,1.55
+Eliezer Mayenda,2026-03-22,Newcastle United,Sunderland,,1,122.0,0.0,122.0,0,0,0.0,0.0,0,0,0,0,0,0,0,4,0,0.0
+Eliezer Mayenda,2026-03-27,Cyprus U21,Spain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eliezer Mayenda,2026-03-31,Spain U21,Kosovo U21,6.4,45,4847.0,9.0,107.71,0,0,0.0,0.0,12,15,0,0,0,0,1,26,0,1.86
+Eliezer Mayenda,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eliezer Mayenda,2026-04-19,Aston Villa,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eliezer Mayenda,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

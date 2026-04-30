@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tolu Arokodare,2026-01-18,Wolverhampton,Newcastle United,6.4,65,,,0.0,0,0,0.03,0.0,6,7,0,0,0,0,1,16
-Tolu Arokodare,2026-01-24,Manchester City,Wolverhampton,6.7,19,,,0.0,0,0,0.08,0.05,4,4,0,0,0,0,0,6
-Tolu Arokodare,2026-01-31,Wolverhampton,Bournemouth,6.8,90,,,0.0,0,0,0.65,0.04,16,20,0,0,0,0,1,40
-Tolu Arokodare,2026-02-07,Wolverhampton,Chelsea,7.4,90,,,0.0,1,0,0.54,0.0,10,15,0,0,0,0,0,30
-Tolu Arokodare,2026-02-11,Nottingham Forest,Wolverhampton,6.3,90,,,0.0,0,0,0.12,0.01,12,15,1,0,0,0,0,41
-Tolu Arokodare,2026-02-15,Grimsby Town,Wolverhampton,6.7,90,,,0.0,0,0,0.0,0.0,9,18,0,0,0,0,0,41
-Tolu Arokodare,2026-02-18,Wolverhampton,Arsenal,6.5,68,,,0.0,0,0,0.02,0.0,5,9,0,0,0,0,1,25
-Tolu Arokodare,2026-02-22,Crystal Palace,Wolverhampton,5.4,90,,,0.0,0,0,1.1,0.01,5,12,0,0,1,0,2,37
-Tolu Arokodare,2026-02-27,Wolverhampton,Aston Villa,6.4,9,,,0.0,0,0,0.0,0.01,2,2,1,0,0,0,0,6
-Tolu Arokodare,2026-03-03,Wolverhampton,Liverpool,6.9,30,,,0.0,0,0,0.0,0.01,7,11,1,0,0,0,0,23
-Tolu Arokodare,2026-03-06,Wolverhampton,Liverpool,7.0,75,,,0.0,0,0,0.0,0.0,4,7,0,0,0,0,2,24
-Tolu Arokodare,2026-03-16,Brentford,Wolverhampton,7.6,16,,,0.0,1,0,0.57,0.08,4,6,0,0,1,0,1,13
-Tolu Arokodare,2026-04-10,West Ham United,Wolverhampton,6.4,19,,,0.0,0,0,0.0,0.0,3,5,1,0,0,0,0,7
-Tolu Arokodare,2026-04-18,Leeds United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tolu Arokodare,2026-04-25,Wolverhampton,Tottenham Hotspur,6.3,19,,,0.0,0,0,0.0,0.0,2,6,0,0,0,0,0,10
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tolu Arokodare,2026-01-18,Wolverhampton,Newcastle United,6.4,65,6905.0,12.0,106.23,0,0,0.03,0.0,6,7,0,0,0,0,1,16,0,1.74
+Tolu Arokodare,2026-01-24,Manchester City,Wolverhampton,6.7,19,2020.0,4.0,106.32,0,0,0.08,0.05,4,4,0,0,0,0,0,6,0,1.98
+Tolu Arokodare,2026-01-31,Wolverhampton,Bournemouth,6.8,90,9630.0,17.0,107.0,0,0,0.65,0.04,16,20,0,0,0,0,1,40,0,1.77
+Tolu Arokodare,2026-02-07,Wolverhampton,Chelsea,7.4,90,9576.0,17.0,106.4,1,0,0.54,0.0,10,15,0,0,0,0,0,30,0,1.78
+Tolu Arokodare,2026-02-11,Nottingham Forest,Wolverhampton,6.3,90,9622.0,17.0,106.91,0,0,0.12,0.01,12,15,1,0,0,0,0,41,0,1.77
+Tolu Arokodare,2026-02-15,Grimsby Town,Wolverhampton,6.7,90,9622.0,17.0,106.91,0,0,0.0,0.0,9,18,0,0,0,0,0,41,0,1.77
+Tolu Arokodare,2026-02-18,Wolverhampton,Arsenal,6.5,68,7258.0,13.0,106.74,0,0,0.02,0.0,5,9,0,0,0,0,1,25,0,1.79
+Tolu Arokodare,2026-02-22,Crystal Palace,Wolverhampton,5.4,90,9630.0,19.0,107.0,0,0,1.1,0.01,5,12,0,0,1,0,2,37,0,1.97
+Tolu Arokodare,2026-02-27,Wolverhampton,Aston Villa,6.4,9,970.0,2.0,107.78,0,0,0.0,0.01,2,2,1,0,0,0,0,6,0,2.06
+Tolu Arokodare,2026-03-03,Wolverhampton,Liverpool,6.9,30,3247.0,6.0,108.23,0,0,0.0,0.01,7,11,1,0,0,0,0,23,0,1.85
+Tolu Arokodare,2026-03-06,Wolverhampton,Liverpool,7.0,75,8001.0,14.0,106.68,0,0,0.0,0.0,4,7,0,0,0,0,2,24,0,1.75
+Tolu Arokodare,2026-03-16,Brentford,Wolverhampton,7.6,16,1747.0,4.0,109.19,1,0,0.57,0.08,4,6,0,0,1,0,1,13,0,2.29
+Tolu Arokodare,2026-04-10,West Ham United,Wolverhampton,6.4,19,2024.0,4.0,106.53,0,0,0.0,0.0,3,5,1,0,0,0,0,7,0,1.98
+Tolu Arokodare,2026-04-18,Leeds United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tolu Arokodare,2026-04-25,Wolverhampton,Tottenham Hotspur,6.3,19,2037.0,4.0,107.21,0,0,0.0,0.0,2,6,0,0,0,0,0,10,0,1.96

@@ -1,11 +1,11 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Mike Trésor,2025-08-26,Burnley,Derby County,7.0,12,,,0.0,0,0,0.0,0.0,3,3,1,0,0,0,1,5
-Mike Trésor,2025-09-23,Burnley,Cardiff City,6.9,12,,,0.0,0,0,0.0,0.0,5,7,0,0,0,0,2,13
-Mike Trésor,2025-12-06,Newcastle United,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mike Trésor,2025-12-13,Burnley,Fulham,6.4,14,,,0.0,0,0,0.0,0.0,6,8,0,0,0,0,0,10
-Mike Trésor,2025-12-20,Bournemouth,Burnley,6.4,8,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,5
-Mike Trésor,2025-12-27,Burnley,Everton,6.5,9,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,5
-Mike Trésor,2025-12-30,Burnley,Newcastle United,6.4,9,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,2,4
-Mike Trésor,2026-04-11,Burnley,Brighton & Hove Albion,6.6,15,,,0.0,0,0,0.0,0.0,10,10,1,0,0,0,1,14
-Mike Trésor,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mike Trésor,2026-04-22,Burnley,Manchester City,6.5,8,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,1,4
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mike Trésor,2025-08-26,Burnley,Derby County,7.0,12,1294.0,2.0,107.83,0,0,0.0,0.0,3,3,1,0,0,0,1,5,0,1.55
+Mike Trésor,2025-09-23,Burnley,Cardiff City,6.9,12,1340.0,2.0,111.67,0,0,0.0,0.0,5,7,0,0,0,0,2,13,0,1.49
+Mike Trésor,2025-12-06,Newcastle United,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mike Trésor,2025-12-13,Burnley,Fulham,6.4,14,1512.0,3.0,108.0,0,0,0.0,0.0,6,8,0,0,0,0,0,10,0,1.98
+Mike Trésor,2025-12-20,Bournemouth,Burnley,6.4,8,861.0,2.0,107.62,0,0,0.0,0.0,1,1,0,0,0,0,0,5,0,2.32
+Mike Trésor,2025-12-27,Burnley,Everton,6.5,9,966.0,2.0,107.33,0,0,0.0,0.0,2,3,0,0,0,0,0,5,0,2.07
+Mike Trésor,2025-12-30,Burnley,Newcastle United,6.4,9,987.0,2.0,109.67,0,0,0.0,0.0,3,3,0,0,0,0,2,4,0,2.03
+Mike Trésor,2026-04-11,Burnley,Brighton & Hove Albion,6.6,15,1646.0,3.0,109.73,0,0,0.0,0.0,10,10,1,0,0,0,1,14,0,1.82
+Mike Trésor,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mike Trésor,2026-04-22,Burnley,Manchester City,6.5,8,869.0,2.0,108.62,0,0,0.0,0.0,1,2,0,0,0,0,1,4,0,2.3

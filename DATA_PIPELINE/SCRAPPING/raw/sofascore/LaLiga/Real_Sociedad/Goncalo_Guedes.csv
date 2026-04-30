@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Goncalo Guedes,2026-02-04,Deportivo Alavés,Real Sociedad,7.7,90,,,0.0,1,0,0.0,0.0,19,25,1,0,0,0,3,39
-Goncalo Guedes,2026-02-07,Real Sociedad,Elche,6.5,65,,,0.0,0,0,0.0,0.07,11,16,1,0,0,0,3,22
-Goncalo Guedes,2026-02-11,Athletic Club,Real Sociedad,7.3,89,,,0.0,0,0,0.0,0.0,22,29,3,0,0,0,5,42
-Goncalo Guedes,2026-02-14,Real Madrid,Real Sociedad,6.7,45,,,0.0,0,0,0.05,0.18,10,13,1,0,0,0,3,26
-Goncalo Guedes,2026-02-21,Real Sociedad,Real Oviedo,6.9,90,,,0.0,0,0,0.07,0.31,24,30,2,0,0,0,0,48
-Goncalo Guedes,2026-02-28,Mallorca,Real Sociedad,6.4,90,,,0.0,0,0,0.06,0.04,32,38,2,0,0,0,2,48
-Goncalo Guedes,2026-03-04,Real Sociedad,Athletic Club,7.9,89,,,0.0,0,0,0.0,0.0,18,24,3,0,0,0,4,41
-Goncalo Guedes,2026-03-07,Atlético Madrid,Real Sociedad,6.5,35,,,0.0,0,0,0.0,0.06,10,13,0,0,0,0,1,21
-Goncalo Guedes,2026-03-15,Real Sociedad,Osasuna,9.1,63,,,0.0,2,0,0.19,0.07,17,17,0,0,0,0,2,27
-Goncalo Guedes,2026-03-20,Villarreal,Real Sociedad,6.1,90,,,0.0,0,0,0.02,0.05,26,38,0,0,0,0,4,63
-Goncalo Guedes,2026-03-29,Mexico,Portugal,6.0,45,,,0.0,0,0,0.0,0.0,16,19,1,0,0,0,3,30
-Goncalo Guedes,2026-04-01,USA,Portugal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Goncalo Guedes,2026-04-04,Real Sociedad,Levante UD,7.4,85,,,0.0,0,0,0.5,0.2,22,25,2,0,0,0,2,49
-Goncalo Guedes,2026-04-11,Real Sociedad,Deportivo Alavés,6.7,45,,,0.0,0,0,0.11,0.25,6,10,1,0,1,0,2,18
-Goncalo Guedes,2026-04-18,Atlético Madrid,Real Sociedad,7.2,78,,,0.0,0,0,0.0,0.0,17,23,2,0,0,0,3,44
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Goncalo Guedes,2026-02-04,Deportivo Alavés,Real Sociedad,7.7,90,9651.0,17.0,107.23,1,0,0.0,0.0,19,25,1,0,0,0,3,39,0,1.76
+Goncalo Guedes,2026-02-07,Real Sociedad,Elche,6.5,65,6955.0,12.0,107.0,0,0,0.0,0.07,11,16,1,0,0,0,3,22,0,1.73
+Goncalo Guedes,2026-02-11,Athletic Club,Real Sociedad,7.3,89,9584.0,17.0,107.69,0,0,0.0,0.0,22,29,3,0,0,0,5,42,0,1.77
+Goncalo Guedes,2026-02-14,Real Madrid,Real Sociedad,6.7,45,4872.0,9.0,108.27,0,0,0.05,0.18,10,13,1,0,0,0,3,26,0,1.85
+Goncalo Guedes,2026-02-21,Real Sociedad,Real Oviedo,6.9,90,9652.0,17.0,107.24,0,0,0.07,0.31,24,30,2,0,0,0,0,48,0,1.76
+Goncalo Guedes,2026-02-28,Mallorca,Real Sociedad,6.4,90,9677.0,17.0,107.52,0,0,0.06,0.04,32,38,2,0,0,0,2,48,0,1.76
+Goncalo Guedes,2026-03-04,Real Sociedad,Athletic Club,7.9,89,9567.0,17.0,107.49,0,0,0.0,0.0,18,24,3,0,0,0,4,41,0,1.78
+Goncalo Guedes,2026-03-07,Atlético Madrid,Real Sociedad,6.5,35,3776.0,7.0,107.89,0,0,0.0,0.06,10,13,0,0,0,0,1,21,0,1.85
+Goncalo Guedes,2026-03-15,Real Sociedad,Osasuna,9.1,63,6753.0,12.0,107.19,2,0,0.19,0.07,17,17,0,0,0,0,2,27,0,1.78
+Goncalo Guedes,2026-03-20,Villarreal,Real Sociedad,6.1,90,9765.0,17.0,108.5,0,0,0.02,0.05,26,38,0,0,0,0,4,63,0,1.74
+Goncalo Guedes,2026-03-29,Mexico,Portugal,6.0,45,4888.0,9.0,108.62,0,0,0.0,0.0,16,19,1,0,0,0,3,30,0,1.84
+Goncalo Guedes,2026-04-01,USA,Portugal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Goncalo Guedes,2026-04-04,Real Sociedad,Levante UD,7.4,85,9156.0,16.0,107.72,0,0,0.5,0.2,22,25,2,0,0,0,2,49,0,1.75
+Goncalo Guedes,2026-04-11,Real Sociedad,Deportivo Alavés,6.7,45,4826.0,10.0,107.24,0,0,0.11,0.25,6,10,1,0,1,0,2,18,0,2.07
+Goncalo Guedes,2026-04-18,Atlético Madrid,Real Sociedad,7.2,78,8412.0,15.0,107.85,0,0,0.0,0.0,17,23,2,0,0,0,3,44,0,1.78

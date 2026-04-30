@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jordan Pickford,2026-01-18,Aston Villa,Everton,8.8,90,,,0.0,0,0,0.0,0.01,22,35,0,0,0,0,10,49
-Jordan Pickford,2026-01-26,Everton,Leeds United,6.8,90,,,0.0,0,0,0.0,0.0,23,37,0,0,0,0,9,46
-Jordan Pickford,2026-01-31,Brighton & Hove Albion,Everton,7.7,90,,,0.0,0,0,0.0,0.0,40,55,0,0,0,0,7,60
-Jordan Pickford,2026-02-07,Fulham,Everton,7.9,90,,,0.0,0,0,0.0,0.0,23,29,0,0,0,0,3,36
-Jordan Pickford,2026-02-10,Everton,Bournemouth,6.3,90,,,0.0,0,0,0.0,0.01,32,50,0,0,0,0,11,57
-Jordan Pickford,2026-02-23,Everton,Manchester United,7.8,90,,,0.0,0,0,0.0,0.01,16,32,0,0,0,0,10,40
-Jordan Pickford,2026-02-28,Newcastle United,Everton,5.8,90,,,0.0,0,0,0.0,0.01,19,34,0,0,0,0,5,42
-Jordan Pickford,2026-03-03,Everton,Burnley,7.5,90,,,0.0,0,0,0.0,0.0,36,42,0,0,0,0,8,49
-Jordan Pickford,2026-03-14,Arsenal,Everton,6.1,90,,,0.0,0,0,0.0,0.0,22,41,0,0,0,0,7,49
-Jordan Pickford,2026-03-21,Everton,Chelsea,7.9,90,,,0.0,0,0,0.0,0.0,22,33,0,0,0,0,5,40
-Jordan Pickford,2026-03-27,England,Uruguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jordan Pickford,2026-03-31,England,Japan,6.7,90,,,0.0,0,0,0.0,0.0,23,29,0,0,0,0,14,39
-Jordan Pickford,2026-04-11,Brentford,Everton,5.6,90,,,0.0,0,0,0.0,0.0,23,30,0,0,0,0,5,36
-Jordan Pickford,2026-04-19,Everton,Liverpool,6.6,90,,,0.0,0,0,0.0,0.0,25,44,1,0,0,0,10,54
-Jordan Pickford,2026-04-25,West Ham United,Everton,7.1,90,,,0.0,0,0,0.0,0.01,24,35,0,0,0,0,6,43
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jordan Pickford,2026-01-18,Aston Villa,Everton,8.8,90,9781.0,17.0,108.68,0,0,0.0,0.01,22,35,0,0,0,0,10,49,0,1.74
+Jordan Pickford,2026-01-26,Everton,Leeds United,6.8,90,9756.0,17.0,108.4,0,0,0.0,0.0,23,37,0,0,0,0,9,46,0,1.74
+Jordan Pickford,2026-01-31,Brighton & Hove Albion,Everton,7.7,90,9790.0,17.0,108.78,0,0,0.0,0.0,40,55,0,0,0,0,7,60,0,1.74
+Jordan Pickford,2026-02-07,Fulham,Everton,7.9,90,9639.0,17.0,107.1,0,0,0.0,0.0,23,29,0,0,0,0,3,36,0,1.76
+Jordan Pickford,2026-02-10,Everton,Bournemouth,6.3,90,9827.0,17.0,109.19,0,0,0.0,0.01,32,50,0,0,0,0,11,57,0,1.73
+Jordan Pickford,2026-02-23,Everton,Manchester United,7.8,90,9743.0,17.0,108.26,0,0,0.0,0.01,16,32,0,0,0,0,10,40,0,1.74
+Jordan Pickford,2026-02-28,Newcastle United,Everton,5.8,90,9689.0,17.0,107.66,0,0,0.0,0.01,19,34,0,0,0,0,5,42,0,1.75
+Jordan Pickford,2026-03-03,Everton,Burnley,7.5,90,9756.0,17.0,108.4,0,0,0.0,0.0,36,42,0,0,0,0,8,49,0,1.74
+Jordan Pickford,2026-03-14,Arsenal,Everton,6.1,90,9743.0,17.0,108.26,0,0,0.0,0.0,22,41,0,0,0,0,7,49,0,1.74
+Jordan Pickford,2026-03-21,Everton,Chelsea,7.9,90,9680.0,17.0,107.56,0,0,0.0,0.0,22,33,0,0,0,0,5,40,0,1.76
+Jordan Pickford,2026-03-27,England,Uruguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jordan Pickford,2026-03-31,England,Japan,6.7,90,9789.0,17.0,108.77,0,0,0.0,0.0,23,29,0,0,0,0,14,39,0,1.74
+Jordan Pickford,2026-04-11,Brentford,Everton,5.6,90,9664.0,17.0,107.38,0,0,0.0,0.0,23,30,0,0,0,0,5,36,0,1.76
+Jordan Pickford,2026-04-19,Everton,Liverpool,6.6,90,9802.0,17.0,108.91,0,0,0.0,0.0,25,44,1,0,0,0,10,54,0,1.73
+Jordan Pickford,2026-04-25,West Ham United,Everton,7.1,90,9706.0,17.0,107.84,0,0,0.0,0.01,24,35,0,0,0,0,6,43,0,1.75

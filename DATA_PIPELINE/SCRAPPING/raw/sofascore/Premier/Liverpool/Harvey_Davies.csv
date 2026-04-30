@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Harvey Davies,2025-09-13,Crawley Town,Cheltenham Town,7.4,90,,,0.0,0,0,0.0,0.0,46,68,0,0,0,0,16,82
-Harvey Davies,2025-09-20,Notts County,Crawley Town,6.0,90,,,0.0,0,0,0.0,0.0,30,42,0,0,0,0,7,56
-Harvey Davies,2025-09-27,Crawley Town,Barrow AFC,7.3,90,,,0.0,0,0,0.0,0.0,34,38,0,0,0,0,9,55
-Harvey Davies,2025-11-11,Crawley Town,Peterborough United,6.4,90,,,0.0,0,0,0.0,0.0,47,64,0,0,0,0,12,77
-Harvey Davies,2025-11-15,Gillingham,Crawley Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Harvey Davies,2025-11-22,Crawley Town,Accrington Stanley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Harvey Davies,2025-11-29,Salford City,Crawley Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Harvey Davies,2025-12-09,Bromley,Crawley Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Harvey Davies,2025-12-13,Crawley Town,Oldham Athletic,6.8,90,,,0.0,0,0,0.0,0.0,22,39,0,0,0,0,13,60
-Harvey Davies,2025-12-20,Swindon Town,Crawley Town,6.8,90,,,0.0,0,0,0.0,0.0,16,26,0,0,0,0,4,34
-Harvey Davies,2025-12-26,Crawley Town,Colchester United,6.2,90,,,0.0,0,0,0.0,0.0,20,35,0,0,0,0,8,41
-Harvey Davies,2025-12-29,Crawley Town,Bromley,6.3,90,,,0.0,0,0,0.0,0.0,20,42,0,0,0,0,7,52
-Harvey Davies,2026-01-01,Barnet,Crawley Town,6.6,90,,,0.0,0,0,0.0,0.0,19,40,0,0,0,0,15,55
-Harvey Davies,2026-01-04,Cheltenham Town,Crawley Town,7.2,90,,,0.0,0,0,0.0,0.0,39,51,0,0,0,0,10,62
-Harvey Davies,2026-01-17,Crawley Town,Notts County,6.7,90,,,0.0,0,0,0.0,0.0,31,52,0,0,0,0,7,61
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Harvey Davies,2025-09-13,Crawley Town,Cheltenham Town,7.4,90,9994.0,17.0,111.04,0,0,0.0,0.0,46,68,0,0,0,0,16,82,0,1.7
+Harvey Davies,2025-09-20,Notts County,Crawley Town,6.0,90,9773.0,17.0,108.59,0,0,0.0,0.0,30,42,0,0,0,0,7,56,0,1.74
+Harvey Davies,2025-09-27,Crawley Town,Barrow AFC,7.3,90,9794.0,17.0,108.82,0,0,0.0,0.0,34,38,0,0,0,0,9,55,0,1.74
+Harvey Davies,2025-11-11,Crawley Town,Peterborough United,6.4,90,9923.0,17.0,110.26,0,0,0.0,0.0,47,64,0,0,0,0,12,77,0,1.71
+Harvey Davies,2025-11-15,Gillingham,Crawley Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Harvey Davies,2025-11-22,Crawley Town,Accrington Stanley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Harvey Davies,2025-11-29,Salford City,Crawley Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Harvey Davies,2025-12-09,Bromley,Crawley Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Harvey Davies,2025-12-13,Crawley Town,Oldham Athletic,6.8,90,9864.0,17.0,109.6,0,0,0.0,0.0,22,39,0,0,0,0,13,60,0,1.72
+Harvey Davies,2025-12-20,Swindon Town,Crawley Town,6.8,90,9643.0,17.0,107.14,0,0,0.0,0.0,16,26,0,0,0,0,4,34,0,1.76
+Harvey Davies,2025-12-26,Crawley Town,Colchester United,6.2,90,9722.0,17.0,108.02,0,0,0.0,0.0,20,35,0,0,0,0,8,41,0,1.75
+Harvey Davies,2025-12-29,Crawley Town,Bromley,6.3,90,9756.0,17.0,108.4,0,0,0.0,0.0,20,42,0,0,0,0,7,52,0,1.74
+Harvey Davies,2026-01-01,Barnet,Crawley Town,6.6,90,9868.0,17.0,109.64,0,0,0.0,0.0,19,40,0,0,0,0,15,55,0,1.72
+Harvey Davies,2026-01-04,Cheltenham Town,Crawley Town,7.2,90,9835.0,17.0,109.28,0,0,0.0,0.0,39,51,0,0,0,0,10,62,0,1.73
+Harvey Davies,2026-01-17,Crawley Town,Notts County,6.7,90,9794.0,17.0,108.82,0,0,0.0,0.0,31,52,0,0,0,0,7,61,0,1.74

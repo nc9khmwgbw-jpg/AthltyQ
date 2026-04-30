@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ezra Mayers,2026-01-11,West Ham United,Queens Park Rangers,6.5,90,,,0.0,0,0,0.0,0.0,41,50,1,0,0,0,3,62
-Ezra Mayers,2026-01-17,Tottenham Hotspur,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-01-27,Boston United,West Ham U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-02-02,Middlesbrough U21,West Ham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-02-10,West Ham United,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-02-14,Burton Albion,West Ham United,7.2,120,,,0.0,0,0,0.0,0.0,67,81,1,0,3,0,5,119
-Ezra Mayers,2026-02-21,West Ham United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-02-28,Liverpool,West Ham United,6.7,8,,,0.0,0,0,0.0,0.05,5,5,0,0,0,0,0,5
-Ezra Mayers,2026-03-09,West Ham United,Brentford,6.1,75,,,0.0,0,0,0.0,0.0,22,32,0,0,0,0,2,48
-Ezra Mayers,2026-03-14,West Ham United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-03-25,England U19,Serbia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-03-28,England U19,Poland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-03-31,Portugal U19,England U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-04-05,West Ham United,Leeds United,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ezra Mayers,2026-04-24,Fulham U21,West Ham U21,,120,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ezra Mayers,2026-01-11,West Ham United,Queens Park Rangers,6.5,90,9748.0,17.0,108.31,0,0,0.0,0.0,41,50,1,0,0,0,3,62,0,1.74
+Ezra Mayers,2026-01-17,Tottenham Hotspur,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-01-27,Boston United,West Ham U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-02-02,Middlesbrough U21,West Ham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Ezra Mayers,2026-02-10,West Ham United,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-02-14,Burton Albion,West Ham United,7.2,120,13162.0,27.0,109.68,0,0,0.0,0.0,67,81,1,0,3,0,5,119,0,2.05
+Ezra Mayers,2026-02-21,West Ham United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-02-28,Liverpool,West Ham United,6.7,8,861.0,2.0,107.62,0,0,0.0,0.05,5,5,0,0,0,0,0,5,0,2.32
+Ezra Mayers,2026-03-09,West Ham United,Brentford,6.1,75,8102.0,14.0,108.03,0,0,0.0,0.0,22,32,0,0,0,0,2,48,0,1.73
+Ezra Mayers,2026-03-14,West Ham United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-03-25,England U19,Serbia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-03-28,England U19,Poland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-03-31,Portugal U19,England U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-04-05,West Ham United,Leeds United,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ezra Mayers,2026-04-24,Fulham U21,West Ham U21,,120,12600.0,23.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.83

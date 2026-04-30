@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Max Weiss,2026-01-17,Liverpool,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-01-24,Burnley,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-02-02,Sunderland,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-02-07,Burnley,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-02-11,Crystal Palace,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-02-14,Burnley,Mansfield Town,6.2,90,,,0.0,0,0,0.0,0.0,29,44,0,0,0,0,7,50
-Max Weiss,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-03-03,Everton,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-03-31,Greece U21,Germany U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-04-11,Burnley,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Max Weiss,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Max Weiss,2026-01-17,Liverpool,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-01-24,Burnley,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-02-02,Sunderland,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-02-07,Burnley,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-02-11,Crystal Palace,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-02-14,Burnley,Mansfield Town,6.2,90,9748.0,17.0,108.31,0,0,0.0,0.0,29,44,0,0,0,0,7,50,0,1.74
+Max Weiss,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-03-03,Everton,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-03-31,Greece U21,Germany U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-04-11,Burnley,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Max Weiss,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

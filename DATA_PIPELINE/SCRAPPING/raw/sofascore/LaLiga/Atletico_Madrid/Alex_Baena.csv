@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Alex Baena,2026-03-03,FC Barcelona,Atlético Madrid,6.4,21,,,0.0,0,0,0.0,0.0,4,8,1,0,1,0,4,14
-Alex Baena,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alex Baena,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alex Baena,2026-03-14,Atlético Madrid,Getafe,7.0,73,,,0.0,0,0,0.04,0.48,19,28,3,0,0,0,2,48
-Alex Baena,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.5,12,,,0.0,0,0,0.0,0.06,1,2,1,0,0,0,1,5
-Alex Baena,2026-03-22,Real Madrid,Atlético Madrid,6.6,19,,,0.0,0,0,0.02,0.02,12,17,1,0,0,0,1,20
-Alex Baena,2026-03-27,Spain,Serbia,6.7,77,,,0.0,0,0,0.0,0.0,38,42,1,0,0,0,3,57
-Alex Baena,2026-03-31,Spain,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alex Baena,2026-04-04,Atlético Madrid,FC Barcelona,6.9,61,,,0.0,0,0,0.03,0.12,9,10,1,0,0,0,0,19
-Alex Baena,2026-04-08,FC Barcelona,Atlético Madrid,6.8,30,,,0.0,0,0,0.0,0.01,19,21,0,0,0,0,2,24
-Alex Baena,2026-04-11,Sevilla,Atlético Madrid,6.4,90,,,0.0,0,0,0.06,0.14,36,48,2,0,0,0,1,67
-Alex Baena,2026-04-14,Atlético Madrid,FC Barcelona,7.0,24,,,0.0,0,0,0.02,0.12,3,5,0,0,0,0,1,11
-Alex Baena,2026-04-18,Atlético Madrid,Real Sociedad,7.2,50,,,0.0,0,0,0.0,0.0,22,28,1,0,0,0,1,36
-Alex Baena,2026-04-22,Elche,Atlético Madrid,6.3,62,,,0.0,0,0,0.0,0.04,6,10,0,0,4,0,2,21
-Alex Baena,2026-04-25,Atlético Madrid,Athletic Club,7.5,90,,,0.0,0,0,0.0,0.25,33,38,2,0,2,0,4,57
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alex Baena,2026-03-03,FC Barcelona,Atlético Madrid,6.4,21,2314.0,5.0,110.19,0,0,0.0,0.0,4,8,1,0,1,0,4,14,0,2.16
+Alex Baena,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alex Baena,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alex Baena,2026-03-14,Atlético Madrid,Getafe,7.0,73,7892.0,14.0,108.11,0,0,0.04,0.48,19,28,3,0,0,0,2,48,0,1.77
+Alex Baena,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.5,12,1294.0,2.0,107.83,0,0,0.0,0.06,1,2,1,0,0,0,1,5,0,1.55
+Alex Baena,2026-03-22,Real Madrid,Atlético Madrid,6.6,19,2092.0,4.0,110.11,0,0,0.02,0.02,12,17,1,0,0,0,1,20,0,1.91
+Alex Baena,2026-03-27,Spain,Serbia,6.7,77,8362.0,15.0,108.6,0,0,0.0,0.0,38,42,1,0,0,0,3,57,0,1.79
+Alex Baena,2026-03-31,Spain,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alex Baena,2026-04-04,Atlético Madrid,FC Barcelona,6.9,61,6485.0,12.0,106.31,0,0,0.03,0.12,9,10,1,0,0,0,0,19,0,1.85
+Alex Baena,2026-04-08,FC Barcelona,Atlético Madrid,6.8,30,3276.0,6.0,109.2,0,0,0.0,0.01,19,21,0,0,0,0,2,24,0,1.83
+Alex Baena,2026-04-11,Sevilla,Atlético Madrid,6.4,90,9744.0,17.0,108.27,0,0,0.06,0.14,36,48,2,0,0,0,1,67,0,1.74
+Alex Baena,2026-04-14,Atlético Madrid,FC Barcelona,7.0,24,2579.0,5.0,107.46,0,0,0.02,0.12,3,5,0,0,0,0,1,11,0,1.94
+Alex Baena,2026-04-18,Atlético Madrid,Real Sociedad,7.2,50,5414.0,10.0,108.28,0,0,0.0,0.0,22,28,1,0,0,0,1,36,0,1.85
+Alex Baena,2026-04-22,Elche,Atlético Madrid,6.3,62,6623.0,18.0,106.82,0,0,0.0,0.04,6,10,0,0,4,0,2,21,0,2.72
+Alex Baena,2026-04-25,Atlético Madrid,Athletic Club,7.5,90,9739.0,20.0,108.21,0,0,0.0,0.25,33,38,2,0,2,0,4,57,0,2.05

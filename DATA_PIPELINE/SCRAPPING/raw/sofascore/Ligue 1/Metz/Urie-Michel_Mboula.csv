@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Urie-Michel Mboula,2026-01-25,Metz,Olympique Lyonnais,6.6,28,,,0.0,0,0,0.0,0.04,15,17,0,0,0,0,1,28
-Urie-Michel Mboula,2026-02-01,Angers,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Urie-Michel Mboula,2026-02-06,Metz,Lille,7.5,90,,,0.0,0,0,0.04,0.01,41,44,0,0,2,0,3,62
-Urie-Michel Mboula,2026-02-15,Metz,Auxerre,6.4,90,,,0.0,0,0,0.07,0.04,86,94,0,0,4,0,5,115
-Urie-Michel Mboula,2026-02-21,Paris Saint-Germain,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Urie-Michel Mboula,2026-03-01,Metz,Stade Brestois,7.0,9,,,0.0,0,0,0.0,0.02,9,9,0,0,0,0,1,10
-Urie-Michel Mboula,2026-03-08,RC Lens,Metz,6.5,17,,,0.0,0,0,0.0,0.01,22,23,0,0,0,0,1,24
-Urie-Michel Mboula,2026-03-15,Metz,Toulouse,6.5,76,,,0.0,0,0,0.0,0.0,51,54,0,0,1,0,4,64
-Urie-Michel Mboula,2026-03-22,Stade Rennais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Urie-Michel Mboula,2026-03-27,Uzbekistan,Gabon,6.7,90,,,0.0,0,0,0.0,0.0,54,61,0,0,4,0,5,78
-Urie-Michel Mboula,2026-04-05,Metz,Nantes,7.2,63,,,0.0,0,0,0.0,0.01,63,66,0,0,1,0,8,78
-Urie-Michel Mboula,2026-04-10,Olympique de Marseille,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Urie-Michel Mboula,2026-04-19,Metz,Paris FC,6.4,57,,,0.0,0,0,0.0,0.01,34,37,0,0,1,0,3,45
-Urie-Michel Mboula,2026-04-26,Le Havre,Metz,7.0,45,,,0.0,0,0,0.0,0.1,18,22,0,0,2,0,3,38
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Urie-Michel Mboula,2026-01-25,Metz,Olympique Lyonnais,6.6,28,3070.0,5.0,109.64,0,0,0.0,0.04,15,17,0,0,0,0,1,28,0,1.63
+Urie-Michel Mboula,2026-02-01,Angers,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Urie-Michel Mboula,2026-02-06,Metz,Lille,7.5,90,9748.0,20.0,108.31,0,0,0.04,0.01,41,44,0,0,2,0,3,62,0,2.05
+Urie-Michel Mboula,2026-02-15,Metz,Auxerre,6.4,90,9996.0,23.0,111.07,0,0,0.07,0.04,86,94,0,0,4,0,5,115,0,2.3
+Urie-Michel Mboula,2026-02-21,Paris Saint-Germain,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Urie-Michel Mboula,2026-03-01,Metz,Stade Brestois,7.0,9,1000.0,2.0,111.11,0,0,0.0,0.02,9,9,0,0,0,0,1,10,0,2.0
+Urie-Michel Mboula,2026-03-08,RC Lens,Metz,6.5,17,1898.0,3.0,111.65,0,0,0.0,0.01,22,23,0,0,0,0,1,24,0,1.58
+Urie-Michel Mboula,2026-03-15,Metz,Toulouse,6.5,76,8299.0,16.0,109.2,0,0,0.0,0.0,51,54,0,0,1,0,4,64,0,1.93
+Urie-Michel Mboula,2026-03-22,Stade Rennais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Urie-Michel Mboula,2026-03-27,Uzbekistan,Gabon,6.7,90,9840.0,23.0,109.33,0,0,0.0,0.0,54,61,0,0,4,0,5,78,0,2.34
+Urie-Michel Mboula,2026-04-05,Metz,Nantes,7.2,63,7043.0,14.0,111.79,0,0,0.0,0.01,63,66,0,0,1,0,8,78,0,1.99
+Urie-Michel Mboula,2026-04-10,Olympique de Marseille,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Urie-Michel Mboula,2026-04-19,Metz,Paris FC,6.4,57,6212.0,12.0,108.98,0,0,0.0,0.01,34,37,0,0,1,0,3,45,0,1.93
+Urie-Michel Mboula,2026-04-26,Le Havre,Metz,7.0,45,4922.0,11.0,109.38,0,0,0.0,0.1,18,22,0,0,2,0,3,38,0,2.23

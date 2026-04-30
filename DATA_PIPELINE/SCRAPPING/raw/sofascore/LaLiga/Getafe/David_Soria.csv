@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-David Soria,2026-01-09,Getafe,Real Sociedad,6.1,90,,,0.0,0,0,0.0,0.0,14,32,0,0,0,0,9,40
-David Soria,2026-01-18,Getafe,Valencia,6.2,90,,,0.0,0,0,0.0,0.0,17,25,0,0,0,0,10,32
-David Soria,2026-01-26,Girona FC,Getafe,7.5,90,,,0.0,0,0,0.0,0.0,11,25,0,0,0,0,4,28
-David Soria,2026-02-01,Getafe,Celta Vigo,7.2,90,,,0.0,0,0,0.0,0.0,16,27,0,0,0,0,8,35
-David Soria,2026-02-08,Deportivo Alavés,Getafe,8.6,90,,,0.0,0,0,0.0,0.0,18,32,0,0,0,0,7,41
-David Soria,2026-02-14,Getafe,Villarreal,6.7,90,,,0.0,0,0,0.0,0.0,12,26,0,0,0,0,5,32
-David Soria,2026-02-22,Getafe,Sevilla,5.7,90,,,0.0,0,0,0.0,0.0,10,40,0,0,0,0,11,43
-David Soria,2026-03-02,Real Madrid,Getafe,9.7,90,,,0.0,0,0,0.0,0.0,14,29,0,0,0,0,12,41
-David Soria,2026-03-08,Getafe,Real Betis,9.7,90,,,0.0,0,0,0.0,0.0,13,33,0,0,0,0,7,40
-David Soria,2026-03-14,Atlético Madrid,Getafe,8.0,90,,,0.0,0,0,0.0,0.0,19,30,0,0,0,0,5,38
-David Soria,2026-03-21,Espanyol,Getafe,8.8,90,,,0.0,0,0,0.0,0.0,17,33,0,0,0,0,10,37
-David Soria,2026-04-05,Getafe,Athletic Club,6.5,90,,,0.0,0,0,0.0,0.0,8,27,0,0,0,0,15,36
-David Soria,2026-04-13,Levante UD,Getafe,8.2,90,,,0.0,0,0,0.0,0.0,11,24,0,0,0,0,6,30
-David Soria,2026-04-22,Real Sociedad,Getafe,7.7,90,,,0.0,0,0,0.0,0.0,16,38,0,0,0,0,9,43
-David Soria,2026-04-25,Getafe,FC Barcelona,5.9,90,,,0.0,0,0,0.0,0.0,6,25,0,0,0,0,9,27
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+David Soria,2026-01-09,Getafe,Real Sociedad,6.1,90,9730.0,17.0,108.11,0,0,0.0,0.0,14,32,0,0,0,0,9,40,0,1.75
+David Soria,2026-01-18,Getafe,Valencia,6.2,90,9709.0,17.0,107.88,0,0,0.0,0.0,17,25,0,0,0,0,10,32,0,1.75
+David Soria,2026-01-26,Girona FC,Getafe,7.5,90,9618.0,17.0,106.87,0,0,0.0,0.0,11,25,0,0,0,0,4,28,0,1.77
+David Soria,2026-02-01,Getafe,Celta Vigo,7.2,90,9697.0,17.0,107.74,0,0,0.0,0.0,16,27,0,0,0,0,8,35,0,1.75
+David Soria,2026-02-08,Deportivo Alavés,Getafe,8.6,90,9710.0,17.0,107.89,0,0,0.0,0.0,18,32,0,0,0,0,7,41,0,1.75
+David Soria,2026-02-14,Getafe,Villarreal,6.7,90,9647.0,17.0,107.19,0,0,0.0,0.0,12,26,0,0,0,0,5,32,0,1.76
+David Soria,2026-02-22,Getafe,Sevilla,5.7,90,9768.0,17.0,108.53,0,0,0.0,0.0,10,40,0,0,0,0,11,43,0,1.74
+David Soria,2026-03-02,Real Madrid,Getafe,9.7,90,9772.0,17.0,108.58,0,0,0.0,0.0,14,29,0,0,0,0,12,41,0,1.74
+David Soria,2026-03-08,Getafe,Real Betis,9.7,90,9706.0,17.0,107.84,0,0,0.0,0.0,13,33,0,0,0,0,7,40,0,1.75
+David Soria,2026-03-14,Atlético Madrid,Getafe,8.0,90,9672.0,17.0,107.47,0,0,0.0,0.0,19,30,0,0,0,0,5,38,0,1.76
+David Soria,2026-03-21,Espanyol,Getafe,8.8,90,9730.0,17.0,108.11,0,0,0.0,0.0,17,33,0,0,0,0,10,37,0,1.75
+David Soria,2026-04-05,Getafe,Athletic Club,6.5,90,9789.0,17.0,108.77,0,0,0.0,0.0,8,27,0,0,0,0,15,36,0,1.74
+David Soria,2026-04-13,Levante UD,Getafe,8.2,90,9651.0,17.0,107.23,0,0,0.0,0.0,11,24,0,0,0,0,6,30,0,1.76
+David Soria,2026-04-22,Real Sociedad,Getafe,7.7,90,9743.0,17.0,108.26,0,0,0.0,0.0,16,38,0,0,0,0,9,43,0,1.74
+David Soria,2026-04-25,Getafe,FC Barcelona,5.9,90,9676.0,17.0,107.51,0,0,0.0,0.0,6,25,0,0,0,0,9,27,0,1.76

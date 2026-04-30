@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Lucas Laso,2025-10-25,Athletic Club,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2025-10-28,Inter Valdemoro,Getafe,6.9,45,,,0.0,0,0,0.0,0.0,27,32,0,0,1,0,1,37
-Lucas Laso,2025-10-31,Getafe,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2025-11-09,Mallorca,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2025-11-23,Getafe,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2025-11-28,Getafe,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2025-12-02,CDA Navalcarnero,Getafe,6.2,120,,,0.0,0,0,0.0,0.0,69,93,0,0,1,0,11,116
-Lucas Laso,2025-12-06,Villarreal,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2025-12-13,Getafe,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2025-12-18,Burgos Club de Fútbol,Getafe,5.9,90,,,0.0,0,0,0.0,0.0,52,57,0,0,2,0,2,66
-Lucas Laso,2025-12-21,Real Betis,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2026-01-02,Rayo Vallecano,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lucas Laso,2026-01-09,Getafe,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lucas Laso,2025-10-25,Athletic Club,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2025-10-28,Inter Valdemoro,Getafe,6.9,45,4893.0,10.0,108.73,0,0,0.0,0.0,27,32,0,0,1,0,1,37,0,2.04
+Lucas Laso,2025-10-31,Getafe,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2025-11-09,Mallorca,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2025-11-23,Getafe,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2025-11-28,Getafe,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2025-12-02,CDA Navalcarnero,Getafe,6.2,120,13225.0,24.0,110.21,0,0,0.0,0.0,69,93,0,0,1,0,11,116,0,1.81
+Lucas Laso,2025-12-06,Villarreal,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2025-12-13,Getafe,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2025-12-18,Burgos Club de Fútbol,Getafe,5.9,90,9752.0,20.0,108.36,0,0,0.0,0.0,52,57,0,0,2,0,2,66,0,2.05
+Lucas Laso,2025-12-21,Real Betis,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2026-01-02,Rayo Vallecano,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lucas Laso,2026-01-09,Getafe,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

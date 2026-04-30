@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kevin Trapp,2026-01-18,Nantes,Paris FC,6.2,90,,,0.0,0,0,0.0,0.0,21,33,0,0,0,0,11,40
-Kevin Trapp,2026-01-25,Paris FC,Angers,7.1,90,,,0.0,0,0,0.0,0.0,33,33,0,0,0,0,7,39
-Kevin Trapp,2026-01-31,Paris FC,Olympique de Marseille,6.7,90,,,0.0,0,0,0.0,0.0,35,42,0,0,0,0,9,53
-Kevin Trapp,2026-02-04,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kevin Trapp,2026-02-08,Auxerre,Paris FC,7.4,90,,,0.0,0,0,0.0,0.0,29,36,0,0,0,0,9,48
-Kevin Trapp,2026-02-14,Paris FC,RC Lens,6.0,90,,,0.0,0,0,0.0,0.0,30,32,0,0,0,0,4,39
-Kevin Trapp,2026-02-21,Toulouse,Paris FC,9.5,90,,,0.0,0,0,0.0,0.0,36,47,0,0,0,0,13,67
-Kevin Trapp,2026-03-01,Paris FC,Nice,7.9,90,,,0.0,0,0,0.0,0.0,23,41,0,0,0,0,16,52
-Kevin Trapp,2026-03-08,Olympique Lyonnais,Paris FC,6.5,90,,,0.0,0,0,0.0,0.0,25,44,0,0,0,0,5,51
-Kevin Trapp,2026-03-15,RC Strasbourg,Paris FC,8.3,90,,,0.0,0,0,0.0,0.0,27,38,0,0,0,0,7,48
-Kevin Trapp,2026-03-22,Paris FC,Le Havre,6.2,90,,,0.0,0,0,0.0,0.0,19,35,0,0,0,0,8,44
-Kevin Trapp,2026-04-05,Lorient,Paris FC,7.0,90,,,0.0,0,0,0.0,0.0,18,25,0,0,0,0,6,36
-Kevin Trapp,2026-04-10,Paris FC,AS Monaco,6.5,90,,,0.0,0,0,0.0,0.0,11,30,0,0,0,0,11,42
-Kevin Trapp,2026-04-19,Metz,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kevin Trapp,2026-04-26,Paris FC,Lille,6.9,90,,,0.0,0,0,0.0,0.0,12,21,0,0,0,0,6,31
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kevin Trapp,2026-01-18,Nantes,Paris FC,6.2,90,9756.0,17.0,108.4,0,0,0.0,0.0,21,33,0,0,0,0,11,40,0,1.74
+Kevin Trapp,2026-01-25,Paris FC,Angers,7.1,90,9701.0,17.0,107.79,0,0,0.0,0.0,33,33,0,0,0,0,7,39,0,1.75
+Kevin Trapp,2026-01-31,Paris FC,Olympique de Marseille,6.7,90,9785.0,17.0,108.72,0,0,0.0,0.0,35,42,0,0,0,0,9,53,0,1.74
+Kevin Trapp,2026-02-04,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kevin Trapp,2026-02-08,Auxerre,Paris FC,7.4,90,9764.0,17.0,108.49,0,0,0.0,0.0,29,36,0,0,0,0,9,48,0,1.74
+Kevin Trapp,2026-02-14,Paris FC,RC Lens,6.0,90,9664.0,17.0,107.38,0,0,0.0,0.0,30,32,0,0,0,0,4,39,0,1.76
+Kevin Trapp,2026-02-21,Toulouse,Paris FC,9.5,90,9894.0,17.0,109.93,0,0,0.0,0.0,36,47,0,0,0,0,13,67,0,1.72
+Kevin Trapp,2026-03-01,Paris FC,Nice,7.9,90,9868.0,17.0,109.64,0,0,0.0,0.0,23,41,0,0,0,0,16,52,0,1.72
+Kevin Trapp,2026-03-08,Olympique Lyonnais,Paris FC,6.5,90,9727.0,17.0,108.08,0,0,0.0,0.0,25,44,0,0,0,0,5,51,0,1.75
+Kevin Trapp,2026-03-15,RC Strasbourg,Paris FC,8.3,90,9739.0,17.0,108.21,0,0,0.0,0.0,27,38,0,0,0,0,7,48,0,1.75
+Kevin Trapp,2026-03-22,Paris FC,Le Havre,6.2,90,9735.0,17.0,108.17,0,0,0.0,0.0,19,35,0,0,0,0,8,44,0,1.75
+Kevin Trapp,2026-04-05,Lorient,Paris FC,7.0,90,9676.0,17.0,107.51,0,0,0.0,0.0,18,25,0,0,0,0,6,36,0,1.76
+Kevin Trapp,2026-04-10,Paris FC,AS Monaco,6.5,90,9764.0,17.0,108.49,0,0,0.0,0.0,11,30,0,0,0,0,11,42,0,1.74
+Kevin Trapp,2026-04-19,Metz,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Kevin Trapp,2026-04-26,Paris FC,Lille,6.9,90,9655.0,17.0,107.28,0,0,0.0,0.0,12,21,0,0,0,0,6,31,0,1.76

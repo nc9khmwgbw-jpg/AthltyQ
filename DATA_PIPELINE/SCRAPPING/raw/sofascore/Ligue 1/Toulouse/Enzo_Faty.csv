@@ -1,6 +1,6 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Enzo Faty,2025-07-30,Al-Nassr,Toulouse,6.3,45,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,0,10
-Enzo Faty,2025-08-16,Nice,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Enzo Faty,2025-09-14,Lille,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Enzo Faty,2026-01-10,Angers,Toulouse,6.4,11,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3
-Enzo Faty,2026-02-04,Toulouse,Amiens SC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Enzo Faty,2025-07-30,Al-Nassr,Toulouse,6.3,45,4767.0,9.0,105.93,0,0,0.0,0.0,3,4,0,0,0,0,0,10,0,1.89
+Enzo Faty,2025-08-16,Nice,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Enzo Faty,2025-09-14,Lille,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Enzo Faty,2026-01-10,Angers,Toulouse,6.4,11,1168.0,2.0,106.18,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0,1.71
+Enzo Faty,2026-02-04,Toulouse,Amiens SC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

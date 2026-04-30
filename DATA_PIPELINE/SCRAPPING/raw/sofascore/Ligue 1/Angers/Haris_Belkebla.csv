@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Haris Belkebla,2026-01-04,Le Havre,Angers,7.4,90,,,0.0,0,0,0.0,0.08,48,55,2,0,0,0,7,73
-Haris Belkebla,2026-01-10,Angers,Toulouse,7.4,90,,,0.0,0,0,0.0,0.0,49,53,0,0,1,0,4,68
-Haris Belkebla,2026-01-17,Angers,Olympique de Marseille,6.4,90,,,0.0,0,0,0.0,0.01,40,46,0,0,0,0,2,61
-Haris Belkebla,2026-01-25,Paris FC,Angers,6.9,90,,,0.0,0,0,0.0,0.02,39,48,1,0,2,0,5,59
-Haris Belkebla,2026-02-01,Angers,Metz,6.9,58,,,0.0,0,0,0.0,0.02,49,51,0,0,0,0,3,58
-Haris Belkebla,2026-02-15,Lorient,Angers,7.0,90,,,0.0,0,0,0.0,0.01,49,53,1,0,0,0,9,62
-Haris Belkebla,2026-02-22,Angers,Lille,6.7,67,,,0.0,0,0,0.0,0.0,25,32,0,0,0,0,3,41
-Haris Belkebla,2026-02-28,AS Monaco,Angers,6.7,90,,,0.0,0,0,0.0,0.01,34,36,0,0,2,0,7,50
-Haris Belkebla,2026-03-07,Nantes,Angers,6.3,90,,,0.0,0,0,0.0,0.01,32,37,0,0,0,0,2,45
-Haris Belkebla,2026-03-14,Angers,Nice,6.5,90,,,0.0,0,0,0.0,0.01,24,26,0,0,2,0,2,40
-Haris Belkebla,2026-03-20,RC Lens,Angers,6.4,70,,,0.0,0,0,0.09,0.01,29,31,0,0,2,0,2,40
-Haris Belkebla,2026-04-05,Angers,Olympique Lyonnais,6.9,90,,,0.0,0,0,0.0,0.02,21,23,2,0,3,0,6,33
-Haris Belkebla,2026-04-11,Stade Rennais,Angers,6.7,90,,,0.0,0,0,0.0,0.01,32,34,0,0,0,0,2,53
-Haris Belkebla,2026-04-18,Angers,Le Havre,6.7,90,,,0.0,0,0,0.0,0.02,25,32,1,0,0,0,5,43
-Haris Belkebla,2026-04-25,Angers,Paris Saint-Germain,6.6,90,,,0.0,0,0,0.0,0.16,26,26,1,0,0,0,4,30
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Haris Belkebla,2026-01-04,Le Havre,Angers,7.4,90,9844.0,17.0,109.38,0,0,0.0,0.08,48,55,2,0,0,0,7,73,0,1.73
+Haris Belkebla,2026-01-10,Angers,Toulouse,7.4,90,9786.0,19.0,108.73,0,0,0.0,0.0,49,53,0,0,1,0,4,68,0,1.94
+Haris Belkebla,2026-01-17,Angers,Olympique de Marseille,6.4,90,9731.0,17.0,108.12,0,0,0.0,0.01,40,46,0,0,0,0,2,61,0,1.75
+Haris Belkebla,2026-01-25,Paris FC,Angers,6.9,90,9760.0,20.0,108.44,0,0,0.0,0.02,39,48,1,0,2,0,5,59,0,2.05
+Haris Belkebla,2026-02-01,Angers,Metz,6.9,58,6371.0,11.0,109.84,0,0,0.0,0.02,49,51,0,0,0,0,3,58,0,1.73
+Haris Belkebla,2026-02-15,Lorient,Angers,7.0,90,9823.0,17.0,109.14,0,0,0.0,0.01,49,53,1,0,0,0,9,62,0,1.73
+Haris Belkebla,2026-02-22,Angers,Lille,6.7,67,7245.0,13.0,108.13,0,0,0.0,0.0,25,32,0,0,0,0,3,41,0,1.79
+Haris Belkebla,2026-02-28,AS Monaco,Angers,6.7,90,9748.0,20.0,108.31,0,0,0.0,0.01,34,36,0,0,2,0,7,50,0,2.05
+Haris Belkebla,2026-03-07,Nantes,Angers,6.3,90,9664.0,17.0,107.38,0,0,0.0,0.01,32,37,0,0,0,0,2,45,0,1.76
+Haris Belkebla,2026-03-14,Angers,Nice,6.5,90,9643.0,20.0,107.14,0,0,0.0,0.01,24,26,0,0,2,0,2,40,0,2.07
+Haris Belkebla,2026-03-20,RC Lens,Angers,6.4,70,7543.0,16.0,107.76,0,0,0.09,0.01,29,31,0,0,2,0,2,40,0,2.12
+Haris Belkebla,2026-04-05,Angers,Olympique Lyonnais,6.9,90,9664.0,22.0,107.38,0,0,0.0,0.02,21,23,2,0,3,0,6,33,0,2.28
+Haris Belkebla,2026-04-11,Stade Rennais,Angers,6.7,90,9698.0,17.0,107.76,0,0,0.0,0.01,32,34,0,0,0,0,2,53,0,1.75
+Haris Belkebla,2026-04-18,Angers,Le Havre,6.7,90,9693.0,17.0,107.7,0,0,0.0,0.02,25,32,1,0,0,0,5,43,0,1.75
+Haris Belkebla,2026-04-25,Angers,Paris Saint-Germain,6.6,90,9626.0,17.0,106.96,0,0,0.0,0.16,26,26,1,0,0,0,4,30,0,1.77

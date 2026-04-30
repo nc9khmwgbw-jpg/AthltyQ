@@ -1,8 +1,8 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pol Arnau,2024-10-30,UD Logroñés,Eibar,,57,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pol Arnau,2024-12-04,UD Logroñés,Girona FC,7.8,120,,,0.0,0,0,0.0,0.0,45,60,0,0,3,0,8,98
-Pol Arnau,2025-01-04,UD Logroñés,Athletic Club,7.6,120,,,0.0,0,0,0.0,0.0,29,36,1,0,4,0,7,88
-Pol Arnau,2025-10-25,Girona FC,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pol Arnau,2025-10-28,CE Constància,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pol Arnau,2025-12-03,Ourense CF,Girona FC,6.6,16,,,0.0,0,0,0.0,0.0,2,3,1,0,0,0,0,8
-Pol Arnau,2025-12-07,Elche,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pol Arnau,2024-10-30,UD Logroñés,Eibar,,57,5985.0,11.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.84
+Pol Arnau,2024-12-04,UD Logroñés,Girona FC,7.8,120,13112.0,27.0,109.27,0,0,0.0,0.0,45,60,0,0,3,0,8,98,0,2.06
+Pol Arnau,2025-01-04,UD Logroñés,Athletic Club,7.6,120,13057.0,29.0,108.81,0,0,0.0,0.0,29,36,1,0,4,0,7,88,0,2.22
+Pol Arnau,2025-10-25,Girona FC,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pol Arnau,2025-10-28,CE Constància,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pol Arnau,2025-12-03,Ourense CF,Girona FC,6.6,16,1714.0,3.0,107.12,0,0,0.0,0.0,2,3,1,0,0,0,0,8,0,1.75
+Pol Arnau,2025-12-07,Elche,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

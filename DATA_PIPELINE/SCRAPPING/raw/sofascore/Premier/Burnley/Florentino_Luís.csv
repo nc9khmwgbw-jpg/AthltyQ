@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Florentino Luís,2026-01-10,Burnley,Millwall,6.5,24,,,0.0,0,0,0.0,0.0,31,33,0,0,0,0,0,35
-Florentino Luís,2026-01-17,Liverpool,Burnley,7.3,89,,,0.0,0,0,0.03,0.03,23,29,1,0,0,0,3,50
-Florentino Luís,2026-01-24,Burnley,Tottenham Hotspur,6.5,69,,,0.0,0,0,0.0,0.01,21,27,0,0,3,0,8,39
-Florentino Luís,2026-02-02,Sunderland,Burnley,6.3,63,,,0.0,0,0,0.0,0.01,41,44,0,0,0,0,3,59
-Florentino Luís,2026-02-07,Burnley,West Ham United,6.2,45,,,0.0,0,0,0.0,0.02,24,29,0,0,1,0,1,36
-Florentino Luís,2026-02-11,Crystal Palace,Burnley,6.9,9,,,0.0,0,0,0.0,0.0,1,2,0,0,1,0,0,7
-Florentino Luís,2026-02-14,Burnley,Mansfield Town,6.9,81,,,0.0,0,0,0.0,0.0,55,67,2,0,3,0,7,88
-Florentino Luís,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Florentino Luís,2026-02-28,Burnley,Brentford,6.7,15,,,0.0,0,0,0.0,0.0,6,10,0,0,0,0,1,14
-Florentino Luís,2026-03-03,Everton,Burnley,6.7,57,,,0.0,0,0,0.0,0.01,38,40,0,0,2,0,2,52
-Florentino Luís,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Florentino Luís,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Florentino Luís,2026-04-11,Burnley,Brighton & Hove Albion,6.4,82,,,0.0,0,0,0.03,0.05,27,30,1,0,2,0,4,43
-Florentino Luís,2026-04-19,Nottingham Forest,Burnley,6.0,83,,,0.0,0,0,0.0,0.01,28,33,0,0,2,0,5,46
-Florentino Luís,2026-04-22,Burnley,Manchester City,6.7,8,,,0.0,0,0,0.0,0.0,3,5,0,0,0,0,2,6
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Florentino Luís,2026-01-10,Burnley,Millwall,6.5,24,2667.0,5.0,111.12,0,0,0.0,0.0,31,33,0,0,0,0,0,35,0,1.87
+Florentino Luís,2026-01-17,Liverpool,Burnley,7.3,89,9592.0,17.0,107.78,0,0,0.03,0.03,23,29,1,0,0,0,3,50,0,1.77
+Florentino Luís,2026-01-24,Burnley,Tottenham Hotspur,6.5,69,7509.0,17.0,108.83,0,0,0.0,0.01,21,27,0,0,3,0,8,39,0,2.26
+Florentino Luís,2026-02-02,Sunderland,Burnley,6.3,63,6900.0,12.0,109.52,0,0,0.0,0.01,41,44,0,0,0,0,3,59,0,1.74
+Florentino Luís,2026-02-07,Burnley,West Ham United,6.2,45,4889.0,10.0,108.64,0,0,0.0,0.02,24,29,0,0,1,0,1,36,0,2.05
+Florentino Luís,2026-02-11,Crystal Palace,Burnley,6.9,9,974.0,3.0,108.22,0,0,0.0,0.0,1,2,0,0,1,0,0,7,0,3.08
+Florentino Luís,2026-02-14,Burnley,Mansfield Town,6.9,81,8962.0,20.0,110.64,0,0,0.0,0.0,55,67,2,0,3,0,7,88,0,2.23
+Florentino Luís,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Florentino Luís,2026-02-28,Burnley,Brentford,6.7,15,1646.0,3.0,109.73,0,0,0.0,0.0,6,10,0,0,0,0,1,14,0,1.82
+Florentino Luís,2026-03-03,Everton,Burnley,6.7,57,6228.0,14.0,109.26,0,0,0.0,0.01,38,40,0,0,2,0,2,52,0,2.25
+Florentino Luís,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Florentino Luís,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Florentino Luís,2026-04-11,Burnley,Brighton & Hove Albion,6.4,82,8841.0,19.0,107.82,0,0,0.03,0.05,27,30,1,0,2,0,4,43,0,2.15
+Florentino Luís,2026-04-19,Nottingham Forest,Burnley,6.0,83,8971.0,19.0,108.08,0,0,0.0,0.01,28,33,0,0,2,0,5,46,0,2.12
+Florentino Luís,2026-04-22,Burnley,Manchester City,6.7,8,890.0,2.0,111.25,0,0,0.0,0.0,3,5,0,0,0,0,2,6,0,2.25

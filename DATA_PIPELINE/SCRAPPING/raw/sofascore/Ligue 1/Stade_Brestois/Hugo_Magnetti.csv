@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Hugo Magnetti,2025-12-13,Stade Rennais,Stade Brestois,6.3,81,,,0.0,0,0,0.0,0.03,19,26,0,0,1,0,6,40
-Hugo Magnetti,2026-01-04,Stade Brestois,Auxerre,6.8,90,,,0.0,0,0,0.0,0.02,39,44,0,0,3,0,4,58
-Hugo Magnetti,2026-01-18,Olympique Lyonnais,Stade Brestois,6.5,90,,,0.0,0,0,0.0,0.01,32,34,0,0,1,0,7,55
-Hugo Magnetti,2026-01-25,Stade Brestois,Toulouse,6.7,73,,,0.0,0,0,0.0,0.03,38,47,1,0,1,0,4,62
-Hugo Magnetti,2026-02-01,Nice,Stade Brestois,7.3,90,,,0.0,0,0,0.0,0.03,30,42,1,0,2,0,9,58
-Hugo Magnetti,2026-02-07,Stade Brestois,Lorient,7.1,90,,,0.0,0,0,0.0,0.03,36,41,1,0,1,0,8,49
-Hugo Magnetti,2026-02-14,Lille,Stade Brestois,6.8,90,,,0.0,0,0,0.04,0.01,17,21,0,0,4,0,4,36
-Hugo Magnetti,2026-02-20,Stade Brestois,Olympique de Marseille,7.9,90,,,0.0,0,0,0.0,0.06,25,26,1,0,4,0,2,42
-Hugo Magnetti,2026-03-01,Metz,Stade Brestois,7.9,90,,,0.0,0,0,0.0,0.04,25,32,0,0,1,0,9,55
-Hugo Magnetti,2026-03-08,Stade Brestois,Le Havre,7.3,90,,,0.0,0,0,0.02,0.36,27,36,0,0,1,0,3,52
-Hugo Magnetti,2026-03-14,AS Monaco,Stade Brestois,7.0,83,,,0.0,0,0,0.0,0.05,23,32,0,0,1,0,9,47
-Hugo Magnetti,2026-03-21,Auxerre,Stade Brestois,6.4,90,,,0.0,0,0,0.0,0.08,39,47,1,0,1,0,7,64
-Hugo Magnetti,2026-04-04,Stade Brestois,Stade Rennais,6.6,90,,,0.0,0,0,0.0,0.09,15,21,2,0,0,0,3,35
-Hugo Magnetti,2026-04-19,Nantes,Stade Brestois,6.7,78,,,0.0,0,0,0.0,0.0,24,32,0,0,0,0,3,44
-Hugo Magnetti,2026-04-24,Stade Brestois,RC Lens,6.5,90,,,0.0,0,0,0.0,0.17,26,35,1,0,0,0,4,44
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Hugo Magnetti,2025-12-13,Stade Rennais,Stade Brestois,6.3,81,8748.0,17.0,108.0,0,0,0.0,0.03,19,26,0,0,1,0,6,40,0,1.94
+Hugo Magnetti,2026-01-04,Stade Brestois,Auxerre,6.8,90,9744.0,22.0,108.27,0,0,0.0,0.02,39,44,0,0,3,0,4,58,0,2.26
+Hugo Magnetti,2026-01-18,Olympique Lyonnais,Stade Brestois,6.5,90,9768.0,19.0,108.53,0,0,0.0,0.01,32,34,0,0,1,0,7,55,0,1.95
+Hugo Magnetti,2026-01-25,Stade Brestois,Toulouse,6.7,73,7975.0,15.0,109.25,0,0,0.0,0.03,38,47,1,0,1,0,4,62,0,1.88
+Hugo Magnetti,2026-02-01,Nice,Stade Brestois,7.3,90,9806.0,20.0,108.96,0,0,0.0,0.03,30,42,1,0,2,0,9,58,0,2.04
+Hugo Magnetti,2026-02-07,Stade Brestois,Lorient,7.1,90,9756.0,19.0,108.4,0,0,0.0,0.03,36,41,1,0,1,0,8,49,0,1.95
+Hugo Magnetti,2026-02-14,Lille,Stade Brestois,6.8,90,9651.0,23.0,107.23,0,0,0.04,0.01,17,21,0,0,4,0,4,36,0,2.38
+Hugo Magnetti,2026-02-20,Stade Brestois,Olympique de Marseille,7.9,90,9651.0,23.0,107.23,0,0,0.0,0.06,25,26,1,0,4,0,2,42,0,2.38
+Hugo Magnetti,2026-03-01,Metz,Stade Brestois,7.9,90,9794.0,19.0,108.82,0,0,0.0,0.04,25,32,0,0,1,0,9,55,0,1.94
+Hugo Magnetti,2026-03-08,Stade Brestois,Le Havre,7.3,90,9706.0,19.0,107.84,0,0,0.02,0.36,27,36,0,0,1,0,3,52,0,1.96
+Hugo Magnetti,2026-03-14,AS Monaco,Stade Brestois,7.0,83,9025.0,17.0,108.73,0,0,0.0,0.05,23,32,0,0,1,0,9,47,0,1.88
+Hugo Magnetti,2026-03-21,Auxerre,Stade Brestois,6.4,90,9806.0,19.0,108.96,0,0,0.0,0.08,39,47,1,0,1,0,7,64,0,1.94
+Hugo Magnetti,2026-04-04,Stade Brestois,Stade Rennais,6.6,90,9634.0,17.0,107.04,0,0,0.0,0.09,15,21,2,0,0,0,3,35,0,1.76
+Hugo Magnetti,2026-04-19,Nantes,Stade Brestois,6.7,78,8412.0,15.0,107.85,0,0,0.0,0.0,24,32,0,0,0,0,3,44,0,1.78
+Hugo Magnetti,2026-04-24,Stade Brestois,RC Lens,6.5,90,9685.0,17.0,107.61,0,0,0.0,0.17,26,35,1,0,0,0,4,44,0,1.76

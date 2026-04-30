@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Cole Palmer,2026-02-07,Wolverhampton,Chelsea,8.9,61,,,0.0,3,0,1.79,0.01,29,34,0,0,0,0,0,43
-Cole Palmer,2026-02-10,Chelsea,Leeds United,7.5,90,,,0.0,1,0,1.69,0.52,33,38,4,0,0,0,1,61
-Cole Palmer,2026-02-21,Chelsea,Burnley,7.5,75,,,0.0,0,0,0.4,0.22,28,31,2,0,1,0,6,50
-Cole Palmer,2026-03-01,Arsenal,Chelsea,6.3,86,,,0.0,0,0,0.03,0.02,23,25,0,0,0,0,1,39
-Cole Palmer,2026-03-04,Aston Villa,Chelsea,8.7,85,,,0.0,1,0,0.15,0.28,33,36,3,0,2,0,7,48
-Cole Palmer,2026-03-11,Paris Saint-Germain,Chelsea,6.2,83,,,0.0,0,0,0.16,0.04,18,20,0,0,0,0,3,37
-Cole Palmer,2026-03-14,Chelsea,Newcastle United,7.3,90,,,0.0,0,0,0.3,0.32,35,40,3,0,0,0,4,67
-Cole Palmer,2026-03-17,Chelsea,Paris Saint-Germain,6.8,59,,,0.0,0,0,0.12,0.21,19,25,1,0,0,0,4,38
-Cole Palmer,2026-03-21,Everton,Chelsea,6.5,90,,,0.0,0,0,0.04,0.09,32,38,1,0,0,0,2,50
-Cole Palmer,2026-03-27,England,Uruguay,7.7,34,,,0.0,0,0,0.0,0.0,15,17,2,0,0,0,3,30
-Cole Palmer,2026-03-31,England,Japan,6.6,59,,,0.0,0,0,0.0,0.0,21,26,2,0,0,0,1,39
-Cole Palmer,2026-04-04,Chelsea,Port Vale,6.8,62,,,0.0,0,0,0.0,0.0,30,37,2,0,0,0,3,49
-Cole Palmer,2026-04-12,Chelsea,Manchester City,6.6,90,,,0.0,0,0,0.28,0.21,33,36,2,0,1,0,8,62
-Cole Palmer,2026-04-18,Chelsea,Manchester United,6.8,90,,,0.0,0,0,0.34,0.04,29,30,1,0,0,0,2,46
-Cole Palmer,2026-04-26,Chelsea,Leeds United,6.5,19,,,0.0,0,0,0.0,0.0,3,3,0,0,1,0,2,10
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Cole Palmer,2026-02-07,Wolverhampton,Chelsea,8.9,61,6586.0,12.0,107.97,3,0,1.79,0.01,29,34,0,0,0,0,0,43,0,1.82
+Cole Palmer,2026-02-10,Chelsea,Leeds United,7.5,90,9719.0,17.0,107.99,1,0,1.69,0.52,33,38,4,0,0,0,1,61,0,1.75
+Cole Palmer,2026-02-21,Chelsea,Burnley,7.5,75,8160.0,16.0,108.8,0,0,0.4,0.22,28,31,2,0,1,0,6,50,0,1.96
+Cole Palmer,2026-03-01,Arsenal,Chelsea,6.3,86,9206.0,17.0,107.05,0,0,0.03,0.02,23,25,0,0,0,0,1,39,0,1.85
+Cole Palmer,2026-03-04,Aston Villa,Chelsea,8.7,85,9214.0,19.0,108.4,1,0,0.15,0.28,33,36,3,0,2,0,7,48,0,2.06
+Cole Palmer,2026-03-11,Paris Saint-Germain,Chelsea,6.2,83,8908.0,16.0,107.33,0,0,0.16,0.04,18,20,0,0,0,0,3,37,0,1.8
+Cole Palmer,2026-03-14,Chelsea,Newcastle United,7.3,90,9781.0,17.0,108.68,0,0,0.3,0.32,35,40,3,0,0,0,4,67,0,1.74
+Cole Palmer,2026-03-17,Chelsea,Paris Saint-Germain,6.8,59,6405.0,11.0,108.56,0,0,0.12,0.21,19,25,1,0,0,0,4,38,0,1.72
+Cole Palmer,2026-03-21,Everton,Chelsea,6.5,90,9685.0,17.0,107.61,0,0,0.04,0.09,32,38,1,0,0,0,2,50,0,1.76
+Cole Palmer,2026-03-27,England,Uruguay,7.7,34,3734.0,7.0,109.82,0,0,0.0,0.0,15,17,2,0,0,0,3,30,0,1.87
+Cole Palmer,2026-03-31,England,Japan,6.6,59,6371.0,11.0,107.98,0,0,0.0,0.0,21,26,2,0,0,0,1,39,0,1.73
+Cole Palmer,2026-04-04,Chelsea,Port Vale,6.8,62,6753.0,12.0,108.92,0,0,0.0,0.0,30,37,2,0,0,0,3,49,0,1.78
+Cole Palmer,2026-04-12,Chelsea,Manchester City,6.6,90,9810.0,19.0,109.0,0,0,0.28,0.21,33,36,2,0,1,0,8,62,0,1.94
+Cole Palmer,2026-04-18,Chelsea,Manchester United,6.8,90,9668.0,17.0,107.42,0,0,0.34,0.04,29,30,1,0,0,0,2,46,0,1.76
+Cole Palmer,2026-04-26,Chelsea,Leeds United,6.5,19,2062.0,5.0,108.53,0,0,0.0,0.0,3,3,0,0,1,0,2,10,0,2.42

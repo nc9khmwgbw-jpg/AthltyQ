@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Malang Sarr,2026-01-24,Olympique de Marseille,RC Lens,7.0,90,,,0.0,0,0,0.0,0.0,63,69,0,0,3,0,9,84
-Malang Sarr,2026-01-30,RC Lens,Le Havre,7.5,90,,,0.0,0,0,0.02,0.03,45,53,0,0,5,0,8,72
-Malang Sarr,2026-02-04,Troyes,RC Lens,6.4,90,,,0.0,0,0,0.0,0.0,58,64,0,0,0,0,3,76
-Malang Sarr,2026-02-07,RC Lens,Stade Rennais,7.5,90,,,0.0,0,0,0.0,0.02,62,70,0,0,1,0,4,84
-Malang Sarr,2026-02-14,Paris FC,RC Lens,6.9,90,,,0.0,0,0,0.05,0.0,44,53,0,0,3,0,10,63
-Malang Sarr,2026-02-21,RC Lens,AS Monaco,6.8,90,,,0.0,0,0,0.07,0.01,55,63,1,0,3,0,9,82
-Malang Sarr,2026-02-27,RC Strasbourg,RC Lens,6.7,90,,,0.0,0,0,0.0,0.01,46,50,0,0,3,0,4,64
-Malang Sarr,2026-03-05,Olympique Lyonnais,RC Lens,6.5,90,,,0.0,0,0,0.0,0.0,38,40,1,0,2,0,6,52
-Malang Sarr,2026-03-08,RC Lens,Metz,7.1,90,,,0.0,0,0,0.0,0.01,57,65,0,0,0,0,5,79
-Malang Sarr,2026-03-14,Lorient,RC Lens,7.7,90,,,0.0,0,0,0.0,0.08,109,113,0,0,3,0,7,129
-Malang Sarr,2026-03-20,RC Lens,Angers,8.0,90,,,0.0,0,0,0.15,0.04,85,95,2,0,3,0,11,114
-Malang Sarr,2026-04-04,Lille,RC Lens,6.4,90,,,0.0,0,0,0.0,0.01,51,61,0,0,0,0,5,71
-Malang Sarr,2026-04-17,RC Lens,Toulouse,8.1,90,,,0.0,0,0,0.07,0.08,82,85,0,0,0,0,8,103
-Malang Sarr,2026-04-21,RC Lens,Toulouse,7.6,90,,,0.0,0,0,0.0,0.0,71,77,1,0,1,0,6,91
-Malang Sarr,2026-04-24,Stade Brestois,RC Lens,6.7,90,,,0.0,0,0,0.0,0.06,48,55,0,0,3,0,4,74
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Malang Sarr,2026-01-24,Olympique de Marseille,RC Lens,7.0,90,9915.0,22.0,110.17,0,0,0.0,0.0,63,69,0,0,3,0,9,84,0,2.22
+Malang Sarr,2026-01-30,RC Lens,Le Havre,7.5,90,9852.0,24.0,109.47,0,0,0.02,0.03,45,53,0,0,5,0,8,72,0,2.44
+Malang Sarr,2026-02-04,Troyes,RC Lens,6.4,90,9807.0,17.0,108.97,0,0,0.0,0.0,58,64,0,0,0,0,3,76,0,1.73
+Malang Sarr,2026-02-07,RC Lens,Stade Rennais,7.5,90,9853.0,19.0,109.48,0,0,0.0,0.02,62,70,0,0,1,0,4,84,0,1.93
+Malang Sarr,2026-02-14,Paris FC,RC Lens,6.9,90,9840.0,22.0,109.33,0,0,0.05,0.0,44,53,0,0,3,0,10,63,0,2.24
+Malang Sarr,2026-02-21,RC Lens,AS Monaco,6.8,90,9907.0,22.0,110.08,0,0,0.07,0.01,55,63,1,0,3,0,9,82,0,2.22
+Malang Sarr,2026-02-27,RC Strasbourg,RC Lens,6.7,90,9769.0,22.0,108.54,0,0,0.0,0.01,46,50,0,0,3,0,4,64,0,2.25
+Malang Sarr,2026-03-05,Olympique Lyonnais,RC Lens,6.5,90,9743.0,20.0,108.26,0,0,0.0,0.0,38,40,1,0,2,0,6,52,0,2.05
+Malang Sarr,2026-03-08,RC Lens,Metz,7.1,90,9844.0,17.0,109.38,0,0,0.0,0.01,57,65,0,0,0,0,5,79,0,1.73
+Malang Sarr,2026-03-14,Lorient,RC Lens,7.7,90,10079.0,22.0,111.99,0,0,0.0,0.08,109,113,0,0,3,0,7,129,0,2.18
+Malang Sarr,2026-03-20,RC Lens,Angers,8.0,90,10066.0,22.0,111.84,0,0,0.15,0.04,85,95,2,0,3,0,11,114,0,2.19
+Malang Sarr,2026-04-04,Lille,RC Lens,6.4,90,9811.0,17.0,109.01,0,0,0.0,0.01,51,61,0,0,0,0,5,71,0,1.73
+Malang Sarr,2026-04-17,RC Lens,Toulouse,8.1,90,9983.0,17.0,110.92,0,0,0.07,0.08,82,85,0,0,0,0,8,103,0,1.7
+Malang Sarr,2026-04-21,RC Lens,Toulouse,7.6,90,9907.0,19.0,110.08,0,0,0.0,0.0,71,77,1,0,1,0,6,91,0,1.92
+Malang Sarr,2026-04-24,Stade Brestois,RC Lens,6.7,90,9811.0,22.0,109.01,0,0,0.0,0.06,48,55,0,0,3,0,4,74,0,2.24

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ansu Fati,2026-01-20,Real Madrid,AS Monaco,6.2,61,,,0.0,0,0,0.32,0.07,15,19,2,0,0,0,2,28
-Ansu Fati,2026-01-24,Le Havre,AS Monaco,6.3,33,,,0.0,0,0,0.0,0.02,11,12,0,0,0,0,1,19
-Ansu Fati,2026-01-28,AS Monaco,Juventus,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ansu Fati,2026-01-31,AS Monaco,Stade Rennais,7.5,45,,,0.0,1,0,0.19,0.0,8,9,0,0,0,0,3,14
-Ansu Fati,2026-02-13,AS Monaco,Nantes,6.7,28,,,0.0,0,0,0.21,0.0,7,8,0,0,1,0,3,13
-Ansu Fati,2026-02-21,RC Lens,AS Monaco,7.6,22,,,0.0,1,0,0.37,0.0,1,1,0,0,0,0,0,6
-Ansu Fati,2026-02-25,Paris Saint-Germain,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ansu Fati,2026-02-28,AS Monaco,Angers,6.7,73,,,0.0,0,0,0.08,0.04,24,31,0,0,0,0,2,42
-Ansu Fati,2026-03-06,Paris Saint-Germain,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ansu Fati,2026-03-14,AS Monaco,Stade Brestois,6.6,20,,,0.0,0,0,0.05,0.0,7,9,0,0,0,0,2,14
-Ansu Fati,2026-03-22,Olympique Lyonnais,AS Monaco,6.7,27,,,0.0,0,0,0.25,0.26,8,9,1,0,1,0,2,16
-Ansu Fati,2026-04-05,AS Monaco,Olympique de Marseille,6.6,15,,,0.0,0,0,0.0,0.14,5,5,1,0,0,0,1,10
-Ansu Fati,2026-04-10,Paris FC,AS Monaco,6.2,87,,,0.0,0,0,0.33,0.07,35,40,1,0,1,0,1,56
-Ansu Fati,2026-04-19,AS Monaco,Auxerre,7.5,78,,,0.0,1,0,0.21,0.06,18,20,0,0,0,0,2,39
-Ansu Fati,2026-04-25,Toulouse,AS Monaco,6.3,61,,,0.0,0,0,0.12,0.02,21,28,1,0,0,0,2,34
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ansu Fati,2026-01-20,Real Madrid,AS Monaco,6.2,61,6548.0,12.0,107.34,0,0,0.32,0.07,15,19,2,0,0,0,2,28,0,1.83
+Ansu Fati,2026-01-24,Le Havre,AS Monaco,6.3,33,3557.0,6.0,107.79,0,0,0.0,0.02,11,12,0,0,0,0,1,19,0,1.69
+Ansu Fati,2026-01-28,AS Monaco,Juventus,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ansu Fati,2026-01-31,AS Monaco,Stade Rennais,7.5,45,4821.0,9.0,107.13,1,0,0.19,0.0,8,9,0,0,0,0,3,14,0,1.87
+Ansu Fati,2026-02-13,AS Monaco,Nantes,6.7,28,3032.0,7.0,108.29,0,0,0.21,0.0,7,8,0,0,1,0,3,13,0,2.31
+Ansu Fati,2026-02-21,RC Lens,AS Monaco,7.6,22,2335.0,4.0,106.14,1,0,0.37,0.0,1,1,0,0,0,0,0,6,0,1.71
+Ansu Fati,2026-02-25,Paris Saint-Germain,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ansu Fati,2026-02-28,AS Monaco,Angers,6.7,73,7866.0,14.0,107.75,0,0,0.08,0.04,24,31,0,0,0,0,2,42,0,1.78
+Ansu Fati,2026-03-06,Paris Saint-Germain,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ansu Fati,2026-03-14,AS Monaco,Stade Brestois,6.6,20,2184.0,4.0,109.2,0,0,0.05,0.0,7,9,0,0,0,0,2,14,0,1.83
+Ansu Fati,2026-03-22,Olympique Lyonnais,AS Monaco,6.7,27,2927.0,7.0,108.41,0,0,0.25,0.26,8,9,1,0,1,0,2,16,0,2.39
+Ansu Fati,2026-04-05,AS Monaco,Olympique de Marseille,6.6,15,1630.0,3.0,108.67,0,0,0.0,0.14,5,5,1,0,0,0,1,10,0,1.84
+Ansu Fati,2026-04-10,Paris FC,AS Monaco,6.2,87,9383.0,18.0,107.85,0,0,0.33,0.07,35,40,1,0,1,0,1,56,0,1.92
+Ansu Fati,2026-04-19,AS Monaco,Auxerre,7.5,78,8379.0,15.0,107.42,1,0,0.21,0.06,18,20,0,0,0,0,2,39,0,1.79
+Ansu Fati,2026-04-25,Toulouse,AS Monaco,6.3,61,6573.0,12.0,107.75,0,0,0.12,0.02,21,28,1,0,0,0,2,34,0,1.83

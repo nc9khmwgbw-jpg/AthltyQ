@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ghianny Kodia,2024-08-24,Strasbourg 2,Besançon FC,,22,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2024-10-05,CA Pontarlier,Strasbourg 2,,17,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2024-11-02,US Sarre-Union,Strasbourg 2,,2,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2025-03-16,RC Strasbourg,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2025-10-02,ŠK Slovan Bratislava,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2025-10-23,RC Strasbourg,Jagiellonia Białystok,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2025-12-18,RC Strasbourg,Breidablik Kópavogur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2025-12-21,RC Strasbourg,USL Dunkerque,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2026-03-12,HNK Rijeka,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2026-03-19,RC Strasbourg,HNK Rijeka,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ghianny Kodia,2026-04-09,1. FSV Mainz 05,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ghianny Kodia,2024-08-24,Strasbourg 2,Besançon FC,,22,2310.0,4.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.73
+Ghianny Kodia,2024-10-05,CA Pontarlier,Strasbourg 2,,17,1785.0,3.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.68
+Ghianny Kodia,2024-11-02,US Sarre-Union,Strasbourg 2,,2,210.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2025-03-16,RC Strasbourg,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2025-10-02,ŠK Slovan Bratislava,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2025-10-23,RC Strasbourg,Jagiellonia Białystok,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2025-12-18,RC Strasbourg,Breidablik Kópavogur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2025-12-21,RC Strasbourg,USL Dunkerque,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2026-03-12,HNK Rijeka,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2026-03-19,RC Strasbourg,HNK Rijeka,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ghianny Kodia,2026-04-09,1. FSV Mainz 05,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

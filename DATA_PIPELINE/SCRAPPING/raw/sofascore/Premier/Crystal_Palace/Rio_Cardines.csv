@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Rio Cardines,2026-02-22,Crystal Palace,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-02-23,West Ham U21,Crystal Palace U21,,71,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-03-02,Crystal Palace U21,Sunderland U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-03-06,Blackburn U21,Crystal Palace U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-03-12,Crystal Palace,AEK Larnaca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-03-14,Crystal Palace U21,Wolverhampton U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-03-19,AEK Larnaca,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-04-09,Crystal Palace,Fiorentina,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-04-13,Crystal Palace U21,Arsenal U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-04-16,Fiorentina,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-04-20,Crystal Palace,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rio Cardines,2026-04-26,Liverpool U21,Crystal Palace U21,,120,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rio Cardines,2026-02-22,Crystal Palace,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rio Cardines,2026-02-23,West Ham U21,Crystal Palace U21,,71,7455.0,14.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.88
+Rio Cardines,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rio Cardines,2026-03-02,Crystal Palace U21,Sunderland U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rio Cardines,2026-03-06,Blackburn U21,Crystal Palace U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rio Cardines,2026-03-12,Crystal Palace,AEK Larnaca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rio Cardines,2026-03-14,Crystal Palace U21,Wolverhampton U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rio Cardines,2026-03-19,AEK Larnaca,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rio Cardines,2026-04-09,Crystal Palace,Fiorentina,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rio Cardines,2026-04-13,Crystal Palace U21,Arsenal U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rio Cardines,2026-04-16,Fiorentina,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rio Cardines,2026-04-20,Crystal Palace,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rio Cardines,2026-04-26,Liverpool U21,Crystal Palace U21,,120,12600.0,23.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.83

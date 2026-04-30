@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tanguy Nianzou,2025-09-20,Deportivo Alavés,Sevilla,6.7,75,,,0.0,0,0,0.05,0.0,36,38,0,0,0,0,3,48
-Tanguy Nianzou,2025-09-23,Sevilla,Villarreal,6.9,24,,,0.0,0,0,0.0,0.0,11,13,0,0,0,0,0,19
-Tanguy Nianzou,2025-11-01,Atlético Madrid,Sevilla,6.0,45,,,0.0,0,0,0.03,0.0,29,30,0,0,0,0,1,41
-Tanguy Nianzou,2025-11-08,Sevilla,Osasuna,7.3,90,,,0.0,0,0,0.02,0.0,40,47,0,0,0,0,2,64
-Tanguy Nianzou,2026-01-12,Sevilla,Celta Vigo,6.2,8,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,1,5
-Tanguy Nianzou,2026-01-19,Elche,Sevilla,6.2,22,,,0.0,0,0,0.0,0.0,9,9,0,0,0,0,2,11
-Tanguy Nianzou,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tanguy Nianzou,2026-02-14,Sevilla,Deportivo Alavés,7.0,70,,,0.0,0,0,0.0,0.0,7,11,1,0,1,0,2,24
-Tanguy Nianzou,2026-02-22,Getafe,Sevilla,6.9,55,,,0.0,0,0,0.01,0.01,51,59,0,0,2,0,3,72
-Tanguy Nianzou,2026-03-08,Sevilla,Rayo Vallecano,7.1,90,,,0.0,0,0,0.14,0.0,26,32,1,0,1,0,0,48
-Tanguy Nianzou,2026-03-15,FC Barcelona,Sevilla,5.5,70,,,0.0,0,0,0.0,0.0,35,37,0,0,0,0,3,46
-Tanguy Nianzou,2026-03-21,Sevilla,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tanguy Nianzou,2026-04-05,Real Oviedo,Sevilla,5.2,38,,,0.0,0,0,0.23,0.0,6,6,0,0,0,0,0,10
-Tanguy Nianzou,2026-04-23,Levante UD,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tanguy Nianzou,2026-04-26,Osasuna,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tanguy Nianzou,2025-09-20,Deportivo Alavés,Sevilla,6.7,75,8114.0,14.0,108.19,0,0,0.05,0.0,36,38,0,0,0,0,3,48,0,1.73
+Tanguy Nianzou,2025-09-23,Sevilla,Villarreal,6.9,24,2600.0,5.0,108.33,0,0,0.0,0.0,11,13,0,0,0,0,0,19,0,1.92
+Tanguy Nianzou,2025-11-01,Atlético Madrid,Sevilla,6.0,45,4910.0,9.0,109.11,0,0,0.03,0.0,29,30,0,0,0,0,1,41,0,1.83
+Tanguy Nianzou,2025-11-08,Sevilla,Osasuna,7.3,90,9744.0,17.0,108.27,0,0,0.02,0.0,40,47,0,0,0,0,2,64,0,1.74
+Tanguy Nianzou,2026-01-12,Sevilla,Celta Vigo,6.2,8,874.0,2.0,109.25,0,0,0.0,0.0,4,5,0,0,0,0,1,5,0,2.29
+Tanguy Nianzou,2026-01-19,Elche,Sevilla,6.2,22,2381.0,4.0,108.23,0,0,0.0,0.0,9,9,0,0,0,0,2,11,0,1.68
+Tanguy Nianzou,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tanguy Nianzou,2026-02-14,Sevilla,Deportivo Alavés,7.0,70,7476.0,15.0,106.8,0,0,0.0,0.0,7,11,1,0,1,0,2,24,0,2.01
+Tanguy Nianzou,2026-02-22,Getafe,Sevilla,6.9,55,6115.0,13.0,111.18,0,0,0.01,0.01,51,59,0,0,2,0,3,72,0,2.13
+Tanguy Nianzou,2026-03-08,Sevilla,Rayo Vallecano,7.1,90,9652.0,19.0,107.24,0,0,0.14,0.0,26,32,1,0,1,0,0,48,0,1.97
+Tanguy Nianzou,2026-03-15,FC Barcelona,Sevilla,5.5,70,7581.0,13.0,108.3,0,0,0.0,0.0,35,37,0,0,0,0,3,46,0,1.71
+Tanguy Nianzou,2026-03-21,Sevilla,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tanguy Nianzou,2026-04-05,Real Oviedo,Sevilla,5.2,38,4032.0,7.0,106.11,0,0,0.23,0.0,6,6,0,0,0,0,0,10,0,1.74
+Tanguy Nianzou,2026-04-23,Levante UD,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tanguy Nianzou,2026-04-26,Osasuna,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

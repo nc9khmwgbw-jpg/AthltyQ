@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jefferson Lerma,2026-01-25,Crystal Palace,Chelsea,6.1,90,,,0.0,0,0,0.22,0.04,20,31,0,0,1,0,5,43
-Jefferson Lerma,2026-02-01,Nottingham Forest,Crystal Palace,6.7,90,,,0.0,0,0,0.17,0.07,55,65,1,0,1,0,8,79
-Jefferson Lerma,2026-02-08,Brighton & Hove Albion,Crystal Palace,6.8,90,,,0.0,0,0,0.0,0.03,21,34,0,0,1,0,5,58
-Jefferson Lerma,2026-02-11,Crystal Palace,Burnley,5.9,45,,,0.0,0,0,0.0,0.08,30,32,1,0,1,0,0,39
-Jefferson Lerma,2026-03-05,Tottenham Hotspur,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jefferson Lerma,2026-03-12,Crystal Palace,AEK Larnaca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jefferson Lerma,2026-03-15,Crystal Palace,Leeds United,7.3,90,,,0.0,0,0,0.04,0.04,42,55,0,0,0,0,6,71
-Jefferson Lerma,2026-03-19,AEK Larnaca,Crystal Palace,6.8,44,,,0.0,0,0,0.0,0.01,39,42,0,0,0,0,4,49
-Jefferson Lerma,2026-03-27,Colombia,Croatia,6.7,63,,,0.0,0,0,0.0,0.0,39,42,0,0,1,0,3,55
-Jefferson Lerma,2026-03-29,Colombia,France,6.7,90,,,0.0,0,0,0.0,0.0,38,43,1,0,2,0,4,52
-Jefferson Lerma,2026-04-09,Crystal Palace,Fiorentina,6.6,13,,,0.0,0,0,0.14,0.0,8,10,0,0,0,0,0,13
-Jefferson Lerma,2026-04-12,Crystal Palace,Newcastle United,7.2,90,,,0.0,0,0,0.63,0.03,40,47,0,0,1,0,9,55
-Jefferson Lerma,2026-04-16,Fiorentina,Crystal Palace,7.1,60,,,0.0,0,0,0.18,0.16,12,17,1,0,1,0,5,30
-Jefferson Lerma,2026-04-20,Crystal Palace,West Ham United,7.1,90,,,0.0,0,0,0.13,0.16,33,42,1,0,1,0,8,60
-Jefferson Lerma,2026-04-25,Liverpool,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jefferson Lerma,2026-01-25,Crystal Palace,Chelsea,6.1,90,9693.0,19.0,107.7,0,0,0.22,0.04,20,31,0,0,1,0,5,43,0,1.96
+Jefferson Lerma,2026-02-01,Nottingham Forest,Crystal Palace,6.7,90,9882.0,19.0,109.8,0,0,0.17,0.07,55,65,1,0,1,0,8,79,0,1.92
+Jefferson Lerma,2026-02-08,Brighton & Hove Albion,Crystal Palace,6.8,90,9756.0,19.0,108.4,0,0,0.0,0.03,21,34,0,0,1,0,5,58,0,1.95
+Jefferson Lerma,2026-02-11,Crystal Palace,Burnley,5.9,45,4889.0,10.0,108.64,0,0,0.0,0.08,30,32,1,0,1,0,0,39,0,2.05
+Jefferson Lerma,2026-03-05,Tottenham Hotspur,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jefferson Lerma,2026-03-12,Crystal Palace,AEK Larnaca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jefferson Lerma,2026-03-15,Crystal Palace,Leeds United,7.3,90,9823.0,17.0,109.14,0,0,0.04,0.04,42,55,0,0,0,0,6,71,0,1.73
+Jefferson Lerma,2026-03-19,AEK Larnaca,Crystal Palace,6.8,44,4876.0,8.0,110.82,0,0,0.0,0.01,39,42,0,0,0,0,4,49,0,1.64
+Jefferson Lerma,2026-03-27,Colombia,Croatia,6.7,63,6884.0,14.0,109.27,0,0,0.0,0.0,39,42,0,0,1,0,3,55,0,2.03
+Jefferson Lerma,2026-03-29,Colombia,France,6.7,90,9718.0,20.0,107.98,0,0,0.0,0.0,38,43,1,0,2,0,4,52,0,2.06
+Jefferson Lerma,2026-04-09,Crystal Palace,Fiorentina,6.6,13,1420.0,2.0,109.23,0,0,0.14,0.0,8,10,0,0,0,0,0,13,0,1.41
+Jefferson Lerma,2026-04-12,Crystal Palace,Newcastle United,7.2,90,9794.0,19.0,108.82,0,0,0.63,0.03,40,47,0,0,1,0,9,55,0,1.94
+Jefferson Lerma,2026-04-16,Fiorentina,Crystal Palace,7.1,60,6488.0,13.0,108.13,0,0,0.18,0.16,12,17,1,0,1,0,5,30,0,2.0
+Jefferson Lerma,2026-04-20,Crystal Palace,West Ham United,7.1,90,9802.0,19.0,108.91,0,0,0.13,0.16,33,42,1,0,1,0,8,60,0,1.94
+Jefferson Lerma,2026-04-25,Liverpool,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

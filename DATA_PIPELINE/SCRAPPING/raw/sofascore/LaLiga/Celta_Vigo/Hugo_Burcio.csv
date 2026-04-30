@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Hugo Burcio,2026-01-04,CP Cacereño,Celta Vigo B,5.4,84,,,0.0,0,0,0.0,0.0,43,54,0,0,1,0,6,71
-Hugo Burcio,2026-01-11,Celta Vigo B,Barakaldo CF,7.5,90,,,0.0,0,0,0.0,0.12,47,56,2,0,0,0,21,73
-Hugo Burcio,2026-01-18,Celta Vigo,Rayo Vallecano,6.7,12,,,0.0,0,0,0.0,0.0,5,5,0,0,0,0,2,6
-Hugo Burcio,2026-01-22,Celta Vigo,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hugo Burcio,2026-01-25,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hugo Burcio,2026-01-29,FK Crvena zvezda,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hugo Burcio,2026-01-31,Celta Vigo B,Unionistas de Salamanca CF,6.7,74,,,0.0,0,0,0.0,0.07,25,33,1,0,3,0,13,57
-Hugo Burcio,2026-02-08,SD Ponferradina,Celta Vigo B,6.5,27,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,1,7
-Hugo Burcio,2026-02-15,Celta Vigo B,Real Avilés,7.7,56,,,0.0,1,0,0.46,0.08,33,35,1,0,4,0,7,48
-Hugo Burcio,2026-03-20,CD Arenteiro,Celta Vigo B,6.5,26,,,0.0,0,0,0.0,0.0,10,10,0,0,0,0,1,14
-Hugo Burcio,2026-03-29,Celta Vigo B,Athletic Club B U21,6.8,90,,,0.0,0,0,0.03,0.0,42,45,0,0,1,0,12,60
-Hugo Burcio,2026-04-03,Real Madrid Castilla U21,Celta Vigo B,7.2,90,,,0.0,0,0,0.1,0.02,53,55,1,0,2,0,9,69
-Hugo Burcio,2026-04-12,Arenas Club,Celta Vigo B,7.0,72,,,0.0,0,0,0.0,0.0,45,47,0,0,2,0,7,56
-Hugo Burcio,2026-04-17,Celta Vigo B,CP Cacereño,7.1,90,,,0.0,0,0,0.08,0.08,52,58,1,0,2,0,11,71
-Hugo Burcio,2026-04-25,Pontevedra CF,Celta Vigo B,6.7,90,,,0.0,0,0,0.01,0.0,34,36,0,0,0,0,7,53
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Hugo Burcio,2026-01-04,CP Cacereño,Celta Vigo B,5.4,84,9193.0,18.0,109.44,0,0,0.0,0.0,43,54,0,0,1,0,6,71,0,1.96
+Hugo Burcio,2026-01-11,Celta Vigo B,Barakaldo CF,7.5,90,10019.0,17.0,111.32,0,0,0.0,0.12,47,56,2,0,0,0,21,73,0,1.7
+Hugo Burcio,2026-01-18,Celta Vigo,Rayo Vallecano,6.7,12,1310.0,2.0,109.17,0,0,0.0,0.0,5,5,0,0,0,0,2,6,0,1.53
+Hugo Burcio,2026-01-22,Celta Vigo,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hugo Burcio,2026-01-25,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hugo Burcio,2026-01-29,FK Crvena zvezda,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hugo Burcio,2026-01-31,Celta Vigo B,Unionistas de Salamanca CF,6.7,74,8172.0,18.0,110.43,0,0,0.0,0.07,25,33,1,0,3,0,13,57,0,2.2
+Hugo Burcio,2026-02-08,SD Ponferradina,Celta Vigo B,6.5,27,2877.0,5.0,106.56,0,0,0.0,0.0,4,5,0,0,0,0,1,7,0,1.74
+Hugo Burcio,2026-02-15,Celta Vigo B,Real Avilés,7.7,56,6169.0,16.0,110.16,1,0,0.46,0.08,33,35,1,0,4,0,7,48,0,2.59
+Hugo Burcio,2026-03-20,CD Arenteiro,Celta Vigo B,6.5,26,2801.0,5.0,107.73,0,0,0.0,0.0,10,10,0,0,0,0,1,14,0,1.79
+Hugo Burcio,2026-03-29,Celta Vigo B,Athletic Club B U21,6.8,90,9852.0,19.0,109.47,0,0,0.03,0.0,42,45,0,0,1,0,12,60,0,1.93
+Hugo Burcio,2026-04-03,Real Madrid Castilla U21,Celta Vigo B,7.2,90,9852.0,20.0,109.47,0,0,0.1,0.02,53,55,1,0,2,0,9,69,0,2.03
+Hugo Burcio,2026-04-12,Arenas Club,Celta Vigo B,7.0,72,7883.0,17.0,109.49,0,0,0.0,0.0,45,47,0,0,2,0,7,56,0,2.16
+Hugo Burcio,2026-04-17,Celta Vigo B,CP Cacereño,7.1,90,9886.0,20.0,109.84,0,0,0.08,0.08,52,58,1,0,2,0,11,71,0,2.02
+Hugo Burcio,2026-04-25,Pontevedra CF,Celta Vigo B,6.7,90,9760.0,17.0,108.44,0,0,0.01,0.0,34,36,0,0,0,0,7,53,0,1.74

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-James Hill,2026-01-07,Bournemouth,Tottenham Hotspur,7.0,90,,,0.0,0,0,0.0,0.01,27,38,0,0,0,0,3,52
-James Hill,2026-01-10,Newcastle United,Bournemouth,7.6,120,,,0.0,0,0,0.0,0.0,21,35,1,0,0,0,2,68
-James Hill,2026-01-19,Brighton & Hove Albion,Bournemouth,6.7,90,,,0.0,0,0,0.01,0.01,17,31,1,0,2,0,2,48
-James Hill,2026-01-24,Bournemouth,Liverpool,7.4,90,,,0.0,0,0,0.06,0.2,19,26,1,0,1,0,1,47
-James Hill,2026-01-31,Wolverhampton,Bournemouth,6.6,90,,,0.0,0,0,0.0,0.0,57,63,0,0,1,0,3,78
-James Hill,2026-02-07,Bournemouth,Aston Villa,7.1,90,,,0.0,0,0,0.0,0.06,40,48,1,0,3,0,6,71
-James Hill,2026-02-10,Everton,Bournemouth,7.9,90,,,0.0,0,0,0.0,0.22,40,50,1,0,3,0,2,77
-James Hill,2026-02-21,West Ham United,Bournemouth,7.9,90,,,0.0,0,0,0.0,0.07,51,63,0,0,0,0,3,80
-James Hill,2026-02-28,Bournemouth,Sunderland,6.7,90,,,0.0,0,0,0.0,0.0,30,43,1,0,2,0,3,58
-James Hill,2026-03-03,Bournemouth,Brentford,7.8,90,,,0.0,0,0,0.16,0.14,29,41,0,0,3,0,3,66
-James Hill,2026-03-14,Burnley,Bournemouth,7.5,90,,,0.0,0,0,0.28,0.06,44,53,1,0,2,0,4,74
-James Hill,2026-03-20,Bournemouth,Manchester United,6.1,90,,,0.0,0,0,0.0,0.02,58,65,1,0,2,0,9,81
-James Hill,2026-04-11,Arsenal,Bournemouth,7.3,90,,,0.0,0,0,0.0,0.01,32,39,1,0,0,0,2,57
-James Hill,2026-04-18,Newcastle United,Bournemouth,7.6,90,,,0.0,0,0,0.02,0.03,26,43,0,0,0,0,2,67
-James Hill,2026-04-22,Bournemouth,Leeds United,6.1,90,,,0.0,0,0,0.1,0.01,38,46,1,0,3,0,6,68
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+James Hill,2026-01-07,Bournemouth,Tottenham Hotspur,7.0,90,9706.0,17.0,107.84,0,0,0.0,0.01,27,38,0,0,0,0,3,52,0,1.75
+James Hill,2026-01-10,Newcastle United,Bournemouth,7.6,120,12911.0,23.0,107.59,0,0,0.0,0.0,21,35,1,0,0,0,2,68,0,1.78
+James Hill,2026-01-19,Brighton & Hove Albion,Bournemouth,6.7,90,9677.0,20.0,107.52,0,0,0.01,0.01,17,31,1,0,2,0,2,48,0,2.07
+James Hill,2026-01-24,Bournemouth,Liverpool,7.4,90,9660.0,19.0,107.33,0,0,0.06,0.2,19,26,1,0,1,0,1,47,0,1.97
+James Hill,2026-01-31,Wolverhampton,Bournemouth,6.6,90,9815.0,19.0,109.06,0,0,0.0,0.0,57,63,0,0,1,0,3,78,0,1.94
+James Hill,2026-02-07,Bournemouth,Aston Villa,7.1,90,9823.0,22.0,109.14,0,0,0.0,0.06,40,48,1,0,3,0,6,71,0,2.24
+James Hill,2026-02-10,Everton,Bournemouth,7.9,90,9798.0,22.0,108.87,0,0,0.0,0.22,40,50,1,0,3,0,2,77,0,2.25
+James Hill,2026-02-21,West Ham United,Bournemouth,7.9,90,9824.0,17.0,109.16,0,0,0.0,0.07,51,63,0,0,0,0,3,80,0,1.73
+James Hill,2026-02-28,Bournemouth,Sunderland,6.7,90,9731.0,20.0,108.12,0,0,0.0,0.0,30,43,1,0,2,0,3,58,0,2.06
+James Hill,2026-03-03,Bournemouth,Brentford,7.8,90,9765.0,22.0,108.5,0,0,0.16,0.14,29,41,0,0,3,0,3,66,0,2.25
+James Hill,2026-03-14,Burnley,Bournemouth,7.5,90,9811.0,20.0,109.01,0,0,0.28,0.06,44,53,1,0,2,0,4,74,0,2.04
+James Hill,2026-03-20,Bournemouth,Manchester United,6.1,90,9903.0,20.0,110.03,0,0,0.0,0.02,58,65,1,0,2,0,9,81,0,2.02
+James Hill,2026-04-11,Arsenal,Bournemouth,7.3,90,9714.0,17.0,107.93,0,0,0.0,0.01,32,39,1,0,0,0,2,57,0,1.75
+James Hill,2026-04-18,Newcastle United,Bournemouth,7.6,90,9756.0,17.0,108.4,0,0,0.02,0.03,26,43,0,0,0,0,2,67,0,1.74
+James Hill,2026-04-22,Bournemouth,Leeds United,6.1,90,9811.0,22.0,109.01,0,0,0.1,0.01,38,46,1,0,3,0,6,68,0,2.24

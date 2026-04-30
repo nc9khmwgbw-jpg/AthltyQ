@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Micky van de Ven,2026-01-17,Tottenham Hotspur,West Ham United,6.9,90,,,0.0,0,0,0.0,0.01,53,58,0,0,0,0,3,70
-Micky van de Ven,2026-01-24,Burnley,Tottenham Hotspur,7.7,90,,,0.0,1,0,0.07,0.01,37,43,0,0,1,0,2,51
-Micky van de Ven,2026-02-07,Manchester United,Tottenham Hotspur,6.3,90,,,0.0,0,0,0.14,0.0,34,41,0,0,1,0,2,60
-Micky van de Ven,2026-02-10,Tottenham Hotspur,Newcastle United,7.0,90,,,0.0,0,0,0.17,0.01,59,65,0,0,0,0,6,82
-Micky van de Ven,2026-02-22,Tottenham Hotspur,Arsenal,6.5,90,,,0.0,0,0,0.0,0.0,15,19,0,0,1,0,1,34
-Micky van de Ven,2026-03-01,Fulham,Tottenham Hotspur,6.5,90,,,0.0,0,0,0.0,0.0,45,52,0,0,0,0,5,61
-Micky van de Ven,2026-03-05,Tottenham Hotspur,Crystal Palace,5.4,38,,,0.0,0,0,0.0,0.0,14,14,0,0,0,0,2,20
-Micky van de Ven,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.6,90,,,0.0,0,0,0.06,0.05,33,39,1,0,0,0,2,57
-Micky van de Ven,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.6,90,,,0.0,0,0,0.05,0.0,36,40,0,0,2,0,3,50
-Micky van de Ven,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.3,45,,,0.0,0,0,0.0,0.0,12,15,0,0,0,0,2,21
-Micky van de Ven,2026-03-27,Netherlands,Norway,6.5,90,,,0.0,0,0,0.0,0.0,30,35,1,0,0,0,3,56
-Micky van de Ven,2026-03-31,Netherlands,Ecuador,6.9,45,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,1,10
-Micky van de Ven,2026-04-12,Sunderland,Tottenham Hotspur,6.7,90,,,0.0,0,0,0.0,0.0,57,58,0,0,0,0,3,71
-Micky van de Ven,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,6.7,90,,,0.0,0,0,0.0,0.01,39,44,1,0,0,0,4,57
-Micky van de Ven,2026-04-25,Wolverhampton,Tottenham Hotspur,7.6,90,,,0.0,0,0,0.0,0.01,50,56,0,0,0,0,2,66
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Micky van de Ven,2026-01-17,Tottenham Hotspur,West Ham United,6.9,90,9782.0,17.0,108.69,0,0,0.0,0.01,53,58,0,0,0,0,3,70,0,1.74
+Micky van de Ven,2026-01-24,Burnley,Tottenham Hotspur,7.7,90,9689.0,19.0,107.66,1,0,0.07,0.01,37,43,0,0,1,0,2,51,0,1.96
+Micky van de Ven,2026-02-07,Manchester United,Tottenham Hotspur,6.3,90,9727.0,19.0,108.08,0,0,0.14,0.0,34,41,0,0,1,0,2,60,0,1.95
+Micky van de Ven,2026-02-10,Tottenham Hotspur,Newcastle United,7.0,90,9869.0,17.0,109.66,0,0,0.17,0.01,59,65,0,0,0,0,6,82,0,1.72
+Micky van de Ven,2026-02-22,Tottenham Hotspur,Arsenal,6.5,90,9605.0,19.0,106.72,0,0,0.0,0.0,15,19,0,0,1,0,1,34,0,1.98
+Micky van de Ven,2026-03-01,Fulham,Tottenham Hotspur,6.5,90,9769.0,17.0,108.54,0,0,0.0,0.0,45,52,0,0,0,0,5,61,0,1.74
+Micky van de Ven,2026-03-05,Tottenham Hotspur,Crystal Palace,5.4,38,4099.0,7.0,107.87,0,0,0.0,0.0,14,14,0,0,0,0,2,20,0,1.71
+Micky van de Ven,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.6,90,9714.0,17.0,107.93,0,0,0.06,0.05,33,39,1,0,0,0,2,57,0,1.75
+Micky van de Ven,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.6,90,9698.0,20.0,107.76,0,0,0.05,0.0,36,40,0,0,2,0,3,50,0,2.06
+Micky van de Ven,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.3,45,4838.0,9.0,107.51,0,0,0.0,0.0,12,15,0,0,0,0,2,21,0,1.86
+Micky van de Ven,2026-03-27,Netherlands,Norway,6.5,90,9723.0,17.0,108.03,0,0,0.0,0.0,30,35,1,0,0,0,3,56,0,1.75
+Micky van de Ven,2026-03-31,Netherlands,Ecuador,6.9,45,4780.0,9.0,106.22,0,0,0.0,0.0,2,4,0,0,0,0,1,10,0,1.88
+Micky van de Ven,2026-04-12,Sunderland,Tottenham Hotspur,6.7,90,9786.0,17.0,108.73,0,0,0.0,0.0,57,58,0,0,0,0,3,71,0,1.74
+Micky van de Ven,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,6.7,90,9739.0,17.0,108.21,0,0,0.0,0.01,39,44,1,0,0,0,4,57,0,1.75
+Micky van de Ven,2026-04-25,Wolverhampton,Tottenham Hotspur,7.6,90,9752.0,17.0,108.36,0,0,0.0,0.01,50,56,0,0,0,0,2,66,0,1.74

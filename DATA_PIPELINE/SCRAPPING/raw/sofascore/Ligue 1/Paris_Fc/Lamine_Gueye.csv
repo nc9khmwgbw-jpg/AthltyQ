@@ -1,4 +1,4 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Lamine Gueye,2025-05-02,FC Martigues,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lamine Gueye,2025-12-20,U.S Raon-l'Étape,Paris FC,7.1,22,,,0.0,0,0,0.0,0.0,7,8,2,0,0,0,3,17
-Lamine Gueye,2026-01-04,Paris Saint-Germain,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lamine Gueye,2025-05-02,FC Martigues,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lamine Gueye,2025-12-20,U.S Raon-l'Étape,Paris FC,7.1,22,2419.0,4.0,109.95,0,0,0.0,0.0,7,8,2,0,0,0,3,17,0,1.65
+Lamine Gueye,2026-01-04,Paris Saint-Germain,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

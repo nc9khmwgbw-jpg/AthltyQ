@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Federico Valverde,2026-02-21,Osasuna,Real Madrid,7.5,75,,,0.0,0,0,0.02,0.45,40,43,1,0,1,0,3,53
-Federico Valverde,2026-02-25,Real Madrid,Benfica,7.7,90,,,0.0,0,0,0.25,0.13,41,45,4,0,1,0,1,63
-Federico Valverde,2026-03-02,Real Madrid,Getafe,7.4,90,,,0.0,0,0,0.08,0.25,63,69,2,0,0,0,5,78
-Federico Valverde,2026-03-06,Celta Vigo,Real Madrid,7.9,90,,,0.0,1,0,0.09,0.07,97,102,1,0,0,0,6,112
-Federico Valverde,2026-03-11,Real Madrid,Manchester City,10.0,90,,,0.0,3,0,1.36,0.03,34,45,2,0,1,0,2,72
-Federico Valverde,2026-03-14,Real Madrid,Elche,7.8,58,,,0.0,1,0,0.18,0.08,20,24,2,0,0,0,0,36
-Federico Valverde,2026-03-17,Manchester City,Real Madrid,6.6,90,,,0.0,0,0,0.02,0.02,34,37,1,0,0,0,1,51
-Federico Valverde,2026-03-22,Real Madrid,Atlético Madrid,7.4,77,,,0.0,1,0,0.48,0.04,34,38,0,0,0,0,5,57
-Federico Valverde,2026-03-27,England,Uruguay,7.2,90,,,0.0,1,0,0.0,0.0,41,44,0,0,3,0,6,60
-Federico Valverde,2026-03-31,Algeria,Uruguay,7.2,89,,,0.0,0,0,0.0,0.0,52,61,1,0,1,0,6,69
-Federico Valverde,2026-04-07,Real Madrid,FC Bayern München,7.1,90,,,0.0,0,0,0.0,0.14,29,33,2,0,0,0,3,50
-Federico Valverde,2026-04-10,Real Madrid,Girona FC,8.5,90,,,0.0,1,0,0.1,0.22,39,47,3,0,1,0,2,55
-Federico Valverde,2026-04-15,FC Bayern München,Real Madrid,6.6,90,,,0.0,0,0,0.06,0.01,25,32,0,0,0,0,6,43
-Federico Valverde,2026-04-21,Real Madrid,Deportivo Alavés,7.3,90,,,0.0,0,0,0.04,0.06,50,54,1,0,0,0,4,63
-Federico Valverde,2026-04-24,Real Betis,Real Madrid,7.3,90,,,0.0,0,0,0.11,0.05,71,76,0,0,2,0,8,91
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Federico Valverde,2026-02-21,Osasuna,Real Madrid,7.5,75,8135.0,16.0,108.47,0,0,0.02,0.45,40,43,1,0,1,0,3,53,0,1.97
+Federico Valverde,2026-02-25,Real Madrid,Benfica,7.7,90,9727.0,19.0,108.08,0,0,0.25,0.13,41,45,4,0,1,0,1,63,0,1.95
+Federico Valverde,2026-03-02,Real Madrid,Getafe,7.4,90,9840.0,17.0,109.33,0,0,0.08,0.25,63,69,2,0,0,0,5,78,0,1.73
+Federico Valverde,2026-03-06,Celta Vigo,Real Madrid,7.9,90,9995.0,17.0,111.06,1,0,0.09,0.07,97,102,1,0,0,0,6,112,0,1.7
+Federico Valverde,2026-03-11,Real Madrid,Manchester City,10.0,90,9777.0,19.0,108.63,3,0,1.36,0.03,34,45,2,0,1,0,2,72,0,1.94
+Federico Valverde,2026-03-14,Real Madrid,Elche,7.8,58,6241.0,11.0,107.6,1,0,0.18,0.08,20,24,2,0,0,0,0,36,0,1.76
+Federico Valverde,2026-03-17,Manchester City,Real Madrid,6.6,90,9677.0,17.0,107.52,0,0,0.02,0.02,34,37,1,0,0,0,1,51,0,1.76
+Federico Valverde,2026-03-22,Real Madrid,Atlético Madrid,7.4,77,8387.0,15.0,108.92,1,0,0.48,0.04,34,38,0,0,0,0,5,57,0,1.79
+Federico Valverde,2026-03-27,England,Uruguay,7.2,90,9777.0,22.0,108.63,1,0,0.0,0.0,41,44,0,0,3,0,6,60,0,2.25
+Federico Valverde,2026-03-31,Algeria,Uruguay,7.2,89,9710.0,19.0,109.1,0,0,0.0,0.0,52,61,1,0,1,0,6,69,0,1.96
+Federico Valverde,2026-04-07,Real Madrid,FC Bayern München,7.1,90,9698.0,17.0,107.76,0,0,0.0,0.14,29,33,2,0,0,0,3,50,0,1.75
+Federico Valverde,2026-04-10,Real Madrid,Girona FC,8.5,90,9706.0,19.0,107.84,1,0,0.1,0.22,39,47,3,0,1,0,2,55,0,1.96
+Federico Valverde,2026-04-15,FC Bayern München,Real Madrid,6.6,90,9706.0,17.0,107.84,0,0,0.06,0.01,25,32,0,0,0,0,6,43,0,1.75
+Federico Valverde,2026-04-21,Real Madrid,Deportivo Alavés,7.3,90,9765.0,17.0,108.5,0,0,0.04,0.06,50,54,1,0,0,0,4,63,0,1.74
+Federico Valverde,2026-04-24,Real Betis,Real Madrid,7.3,90,9932.0,20.0,110.36,0,0,0.11,0.05,71,76,0,0,2,0,8,91,0,2.01

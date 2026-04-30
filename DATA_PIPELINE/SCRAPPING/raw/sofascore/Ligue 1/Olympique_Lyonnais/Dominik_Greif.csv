@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Dominik Greif,2026-02-04,Olympique Lyonnais,Stade Lavallois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dominik Greif,2026-02-07,Nantes,Olympique Lyonnais,6.6,90,,,0.0,0,0,0.0,0.0,15,28,0,0,0,0,7,34
-Dominik Greif,2026-02-15,Olympique Lyonnais,Nice,8.1,90,,,0.0,0,0,0.0,0.0,35,38,0,0,0,0,7,47
-Dominik Greif,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.6,90,,,0.0,0,0,0.0,0.0,29,38,0,0,0,0,6,47
-Dominik Greif,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.1,90,,,0.0,0,0,0.0,0.0,21,36,0,0,0,0,5,45
-Dominik Greif,2026-03-05,Olympique Lyonnais,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dominik Greif,2026-03-08,Olympique Lyonnais,Paris FC,6.7,90,,,0.0,0,0,0.0,0.0,22,25,0,0,0,0,7,35
-Dominik Greif,2026-03-12,Celta Vigo,Olympique Lyonnais,6.7,90,,,0.0,0,0,0.0,0.0,21,23,0,0,0,0,7,28
-Dominik Greif,2026-03-15,Le Havre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dominik Greif,2026-03-19,Olympique Lyonnais,Celta Vigo,7.7,90,,,0.0,0,0,0.0,0.0,35,46,0,0,0,0,10,60
-Dominik Greif,2026-03-22,Olympique Lyonnais,AS Monaco,7.7,90,,,0.0,0,0,0.0,0.0,21,27,0,0,0,0,9,41
-Dominik Greif,2026-04-05,Angers,Olympique Lyonnais,7.1,90,,,0.0,0,0,0.0,0.0,34,35,0,0,0,0,4,41
-Dominik Greif,2026-04-12,Olympique Lyonnais,Lorient,9.4,90,,,0.0,0,0,0.0,0.0,17,26,0,0,0,0,8,40
-Dominik Greif,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,7.7,90,,,0.0,0,0,0.0,0.0,11,25,0,0,0,0,3,37
-Dominik Greif,2026-04-25,Olympique Lyonnais,Auxerre,5.9,90,,,0.0,0,0,0.0,0.01,19,22,0,0,0,0,4,25
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Dominik Greif,2026-02-04,Olympique Lyonnais,Stade Lavallois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dominik Greif,2026-02-07,Nantes,Olympique Lyonnais,6.6,90,9680.0,17.0,107.56,0,0,0.0,0.0,15,28,0,0,0,0,7,34,0,1.76
+Dominik Greif,2026-02-15,Olympique Lyonnais,Nice,8.1,90,9735.0,17.0,108.17,0,0,0.0,0.0,35,38,0,0,0,0,7,47,0,1.75
+Dominik Greif,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.6,90,9722.0,17.0,108.02,0,0,0.0,0.0,29,38,0,0,0,0,6,47,0,1.75
+Dominik Greif,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.1,90,9702.0,17.0,107.8,0,0,0.0,0.0,21,36,0,0,0,0,5,45,0,1.75
+Dominik Greif,2026-03-05,Olympique Lyonnais,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dominik Greif,2026-03-08,Olympique Lyonnais,Paris FC,6.7,90,9684.0,17.0,107.6,0,0,0.0,0.0,22,25,0,0,0,0,7,35,0,1.76
+Dominik Greif,2026-03-12,Celta Vigo,Olympique Lyonnais,6.7,90,9655.0,17.0,107.28,0,0,0.0,0.0,21,23,0,0,0,0,7,28,0,1.76
+Dominik Greif,2026-03-15,Le Havre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dominik Greif,2026-03-19,Olympique Lyonnais,Celta Vigo,7.7,90,9827.0,17.0,109.19,0,0,0.0,0.0,35,46,0,0,0,0,10,60,0,1.73
+Dominik Greif,2026-03-22,Olympique Lyonnais,AS Monaco,7.7,90,9735.0,17.0,108.17,0,0,0.0,0.0,21,27,0,0,0,0,9,41,0,1.75
+Dominik Greif,2026-04-05,Angers,Olympique Lyonnais,7.1,90,9672.0,17.0,107.47,0,0,0.0,0.0,34,35,0,0,0,0,4,41,0,1.76
+Dominik Greif,2026-04-12,Olympique Lyonnais,Lorient,9.4,90,9718.0,17.0,107.98,0,0,0.0,0.0,17,26,0,0,0,0,8,40,0,1.75
+Dominik Greif,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,7.7,90,9643.0,17.0,107.14,0,0,0.0,0.0,11,25,0,0,0,0,3,37,0,1.76
+Dominik Greif,2026-04-25,Olympique Lyonnais,Auxerre,5.9,90,9605.0,17.0,106.72,0,0,0.0,0.01,19,22,0,0,0,0,4,25,0,1.77

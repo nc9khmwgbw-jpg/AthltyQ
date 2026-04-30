@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Alysson,2025-09-28,Grêmio,Vitória,6.8,68,,,0.0,0,0,0.01,0.02,15,18,0,0,1,0,2,35
-Alysson,2025-10-02,Santos,Grêmio,6.8,79,,,0.0,0,0,0.04,0.01,11,13,0,0,0,0,5,35
-Alysson,2025-10-16,Grêmio,São Paulo,6.4,29,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,1,10
-Alysson,2025-10-26,Grêmio,Juventude,8.7,75,,,0.0,0,0,0.44,0.22,11,12,1,0,1,0,4,42
-Alysson,2025-11-02,Corinthians,Grêmio,6.9,67,,,0.0,0,0,0.06,0.0,11,13,0,0,1,0,3,28
-Alysson,2025-11-06,Grêmio,Cruzeiro,7.0,76,,,0.0,0,0,0.18,0.02,14,19,1,0,2,0,2,40
-Alysson,2025-11-10,Fortaleza,Grêmio,6.8,61,,,0.0,0,0,0.09,0.03,7,9,0,0,0,0,1,26
-Alysson,2025-11-20,Grêmio,Vasco da Gama,6.7,17,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,1,9
-Alysson,2025-11-22,Botafogo,Grêmio,6.4,45,,,0.0,0,0,0.0,0.0,18,19,0,0,0,0,0,30
-Alysson,2025-11-26,Grêmio,Palmeiras,6.6,45,,,0.0,0,0,0.22,0.01,12,14,0,0,0,0,1,25
-Alysson,2025-12-03,Grêmio,Fluminense,6.8,56,,,0.0,0,0,0.03,0.12,27,29,1,0,0,0,2,45
-Alysson,2025-12-07,Sport Recife,Grêmio,6.5,40,,,0.0,0,0,0.0,0.03,10,10,0,0,1,0,3,18
-Alysson,2026-02-11,Aston Villa,Brighton & Hove Albion,6.6,16,,,0.0,0,0,0.0,0.01,2,4,0,0,0,0,1,6
-Alysson,2026-02-27,Wolverhampton,Aston Villa,6.7,13,,,0.0,0,0,0.0,0.03,4,5,0,0,1,0,0,13
-Alysson,2026-03-04,Aston Villa,Chelsea,6.5,27,,,0.0,0,0,0.05,0.01,8,8,0,0,0,0,2,11
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alysson,2025-09-28,Grêmio,Vitória,6.8,68,7312.0,14.0,107.53,0,0,0.01,0.02,15,18,0,0,1,0,2,35,0,1.91
+Alysson,2025-10-02,Santos,Grêmio,6.8,79,8504.0,15.0,107.65,0,0,0.04,0.01,11,13,0,0,0,0,5,35,0,1.76
+Alysson,2025-10-16,Grêmio,São Paulo,6.4,29,3100.0,6.0,106.9,0,0,0.0,0.0,5,6,0,0,0,0,1,10,0,1.94
+Alysson,2025-10-26,Grêmio,Juventude,8.7,75,8101.0,16.0,108.01,0,0,0.44,0.22,11,12,1,0,1,0,4,42,0,1.98
+Alysson,2025-11-02,Corinthians,Grêmio,6.9,67,7190.0,14.0,107.31,0,0,0.06,0.0,11,13,0,0,1,0,3,28,0,1.95
+Alysson,2025-11-06,Grêmio,Cruzeiro,7.0,76,8173.0,17.0,107.54,0,0,0.18,0.02,14,19,1,0,2,0,2,40,0,2.08
+Alysson,2025-11-10,Fortaleza,Grêmio,6.8,61,6527.0,12.0,107.0,0,0,0.09,0.03,7,9,0,0,0,0,1,26,0,1.84
+Alysson,2025-11-20,Grêmio,Vasco da Gama,6.7,17,1835.0,3.0,107.94,0,0,0.0,0.0,2,3,0,0,0,0,1,9,0,1.63
+Alysson,2025-11-22,Botafogo,Grêmio,6.4,45,4851.0,9.0,107.8,0,0,0.0,0.0,18,19,0,0,0,0,0,30,0,1.86
+Alysson,2025-11-26,Grêmio,Palmeiras,6.6,45,4842.0,9.0,107.6,0,0,0.22,0.01,12,14,0,0,0,0,1,25,0,1.86
+Alysson,2025-12-03,Grêmio,Fluminense,6.8,56,6094.0,11.0,108.82,0,0,0.03,0.12,27,29,1,0,0,0,2,45,0,1.81
+Alysson,2025-12-07,Sport Recife,Grêmio,6.5,40,4313.0,9.0,107.82,0,0,0.0,0.03,10,10,0,0,1,0,3,18,0,2.09
+Alysson,2026-02-11,Aston Villa,Brighton & Hove Albion,6.6,16,1718.0,3.0,107.38,0,0,0.0,0.01,2,4,0,0,0,0,1,6,0,1.75
+Alysson,2026-02-27,Wolverhampton,Aston Villa,6.7,13,1420.0,4.0,109.23,0,0,0.0,0.03,4,5,0,0,1,0,0,13,0,2.82
+Alysson,2026-03-04,Aston Villa,Chelsea,6.5,27,2906.0,5.0,107.63,0,0,0.05,0.01,8,8,0,0,0,0,2,11,0,1.72

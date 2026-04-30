@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ousmane Touré,2025-03-07,FC Villefranche Beaujolais,Valenciennes,7.3,90,,,0.0,0,0,0.0,0.0,28,37,0,0,3,0,14,53
-Ousmane Touré,2025-03-14,Valenciennes,Sochaux,7.0,90,,,0.0,0,0,0.05,0.0,50,61,0,0,1,0,7,80
-Ousmane Touré,2025-03-21,Dijon,Valenciennes,6.7,90,,,0.0,0,0,0.0,0.0,51,54,0,0,3,0,17,63
-Ousmane Touré,2025-03-28,Valenciennes,US Boulogne Côte-d'Opale,7.2,90,,,0.0,1,0,0.2,0.0,57,66,0,0,1,0,10,80
-Ousmane Touré,2025-04-04,Bourg-en-Bresse,Valenciennes,6.4,90,,,0.0,0,0,0.0,0.03,41,54,1,0,1,0,11,57
-Ousmane Touré,2025-04-11,Valenciennes,Quevilly - Rouen Métropole,7.0,90,,,0.0,0,0,0.08,0.0,9,13,0,0,1,0,1,25
-Ousmane Touré,2025-05-02,Paris 13 Atletico,Valenciennes,6.7,90,,,0.0,0,0,0.0,0.0,40,46,0,0,1,0,9,55
-Ousmane Touré,2025-05-09,Valenciennes,Nancy,6.2,90,,,0.0,0,0,0.37,0.0,53,63,0,0,1,0,9,81
-Ousmane Touré,2025-05-16,Aubagne FC,Valenciennes,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ousmane Touré,2025-08-02,Borussia Dortmund,Lille,7.3,11,,,0.0,0,0,0.0,0.0,8,8,1,0,0,0,0,11
-Ousmane Touré,2025-08-17,Stade Brestois,Lille,6.1,52,,,0.0,0,0,0.0,0.0,18,21,0,0,2,0,2,44
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ousmane Touré,2025-03-07,FC Villefranche Beaujolais,Valenciennes,7.3,90,9848.0,22.0,109.42,0,0,0.0,0.0,28,37,0,0,3,0,14,53,0,2.23
+Ousmane Touré,2025-03-14,Valenciennes,Sochaux,7.0,90,9874.0,19.0,109.71,0,0,0.05,0.0,50,61,0,0,1,0,7,80,0,1.92
+Ousmane Touré,2025-03-21,Dijon,Valenciennes,6.7,90,9927.0,22.0,110.3,0,0,0.0,0.0,51,54,0,0,3,0,17,63,0,2.22
+Ousmane Touré,2025-03-28,Valenciennes,US Boulogne Côte-d'Opale,7.2,90,9911.0,19.0,110.12,1,0,0.2,0.0,57,66,0,0,1,0,10,80,0,1.92
+Ousmane Touré,2025-04-04,Bourg-en-Bresse,Valenciennes,6.4,90,9827.0,19.0,109.19,0,0,0.0,0.03,41,54,1,0,1,0,11,57,0,1.93
+Ousmane Touré,2025-04-11,Valenciennes,Quevilly - Rouen Métropole,7.0,90,9568.0,19.0,106.31,0,0,0.08,0.0,9,13,0,0,1,0,1,25,0,1.99
+Ousmane Touré,2025-05-02,Paris 13 Atletico,Valenciennes,6.7,90,9794.0,19.0,108.82,0,0,0.0,0.0,40,46,0,0,1,0,9,55,0,1.94
+Ousmane Touré,2025-05-09,Valenciennes,Nancy,6.2,90,9903.0,19.0,110.03,0,0,0.37,0.0,53,63,0,0,1,0,9,81,0,1.92
+Ousmane Touré,2025-05-16,Aubagne FC,Valenciennes,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Ousmane Touré,2025-08-02,Borussia Dortmund,Lille,7.3,11,1201.0,2.0,109.18,0,0,0.0,0.0,8,8,1,0,0,0,0,11,0,1.67
+Ousmane Touré,2025-08-17,Stade Brestois,Lille,6.1,52,5670.0,13.0,109.04,0,0,0.0,0.0,18,21,0,0,2,0,2,44,0,2.29

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Robert Lewandowski,2026-02-22,FC Barcelona,Levante UD,6.6,66,,,0.0,0,0,0.21,0.18,11,12,1,0,0,0,1,18
-Robert Lewandowski,2026-02-28,FC Barcelona,Villarreal,7.0,23,,,0.0,1,0,1.11,0.01,6,7,0,0,0,0,0,11
-Robert Lewandowski,2026-03-07,Athletic Club,FC Barcelona,6.4,28,,,0.0,0,0,0.12,0.0,3,3,0,0,0,0,1,10
-Robert Lewandowski,2026-03-10,Newcastle United,FC Barcelona,6.2,70,,,0.0,0,0,0.15,0.02,8,11,0,0,0,0,2,22
-Robert Lewandowski,2026-03-15,FC Barcelona,Sevilla,6.5,90,,,0.0,0,0,0.83,0.04,17,21,0,0,0,0,1,29
-Robert Lewandowski,2026-03-18,FC Barcelona,Newcastle United,9.0,66,,,0.0,2,0,0.87,0.14,9,11,3,0,0,0,2,29
-Robert Lewandowski,2026-03-22,FC Barcelona,Rayo Vallecano,6.4,45,,,0.0,0,0,0.0,0.0,5,5,0,0,0,0,0,12
-Robert Lewandowski,2026-03-26,Poland,Albania,7.2,89,,,0.0,1,0,0.0,0.0,10,12,1,0,0,0,2,24
-Robert Lewandowski,2026-03-31,Sweden,Poland,7.1,90,,,0.0,0,0,0.0,0.0,16,21,2,0,0,0,1,32
-Robert Lewandowski,2026-04-04,Atlético Madrid,FC Barcelona,6.8,11,,,0.0,1,0,0.63,0.01,5,5,0,0,0,0,0,7
-Robert Lewandowski,2026-04-08,FC Barcelona,Atlético Madrid,6.5,45,,,0.0,0,0,0.04,0.0,4,6,0,0,0,0,1,11
-Robert Lewandowski,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Robert Lewandowski,2026-04-14,Atlético Madrid,FC Barcelona,6.7,22,,,0.0,0,0,0.05,0.0,0,1,0,0,0,0,0,4
-Robert Lewandowski,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Robert Lewandowski,2026-04-25,Getafe,FC Barcelona,7.0,90,,,0.0,0,0,0.07,0.01,10,13,1,0,1,0,3,27
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Robert Lewandowski,2026-02-22,FC Barcelona,Levante UD,6.6,66,7018.0,13.0,106.33,0,0,0.21,0.18,11,12,1,0,0,0,1,18,0,1.85
+Robert Lewandowski,2026-02-28,FC Barcelona,Villarreal,7.0,23,2461.0,4.0,107.0,1,0,1.11,0.01,6,7,0,0,0,0,0,11,0,1.63
+Robert Lewandowski,2026-03-07,Athletic Club,FC Barcelona,6.4,28,2994.0,5.0,106.93,0,0,0.12,0.0,3,3,0,0,0,0,1,10,0,1.67
+Robert Lewandowski,2026-03-10,Newcastle United,FC Barcelona,6.2,70,7467.0,13.0,106.67,0,0,0.15,0.02,8,11,0,0,0,0,2,22,0,1.74
+Robert Lewandowski,2026-03-15,FC Barcelona,Sevilla,6.5,90,9584.0,17.0,106.49,0,0,0.83,0.04,17,21,0,0,0,0,1,29,0,1.77
+Robert Lewandowski,2026-03-18,FC Barcelona,Newcastle United,9.0,66,7077.0,13.0,107.23,2,0,0.87,0.14,9,11,3,0,0,0,2,29,0,1.84
+Robert Lewandowski,2026-03-22,FC Barcelona,Rayo Vallecano,6.4,45,4775.0,9.0,106.11,0,0,0.0,0.0,5,5,0,0,0,0,0,12,0,1.88
+Robert Lewandowski,2026-03-26,Poland,Albania,7.2,89,9471.0,17.0,106.42,1,0,0.0,0.0,10,12,1,0,0,0,2,24,0,1.79
+Robert Lewandowski,2026-03-31,Sweden,Poland,7.1,90,9597.0,17.0,106.63,0,0,0.0,0.0,16,21,2,0,0,0,1,32,0,1.77
+Robert Lewandowski,2026-04-04,Atlético Madrid,FC Barcelona,6.8,11,1184.0,2.0,107.64,1,0,0.63,0.01,5,5,0,0,0,0,0,7,0,1.69
+Robert Lewandowski,2026-04-08,FC Barcelona,Atlético Madrid,6.5,45,4784.0,9.0,106.31,0,0,0.04,0.0,4,6,0,0,0,0,1,11,0,1.88
+Robert Lewandowski,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Robert Lewandowski,2026-04-14,Atlético Madrid,FC Barcelona,6.7,22,2327.0,4.0,105.77,0,0,0.05,0.0,0,1,0,0,0,0,0,4,0,1.72
+Robert Lewandowski,2026-04-22,FC Barcelona,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Robert Lewandowski,2026-04-25,Getafe,FC Barcelona,7.0,90,9601.0,19.0,106.68,0,0,0.07,0.01,10,13,1,0,1,0,3,27,0,1.98

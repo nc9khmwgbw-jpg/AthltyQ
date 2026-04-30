@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ismaël Guerti,2024-10-19,Metz II,Jura Dolois Foot,,19,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismaël Guerti,2024-11-02,Racing Besançon,Metz II,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismaël Guerti,2025-05-10,Stade Lavallois,Metz,7.0,15,,,0.0,0,0,0.0,0.0,15,20,1,0,1,0,2,22
-Ismaël Guerti,2025-08-23,Olympique Lyonnais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismaël Guerti,2025-09-14,Metz,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismaël Guerti,2025-09-21,AS Monaco,Metz,6.5,15,,,0.0,0,0,0.0,0.0,7,9,0,0,1,0,1,17
-Ismaël Guerti,2025-09-28,Metz,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismaël Guerti,2025-10-04,Metz,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ismaël Guerti,2025-10-26,Lille,Metz,6.4,11,,,0.0,0,0,0.0,0.0,6,6,0,0,0,0,0,7
-Ismaël Guerti,2025-10-29,Metz,RC Lens,6.5,9,,,0.0,0,0,0.0,0.0,6,7,0,0,0,0,1,11
-Ismaël Guerti,2025-11-02,Nantes,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ismaël Guerti,2024-10-19,Metz II,Jura Dolois Foot,,19,1995.0,4.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,2.01
+Ismaël Guerti,2024-11-02,Racing Besançon,Metz II,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Ismaël Guerti,2025-05-10,Stade Lavallois,Metz,7.0,15,1692.0,4.0,112.8,0,0,0.0,0.0,15,20,1,0,1,0,2,22,0,2.36
+Ismaël Guerti,2025-08-23,Olympique Lyonnais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismaël Guerti,2025-09-14,Metz,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismaël Guerti,2025-09-21,AS Monaco,Metz,6.5,15,1659.0,4.0,110.6,0,0,0.0,0.0,7,9,0,0,1,0,1,17,0,2.41
+Ismaël Guerti,2025-09-28,Metz,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismaël Guerti,2025-10-04,Metz,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ismaël Guerti,2025-10-26,Lille,Metz,6.4,11,1184.0,2.0,107.64,0,0,0.0,0.0,6,6,0,0,0,0,0,7,0,1.69
+Ismaël Guerti,2025-10-29,Metz,RC Lens,6.5,9,1004.0,2.0,111.56,0,0,0.0,0.0,6,7,0,0,0,0,1,11,0,1.99
+Ismaël Guerti,2025-11-02,Nantes,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

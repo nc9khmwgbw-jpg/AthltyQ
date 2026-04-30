@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Rubén Iranzo,2025-12-01,Rayo Vallecano,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2025-12-04,FC Cartagena,Valencia,7.1,120,,,0.0,0,0,0.0,0.0,72,76,0,0,1,0,12,90
-Rubén Iranzo,2025-12-07,Valencia,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2025-12-13,Atlético Madrid,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2025-12-16,Sporting Gijón,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2025-12-19,Valencia,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2026-01-03,Celta Vigo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2026-01-15,Burgos Club de Fútbol,Valencia,8.0,82,,,0.0,1,0,0.0,0.0,36,42,0,0,0,0,4,71
-Rubén Iranzo,2026-01-18,Getafe,Valencia,6.7,12,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,6
-Rubén Iranzo,2026-01-24,Valencia,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2026-02-01,Real Betis,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2026-02-04,Valencia,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2026-04-11,Elche,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2026-04-21,Mallorca,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rubén Iranzo,2026-04-25,Valencia,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rubén Iranzo,2025-12-01,Rayo Vallecano,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2025-12-04,FC Cartagena,Valencia,7.1,120,13128.0,24.0,109.4,0,0,0.0,0.0,72,76,0,0,1,0,12,90,0,1.83
+Rubén Iranzo,2025-12-07,Valencia,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2025-12-13,Atlético Madrid,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2025-12-16,Sporting Gijón,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2025-12-19,Valencia,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2026-01-03,Celta Vigo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2026-01-15,Burgos Club de Fútbol,Valencia,8.0,82,8958.0,16.0,109.24,1,0,0.0,0.0,36,42,0,0,0,0,4,71,0,1.79
+Rubén Iranzo,2026-01-18,Getafe,Valencia,6.7,12,1285.0,2.0,107.08,0,0,0.0,0.0,2,2,0,0,0,0,0,6,0,1.56
+Rubén Iranzo,2026-01-24,Valencia,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2026-02-01,Real Betis,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2026-02-04,Valencia,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2026-04-11,Elche,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2026-04-21,Mallorca,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rubén Iranzo,2026-04-25,Valencia,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

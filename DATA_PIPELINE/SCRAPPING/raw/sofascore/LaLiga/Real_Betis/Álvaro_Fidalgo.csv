@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Álvaro Fidalgo,2026-02-21,Real Betis,Rayo Vallecano,6.9,75,,,0.0,0,0,0.0,0.03,36,37,0,0,1,0,2,49
-Álvaro Fidalgo,2026-03-01,Real Betis,Sevilla,7.7,70,,,0.0,1,0,0.41,0.01,32,34,0,0,1,0,0,43
-Álvaro Fidalgo,2026-03-08,Getafe,Real Betis,6.7,61,,,0.0,0,0,0.02,0.01,40,43,0,0,0,0,3,52
-Álvaro Fidalgo,2026-03-12,Panathinaikos FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Álvaro Fidalgo,2026-03-15,Real Betis,Celta Vigo,6.6,87,,,0.0,0,0,0.0,0.04,58,63,1,0,0,0,8,69
-Álvaro Fidalgo,2026-03-19,Real Betis,Panathinaikos FC,6.8,28,,,0.0,0,0,0.0,0.03,21,23,1,0,1,0,0,26
-Álvaro Fidalgo,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Álvaro Fidalgo,2026-03-29,Mexico,Portugal,6.8,60,,,0.0,0,0,0.0,0.0,27,28,1,0,0,0,0,34
-Álvaro Fidalgo,2026-04-01,Mexico,Belgium,6.5,69,,,0.0,0,0,0.0,0.0,41,48,0,0,0,0,3,54
-Álvaro Fidalgo,2026-04-04,Real Betis,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Álvaro Fidalgo,2026-04-08,Sporting Braga,Real Betis,6.5,63,,,0.0,0,0,0.06,0.03,19,23,1,0,0,0,2,30
-Álvaro Fidalgo,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Álvaro Fidalgo,2026-04-16,Real Betis,Sporting Braga,6.9,66,,,0.0,0,0,0.0,0.02,22,30,2,0,1,0,2,47
-Álvaro Fidalgo,2026-04-21,Girona FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Álvaro Fidalgo,2026-04-24,Real Betis,Real Madrid,6.6,45,,,0.0,0,0,0.04,0.04,31,32,1,0,0,0,2,39
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Álvaro Fidalgo,2026-02-21,Real Betis,Rayo Vallecano,6.9,75,8106.0,16.0,108.08,0,0,0.0,0.03,36,37,0,0,1,0,2,49,0,1.97
+Álvaro Fidalgo,2026-03-01,Real Betis,Sevilla,7.7,70,7531.0,15.0,107.59,1,0,0.41,0.01,32,34,0,0,1,0,0,43,0,1.99
+Álvaro Fidalgo,2026-03-08,Getafe,Real Betis,6.7,61,6661.0,12.0,109.2,0,0,0.02,0.01,40,43,0,0,0,0,3,52,0,1.8
+Álvaro Fidalgo,2026-03-12,Panathinaikos FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Álvaro Fidalgo,2026-03-15,Real Betis,Celta Vigo,6.6,87,9525.0,17.0,109.48,0,0,0.0,0.04,58,63,1,0,0,0,8,69,0,1.78
+Álvaro Fidalgo,2026-03-19,Real Betis,Panathinaikos FC,6.8,28,3049.0,7.0,108.89,0,0,0.0,0.03,21,23,1,0,1,0,0,26,0,2.3
+Álvaro Fidalgo,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Álvaro Fidalgo,2026-03-29,Mexico,Portugal,6.8,60,6443.0,12.0,107.38,0,0,0.0,0.0,27,28,1,0,0,0,0,34,0,1.86
+Álvaro Fidalgo,2026-04-01,Mexico,Belgium,6.5,69,7509.0,13.0,108.83,0,0,0.0,0.0,41,48,0,0,0,0,3,54,0,1.73
+Álvaro Fidalgo,2026-04-04,Real Betis,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Álvaro Fidalgo,2026-04-08,Sporting Braga,Real Betis,6.5,63,6766.0,12.0,107.4,0,0,0.06,0.03,19,23,1,0,0,0,2,30,0,1.77
+Álvaro Fidalgo,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Álvaro Fidalgo,2026-04-16,Real Betis,Sporting Braga,6.9,66,7152.0,14.0,108.36,0,0,0.0,0.02,22,30,2,0,1,0,2,47,0,1.96
+Álvaro Fidalgo,2026-04-21,Girona FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Álvaro Fidalgo,2026-04-24,Real Betis,Real Madrid,6.6,45,4914.0,9.0,109.2,0,0,0.04,0.04,31,32,1,0,0,0,2,39,0,1.83

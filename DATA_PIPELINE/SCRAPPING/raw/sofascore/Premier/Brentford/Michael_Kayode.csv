@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Michael Kayode,2026-01-25,Brentford,Nottingham Forest,6.8,81,,,0.0,0,0,0.0,0.05,42,47,1,0,1,0,7,81
-Michael Kayode,2026-02-01,Aston Villa,Brentford,7.3,90,,,0.0,0,0,0.0,0.06,12,22,1,0,2,0,7,57
-Michael Kayode,2026-02-07,Newcastle United,Brentford,6.0,90,,,0.0,0,0,0.0,0.03,27,31,0,0,0,0,4,56
-Michael Kayode,2026-02-12,Brentford,Arsenal,6.8,90,,,0.0,0,0,0.08,0.06,15,18,1,0,1,0,3,51
-Michael Kayode,2026-02-16,Macclesfield FC,Brentford,7.3,90,,,0.0,0,0,0.0,0.0,35,40,1,0,0,0,4,73
-Michael Kayode,2026-02-28,Burnley,Brentford,6.8,90,,,0.0,0,0,0.0,0.14,31,35,2,0,0,0,3,70
-Michael Kayode,2026-03-03,Bournemouth,Brentford,7.2,90,,,0.0,0,0,0.0,0.02,32,38,0,0,1,0,7,74
-Michael Kayode,2026-03-09,West Ham United,Brentford,7.3,120,,,0.0,0,0,0.0,0.0,34,44,0,0,0,0,7,94
-Michael Kayode,2026-03-16,Brentford,Wolverhampton,7.7,90,,,0.0,1,0,0.36,0.09,34,43,1,0,1,0,7,69
-Michael Kayode,2026-03-21,Leeds United,Brentford,6.7,90,,,0.0,0,0,0.0,0.06,11,19,1,0,1,0,5,56
-Michael Kayode,2026-03-26,Italy U21,North Macedonia U21,7.2,45,,,0.0,0,0,0.0,0.0,38,38,2,0,1,0,1,44
-Michael Kayode,2026-03-31,Sweden U21,Italy U21,7.2,90,,,0.0,0,0,0.0,0.0,74,79,0,0,0,0,7,92
-Michael Kayode,2026-04-11,Brentford,Everton,6.9,90,,,0.0,0,0,0.09,0.01,35,45,1,0,2,0,3,80
-Michael Kayode,2026-04-18,Brentford,Fulham,7.4,90,,,0.0,0,0,0.0,0.06,26,29,1,0,0,0,3,52
-Michael Kayode,2026-04-27,Manchester United,Brentford,6.4,90,,,0.0,0,0,0.56,0.02,36,41,0,0,3,0,6,70
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Michael Kayode,2026-01-25,Brentford,Nottingham Forest,6.8,81,8933.0,17.0,110.28,0,0,0.0,0.05,42,47,1,0,1,0,7,81,0,1.9
+Michael Kayode,2026-02-01,Aston Villa,Brentford,7.3,90,9777.0,20.0,108.63,0,0,0.0,0.06,12,22,1,0,2,0,7,57,0,2.05
+Michael Kayode,2026-02-07,Newcastle United,Brentford,6.0,90,9735.0,17.0,108.17,0,0,0.0,0.03,27,31,0,0,0,0,4,56,0,1.75
+Michael Kayode,2026-02-12,Brentford,Arsenal,6.8,90,9702.0,19.0,107.8,0,0,0.08,0.06,15,18,1,0,1,0,3,51,0,1.96
+Michael Kayode,2026-02-16,Macclesfield FC,Brentford,7.3,90,9807.0,17.0,108.97,0,0,0.0,0.0,35,40,1,0,0,0,4,73,0,1.73
+Michael Kayode,2026-02-28,Burnley,Brentford,6.8,90,9782.0,17.0,108.69,0,0,0.0,0.14,31,35,2,0,0,0,3,70,0,1.74
+Michael Kayode,2026-03-03,Bournemouth,Brentford,7.2,90,9848.0,19.0,109.42,0,0,0.0,0.02,32,38,0,0,1,0,7,74,0,1.93
+Michael Kayode,2026-03-09,West Ham United,Brentford,7.3,120,13082.0,23.0,109.02,0,0,0.0,0.0,34,44,0,0,0,0,7,94,0,1.76
+Michael Kayode,2026-03-16,Brentford,Wolverhampton,7.7,90,9827.0,19.0,109.19,1,0,0.36,0.09,34,43,1,0,1,0,7,69,0,1.93
+Michael Kayode,2026-03-21,Leeds United,Brentford,6.7,90,9748.0,19.0,108.31,0,0,0.0,0.06,11,19,1,0,1,0,5,56,0,1.95
+Michael Kayode,2026-03-26,Italy U21,North Macedonia U21,7.2,45,4922.0,10.0,109.38,0,0,0.0,0.0,38,38,2,0,1,0,1,44,0,2.03
+Michael Kayode,2026-03-31,Sweden U21,Italy U21,7.2,90,9924.0,17.0,110.27,0,0,0.0,0.0,74,79,0,0,0,0,7,92,0,1.71
+Michael Kayode,2026-04-11,Brentford,Everton,6.9,90,9824.0,20.0,109.16,0,0,0.09,0.01,35,45,1,0,2,0,3,80,0,2.04
+Michael Kayode,2026-04-18,Brentford,Fulham,7.4,90,9706.0,17.0,107.84,0,0,0.0,0.06,26,29,1,0,0,0,3,52,0,1.75
+Michael Kayode,2026-04-27,Manchester United,Brentford,6.4,90,9819.0,22.0,109.1,0,0,0.56,0.02,36,41,0,0,3,0,6,70,0,2.24

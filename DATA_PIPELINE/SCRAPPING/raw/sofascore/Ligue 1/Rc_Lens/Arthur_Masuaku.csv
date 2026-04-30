@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Arthur Masuaku,2025-11-16,Nigeria,DR Congo,,120,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Masuaku,2025-11-22,Fulham,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Masuaku,2025-12-23,DR Congo,Benin,6.9,68,,,0.0,0,0,0.0,0.0,19,27,1,0,2,0,1,41
-Arthur Masuaku,2025-12-27,Senegal,DR Congo,6.6,73,,,0.0,0,0,0.0,0.0,30,35,1,0,0,0,1,54
-Arthur Masuaku,2026-02-04,Troyes,RC Lens,6.9,9,,,0.0,0,0,0.0,0.0,6,6,0,0,0,0,2,10
-Arthur Masuaku,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Masuaku,2026-02-14,Paris FC,RC Lens,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2
-Arthur Masuaku,2026-02-21,RC Lens,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Masuaku,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Masuaku,2026-03-05,Olympique Lyonnais,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Arthur Masuaku,2026-03-31,DR Congo,Jamaica,7.2,105,,,0.0,0,0,0.0,0.0,44,54,2,0,1,0,6,81
-Arthur Masuaku,2026-04-17,RC Lens,Toulouse,6.7,85,,,0.0,0,0,0.03,0.09,80,85,2,0,0,0,7,98
-Arthur Masuaku,2026-04-21,RC Lens,Toulouse,7.1,26,,,0.0,0,0,0.0,0.0,14,18,0,0,0,0,0,23
-Arthur Masuaku,2026-04-24,Stade Brestois,RC Lens,5.5,53,,,0.0,0,0,0.0,0.02,34,45,0,0,1,0,7,49
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Arthur Masuaku,2025-11-16,Nigeria,DR Congo,,120,12600.0,23.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.83
+Arthur Masuaku,2025-11-22,Fulham,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Masuaku,2025-12-23,DR Congo,Benin,6.9,68,7325.0,16.0,107.72,0,0,0.0,0.0,19,27,1,0,2,0,1,41,0,2.18
+Arthur Masuaku,2025-12-27,Senegal,DR Congo,6.6,73,7904.0,14.0,108.27,0,0,0.0,0.0,30,35,1,0,0,0,1,54,0,1.77
+Arthur Masuaku,2026-02-04,Troyes,RC Lens,6.9,9,1012.0,2.0,112.44,0,0,0.0,0.0,6,6,0,0,0,0,2,10,0,1.98
+Arthur Masuaku,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Masuaku,2026-02-14,Paris FC,RC Lens,,1,113.0,0.0,113.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,0.0
+Arthur Masuaku,2026-02-21,RC Lens,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Masuaku,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Masuaku,2026-03-05,Olympique Lyonnais,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Arthur Masuaku,2026-03-31,DR Congo,Jamaica,7.2,105,11440.0,22.0,108.95,0,0,0.0,0.0,44,54,2,0,1,0,6,81,0,1.92
+Arthur Masuaku,2026-04-17,RC Lens,Toulouse,6.7,85,9424.0,16.0,110.87,0,0,0.03,0.09,80,85,2,0,0,0,7,98,0,1.7
+Arthur Masuaku,2026-04-21,RC Lens,Toulouse,7.1,26,2827.0,5.0,108.73,0,0,0.0,0.0,14,18,0,0,0,0,0,23,0,1.77
+Arthur Masuaku,2026-04-24,Stade Brestois,RC Lens,5.5,53,5858.0,12.0,110.53,0,0,0.0,0.02,34,45,0,0,1,0,7,49,0,2.05

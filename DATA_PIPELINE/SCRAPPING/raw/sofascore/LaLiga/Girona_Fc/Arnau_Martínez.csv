@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Arnau Martínez,2026-01-04,Mallorca,Girona FC,6.7,90,,,0.0,0,0,0.03,0.04,37,45,1,0,1,0,9,73
-Arnau Martínez,2026-01-10,Girona FC,Osasuna,6.8,90,,,0.0,0,0,0.04,0.01,38,46,0,0,1,0,5,61
-Arnau Martínez,2026-01-16,Espanyol,Girona FC,6.7,90,,,0.0,0,0,0.0,0.0,33,41,0,0,3,0,1,60
-Arnau Martínez,2026-01-31,Real Oviedo,Girona FC,7.3,69,,,0.0,0,0,0.05,0.06,40,47,1,0,0,0,7,64
-Arnau Martínez,2026-02-08,Sevilla,Girona FC,7.0,90,,,0.0,0,0,0.11,0.38,26,33,2,0,1,0,4,56
-Arnau Martínez,2026-02-16,Girona FC,FC Barcelona,6.9,90,,,0.0,0,0,0.0,0.01,22,28,1,0,1,0,3,61
-Arnau Martínez,2026-02-23,Deportivo Alavés,Girona FC,6.2,90,,,0.0,0,0,0.0,0.02,34,42,0,0,2,0,8,60
-Arnau Martínez,2026-03-01,Girona FC,Celta Vigo,6.4,90,,,0.0,0,0,0.02,0.11,52,58,3,0,0,0,4,73
-Arnau Martínez,2026-03-07,Levante UD,Girona FC,7.0,63,,,0.0,0,0,0.0,0.21,26,27,2,0,0,0,3,38
-Arnau Martínez,2026-03-14,Girona FC,Athletic Club,7.6,90,,,0.0,0,0,0.05,0.02,32,40,2,0,1,0,2,62
-Arnau Martínez,2026-03-21,Osasuna,Girona FC,6.8,75,,,0.0,0,0,0.0,0.01,36,39,0,0,1,0,4,59
-Arnau Martínez,2026-04-06,Girona FC,Villarreal,7.7,85,,,0.0,0,0,0.04,0.07,56,61,1,0,2,0,3,79
-Arnau Martínez,2026-04-10,Real Madrid,Girona FC,6.5,90,,,0.0,0,0,0.07,0.02,27,33,1,0,2,0,4,57
-Arnau Martínez,2026-04-21,Girona FC,Real Betis,6.2,83,,,0.0,0,0,0.0,0.01,38,44,0,0,0,0,4,56
-Arnau Martínez,2026-04-25,Valencia,Girona FC,6.3,90,,,0.0,0,0,0.03,0.02,65,77,0,0,3,0,3,102
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Arnau Martínez,2026-01-04,Mallorca,Girona FC,6.7,90,9869.0,19.0,109.66,0,0,0.03,0.04,37,45,1,0,1,0,9,73,0,1.93
+Arnau Martínez,2026-01-10,Girona FC,Osasuna,6.8,90,9769.0,19.0,108.54,0,0,0.04,0.01,38,46,0,0,1,0,5,61,0,1.94
+Arnau Martínez,2026-01-16,Espanyol,Girona FC,6.7,90,9714.0,22.0,107.93,0,0,0.0,0.0,33,41,0,0,3,0,1,60,0,2.26
+Arnau Martínez,2026-01-31,Real Oviedo,Girona FC,7.3,69,7601.0,13.0,110.16,0,0,0.05,0.06,40,47,1,0,0,0,7,64,0,1.71
+Arnau Martínez,2026-02-08,Sevilla,Girona FC,7.0,90,9735.0,19.0,108.17,0,0,0.11,0.38,26,33,2,0,1,0,4,56,0,1.95
+Arnau Martínez,2026-02-16,Girona FC,FC Barcelona,6.9,90,9744.0,19.0,108.27,0,0,0.0,0.01,22,28,1,0,1,0,3,61,0,1.95
+Arnau Martínez,2026-02-23,Deportivo Alavés,Girona FC,6.2,90,9802.0,20.0,108.91,0,0,0.0,0.02,34,42,0,0,2,0,8,60,0,2.04
+Arnau Martínez,2026-03-01,Girona FC,Celta Vigo,6.4,90,9807.0,17.0,108.97,0,0,0.02,0.11,52,58,3,0,0,0,4,73,0,1.73
+Arnau Martínez,2026-03-07,Levante UD,Girona FC,7.0,63,6812.0,12.0,108.13,0,0,0.0,0.21,26,27,2,0,0,0,3,38,0,1.76
+Arnau Martínez,2026-03-14,Girona FC,Athletic Club,7.6,90,9735.0,19.0,108.17,0,0,0.05,0.02,32,40,2,0,1,0,2,62,0,1.95
+Arnau Martínez,2026-03-21,Osasuna,Girona FC,6.8,75,8173.0,16.0,108.97,0,0,0.0,0.01,36,39,0,0,1,0,4,59,0,1.96
+Arnau Martínez,2026-04-06,Girona FC,Villarreal,7.7,85,9294.0,19.0,109.34,0,0,0.04,0.07,56,61,1,0,2,0,3,79,0,2.04
+Arnau Martínez,2026-04-10,Real Madrid,Girona FC,6.5,90,9739.0,20.0,108.21,0,0,0.07,0.02,27,33,1,0,2,0,4,57,0,2.05
+Arnau Martínez,2026-04-21,Girona FC,Real Betis,6.2,83,9000.0,16.0,108.43,0,0,0.0,0.01,38,44,0,0,0,0,4,56,0,1.78
+Arnau Martínez,2026-04-25,Valencia,Girona FC,6.3,90,9916.0,22.0,110.18,0,0,0.03,0.02,65,77,0,0,3,0,3,102,0,2.22

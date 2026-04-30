@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Genesis Antwi,2026-01-19,West Ham U21,Chelsea U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-01-26,Leicester City U21,Chelsea U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-01-30,Chelsea U21,Southampton U21,,79,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-02-03,Chelsea U19,PSV Eindhoven U19,6.7,90,,,0.0,0,0,0.0,0.0,24,25,2,0,0,0,3,49
-Genesis Antwi,2026-02-07,Chelsea U21,Blackburn U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-02-20,Chelsea U21,Leeds United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-02-25,Real Madrid U19,Chelsea U19,6.3,90,,,0.0,0,0,0.0,0.0,18,21,0,0,1,0,1,46
-Genesis Antwi,2026-03-02,Manchester United U21,Chelsea U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-03-09,Birmingham City U21,Chelsea U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-03-14,Chelsea U21,Sunderland U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-03-20,Wolverhampton U21,Chelsea U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-03-27,Sweden U21,Montenegro U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-03-31,Sweden U21,Italy U21,6.2,90,,,0.0,0,0,0.0,0.0,29,33,0,0,0,0,5,48
-Genesis Antwi,2026-04-10,Fulham U21,Chelsea U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Genesis Antwi,2026-04-25,Chelsea U21,Middlesbrough U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Genesis Antwi,2026-01-19,West Ham U21,Chelsea U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-01-26,Leicester City U21,Chelsea U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-01-30,Chelsea U21,Southampton U21,,79,8295.0,15.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.81
+Genesis Antwi,2026-02-03,Chelsea U19,PSV Eindhoven U19,6.7,90,9693.0,17.0,107.7,0,0,0.0,0.0,24,25,2,0,0,0,3,49,0,1.75
+Genesis Antwi,2026-02-07,Chelsea U21,Blackburn U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-02-20,Chelsea U21,Leeds United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-02-25,Real Madrid U19,Chelsea U19,6.3,90,9656.0,19.0,107.29,0,0,0.0,0.0,18,21,0,0,1,0,1,46,0,1.97
+Genesis Antwi,2026-03-02,Manchester United U21,Chelsea U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-03-09,Birmingham City U21,Chelsea U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-03-14,Chelsea U21,Sunderland U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-03-20,Wolverhampton U21,Chelsea U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-03-27,Sweden U21,Montenegro U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Genesis Antwi,2026-03-31,Sweden U21,Italy U21,6.2,90,9714.0,17.0,107.93,0,0,0.0,0.0,29,33,0,0,0,0,5,48,0,1.75
+Genesis Antwi,2026-04-10,Fulham U21,Chelsea U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Genesis Antwi,2026-04-25,Chelsea U21,Middlesbrough U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8

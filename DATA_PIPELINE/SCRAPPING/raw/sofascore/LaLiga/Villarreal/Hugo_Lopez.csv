@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Hugo Lopez,2026-02-25,Villarreal U19,Legia Warszawa U19,7.7,79,,,0.0,1,0,0.0,0.0,21,26,2,0,0,0,0,43
-Hugo Lopez,2026-03-01,Villarreal B U23,Real Murcia,6.7,21,,,0.0,0,0,0.17,0.0,1,1,0,0,0,0,0,3
-Hugo Lopez,2026-03-04,Villarreal B U23,CD Eldense,6.5,76,,,0.0,0,0,0.07,0.03,9,12,1,0,3,0,7,21
-Hugo Lopez,2026-03-08,CD Teruel,Villarreal B U23,7.5,90,,,0.0,0,0,0.08,0.08,19,25,3,0,3,0,6,45
-Hugo Lopez,2026-03-14,Villarreal B U23,Juventud Torremolinos CF,7.3,81,,,0.0,0,0,0.1,0.41,23,29,3,0,0,0,2,47
-Hugo Lopez,2026-03-17,Villarreal U19,Paris Saint-Germain U19,7.6,82,,,0.0,0,0,0.0,0.0,19,26,2,0,0,0,6,55
-Hugo Lopez,2026-03-21,Antequera,Villarreal B U23,6.7,61,,,0.0,0,0,0.0,0.01,16,21,1,0,0,0,2,32
-Hugo Lopez,2026-03-25,Spain U19,Slovenia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hugo Lopez,2026-03-28,Spain U19,Finland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hugo Lopez,2026-03-31,Netherlands U19,Spain U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hugo Lopez,2026-04-04,Marbella FC,Villarreal B U23,6.8,72,,,0.0,0,0,0.1,0.0,12,16,0,0,0,0,2,34
-Hugo Lopez,2026-04-12,Villarreal B U23,Algeciras CF,6.5,40,,,0.0,0,0,0.06,0.0,11,11,0,0,0,0,1,14
-Hugo Lopez,2026-04-19,AD Alcorcón,Villarreal B U23,8.1,78,,,0.0,1,0,0.58,0.24,14,16,1,0,0,0,2,24
-Hugo Lopez,2026-04-25,Villarreal B U23,UD Ibiza,7.2,72,,,0.0,0,0,0.49,0.09,13,14,2,0,0,0,0,25
-Hugo Lopez,2026-04-26,Villarreal,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Hugo Lopez,2026-02-25,Villarreal U19,Legia Warszawa U19,7.7,79,8476.0,15.0,107.29,1,0,0.0,0.0,21,26,2,0,0,0,0,43,0,1.77
+Hugo Lopez,2026-03-01,Villarreal B U23,Real Murcia,6.7,21,2218.0,4.0,105.62,0,0,0.17,0.0,1,1,0,0,0,0,0,3,0,1.8
+Hugo Lopez,2026-03-04,Villarreal B U23,CD Eldense,6.5,76,8156.0,19.0,107.32,0,0,0.07,0.03,9,12,1,0,3,0,7,21,0,2.33
+Hugo Lopez,2026-03-08,CD Teruel,Villarreal B U23,7.5,90,9714.0,22.0,107.93,0,0,0.08,0.08,19,25,3,0,3,0,6,45,0,2.26
+Hugo Lopez,2026-03-14,Villarreal B U23,Juventud Torremolinos CF,7.3,81,8727.0,16.0,107.74,0,0,0.1,0.41,23,29,3,0,0,0,2,47,0,1.83
+Hugo Lopez,2026-03-17,Villarreal U19,Paris Saint-Germain U19,7.6,82,8916.0,16.0,108.73,0,0,0.0,0.0,19,26,2,0,0,0,6,55,0,1.79
+Hugo Lopez,2026-03-21,Antequera,Villarreal B U23,6.7,61,6564.0,12.0,107.61,0,0,0.0,0.01,16,21,1,0,0,0,2,32,0,1.83
+Hugo Lopez,2026-03-25,Spain U19,Slovenia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hugo Lopez,2026-03-28,Spain U19,Finland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hugo Lopez,2026-03-31,Netherlands U19,Spain U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hugo Lopez,2026-04-04,Marbella FC,Villarreal B U23,6.8,72,7728.0,14.0,107.33,0,0,0.1,0.0,12,16,0,0,0,0,2,34,0,1.81
+Hugo Lopez,2026-04-12,Villarreal B U23,Algeciras CF,6.5,40,4271.0,8.0,106.78,0,0,0.06,0.0,11,11,0,0,0,0,1,14,0,1.87
+Hugo Lopez,2026-04-19,AD Alcorcón,Villarreal B U23,8.1,78,8316.0,15.0,106.62,1,0,0.58,0.24,14,16,1,0,0,0,2,24,0,1.8
+Hugo Lopez,2026-04-25,Villarreal B U23,UD Ibiza,7.2,72,7665.0,14.0,106.46,0,0,0.49,0.09,13,14,2,0,0,0,0,25,0,1.83
+Hugo Lopez,2026-04-26,Villarreal,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

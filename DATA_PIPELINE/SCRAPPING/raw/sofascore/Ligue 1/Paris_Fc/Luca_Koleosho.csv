@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Luca Koleosho,2026-01-31,Paris FC,Olympique de Marseille,6.5,26,,,0.0,0,0,0.04,0.01,6,7,0,0,0,0,1,16
-Luca Koleosho,2026-02-04,Lorient,Paris FC,6.2,58,,,0.0,0,0,0.0,0.0,11,12,1,0,0,0,0,25
-Luca Koleosho,2026-02-08,Auxerre,Paris FC,6.6,27,,,0.0,0,0,0.0,0.0,5,9,0,0,0,0,1,11
-Luca Koleosho,2026-02-14,Paris FC,RC Lens,6.8,63,,,0.0,0,0,0.0,0.01,17,24,0,0,0,0,4,40
-Luca Koleosho,2026-02-21,Toulouse,Paris FC,6.6,23,,,0.0,0,0,0.0,0.06,5,6,1,0,0,0,3,9
-Luca Koleosho,2026-03-01,Paris FC,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luca Koleosho,2026-03-08,Olympique Lyonnais,Paris FC,6.6,17,,,0.0,0,0,0.16,0.04,6,8,1,0,0,0,2,12
-Luca Koleosho,2026-03-15,RC Strasbourg,Paris FC,6.7,26,,,0.0,0,0,0.11,0.03,9,13,0,0,0,0,2,25
-Luca Koleosho,2026-03-22,Paris FC,Le Havre,6.9,18,,,0.0,0,0,0.0,0.06,3,4,1,0,0,0,2,9
-Luca Koleosho,2026-03-26,Italy U21,North Macedonia U21,7.0,74,,,0.0,0,0,0.0,0.0,31,41,2,0,0,0,3,64
-Luca Koleosho,2026-03-31,Sweden U21,Italy U21,9.4,90,,,0.0,2,0,0.0,0.0,23,26,2,0,0,0,6,48
-Luca Koleosho,2026-04-05,Lorient,Paris FC,6.6,19,,,0.0,0,0,0.0,0.01,1,4,0,0,0,0,0,11
-Luca Koleosho,2026-04-10,Paris FC,AS Monaco,7.5,25,,,0.0,1,0,0.25,0.03,3,7,1,0,1,0,2,13
-Luca Koleosho,2026-04-19,Metz,Paris FC,6.6,88,,,0.0,0,0,0.05,0.04,28,35,2,0,2,0,6,60
-Luca Koleosho,2026-04-26,Paris FC,Lille,6.6,21,,,0.0,0,0,0.14,0.04,13,15,1,0,0,0,1,23
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Luca Koleosho,2026-01-31,Paris FC,Olympique de Marseille,6.5,26,2810.0,5.0,108.08,0,0,0.04,0.01,6,7,0,0,0,0,1,16,0,1.78
+Luca Koleosho,2026-02-04,Lorient,Paris FC,6.2,58,6195.0,11.0,106.81,0,0,0.0,0.0,11,12,1,0,0,0,0,25,0,1.78
+Luca Koleosho,2026-02-08,Auxerre,Paris FC,6.6,27,2894.0,5.0,107.19,0,0,0.0,0.0,5,9,0,0,0,0,1,11,0,1.73
+Luca Koleosho,2026-02-14,Paris FC,RC Lens,6.8,63,6833.0,12.0,108.46,0,0,0.0,0.01,17,24,0,0,0,0,4,40,0,1.76
+Luca Koleosho,2026-02-21,Toulouse,Paris FC,6.6,23,2490.0,4.0,108.26,0,0,0.0,0.06,5,6,1,0,0,0,3,9,0,1.61
+Luca Koleosho,2026-03-01,Paris FC,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luca Koleosho,2026-03-08,Olympique Lyonnais,Paris FC,6.6,17,1860.0,3.0,109.41,0,0,0.16,0.04,6,8,1,0,0,0,2,12,0,1.61
+Luca Koleosho,2026-03-15,RC Strasbourg,Paris FC,6.7,26,2860.0,5.0,110.0,0,0,0.11,0.03,9,13,0,0,0,0,2,25,0,1.75
+Luca Koleosho,2026-03-22,Paris FC,Le Havre,6.9,18,1953.0,3.0,108.5,0,0,0.0,0.06,3,4,1,0,0,0,2,9,0,1.54
+Luca Koleosho,2026-03-26,Italy U21,North Macedonia U21,7.0,74,8076.0,14.0,109.14,0,0,0.0,0.0,31,41,2,0,0,0,3,64,0,1.73
+Luca Koleosho,2026-03-31,Sweden U21,Italy U21,9.4,90,9727.0,17.0,108.08,2,0,0.0,0.0,23,26,2,0,0,0,6,48,0,1.75
+Luca Koleosho,2026-04-05,Lorient,Paris FC,6.6,19,2041.0,4.0,107.42,0,0,0.0,0.01,1,4,0,0,0,0,0,11,0,1.96
+Luca Koleosho,2026-04-10,Paris FC,AS Monaco,7.5,25,2705.0,6.0,108.2,1,0,0.25,0.03,3,7,1,0,1,0,2,13,0,2.22
+Luca Koleosho,2026-04-19,Metz,Paris FC,6.6,88,9567.0,20.0,108.72,0,0,0.05,0.04,28,35,2,0,2,0,6,60,0,2.09
+Luca Koleosho,2026-04-26,Paris FC,Lille,6.6,21,2314.0,4.0,110.19,0,0,0.14,0.04,13,15,1,0,0,0,1,23,0,1.73

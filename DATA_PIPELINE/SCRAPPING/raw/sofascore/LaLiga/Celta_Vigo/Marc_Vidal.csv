@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Marc Vidal,2025-02-16,Celta Vigo B,Real Unión Club,6.7,90,,,0.0,0,0,0.0,0.0,18,20,0,0,0,0,3,22
-Marc Vidal,2025-02-22,Cultural Leonesa,Celta Vigo B,6.1,90,,,0.0,0,0,0.0,0.0,23,26,0,0,0,0,4,28
-Marc Vidal,2025-03-02,Celta Vigo B,SD Ponferradina,6.4,90,,,0.0,0,0,0.0,0.0,11,13,0,0,1,0,1,13
-Marc Vidal,2025-03-09,FC Andorra,Celta Vigo B,6.9,90,,,0.0,0,0,0.0,0.0,17,20,0,0,1,0,4,22
-Marc Vidal,2025-03-14,Celta Vigo B,Sestao River,6.4,90,,,0.0,0,0,0.0,0.0,19,24,0,0,2,0,4,30
-Marc Vidal,2025-03-19,Celta Vigo B,CD Lugo,6.1,90,,,0.0,0,0,0.0,0.0,13,13,0,0,0,0,5,17
-Marc Vidal,2025-03-31,Celta Vigo,Las Palmas,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Marc Vidal,2025-05-13,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Marc Vidal,2025-10-30,Puerto de Vega CF,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Marc Vidal,2025-11-06,GNK Dinamo Zagreb,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Marc Vidal,2025-12-17,Albacete Balompié,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Marc Vidal,2025-02-16,Celta Vigo B,Real Unión Club,6.7,90,9580.0,17.0,106.44,0,0,0.0,0.0,18,20,0,0,0,0,3,22,0,1.77
+Marc Vidal,2025-02-22,Cultural Leonesa,Celta Vigo B,6.1,90,9618.0,17.0,106.87,0,0,0.0,0.0,23,26,0,0,0,0,4,28,0,1.77
+Marc Vidal,2025-03-02,Celta Vigo B,SD Ponferradina,6.4,90,9517.0,19.0,105.74,0,0,0.0,0.0,11,13,0,0,1,0,1,13,0,2.0
+Marc Vidal,2025-03-09,FC Andorra,Celta Vigo B,6.9,90,9592.0,19.0,106.58,0,0,0.0,0.0,17,20,0,0,1,0,4,22,0,1.98
+Marc Vidal,2025-03-14,Celta Vigo B,Sestao River,6.4,90,9626.0,20.0,106.96,0,0,0.0,0.0,19,24,0,0,2,0,4,30,0,2.08
+Marc Vidal,2025-03-19,Celta Vigo B,CD Lugo,6.1,90,9584.0,17.0,106.49,0,0,0.0,0.0,13,13,0,0,0,0,5,17,0,1.77
+Marc Vidal,2025-03-31,Celta Vigo,Las Palmas,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Marc Vidal,2025-05-13,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Marc Vidal,2025-10-30,Puerto de Vega CF,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Marc Vidal,2025-11-06,GNK Dinamo Zagreb,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Marc Vidal,2025-12-17,Albacete Balompié,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

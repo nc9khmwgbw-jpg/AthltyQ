@@ -1,10 +1,10 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Paul Pogba,2025-11-22,Stade Rennais,AS Monaco,6.7,5,,,0.0,0,0,0.0,0.0,14,15,0,0,1,0,3,18
-Paul Pogba,2025-11-26,Pafos FC,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Paul Pogba,2025-11-29,AS Monaco,Paris Saint-Germain,6.8,4,,,0.0,0,0,0.0,0.0,3,5,0,0,0,0,2,7
-Paul Pogba,2025-12-05,Stade Brestois,AS Monaco,7.2,21,,,0.0,0,0,0.0,0.03,12,13,0,0,0,0,2,22
-Paul Pogba,2025-12-09,AS Monaco,Galatasaray,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Paul Pogba,2026-04-05,AS Monaco,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Paul Pogba,2026-04-10,Paris FC,AS Monaco,6.7,21,,,0.0,0,0,0.0,0.03,21,25,0,0,0,0,6,30
-Paul Pogba,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Paul Pogba,2026-04-25,Toulouse,AS Monaco,6.4,6,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,5
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Paul Pogba,2025-11-22,Stade Rennais,AS Monaco,6.7,5,638.0,2.0,127.6,0,0,0.0,0.0,14,15,0,0,1,0,3,18,0,3.13
+Paul Pogba,2025-11-26,Pafos FC,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Paul Pogba,2025-11-29,AS Monaco,Paris Saint-Germain,6.8,4,474.0,1.0,118.5,0,0,0.0,0.0,3,5,0,0,0,0,2,7,0,2.11
+Paul Pogba,2025-12-05,Stade Brestois,AS Monaco,7.2,21,2322.0,4.0,110.57,0,0,0.0,0.03,12,13,0,0,0,0,2,22,0,1.72
+Paul Pogba,2025-12-09,AS Monaco,Galatasaray,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Paul Pogba,2026-04-05,AS Monaco,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Paul Pogba,2026-04-10,Paris FC,AS Monaco,6.7,21,2406.0,4.0,114.57,0,0,0.0,0.03,21,25,0,0,0,0,6,30,0,1.66
+Paul Pogba,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Paul Pogba,2026-04-25,Toulouse,AS Monaco,6.4,6,651.0,1.0,108.5,0,0,0.0,0.0,2,2,0,0,0,0,0,5,0,1.54

@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Gideon Mensah,2026-02-01,Toulouse,Auxerre,6.2,85,,,0.0,0,0,0.0,0.22,37,46,1,0,0,0,3,68
-Gideon Mensah,2026-02-08,Auxerre,Paris FC,6.8,90,,,0.0,0,0,0.0,0.06,42,50,1,0,1,0,6,69
-Gideon Mensah,2026-02-15,Metz,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Gideon Mensah,2026-02-22,Auxerre,Stade Rennais,6.9,45,,,0.0,0,0,0.0,0.01,13,20,0,0,0,0,1,33
-Gideon Mensah,2026-03-01,Lorient,Auxerre,7.3,90,,,0.0,0,0,0.0,0.24,60,66,0,0,0,0,3,87
-Gideon Mensah,2026-03-07,Auxerre,RC Strasbourg,6.8,90,,,0.0,0,0,0.0,0.02,19,25,0,0,1,0,2,45
-Gideon Mensah,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Gideon Mensah,2026-03-21,Auxerre,Stade Brestois,7.5,84,,,0.0,0,1,0.0,0.01,24,33,1,0,2,0,2,54
-Gideon Mensah,2026-03-27,Austria,Ghana,6.3,21,,,0.0,0,0,0.0,0.0,10,11,0,0,0,0,3,16
-Gideon Mensah,2026-03-30,Germany,Ghana,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Gideon Mensah,2026-04-05,Le Havre,Auxerre,7.0,90,,,0.0,0,0,0.0,0.02,38,47,0,0,2,0,6,78
-Gideon Mensah,2026-04-11,Auxerre,Nantes,7.2,90,,,0.0,0,0,0.0,0.08,41,51,0,0,0,0,9,83
-Gideon Mensah,2026-04-19,AS Monaco,Auxerre,6.4,90,,,0.0,0,0,0.0,0.02,22,27,0,0,2,0,3,48
-Gideon Mensah,2026-04-25,Olympique Lyonnais,Auxerre,6.1,90,,,0.0,0,0,0.0,0.01,32,35,0,0,0,0,2,62
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Gideon Mensah,2026-02-01,Toulouse,Auxerre,6.2,85,9248.0,16.0,108.8,0,0,0.0,0.22,37,46,1,0,0,0,3,68,0,1.73
+Gideon Mensah,2026-02-08,Auxerre,Paris FC,6.8,90,9815.0,19.0,109.06,0,0,0.0,0.06,42,50,1,0,1,0,6,69,0,1.94
+Gideon Mensah,2026-02-15,Metz,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Gideon Mensah,2026-02-22,Auxerre,Stade Rennais,6.9,45,4876.0,9.0,108.36,0,0,0.0,0.01,13,20,0,0,0,0,1,33,0,1.85
+Gideon Mensah,2026-03-01,Lorient,Auxerre,7.3,90,9853.0,17.0,109.48,0,0,0.0,0.24,60,66,0,0,0,0,3,87,0,1.73
+Gideon Mensah,2026-03-07,Auxerre,RC Strasbourg,6.8,90,9664.0,19.0,107.38,0,0,0.0,0.02,19,25,0,0,1,0,2,45,0,1.97
+Gideon Mensah,2026-03-13,Olympique de Marseille,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Gideon Mensah,2026-03-21,Auxerre,Stade Brestois,7.5,84,9072.0,19.0,108.0,0,1,0.0,0.01,24,33,1,0,2,0,2,54,0,2.09
+Gideon Mensah,2026-03-27,Austria,Ghana,6.3,21,2310.0,4.0,110.0,0,0,0.0,0.0,10,11,0,0,0,0,3,16,0,1.73
+Gideon Mensah,2026-03-30,Germany,Ghana,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Gideon Mensah,2026-04-05,Le Havre,Auxerre,7.0,90,9853.0,20.0,109.48,0,0,0.0,0.02,38,47,0,0,2,0,6,78,0,2.03
+Gideon Mensah,2026-04-11,Auxerre,Nantes,7.2,90,9911.0,17.0,110.12,0,0,0.0,0.08,41,51,0,0,0,0,9,83,0,1.72
+Gideon Mensah,2026-04-19,AS Monaco,Auxerre,6.4,90,9689.0,20.0,107.66,0,0,0.0,0.02,22,27,0,0,2,0,3,48,0,2.06
+Gideon Mensah,2026-04-25,Olympique Lyonnais,Auxerre,6.1,90,9735.0,17.0,108.17,0,0,0.0,0.01,32,35,0,0,0,0,2,62,0,1.75

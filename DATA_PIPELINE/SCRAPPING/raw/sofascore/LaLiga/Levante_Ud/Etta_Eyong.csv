@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Etta Eyong,2026-01-31,Levante UD,Atlético Madrid,6.4,31,,,0.0,0,0,0.06,0.01,6,8,0,0,0,0,0,17
-Etta Eyong,2026-02-08,Athletic Club,Levante UD,6.5,90,,,0.0,0,0,0.01,0.23,12,17,0,0,1,0,2,35
-Etta Eyong,2026-02-15,Levante UD,Valencia,6.2,21,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,1,7
-Etta Eyong,2026-02-18,Levante UD,Villarreal,6.4,25,,,0.0,0,0,0.01,0.0,1,3,0,0,0,0,0,11
-Etta Eyong,2026-02-22,FC Barcelona,Levante UD,6.4,20,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2
-Etta Eyong,2026-02-27,Levante UD,Deportivo Alavés,6.5,11,,,0.0,0,0,0.0,0.0,2,2,1,0,0,0,0,4
-Etta Eyong,2026-03-07,Levante UD,Girona FC,6.6,24,,,0.0,0,0,0.0,0.0,1,4,0,0,0,0,1,14
-Etta Eyong,2026-03-16,Rayo Vallecano,Levante UD,6.7,14,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,1,7
-Etta Eyong,2026-03-21,Levante UD,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Etta Eyong,2026-03-27,Australia,Cameroon,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Etta Eyong,2026-03-31,Cameroon,China,7.4,87,,,0.0,1,0,0.0,0.0,7,9,1,0,1,0,2,28
-Etta Eyong,2026-04-04,Real Sociedad,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Etta Eyong,2026-04-13,Levante UD,Getafe,6.5,11,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3
-Etta Eyong,2026-04-23,Levante UD,Sevilla,6.5,12,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,1,3
-Etta Eyong,2026-04-27,Espanyol,Levante UD,6.1,18,,,0.0,0,0,0.76,0.0,1,4,0,0,0,0,0,8
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Etta Eyong,2026-01-31,Levante UD,Atlético Madrid,6.4,31,3326.0,6.0,107.29,0,0,0.06,0.01,6,8,0,0,0,0,0,17,0,1.8
+Etta Eyong,2026-02-08,Athletic Club,Levante UD,6.5,90,9622.0,19.0,106.91,0,0,0.01,0.23,12,17,0,0,1,0,2,35,0,1.97
+Etta Eyong,2026-02-15,Levante UD,Valencia,6.2,21,2247.0,4.0,107.0,0,0,0.0,0.0,2,4,0,0,0,0,1,7,0,1.78
+Etta Eyong,2026-02-18,Levante UD,Villarreal,6.4,25,2671.0,5.0,106.84,0,0,0.01,0.0,1,3,0,0,0,0,0,11,0,1.87
+Etta Eyong,2026-02-22,FC Barcelona,Levante UD,6.4,20,2108.0,4.0,105.4,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0,1.9
+Etta Eyong,2026-02-27,Levante UD,Deportivo Alavés,6.5,11,1172.0,2.0,106.55,0,0,0.0,0.0,2,2,1,0,0,0,0,4,0,1.71
+Etta Eyong,2026-03-07,Levante UD,Girona FC,6.6,24,2591.0,5.0,107.96,0,0,0.0,0.0,1,4,0,0,0,0,1,14,0,1.93
+Etta Eyong,2026-03-16,Rayo Vallecano,Levante UD,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,1,7,0,1.98
+Etta Eyong,2026-03-21,Levante UD,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Etta Eyong,2026-03-27,Australia,Cameroon,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Etta Eyong,2026-03-31,Cameroon,China,7.4,87,9278.0,18.0,106.64,1,0,0.0,0.0,7,9,1,0,1,0,2,28,0,1.94
+Etta Eyong,2026-04-04,Real Sociedad,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Etta Eyong,2026-04-13,Levante UD,Getafe,6.5,11,1168.0,2.0,106.18,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0,1.71
+Etta Eyong,2026-04-23,Levante UD,Sevilla,6.5,12,1285.0,2.0,107.08,0,0,0.0,0.0,2,2,0,0,0,0,1,3,0,1.56
+Etta Eyong,2026-04-27,Espanyol,Levante UD,6.1,18,1924.0,3.0,106.89,0,0,0.76,0.0,1,4,0,0,0,0,0,8,0,1.56

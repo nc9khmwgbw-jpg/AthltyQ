@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Cristian Cásseres Jr.,2026-02-01,Toulouse,Auxerre,7.6,90,,,0.0,0,0,0.05,0.06,51,61,1,0,2,0,6,86
-Cristian Cásseres Jr.,2026-02-04,Toulouse,Amiens SC,7.5,90,,,0.0,0,0,0.0,0.0,64,70,2,0,0,0,2,94
-Cristian Cásseres Jr.,2026-02-08,Angers,Toulouse,7.2,90,,,0.0,0,0,0.02,0.43,49,61,3,0,2,0,4,89
-Cristian Cásseres Jr.,2026-02-15,Le Havre,Toulouse,6.6,63,,,0.0,0,0,0.0,0.16,43,45,2,0,0,0,4,56
-Cristian Cásseres Jr.,2026-02-21,Toulouse,Paris FC,7.4,90,,,0.0,0,0,0.1,0.46,62,74,4,0,1,0,6,104
-Cristian Cásseres Jr.,2026-03-04,Olympique de Marseille,Toulouse,6.6,90,,,0.0,0,0,0.0,0.0,43,49,0,0,2,0,6,70
-Cristian Cásseres Jr.,2026-03-07,Toulouse,Olympique de Marseille,6.7,69,,,0.0,0,0,0.04,0.02,38,46,0,0,1,0,6,58
-Cristian Cásseres Jr.,2026-03-21,Toulouse,Lorient,7.7,90,,,0.0,0,0,0.0,0.11,62,71,2,0,1,0,8,86
-Cristian Cásseres Jr.,2026-03-30,Uzbekistan,Venezuela,7.1,90,,,0.0,0,0,0.0,0.0,70,80,1,0,0,0,7,93
-Cristian Cásseres Jr.,2026-04-03,Paris Saint-Germain,Toulouse,6.5,83,,,0.0,0,0,0.0,0.03,33,40,1,0,0,0,6,51
-Cristian Cásseres Jr.,2026-04-12,Toulouse,Lille,7.1,90,,,0.0,0,0,0.0,0.23,51,56,2,0,2,0,3,70
-Cristian Cásseres Jr.,2026-04-17,RC Lens,Toulouse,7.8,90,,,0.0,0,0,0.02,0.01,13,17,0,0,1,0,8,43
-Cristian Cásseres Jr.,2026-04-21,RC Lens,Toulouse,6.1,86,,,0.0,0,0,0.0,0.0,24,36,1,0,1,0,5,56
-Cristian Cásseres Jr.,2026-04-25,Toulouse,AS Monaco,7.0,90,,,0.0,0,0,0.06,0.08,83,92,0,0,3,0,8,103
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Cristian Cásseres Jr.,2026-02-01,Toulouse,Auxerre,7.6,90,9886.0,20.0,109.84,0,0,0.05,0.06,51,61,1,0,2,0,6,86,0,2.02
+Cristian Cásseres Jr.,2026-02-04,Toulouse,Amiens SC,7.5,90,9870.0,17.0,109.67,0,0,0.0,0.0,64,70,2,0,0,0,2,94,0,1.72
+Cristian Cásseres Jr.,2026-02-08,Angers,Toulouse,7.2,90,9874.0,20.0,109.71,0,0,0.02,0.43,49,61,3,0,2,0,4,89,0,2.03
+Cristian Cásseres Jr.,2026-02-15,Le Havre,Toulouse,6.6,63,6900.0,12.0,109.52,0,0,0.0,0.16,43,45,2,0,0,0,4,56,0,1.74
+Cristian Cásseres Jr.,2026-02-21,Toulouse,Paris FC,7.4,90,9962.0,19.0,110.69,0,0,0.1,0.46,62,74,4,0,1,0,6,104,0,1.91
+Cristian Cásseres Jr.,2026-03-04,Olympique de Marseille,Toulouse,6.6,90,9819.0,20.0,109.1,0,0,0.0,0.0,43,49,0,0,2,0,6,70,0,2.04
+Cristian Cásseres Jr.,2026-03-07,Toulouse,Olympique de Marseille,6.7,69,7564.0,15.0,109.62,0,0,0.04,0.02,38,46,0,0,1,0,6,58,0,1.98
+Cristian Cásseres Jr.,2026-03-21,Toulouse,Lorient,7.7,90,9911.0,19.0,110.12,0,0,0.0,0.11,62,71,2,0,1,0,8,86,0,1.92
+Cristian Cásseres Jr.,2026-03-30,Uzbekistan,Venezuela,7.1,90,9928.0,17.0,110.31,0,0,0.0,0.0,70,80,1,0,0,0,7,93,0,1.71
+Cristian Cásseres Jr.,2026-04-03,Paris Saint-Germain,Toulouse,6.5,83,9004.0,16.0,108.48,0,0,0.0,0.03,33,40,1,0,0,0,6,51,0,1.78
+Cristian Cásseres Jr.,2026-04-12,Toulouse,Lille,7.1,90,9782.0,20.0,108.69,0,0,0.0,0.23,51,56,2,0,2,0,3,70,0,2.04
+Cristian Cásseres Jr.,2026-04-17,RC Lens,Toulouse,7.8,90,9731.0,19.0,108.12,0,0,0.02,0.01,13,17,0,0,1,0,8,43,0,1.95
+Cristian Cásseres Jr.,2026-04-21,RC Lens,Toulouse,6.1,86,9328.0,18.0,108.47,0,0,0.0,0.0,24,36,1,0,1,0,5,56,0,1.93
+Cristian Cásseres Jr.,2026-04-25,Toulouse,AS Monaco,7.0,90,9983.0,22.0,110.92,0,0,0.06,0.08,83,92,0,0,3,0,8,103,0,2.2

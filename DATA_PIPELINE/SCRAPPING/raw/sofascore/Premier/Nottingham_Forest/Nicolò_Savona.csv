@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Nicolò Savona,2025-11-27,Nottingham Forest,Malmö FF,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nicolò Savona,2025-11-30,Nottingham Forest,Brighton & Hove Albion,6.0,90,,,0.0,0,0,0.05,0.02,37,41,0,0,0,0,2,52
-Nicolò Savona,2025-12-03,Wolverhampton,Nottingham Forest,6.9,90,,,0.0,0,0,0.0,0.02,32,39,0,0,1,0,1,60
-Nicolò Savona,2025-12-06,Everton,Nottingham Forest,6.1,45,,,0.0,0,0,0.0,0.05,18,22,1,0,0,0,2,40
-Nicolò Savona,2025-12-11,FC Utrecht,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nicolò Savona,2025-12-14,Nottingham Forest,Tottenham Hotspur,7.0,90,,,0.0,0,0,0.0,0.16,33,36,2,0,0,0,4,50
-Nicolò Savona,2025-12-22,Fulham,Nottingham Forest,6.5,81,,,0.0,0,0,0.0,0.01,33,42,0,0,0,0,0,61
-Nicolò Savona,2025-12-27,Nottingham Forest,Manchester City,6.4,90,,,0.0,0,0,0.08,0.05,22,39,1,0,1,0,1,62
-Nicolò Savona,2025-12-30,Nottingham Forest,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nicolò Savona,2026-01-03,Aston Villa,Nottingham Forest,6.3,21,,,0.0,0,0,0.0,0.0,7,7,0,0,0,0,1,8
-Nicolò Savona,2026-01-06,West Ham United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nicolò Savona,2026-01-09,Wrexham,Nottingham Forest,7.5,97,,,0.0,0,0,0.0,0.0,65,70,3,0,0,0,4,101
-Nicolò Savona,2026-01-17,Nottingham Forest,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nicolò Savona,2026-01-22,Sporting Braga,Nottingham Forest,6.4,90,,,0.0,0,0,0.0,0.01,40,46,0,0,0,0,3,63
-Nicolò Savona,2026-01-25,Brentford,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nicolò Savona,2025-11-27,Nottingham Forest,Malmö FF,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nicolò Savona,2025-11-30,Nottingham Forest,Brighton & Hove Albion,6.0,90,9693.0,17.0,107.7,0,0,0.05,0.02,37,41,0,0,0,0,2,52,0,1.75
+Nicolò Savona,2025-12-03,Wolverhampton,Nottingham Forest,6.9,90,9714.0,19.0,107.93,0,0,0.0,0.02,32,39,0,0,1,0,1,60,0,1.96
+Nicolò Savona,2025-12-06,Everton,Nottingham Forest,6.1,45,4918.0,9.0,109.29,0,0,0.0,0.05,18,22,1,0,0,0,2,40,0,1.83
+Nicolò Savona,2025-12-11,FC Utrecht,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nicolò Savona,2025-12-14,Nottingham Forest,Tottenham Hotspur,7.0,90,9710.0,17.0,107.89,0,0,0.0,0.16,33,36,2,0,0,0,4,50,0,1.75
+Nicolò Savona,2025-12-22,Fulham,Nottingham Forest,6.5,81,8761.0,16.0,108.16,0,0,0.0,0.01,33,42,0,0,0,0,0,61,0,1.83
+Nicolò Savona,2025-12-27,Nottingham Forest,Manchester City,6.4,90,9723.0,19.0,108.03,0,0,0.08,0.05,22,39,1,0,1,0,1,62,0,1.95
+Nicolò Savona,2025-12-30,Nottingham Forest,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nicolò Savona,2026-01-03,Aston Villa,Nottingham Forest,6.3,21,2251.0,4.0,107.19,0,0,0.0,0.0,7,7,0,0,0,0,1,8,0,1.78
+Nicolò Savona,2026-01-06,West Ham United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nicolò Savona,2026-01-09,Wrexham,Nottingham Forest,7.5,97,10659.0,19.0,109.89,0,0,0.0,0.0,65,70,3,0,0,0,4,101,0,1.78
+Nicolò Savona,2026-01-17,Nottingham Forest,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nicolò Savona,2026-01-22,Sporting Braga,Nottingham Forest,6.4,90,9752.0,17.0,108.36,0,0,0.0,0.01,40,46,0,0,0,0,3,63,0,1.74
+Nicolò Savona,2026-01-25,Brentford,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Djibirin Harouna,2025-11-02,Lille,Angers,6.4,29,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,2,10
-Djibirin Harouna,2025-11-09,Angers,Auxerre,6.6,8,,,0.0,0,0,0.04,0.0,4,4,0,0,0,0,1,5
-Djibirin Harouna,2025-11-23,Toulouse,Angers,6.6,9,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,2,6
-Djibirin Harouna,2025-11-30,Angers,RC Lens,7.6,25,,,0.0,1,0,0.67,0.06,1,4,0,0,0,0,4,13
-Djibirin Harouna,2025-12-07,Nice,Angers,6.4,18,,,0.0,0,0,0.0,0.0,8,10,0,0,1,0,3,13
-Djibirin Harouna,2025-12-12,Angers,Nantes,7.1,8,,,0.0,1,0,0.26,0.0,0,0,0,0,0,0,0,3
-Djibirin Harouna,2026-01-17,Angers,Olympique de Marseille,6.9,28,,,0.0,0,0,0.02,0.12,5,7,1,0,0,0,3,12
-Djibirin Harouna,2026-01-25,Paris FC,Angers,6.7,61,,,0.0,0,0,0.0,0.0,5,11,0,0,0,0,4,26
-Djibirin Harouna,2026-02-01,Angers,Metz,6.4,32,,,0.0,0,0,0.0,0.03,7,10,0,0,2,0,2,20
-Djibirin Harouna,2026-02-22,Angers,Lille,6.6,23,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,0,10
-Djibirin Harouna,2026-02-28,AS Monaco,Angers,6.5,20,,,0.0,0,0,0.0,0.02,2,3,0,0,0,0,0,7
-Djibirin Harouna,2026-03-07,Nantes,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Djibirin Harouna,2026-03-14,Angers,Nice,6.7,11,,,0.0,0,0,0.02,0.08,5,6,1,0,0,0,0,18
-Djibirin Harouna,2026-03-20,RC Lens,Angers,6.5,19,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,6
-Djibirin Harouna,2026-04-05,Angers,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Djibirin Harouna,2025-11-02,Lille,Angers,6.4,29,3112.0,6.0,107.31,0,0,0.0,0.0,2,3,0,0,0,0,2,10,0,1.93
+Djibirin Harouna,2025-11-09,Angers,Auxerre,6.6,8,874.0,2.0,109.25,0,0,0.04,0.0,4,4,0,0,0,0,1,5,0,2.29
+Djibirin Harouna,2025-11-23,Toulouse,Angers,6.6,9,995.0,2.0,110.56,0,0,0.0,0.0,1,2,0,0,0,0,2,6,0,2.01
+Djibirin Harouna,2025-11-30,Angers,RC Lens,7.6,25,2730.0,5.0,109.2,1,0,0.67,0.06,1,4,0,0,0,0,4,13,0,1.83
+Djibirin Harouna,2025-12-07,Nice,Angers,6.4,18,1982.0,5.0,110.11,0,0,0.0,0.0,8,10,0,0,1,0,3,13,0,2.52
+Djibirin Harouna,2025-12-12,Angers,Nantes,7.1,8,853.0,2.0,106.62,1,0,0.26,0.0,0,0,0,0,0,0,0,3,0,2.34
+Djibirin Harouna,2026-01-17,Angers,Olympique de Marseille,6.9,28,3028.0,5.0,108.14,0,0,0.02,0.12,5,7,1,0,0,0,3,12,0,1.65
+Djibirin Harouna,2026-01-25,Paris FC,Angers,6.7,61,6564.0,12.0,107.61,0,0,0.0,0.0,5,11,0,0,0,0,4,26,0,1.83
+Djibirin Harouna,2026-02-01,Angers,Metz,6.4,32,3469.0,9.0,108.41,0,0,0.0,0.03,7,10,0,0,2,0,2,20,0,2.59
+Djibirin Harouna,2026-02-22,Angers,Lille,6.6,23,2457.0,4.0,106.83,0,0,0.0,0.0,4,5,0,0,0,0,0,10,0,1.63
+Djibirin Harouna,2026-02-28,AS Monaco,Angers,6.5,20,2129.0,4.0,106.45,0,0,0.0,0.02,2,3,0,0,0,0,0,7,0,1.88
+Djibirin Harouna,2026-03-07,Nantes,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Djibirin Harouna,2026-03-14,Angers,Nice,6.7,11,1231.0,2.0,111.91,0,0,0.02,0.08,5,6,1,0,0,0,0,18,0,1.62
+Djibirin Harouna,2026-03-20,RC Lens,Angers,6.5,19,2020.0,4.0,106.32,0,0,0.0,0.0,1,2,0,0,0,0,0,6,0,1.98
+Djibirin Harouna,2026-04-05,Angers,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

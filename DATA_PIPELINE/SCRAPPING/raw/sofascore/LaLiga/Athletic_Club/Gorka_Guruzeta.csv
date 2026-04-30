@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Gorka Guruzeta,2026-02-01,Athletic Club,Real Sociedad,6.6,90,,,0.0,0,0,0.23,0.01,11,17,0,0,0,0,0,37
-Gorka Guruzeta,2026-02-04,Valencia,Athletic Club,6.8,31,,,0.0,0,0,0.0,0.0,5,9,0,0,0,0,1,17
-Gorka Guruzeta,2026-02-08,Athletic Club,Levante UD,9.1,62,,,0.0,2,0,0.57,0.18,15,16,2,0,0,0,3,23
-Gorka Guruzeta,2026-02-11,Athletic Club,Real Sociedad,6.1,90,,,0.0,0,0,0.0,0.0,16,24,1,0,1,0,2,37
-Gorka Guruzeta,2026-02-15,Real Oviedo,Athletic Club,5.7,90,,,0.0,0,0,0.08,0.01,8,11,0,0,0,0,1,22
-Gorka Guruzeta,2026-02-20,Athletic Club,Elche,7.4,90,,,0.0,2,0,1.52,0.02,9,21,1,0,2,0,3,37
-Gorka Guruzeta,2026-02-28,Rayo Vallecano,Athletic Club,5.8,90,,,0.0,0,0,0.02,0.03,6,17,0,0,0,0,0,30
-Gorka Guruzeta,2026-03-04,Real Sociedad,Athletic Club,6.8,82,,,0.0,0,0,0.0,0.0,7,12,0,0,0,0,0,18
-Gorka Guruzeta,2026-03-07,Athletic Club,FC Barcelona,6.7,21,,,0.0,0,0,0.11,0.01,2,2,0,0,0,0,0,8
-Gorka Guruzeta,2026-03-14,Girona FC,Athletic Club,6.5,45,,,0.0,0,0,0.48,0.0,4,6,0,0,1,0,0,21
-Gorka Guruzeta,2026-03-22,Athletic Club,Real Betis,6.5,62,,,0.0,0,0,0.0,0.01,8,15,0,0,0,0,2,21
-Gorka Guruzeta,2026-04-05,Getafe,Athletic Club,6.9,45,,,0.0,0,0,0.0,0.28,8,11,1,0,1,0,3,16
-Gorka Guruzeta,2026-04-12,Athletic Club,Villarreal,7.0,90,,,0.0,1,0,0.41,0.01,6,10,1,0,1,0,3,22
-Gorka Guruzeta,2026-04-21,Athletic Club,Osasuna,6.1,90,,,0.0,1,0,0.29,0.08,10,20,2,0,2,0,0,33
-Gorka Guruzeta,2026-04-25,Atlético Madrid,Athletic Club,7.1,90,,,0.0,1,0,0.5,0.02,15,23,1,0,0,0,2,29
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Gorka Guruzeta,2026-02-01,Athletic Club,Real Sociedad,6.6,90,9605.0,17.0,106.72,0,0,0.23,0.01,11,17,0,0,0,0,0,37,0,1.77
+Gorka Guruzeta,2026-02-04,Valencia,Athletic Club,6.8,31,3339.0,6.0,107.71,0,0,0.0,0.0,5,9,0,0,0,0,1,17,0,1.8
+Gorka Guruzeta,2026-02-08,Athletic Club,Levante UD,9.1,62,6644.0,12.0,107.16,2,0,0.57,0.18,15,16,2,0,0,0,3,23,0,1.81
+Gorka Guruzeta,2026-02-11,Athletic Club,Real Sociedad,6.1,90,9630.0,19.0,107.0,0,0,0.0,0.0,16,24,1,0,1,0,2,37,0,1.97
+Gorka Guruzeta,2026-02-15,Real Oviedo,Athletic Club,5.7,90,9555.0,17.0,106.17,0,0,0.08,0.01,8,11,0,0,0,0,1,22,0,1.78
+Gorka Guruzeta,2026-02-20,Athletic Club,Elche,7.4,90,9643.0,20.0,107.14,2,0,1.52,0.02,9,21,1,0,2,0,3,37,0,2.07
+Gorka Guruzeta,2026-02-28,Rayo Vallecano,Athletic Club,5.8,90,9576.0,17.0,106.4,0,0,0.02,0.03,6,17,0,0,0,0,0,30,0,1.78
+Gorka Guruzeta,2026-03-04,Real Sociedad,Athletic Club,6.8,82,8686.0,16.0,105.93,0,0,0.0,0.0,7,12,0,0,0,0,0,18,0,1.84
+Gorka Guruzeta,2026-03-07,Athletic Club,FC Barcelona,6.7,21,2239.0,4.0,106.62,0,0,0.11,0.01,2,2,0,0,0,0,0,8,0,1.79
+Gorka Guruzeta,2026-03-14,Girona FC,Athletic Club,6.5,45,4813.0,10.0,106.96,0,0,0.48,0.0,4,6,0,0,1,0,0,21,0,2.08
+Gorka Guruzeta,2026-03-22,Athletic Club,Real Betis,6.5,62,6623.0,12.0,106.82,0,0,0.0,0.01,8,15,0,0,0,0,2,21,0,1.81
+Gorka Guruzeta,2026-04-05,Getafe,Athletic Club,6.9,45,4830.0,10.0,107.33,0,0,0.0,0.28,8,11,1,0,1,0,3,16,0,2.07
+Gorka Guruzeta,2026-04-12,Athletic Club,Villarreal,7.0,90,9580.0,19.0,106.44,1,0,0.41,0.01,6,10,1,0,1,0,3,22,0,1.98
+Gorka Guruzeta,2026-04-21,Athletic Club,Osasuna,6.1,90,9589.0,20.0,106.54,1,0,0.29,0.08,10,20,2,0,2,0,0,33,0,2.09
+Gorka Guruzeta,2026-04-25,Atlético Madrid,Athletic Club,7.1,90,9597.0,17.0,106.63,1,0,0.5,0.02,15,23,1,0,0,0,2,29,0,1.77

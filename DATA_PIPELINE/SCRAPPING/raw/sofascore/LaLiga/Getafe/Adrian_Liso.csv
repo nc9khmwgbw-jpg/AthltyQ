@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Adrian Liso,2026-01-02,Rayo Vallecano,Getafe,6.2,67,,,0.0,0,0,0.04,0.01,11,15,0,0,0,0,7,44
-Adrian Liso,2026-01-09,Getafe,Real Sociedad,6.3,57,,,0.0,0,0,0.0,0.01,6,11,1,0,0,0,3,30
-Adrian Liso,2026-01-18,Getafe,Valencia,6.0,72,,,0.0,0,0,0.07,0.0,9,11,0,0,0,0,3,26
-Adrian Liso,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adrian Liso,2026-02-01,Getafe,Celta Vigo,6.4,13,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2
-Adrian Liso,2026-02-08,Deportivo Alavés,Getafe,7.1,23,,,0.0,0,0,0.41,0.0,2,3,0,0,0,0,1,13
-Adrian Liso,2026-02-14,Getafe,Villarreal,6.7,9,,,0.0,0,0,0.0,0.0,3,4,0,0,1,0,0,12
-Adrian Liso,2026-02-22,Getafe,Sevilla,6.6,23,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,0,13
-Adrian Liso,2026-03-02,Real Madrid,Getafe,6.3,39,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,1,19
-Adrian Liso,2026-03-14,Atlético Madrid,Getafe,6.8,16,,,0.0,0,0,0.07,0.0,4,5,0,0,0,0,0,10
-Adrian Liso,2026-03-21,Espanyol,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adrian Liso,2026-04-05,Getafe,Athletic Club,6.6,81,,,0.0,0,0,0.09,0.0,10,12,0,0,1,0,5,29
-Adrian Liso,2026-04-13,Levante UD,Getafe,6.9,70,,,0.0,0,0,0.04,0.01,9,12,1,0,0,0,1,29
-Adrian Liso,2026-04-22,Real Sociedad,Getafe,6.5,10,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3
-Adrian Liso,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Adrian Liso,2026-01-02,Rayo Vallecano,Getafe,6.2,67,7307.0,13.0,109.06,0,0,0.04,0.01,11,15,0,0,0,0,7,44,0,1.78
+Adrian Liso,2026-01-09,Getafe,Real Sociedad,6.3,57,6148.0,11.0,107.86,0,0,0.0,0.01,6,11,1,0,0,0,3,30,0,1.79
+Adrian Liso,2026-01-18,Getafe,Valencia,6.0,72,7707.0,14.0,107.04,0,0,0.07,0.0,9,11,0,0,0,0,3,26,0,1.82
+Adrian Liso,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adrian Liso,2026-02-01,Getafe,Celta Vigo,6.4,13,1373.0,2.0,105.62,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,1.46
+Adrian Liso,2026-02-08,Deportivo Alavés,Getafe,7.1,23,2482.0,4.0,107.91,0,0,0.41,0.0,2,3,0,0,0,0,1,13,0,1.61
+Adrian Liso,2026-02-14,Getafe,Villarreal,6.7,9,995.0,3.0,110.56,0,0,0.0,0.0,3,4,0,0,1,0,0,12,0,3.02
+Adrian Liso,2026-02-22,Getafe,Sevilla,6.6,23,2470.0,4.0,107.39,0,0,0.0,0.0,4,6,0,0,0,0,0,13,0,1.62
+Adrian Liso,2026-03-02,Real Madrid,Getafe,6.3,39,4187.0,8.0,107.36,0,0,0.0,0.0,2,3,0,0,0,0,1,19,0,1.91
+Adrian Liso,2026-03-14,Atlético Madrid,Getafe,6.8,16,1722.0,3.0,107.62,0,0,0.07,0.0,4,5,0,0,0,0,0,10,0,1.74
+Adrian Liso,2026-03-21,Espanyol,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adrian Liso,2026-04-05,Getafe,Athletic Club,6.6,81,8689.0,17.0,107.27,0,0,0.09,0.0,10,12,0,0,1,0,5,29,0,1.96
+Adrian Liso,2026-04-13,Levante UD,Getafe,6.9,70,7484.0,13.0,106.91,0,0,0.04,0.01,9,12,1,0,0,0,1,29,0,1.74
+Adrian Liso,2026-04-22,Real Sociedad,Getafe,6.5,10,1063.0,2.0,106.3,0,0,0.0,0.0,1,2,0,0,0,0,0,3,0,1.88
+Adrian Liso,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

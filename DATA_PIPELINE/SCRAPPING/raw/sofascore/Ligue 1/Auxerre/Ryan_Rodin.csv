@@ -1,11 +1,11 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ryan Rodin,2024-10-23,Auxerre U19,Valletta U19,,59,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ryan Rodin,2024-11-06,Valletta U19,Auxerre U19,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ryan Rodin,2025-09-21,Auxerre,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ryan Rodin,2025-10-04,Auxerre,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ryan Rodin,2025-10-29,RC Strasbourg,Auxerre,0.0,7,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,0
-Ryan Rodin,2025-12-21,Auxerre,AS Monaco,0.0,63,,,0.0,0,0,0.0,0.0,7,11,0,0,0,0,2,0
-Ryan Rodin,2026-01-04,Stade Brestois,Auxerre,0.0,14,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,0
-Ryan Rodin,2026-02-22,Auxerre,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ryan Rodin,2026-03-07,Auxerre,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ryan Rodin,2026-03-13,Olympique de Marseille,Auxerre,0.0,2,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ryan Rodin,2024-10-23,Auxerre U19,Valletta U19,,59,6195.0,11.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.78
+Ryan Rodin,2024-11-06,Valletta U19,Auxerre U19,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Ryan Rodin,2025-09-21,Auxerre,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ryan Rodin,2025-10-04,Auxerre,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ryan Rodin,2025-10-29,RC Strasbourg,Auxerre,0.0,7,735.0,1.0,105.0,0,0,0.0,0.0,3,3,0,0,0,0,0,0,0,1.36
+Ryan Rodin,2025-12-21,Auxerre,AS Monaco,0.0,63,6640.0,12.0,105.4,0,0,0.0,0.0,7,11,0,0,0,0,2,0,0,1.81
+Ryan Rodin,2026-01-04,Stade Brestois,Auxerre,0.0,14,1470.0,3.0,105.0,0,0,0.0,0.0,1,1,0,0,0,0,0,0,0,2.04
+Ryan Rodin,2026-02-22,Auxerre,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ryan Rodin,2026-03-07,Auxerre,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ryan Rodin,2026-03-13,Olympique de Marseille,Auxerre,0.0,2,210.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

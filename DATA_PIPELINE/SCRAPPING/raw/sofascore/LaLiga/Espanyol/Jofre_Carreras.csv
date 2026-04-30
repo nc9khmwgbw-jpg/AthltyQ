@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jofre Carreras,2026-01-11,Levante UD,Espanyol,6.7,69,,,0.0,0,0,0.2,0.06,18,22,2,0,0,0,4,33
-Jofre Carreras,2026-01-16,Espanyol,Girona FC,7.1,45,,,0.0,0,0,0.23,0.21,10,12,2,0,1,0,1,32
-Jofre Carreras,2026-01-24,Valencia,Espanyol,6.7,70,,,0.0,0,0,0.09,0.57,14,16,2,0,0,0,1,35
-Jofre Carreras,2026-01-30,Espanyol,Deportivo Alavés,6.0,57,,,0.0,0,0,0.0,0.0,7,11,0,0,1,0,4,29
-Jofre Carreras,2026-02-09,Villarreal,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jofre Carreras,2026-02-14,Espanyol,Celta Vigo,6.5,18,,,0.0,0,0,0.0,0.0,6,7,0,0,0,0,1,9
-Jofre Carreras,2026-02-21,Atlético Madrid,Espanyol,6.8,77,,,0.0,1,0,0.97,0.01,15,20,0,0,0,0,1,28
-Jofre Carreras,2026-03-01,Elche,Espanyol,6.4,32,,,0.0,0,0,0.02,0.04,4,5,1,0,0,0,0,8
-Jofre Carreras,2026-03-09,Espanyol,Real Oviedo,6.5,11,,,0.0,0,0,0.08,0.04,1,1,1,0,0,0,0,7
-Jofre Carreras,2026-03-15,Mallorca,Espanyol,6.8,9,,,0.0,0,0,0.0,0.0,2,2,0,0,1,0,0,7
-Jofre Carreras,2026-03-21,Espanyol,Getafe,6.4,12,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,9
-Jofre Carreras,2026-04-04,Real Betis,Espanyol,6.3,12,,,0.0,0,0,0.01,0.0,0,1,0,0,0,0,1,5
-Jofre Carreras,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jofre Carreras,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jofre Carreras,2026-04-27,Espanyol,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jofre Carreras,2026-01-11,Levante UD,Espanyol,6.7,69,7434.0,13.0,107.74,0,0,0.2,0.06,18,22,2,0,0,0,4,33,0,1.75
+Jofre Carreras,2026-01-16,Espanyol,Girona FC,7.1,45,4872.0,10.0,108.27,0,0,0.23,0.21,10,12,2,0,1,0,1,32,0,2.05
+Jofre Carreras,2026-01-24,Valencia,Espanyol,6.7,70,7510.0,13.0,107.29,0,0,0.09,0.57,14,16,2,0,0,0,1,35,0,1.73
+Jofre Carreras,2026-01-30,Espanyol,Deportivo Alavés,6.0,57,6157.0,12.0,108.02,0,0,0.0,0.0,7,11,0,0,1,0,4,29,0,1.95
+Jofre Carreras,2026-02-09,Villarreal,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jofre Carreras,2026-02-14,Espanyol,Celta Vigo,6.5,18,1940.0,3.0,107.78,0,0,0.0,0.0,6,7,0,0,0,0,1,9,0,1.55
+Jofre Carreras,2026-02-21,Atlético Madrid,Espanyol,6.8,77,8215.0,15.0,106.69,1,0,0.97,0.01,15,20,0,0,0,0,1,28,0,1.83
+Jofre Carreras,2026-03-01,Elche,Espanyol,6.4,32,3394.0,6.0,106.06,0,0,0.02,0.04,4,5,1,0,0,0,0,8,0,1.77
+Jofre Carreras,2026-03-09,Espanyol,Real Oviedo,6.5,11,1184.0,2.0,107.64,0,0,0.08,0.04,1,1,1,0,0,0,0,7,0,1.69
+Jofre Carreras,2026-03-15,Mallorca,Espanyol,6.8,9,974.0,3.0,108.22,0,0,0.0,0.0,2,2,0,0,1,0,0,7,0,3.08
+Jofre Carreras,2026-03-21,Espanyol,Getafe,6.4,12,1298.0,2.0,108.17,0,0,0.0,0.0,3,3,0,0,0,0,0,9,0,1.54
+Jofre Carreras,2026-04-04,Real Betis,Espanyol,6.3,12,1294.0,2.0,107.83,0,0,0.01,0.0,0,1,0,0,0,0,1,5,0,1.55
+Jofre Carreras,2026-04-11,FC Barcelona,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jofre Carreras,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jofre Carreras,2026-04-27,Espanyol,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

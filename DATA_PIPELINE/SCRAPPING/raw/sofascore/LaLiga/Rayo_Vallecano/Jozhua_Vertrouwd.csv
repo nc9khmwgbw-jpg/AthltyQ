@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jozhua Vertrouwd,2025-12-11,Jagiellonia Białystok,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jozhua Vertrouwd,2025-12-15,Rayo Vallecano,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jozhua Vertrouwd,2025-12-18,Rayo Vallecano,FC Drita,6.9,79,,,0.0,0,0,0.0,0.02,32,38,0,0,0,0,2,58
-Jozhua Vertrouwd,2025-12-21,Elche,Rayo Vallecano,6.1,15,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,0,7
-Jozhua Vertrouwd,2026-01-02,Rayo Vallecano,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jozhua Vertrouwd,2026-01-06,Granada,Rayo Vallecano,6.8,90,,,0.0,0,0,0.0,0.0,42,46,0,0,2,0,8,53
-Jozhua Vertrouwd,2026-01-11,Rayo Vallecano,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jozhua Vertrouwd,2026-01-18,Celta Vigo,Rayo Vallecano,6.2,22,,,0.0,0,0,0.0,0.0,15,17,0,0,0,0,1,21
-Jozhua Vertrouwd,2026-01-24,Rayo Vallecano,Osasuna,5.6,18,,,0.0,0,0,0.0,0.01,12,12,0,0,0,0,1,15
-Jozhua Vertrouwd,2026-02-15,Rayo Vallecano,Atlético Madrid,6.7,26,,,0.0,0,0,0.0,0.0,10,12,0,0,0,0,2,13
-Jozhua Vertrouwd,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jozhua Vertrouwd,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jozhua Vertrouwd,2026-04-23,Rayo Vallecano,Espanyol,7.2,81,,,0.0,0,0,0.0,0.01,28,32,0,0,0,0,2,46
-Jozhua Vertrouwd,2026-04-26,Rayo Vallecano,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jozhua Vertrouwd,2025-12-11,Jagiellonia Białystok,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jozhua Vertrouwd,2025-12-15,Rayo Vallecano,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jozhua Vertrouwd,2025-12-18,Rayo Vallecano,FC Drita,6.9,79,8564.0,15.0,108.41,0,0,0.0,0.02,32,38,0,0,0,0,2,58,0,1.75
+Jozhua Vertrouwd,2025-12-21,Elche,Rayo Vallecano,6.1,15,1604.0,3.0,106.93,0,0,0.0,0.0,2,4,0,0,0,0,0,7,0,1.87
+Jozhua Vertrouwd,2026-01-02,Rayo Vallecano,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jozhua Vertrouwd,2026-01-06,Granada,Rayo Vallecano,6.8,90,9773.0,20.0,108.59,0,0,0.0,0.0,42,46,0,0,2,0,8,53,0,2.05
+Jozhua Vertrouwd,2026-01-11,Rayo Vallecano,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jozhua Vertrouwd,2026-01-18,Celta Vigo,Rayo Vallecano,6.2,22,2411.0,4.0,109.59,0,0,0.0,0.0,15,17,0,0,0,0,1,21,0,1.66
+Jozhua Vertrouwd,2026-01-24,Rayo Vallecano,Osasuna,5.6,18,1966.0,3.0,109.22,0,0,0.0,0.01,12,12,0,0,0,0,1,15,0,1.53
+Jozhua Vertrouwd,2026-02-15,Rayo Vallecano,Atlético Madrid,6.7,26,2810.0,5.0,108.08,0,0,0.0,0.0,10,12,0,0,0,0,2,13,0,1.78
+Jozhua Vertrouwd,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jozhua Vertrouwd,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jozhua Vertrouwd,2026-04-23,Rayo Vallecano,Espanyol,7.2,81,8723.0,16.0,107.69,0,0,0.0,0.01,28,32,0,0,0,0,2,46,0,1.83
+Jozhua Vertrouwd,2026-04-26,Rayo Vallecano,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

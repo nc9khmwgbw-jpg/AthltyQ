@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Luka Sučić,2026-02-01,Athletic Club,Real Sociedad,6.3,63,,,0.0,0,0,0.0,0.0,8,15,0,0,0,0,1,26
-Luka Sučić,2026-02-04,Deportivo Alavés,Real Sociedad,7.3,31,,,0.0,0,0,0.0,0.0,12,14,1,0,0,0,2,24
-Luka Sučić,2026-02-07,Real Sociedad,Elche,7.6,29,,,0.0,1,0,0.3,0.0,5,6,0,0,0,0,1,9
-Luka Sučić,2026-02-28,Mallorca,Real Sociedad,6.6,27,,,0.0,0,0,0.06,0.0,11,16,0,0,0,0,0,19
-Luka Sučić,2026-03-04,Real Sociedad,Athletic Club,,1,,,0.0,0,0,0.0,0.0,3,3,1,0,0,0,1,4
-Luka Sučić,2026-03-07,Atlético Madrid,Real Sociedad,7.2,74,,,0.0,0,0,0.09,0.15,17,23,2,0,0,0,2,34
-Luka Sučić,2026-03-15,Real Sociedad,Osasuna,6.6,26,,,0.0,0,0,0.02,0.01,14,17,0,0,0,0,0,23
-Luka Sučić,2026-03-20,Villarreal,Real Sociedad,7.9,45,,,0.0,1,0,0.1,0.02,46,49,0,0,2,0,6,60
-Luka Sučić,2026-03-27,Colombia,Croatia,6.6,29,,,0.0,0,0,0.0,0.0,9,10,0,0,1,0,1,13
-Luka Sučić,2026-04-01,Croatia,Brazil,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luka Sučić,2026-04-04,Real Sociedad,Levante UD,6.8,64,,,0.0,0,0,0.03,0.02,18,24,0,0,0,0,2,32
-Luka Sučić,2026-04-11,Real Sociedad,Deportivo Alavés,8.0,86,,,0.0,1,0,0.19,0.08,30,40,0,0,0,0,5,62
-Luka Sučić,2026-04-18,Atlético Madrid,Real Sociedad,7.5,120,,,0.0,0,0,0.0,0.0,28,35,0,0,0,0,4,50
-Luka Sučić,2026-04-22,Real Sociedad,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Luka Sučić,2026-04-26,Rayo Vallecano,Real Sociedad,6.4,34,,,0.0,0,0,0.0,0.0,7,8,1,0,0,0,2,12
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Luka Sučić,2026-02-01,Athletic Club,Real Sociedad,6.3,63,6737.0,12.0,106.94,0,0,0.0,0.0,8,15,0,0,0,0,1,26,0,1.78
+Luka Sučić,2026-02-04,Deportivo Alavés,Real Sociedad,7.3,31,3381.0,6.0,109.06,0,0,0.0,0.0,12,14,1,0,0,0,2,24,0,1.77
+Luka Sučić,2026-02-07,Real Sociedad,Elche,7.6,29,3095.0,6.0,106.72,1,0,0.3,0.0,5,6,0,0,0,0,1,9,0,1.94
+Luka Sučić,2026-02-28,Mallorca,Real Sociedad,6.6,27,2915.0,5.0,107.96,0,0,0.06,0.0,11,16,0,0,0,0,0,19,0,1.72
+Luka Sučić,2026-03-04,Real Sociedad,Athletic Club,,1,134.0,0.0,134.0,0,0,0.0,0.0,3,3,1,0,0,0,1,4,0,0.0
+Luka Sučić,2026-03-07,Atlético Madrid,Real Sociedad,7.2,74,7938.0,14.0,107.27,0,0,0.09,0.15,17,23,2,0,0,0,2,34,0,1.76
+Luka Sučić,2026-03-15,Real Sociedad,Osasuna,6.6,26,2827.0,5.0,108.73,0,0,0.02,0.01,14,17,0,0,0,0,0,23,0,1.77
+Luka Sučić,2026-03-20,Villarreal,Real Sociedad,7.9,45,5052.0,11.0,112.27,1,0,0.1,0.02,46,49,0,0,2,0,6,60,0,2.18
+Luka Sučić,2026-03-27,Colombia,Croatia,6.6,29,3112.0,7.0,107.31,0,0,0.0,0.0,9,10,0,0,1,0,1,13,0,2.25
+Luka Sučić,2026-04-01,Croatia,Brazil,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luka Sučić,2026-04-04,Real Sociedad,Levante UD,6.8,64,6879.0,12.0,107.48,0,0,0.03,0.02,18,24,0,0,0,0,2,32,0,1.74
+Luka Sučić,2026-04-11,Real Sociedad,Deportivo Alavés,8.0,86,9353.0,17.0,108.76,1,0,0.19,0.08,30,40,0,0,0,0,5,62,0,1.82
+Luka Sučić,2026-04-18,Atlético Madrid,Real Sociedad,7.5,120,12860.0,23.0,107.17,0,0,0.0,0.0,28,35,0,0,0,0,4,50,0,1.79
+Luka Sučić,2026-04-22,Real Sociedad,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Luka Sučić,2026-04-26,Rayo Vallecano,Real Sociedad,6.4,34,3645.0,7.0,107.21,0,0,0.0,0.0,7,8,1,0,0,0,2,12,0,1.92

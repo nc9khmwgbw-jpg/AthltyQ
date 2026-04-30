@@ -1,4 +1,4 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Nico Salvador,2025-12-03,CD Quintanar Del Rey,Elche,6.9,64,,,0.0,0,0,0.0,0.0,21,27,0,0,0,0,3,39
-Nico Salvador,2026-01-14,Real Betis,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nico Salvador,2026-01-31,Elche,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nico Salvador,2025-12-03,CD Quintanar Del Rey,Elche,6.9,64,6921.0,12.0,108.14,0,0,0.0,0.0,21,27,0,0,0,0,3,39,0,1.73
+Nico Salvador,2026-01-14,Real Betis,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nico Salvador,2026-01-31,Elche,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

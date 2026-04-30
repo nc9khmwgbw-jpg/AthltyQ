@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Mathys de Carvalho,2026-01-18,Olympique Lyonnais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-01-22,BSC Young Boys,Olympique Lyonnais,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1
-Mathys de Carvalho,2026-01-25,Metz,Olympique Lyonnais,6.4,16,,,0.0,0,0,0.0,0.0,8,9,0,0,0,0,1,11
-Mathys de Carvalho,2026-01-29,Olympique Lyonnais,PAOK,6.6,87,,,0.0,0,0,0.04,0.02,49,57,0,0,1,0,2,72
-Mathys de Carvalho,2026-02-01,Olympique Lyonnais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-02-04,Olympique Lyonnais,Stade Lavallois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-02-07,Nantes,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-02-15,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-03-12,Celta Vigo,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-03-15,Le Havre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-03-19,Olympique Lyonnais,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-03-27,Portugal U20,Switzerland U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathys de Carvalho,2026-03-30,Czechia U20,Portugal U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mathys de Carvalho,2026-01-18,Olympique Lyonnais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-01-22,BSC Young Boys,Olympique Lyonnais,,1,109.0,0.0,109.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,0.0
+Mathys de Carvalho,2026-01-25,Metz,Olympique Lyonnais,6.4,16,1739.0,3.0,108.69,0,0,0.0,0.0,8,9,0,0,0,0,1,11,0,1.73
+Mathys de Carvalho,2026-01-29,Olympique Lyonnais,PAOK,6.6,87,9462.0,18.0,108.76,0,0,0.04,0.02,49,57,0,0,1,0,2,72,0,1.9
+Mathys de Carvalho,2026-02-01,Olympique Lyonnais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-02-04,Olympique Lyonnais,Stade Lavallois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-02-07,Nantes,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-02-15,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-03-12,Celta Vigo,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-03-15,Le Havre,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-03-19,Olympique Lyonnais,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-03-27,Portugal U20,Switzerland U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathys de Carvalho,2026-03-30,Czechia U20,Portugal U20,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,13 +1,13 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-José Morante,2026-02-14,Gimnàstic de Tarragona,Betis Deportivo,7.4,72,,,0.0,0,0,0.12,0.04,17,24,1,0,1,0,3,52
-José Morante,2026-02-20,Betis Deportivo,Villarreal B U23,6.8,70,,,0.0,0,0,0.0,0.32,12,17,2,0,1,0,3,29
-José Morante,2026-02-24,Inter U19,Real Betis U19,6.9,90,,,0.0,1,0,0.0,0.0,25,40,1,0,0,0,5,60
-José Morante,2026-02-28,AD Alcorcón,Betis Deportivo,7.1,90,,,0.0,0,0,0.06,0.14,16,17,1,0,0,0,5,31
-José Morante,2026-03-06,Betis Deportivo,Sevilla Atlético,7.7,81,,,0.0,1,0,0.49,0.53,26,34,1,0,0,0,3,52
-José Morante,2026-03-20,Betis Deportivo,Hércules CF,6.7,70,,,0.0,0,0,0.03,0.0,10,15,0,0,0,0,1,30
-José Morante,2026-03-25,Spain U19,Slovenia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-José Morante,2026-03-28,Spain U19,Finland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-José Morante,2026-03-31,Netherlands U19,Spain U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-José Morante,2026-04-05,CE Sabadell,Betis Deportivo,8.5,82,,,0.0,1,0,0.44,0.4,17,26,1,0,3,0,7,55
-José Morante,2026-04-11,Betis Deportivo,CD Eldense,6.5,78,,,0.0,0,0,0.05,0.03,19,27,2,0,1,0,3,44
-José Morante,2026-04-19,Juventud Torremolinos CF,Betis Deportivo,6.5,70,,,0.0,0,0,0.02,0.0,14,22,1,0,0,0,2,43
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+José Morante,2026-02-14,Gimnàstic de Tarragona,Betis Deportivo,7.4,72,7816.0,15.0,108.56,0,0,0.12,0.04,17,24,1,0,1,0,3,52,0,1.92
+José Morante,2026-02-20,Betis Deportivo,Villarreal B U23,6.8,70,7509.0,15.0,107.27,0,0,0.0,0.32,12,17,2,0,1,0,3,29,0,2.0
+José Morante,2026-02-24,Inter U19,Real Betis U19,6.9,90,9764.0,17.0,108.49,1,0,0.0,0.0,25,40,1,0,0,0,5,60,0,1.74
+José Morante,2026-02-28,AD Alcorcón,Betis Deportivo,7.1,90,9643.0,17.0,107.14,0,0,0.06,0.14,16,17,1,0,0,0,5,31,0,1.76
+José Morante,2026-03-06,Betis Deportivo,Sevilla Atlético,7.7,81,8761.0,16.0,108.16,1,0,0.49,0.53,26,34,1,0,0,0,3,52,0,1.83
+José Morante,2026-03-20,Betis Deportivo,Hércules CF,6.7,70,7488.0,13.0,106.97,0,0,0.03,0.0,10,15,0,0,0,0,1,30,0,1.74
+José Morante,2026-03-25,Spain U19,Slovenia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+José Morante,2026-03-28,Spain U19,Finland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+José Morante,2026-03-31,Netherlands U19,Spain U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+José Morante,2026-04-05,CE Sabadell,Betis Deportivo,8.5,82,8928.0,20.0,108.88,1,0,0.44,0.4,17,26,1,0,3,0,7,55,0,2.24
+José Morante,2026-04-11,Betis Deportivo,CD Eldense,6.5,78,8412.0,16.0,107.85,0,0,0.05,0.03,19,27,2,0,1,0,3,44,0,1.9
+José Morante,2026-04-19,Juventud Torremolinos CF,Betis Deportivo,6.5,70,7556.0,13.0,107.94,0,0,0.02,0.0,14,22,1,0,0,0,2,43,0,1.72

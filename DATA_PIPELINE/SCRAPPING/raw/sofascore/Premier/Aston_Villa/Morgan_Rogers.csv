@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Morgan Rogers,2026-02-11,Aston Villa,Brighton & Hove Albion,6.3,90,,,0.0,0,0,0.22,0.03,16,23,2,0,0,0,2,41
-Morgan Rogers,2026-02-14,Aston Villa,Newcastle United,6.4,77,,,0.0,0,0,0.0,0.0,11,15,0,0,2,0,4,33
-Morgan Rogers,2026-02-21,Aston Villa,Leeds United,6.9,90,,,0.0,0,0,0.07,0.2,33,39,1,0,0,0,4,62
-Morgan Rogers,2026-02-27,Wolverhampton,Aston Villa,6.6,90,,,0.0,0,0,0.21,0.03,26,35,1,0,0,0,5,53
-Morgan Rogers,2026-03-04,Aston Villa,Chelsea,5.8,90,,,0.0,0,0,0.13,0.01,21,29,0,0,0,0,6,46
-Morgan Rogers,2026-03-12,Lille,Aston Villa,6.5,89,,,0.0,0,0,0.17,0.11,24,27,2,0,3,0,3,50
-Morgan Rogers,2026-03-15,Manchester United,Aston Villa,7.3,90,,,0.0,0,0,0.06,0.19,20,28,1,0,0,0,6,45
-Morgan Rogers,2026-03-19,Aston Villa,Lille,6.9,84,,,0.0,0,0,0.0,0.06,28,39,2,0,1,0,4,51
-Morgan Rogers,2026-03-22,Aston Villa,West Ham United,7.2,77,,,0.0,0,0,0.46,0.15,25,29,4,0,0,0,1,46
-Morgan Rogers,2026-03-31,England,Japan,6.7,90,,,0.0,0,0,0.0,0.0,34,39,0,0,0,0,3,58
-Morgan Rogers,2026-04-09,Bologna,Aston Villa,6.2,88,,,0.0,0,0,0.07,0.03,8,11,1,0,0,0,3,27
-Morgan Rogers,2026-04-12,Nottingham Forest,Aston Villa,6.2,78,,,0.0,0,0,0.18,0.03,30,35,1,0,1,0,7,52
-Morgan Rogers,2026-04-16,Aston Villa,Bologna,8.4,74,,,0.0,1,0,0.97,0.82,16,20,3,0,0,0,0,29
-Morgan Rogers,2026-04-19,Aston Villa,Sunderland,9.0,90,,,0.0,1,0,0.5,0.49,25,31,1,0,1,0,3,47
-Morgan Rogers,2026-04-25,Fulham,Aston Villa,5.7,90,,,0.0,0,0,0.15,0.02,15,29,0,0,0,0,1,49
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Morgan Rogers,2026-02-11,Aston Villa,Brighton & Hove Albion,6.3,90,9647.0,17.0,107.19,0,0,0.22,0.03,16,23,2,0,0,0,2,41,0,1.76
+Morgan Rogers,2026-02-14,Aston Villa,Newcastle United,6.4,77,8274.0,18.0,107.45,0,0,0.0,0.0,11,15,0,0,2,0,4,33,0,2.18
+Morgan Rogers,2026-02-21,Aston Villa,Leeds United,6.9,90,9760.0,17.0,108.44,0,0,0.07,0.2,33,39,1,0,0,0,4,62,0,1.74
+Morgan Rogers,2026-02-27,Wolverhampton,Aston Villa,6.6,90,9735.0,17.0,108.17,0,0,0.21,0.03,26,35,1,0,0,0,5,53,0,1.75
+Morgan Rogers,2026-03-04,Aston Villa,Chelsea,5.8,90,9718.0,17.0,107.98,0,0,0.13,0.01,21,29,0,0,0,0,6,46,0,1.75
+Morgan Rogers,2026-03-12,Lille,Aston Villa,6.5,89,9592.0,21.0,107.78,0,0,0.17,0.11,24,27,2,0,3,0,3,50,0,2.19
+Morgan Rogers,2026-03-15,Manchester United,Aston Villa,7.3,90,9714.0,17.0,107.93,0,0,0.06,0.19,20,28,1,0,0,0,6,45,0,1.75
+Morgan Rogers,2026-03-19,Aston Villa,Lille,6.9,84,9084.0,18.0,108.14,0,0,0.0,0.06,28,39,2,0,1,0,4,51,0,1.98
+Morgan Rogers,2026-03-22,Aston Villa,West Ham United,7.2,77,8291.0,15.0,107.68,0,0,0.46,0.15,25,29,4,0,0,0,1,46,0,1.81
+Morgan Rogers,2026-03-31,England,Japan,6.7,90,9731.0,17.0,108.12,0,0,0.0,0.0,34,39,0,0,0,0,3,58,0,1.75
+Morgan Rogers,2026-04-09,Bologna,Aston Villa,6.2,88,9391.0,17.0,106.72,0,0,0.07,0.03,8,11,1,0,0,0,3,27,0,1.81
+Morgan Rogers,2026-04-12,Nottingham Forest,Aston Villa,6.2,78,8496.0,16.0,108.92,0,0,0.18,0.03,30,35,1,0,1,0,7,52,0,1.88
+Morgan Rogers,2026-04-16,Aston Villa,Bologna,8.4,74,7892.0,14.0,106.65,1,0,0.97,0.82,16,20,3,0,0,0,0,29,0,1.77
+Morgan Rogers,2026-04-19,Aston Villa,Sunderland,9.0,90,9685.0,19.0,107.61,1,0,0.5,0.49,25,31,1,0,1,0,3,47,0,1.96
+Morgan Rogers,2026-04-25,Fulham,Aston Villa,5.7,90,9668.0,17.0,107.42,0,0,0.15,0.02,15,29,0,0,0,0,1,49,0,1.76

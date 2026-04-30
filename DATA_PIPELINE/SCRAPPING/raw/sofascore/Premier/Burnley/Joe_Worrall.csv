@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Joe Worrall,2025-12-06,Newcastle United,Burnley,7.1,45,,,0.0,0,0,0.0,0.01,6,6,0,0,0,0,1,17
-Joe Worrall,2025-12-13,Burnley,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joe Worrall,2025-12-20,Bournemouth,Burnley,6.5,90,,,0.0,0,0,0.0,0.01,22,33,0,0,0,0,2,44
-Joe Worrall,2026-02-02,Sunderland,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joe Worrall,2026-02-07,Burnley,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joe Worrall,2026-02-11,Crystal Palace,Burnley,6.3,90,,,0.0,0,0,0.0,0.0,24,28,0,0,1,0,2,44
-Joe Worrall,2026-02-14,Burnley,Mansfield Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joe Worrall,2026-02-21,Chelsea,Burnley,6.7,90,,,0.0,0,0,0.0,0.0,28,33,0,0,2,0,1,46
-Joe Worrall,2026-02-28,Burnley,Brentford,5.5,90,,,0.0,0,0,0.08,0.0,16,17,0,0,0,0,1,36
-Joe Worrall,2026-03-03,Everton,Burnley,7.0,57,,,0.0,0,0,0.0,0.0,22,29,0,0,1,0,1,42
-Joe Worrall,2026-03-14,Burnley,Bournemouth,6.9,16,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,1,12
-Joe Worrall,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joe Worrall,2026-04-11,Burnley,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joe Worrall,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Joe Worrall,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Joe Worrall,2025-12-06,Newcastle United,Burnley,7.1,45,4809.0,9.0,106.87,0,0,0.0,0.01,6,6,0,0,0,0,1,17,0,1.87
+Joe Worrall,2025-12-13,Burnley,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Joe Worrall,2025-12-20,Bournemouth,Burnley,6.5,90,9660.0,17.0,107.33,0,0,0.0,0.01,22,33,0,0,0,0,2,44,0,1.76
+Joe Worrall,2026-02-02,Sunderland,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Joe Worrall,2026-02-07,Burnley,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Joe Worrall,2026-02-11,Crystal Palace,Burnley,6.3,90,9660.0,19.0,107.33,0,0,0.0,0.0,24,28,0,0,1,0,2,44,0,1.97
+Joe Worrall,2026-02-14,Burnley,Mansfield Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Joe Worrall,2026-02-21,Chelsea,Burnley,6.7,90,9656.0,20.0,107.29,0,0,0.0,0.0,28,33,0,0,2,0,1,46,0,2.07
+Joe Worrall,2026-02-28,Burnley,Brentford,5.5,90,9614.0,17.0,106.82,0,0,0.08,0.0,16,17,0,0,0,0,1,36,0,1.77
+Joe Worrall,2026-03-03,Everton,Burnley,7.0,57,6174.0,12.0,108.32,0,0,0.0,0.0,22,29,0,0,1,0,1,42,0,1.94
+Joe Worrall,2026-03-14,Burnley,Bournemouth,6.9,16,1743.0,3.0,108.94,0,0,0.0,0.0,5,6,0,0,0,0,1,12,0,1.72
+Joe Worrall,2026-03-21,Fulham,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Joe Worrall,2026-04-11,Burnley,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Joe Worrall,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Joe Worrall,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

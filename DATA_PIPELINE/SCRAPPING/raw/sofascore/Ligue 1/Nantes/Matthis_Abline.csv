@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Matthis Abline,2026-01-04,Olympique de Marseille,Nantes,6.6,90,,,0.0,0,0,0.23,0.12,13,20,1,0,0,0,5,46
-Matthis Abline,2026-01-11,Nantes,Nice,7.0,33,,,0.0,0,0,0.0,0.0,7,9,0,0,0,0,0,14
-Matthis Abline,2026-01-18,Nantes,Paris FC,8.2,90,,,0.0,1,0,0.24,0.07,13,16,1,0,0,0,2,36
-Matthis Abline,2026-01-25,Nantes,Nice,5.6,87,,,0.0,0,0,0.04,0.01,8,15,0,0,0,0,3,36
-Matthis Abline,2026-01-31,Lorient,Nantes,7.6,90,,,0.0,1,0,0.48,0.01,10,10,0,0,2,0,2,31
-Matthis Abline,2026-02-07,Nantes,Olympique Lyonnais,6.7,90,,,0.0,0,0,0.04,0.05,13,19,0,0,0,0,2,39
-Matthis Abline,2026-02-13,AS Monaco,Nantes,6.4,90,,,0.0,0,0,0.15,0.18,12,18,1,0,0,0,1,37
-Matthis Abline,2026-03-01,Lille,Nantes,6.4,27,,,0.0,0,0,0.02,0.0,4,7,0,0,0,0,1,16
-Matthis Abline,2026-03-07,Nantes,Angers,7.0,90,,,0.0,0,0,0.07,0.52,10,14,2,0,0,0,3,39
-Matthis Abline,2026-03-22,Nantes,RC Strasbourg,8.2,90,,,0.0,1,0,0.65,0.14,13,18,3,0,2,0,1,39
-Matthis Abline,2026-04-05,Metz,Nantes,6.3,73,,,0.0,0,0,0.0,0.27,7,14,1,0,0,0,2,37
-Matthis Abline,2026-04-11,Auxerre,Nantes,6.7,81,,,0.0,0,0,0.0,0.11,9,11,1,0,0,0,1,22
-Matthis Abline,2026-04-19,Nantes,Stade Brestois,6.5,13,,,0.0,0,0,0.09,0.0,1,1,0,0,1,0,0,6
-Matthis Abline,2026-04-22,Paris Saint-Germain,Nantes,6.5,80,,,0.0,0,0,0.24,0.11,6,13,1,0,0,0,2,33
-Matthis Abline,2026-04-26,Stade Rennais,Nantes,6.4,87,,,0.0,0,0,0.24,0.03,7,11,1,0,1,0,2,27
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Matthis Abline,2026-01-04,Olympique de Marseille,Nantes,6.6,90,9706.0,17.0,107.84,0,0,0.23,0.12,13,20,1,0,0,0,5,46,0,1.75
+Matthis Abline,2026-01-11,Nantes,Nice,7.0,33,3524.0,6.0,106.79,0,0,0.0,0.0,7,9,0,0,0,0,0,14,0,1.7
+Matthis Abline,2026-01-18,Nantes,Paris FC,8.2,90,9626.0,17.0,106.96,1,0,0.24,0.07,13,16,1,0,0,0,2,36,0,1.77
+Matthis Abline,2026-01-25,Nantes,Nice,5.6,87,9324.0,17.0,107.17,0,0,0.04,0.01,8,15,0,0,0,0,3,36,0,1.82
+Matthis Abline,2026-01-31,Lorient,Nantes,7.6,90,9605.0,20.0,106.72,1,0,0.48,0.01,10,10,0,0,2,0,2,31,0,2.08
+Matthis Abline,2026-02-07,Nantes,Olympique Lyonnais,6.7,90,9639.0,17.0,107.1,0,0,0.04,0.05,13,19,0,0,0,0,2,39,0,1.76
+Matthis Abline,2026-02-13,AS Monaco,Nantes,6.4,90,9618.0,17.0,106.87,0,0,0.15,0.18,12,18,1,0,0,0,1,37,0,1.77
+Matthis Abline,2026-03-01,Lille,Nantes,6.4,27,2915.0,5.0,107.96,0,0,0.02,0.0,4,7,0,0,0,0,1,16,0,1.72
+Matthis Abline,2026-03-07,Nantes,Angers,7.0,90,9651.0,17.0,107.23,0,0,0.07,0.52,10,14,2,0,0,0,3,39,0,1.76
+Matthis Abline,2026-03-22,Nantes,RC Strasbourg,8.2,90,9626.0,20.0,106.96,1,0,0.65,0.14,13,18,3,0,2,0,1,39,0,2.08
+Matthis Abline,2026-04-05,Metz,Nantes,6.3,73,7845.0,14.0,107.47,0,0,0.0,0.27,7,14,1,0,0,0,2,37,0,1.78
+Matthis Abline,2026-04-11,Auxerre,Nantes,6.7,81,8610.0,16.0,106.3,0,0,0.0,0.11,9,11,1,0,0,0,1,22,0,1.86
+Matthis Abline,2026-04-19,Nantes,Stade Brestois,6.5,13,1390.0,4.0,106.92,0,0,0.09,0.0,1,1,0,0,1,0,0,6,0,2.88
+Matthis Abline,2026-04-22,Paris Saint-Germain,Nantes,6.5,80,8564.0,15.0,107.05,0,0,0.24,0.11,6,13,1,0,0,0,2,33,0,1.75
+Matthis Abline,2026-04-26,Stade Rennais,Nantes,6.4,87,9273.0,18.0,106.59,0,0,0.24,0.03,7,11,1,0,1,0,2,27,0,1.94

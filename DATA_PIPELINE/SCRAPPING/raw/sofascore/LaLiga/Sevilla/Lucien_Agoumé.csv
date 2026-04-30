@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Lucien Agoumé,2026-01-04,Sevilla,Levante UD,7.0,90,,,0.0,0,0,0.04,0.11,55,64,1,0,1,0,7,77
-Lucien Agoumé,2026-01-12,Sevilla,Celta Vigo,6.7,90,,,0.0,0,0,0.03,0.03,38,46,1,0,4,0,7,68
-Lucien Agoumé,2026-01-19,Elche,Sevilla,6.8,90,,,0.0,0,0,0.12,0.08,28,37,3,0,1,0,4,58
-Lucien Agoumé,2026-01-24,Sevilla,Athletic Club,7.2,90,,,0.0,0,0,0.0,0.01,29,37,1,0,2,0,4,56
-Lucien Agoumé,2026-02-02,Mallorca,Sevilla,6.4,90,,,0.0,0,0,0.08,0.04,56,64,1,0,2,0,5,76
-Lucien Agoumé,2026-02-08,Sevilla,Girona FC,6.7,90,,,0.0,0,0,0.0,0.02,44,50,0,0,3,0,5,64
-Lucien Agoumé,2026-02-14,Sevilla,Deportivo Alavés,6.6,81,,,0.0,0,0,0.0,0.05,17,23,0,0,2,0,7,39
-Lucien Agoumé,2026-02-22,Getafe,Sevilla,6.4,90,,,0.0,0,0,0.0,0.02,36,52,0,0,2,0,5,64
-Lucien Agoumé,2026-03-01,Real Betis,Sevilla,7.0,90,,,0.0,0,0,0.0,0.1,47,55,2,0,1,0,5,64
-Lucien Agoumé,2026-03-08,Sevilla,Rayo Vallecano,6.4,90,,,0.0,0,0,0.0,0.01,22,29,0,0,2,0,3,38
-Lucien Agoumé,2026-03-15,FC Barcelona,Sevilla,6.5,78,,,0.0,0,0,0.08,0.04,32,40,0,0,0,0,3,48
-Lucien Agoumé,2026-03-21,Sevilla,Valencia,6.5,45,,,0.0,0,0,0.0,0.03,16,19,0,0,1,0,2,23
-Lucien Agoumé,2026-04-11,Sevilla,Atlético Madrid,6.7,90,,,0.0,0,0,0.0,0.02,23,30,1,0,1,0,5,39
-Lucien Agoumé,2026-04-23,Levante UD,Sevilla,7.0,90,,,0.0,0,0,0.0,0.02,36,43,1,0,3,0,7,58
-Lucien Agoumé,2026-04-26,Osasuna,Sevilla,7.1,90,,,0.0,0,0,0.0,0.03,28,39,1,0,2,0,6,55
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lucien Agoumé,2026-01-04,Sevilla,Levante UD,7.0,90,9861.0,19.0,109.57,0,0,0.04,0.11,55,64,1,0,1,0,7,77,0,1.93
+Lucien Agoumé,2026-01-12,Sevilla,Celta Vigo,6.7,90,9823.0,23.0,109.14,0,0,0.03,0.03,38,46,1,0,4,0,7,68,0,2.34
+Lucien Agoumé,2026-01-19,Elche,Sevilla,6.8,90,9744.0,19.0,108.27,0,0,0.12,0.08,28,37,3,0,1,0,4,58,0,1.95
+Lucien Agoumé,2026-01-24,Sevilla,Athletic Club,7.2,90,9735.0,20.0,108.17,0,0,0.0,0.01,29,37,1,0,2,0,4,56,0,2.05
+Lucien Agoumé,2026-02-02,Mallorca,Sevilla,6.4,90,9832.0,20.0,109.24,0,0,0.08,0.04,56,64,1,0,2,0,5,76,0,2.03
+Lucien Agoumé,2026-02-08,Sevilla,Girona FC,6.7,90,9781.0,22.0,108.68,0,0,0.0,0.02,44,50,0,0,3,0,5,64,0,2.25
+Lucien Agoumé,2026-02-14,Sevilla,Deportivo Alavés,6.6,81,8756.0,18.0,108.1,0,0,0.0,0.05,17,23,0,0,2,0,7,39,0,2.06
+Lucien Agoumé,2026-02-22,Getafe,Sevilla,6.4,90,9781.0,20.0,108.68,0,0,0.0,0.02,36,52,0,0,2,0,5,64,0,2.04
+Lucien Agoumé,2026-03-01,Real Betis,Sevilla,7.0,90,9781.0,19.0,108.68,0,0,0.0,0.1,47,55,2,0,1,0,5,64,0,1.94
+Lucien Agoumé,2026-03-08,Sevilla,Rayo Vallecano,6.4,90,9647.0,20.0,107.19,0,0,0.0,0.01,22,29,0,0,2,0,3,38,0,2.07
+Lucien Agoumé,2026-03-15,FC Barcelona,Sevilla,6.5,78,8429.0,15.0,108.06,0,0,0.08,0.04,32,40,0,0,0,0,3,48,0,1.78
+Lucien Agoumé,2026-03-21,Sevilla,Valencia,6.5,45,4847.0,10.0,107.71,0,0,0.0,0.03,16,19,0,0,1,0,2,23,0,2.06
+Lucien Agoumé,2026-04-11,Sevilla,Atlético Madrid,6.7,90,9676.0,19.0,107.51,0,0,0.0,0.02,23,30,1,0,1,0,5,39,0,1.96
+Lucien Agoumé,2026-04-23,Levante UD,Sevilla,7.0,90,9781.0,22.0,108.68,0,0,0.0,0.02,36,43,1,0,3,0,7,58,0,2.25
+Lucien Agoumé,2026-04-26,Osasuna,Sevilla,7.1,90,9756.0,20.0,108.4,0,0,0.0,0.03,28,39,1,0,2,0,6,55,0,2.05

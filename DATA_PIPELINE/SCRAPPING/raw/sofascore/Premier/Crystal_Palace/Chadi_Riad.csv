@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Chadi Riad,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,6.3,87,,,0.0,0,0,0.05,0.02,74,88,1,0,2,0,9,103
-Chadi Riad,2026-02-22,Crystal Palace,Wolverhampton,6.5,72,,,0.0,0,0,0.02,0.0,37,43,0,0,0,0,4,51
-Chadi Riad,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-03-01,Manchester United,Crystal Palace,6.2,32,,,0.0,0,0,0.0,0.0,17,20,0,0,0,0,0,23
-Chadi Riad,2026-03-05,Tottenham Hotspur,Crystal Palace,7.1,90,,,0.0,0,0,0.0,0.02,68,74,0,0,0,0,2,90
-Chadi Riad,2026-03-12,Crystal Palace,AEK Larnaca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-03-19,AEK Larnaca,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-03-27,Morocco,Ecuador,6.8,90,,,0.0,0,0,0.0,0.0,58,63,0,0,0,0,1,75
-Chadi Riad,2026-03-31,Morocco,Paraguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-04-09,Crystal Palace,Fiorentina,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-04-12,Crystal Palace,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-04-16,Fiorentina,Crystal Palace,6.1,49,,,0.0,0,0,0.0,0.0,10,17,0,0,1,0,1,24
-Chadi Riad,2026-04-20,Crystal Palace,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Chadi Riad,2026-04-25,Liverpool,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Chadi Riad,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,6.3,87,9680.0,20.0,111.26,0,0,0.05,0.02,74,88,1,0,2,0,9,103,0,2.07
+Chadi Riad,2026-02-22,Crystal Palace,Wolverhampton,6.5,72,7824.0,14.0,108.67,0,0,0.02,0.0,37,43,0,0,0,0,4,51,0,1.79
+Chadi Riad,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-03-01,Manchester United,Crystal Palace,6.2,32,3457.0,6.0,108.03,0,0,0.0,0.0,17,20,0,0,0,0,0,23,0,1.74
+Chadi Riad,2026-03-05,Tottenham Hotspur,Crystal Palace,7.1,90,9853.0,17.0,109.48,0,0,0.0,0.02,68,74,0,0,0,0,2,90,0,1.73
+Chadi Riad,2026-03-12,Crystal Palace,AEK Larnaca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-03-19,AEK Larnaca,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-03-27,Morocco,Ecuador,6.8,90,9778.0,17.0,108.64,0,0,0.0,0.0,58,63,0,0,0,0,1,75,0,1.74
+Chadi Riad,2026-03-31,Morocco,Paraguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-04-09,Crystal Palace,Fiorentina,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-04-12,Crystal Palace,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-04-16,Fiorentina,Crystal Palace,6.1,49,5258.0,11.0,107.31,0,0,0.0,0.0,10,17,0,0,1,0,1,24,0,2.09
+Chadi Riad,2026-04-20,Crystal Palace,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Chadi Riad,2026-04-25,Liverpool,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

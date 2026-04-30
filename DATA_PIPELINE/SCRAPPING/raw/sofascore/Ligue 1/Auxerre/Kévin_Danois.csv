@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kévin Danois,2026-01-23,Auxerre,Paris Saint-Germain,7.1,89,,,0.0,0,0,0.07,0.19,29,32,1,0,0,0,8,46
-Kévin Danois,2026-02-01,Toulouse,Auxerre,6.7,90,,,0.0,0,0,0.07,0.17,37,42,0,0,2,0,4,66
-Kévin Danois,2026-02-08,Auxerre,Paris FC,8.0,90,,,0.0,0,0,0.0,0.34,46,51,4,0,0,0,4,70
-Kévin Danois,2026-02-15,Metz,Auxerre,8.3,89,,,0.0,1,0,0.17,0.15,42,48,1,0,2,0,7,74
-Kévin Danois,2026-02-22,Auxerre,Stade Rennais,7.1,86,,,0.0,0,0,0.01,0.12,38,48,2,0,2,0,6,72
-Kévin Danois,2026-03-01,Lorient,Auxerre,6.8,90,,,0.0,0,0,0.0,0.28,58,67,3,0,4,0,8,91
-Kévin Danois,2026-03-07,Auxerre,RC Strasbourg,6.9,11,,,0.0,0,0,0.0,0.12,21,25,2,0,2,0,2,40
-Kévin Danois,2026-03-13,Olympique de Marseille,Auxerre,7.1,45,,,0.0,0,0,0.02,0.04,50,56,2,0,1,0,6,74
-Kévin Danois,2026-03-21,Auxerre,Stade Brestois,7.5,90,,,0.0,0,0,0.0,0.28,44,51,2,0,1,0,9,70
-Kévin Danois,2026-04-05,Le Havre,Auxerre,7.1,85,,,0.0,0,0,0.0,0.35,57,67,2,0,1,0,5,83
-Kévin Danois,2026-04-11,Auxerre,Nantes,6.7,78,,,0.0,0,0,0.0,0.19,40,43,2,0,0,0,4,64
-Kévin Danois,2026-04-19,AS Monaco,Auxerre,8.1,45,,,0.0,0,0,0.03,0.04,31,39,1,0,1,0,4,56
-Kévin Danois,2026-04-25,Olympique Lyonnais,Auxerre,7.9,75,,,0.0,1,1,0.05,0.04,52,60,0,0,2,0,6,90
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kévin Danois,2026-01-23,Auxerre,Paris Saint-Germain,7.1,89,9638.0,17.0,108.29,0,0,0.07,0.19,29,32,1,0,0,0,8,46,0,1.76
+Kévin Danois,2026-02-01,Toulouse,Auxerre,6.7,90,9777.0,20.0,108.63,0,0,0.07,0.17,37,42,0,0,2,0,4,66,0,2.05
+Kévin Danois,2026-02-08,Auxerre,Paris FC,8.0,90,9794.0,17.0,108.82,0,0,0.0,0.34,46,51,4,0,0,0,4,70,0,1.74
+Kévin Danois,2026-02-15,Metz,Auxerre,8.3,89,9743.0,20.0,109.47,1,0,0.17,0.15,42,48,1,0,2,0,7,74,0,2.05
+Kévin Danois,2026-02-22,Auxerre,Stade Rennais,7.1,86,9407.0,19.0,109.38,0,0,0.01,0.12,38,48,2,0,2,0,6,72,0,2.02
+Kévin Danois,2026-03-01,Lorient,Auxerre,6.8,90,9932.0,23.0,110.36,0,0,0.0,0.28,58,67,3,0,4,0,8,91,0,2.32
+Kévin Danois,2026-03-07,Auxerre,RC Strasbourg,6.9,11,1348.0,5.0,122.55,0,0,0.0,0.12,21,25,2,0,2,0,2,40,0,3.71
+Kévin Danois,2026-03-13,Olympique de Marseille,Auxerre,7.1,45,5111.0,10.0,113.58,0,0,0.02,0.04,50,56,2,0,1,0,6,74,0,1.96
+Kévin Danois,2026-03-21,Auxerre,Stade Brestois,7.5,90,9856.0,19.0,109.51,0,0,0.0,0.28,44,51,2,0,1,0,9,70,0,1.93
+Kévin Danois,2026-04-05,Le Havre,Auxerre,7.1,85,9336.0,18.0,109.84,0,0,0.0,0.35,57,67,2,0,1,0,5,83,0,1.93
+Kévin Danois,2026-04-11,Auxerre,Nantes,6.7,78,8509.0,15.0,109.09,0,0,0.0,0.19,40,43,2,0,0,0,4,64,0,1.76
+Kévin Danois,2026-04-19,AS Monaco,Auxerre,8.1,45,5010.0,10.0,111.33,0,0,0.03,0.04,31,39,1,0,1,0,4,56,0,2.0
+Kévin Danois,2026-04-25,Olympique Lyonnais,Auxerre,7.9,75,8328.0,17.0,111.04,1,1,0.05,0.04,52,60,0,0,2,0,6,90,0,2.04

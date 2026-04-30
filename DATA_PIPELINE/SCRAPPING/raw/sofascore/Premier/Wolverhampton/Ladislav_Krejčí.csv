@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ladislav Krejčí,2026-01-10,Wolverhampton,Shrewsbury Town,7.0,90,,,0.0,0,0,0.0,0.0,80,86,0,0,0,0,2,92
-Ladislav Krejčí,2026-01-18,Wolverhampton,Newcastle United,6.7,90,,,0.0,0,0,0.0,0.01,34,44,0,0,1,0,2,54
-Ladislav Krejčí,2026-01-24,Manchester City,Wolverhampton,6.4,90,,,0.0,0,0,0.0,0.03,44,50,0,0,2,0,3,59
-Ladislav Krejčí,2026-02-07,Wolverhampton,Chelsea,6.5,47,,,0.0,0,0,0.0,0.0,23,26,0,0,0,0,5,29
-Ladislav Krejčí,2026-02-11,Nottingham Forest,Wolverhampton,7.3,90,,,0.0,0,0,0.0,0.0,31,42,0,0,2,0,0,56
-Ladislav Krejčí,2026-02-15,Grimsby Town,Wolverhampton,7.4,90,,,0.0,0,0,0.0,0.0,10,26,0,0,0,0,5,48
-Ladislav Krejčí,2026-02-18,Wolverhampton,Arsenal,6.0,90,,,0.0,0,0,0.0,0.07,42,58,0,0,4,0,5,75
-Ladislav Krejčí,2026-02-22,Crystal Palace,Wolverhampton,5.9,61,,,0.0,0,0,0.0,0.01,22,29,0,0,1,0,2,39
-Ladislav Krejčí,2026-03-03,Wolverhampton,Liverpool,7.1,90,,,0.0,0,0,0.0,0.0,26,28,0,0,2,0,1,43
-Ladislav Krejčí,2026-03-06,Wolverhampton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ladislav Krejčí,2026-03-16,Brentford,Wolverhampton,5.7,90,,,0.0,0,0,0.03,0.0,42,58,0,0,0,0,1,69
-Ladislav Krejčí,2026-03-26,Czechia,Ireland,9.2,120,,,0.0,1,0,0.0,0.0,75,90,0,0,1,0,7,133
-Ladislav Krejčí,2026-03-31,Czechia,Denmark,7.7,120,,,0.0,1,0,0.0,0.0,20,34,0,0,3,0,10,69
-Ladislav Krejčí,2026-04-10,West Ham United,Wolverhampton,7.1,90,,,0.0,0,0,0.01,0.06,74,82,1,0,2,0,7,103
-Ladislav Krejčí,2026-04-18,Leeds United,Wolverhampton,6.9,75,,,0.0,0,0,0.15,0.03,34,42,0,0,1,0,3,60
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ladislav Krejčí,2026-01-10,Wolverhampton,Shrewsbury Town,7.0,90,9861.0,17.0,109.57,0,0,0.0,0.0,80,86,0,0,0,0,2,92,0,1.72
+Ladislav Krejčí,2026-01-18,Wolverhampton,Newcastle United,6.7,90,9702.0,19.0,107.8,0,0,0.0,0.01,34,44,0,0,1,0,2,54,0,1.96
+Ladislav Krejčí,2026-01-24,Manchester City,Wolverhampton,6.4,90,9735.0,20.0,108.17,0,0,0.0,0.03,44,50,0,0,2,0,3,59,0,2.05
+Ladislav Krejčí,2026-02-07,Wolverhampton,Chelsea,6.5,47,5119.0,9.0,108.91,0,0,0.0,0.0,23,26,0,0,0,0,5,29,0,1.76
+Ladislav Krejčí,2026-02-11,Nottingham Forest,Wolverhampton,7.3,90,9685.0,20.0,107.61,0,0,0.0,0.0,31,42,0,0,2,0,0,56,0,2.07
+Ladislav Krejčí,2026-02-15,Grimsby Town,Wolverhampton,7.4,90,9714.0,17.0,107.93,0,0,0.0,0.0,10,26,0,0,0,0,5,48,0,1.75
+Ladislav Krejčí,2026-02-18,Wolverhampton,Arsenal,6.0,90,9828.0,23.0,109.2,0,0,0.0,0.07,42,58,0,0,4,0,5,75,0,2.34
+Ladislav Krejčí,2026-02-22,Crystal Palace,Wolverhampton,5.9,61,6594.0,13.0,108.1,0,0,0.0,0.01,22,29,0,0,1,0,2,39,0,1.97
+Ladislav Krejčí,2026-03-03,Wolverhampton,Liverpool,7.1,90,9643.0,20.0,107.14,0,0,0.0,0.0,26,28,0,0,2,0,1,43,0,2.07
+Ladislav Krejčí,2026-03-06,Wolverhampton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ladislav Krejčí,2026-03-16,Brentford,Wolverhampton,5.7,90,9752.0,17.0,108.36,0,0,0.03,0.0,42,58,0,0,0,0,1,69,0,1.74
+Ladislav Krejčí,2026-03-26,Czechia,Ireland,9.2,120,13246.0,24.0,110.38,1,0,0.0,0.0,75,90,0,0,1,0,7,133,0,1.81
+Ladislav Krejčí,2026-03-31,Czechia,Denmark,7.7,120,13015.0,27.0,108.46,1,0,0.0,0.0,20,34,0,0,3,0,10,69,0,2.07
+Ladislav Krejčí,2026-04-10,West Ham United,Wolverhampton,7.1,90,9970.0,20.0,110.78,0,0,0.01,0.06,74,82,1,0,2,0,7,103,0,2.01
+Ladislav Krejčí,2026-04-18,Leeds United,Wolverhampton,6.9,75,8164.0,16.0,108.85,0,0,0.15,0.03,34,42,0,0,1,0,3,60,0,1.96

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ruben Vargas,2025-10-28,CD Toledo,Sevilla,6.6,9,,,0.0,0,0,0.0,0.0,5,8,0,0,0,0,0,10
-Ruben Vargas,2025-11-01,Atlético Madrid,Sevilla,6.2,90,,,0.0,0,0,0.08,0.02,34,45,0,0,0,0,4,59
-Ruben Vargas,2025-11-08,Sevilla,Osasuna,7.0,86,,,0.0,1,0,0.83,0.03,18,25,0,0,0,0,4,42
-Ruben Vargas,2025-11-15,Switzerland,Sweden,7.0,85,,,0.0,0,0,0.0,0.0,26,28,2,0,1,0,3,46
-Ruben Vargas,2025-11-18,Kosovo,Switzerland,7.1,69,,,0.0,1,0,0.0,0.0,23,27,0,0,0,0,3,38
-Ruben Vargas,2025-11-24,Espanyol,Sevilla,6.0,54,,,0.0,0,0,0.12,0.01,12,22,0,0,0,0,4,36
-Ruben Vargas,2026-01-12,Sevilla,Celta Vigo,6.7,8,,,0.0,0,0,0.0,0.02,3,3,0,0,0,0,0,5
-Ruben Vargas,2026-03-15,FC Barcelona,Sevilla,6.4,45,,,0.0,0,0,0.1,0.01,12,15,0,0,2,0,3,23
-Ruben Vargas,2026-03-21,Sevilla,Valencia,6.2,71,,,0.0,0,0,0.06,0.08,18,26,1,0,0,0,2,41
-Ruben Vargas,2026-03-27,Switzerland,Germany,6.5,45,,,0.0,0,0,0.0,0.0,9,11,0,0,0,0,0,21
-Ruben Vargas,2026-03-31,Norway,Switzerland,6.6,45,,,0.0,0,0,0.0,0.0,18,21,0,0,0,0,3,31
-Ruben Vargas,2026-04-05,Real Oviedo,Sevilla,6.8,80,,,0.0,0,0,0.04,0.3,11,19,5,0,0,0,2,47
-Ruben Vargas,2026-04-11,Sevilla,Atlético Madrid,7.3,78,,,0.0,0,0,0.13,0.23,13,19,2,0,0,0,7,43
-Ruben Vargas,2026-04-23,Levante UD,Sevilla,6.3,83,,,0.0,0,0,0.09,0.01,19,24,0,0,0,0,3,45
-Ruben Vargas,2026-04-26,Osasuna,Sevilla,6.7,76,,,0.0,0,0,0.04,0.02,12,21,0,0,1,0,2,45
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ruben Vargas,2025-10-28,CD Toledo,Sevilla,6.6,9,987.0,2.0,109.67,0,0,0.0,0.0,5,8,0,0,0,0,0,10,0,2.03
+Ruben Vargas,2025-11-01,Atlético Madrid,Sevilla,6.2,90,9748.0,17.0,108.31,0,0,0.08,0.02,34,45,0,0,0,0,4,59,0,1.74
+Ruben Vargas,2025-11-08,Sevilla,Osasuna,7.0,86,9256.0,17.0,107.63,1,0,0.83,0.03,18,25,0,0,0,0,4,42,0,1.84
+Ruben Vargas,2025-11-15,Switzerland,Sweden,7.0,85,9156.0,18.0,107.72,0,0,0.0,0.0,26,28,2,0,1,0,3,46,0,1.97
+Ruben Vargas,2025-11-18,Kosovo,Switzerland,7.1,69,7442.0,13.0,107.86,1,0,0.0,0.0,23,27,0,0,0,0,3,38,0,1.75
+Ruben Vargas,2025-11-24,Espanyol,Sevilla,6.0,54,5871.0,10.0,108.72,0,0,0.12,0.01,12,22,0,0,0,0,4,36,0,1.7
+Ruben Vargas,2026-01-12,Sevilla,Celta Vigo,6.7,8,861.0,2.0,107.62,0,0,0.0,0.02,3,3,0,0,0,0,0,5,0,2.32
+Ruben Vargas,2026-03-15,FC Barcelona,Sevilla,6.4,45,4859.0,11.0,107.98,0,0,0.1,0.01,12,15,0,0,2,0,3,23,0,2.26
+Ruben Vargas,2026-03-21,Sevilla,Valencia,6.2,71,7652.0,14.0,107.77,0,0,0.06,0.08,18,26,1,0,0,0,2,41,0,1.83
+Ruben Vargas,2026-03-27,Switzerland,Germany,6.5,45,4813.0,9.0,106.96,0,0,0.0,0.0,9,11,0,0,0,0,0,21,0,1.87
+Ruben Vargas,2026-03-31,Norway,Switzerland,6.6,45,4893.0,9.0,108.73,0,0,0.0,0.0,18,21,0,0,0,0,3,31,0,1.84
+Ruben Vargas,2026-04-05,Real Oviedo,Sevilla,6.8,80,8622.0,15.0,107.78,0,0,0.04,0.3,11,19,5,0,0,0,2,47,0,1.74
+Ruben Vargas,2026-04-11,Sevilla,Atlético Madrid,7.3,78,8458.0,15.0,108.44,0,0,0.13,0.23,13,19,2,0,0,0,7,43,0,1.77
+Ruben Vargas,2026-04-23,Levante UD,Sevilla,6.3,83,8942.0,16.0,107.73,0,0,0.09,0.01,19,24,0,0,0,0,3,45,0,1.79
+Ruben Vargas,2026-04-26,Osasuna,Sevilla,6.7,76,8194.0,16.0,107.82,0,0,0.04,0.02,12,21,0,0,1,0,2,45,0,1.95

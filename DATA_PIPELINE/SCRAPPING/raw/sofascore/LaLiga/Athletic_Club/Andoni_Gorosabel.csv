@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Andoni Gorosabel,2026-01-24,Sevilla,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andoni Gorosabel,2026-01-28,Athletic Club,Sporting CP,5.7,90,,,0.0,0,0,0.0,0.0,11,14,0,0,0,0,2,35
-Andoni Gorosabel,2026-02-01,Athletic Club,Real Sociedad,6.8,11,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,0,13
-Andoni Gorosabel,2026-02-04,Valencia,Athletic Club,7.0,90,,,0.0,0,0,0.0,0.0,21,27,0,0,1,0,4,56
-Andoni Gorosabel,2026-02-08,Athletic Club,Levante UD,6.1,90,,,0.0,0,0,0.01,0.05,33,38,1,0,1,0,2,58
-Andoni Gorosabel,2026-02-11,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andoni Gorosabel,2026-02-15,Real Oviedo,Athletic Club,6.7,66,,,0.0,0,0,0.0,0.06,20,25,1,0,2,0,3,58
-Andoni Gorosabel,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andoni Gorosabel,2026-02-28,Rayo Vallecano,Athletic Club,6.9,17,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,0,19
-Andoni Gorosabel,2026-03-07,Athletic Club,FC Barcelona,6.8,90,,,0.0,0,0,0.0,0.01,12,16,0,0,2,0,2,41
-Andoni Gorosabel,2026-03-14,Girona FC,Athletic Club,6.6,45,,,0.0,0,0,0.04,0.14,25,26,0,0,0,0,3,39
-Andoni Gorosabel,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andoni Gorosabel,2026-04-12,Athletic Club,Villarreal,7.0,45,,,0.0,0,0,0.0,0.1,29,31,1,0,0,0,3,44
-Andoni Gorosabel,2026-04-21,Athletic Club,Osasuna,6.9,90,,,0.0,0,0,0.0,0.03,21,26,0,0,2,0,8,47
-Andoni Gorosabel,2026-04-25,Atlético Madrid,Athletic Club,5.8,90,,,0.0,0,0,0.0,0.01,25,32,0,0,3,0,2,65
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Andoni Gorosabel,2026-01-24,Sevilla,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andoni Gorosabel,2026-01-28,Athletic Club,Sporting CP,5.7,90,9622.0,17.0,106.91,0,0,0.0,0.0,11,14,0,0,0,0,2,35,0,1.77
+Andoni Gorosabel,2026-02-01,Athletic Club,Real Sociedad,6.8,11,1210.0,2.0,110.0,0,0,0.0,0.0,4,5,0,0,0,0,0,13,0,1.65
+Andoni Gorosabel,2026-02-04,Valencia,Athletic Club,7.0,90,9735.0,19.0,108.17,0,0,0.0,0.0,21,27,0,0,1,0,4,56,0,1.95
+Andoni Gorosabel,2026-02-08,Athletic Club,Levante UD,6.1,90,9719.0,19.0,107.99,0,0,0.01,0.05,33,38,1,0,1,0,2,58,0,1.95
+Andoni Gorosabel,2026-02-11,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andoni Gorosabel,2026-02-15,Real Oviedo,Athletic Club,6.7,66,7211.0,15.0,109.26,0,0,0.0,0.06,20,25,1,0,2,0,3,58,0,2.08
+Andoni Gorosabel,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andoni Gorosabel,2026-02-28,Rayo Vallecano,Athletic Club,6.9,17,1865.0,3.0,109.71,0,0,0.0,0.0,3,4,0,0,0,0,0,19,0,1.61
+Andoni Gorosabel,2026-03-07,Athletic Club,FC Barcelona,6.8,90,9647.0,20.0,107.19,0,0,0.0,0.01,12,16,0,0,2,0,2,41,0,2.07
+Andoni Gorosabel,2026-03-14,Girona FC,Athletic Club,6.6,45,4926.0,9.0,109.47,0,0,0.04,0.14,25,26,0,0,0,0,3,39,0,1.83
+Andoni Gorosabel,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andoni Gorosabel,2026-04-12,Athletic Club,Villarreal,7.0,45,4947.0,9.0,109.93,0,0,0.0,0.1,29,31,1,0,0,0,3,44,0,1.82
+Andoni Gorosabel,2026-04-21,Athletic Club,Osasuna,6.9,90,9747.0,20.0,108.3,0,0,0.0,0.03,21,26,0,0,2,0,8,47,0,2.05
+Andoni Gorosabel,2026-04-25,Atlético Madrid,Athletic Club,5.8,90,9748.0,22.0,108.31,0,0,0.0,0.01,25,32,0,0,3,0,2,65,0,2.26

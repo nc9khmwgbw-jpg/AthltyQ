@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Joaquin Panichelli,2026-01-10,Avranches,RC Strasbourg,8.5,62,,,0.0,1,0,0.0,0.0,13,13,4,0,0,0,1,19
-Joaquin Panichelli,2026-01-18,RC Strasbourg,Metz,6.6,90,,,0.0,0,0,0.11,0.02,10,13,1,0,1,0,1,26
-Joaquin Panichelli,2026-01-25,Lille,RC Strasbourg,8.3,87,,,0.0,1,0,0.27,0.25,16,24,2,0,0,0,4,39
-Joaquin Panichelli,2026-02-01,RC Strasbourg,Paris Saint-Germain,5.6,90,,,0.0,0,0,0.79,0.01,18,24,1,0,0,0,4,42
-Joaquin Panichelli,2026-02-05,RC Strasbourg,AS Monaco,7.9,85,,,0.0,0,0,0.0,0.0,17,24,1,0,0,0,0,42
-Joaquin Panichelli,2026-02-08,Le Havre,RC Strasbourg,5.7,90,,,0.0,0,0,0.01,0.02,9,14,0,0,2,0,0,32
-Joaquin Panichelli,2026-02-14,Olympique de Marseille,RC Strasbourg,6.5,90,,,0.0,1,0,1.02,0.01,13,15,0,0,0,0,4,28
-Joaquin Panichelli,2026-02-22,RC Strasbourg,Olympique Lyonnais,7.0,90,,,0.0,1,0,0.97,0.01,12,14,0,0,0,0,2,30
-Joaquin Panichelli,2026-02-27,RC Strasbourg,RC Lens,7.4,90,,,0.0,1,0,0.18,0.02,11,15,0,0,0,0,1,31
-Joaquin Panichelli,2026-03-03,RC Strasbourg,Stade de Reims,7.5,85,,,0.0,1,0,0.0,0.0,11,13,2,0,0,0,2,22
-Joaquin Panichelli,2026-03-07,Auxerre,RC Strasbourg,6.3,26,,,0.0,0,0,0.08,0.0,5,7,0,0,0,0,1,10
-Joaquin Panichelli,2026-03-12,HNK Rijeka,RC Strasbourg,7.5,77,,,0.0,1,0,1.58,0.07,22,31,1,0,0,0,2,44
-Joaquin Panichelli,2026-03-15,RC Strasbourg,Paris FC,6.0,90,,,0.0,0,0,0.24,0.17,12,20,0,0,0,0,2,26
-Joaquin Panichelli,2026-03-19,RC Strasbourg,HNK Rijeka,6.3,90,,,0.0,0,0,0.14,0.05,16,21,1,0,0,0,1,39
-Joaquin Panichelli,2026-03-22,Nantes,RC Strasbourg,8.1,45,,,0.0,2,0,0.82,0.01,5,10,0,0,0,0,1,23
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Joaquin Panichelli,2026-01-10,Avranches,RC Strasbourg,8.5,62,6602.0,12.0,106.48,1,0,0.0,0.0,13,13,4,0,0,0,1,19,0,1.82
+Joaquin Panichelli,2026-01-18,RC Strasbourg,Metz,6.6,90,9572.0,19.0,106.36,0,0,0.11,0.02,10,13,1,0,1,0,1,26,0,1.98
+Joaquin Panichelli,2026-01-25,Lille,RC Strasbourg,8.3,87,9349.0,17.0,107.46,1,0,0.27,0.25,16,24,2,0,0,0,4,39,0,1.82
+Joaquin Panichelli,2026-02-01,RC Strasbourg,Paris Saint-Germain,5.6,90,9676.0,17.0,107.51,0,0,0.79,0.01,18,24,1,0,0,0,4,42,0,1.76
+Joaquin Panichelli,2026-02-05,RC Strasbourg,AS Monaco,7.9,85,9101.0,16.0,107.07,0,0,0.0,0.0,17,24,1,0,0,0,0,42,0,1.76
+Joaquin Panichelli,2026-02-08,Le Havre,RC Strasbourg,5.7,90,9584.0,20.0,106.49,0,0,0.01,0.02,9,14,0,0,2,0,0,32,0,2.09
+Joaquin Panichelli,2026-02-14,Olympique de Marseille,RC Strasbourg,6.5,90,9618.0,17.0,106.87,1,0,1.02,0.01,13,15,0,0,0,0,4,28,0,1.77
+Joaquin Panichelli,2026-02-22,RC Strasbourg,Olympique Lyonnais,7.0,90,9601.0,17.0,106.68,1,0,0.97,0.01,12,14,0,0,0,0,2,30,0,1.77
+Joaquin Panichelli,2026-02-27,RC Strasbourg,RC Lens,7.4,90,9593.0,17.0,106.59,1,0,0.18,0.02,11,15,0,0,0,0,1,31,0,1.77
+Joaquin Panichelli,2026-03-03,RC Strasbourg,Stade de Reims,7.5,85,9042.0,16.0,106.38,1,0,0.0,0.0,11,13,2,0,0,0,2,22,0,1.77
+Joaquin Panichelli,2026-03-07,Auxerre,RC Strasbourg,6.3,26,2784.0,5.0,107.08,0,0,0.08,0.0,5,7,0,0,0,0,1,10,0,1.8
+Joaquin Panichelli,2026-03-12,HNK Rijeka,RC Strasbourg,7.5,77,8295.0,15.0,107.73,1,0,1.58,0.07,22,31,1,0,0,0,2,44,0,1.81
+Joaquin Panichelli,2026-03-15,RC Strasbourg,Paris FC,6.0,90,9584.0,17.0,106.49,0,0,0.24,0.17,12,20,0,0,0,0,2,26,0,1.77
+Joaquin Panichelli,2026-03-19,RC Strasbourg,HNK Rijeka,6.3,90,9626.0,17.0,106.96,0,0,0.14,0.05,16,21,1,0,0,0,1,39,0,1.77
+Joaquin Panichelli,2026-03-22,Nantes,RC Strasbourg,8.1,45,4834.0,9.0,107.42,2,0,0.82,0.01,5,10,0,0,0,0,1,23,0,1.86

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Javi Galán,2026-01-13,Real Sociedad,Osasuna,6.2,57,,,0.0,0,0,0.0,0.0,9,13,1,0,1,0,3,35
-Javi Galán,2026-01-17,Osasuna,Real Oviedo,6.5,90,,,0.0,0,0,0.0,0.21,28,32,3,0,0,0,4,67
-Javi Galán,2026-01-24,Rayo Vallecano,Osasuna,7.5,90,,,0.0,0,0,0.1,0.01,14,23,0,0,2,0,9,66
-Javi Galán,2026-01-31,Osasuna,Villarreal,6.9,90,,,0.0,0,0,0.0,0.21,31,38,3,0,3,0,3,72
-Javi Galán,2026-02-06,Celta Vigo,Osasuna,6.7,90,,,0.0,0,0,0.0,0.03,51,55,1,0,1,0,1,76
-Javi Galán,2026-02-13,Elche,Osasuna,7.7,90,,,0.0,0,0,0.0,0.01,28,35,0,0,4,0,9,67
-Javi Galán,2026-02-21,Osasuna,Real Madrid,7.4,90,,,0.0,0,0,0.0,0.23,38,47,2,0,1,0,7,71
-Javi Galán,2026-03-01,Valencia,Osasuna,7.2,90,,,0.0,0,0,0.0,0.13,39,50,0,0,1,0,3,83
-Javi Galán,2026-03-07,Osasuna,Mallorca,6.7,77,,,0.0,0,0,0.06,0.16,46,49,2,0,0,0,2,82
-Javi Galán,2026-03-15,Real Sociedad,Osasuna,6.6,90,,,0.0,0,0,0.0,0.11,54,66,3,0,3,0,5,107
-Javi Galán,2026-03-21,Osasuna,Girona FC,6.7,90,,,0.0,0,0,0.0,0.02,42,48,0,0,2,0,3,86
-Javi Galán,2026-04-05,Deportivo Alavés,Osasuna,6.2,90,,,0.0,0,0,0.0,0.01,41,52,0,0,2,0,3,84
-Javi Galán,2026-04-12,Osasuna,Real Betis,6.5,90,,,0.0,0,0,0.0,0.29,36,44,2,0,2,0,1,70
-Javi Galán,2026-04-21,Athletic Club,Osasuna,7.0,90,,,0.0,0,0,0.0,0.02,58,66,0,0,1,0,8,96
-Javi Galán,2026-04-26,Osasuna,Sevilla,6.6,89,,,0.0,0,0,0.02,0.03,54,59,0,0,0,0,3,86
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Javi Galán,2026-01-13,Real Sociedad,Osasuna,6.2,57,6170.0,12.0,108.25,0,0,0.0,0.0,9,13,1,0,1,0,3,35,0,1.94
+Javi Galán,2026-01-17,Osasuna,Real Oviedo,6.5,90,9781.0,17.0,108.68,0,0,0.0,0.21,28,32,3,0,0,0,4,67,0,1.74
+Javi Galán,2026-01-24,Rayo Vallecano,Osasuna,7.5,90,9840.0,20.0,109.33,0,0,0.1,0.01,14,23,0,0,2,0,9,66,0,2.03
+Javi Galán,2026-01-31,Osasuna,Villarreal,6.9,90,9790.0,22.0,108.78,0,0,0.0,0.21,31,38,3,0,3,0,3,72,0,2.25
+Javi Galán,2026-02-06,Celta Vigo,Osasuna,6.7,90,9782.0,19.0,108.69,0,0,0.0,0.03,51,55,1,0,1,0,1,76,0,1.94
+Javi Galán,2026-02-13,Elche,Osasuna,7.7,90,9844.0,23.0,109.38,0,0,0.0,0.01,28,35,0,0,4,0,9,67,0,2.34
+Javi Galán,2026-02-21,Osasuna,Real Madrid,7.4,90,9836.0,19.0,109.29,0,0,0.0,0.23,38,47,2,0,1,0,7,71,0,1.93
+Javi Galán,2026-03-01,Valencia,Osasuna,7.2,90,9836.0,19.0,109.29,0,0,0.0,0.13,39,50,0,0,1,0,3,83,0,1.93
+Javi Galán,2026-03-07,Osasuna,Mallorca,6.7,77,8454.0,15.0,109.79,0,0,0.06,0.16,46,49,2,0,0,0,2,82,0,1.77
+Javi Galán,2026-03-15,Real Sociedad,Osasuna,6.6,90,9962.0,22.0,110.69,0,0,0.0,0.11,54,66,3,0,3,0,5,107,0,2.21
+Javi Galán,2026-03-21,Osasuna,Girona FC,6.7,90,9849.0,20.0,109.43,0,0,0.0,0.02,42,48,0,0,2,0,3,86,0,2.03
+Javi Galán,2026-04-05,Deportivo Alavés,Osasuna,6.2,90,9840.0,20.0,109.33,0,0,0.0,0.01,41,52,0,0,2,0,3,84,0,2.03
+Javi Galán,2026-04-12,Osasuna,Real Betis,6.5,90,9756.0,20.0,108.4,0,0,0.0,0.29,36,44,2,0,2,0,1,70,0,2.05
+Javi Galán,2026-04-21,Athletic Club,Osasuna,7.0,90,9953.0,19.0,110.59,0,0,0.0,0.02,58,66,0,0,1,0,8,96,0,1.91
+Javi Galán,2026-04-26,Osasuna,Sevilla,6.6,89,9744.0,17.0,109.48,0,0,0.02,0.03,54,59,0,0,0,0,3,86,0,1.74

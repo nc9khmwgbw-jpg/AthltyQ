@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Dean Henderson,2026-02-01,Nottingham Forest,Crystal Palace,6.7,90,,,0.0,0,0,0.0,0.0,22,25,0,0,1,0,10,36
-Dean Henderson,2026-02-08,Brighton & Hove Albion,Crystal Palace,7.4,90,,,0.0,0,0,0.0,0.0,17,41,0,0,0,0,12,49
-Dean Henderson,2026-02-11,Crystal Palace,Burnley,6.6,90,,,0.0,0,0,0.0,0.01,20,28,0,0,0,0,9,36
-Dean Henderson,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,6.4,90,,,0.0,0,0,0.0,0.0,18,26,0,0,0,0,6,30
-Dean Henderson,2026-02-22,Crystal Palace,Wolverhampton,9.1,90,,,0.0,0,0,0.0,0.0,9,22,0,0,0,0,9,37
-Dean Henderson,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,6.4,90,,,0.0,0,0,0.0,0.0,11,20,0,0,0,0,5,22
-Dean Henderson,2026-03-01,Manchester United,Crystal Palace,6.9,90,,,0.0,0,0,0.0,0.0,18,41,0,0,0,0,12,57
-Dean Henderson,2026-03-05,Tottenham Hotspur,Crystal Palace,6.7,90,,,0.0,0,0,0.0,0.0,10,21,0,0,0,0,4,31
-Dean Henderson,2026-03-12,Crystal Palace,AEK Larnaca,6.5,90,,,0.0,0,0,0.0,0.0,15,18,0,0,0,0,5,22
-Dean Henderson,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Dean Henderson,2026-04-09,Crystal Palace,Fiorentina,7.0,90,,,0.0,0,0,0.0,0.0,16,26,0,0,0,0,9,35
-Dean Henderson,2026-04-12,Crystal Palace,Newcastle United,6.3,90,,,0.0,0,0,0.0,0.0,14,27,0,0,0,0,12,36
-Dean Henderson,2026-04-16,Fiorentina,Crystal Palace,8.0,90,,,0.0,0,0,0.0,0.0,18,34,0,0,0,0,11,45
-Dean Henderson,2026-04-20,Crystal Palace,West Ham United,6.8,90,,,0.0,0,0,0.0,0.0,18,29,0,0,0,0,6,37
-Dean Henderson,2026-04-25,Liverpool,Crystal Palace,6.1,90,,,0.0,0,0,0.0,0.0,19,30,0,0,0,0,4,35
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Dean Henderson,2026-02-01,Nottingham Forest,Crystal Palace,6.7,90,9726.0,19.0,108.07,0,0,0.0,0.0,22,25,0,0,1,0,10,36,0,1.95
+Dean Henderson,2026-02-08,Brighton & Hove Albion,Crystal Palace,7.4,90,9806.0,17.0,108.96,0,0,0.0,0.0,17,41,0,0,0,0,12,49,0,1.73
+Dean Henderson,2026-02-11,Crystal Palace,Burnley,6.6,90,9714.0,17.0,107.93,0,0,0.0,0.01,20,28,0,0,0,0,9,36,0,1.75
+Dean Henderson,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,6.4,90,9651.0,17.0,107.23,0,0,0.0,0.0,18,26,0,0,0,0,6,30,0,1.76
+Dean Henderson,2026-02-22,Crystal Palace,Wolverhampton,9.1,90,9718.0,17.0,107.98,0,0,0.0,0.0,9,22,0,0,0,0,9,37,0,1.75
+Dean Henderson,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,6.4,90,9605.0,17.0,106.72,0,0,0.0,0.0,11,20,0,0,0,0,5,22,0,1.77
+Dean Henderson,2026-03-01,Manchester United,Crystal Palace,6.9,90,9839.0,17.0,109.32,0,0,0.0,0.0,18,41,0,0,0,0,12,57,0,1.73
+Dean Henderson,2026-03-05,Tottenham Hotspur,Crystal Palace,6.7,90,9630.0,17.0,107.0,0,0,0.0,0.0,10,21,0,0,0,0,4,31,0,1.77
+Dean Henderson,2026-03-12,Crystal Palace,AEK Larnaca,6.5,90,9605.0,17.0,106.72,0,0,0.0,0.0,15,18,0,0,0,0,5,22,0,1.77
+Dean Henderson,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Dean Henderson,2026-04-09,Crystal Palace,Fiorentina,7.0,90,9710.0,17.0,107.89,0,0,0.0,0.0,16,26,0,0,0,0,9,35,0,1.75
+Dean Henderson,2026-04-12,Crystal Palace,Newcastle United,6.3,90,9751.0,17.0,108.34,0,0,0.0,0.0,14,27,0,0,0,0,12,36,0,1.74
+Dean Henderson,2026-04-16,Fiorentina,Crystal Palace,8.0,90,9776.0,17.0,108.62,0,0,0.0,0.0,18,34,0,0,0,0,11,45,0,1.74
+Dean Henderson,2026-04-20,Crystal Palace,West Ham United,6.8,90,9680.0,17.0,107.56,0,0,0.0,0.0,18,29,0,0,0,0,6,37,0,1.76
+Dean Henderson,2026-04-25,Liverpool,Crystal Palace,6.1,90,9647.0,17.0,107.19,0,0,0.0,0.0,19,30,0,0,0,0,4,35,0,1.76

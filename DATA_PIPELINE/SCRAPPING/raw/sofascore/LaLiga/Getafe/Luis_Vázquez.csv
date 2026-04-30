@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Luis Vázquez,2026-01-18,KAA Gent,RSC Anderlecht,6.3,24,,,0.0,0,0,0.01,0.0,5,7,0,0,0,0,0,11
-Luis Vázquez,2026-01-26,Girona FC,Getafe,7.3,86,,,0.0,1,0,0.19,0.1,14,18,1,0,0,0,2,37
-Luis Vázquez,2026-02-01,Getafe,Celta Vigo,6.5,89,,,0.0,0,0,0.11,0.0,5,10,0,0,0,0,1,20
-Luis Vázquez,2026-02-08,Deportivo Alavés,Getafe,7.4,67,,,0.0,1,0,0.14,0.02,4,7,0,0,0,0,0,25
-Luis Vázquez,2026-02-14,Getafe,Villarreal,7.5,81,,,0.0,0,0,0.0,0.0,4,9,0,0,0,0,0,17
-Luis Vázquez,2026-02-22,Getafe,Sevilla,6.7,76,,,0.0,0,0,0.01,0.0,1,5,0,0,0,0,1,18
-Luis Vázquez,2026-03-02,Real Madrid,Getafe,6.2,69,,,0.0,0,0,0.0,0.03,9,12,0,0,1,0,6,23
-Luis Vázquez,2026-03-08,Getafe,Real Betis,6.0,85,,,0.0,0,0,0.02,0.05,11,13,0,0,0,0,1,27
-Luis Vázquez,2026-03-14,Atlético Madrid,Getafe,6.6,74,,,0.0,0,0,0.11,0.01,7,16,0,0,1,0,3,34
-Luis Vázquez,2026-03-21,Espanyol,Getafe,6.0,90,,,0.0,0,0,0.0,0.0,9,20,0,0,1,0,1,37
-Luis Vázquez,2026-04-05,Getafe,Athletic Club,7.0,67,,,0.0,1,0,0.59,0.0,5,10,0,0,1,0,0,18
-Luis Vázquez,2026-04-13,Levante UD,Getafe,6.0,55,,,0.0,0,0,0.0,0.02,9,13,1,0,0,0,2,19
-Luis Vázquez,2026-04-22,Real Sociedad,Getafe,6.3,87,,,0.0,0,0,0.0,0.02,14,22,0,0,0,0,4,34
-Luis Vázquez,2026-04-25,Getafe,FC Barcelona,6.3,45,,,0.0,0,0,0.0,0.0,6,10,0,0,0,0,1,12
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Luis Vázquez,2026-01-18,KAA Gent,RSC Anderlecht,6.3,24,2566.0,5.0,106.92,0,0,0.01,0.0,5,7,0,0,0,0,0,11,0,1.95
+Luis Vázquez,2026-01-26,Girona FC,Getafe,7.3,86,9210.0,17.0,107.09,1,0,0.19,0.1,14,18,1,0,0,0,2,37,0,1.85
+Luis Vázquez,2026-02-01,Getafe,Celta Vigo,6.5,89,9442.0,17.0,106.09,0,0,0.11,0.0,5,10,0,0,0,0,1,20,0,1.8
+Luis Vázquez,2026-02-08,Deportivo Alavés,Getafe,7.4,67,7140.0,13.0,106.57,1,0,0.14,0.02,4,7,0,0,0,0,0,25,0,1.82
+Luis Vázquez,2026-02-14,Getafe,Villarreal,7.5,81,8576.0,16.0,105.88,0,0,0.0,0.0,4,9,0,0,0,0,0,17,0,1.87
+Luis Vázquez,2026-02-22,Getafe,Sevilla,6.7,76,8068.0,15.0,106.16,0,0,0.01,0.0,1,5,0,0,0,0,1,18,0,1.86
+Luis Vázquez,2026-03-02,Real Madrid,Getafe,6.2,69,7417.0,15.0,107.49,0,0,0.0,0.03,9,12,0,0,1,0,6,23,0,2.02
+Luis Vázquez,2026-03-08,Getafe,Real Betis,6.0,85,9051.0,16.0,106.48,0,0,0.02,0.05,11,13,0,0,0,0,1,27,0,1.77
+Luis Vázquez,2026-03-14,Atlético Madrid,Getafe,6.6,74,7950.0,16.0,107.43,0,0,0.11,0.01,7,16,0,0,1,0,3,34,0,2.01
+Luis Vázquez,2026-03-21,Espanyol,Getafe,6.0,90,9618.0,19.0,106.87,0,0,0.0,0.0,9,20,0,0,1,0,1,37,0,1.98
+Luis Vázquez,2026-04-05,Getafe,Athletic Club,7.0,67,7111.0,14.0,106.13,1,0,0.59,0.0,5,10,0,0,1,0,0,18,0,1.97
+Luis Vázquez,2026-04-13,Levante UD,Getafe,6.0,55,5880.0,11.0,106.91,0,0,0.0,0.02,9,13,1,0,0,0,2,19,0,1.87
+Luis Vázquez,2026-04-22,Real Sociedad,Getafe,6.3,87,9328.0,17.0,107.22,0,0,0.0,0.02,14,22,0,0,0,0,4,34,0,1.82
+Luis Vázquez,2026-04-25,Getafe,FC Barcelona,6.3,45,4788.0,9.0,106.4,0,0,0.0,0.0,6,10,0,0,0,0,1,12,0,1.88

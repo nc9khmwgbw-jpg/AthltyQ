@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jan Oblak,2026-02-05,Real Betis,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jan Oblak,2026-02-08,Atlético Madrid,Real Betis,7.0,90,,,0.0,0,0,0.0,0.0,14,14,0,0,0,0,11,25
-Jan Oblak,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jan Oblak,2026-02-15,Rayo Vallecano,Atlético Madrid,7.3,90,,,0.0,0,0,0.0,0.0,24,28,0,0,0,0,14,45
-Jan Oblak,2026-02-18,Club Brugge KV,Atlético Madrid,9.0,90,,,0.0,0,0,0.0,0.01,17,28,1,0,0,0,9,43
-Jan Oblak,2026-02-21,Atlético Madrid,Espanyol,5.9,90,,,0.0,0,0,0.0,0.0,17,24,0,0,0,0,3,27
-Jan Oblak,2026-02-24,Atlético Madrid,Club Brugge KV,8.4,90,,,0.0,0,0,0.0,0.01,16,28,1,0,0,0,15,47
-Jan Oblak,2026-02-28,Real Oviedo,Atlético Madrid,9.0,90,,,0.0,0,0,0.0,0.0,30,39,0,0,0,0,12,57
-Jan Oblak,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jan Oblak,2026-03-07,Atlético Madrid,Real Sociedad,5.6,90,,,0.0,0,0,0.0,0.0,15,27,0,0,0,0,5,33
-Jan Oblak,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.0,90,,,0.0,0,0,0.0,0.0,22,35,0,0,0,0,8,43
-Jan Oblak,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jan Oblak,2026-04-18,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jan Oblak,2026-04-22,Elche,Atlético Madrid,6.0,90,,,0.0,0,0,0.0,0.0,14,34,0,0,0,0,10,47
-Jan Oblak,2026-04-25,Atlético Madrid,Athletic Club,6.6,90,,,0.0,0,0,0.0,0.0,19,23,0,0,0,0,7,31
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jan Oblak,2026-02-05,Real Betis,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jan Oblak,2026-02-08,Atlético Madrid,Real Betis,7.0,90,9692.0,17.0,107.69,0,0,0.0,0.0,14,14,0,0,0,0,11,25,0,1.75
+Jan Oblak,2026-02-12,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jan Oblak,2026-02-15,Rayo Vallecano,Atlético Madrid,7.3,90,9814.0,17.0,109.04,0,0,0.0,0.0,24,28,0,0,0,0,14,45,0,1.73
+Jan Oblak,2026-02-18,Club Brugge KV,Atlético Madrid,9.0,90,9743.0,17.0,108.26,0,0,0.0,0.01,17,28,1,0,0,0,9,43,0,1.74
+Jan Oblak,2026-02-21,Atlético Madrid,Espanyol,5.9,90,9601.0,17.0,106.68,0,0,0.0,0.0,17,24,0,0,0,0,3,27,0,1.77
+Jan Oblak,2026-02-24,Atlético Madrid,Club Brugge KV,8.4,90,9835.0,17.0,109.28,0,0,0.0,0.01,16,28,1,0,0,0,15,47,0,1.73
+Jan Oblak,2026-02-28,Real Oviedo,Atlético Madrid,9.0,90,9839.0,17.0,109.32,0,0,0.0,0.0,30,39,0,0,0,0,12,57,0,1.73
+Jan Oblak,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jan Oblak,2026-03-07,Atlético Madrid,Real Sociedad,5.6,90,9651.0,17.0,107.23,0,0,0.0,0.0,15,27,0,0,0,0,5,33,0,1.76
+Jan Oblak,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.0,90,9731.0,17.0,108.12,0,0,0.0,0.0,22,35,0,0,0,0,8,43,0,1.75
+Jan Oblak,2026-04-14,Atlético Madrid,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jan Oblak,2026-04-18,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jan Oblak,2026-04-22,Elche,Atlético Madrid,6.0,90,9772.0,17.0,108.58,0,0,0.0,0.0,14,34,0,0,0,0,10,47,0,1.74
+Jan Oblak,2026-04-25,Atlético Madrid,Athletic Club,6.6,90,9668.0,17.0,107.42,0,0,0.0,0.0,19,23,0,0,0,0,7,31,0,1.76

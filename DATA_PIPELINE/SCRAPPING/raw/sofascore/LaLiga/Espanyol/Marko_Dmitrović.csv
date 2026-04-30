@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Marko Dmitrović,2026-01-11,Levante UD,Espanyol,6.2,90,,,0.0,0,0,0.0,0.0,13,18,0,0,0,0,2,21
-Marko Dmitrović,2026-01-16,Espanyol,Girona FC,6.9,90,,,0.0,0,0,0.0,0.0,19,24,0,0,0,0,9,31
-Marko Dmitrović,2026-01-24,Valencia,Espanyol,6.0,90,,,0.0,0,0,0.0,0.0,13,23,0,0,0,0,11,34
-Marko Dmitrović,2026-01-30,Espanyol,Deportivo Alavés,6.9,90,,,0.0,0,0,0.0,0.01,23,27,0,0,0,0,14,40
-Marko Dmitrović,2026-02-09,Villarreal,Espanyol,5.5,90,,,0.0,0,0,0.0,0.0,11,21,0,0,0,0,3,23
-Marko Dmitrović,2026-02-14,Espanyol,Celta Vigo,6.5,90,,,0.0,0,0,0.0,0.0,17,31,0,0,0,0,7,40
-Marko Dmitrović,2026-02-21,Atlético Madrid,Espanyol,7.4,90,,,0.0,0,0,0.0,0.0,13,28,0,0,0,0,13,40
-Marko Dmitrović,2026-03-01,Elche,Espanyol,7.2,90,,,0.0,0,0,0.0,0.01,14,34,0,0,0,0,16,49
-Marko Dmitrović,2026-03-09,Espanyol,Real Oviedo,6.6,90,,,0.0,0,0,0.0,0.0,20,29,0,0,0,0,7,37
-Marko Dmitrović,2026-03-15,Mallorca,Espanyol,9.4,90,,,0.0,0,0,0.0,0.0,11,29,0,0,0,0,15,51
-Marko Dmitrović,2026-03-21,Espanyol,Getafe,6.2,90,,,0.0,0,0,0.0,0.0,17,21,0,0,0,0,3,25
-Marko Dmitrović,2026-04-04,Real Betis,Espanyol,8.3,90,,,0.0,0,0,0.0,0.0,12,35,0,0,0,0,13,50
-Marko Dmitrović,2026-04-11,FC Barcelona,Espanyol,6.8,90,,,0.0,0,0,0.0,0.0,7,18,0,0,0,0,12,38
-Marko Dmitrović,2026-04-23,Rayo Vallecano,Espanyol,6.9,90,,,0.0,0,0,0.0,0.0,14,23,0,0,0,0,6,32
-Marko Dmitrović,2026-04-27,Espanyol,Levante UD,8.6,90,,,0.0,0,0,0.0,0.23,20,31,0,0,0,0,9,45
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Marko Dmitrović,2026-01-11,Levante UD,Espanyol,6.2,90,9563.0,17.0,106.26,0,0,0.0,0.0,13,18,0,0,0,0,2,21,0,1.78
+Marko Dmitrović,2026-01-16,Espanyol,Girona FC,6.9,90,9693.0,17.0,107.7,0,0,0.0,0.0,19,24,0,0,0,0,9,31,0,1.75
+Marko Dmitrović,2026-01-24,Valencia,Espanyol,6.0,90,9730.0,17.0,108.11,0,0,0.0,0.0,13,23,0,0,0,0,11,34,0,1.75
+Marko Dmitrović,2026-01-30,Espanyol,Deportivo Alavés,6.9,90,9793.0,17.0,108.81,0,0,0.0,0.01,23,27,0,0,0,0,14,40,0,1.74
+Marko Dmitrović,2026-02-09,Villarreal,Espanyol,5.5,90,9584.0,17.0,106.49,0,0,0.0,0.0,11,21,0,0,0,0,3,23,0,1.77
+Marko Dmitrović,2026-02-14,Espanyol,Celta Vigo,6.5,90,9706.0,17.0,107.84,0,0,0.0,0.0,17,31,0,0,0,0,7,40,0,1.75
+Marko Dmitrović,2026-02-21,Atlético Madrid,Espanyol,7.4,90,9780.0,17.0,108.67,0,0,0.0,0.0,13,28,0,0,0,0,13,40,0,1.74
+Marko Dmitrović,2026-03-01,Elche,Espanyol,7.2,90,9856.0,17.0,109.51,0,0,0.0,0.01,14,34,0,0,0,0,16,49,0,1.72
+Marko Dmitrović,2026-03-09,Espanyol,Real Oviedo,6.6,90,9693.0,17.0,107.7,0,0,0.0,0.0,20,29,0,0,0,0,7,37,0,1.75
+Marko Dmitrović,2026-03-15,Mallorca,Espanyol,9.4,90,9852.0,17.0,109.47,0,0,0.0,0.0,11,29,0,0,0,0,15,51,0,1.73
+Marko Dmitrović,2026-03-21,Espanyol,Getafe,6.2,90,9592.0,17.0,106.58,0,0,0.0,0.0,17,21,0,0,0,0,3,25,0,1.77
+Marko Dmitrović,2026-04-04,Real Betis,Espanyol,8.3,90,9822.0,17.0,109.13,0,0,0.0,0.0,12,35,0,0,0,0,13,50,0,1.73
+Marko Dmitrović,2026-04-11,FC Barcelona,Espanyol,6.8,90,9760.0,17.0,108.44,0,0,0.0,0.0,7,18,0,0,0,0,12,38,0,1.74
+Marko Dmitrović,2026-04-23,Rayo Vallecano,Espanyol,6.9,90,9659.0,17.0,107.32,0,0,0.0,0.0,14,23,0,0,0,0,6,32,0,1.76
+Marko Dmitrović,2026-04-27,Espanyol,Levante UD,8.6,90,9752.0,17.0,108.36,0,0,0.0,0.23,20,31,0,0,0,0,9,45,0,1.74

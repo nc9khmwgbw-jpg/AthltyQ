@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ilyas Chaira,2026-01-10,Real Oviedo,Real Betis,7.5,85,,,0.0,1,0,0.18,0.02,19,21,0,0,0,0,8,51
-Ilyas Chaira,2026-01-17,Osasuna,Real Oviedo,5.5,90,,,0.0,0,0,0.1,0.02,17,26,0,0,0,0,5,58
-Ilyas Chaira,2026-01-25,FC Barcelona,Real Oviedo,6.1,90,,,0.0,0,0,0.11,0.01,14,18,0,0,1,0,4,46
-Ilyas Chaira,2026-01-31,Real Oviedo,Girona FC,7.1,90,,,0.0,1,0,1.23,0.01,12,20,0,0,0,0,0,42
-Ilyas Chaira,2026-02-15,Real Oviedo,Athletic Club,7.5,90,,,0.0,1,0,0.17,0.01,15,22,1,0,0,0,2,47
-Ilyas Chaira,2026-02-21,Real Sociedad,Real Oviedo,5.8,90,,,0.0,0,0,0.42,0.01,17,19,0,0,0,0,1,42
-Ilyas Chaira,2026-02-28,Real Oviedo,Atlético Madrid,6.9,72,,,0.0,0,0,0.23,0.18,16,19,3,0,0,0,6,35
-Ilyas Chaira,2026-03-04,Rayo Vallecano,Real Oviedo,6.4,45,,,0.0,0,0,0.03,0.0,8,9,0,0,0,0,3,20
-Ilyas Chaira,2026-03-09,Espanyol,Real Oviedo,6.5,34,,,0.0,0,0,0.19,0.0,12,12,0,0,0,0,2,21
-Ilyas Chaira,2026-03-14,Real Oviedo,Valencia,6.7,27,,,0.0,0,0,0.09,0.01,5,5,0,0,0,0,0,13
-Ilyas Chaira,2026-03-21,Levante UD,Real Oviedo,6.2,90,,,0.0,1,0,0.34,0.01,18,23,0,0,0,0,1,47
-Ilyas Chaira,2026-04-05,Real Oviedo,Sevilla,6.3,90,,,0.0,0,0,0.09,0.02,15,20,0,0,0,0,2,40
-Ilyas Chaira,2026-04-12,Celta Vigo,Real Oviedo,7.1,83,,,0.0,0,0,0.07,0.07,20,27,1,0,0,0,8,40
-Ilyas Chaira,2026-04-23,Real Oviedo,Villarreal,7.7,89,,,0.0,1,0,0.12,0.06,25,25,2,0,0,0,4,45
-Ilyas Chaira,2026-04-26,Real Oviedo,Elche,7.7,90,,,0.0,1,0,0.81,0.04,18,25,1,0,0,0,3,55
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ilyas Chaira,2026-01-10,Real Oviedo,Real Betis,7.5,85,9239.0,16.0,108.69,1,0,0.18,0.02,19,21,0,0,0,0,8,51,0,1.73
+Ilyas Chaira,2026-01-17,Osasuna,Real Oviedo,5.5,90,9756.0,17.0,108.4,0,0,0.1,0.02,17,26,0,0,0,0,5,58,0,1.74
+Ilyas Chaira,2026-01-25,FC Barcelona,Real Oviedo,6.1,90,9693.0,19.0,107.7,0,0,0.11,0.01,14,18,0,0,1,0,4,46,0,1.96
+Ilyas Chaira,2026-01-31,Real Oviedo,Girona FC,7.1,90,9626.0,17.0,106.96,1,0,1.23,0.01,12,20,0,0,0,0,0,42,0,1.77
+Ilyas Chaira,2026-02-15,Real Oviedo,Athletic Club,7.5,90,9672.0,17.0,107.47,1,0,0.17,0.01,15,22,1,0,0,0,2,47,0,1.76
+Ilyas Chaira,2026-02-21,Real Sociedad,Real Oviedo,5.8,90,9639.0,17.0,107.1,0,0,0.42,0.01,17,19,0,0,0,0,1,42,0,1.76
+Ilyas Chaira,2026-02-28,Real Oviedo,Atlético Madrid,6.9,72,7782.0,14.0,108.08,0,0,0.23,0.18,16,19,3,0,0,0,6,35,0,1.8
+Ilyas Chaira,2026-03-04,Rayo Vallecano,Real Oviedo,6.4,45,4846.0,9.0,107.69,0,0,0.03,0.0,8,9,0,0,0,0,3,20,0,1.86
+Ilyas Chaira,2026-03-09,Espanyol,Real Oviedo,6.5,34,3683.0,7.0,108.32,0,0,0.19,0.0,12,12,0,0,0,0,2,21,0,1.9
+Ilyas Chaira,2026-03-14,Real Oviedo,Valencia,6.7,27,2890.0,5.0,107.04,0,0,0.09,0.01,5,5,0,0,0,0,0,13,0,1.73
+Ilyas Chaira,2026-03-21,Levante UD,Real Oviedo,6.2,90,9660.0,17.0,107.33,1,0,0.34,0.01,18,23,0,0,0,0,1,47,0,1.76
+Ilyas Chaira,2026-04-05,Real Oviedo,Sevilla,6.3,90,9643.0,17.0,107.14,0,0,0.09,0.02,15,20,0,0,0,0,2,40,0,1.76
+Ilyas Chaira,2026-04-12,Celta Vigo,Real Oviedo,7.1,83,8983.0,16.0,108.23,0,0,0.07,0.07,20,27,1,0,0,0,8,40,0,1.78
+Ilyas Chaira,2026-04-23,Real Oviedo,Villarreal,7.7,89,9584.0,17.0,107.69,1,0,0.12,0.06,25,25,2,0,0,0,4,45,0,1.77
+Ilyas Chaira,2026-04-26,Real Oviedo,Elche,7.7,90,9718.0,17.0,107.98,1,0,0.81,0.04,18,25,1,0,0,0,3,55,0,1.75

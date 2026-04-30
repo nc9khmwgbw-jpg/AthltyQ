@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Iñigo Arguibide,2026-01-31,Osasuna,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-02-06,Celta Vigo,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-02-08,Osasuna B,CP Cacereño,6.7,82,,,0.0,0,0,0.06,0.0,15,20,0,0,1,0,12,32
-Iñigo Arguibide,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-02-15,Osasuna B,Unionistas de Salamanca CF,6.9,90,,,0.0,0,0,0.0,0.03,25,33,1,0,0,0,12,52
-Iñigo Arguibide,2026-02-21,Osasuna,Real Madrid,6.6,13,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1
-Iñigo Arguibide,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-03-15,Real Sociedad,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-03-21,Osasuna,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-03-29,Osasuna B,Guadalajara,6.8,75,,,0.0,0,0,0.0,0.0,19,23,0,0,0,0,9,35
-Iñigo Arguibide,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-04-21,Athletic Club,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Iñigo Arguibide,2026-04-26,Osasuna,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Iñigo Arguibide,2026-01-31,Osasuna,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-02-06,Celta Vigo,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-02-08,Osasuna B,CP Cacereño,6.7,82,8894.0,17.0,108.46,0,0,0.06,0.0,15,20,0,0,1,0,12,32,0,1.91
+Iñigo Arguibide,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-02-15,Osasuna B,Unionistas de Salamanca CF,6.9,90,9818.0,17.0,109.09,0,0,0.0,0.03,25,33,1,0,0,0,12,52,0,1.73
+Iñigo Arguibide,2026-02-21,Osasuna,Real Madrid,6.6,13,1369.0,2.0,105.31,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,1.46
+Iñigo Arguibide,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-03-15,Real Sociedad,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-03-21,Osasuna,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-03-29,Osasuna B,Guadalajara,6.8,75,8134.0,14.0,108.45,0,0,0.0,0.0,19,23,0,0,0,0,9,35,0,1.72
+Iñigo Arguibide,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-04-21,Athletic Club,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Iñigo Arguibide,2026-04-26,Osasuna,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

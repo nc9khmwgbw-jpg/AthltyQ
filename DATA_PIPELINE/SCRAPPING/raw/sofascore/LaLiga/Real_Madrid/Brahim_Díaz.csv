@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Brahim Díaz,2026-02-25,Real Madrid,Benfica,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brahim Díaz,2026-03-02,Real Madrid,Getafe,6.8,11,,,0.0,0,0,0.0,0.01,3,3,0,0,0,0,0,4
-Brahim Díaz,2026-03-06,Celta Vigo,Real Madrid,6.1,77,,,0.0,0,0,0.0,0.06,46,49,1,0,0,0,3,58
-Brahim Díaz,2026-03-11,Real Madrid,Manchester City,7.4,76,,,0.0,0,0,0.19,0.4,14,16,1,0,0,0,1,33
-Brahim Díaz,2026-03-14,Real Madrid,Elche,7.5,63,,,0.0,0,0,0.26,0.09,18,20,0,0,0,0,4,38
-Brahim Díaz,2026-03-17,Manchester City,Real Madrid,6.7,69,,,0.0,0,0,0.06,0.15,28,29,2,0,0,0,3,37
-Brahim Díaz,2026-03-22,Real Madrid,Atlético Madrid,7.0,74,,,0.0,0,0,0.0,0.05,32,34,2,0,0,0,2,46
-Brahim Díaz,2026-03-27,Morocco,Ecuador,6.2,89,,,0.0,0,0,0.0,0.0,19,21,0,0,0,0,2,36
-Brahim Díaz,2026-03-31,Morocco,Paraguay,6.5,24,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4
-Brahim Díaz,2026-04-04,Mallorca,Real Madrid,6.6,76,,,0.0,0,0,0.0,0.03,22,24,0,0,0,0,1,30
-Brahim Díaz,2026-04-07,Real Madrid,FC Bayern München,6.8,19,,,0.0,0,0,0.03,0.0,10,11,0,0,0,0,2,17
-Brahim Díaz,2026-04-10,Real Madrid,Girona FC,7.4,84,,,0.0,0,0,0.09,0.37,31,38,7,0,0,0,2,56
-Brahim Díaz,2026-04-15,FC Bayern München,Real Madrid,6.9,62,,,0.0,0,0,0.0,0.02,10,11,2,0,0,0,4,23
-Brahim Díaz,2026-04-21,Real Madrid,Deportivo Alavés,6.0,32,,,0.0,0,0,0.05,0.04,15,15,1,0,0,0,1,25
-Brahim Díaz,2026-04-24,Real Betis,Real Madrid,6.3,82,,,0.0,0,0,0.0,0.12,22,27,1,0,0,0,2,36
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Brahim Díaz,2026-02-25,Real Madrid,Benfica,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Brahim Díaz,2026-03-02,Real Madrid,Getafe,6.8,11,1172.0,2.0,106.55,0,0,0.0,0.01,3,3,0,0,0,0,0,4,0,1.71
+Brahim Díaz,2026-03-06,Celta Vigo,Real Madrid,6.1,77,8366.0,15.0,108.65,0,0,0.0,0.06,46,49,1,0,0,0,3,58,0,1.79
+Brahim Díaz,2026-03-11,Real Madrid,Manchester City,7.4,76,8131.0,15.0,106.99,0,0,0.19,0.4,14,16,1,0,0,0,1,33,0,1.84
+Brahim Díaz,2026-03-14,Real Madrid,Elche,7.5,63,6825.0,12.0,108.33,0,0,0.26,0.09,18,20,0,0,0,0,4,38,0,1.76
+Brahim Díaz,2026-03-17,Manchester City,Real Madrid,6.7,69,7438.0,13.0,107.8,0,0,0.06,0.15,28,29,2,0,0,0,3,37,0,1.75
+Brahim Díaz,2026-03-22,Real Madrid,Atlético Madrid,7.0,74,7988.0,14.0,107.95,0,0,0.0,0.05,32,34,2,0,0,0,2,46,0,1.75
+Brahim Díaz,2026-03-27,Morocco,Ecuador,6.2,89,9521.0,17.0,106.98,0,0,0.0,0.0,19,21,0,0,0,0,2,36,0,1.79
+Brahim Díaz,2026-03-31,Morocco,Paraguay,6.5,24,2537.0,5.0,105.71,0,0,0.0,0.0,2,2,0,0,0,0,0,4,0,1.97
+Brahim Díaz,2026-04-04,Mallorca,Real Madrid,6.6,76,8118.0,15.0,106.82,0,0,0.0,0.03,22,24,0,0,0,0,1,30,0,1.85
+Brahim Díaz,2026-04-07,Real Madrid,FC Bayern München,6.8,19,2091.0,4.0,110.05,0,0,0.03,0.0,10,11,0,0,0,0,2,17,0,1.91
+Brahim Díaz,2026-04-10,Real Madrid,Girona FC,7.4,84,9080.0,16.0,108.1,0,0,0.09,0.37,31,38,7,0,0,0,2,56,0,1.76
+Brahim Díaz,2026-04-15,FC Bayern München,Real Madrid,6.9,62,6657.0,12.0,107.37,0,0,0.0,0.02,10,11,2,0,0,0,4,23,0,1.8
+Brahim Díaz,2026-04-21,Real Madrid,Deportivo Alavés,6.0,32,3478.0,6.0,108.69,0,0,0.05,0.04,15,15,1,0,0,0,1,25,0,1.73
+Brahim Díaz,2026-04-24,Real Betis,Real Madrid,6.3,82,8786.0,16.0,107.15,0,0,0.0,0.12,22,27,1,0,0,0,2,36,0,1.82

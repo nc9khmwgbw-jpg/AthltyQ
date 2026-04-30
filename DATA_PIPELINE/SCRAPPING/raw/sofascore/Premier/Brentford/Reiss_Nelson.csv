@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Reiss Nelson,2025-12-27,Brentford,Bournemouth,6.3,8,,,0.0,0,0,0.11,0.0,0,0,0,0,0,0,1,5
-Reiss Nelson,2026-01-01,Brentford,Tottenham Hotspur,6.5,10,,,0.0,0,0,0.0,0.01,7,7,0,0,0,0,2,10
-Reiss Nelson,2026-01-04,Everton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Reiss Nelson,2026-01-07,Brentford,Sunderland,6.5,8,,,0.0,0,0,0.44,0.02,5,5,0,0,0,0,3,7
-Reiss Nelson,2026-01-10,Sheffield Wednesday,Brentford,6.5,70,,,0.0,0,0,0.0,0.0,27,28,2,0,0,0,5,40
-Reiss Nelson,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Reiss Nelson,2026-01-25,Brentford,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Reiss Nelson,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Reiss Nelson,2026-02-16,Macclesfield FC,Brentford,6.7,61,,,0.0,0,0,0.0,0.0,22,24,0,0,0,0,5,32
-Reiss Nelson,2026-02-21,Brentford,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Reiss Nelson,2026-03-16,Brentford,Wolverhampton,6.4,12,,,0.0,0,0,0.07,0.0,0,2,0,0,0,0,1,4
-Reiss Nelson,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Reiss Nelson,2026-04-11,Brentford,Everton,6.7,45,,,0.0,0,0,0.03,0.02,22,25,1,0,0,0,3,36
-Reiss Nelson,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Reiss Nelson,2026-04-27,Manchester United,Brentford,6.6,17,,,0.0,0,0,0.0,0.02,16,16,1,0,0,0,0,22
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Reiss Nelson,2025-12-27,Brentford,Bournemouth,6.3,8,874.0,2.0,109.25,0,0,0.11,0.0,0,0,0,0,0,0,1,5,0,2.29
+Reiss Nelson,2026-01-01,Brentford,Tottenham Hotspur,6.5,10,1117.0,2.0,111.7,0,0,0.0,0.01,7,7,0,0,0,0,2,10,0,1.79
+Reiss Nelson,2026-01-04,Everton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Reiss Nelson,2026-01-07,Brentford,Sunderland,6.5,8,907.0,2.0,113.38,0,0,0.44,0.02,5,5,0,0,0,0,3,7,0,2.21
+Reiss Nelson,2026-01-10,Sheffield Wednesday,Brentford,6.5,70,7580.0,13.0,108.29,0,0,0.0,0.0,27,28,2,0,0,0,5,40,0,1.72
+Reiss Nelson,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Reiss Nelson,2026-01-25,Brentford,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Reiss Nelson,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Reiss Nelson,2026-02-16,Macclesfield FC,Brentford,6.7,61,6602.0,12.0,108.23,0,0,0.0,0.0,22,24,0,0,0,0,5,32,0,1.82
+Reiss Nelson,2026-02-21,Brentford,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Reiss Nelson,2026-03-16,Brentford,Wolverhampton,6.4,12,1289.0,2.0,107.42,0,0,0.07,0.0,0,2,0,0,0,0,1,4,0,1.55
+Reiss Nelson,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Reiss Nelson,2026-04-11,Brentford,Everton,6.7,45,4914.0,9.0,109.2,0,0,0.03,0.02,22,25,1,0,0,0,3,36,0,1.83
+Reiss Nelson,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Reiss Nelson,2026-04-27,Manchester United,Brentford,6.6,17,1877.0,3.0,110.41,0,0,0.0,0.02,16,16,1,0,0,0,0,22,0,1.6

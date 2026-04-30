@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Robin Le Normand,2026-02-21,Atlético Madrid,Espanyol,6.7,12,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,0,5
-Robin Le Normand,2026-02-24,Atlético Madrid,Club Brugge KV,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Robin Le Normand,2026-02-28,Real Oviedo,Atlético Madrid,7.0,90,,,0.0,0,0,0.0,0.01,65,74,0,0,0,0,5,79
-Robin Le Normand,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Robin Le Normand,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Robin Le Normand,2026-03-10,Atlético Madrid,Tottenham Hotspur,7.3,90,,,0.0,1,0,0.24,0.01,48,50,0,0,0,0,1,61
-Robin Le Normand,2026-03-14,Atlético Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Robin Le Normand,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.5,90,,,0.0,0,0,0.0,0.01,24,29,1,0,3,0,0,53
-Robin Le Normand,2026-03-22,Real Madrid,Atlético Madrid,6.9,45,,,0.0,0,0,0.0,0.0,18,19,0,0,0,0,0,23
-Robin Le Normand,2026-04-04,Atlético Madrid,FC Barcelona,6.8,90,,,0.0,0,0,0.0,0.01,30,32,0,0,0,0,6,41
-Robin Le Normand,2026-04-08,FC Barcelona,Atlético Madrid,7.3,90,,,0.0,0,0,0.0,0.0,50,52,0,0,1,0,3,63
-Robin Le Normand,2026-04-14,Atlético Madrid,FC Barcelona,6.1,90,,,0.0,0,0,0.47,0.05,18,23,0,0,3,0,5,36
-Robin Le Normand,2026-04-18,Atlético Madrid,Real Sociedad,6.5,120,,,0.0,0,0,0.0,0.0,62,77,0,0,1,0,6,85
-Robin Le Normand,2026-04-22,Elche,Atlético Madrid,6.4,45,,,0.0,0,0,0.0,0.0,10,17,1,0,1,0,1,22
-Robin Le Normand,2026-04-25,Atlético Madrid,Athletic Club,6.5,18,,,0.0,0,0,0.0,0.0,8,10,0,0,0,0,0,15
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Robin Le Normand,2026-02-21,Atlético Madrid,Espanyol,6.7,12,1281.0,2.0,106.75,0,0,0.0,0.0,4,5,0,0,0,0,0,5,0,1.56
+Robin Le Normand,2026-02-24,Atlético Madrid,Club Brugge KV,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Robin Le Normand,2026-02-28,Real Oviedo,Atlético Madrid,7.0,90,9844.0,17.0,109.38,0,0,0.0,0.01,65,74,0,0,0,0,5,79,0,1.73
+Robin Le Normand,2026-03-03,FC Barcelona,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Robin Le Normand,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Robin Le Normand,2026-03-10,Atlético Madrid,Tottenham Hotspur,7.3,90,9719.0,17.0,107.99,1,0,0.24,0.01,48,50,0,0,0,0,1,61,0,1.75
+Robin Le Normand,2026-03-14,Atlético Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Robin Le Normand,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.5,90,9673.0,22.0,107.48,0,0,0.0,0.01,24,29,1,0,3,0,0,53,0,2.27
+Robin Le Normand,2026-03-22,Real Madrid,Atlético Madrid,6.9,45,4822.0,9.0,107.16,0,0,0.0,0.0,18,19,0,0,0,0,0,23,0,1.87
+Robin Le Normand,2026-04-04,Atlético Madrid,FC Barcelona,6.8,90,9697.0,17.0,107.74,0,0,0.0,0.01,30,32,0,0,0,0,6,41,0,1.75
+Robin Le Normand,2026-04-08,FC Barcelona,Atlético Madrid,7.3,90,9752.0,19.0,108.36,0,0,0.0,0.0,50,52,0,0,1,0,3,63,0,1.95
+Robin Le Normand,2026-04-14,Atlético Madrid,FC Barcelona,6.1,90,9664.0,22.0,107.38,0,0,0.47,0.05,18,23,0,0,3,0,5,36,0,2.28
+Robin Le Normand,2026-04-18,Atlético Madrid,Real Sociedad,6.5,120,13032.0,24.0,108.6,0,0,0.0,0.0,62,77,0,0,1,0,6,85,0,1.84
+Robin Le Normand,2026-04-22,Elche,Atlético Madrid,6.4,45,4830.0,10.0,107.33,0,0,0.0,0.0,10,17,1,0,1,0,1,22,0,2.07
+Robin Le Normand,2026-04-25,Atlético Madrid,Athletic Club,6.5,18,1953.0,3.0,108.5,0,0,0.0,0.0,8,10,0,0,0,0,0,15,0,1.54

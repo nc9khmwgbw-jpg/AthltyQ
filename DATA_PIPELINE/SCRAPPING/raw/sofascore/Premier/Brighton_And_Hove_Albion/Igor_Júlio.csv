@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Igor Júlio,2025-10-04,Arsenal,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2025-10-24,Leeds United,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2025-11-02,West Ham United,Newcastle United,6.6,15,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1
-Igor Júlio,2025-11-08,West Ham United,Burnley,6.2,16,,,0.0,0,0,0.0,0.0,7,7,1,0,0,0,0,9
-Igor Júlio,2025-11-22,Bournemouth,West Ham United,6.3,90,,,0.0,0,0,0.0,0.0,9,14,0,0,1,0,3,33
-Igor Júlio,2025-11-30,West Ham United,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2025-12-14,West Ham United,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2025-12-20,Manchester City,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2026-01-03,Wolverhampton,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2026-01-17,Tottenham Hotspur,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2026-01-31,Brighton & Hove Albion,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2026-02-08,Brighton & Hove Albion,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2026-04-11,Burnley,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Igor Júlio,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Igor Júlio,2025-10-04,Arsenal,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2025-10-24,Leeds United,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2025-11-02,West Ham United,Newcastle United,6.6,15,1579.0,3.0,105.27,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,1.9
+Igor Júlio,2025-11-08,West Ham United,Burnley,6.2,16,1718.0,3.0,107.38,0,0,0.0,0.0,7,7,1,0,0,0,0,9,0,1.75
+Igor Júlio,2025-11-22,Bournemouth,West Ham United,6.3,90,9626.0,19.0,106.96,0,0,0.0,0.0,9,14,0,0,1,0,3,33,0,1.97
+Igor Júlio,2025-11-30,West Ham United,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2025-12-14,West Ham United,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2025-12-20,Manchester City,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2026-01-03,Wolverhampton,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2026-01-17,Tottenham Hotspur,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2026-01-31,Brighton & Hove Albion,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2026-02-08,Brighton & Hove Albion,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2026-04-11,Burnley,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Igor Júlio,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

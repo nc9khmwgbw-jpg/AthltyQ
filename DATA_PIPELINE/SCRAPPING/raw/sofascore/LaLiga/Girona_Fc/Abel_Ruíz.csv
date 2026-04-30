@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Abel Ruíz,2025-10-31,Getafe,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Ruíz,2025-11-08,Girona FC,Deportivo Alavés,6.6,19,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,0,8
-Abel Ruíz,2025-11-23,Real Betis,Girona FC,6.4,8,,,0.0,0,0,0.0,0.19,2,4,0,0,0,0,0,6
-Abel Ruíz,2025-11-30,Girona FC,Real Madrid,6.3,12,,,0.0,0,0,0.0,0.0,0,0,0,0,1,0,0,3
-Abel Ruíz,2025-12-03,Ourense CF,Girona FC,7.3,34,,,0.0,0,0,0.0,0.0,4,4,1,0,0,0,0,5
-Abel Ruíz,2026-01-31,Real Oviedo,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Ruíz,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Ruíz,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Ruíz,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Ruíz,2026-03-01,Girona FC,Celta Vigo,6.4,17,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4
-Abel Ruíz,2026-03-07,Levante UD,Girona FC,6.3,18,,,0.0,0,0,0.09,0.01,4,4,2,0,0,0,1,10
-Abel Ruíz,2026-03-14,Girona FC,Athletic Club,6.6,11,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,1,1
-Abel Ruíz,2026-03-21,Osasuna,Girona FC,6.3,11,,,0.0,0,0,0.11,0.0,0,1,0,0,0,0,0,4
-Abel Ruíz,2026-04-06,Girona FC,Villarreal,6.6,78,,,0.0,0,0,0.06,0.09,13,16,0,0,0,0,3,25
-Abel Ruíz,2026-04-10,Real Madrid,Girona FC,6.4,20,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abel Ruíz,2025-10-31,Getafe,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Ruíz,2025-11-08,Girona FC,Deportivo Alavés,6.6,19,2029.0,4.0,106.79,0,0,0.0,0.0,4,6,0,0,0,0,0,8,0,1.97
+Abel Ruíz,2025-11-23,Real Betis,Girona FC,6.4,8,865.0,2.0,108.12,0,0,0.0,0.19,2,4,0,0,0,0,0,6,0,2.31
+Abel Ruíz,2025-11-30,Girona FC,Real Madrid,6.3,12,1273.0,4.0,106.08,0,0,0.0,0.0,0,0,0,0,1,0,0,3,0,3.14
+Abel Ruíz,2025-12-03,Ourense CF,Girona FC,7.3,34,3591.0,7.0,105.62,0,0,0.0,0.0,4,4,1,0,0,0,0,5,0,1.95
+Abel Ruíz,2026-01-31,Real Oviedo,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Ruíz,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Ruíz,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Ruíz,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Ruíz,2026-03-01,Girona FC,Celta Vigo,6.4,17,1802.0,3.0,106.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4,0,1.66
+Abel Ruíz,2026-03-07,Levante UD,Girona FC,6.3,18,1944.0,3.0,108.0,0,0,0.09,0.01,4,4,2,0,0,0,1,10,0,1.54
+Abel Ruíz,2026-03-14,Girona FC,Athletic Club,6.6,11,1172.0,2.0,106.55,0,0,0.0,0.0,1,1,0,0,0,0,1,1,0,1.71
+Abel Ruíz,2026-03-21,Osasuna,Girona FC,6.3,11,1172.0,2.0,106.55,0,0,0.11,0.0,0,1,0,0,0,0,0,4,0,1.71
+Abel Ruíz,2026-04-06,Girona FC,Villarreal,6.6,78,8332.0,15.0,106.82,0,0,0.06,0.09,13,16,0,0,0,0,3,25,0,1.8
+Abel Ruíz,2026-04-10,Real Madrid,Girona FC,6.4,20,2113.0,4.0,105.65,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0,1.89

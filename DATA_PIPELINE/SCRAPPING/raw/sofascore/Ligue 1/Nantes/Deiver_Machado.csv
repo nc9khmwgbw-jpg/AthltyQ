@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Deiver Machado,2026-01-11,Nantes,Nice,6.9,33,,,0.0,0,0,0.0,0.0,7,8,0,0,1,0,1,18
-Deiver Machado,2026-01-18,Nantes,Paris FC,6.3,18,,,0.0,0,0,0.0,0.0,4,7,0,0,0,0,0,11
-Deiver Machado,2026-02-07,Nantes,Olympique Lyonnais,7.1,27,,,0.0,0,0,0.0,0.09,24,25,0,0,0,0,2,32
-Deiver Machado,2026-02-13,AS Monaco,Nantes,5.8,90,,,0.0,0,0,0.06,0.14,38,45,1,0,2,0,9,73
-Deiver Machado,2026-02-22,Nantes,Le Havre,7.0,45,,,0.0,0,0,0.0,0.1,6,6,1,0,0,0,0,23
-Deiver Machado,2026-03-01,Lille,Nantes,6.6,63,,,0.0,0,0,0.0,0.0,6,11,0,0,1,0,3,26
-Deiver Machado,2026-03-07,Nantes,Angers,6.1,65,,,0.0,0,0,0.0,0.0,8,9,0,0,0,0,2,25
-Deiver Machado,2026-03-22,Nantes,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Deiver Machado,2026-03-27,Colombia,Croatia,6.6,27,,,0.0,0,0,0.0,0.0,8,10,0,0,0,0,3,18
-Deiver Machado,2026-03-29,Colombia,France,6.9,27,,,0.0,0,0,0.0,0.0,9,11,0,0,0,0,1,23
-Deiver Machado,2026-04-05,Metz,Nantes,6.8,45,,,0.0,0,0,0.0,0.03,4,5,0,0,0,0,0,13
-Deiver Machado,2026-04-11,Auxerre,Nantes,7.7,90,,,0.0,0,0,0.17,0.13,24,30,1,0,0,0,9,64
-Deiver Machado,2026-04-19,Nantes,Stade Brestois,6.8,90,,,0.0,0,0,0.07,0.05,18,23,2,0,1,0,4,43
-Deiver Machado,2026-04-22,Paris Saint-Germain,Nantes,5.9,90,,,0.0,0,0,0.0,0.04,24,28,0,0,0,0,4,47
-Deiver Machado,2026-04-26,Stade Rennais,Nantes,6.5,90,,,0.0,0,0,0.07,0.06,18,24,0,0,0,0,5,48
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Deiver Machado,2026-01-11,Nantes,Nice,6.9,33,3553.0,8.0,107.67,0,0,0.0,0.0,7,8,0,0,1,0,1,18,0,2.25
+Deiver Machado,2026-01-18,Nantes,Paris FC,6.3,18,1936.0,3.0,107.56,0,0,0.0,0.0,4,7,0,0,0,0,0,11,0,1.55
+Deiver Machado,2026-02-07,Nantes,Olympique Lyonnais,7.1,27,2994.0,5.0,110.89,0,0,0.0,0.09,24,25,0,0,0,0,2,32,0,1.67
+Deiver Machado,2026-02-13,AS Monaco,Nantes,5.8,90,9869.0,20.0,109.66,0,0,0.06,0.14,38,45,1,0,2,0,9,73,0,2.03
+Deiver Machado,2026-02-22,Nantes,Le Havre,7.0,45,4822.0,9.0,107.16,0,0,0.0,0.1,6,6,1,0,0,0,0,23,0,1.87
+Deiver Machado,2026-03-01,Lille,Nantes,6.6,63,6762.0,14.0,107.33,0,0,0.0,0.0,6,11,0,0,1,0,3,26,0,2.07
+Deiver Machado,2026-03-07,Nantes,Angers,6.1,65,6955.0,12.0,107.0,0,0,0.0,0.0,8,9,0,0,0,0,2,25,0,1.73
+Deiver Machado,2026-03-22,Nantes,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Deiver Machado,2026-03-27,Colombia,Croatia,6.6,27,2948.0,5.0,109.19,0,0,0.0,0.0,8,10,0,0,0,0,3,18,0,1.7
+Deiver Machado,2026-03-29,Colombia,France,6.9,27,2944.0,5.0,109.04,0,0,0.0,0.0,9,11,0,0,0,0,1,23,0,1.7
+Deiver Machado,2026-04-05,Metz,Nantes,6.8,45,4780.0,9.0,106.22,0,0,0.0,0.03,4,5,0,0,0,0,0,13,0,1.88
+Deiver Machado,2026-04-11,Auxerre,Nantes,7.7,90,9831.0,17.0,109.23,0,0,0.17,0.13,24,30,1,0,0,0,9,64,0,1.73
+Deiver Machado,2026-04-19,Nantes,Stade Brestois,6.8,90,9681.0,19.0,107.57,0,0,0.07,0.05,18,23,2,0,1,0,4,43,0,1.96
+Deiver Machado,2026-04-22,Paris Saint-Germain,Nantes,5.9,90,9697.0,17.0,107.74,0,0,0.0,0.04,24,28,0,0,0,0,4,47,0,1.75
+Deiver Machado,2026-04-26,Stade Rennais,Nantes,6.5,90,9714.0,17.0,107.93,0,0,0.07,0.06,18,24,0,0,0,0,5,48,0,1.75

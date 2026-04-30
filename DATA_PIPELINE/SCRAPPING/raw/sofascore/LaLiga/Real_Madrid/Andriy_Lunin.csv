@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Andriy Lunin,2026-02-17,Benfica,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andriy Lunin,2026-02-21,Osasuna,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andriy Lunin,2026-02-25,Real Madrid,Benfica,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andriy Lunin,2026-03-02,Real Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andriy Lunin,2026-03-06,Celta Vigo,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andriy Lunin,2026-03-11,Real Madrid,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andriy Lunin,2026-03-14,Real Madrid,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andriy Lunin,2026-03-17,Manchester City,Real Madrid,7.4,45,,,0.0,0,0,0.0,0.0,19,20,0,0,0,0,3,27
-Andriy Lunin,2026-03-22,Real Madrid,Atlético Madrid,7.0,90,,,0.0,0,0,0.0,0.0,27,33,0,0,0,0,12,45
-Andriy Lunin,2026-04-04,Mallorca,Real Madrid,6.2,90,,,0.0,0,0,0.0,0.0,30,33,0,0,0,0,7,41
-Andriy Lunin,2026-04-07,Real Madrid,FC Bayern München,8.0,90,,,0.0,0,0,0.0,0.0,22,27,0,0,0,0,8,43
-Andriy Lunin,2026-04-10,Real Madrid,Girona FC,6.7,90,,,0.0,0,0,0.0,0.0,31,36,0,0,0,0,6,43
-Andriy Lunin,2026-04-15,FC Bayern München,Real Madrid,6.2,90,,,0.0,0,0,0.0,0.0,17,33,0,0,0,0,10,45
-Andriy Lunin,2026-04-21,Real Madrid,Deportivo Alavés,7.6,90,,,0.0,0,0,0.0,0.0,32,36,0,0,0,0,6,45
-Andriy Lunin,2026-04-24,Real Betis,Real Madrid,7.6,90,,,0.0,0,0,0.0,0.0,27,31,0,0,0,0,6,39
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Andriy Lunin,2026-02-17,Benfica,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andriy Lunin,2026-02-21,Osasuna,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andriy Lunin,2026-02-25,Real Madrid,Benfica,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andriy Lunin,2026-03-02,Real Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andriy Lunin,2026-03-06,Celta Vigo,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andriy Lunin,2026-03-11,Real Madrid,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andriy Lunin,2026-03-14,Real Madrid,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Andriy Lunin,2026-03-17,Manchester City,Real Madrid,7.4,45,4876.0,9.0,108.36,0,0,0.0,0.0,19,20,0,0,0,0,3,27,0,1.85
+Andriy Lunin,2026-03-22,Real Madrid,Atlético Madrid,7.0,90,9789.0,17.0,108.77,0,0,0.0,0.0,27,33,0,0,0,0,12,45,0,1.74
+Andriy Lunin,2026-04-04,Mallorca,Real Madrid,6.2,90,9710.0,17.0,107.89,0,0,0.0,0.0,30,33,0,0,0,0,7,41,0,1.75
+Andriy Lunin,2026-04-07,Real Madrid,FC Bayern München,8.0,90,9731.0,17.0,108.12,0,0,0.0,0.0,22,27,0,0,0,0,8,43,0,1.75
+Andriy Lunin,2026-04-10,Real Madrid,Girona FC,6.7,90,9706.0,17.0,107.84,0,0,0.0,0.0,31,36,0,0,0,0,6,43,0,1.75
+Andriy Lunin,2026-04-15,FC Bayern München,Real Madrid,6.2,90,9764.0,17.0,108.49,0,0,0.0,0.0,17,33,0,0,0,0,10,45,0,1.74
+Andriy Lunin,2026-04-21,Real Madrid,Deportivo Alavés,7.6,90,9714.0,17.0,107.93,0,0,0.0,0.0,32,36,0,0,0,0,6,45,0,1.75
+Andriy Lunin,2026-04-24,Real Betis,Real Madrid,7.6,90,9689.0,17.0,107.66,0,0,0.0,0.0,27,31,0,0,0,0,6,39,0,1.75

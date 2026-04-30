@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ante Budimir,2026-01-24,Rayo Vallecano,Osasuna,7.3,81,,,0.0,1,0,0.48,0.01,8,14,1,0,1,0,1,28
-Ante Budimir,2026-01-31,Osasuna,Villarreal,7.5,76,,,0.0,1,0,0.31,0.0,2,3,0,0,1,0,0,13
-Ante Budimir,2026-02-06,Celta Vigo,Osasuna,7.9,70,,,0.0,1,0,0.11,0.0,4,5,0,0,0,0,0,17
-Ante Budimir,2026-02-13,Elche,Osasuna,6.8,74,,,0.0,0,0,0.13,0.01,8,10,0,0,0,0,0,21
-Ante Budimir,2026-02-21,Osasuna,Real Madrid,7.4,67,,,0.0,1,0,1.29,0.04,9,10,0,0,0,0,0,22
-Ante Budimir,2026-03-01,Valencia,Osasuna,6.5,90,,,0.0,0,0,0.09,0.03,4,8,1,0,0,0,2,21
-Ante Budimir,2026-03-07,Osasuna,Mallorca,8.2,90,,,0.0,1,0,0.58,0.52,8,12,1,0,0,0,0,25
-Ante Budimir,2026-03-15,Real Sociedad,Osasuna,6.6,90,,,0.0,0,0,0.03,0.01,8,18,1,0,0,0,1,30
-Ante Budimir,2026-03-21,Osasuna,Girona FC,7.2,83,,,0.0,1,0,0.32,0.01,9,11,1,0,1,0,0,25
-Ante Budimir,2026-03-27,Colombia,Croatia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ante Budimir,2026-04-01,Croatia,Brazil,6.9,60,,,0.0,0,0,0.0,0.0,4,4,0,0,0,0,2,15
-Ante Budimir,2026-04-05,Deportivo Alavés,Osasuna,6.9,85,,,0.0,1,0,0.82,0.02,7,10,0,0,1,0,1,21
-Ante Budimir,2026-04-12,Osasuna,Real Betis,6.7,81,,,0.0,1,0,0.92,0.0,6,9,0,0,0,0,0,18
-Ante Budimir,2026-04-21,Athletic Club,Osasuna,6.1,90,,,0.0,0,0,0.91,0.0,3,7,0,0,0,0,0,19
-Ante Budimir,2026-04-26,Osasuna,Sevilla,6.2,90,,,0.0,0,0,0.52,0.0,5,8,0,0,1,0,0,22
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ante Budimir,2026-01-24,Rayo Vallecano,Osasuna,7.3,81,8635.0,17.0,106.6,1,0,0.48,0.01,8,14,1,0,1,0,1,28,0,1.97
+Ante Budimir,2026-01-31,Osasuna,Villarreal,7.5,76,8035.0,16.0,105.72,1,0,0.31,0.0,2,3,0,0,1,0,0,13,0,1.99
+Ante Budimir,2026-02-06,Celta Vigo,Osasuna,7.9,70,7421.0,13.0,106.01,1,0,0.11,0.0,4,5,0,0,0,0,0,17,0,1.75
+Ante Budimir,2026-02-13,Elche,Osasuna,6.8,74,7858.0,14.0,106.19,0,0,0.13,0.01,8,10,0,0,0,0,0,21,0,1.78
+Ante Budimir,2026-02-21,Osasuna,Real Madrid,7.4,67,7127.0,13.0,106.37,1,0,1.29,0.04,9,10,0,0,0,0,0,22,0,1.82
+Ante Budimir,2026-03-01,Valencia,Osasuna,6.5,90,9563.0,17.0,106.26,0,0,0.09,0.03,4,8,1,0,0,0,2,21,0,1.78
+Ante Budimir,2026-03-07,Osasuna,Mallorca,8.2,90,9555.0,17.0,106.17,1,0,0.58,0.52,8,12,1,0,0,0,0,25,0,1.78
+Ante Budimir,2026-03-15,Real Sociedad,Osasuna,6.6,90,9588.0,17.0,106.53,0,0,0.03,0.01,8,18,1,0,0,0,1,30,0,1.77
+Ante Budimir,2026-03-21,Osasuna,Girona FC,7.2,83,8820.0,17.0,106.27,1,0,0.32,0.01,9,11,1,0,1,0,0,25,0,1.93
+Ante Budimir,2026-03-27,Colombia,Croatia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ante Budimir,2026-04-01,Croatia,Brazil,6.9,60,6388.0,12.0,106.47,0,0,0.0,0.0,4,4,0,0,0,0,2,15,0,1.88
+Ante Budimir,2026-04-05,Deportivo Alavés,Osasuna,6.9,85,9026.0,18.0,106.19,1,0,0.82,0.02,7,10,0,0,1,0,1,21,0,1.99
+Ante Budimir,2026-04-12,Osasuna,Real Betis,6.7,81,8581.0,16.0,105.94,1,0,0.92,0.0,6,9,0,0,0,0,0,18,0,1.86
+Ante Budimir,2026-04-21,Athletic Club,Osasuna,6.1,90,9530.0,17.0,105.89,0,0,0.91,0.0,3,7,0,0,0,0,0,19,0,1.78
+Ante Budimir,2026-04-26,Osasuna,Sevilla,6.2,90,9542.0,19.0,106.02,0,0,0.52,0.0,5,8,0,0,1,0,0,22,0,1.99

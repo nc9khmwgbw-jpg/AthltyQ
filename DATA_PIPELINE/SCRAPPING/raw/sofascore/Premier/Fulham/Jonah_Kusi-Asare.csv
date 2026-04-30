@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jonah Kusi-Asare,2026-01-01,Crystal Palace,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-01-04,Fulham,Liverpool,6.5,16,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3
-Jonah Kusi-Asare,2026-01-07,Fulham,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-01-10,Fulham,Middlesbrough,7.1,56,,,0.0,0,0,0.0,0.0,12,16,0,0,0,0,1,24
-Jonah Kusi-Asare,2026-01-17,Leeds United,Fulham,6.4,8,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-01-24,Fulham,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-02-06,Fulham U21,West Ham U21,,61,,,0.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-02-27,Fulham U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-03-06,Brighton & Hove Albion U21,Fulham U21,,82,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-03-13,Fulham U21,Nottingham Forest U21,,80,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-03-31,Sweden U21,Italy U21,6.8,23,,,0.0,0,0,0.0,0.0,7,10,0,0,0,0,0,16
-Jonah Kusi-Asare,2026-04-10,Fulham U21,Chelsea U21,,76,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jonah Kusi-Asare,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jonah Kusi-Asare,2026-01-01,Crystal Palace,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jonah Kusi-Asare,2026-01-04,Fulham,Liverpool,6.5,16,1693.0,3.0,105.81,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,1.77
+Jonah Kusi-Asare,2026-01-07,Fulham,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jonah Kusi-Asare,2026-01-10,Fulham,Middlesbrough,7.1,56,5993.0,11.0,107.02,0,0,0.0,0.0,12,16,0,0,0,0,1,24,0,1.84
+Jonah Kusi-Asare,2026-01-17,Leeds United,Fulham,6.4,8,840.0,2.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,2.38
+Jonah Kusi-Asare,2026-01-24,Fulham,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jonah Kusi-Asare,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jonah Kusi-Asare,2026-02-06,Fulham U21,West Ham U21,,61,6405.0,12.0,105.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.87
+Jonah Kusi-Asare,2026-02-27,Fulham U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Jonah Kusi-Asare,2026-03-06,Brighton & Hove Albion U21,Fulham U21,,82,8610.0,16.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86
+Jonah Kusi-Asare,2026-03-13,Fulham U21,Nottingham Forest U21,,80,8400.0,15.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79
+Jonah Kusi-Asare,2026-03-31,Sweden U21,Italy U21,6.8,23,2482.0,4.0,107.91,0,0,0.0,0.0,7,10,0,0,0,0,0,16,0,1.61
+Jonah Kusi-Asare,2026-04-10,Fulham U21,Chelsea U21,,76,7980.0,15.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.88
+Jonah Kusi-Asare,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

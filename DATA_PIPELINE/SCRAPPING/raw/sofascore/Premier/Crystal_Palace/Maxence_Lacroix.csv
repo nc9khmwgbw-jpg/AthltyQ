@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Maxence Lacroix,2026-02-08,Brighton & Hove Albion,Crystal Palace,8.1,90,,,0.0,0,0,0.27,0.13,28,33,0,0,2,0,6,54
-Maxence Lacroix,2026-02-11,Crystal Palace,Burnley,6.4,90,,,0.0,0,0,0.21,0.01,79,88,0,0,3,0,2,108
-Maxence Lacroix,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.0,64,,,0.0,0,0,0.0,0.03,81,93,0,0,0,0,2,98
-Maxence Lacroix,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,8.1,90,,,0.0,1,0,0.58,0.09,100,114,0,0,0,0,7,120
-Maxence Lacroix,2026-03-01,Manchester United,Crystal Palace,6.5,56,,,0.0,1,0,0.02,0.01,23,28,0,0,0,0,1,35
-Maxence Lacroix,2026-03-12,Crystal Palace,AEK Larnaca,7.0,90,,,0.0,0,0,0.0,0.02,88,95,0,0,1,0,6,100
-Maxence Lacroix,2026-03-15,Crystal Palace,Leeds United,7.8,90,,,0.0,0,0,0.27,0.01,65,69,0,0,0,0,2,95
-Maxence Lacroix,2026-03-19,AEK Larnaca,Crystal Palace,7.1,120,,,0.0,0,0,0.25,0.03,93,100,0,0,0,0,5,109
-Maxence Lacroix,2026-03-26,Brazil,France,6.5,32,,,0.0,0,0,0.0,0.0,17,18,0,0,0,0,0,22
-Maxence Lacroix,2026-03-29,Colombia,France,7.3,90,,,0.0,0,0,0.0,0.0,42,45,0,0,1,0,2,59
-Maxence Lacroix,2026-04-09,Crystal Palace,Fiorentina,6.9,90,,,0.0,0,0,0.1,0.0,34,36,0,0,2,0,3,45
-Maxence Lacroix,2026-04-12,Crystal Palace,Newcastle United,6.6,90,,,0.0,0,0,0.0,0.01,35,39,0,0,3,0,3,58
-Maxence Lacroix,2026-04-16,Fiorentina,Crystal Palace,6.9,41,,,0.0,0,0,0.0,0.0,7,8,0,0,0,0,0,19
-Maxence Lacroix,2026-04-20,Crystal Palace,West Ham United,8.0,90,,,0.0,0,0,0.0,0.01,65,73,1,0,1,0,2,90
-Maxence Lacroix,2026-04-25,Liverpool,Crystal Palace,6.5,90,,,0.0,0,0,0.22,0.01,48,54,0,0,1,0,2,69
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Maxence Lacroix,2026-02-08,Brighton & Hove Albion,Crystal Palace,8.1,90,9752.0,20.0,108.36,0,0,0.27,0.13,28,33,0,0,2,0,6,54,0,2.05
+Maxence Lacroix,2026-02-11,Crystal Palace,Burnley,6.4,90,9929.0,22.0,110.32,0,0,0.21,0.01,79,88,0,0,3,0,2,108,0,2.22
+Maxence Lacroix,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.0,64,7157.0,12.0,111.83,0,0,0.0,0.03,81,93,0,0,0,0,2,98,0,1.68
+Maxence Lacroix,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,8.1,90,10042.0,17.0,111.58,1,0,0.58,0.09,100,114,0,0,0,0,7,120,0,1.69
+Maxence Lacroix,2026-03-01,Manchester United,Crystal Palace,6.5,56,6040.0,11.0,107.86,1,0,0.02,0.01,23,28,0,0,0,0,1,35,0,1.82
+Maxence Lacroix,2026-03-12,Crystal Palace,AEK Larnaca,7.0,90,9945.0,19.0,110.5,0,0,0.0,0.02,88,95,0,0,1,0,6,100,0,1.91
+Maxence Lacroix,2026-03-15,Crystal Palace,Leeds United,7.8,90,9874.0,17.0,109.71,0,0,0.27,0.01,65,69,0,0,0,0,2,95,0,1.72
+Maxence Lacroix,2026-03-19,AEK Larnaca,Crystal Palace,7.1,120,13120.0,23.0,109.33,0,0,0.25,0.03,93,100,0,0,0,0,5,109,0,1.75
+Maxence Lacroix,2026-03-26,Brazil,France,6.5,32,3452.0,6.0,107.88,0,0,0.0,0.0,17,18,0,0,0,0,0,22,0,1.74
+Maxence Lacroix,2026-03-29,Colombia,France,7.3,90,9723.0,19.0,108.03,0,0,0.0,0.0,42,45,0,0,1,0,2,59,0,1.95
+Maxence Lacroix,2026-04-09,Crystal Palace,Fiorentina,6.9,90,9676.0,20.0,107.51,0,0,0.1,0.0,34,36,0,0,2,0,3,45,0,2.07
+Maxence Lacroix,2026-04-12,Crystal Palace,Newcastle United,6.6,90,9731.0,22.0,108.12,0,0,0.0,0.01,35,39,0,0,3,0,3,58,0,2.26
+Maxence Lacroix,2026-04-16,Fiorentina,Crystal Palace,6.9,41,4385.0,8.0,106.95,0,0,0.0,0.0,7,8,0,0,0,0,0,19,0,1.82
+Maxence Lacroix,2026-04-20,Crystal Palace,West Ham United,8.0,90,9853.0,19.0,109.48,0,0,0.0,0.01,65,73,1,0,1,0,2,90,0,1.93
+Maxence Lacroix,2026-04-25,Liverpool,Crystal Palace,6.5,90,9765.0,19.0,108.5,0,0,0.22,0.01,48,54,0,0,1,0,2,69,0,1.95

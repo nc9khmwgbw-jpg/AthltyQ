@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Julien López,2025-09-28,Nice,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2025-10-03,Paris FC,Lorient,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2025-11-01,AS Monaco,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2025-11-07,Paris FC,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2025-11-23,Lille,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2025-11-29,Paris FC,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2025-12-07,Le Havre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2025-12-13,Paris FC,Toulouse,6.7,13,,,0.0,0,0,0.0,0.09,8,8,0,0,0,0,1,9
-Julien López,2025-12-20,U.S Raon-l'Étape,Paris FC,6.6,84,,,0.0,0,0,0.0,0.0,24,25,3,0,0,0,1,36
-Julien López,2026-01-04,Paris Saint-Germain,Paris FC,6.4,9,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2026-01-12,Paris Saint-Germain,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2026-01-18,Nantes,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2026-01-31,Paris FC,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Julien López,2026-02-04,Lorient,Paris FC,6.2,90,,,0.0,0,0,0.0,0.0,17,22,1,0,0,0,1,31
-Julien López,2026-02-21,Toulouse,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Julien López,2025-09-28,Nice,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2025-10-03,Paris FC,Lorient,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2025-11-01,AS Monaco,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2025-11-07,Paris FC,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2025-11-23,Lille,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2025-11-29,Paris FC,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2025-12-07,Le Havre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2025-12-13,Paris FC,Toulouse,6.7,13,1415.0,2.0,108.85,0,0,0.0,0.09,8,8,0,0,0,0,1,9,0,1.41
+Julien López,2025-12-20,U.S Raon-l'Étape,Paris FC,6.6,84,8984.0,16.0,106.95,0,0,0.0,0.0,24,25,3,0,0,0,1,36,0,1.78
+Julien López,2026-01-04,Paris Saint-Germain,Paris FC,6.4,9,945.0,2.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,2.12
+Julien López,2026-01-12,Paris Saint-Germain,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2026-01-18,Nantes,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2026-01-31,Paris FC,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Julien López,2026-02-04,Lorient,Paris FC,6.2,90,9593.0,17.0,106.59,0,0,0.0,0.0,17,22,1,0,0,0,1,31,0,1.77
+Julien López,2026-02-21,Toulouse,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

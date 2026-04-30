@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Freddie Woodman,2026-01-21,Olympique de Marseille,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-01-24,Bournemouth,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-01-28,Liverpool,Qarabağ FK,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-02-08,Liverpool,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-02-22,Nottingham Forest,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-02-28,Liverpool,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-03-10,Galatasaray,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-03-18,Liverpool,Galatasaray,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-03-21,Brighton & Hove Albion,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-04-04,Manchester City,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-04-08,Paris Saint-Germain,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-04-11,Liverpool,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-04-14,Liverpool,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Freddie Woodman,2026-04-19,Everton,Liverpool,6.7,32,,,0.0,0,0,0.0,0.0,5,16,0,0,1,0,3,21
-Freddie Woodman,2026-04-25,Liverpool,Crystal Palace,7.8,90,,,0.0,0,0,0.0,0.0,19,34,0,0,0,0,10,44
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Freddie Woodman,2026-01-21,Olympique de Marseille,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-01-24,Bournemouth,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-01-28,Liverpool,Qarabağ FK,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-02-08,Liverpool,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-02-22,Nottingham Forest,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-02-28,Liverpool,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-03-10,Galatasaray,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-03-18,Liverpool,Galatasaray,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-03-21,Brighton & Hove Albion,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-04-04,Manchester City,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-04-08,Paris Saint-Germain,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-04-11,Liverpool,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-04-14,Liverpool,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Freddie Woodman,2026-04-19,Everton,Liverpool,6.7,32,3486.0,8.0,108.94,0,0,0.0,0.0,5,16,0,0,1,0,3,21,0,2.29
+Freddie Woodman,2026-04-25,Liverpool,Crystal Palace,7.8,90,9760.0,17.0,108.44,0,0,0.0,0.0,19,34,0,0,0,0,10,44,0,1.74

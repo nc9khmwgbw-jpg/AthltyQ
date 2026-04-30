@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Odsonne Édouard,2026-01-24,Olympique de Marseille,RC Lens,6.9,59,,,0.0,0,0,0.16,0.0,5,5,0,0,0,0,1,19
-Odsonne Édouard,2026-01-30,RC Lens,Le Havre,6.4,74,,,0.0,0,0,0.21,0.05,6,7,1,0,0,0,0,20
-Odsonne Édouard,2026-02-04,Troyes,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Odsonne Édouard,2026-02-07,RC Lens,Stade Rennais,8.1,61,,,0.0,1,0,0.51,0.47,3,5,1,0,0,0,1,18
-Odsonne Édouard,2026-02-14,Paris FC,RC Lens,6.2,69,,,0.0,0,0,0.97,0.11,14,17,2,0,0,0,2,24
-Odsonne Édouard,2026-02-21,RC Lens,AS Monaco,6.8,63,,,0.0,1,0,0.19,0.06,12,14,2,0,0,0,2,28
-Odsonne Édouard,2026-02-27,RC Strasbourg,RC Lens,6.2,60,,,0.0,0,0,0.76,0.03,11,13,1,0,0,0,3,24
-Odsonne Édouard,2026-03-05,Olympique Lyonnais,RC Lens,5.9,78,,,0.0,0,0,0.0,0.0,11,13,0,0,0,0,1,27
-Odsonne Édouard,2026-03-08,RC Lens,Metz,6.2,63,,,0.0,0,0,0.6,0.17,13,16,1,0,0,0,2,27
-Odsonne Édouard,2026-03-14,Lorient,RC Lens,7.4,84,,,0.0,1,0,0.2,0.03,7,10,1,0,0,0,3,24
-Odsonne Édouard,2026-03-20,RC Lens,Angers,8.2,69,,,0.0,2,0,1.62,0.07,13,14,1,0,0,0,0,23
-Odsonne Édouard,2026-04-04,Lille,RC Lens,7.0,85,,,0.0,0,0,0.24,0.0,4,6,0,0,0,0,1,13
-Odsonne Édouard,2026-04-17,RC Lens,Toulouse,6.4,35,,,0.0,0,0,0.33,0.0,1,2,0,0,0,0,0,9
-Odsonne Édouard,2026-04-21,RC Lens,Toulouse,6.0,72,,,0.0,0,0,0.0,0.0,12,14,0,0,0,0,1,30
-Odsonne Édouard,2026-04-24,Stade Brestois,RC Lens,6.3,26,,,0.0,0,0,0.68,0.01,4,4,0,0,1,0,1,10
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Odsonne Édouard,2026-01-24,Olympique de Marseille,RC Lens,6.9,59,6287.0,11.0,106.56,0,0,0.16,0.0,5,5,0,0,0,0,1,19,0,1.75
+Odsonne Édouard,2026-01-30,RC Lens,Le Havre,6.4,74,7854.0,14.0,106.14,0,0,0.21,0.05,6,7,1,0,0,0,0,20,0,1.78
+Odsonne Édouard,2026-02-04,Troyes,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Odsonne Édouard,2026-02-07,RC Lens,Stade Rennais,8.1,61,6493.0,12.0,106.44,1,0,0.51,0.47,3,5,1,0,0,0,1,18,0,1.85
+Odsonne Édouard,2026-02-14,Paris FC,RC Lens,6.2,69,7371.0,13.0,106.83,0,0,0.97,0.11,14,17,2,0,0,0,2,24,0,1.76
+Odsonne Édouard,2026-02-21,RC Lens,AS Monaco,6.8,63,6758.0,12.0,107.27,1,0,0.19,0.06,12,14,2,0,0,0,2,28,0,1.78
+Odsonne Édouard,2026-02-27,RC Strasbourg,RC Lens,6.2,60,6438.0,12.0,107.3,0,0,0.76,0.03,11,13,1,0,0,0,3,24,0,1.86
+Odsonne Édouard,2026-03-05,Olympique Lyonnais,RC Lens,5.9,78,8316.0,15.0,106.62,0,0,0.0,0.0,11,13,0,0,0,0,1,27,0,1.8
+Odsonne Édouard,2026-03-08,RC Lens,Metz,6.2,63,6753.0,12.0,107.19,0,0,0.6,0.17,13,16,1,0,0,0,2,27,0,1.78
+Odsonne Édouard,2026-03-14,Lorient,RC Lens,7.4,84,8958.0,16.0,106.64,1,0,0.2,0.03,7,10,1,0,0,0,3,24,0,1.79
+Odsonne Édouard,2026-03-20,RC Lens,Angers,8.2,69,7342.0,13.0,106.41,2,0,1.62,0.07,13,14,1,0,0,0,0,23,0,1.77
+Odsonne Édouard,2026-04-04,Lille,RC Lens,7.0,85,8992.0,16.0,105.79,0,0,0.24,0.0,4,6,0,0,0,0,1,13,0,1.78
+Odsonne Édouard,2026-04-17,RC Lens,Toulouse,6.4,35,3713.0,7.0,106.09,0,0,0.33,0.0,1,2,0,0,0,0,0,9,0,1.89
+Odsonne Édouard,2026-04-21,RC Lens,Toulouse,6.0,72,7698.0,14.0,106.92,0,0,0.0,0.0,12,14,0,0,0,0,1,30,0,1.82
+Odsonne Édouard,2026-04-24,Stade Brestois,RC Lens,6.3,26,2784.0,6.0,107.08,0,0,0.68,0.01,4,4,0,0,1,0,1,10,0,2.16

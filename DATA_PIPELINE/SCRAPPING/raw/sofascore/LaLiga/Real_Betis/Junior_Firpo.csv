@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Junior Firpo,2025-12-03,Torrent CF,Real Betis,6.9,45,,,0.0,0,0,0.0,0.0,22,24,1,0,0,0,3,38
-Junior Firpo,2025-12-06,Real Betis,FC Barcelona,6.7,29,,,0.0,0,0,0.0,0.01,5,5,0,0,0,0,0,11
-Junior Firpo,2026-01-04,Real Madrid,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Junior Firpo,2026-01-10,Real Oviedo,Real Betis,7.1,80,,,0.0,0,0,0.05,0.2,27,29,0,0,0,0,3,58
-Junior Firpo,2026-02-05,Real Betis,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Junior Firpo,2026-02-08,Atlético Madrid,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Junior Firpo,2026-02-15,Mallorca,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Junior Firpo,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Junior Firpo,2026-03-01,Real Betis,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Junior Firpo,2026-03-08,Getafe,Real Betis,5.9,68,,,0.0,0,0,0.0,0.04,27,27,1,0,2,0,2,47
-Junior Firpo,2026-03-12,Panathinaikos FC,Real Betis,6.1,22,,,0.0,0,0,0.0,0.04,16,18,1,0,0,0,0,22
-Junior Firpo,2026-03-15,Real Betis,Celta Vigo,6.2,67,,,0.0,0,0,0.0,0.01,26,31,0,0,0,0,1,39
-Junior Firpo,2026-03-19,Real Betis,Panathinaikos FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Junior Firpo,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Junior Firpo,2025-12-03,Torrent CF,Real Betis,6.9,45,4922.0,9.0,109.38,0,0,0.0,0.0,22,24,1,0,0,0,3,38,0,1.83
+Junior Firpo,2025-12-06,Real Betis,FC Barcelona,6.7,29,3091.0,6.0,106.59,0,0,0.0,0.01,5,5,0,0,0,0,0,11,0,1.94
+Junior Firpo,2026-01-04,Real Madrid,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Junior Firpo,2026-01-10,Real Oviedo,Real Betis,7.1,80,8681.0,15.0,108.51,0,0,0.05,0.2,27,29,0,0,0,0,3,58,0,1.73
+Junior Firpo,2026-02-05,Real Betis,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Junior Firpo,2026-02-08,Atlético Madrid,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Junior Firpo,2026-02-15,Mallorca,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Junior Firpo,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Junior Firpo,2026-03-01,Real Betis,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Junior Firpo,2026-03-08,Getafe,Real Betis,5.9,68,7362.0,16.0,108.26,0,0,0.0,0.04,27,27,1,0,2,0,2,47,0,2.17
+Junior Firpo,2026-03-12,Panathinaikos FC,Real Betis,6.1,22,2402.0,4.0,109.18,0,0,0.0,0.04,16,18,1,0,0,0,0,22,0,1.67
+Junior Firpo,2026-03-15,Real Betis,Celta Vigo,6.2,67,7211.0,13.0,107.63,0,0,0.0,0.01,26,31,0,0,0,0,1,39,0,1.8
+Junior Firpo,2026-03-19,Real Betis,Panathinaikos FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Junior Firpo,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

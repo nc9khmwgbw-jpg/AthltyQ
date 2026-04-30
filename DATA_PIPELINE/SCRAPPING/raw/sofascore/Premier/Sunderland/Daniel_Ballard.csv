@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Daniel Ballard,2026-01-04,Tottenham Hotspur,Sunderland,6.5,24,,,0.0,0,0,0.0,0.0,11,17,0,0,0,0,0,20
-Daniel Ballard,2026-01-07,Brentford,Sunderland,6.4,79,,,0.0,0,0,0.03,0.0,39,44,0,0,2,0,1,57
-Daniel Ballard,2026-01-10,Everton,Sunderland,6.2,49,,,0.0,0,0,0.0,0.0,22,27,0,0,0,0,2,36
-Daniel Ballard,2026-01-17,Sunderland,Crystal Palace,7.0,90,,,0.0,0,0,0.62,0.09,41,49,2,0,2,0,2,66
-Daniel Ballard,2026-01-24,West Ham United,Sunderland,6.4,90,,,0.0,0,0,0.02,0.01,57,69,0,0,0,0,1,88
-Daniel Ballard,2026-02-02,Sunderland,Burnley,7.4,90,,,0.0,0,0,0.14,0.01,42,46,0,0,1,0,2,62
-Daniel Ballard,2026-02-07,Arsenal,Sunderland,5.9,90,,,0.0,0,0,0.0,0.01,44,55,1,0,0,0,5,69
-Daniel Ballard,2026-02-11,Sunderland,Liverpool,6.6,90,,,0.0,0,0,0.05,0.0,48,52,1,0,2,0,2,69
-Daniel Ballard,2026-02-22,Sunderland,Fulham,6.9,90,,,0.0,0,0,0.0,0.06,56,64,2,0,0,0,2,81
-Daniel Ballard,2026-02-28,Bournemouth,Sunderland,7.3,90,,,0.0,0,0,0.13,0.01,31,44,1,0,0,0,11,63
-Daniel Ballard,2026-03-03,Leeds United,Sunderland,6.9,90,,,0.0,0,0,0.01,0.0,13,24,0,0,1,0,4,46
-Daniel Ballard,2026-03-08,Port Vale,Sunderland,6.2,90,,,0.0,0,0,0.0,0.0,55,68,0,0,1,0,3,84
-Daniel Ballard,2026-03-14,Sunderland,Brighton & Hove Albion,6.6,64,,,0.0,0,0,0.05,0.0,21,27,2,0,3,0,6,43
-Daniel Ballard,2026-04-19,Aston Villa,Sunderland,7.2,27,,,0.0,0,0,0.0,0.0,12,13,0,0,0,0,2,17
-Daniel Ballard,2026-04-24,Sunderland,Nottingham Forest,5.7,90,,,0.0,0,0,0.04,0.05,39,49,0,0,1,0,1,65
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Daniel Ballard,2026-01-04,Tottenham Hotspur,Sunderland,6.5,24,2604.0,5.0,108.5,0,0,0.0,0.0,11,17,0,0,0,0,0,20,0,1.92
+Daniel Ballard,2026-01-07,Brentford,Sunderland,6.4,79,8547.0,18.0,108.19,0,0,0.03,0.0,39,44,0,0,2,0,1,57,0,2.11
+Daniel Ballard,2026-01-10,Everton,Sunderland,6.2,49,5321.0,9.0,108.59,0,0,0.0,0.0,22,27,0,0,0,0,2,36,0,1.69
+Daniel Ballard,2026-01-17,Sunderland,Crystal Palace,7.0,90,9752.0,20.0,108.36,0,0,0.62,0.09,41,49,2,0,2,0,2,66,0,2.05
+Daniel Ballard,2026-01-24,West Ham United,Sunderland,6.4,90,9832.0,17.0,109.24,0,0,0.02,0.01,57,69,0,0,0,0,1,88,0,1.73
+Daniel Ballard,2026-02-02,Sunderland,Burnley,7.4,90,9735.0,19.0,108.17,0,0,0.14,0.01,42,46,0,0,1,0,2,62,0,1.95
+Daniel Ballard,2026-02-07,Arsenal,Sunderland,5.9,90,9802.0,17.0,108.91,0,0,0.0,0.01,44,55,1,0,0,0,5,69,0,1.73
+Daniel Ballard,2026-02-11,Sunderland,Liverpool,6.6,90,9765.0,20.0,108.5,0,0,0.05,0.0,48,52,1,0,2,0,2,69,0,2.05
+Daniel Ballard,2026-02-22,Sunderland,Fulham,6.9,90,9815.0,17.0,109.06,0,0,0.0,0.06,56,64,2,0,0,0,2,81,0,1.73
+Daniel Ballard,2026-02-28,Bournemouth,Sunderland,7.3,90,9852.0,17.0,109.47,0,0,0.13,0.01,31,44,1,0,0,0,11,63,0,1.73
+Daniel Ballard,2026-03-03,Leeds United,Sunderland,6.9,90,9693.0,19.0,107.7,0,0,0.01,0.0,13,24,0,0,1,0,4,46,0,1.96
+Daniel Ballard,2026-03-08,Port Vale,Sunderland,6.2,90,9840.0,19.0,109.33,0,0,0.0,0.0,55,68,0,0,1,0,3,84,0,1.93
+Daniel Ballard,2026-03-14,Sunderland,Brighton & Hove Albion,6.6,64,6976.0,17.0,109.0,0,0,0.05,0.0,21,27,2,0,3,0,6,43,0,2.44
+Daniel Ballard,2026-04-19,Aston Villa,Sunderland,7.2,27,2931.0,5.0,108.56,0,0,0.0,0.0,12,13,0,0,0,0,2,17,0,1.71
+Daniel Ballard,2026-04-24,Sunderland,Nottingham Forest,5.7,90,9736.0,19.0,108.18,0,0,0.04,0.05,39,49,0,0,1,0,1,65,0,1.95

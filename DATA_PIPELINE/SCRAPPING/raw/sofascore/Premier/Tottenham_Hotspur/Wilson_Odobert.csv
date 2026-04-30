@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Wilson Odobert,2025-12-09,Tottenham Hotspur,SK Slavia Praha,6.3,76,,,0.0,0,0,0.05,0.16,9,11,1,0,1,0,1,29
-Wilson Odobert,2025-12-14,Nottingham Forest,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Wilson Odobert,2025-12-20,Tottenham Hotspur,Liverpool,6.2,19,,,0.0,0,0,0.0,0.0,6,7,0,0,0,0,1,15
-Wilson Odobert,2025-12-28,Crystal Palace,Tottenham Hotspur,6.8,27,,,0.0,0,0,0.05,0.01,9,12,0,0,0,0,3,22
-Wilson Odobert,2026-01-01,Brentford,Tottenham Hotspur,6.8,67,,,0.0,0,0,0.1,0.01,14,18,1,0,0,0,2,38
-Wilson Odobert,2026-01-04,Tottenham Hotspur,Sunderland,6.8,72,,,0.0,0,0,0.0,0.05,13,16,3,0,0,0,7,32
-Wilson Odobert,2026-01-07,Bournemouth,Tottenham Hotspur,6.7,33,,,0.0,0,0,0.03,0.05,8,11,1,0,0,0,2,17
-Wilson Odobert,2026-01-10,Tottenham Hotspur,Aston Villa,7.4,83,,,0.0,1,0,0.0,0.0,9,14,0,0,2,0,3,31
-Wilson Odobert,2026-01-17,Tottenham Hotspur,West Ham United,6.1,89,,,0.0,0,0,0.42,0.05,32,37,2,0,0,0,4,52
-Wilson Odobert,2026-01-20,Tottenham Hotspur,Borussia Dortmund,8.7,90,,,0.0,0,0,0.06,1.06,28,29,4,0,1,0,7,54
-Wilson Odobert,2026-01-24,Burnley,Tottenham Hotspur,7.4,90,,,0.0,0,0,0.17,0.35,37,41,3,0,0,0,8,65
-Wilson Odobert,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,6.9,73,,,0.0,0,0,0.1,0.11,33,38,1,0,0,0,1,62
-Wilson Odobert,2026-02-01,Tottenham Hotspur,Manchester City,6.3,22,,,0.0,0,0,0.36,0.01,6,7,1,0,0,0,3,13
-Wilson Odobert,2026-02-07,Manchester United,Tottenham Hotspur,6.4,32,,,0.0,0,0,0.0,0.01,8,9,1,0,0,0,3,13
-Wilson Odobert,2026-02-10,Tottenham Hotspur,Newcastle United,6.8,35,,,0.0,0,0,0.0,0.04,6,8,1,0,0,0,1,9
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Wilson Odobert,2025-12-09,Tottenham Hotspur,SK Slavia Praha,6.3,76,8114.0,16.0,106.76,0,0,0.05,0.16,9,11,1,0,1,0,1,29,0,1.97
+Wilson Odobert,2025-12-14,Nottingham Forest,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Wilson Odobert,2025-12-20,Tottenham Hotspur,Liverpool,6.2,19,2070.0,4.0,108.95,0,0,0.0,0.0,6,7,0,0,0,0,1,15,0,1.93
+Wilson Odobert,2025-12-28,Crystal Palace,Tottenham Hotspur,6.8,27,2965.0,5.0,109.81,0,0,0.05,0.01,9,12,0,0,0,0,3,22,0,1.69
+Wilson Odobert,2026-01-01,Brentford,Tottenham Hotspur,6.8,67,7220.0,13.0,107.76,0,0,0.1,0.01,14,18,1,0,0,0,2,38,0,1.8
+Wilson Odobert,2026-01-04,Tottenham Hotspur,Sunderland,6.8,72,7782.0,14.0,108.08,0,0,0.0,0.05,13,16,3,0,0,0,7,32,0,1.8
+Wilson Odobert,2026-01-07,Bournemouth,Tottenham Hotspur,6.7,33,3561.0,6.0,107.91,0,0,0.03,0.05,8,11,1,0,0,0,2,17,0,1.68
+Wilson Odobert,2026-01-10,Tottenham Hotspur,Aston Villa,7.4,83,8883.0,19.0,107.02,1,0,0.0,0.0,9,14,0,0,2,0,3,31,0,2.14
+Wilson Odobert,2026-01-17,Tottenham Hotspur,West Ham United,6.1,89,9613.0,17.0,108.01,0,0,0.42,0.05,32,37,2,0,0,0,4,52,0,1.77
+Wilson Odobert,2026-01-20,Tottenham Hotspur,Borussia Dortmund,8.7,90,9764.0,19.0,108.49,0,0,0.06,1.06,28,29,4,0,1,0,7,54,0,1.95
+Wilson Odobert,2026-01-24,Burnley,Tottenham Hotspur,7.4,90,9823.0,17.0,109.14,0,0,0.17,0.35,37,41,3,0,0,0,8,65,0,1.73
+Wilson Odobert,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,6.9,73,7938.0,14.0,108.74,0,0,0.1,0.11,33,38,1,0,0,0,1,62,0,1.76
+Wilson Odobert,2026-02-01,Tottenham Hotspur,Manchester City,6.3,22,2402.0,4.0,109.18,0,0,0.36,0.01,6,7,1,0,0,0,3,13,0,1.67
+Wilson Odobert,2026-02-07,Manchester United,Tottenham Hotspur,6.4,32,3452.0,6.0,107.88,0,0,0.0,0.01,8,9,1,0,0,0,3,13,0,1.74
+Wilson Odobert,2026-02-10,Tottenham Hotspur,Newcastle United,6.8,35,3725.0,7.0,106.43,0,0,0.0,0.04,6,8,1,0,0,0,1,9,0,1.88

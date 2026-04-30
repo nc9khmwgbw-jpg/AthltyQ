@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Rhys Chadwick-Chaplin,2025-11-02,Leeds United U21,Brighton & Hove Albion U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2025-11-08,Leeds United U21,Nottingham Forest U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2025-11-11,Accrington Stanley,Leeds United U21,6.2,82,,,0.0,0,0,0.0,0.0,23,27,0,0,0,0,0,34
-Rhys Chadwick-Chaplin,2026-01-10,Reading U21,Leeds United U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-01-16,Leeds United U21,Stoke City U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-01-25,Liverpool U21,Leeds United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-02-01,Leeds United U21,Arsenal U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-02-07,Manchester City U21,Leeds United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-02-20,Chelsea U21,Leeds United U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-02-28,Leeds United U21,West Ham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-03-09,Sunderland U21,Leeds United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-03-16,Leeds United U21,Tottenham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-03-20,Southampton U21,Leeds United U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-04-03,Leeds United U21,Manchester United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rhys Chadwick-Chaplin,2026-04-13,Leeds United U21,Leicester City U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rhys Chadwick-Chaplin,2025-11-02,Leeds United U21,Brighton & Hove Albion U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2025-11-08,Leeds United U21,Nottingham Forest U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2025-11-11,Accrington Stanley,Leeds United U21,6.2,82,8753.0,16.0,106.74,0,0,0.0,0.0,23,27,0,0,0,0,0,34,0,1.83
+Rhys Chadwick-Chaplin,2026-01-10,Reading U21,Leeds United U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-01-16,Leeds United U21,Stoke City U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-01-25,Liverpool U21,Leeds United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-02-01,Leeds United U21,Arsenal U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-02-07,Manchester City U21,Leeds United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-02-20,Chelsea U21,Leeds United U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-02-28,Leeds United U21,West Ham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-03-09,Sunderland U21,Leeds United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-03-16,Leeds United U21,Tottenham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-03-20,Southampton U21,Leeds United U21,,90,9450.0,17.0,105.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-04-03,Leeds United U21,Manchester United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Rhys Chadwick-Chaplin,2026-04-13,Leeds United U21,Leicester City U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8

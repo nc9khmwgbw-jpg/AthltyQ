@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ilias Kostis,2025-05-17,Atlético Madrileño,UD Ibiza,7.2,90,,,0.0,0,0,0.0,0.0,40,51,0,0,2,0,8,66
-Ilias Kostis,2025-05-24,Mérida AD,Atlético Madrileño,7.0,90,,,0.0,0,0,0.06,0.24,53,62,1,0,1,0,12,75
-Ilias Kostis,2025-06-15,Paris Saint-Germain,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ilias Kostis,2025-06-19,Seattle Sounders FC,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ilias Kostis,2025-06-23,Atlético Madrid,Botafogo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ilias Kostis,2025-08-03,FC Porto,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ilias Kostis,2025-09-05,FC Cartagena,Atlético Madrileño,6.5,21,,,0.0,0,0,0.0,0.0,5,7,0,0,0,0,2,10
-Ilias Kostis,2025-09-14,Atlético Madrileño,Real Murcia,,41,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ilias Kostis,2025-09-20,Betis Deportivo,Atlético Madrileño,6.7,61,,,0.0,0,0,0.0,0.0,51,55,0,0,1,0,4,63
-Ilias Kostis,2025-09-27,Atlético Madrid,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ilias Kostis,2025-09-28,Atlético Madrileño,UD Ibiza,7.4,78,,,0.0,0,0,0.0,0.0,14,17,0,0,1,0,8,25
-Ilias Kostis,2025-10-03,Villarreal B U23,Atlético Madrileño,7.9,67,,,0.0,1,0,0.59,0.0,24,36,0,0,7,0,13,44
-Ilias Kostis,2025-10-10,Atlético Madrid,Inter,6.8,14,,,0.0,0,0,0.0,0.0,8,8,0,0,0,0,2,11
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ilias Kostis,2025-05-17,Atlético Madrileño,UD Ibiza,7.2,90,9827.0,20.0,109.19,0,0,0.0,0.0,40,51,0,0,2,0,8,66,0,2.04
+Ilias Kostis,2025-05-24,Mérida AD,Atlético Madrileño,7.0,90,9915.0,19.0,110.17,0,0,0.06,0.24,53,62,1,0,1,0,12,75,0,1.92
+Ilias Kostis,2025-06-15,Paris Saint-Germain,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ilias Kostis,2025-06-19,Seattle Sounders FC,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ilias Kostis,2025-06-23,Atlético Madrid,Botafogo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ilias Kostis,2025-08-03,FC Porto,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ilias Kostis,2025-09-05,FC Cartagena,Atlético Madrileño,6.5,21,2272.0,4.0,108.19,0,0,0.0,0.0,5,7,0,0,0,0,2,10,0,1.76
+Ilias Kostis,2025-09-14,Atlético Madrileño,Real Murcia,,41,4305.0,8.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86
+Ilias Kostis,2025-09-20,Betis Deportivo,Atlético Madrileño,6.7,61,6720.0,13.0,110.16,0,0,0.0,0.0,51,55,0,0,1,0,4,63,0,1.93
+Ilias Kostis,2025-09-27,Atlético Madrid,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ilias Kostis,2025-09-28,Atlético Madrileño,UD Ibiza,7.4,78,8395.0,16.0,107.63,0,0,0.0,0.0,14,17,0,0,1,0,8,25,0,1.91
+Ilias Kostis,2025-10-03,Villarreal B U23,Atlético Madrileño,7.9,67,7382.0,23.0,110.18,1,0,0.59,0.0,24,36,0,0,7,0,13,44,0,3.12
+Ilias Kostis,2025-10-10,Atlético Madrid,Inter,6.8,14,1541.0,3.0,110.07,0,0,0.0,0.0,8,8,0,0,0,0,2,11,0,1.95

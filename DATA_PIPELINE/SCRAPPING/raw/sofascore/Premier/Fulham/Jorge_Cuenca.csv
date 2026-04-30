@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jorge Cuenca,2025-12-27,West Ham United,Fulham,7.3,90,,,0.0,0,0,0.0,0.01,54,57,0,0,3,0,5,74
-Jorge Cuenca,2026-01-01,Crystal Palace,Fulham,7.5,90,,,0.0,0,0,0.0,0.02,55,62,0,0,0,0,6,83
-Jorge Cuenca,2026-01-04,Fulham,Liverpool,6.4,90,,,0.0,0,0,0.0,0.0,32,39,0,0,0,0,3,55
-Jorge Cuenca,2026-01-07,Fulham,Chelsea,7.3,45,,,0.0,0,0,0.0,0.04,32,34,0,0,0,0,3,40
-Jorge Cuenca,2026-01-10,Fulham,Middlesbrough,7.0,90,,,0.0,0,0,0.0,0.0,60,62,0,0,2,0,4,73
-Jorge Cuenca,2026-01-17,Leeds United,Fulham,6.3,90,,,0.0,0,0,0.0,0.0,64,74,0,0,2,0,3,87
-Jorge Cuenca,2026-01-24,Fulham,Brighton & Hove Albion,6.9,90,,,0.0,0,0,0.05,0.0,59,66,0,0,0,0,4,81
-Jorge Cuenca,2026-02-01,Manchester United,Fulham,7.3,86,,,0.0,0,0,0.0,0.44,59,63,2,0,1,0,2,70
-Jorge Cuenca,2026-02-07,Fulham,Everton,6.8,90,,,0.0,0,0,0.0,0.01,52,58,0,0,3,0,3,69
-Jorge Cuenca,2026-02-11,Manchester City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Cuenca,2026-02-15,Stoke City,Fulham,7.2,90,,,0.0,0,0,0.0,0.0,51,58,0,0,1,0,3,73
-Jorge Cuenca,2026-02-22,Sunderland,Fulham,6.6,12,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,1,6
-Jorge Cuenca,2026-03-01,Fulham,Tottenham Hotspur,,1,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4
-Jorge Cuenca,2026-03-08,Fulham,Southampton,6.6,90,,,0.0,0,0,0.0,0.0,60,65,0,0,3,0,5,79
-Jorge Cuenca,2026-04-11,Liverpool,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jorge Cuenca,2025-12-27,West Ham United,Fulham,7.3,90,9823.0,22.0,109.14,0,0,0.0,0.01,54,57,0,0,3,0,5,74,0,2.24
+Jorge Cuenca,2026-01-01,Crystal Palace,Fulham,7.5,90,9874.0,17.0,109.71,0,0,0.0,0.02,55,62,0,0,0,0,6,83,0,1.72
+Jorge Cuenca,2026-01-04,Fulham,Liverpool,6.4,90,9718.0,17.0,107.98,0,0,0.0,0.0,32,39,0,0,0,0,3,55,0,1.75
+Jorge Cuenca,2026-01-07,Fulham,Chelsea,7.3,45,4930.0,9.0,109.56,0,0,0.0,0.04,32,34,0,0,0,0,3,40,0,1.83
+Jorge Cuenca,2026-01-10,Fulham,Middlesbrough,7.0,90,9807.0,20.0,108.97,0,0,0.0,0.0,60,62,0,0,2,0,4,73,0,2.04
+Jorge Cuenca,2026-01-17,Leeds United,Fulham,6.3,90,9853.0,20.0,109.48,0,0,0.0,0.0,64,74,0,0,2,0,3,87,0,2.03
+Jorge Cuenca,2026-01-24,Fulham,Brighton & Hove Albion,6.9,90,9840.0,17.0,109.33,0,0,0.05,0.0,59,66,0,0,0,0,4,81,0,1.73
+Jorge Cuenca,2026-02-01,Manchester United,Fulham,7.3,86,9349.0,18.0,108.71,0,0,0.0,0.44,59,63,2,0,1,0,2,70,0,1.93
+Jorge Cuenca,2026-02-07,Fulham,Everton,6.8,90,9777.0,22.0,108.63,0,0,0.0,0.01,52,58,0,0,3,0,3,69,0,2.25
+Jorge Cuenca,2026-02-11,Manchester City,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Cuenca,2026-02-15,Stoke City,Fulham,7.2,90,9794.0,19.0,108.82,0,0,0.0,0.0,51,58,0,0,1,0,3,73,0,1.94
+Jorge Cuenca,2026-02-22,Sunderland,Fulham,6.6,12,1298.0,2.0,108.17,0,0,0.0,0.0,5,6,0,0,0,0,1,6,0,1.54
+Jorge Cuenca,2026-03-01,Fulham,Tottenham Hotspur,,1,122.0,0.0,122.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0,0.0
+Jorge Cuenca,2026-03-08,Fulham,Southampton,6.6,90,9844.0,22.0,109.38,0,0,0.0,0.0,60,65,0,0,3,0,5,79,0,2.23
+Jorge Cuenca,2026-04-11,Liverpool,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

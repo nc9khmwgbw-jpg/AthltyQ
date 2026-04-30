@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Facundo Medina,2026-01-24,Olympique de Marseille,RC Lens,6.8,90,,,0.0,0,0,0.0,0.01,74,85,0,0,2,0,6,98
-Facundo Medina,2026-01-28,Club Brugge KV,Olympique de Marseille,6.8,90,,,0.0,0,0,0.0,0.14,65,70,2,0,0,0,8,89
-Facundo Medina,2026-01-31,Paris FC,Olympique de Marseille,6.3,90,,,0.0,0,0,0.0,0.02,45,52,0,0,1,0,6,62
-Facundo Medina,2026-02-03,Olympique de Marseille,Stade Rennais,7.1,90,,,0.0,0,0,0.0,0.0,84,90,0,0,0,0,4,103
-Facundo Medina,2026-02-08,Paris Saint-Germain,Olympique de Marseille,5.1,90,,,0.0,0,0,0.02,0.02,53,59,0,0,2,0,4,74
-Facundo Medina,2026-02-14,Olympique de Marseille,RC Strasbourg,6.2,15,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4
-Facundo Medina,2026-02-20,Stade Brestois,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Medina,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Facundo Medina,2026-03-04,Olympique de Marseille,Toulouse,6.3,90,,,0.0,0,0,0.0,0.0,50,59,0,0,1,0,2,84
-Facundo Medina,2026-03-07,Toulouse,Olympique de Marseille,6.8,90,,,0.0,0,0,0.0,0.02,46,51,0,0,2,0,6,66
-Facundo Medina,2026-03-13,Olympique de Marseille,Auxerre,7.1,90,,,0.0,0,0,0.03,0.03,65,72,0,0,2,0,7,89
-Facundo Medina,2026-03-22,Olympique de Marseille,Lille,6.7,90,,,0.0,0,0,0.08,0.02,77,81,0,0,1,0,6,90
-Facundo Medina,2026-04-05,AS Monaco,Olympique de Marseille,7.0,90,,,0.0,0,0,0.17,0.14,45,50,1,0,0,0,4,71
-Facundo Medina,2026-04-10,Olympique de Marseille,Metz,7.0,90,,,0.0,0,0,0.0,0.21,56,66,2,0,0,0,6,88
-Facundo Medina,2026-04-26,Olympique de Marseille,Nice,7.3,90,,,0.0,0,0,0.0,0.03,78,85,0,0,4,0,5,106
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Facundo Medina,2026-01-24,Olympique de Marseille,RC Lens,6.8,90,9937.0,20.0,110.41,0,0,0.0,0.01,74,85,0,0,2,0,6,98,0,2.01
+Facundo Medina,2026-01-28,Club Brugge KV,Olympique de Marseille,6.8,90,9924.0,17.0,110.27,0,0,0.0,0.14,65,70,2,0,0,0,8,89,0,1.71
+Facundo Medina,2026-01-31,Paris FC,Olympique de Marseille,6.3,90,9785.0,19.0,108.72,0,0,0.0,0.02,45,52,0,0,1,0,6,62,0,1.94
+Facundo Medina,2026-02-03,Olympique de Marseille,Stade Rennais,7.1,90,9933.0,17.0,110.37,0,0,0.0,0.0,84,90,0,0,0,0,4,103,0,1.71
+Facundo Medina,2026-02-08,Paris Saint-Germain,Olympique de Marseille,5.1,90,9811.0,20.0,109.01,0,0,0.02,0.02,53,59,0,0,2,0,4,74,0,2.04
+Facundo Medina,2026-02-14,Olympique de Marseille,RC Strasbourg,6.2,15,1592.0,3.0,106.13,0,0,0.0,0.0,2,2,0,0,0,0,0,4,0,1.88
+Facundo Medina,2026-02-20,Stade Brestois,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Medina,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Facundo Medina,2026-03-04,Olympique de Marseille,Toulouse,6.3,90,9828.0,19.0,109.2,0,0,0.0,0.0,50,59,0,0,1,0,2,84,0,1.93
+Facundo Medina,2026-03-07,Toulouse,Olympique de Marseille,6.8,90,9802.0,20.0,108.91,0,0,0.0,0.02,46,51,0,0,2,0,6,66,0,2.04
+Facundo Medina,2026-03-13,Olympique de Marseille,Auxerre,7.1,90,9911.0,20.0,110.12,0,0,0.03,0.03,65,72,0,0,2,0,7,89,0,2.02
+Facundo Medina,2026-03-22,Olympique de Marseille,Lille,6.7,90,9903.0,19.0,110.03,0,0,0.08,0.02,77,81,0,0,1,0,6,90,0,1.92
+Facundo Medina,2026-04-05,AS Monaco,Olympique de Marseille,7.0,90,9798.0,17.0,108.87,0,0,0.17,0.14,45,50,1,0,0,0,4,71,0,1.74
+Facundo Medina,2026-04-10,Olympique de Marseille,Metz,7.0,90,9895.0,17.0,109.94,0,0,0.0,0.21,56,66,2,0,0,0,6,88,0,1.72
+Facundo Medina,2026-04-26,Olympique de Marseille,Nice,7.3,90,9958.0,23.0,110.64,0,0,0.0,0.03,78,85,0,0,4,0,5,106,0,2.31

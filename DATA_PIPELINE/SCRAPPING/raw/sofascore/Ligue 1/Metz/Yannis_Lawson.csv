@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Yannis Lawson,2025-01-28,RFC Seraing,Koninklijke Lierse Sportkring,6.5,79,,,0.0,0,0,0.0,0.0,6,10,0,0,0,0,3,28
-Yannis Lawson,2025-01-31,RFC Liège,RFC Seraing,7.2,74,,,0.0,0,0,0.0,0.0,11,16,1,0,0,0,4,34
-Yannis Lawson,2025-02-09,RFC Seraing,SK Beveren,6.5,72,,,0.0,0,0,0.0,0.0,10,15,0,0,1,0,2,27
-Yannis Lawson,2025-02-15,RAAL La Louvière,RFC Seraing,6.5,90,,,0.0,0,0,0.0,0.0,21,26,0,0,2,0,7,48
-Yannis Lawson,2025-03-02,Lommel SK,RFC Seraing,7.2,90,,,0.0,0,0,0.0,0.0,6,11,2,0,1,0,2,26
-Yannis Lawson,2025-03-07,RFC Seraing,Club NXT U23,7.0,90,,,0.0,0,0,0.0,0.0,7,13,0,0,0,0,3,33
-Yannis Lawson,2025-03-15,RSCA Futures U23,RFC Seraing,6.2,90,,,0.0,0,0,0.0,0.0,8,13,0,0,1,0,1,31
-Yannis Lawson,2025-03-28,RWDM Brussels,RFC Seraing,6.2,71,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,2,21
-Yannis Lawson,2025-04-06,RFC Seraing,SV Zulte Waregem,6.6,27,,,0.0,0,0,0.0,0.0,7,8,0,0,0,0,2,18
-Yannis Lawson,2025-04-12,KAS Eupen,RFC Seraing,6.7,28,,,0.0,0,0,0.0,0.0,3,5,1,0,1,0,2,13
-Yannis Lawson,2025-10-29,Metz,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Yannis Lawson,2025-01-28,RFC Seraing,Koninklijke Lierse Sportkring,6.5,79,8450.0,15.0,106.96,0,0,0.0,0.0,6,10,0,0,0,0,3,28,0,1.78
+Yannis Lawson,2025-01-31,RFC Liège,RFC Seraing,7.2,74,7963.0,14.0,107.61,0,0,0.0,0.0,11,16,1,0,0,0,4,34,0,1.76
+Yannis Lawson,2025-02-09,RFC Seraing,SK Beveren,6.5,72,7698.0,15.0,106.92,0,0,0.0,0.0,10,15,0,0,1,0,2,27,0,1.95
+Yannis Lawson,2025-02-15,RAAL La Louvière,RFC Seraing,6.5,90,9739.0,20.0,108.21,0,0,0.0,0.0,21,26,0,0,2,0,7,48,0,2.05
+Yannis Lawson,2025-03-02,Lommel SK,RFC Seraing,7.2,90,9584.0,19.0,106.49,0,0,0.0,0.0,6,11,2,0,1,0,2,26,0,1.98
+Yannis Lawson,2025-03-07,RFC Seraing,Club NXT U23,7.0,90,9626.0,17.0,106.96,0,0,0.0,0.0,7,13,0,0,0,0,3,33,0,1.77
+Yannis Lawson,2025-03-15,RSCA Futures U23,RFC Seraing,6.2,90,9593.0,19.0,106.59,0,0,0.0,0.0,8,13,0,0,1,0,1,31,0,1.98
+Yannis Lawson,2025-03-28,RWDM Brussels,RFC Seraing,6.2,71,7568.0,14.0,106.59,0,0,0.0,0.0,5,6,0,0,0,0,2,21,0,1.85
+Yannis Lawson,2025-04-06,RFC Seraing,SV Zulte Waregem,6.6,27,2936.0,5.0,108.74,0,0,0.0,0.0,7,8,0,0,0,0,2,18,0,1.7
+Yannis Lawson,2025-04-12,KAS Eupen,RFC Seraing,6.7,28,3020.0,7.0,107.86,0,0,0.0,0.0,3,5,1,0,1,0,2,13,0,2.32
+Yannis Lawson,2025-10-29,Metz,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

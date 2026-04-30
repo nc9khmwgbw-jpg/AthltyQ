@@ -1,11 +1,11 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Javier Navarro Jimenez,2025-09-30,Kairat Almaty,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Javier Navarro Jimenez,2025-10-05,SD Ponferradina,Real Madrid Castilla U21,6.3,90,,,0.0,0,0,0.0,0.0,15,25,0,0,0,0,6,28
-Javier Navarro Jimenez,2025-10-12,Real Madrid Castilla U21,Pontevedra CF,7.2,90,,,0.0,0,0,0.0,0.0,30,32,0,0,0,0,5,34
-Javier Navarro Jimenez,2025-11-26,Olympiacos FC,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Javier Navarro Jimenez,2025-12-10,Real Madrid U19,Manchester City U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Javier Navarro Jimenez,2025-12-17,CF Talavera,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Javier Navarro Jimenez,2026-04-15,FC Bayern München,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Javier Navarro Jimenez,2026-04-17,Real Madrid U19,Paris Saint-Germain U19,9.9,120,,,0.0,0,0,0.0,0.0,14,24,0,0,0,0,10,34
-Javier Navarro Jimenez,2026-04-20,Club Brugge U19,Real Madrid U19,8.4,120,,,0.0,0,0,0.0,0.0,14,20,0,0,0,0,8,27
-Javier Navarro Jimenez,2026-04-24,Real Betis,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Javier Navarro Jimenez,2025-09-30,Kairat Almaty,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Javier Navarro Jimenez,2025-10-05,SD Ponferradina,Real Madrid Castilla U21,6.3,90,9643.0,17.0,107.14,0,0,0.0,0.0,15,25,0,0,0,0,6,28,0,1.76
+Javier Navarro Jimenez,2025-10-12,Real Madrid Castilla U21,Pontevedra CF,7.2,90,9655.0,17.0,107.28,0,0,0.0,0.0,30,32,0,0,0,0,5,34,0,1.76
+Javier Navarro Jimenez,2025-11-26,Olympiacos FC,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Javier Navarro Jimenez,2025-12-10,Real Madrid U19,Manchester City U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Javier Navarro Jimenez,2025-12-17,CF Talavera,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Javier Navarro Jimenez,2026-04-15,FC Bayern München,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Javier Navarro Jimenez,2026-04-17,Real Madrid U19,Paris Saint-Germain U19,9.9,120,12868.0,23.0,107.23,0,0,0.0,0.0,14,24,0,0,0,0,10,34,0,1.79
+Javier Navarro Jimenez,2026-04-20,Club Brugge U19,Real Madrid U19,8.4,120,12813.0,23.0,106.78,0,0,0.0,0.0,14,20,0,0,0,0,8,27,0,1.8
+Javier Navarro Jimenez,2026-04-24,Real Betis,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

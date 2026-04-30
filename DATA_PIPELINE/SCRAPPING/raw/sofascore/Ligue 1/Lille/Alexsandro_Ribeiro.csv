@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Alexsandro Ribeiro,2026-01-22,Celta Vigo,Lille,5.8,45,,,0.0,0,0,0.0,0.0,49,51,0,0,0,0,2,55
-Alexsandro Ribeiro,2026-01-25,Lille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-01-29,Lille,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-02-01,Olympique Lyonnais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-02-06,Metz,Lille,7.4,90,,,0.0,0,0,0.07,0.01,73,79,0,0,1,0,4,93
-Alexsandro Ribeiro,2026-02-14,Lille,Stade Brestois,7.6,90,,,0.0,0,0,0.2,0.01,73,82,0,0,2,0,6,99
-Alexsandro Ribeiro,2026-03-08,Lille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-03-15,Stade Rennais,Lille,6.7,8,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,4
-Alexsandro Ribeiro,2026-03-19,Aston Villa,Lille,7.4,73,,,0.0,0,0,0.06,0.14,40,46,1,0,2,0,2,61
-Alexsandro Ribeiro,2026-03-22,Olympique de Marseille,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-04-12,Toulouse,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-04-18,Lille,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alexsandro Ribeiro,2026-04-26,Paris FC,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alexsandro Ribeiro,2026-01-22,Celta Vigo,Lille,5.8,45,4981.0,9.0,110.69,0,0,0.0,0.0,49,51,0,0,0,0,2,55,0,1.81
+Alexsandro Ribeiro,2026-01-25,Lille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-01-29,Lille,SC Freiburg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-02-01,Olympique Lyonnais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-02-06,Metz,Lille,7.4,90,9891.0,19.0,109.9,0,0,0.07,0.01,73,79,0,0,1,0,4,93,0,1.92
+Alexsandro Ribeiro,2026-02-14,Lille,Stade Brestois,7.6,90,9941.0,20.0,110.46,0,0,0.2,0.01,73,82,0,0,2,0,6,99,0,2.01
+Alexsandro Ribeiro,2026-03-08,Lille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-03-15,Stade Rennais,Lille,6.7,8,857.0,2.0,107.12,0,0,0.0,0.0,1,2,0,0,0,0,0,4,0,2.33
+Alexsandro Ribeiro,2026-03-19,Aston Villa,Lille,7.4,73,7946.0,17.0,108.85,0,0,0.06,0.14,40,46,1,0,2,0,2,61,0,2.14
+Alexsandro Ribeiro,2026-03-22,Olympique de Marseille,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-04-12,Toulouse,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-04-18,Lille,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alexsandro Ribeiro,2026-04-26,Paris FC,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

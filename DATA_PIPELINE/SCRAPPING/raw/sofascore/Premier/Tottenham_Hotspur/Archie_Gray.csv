@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Archie Gray,2026-02-01,Tottenham Hotspur,Manchester City,6.5,90,,,0.0,0,0,0.0,0.01,20,25,0,0,1,0,0,45
-Archie Gray,2026-02-07,Manchester United,Tottenham Hotspur,6.3,90,,,0.0,0,0,0.0,0.02,28,33,0,0,1,0,2,47
-Archie Gray,2026-02-10,Tottenham Hotspur,Newcastle United,7.6,90,,,0.0,1,0,0.57,0.29,27,32,1,0,0,0,1,55
-Archie Gray,2026-02-22,Tottenham Hotspur,Arsenal,5.9,90,,,0.0,0,0,0.0,0.0,22,30,0,0,1,0,3,52
-Archie Gray,2026-03-01,Fulham,Tottenham Hotspur,6.2,90,,,0.0,0,0,0.0,0.12,19,23,1,0,0,0,5,36
-Archie Gray,2026-03-05,Tottenham Hotspur,Crystal Palace,7.6,90,,,0.0,0,0,0.05,0.56,21,27,1,0,0,0,3,45
-Archie Gray,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.7,90,,,0.0,0,0,0.53,0.01,18,22,1,0,0,0,3,29
-Archie Gray,2026-03-15,Liverpool,Tottenham Hotspur,6.5,90,,,0.0,0,0,0.0,0.01,19,24,1,0,2,0,4,34
-Archie Gray,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.8,81,,,0.0,0,0,0.0,0.04,38,43,2,0,1,0,9,57
-Archie Gray,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.8,84,,,0.0,0,0,0.13,0.03,45,58,1,0,0,0,6,68
-Archie Gray,2026-03-27,Andorra U21,England U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Archie Gray,2026-03-31,England U21,Moldova U21,8.0,79,,,0.0,1,0,0.0,0.0,72,77,1,0,3,0,10,90
-Archie Gray,2026-04-12,Sunderland,Tottenham Hotspur,6.5,61,,,0.0,0,0,0.0,0.0,18,20,0,0,3,0,2,23
-Archie Gray,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,6.5,33,,,0.0,0,0,0.04,0.0,6,8,0,0,0,0,0,13
-Archie Gray,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Archie Gray,2026-02-01,Tottenham Hotspur,Manchester City,6.5,90,9639.0,19.0,107.1,0,0,0.0,0.01,20,25,0,0,1,0,0,45,0,1.97
+Archie Gray,2026-02-07,Manchester United,Tottenham Hotspur,6.3,90,9672.0,19.0,107.47,0,0,0.0,0.02,28,33,0,0,1,0,2,47,0,1.96
+Archie Gray,2026-02-10,Tottenham Hotspur,Newcastle United,7.6,90,9694.0,17.0,107.71,1,0,0.57,0.29,27,32,1,0,0,0,1,55,0,1.75
+Archie Gray,2026-02-22,Tottenham Hotspur,Arsenal,5.9,90,9706.0,19.0,107.84,0,0,0.0,0.0,22,30,0,0,1,0,3,52,0,1.96
+Archie Gray,2026-03-01,Fulham,Tottenham Hotspur,6.2,90,9664.0,17.0,107.38,0,0,0.0,0.12,19,23,1,0,0,0,5,36,0,1.76
+Archie Gray,2026-03-05,Tottenham Hotspur,Crystal Palace,7.6,90,9676.0,17.0,107.51,0,0,0.05,0.56,21,27,1,0,0,0,3,45,0,1.76
+Archie Gray,2026-03-10,Atlético Madrid,Tottenham Hotspur,5.7,90,9609.0,17.0,106.77,0,0,0.53,0.01,18,22,1,0,0,0,3,29,0,1.77
+Archie Gray,2026-03-15,Liverpool,Tottenham Hotspur,6.5,90,9643.0,20.0,107.14,0,0,0.0,0.01,19,24,1,0,2,0,4,34,0,2.07
+Archie Gray,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.8,81,8857.0,17.0,109.35,0,0,0.0,0.04,38,43,2,0,1,0,9,57,0,1.92
+Archie Gray,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.8,84,9181.0,16.0,109.3,0,0,0.13,0.03,45,58,1,0,0,0,6,68,0,1.74
+Archie Gray,2026-03-27,Andorra U21,England U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Archie Gray,2026-03-31,England U21,Moldova U21,8.0,79,8798.0,19.0,111.37,1,0,0.0,0.0,72,77,1,0,3,0,10,90,0,2.16
+Archie Gray,2026-04-12,Sunderland,Tottenham Hotspur,6.5,61,6527.0,16.0,107.0,0,0,0.0,0.0,18,20,0,0,3,0,2,23,0,2.45
+Archie Gray,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,6.5,33,3520.0,6.0,106.67,0,0,0.04,0.0,6,8,0,0,0,0,0,13,0,1.7
+Archie Gray,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

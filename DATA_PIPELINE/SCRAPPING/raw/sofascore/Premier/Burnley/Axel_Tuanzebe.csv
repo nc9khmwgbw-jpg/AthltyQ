@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Axel Tuanzebe,2025-11-13,Cameroon,DR Congo,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Axel Tuanzebe,2025-11-16,Nigeria,DR Congo,,120,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Axel Tuanzebe,2025-11-22,Burnley,Chelsea,6.7,90,,,0.0,0,0,0.0,0.0,44,54,0,0,0,0,5,66
-Axel Tuanzebe,2025-11-29,Brentford,Burnley,5.3,90,,,0.0,0,0,0.0,0.01,27,32,0,0,1,0,2,41
-Axel Tuanzebe,2025-12-13,Burnley,Fulham,6.3,77,,,0.0,0,0,0.0,0.08,45,49,0,0,1,0,4,59
-Axel Tuanzebe,2025-12-23,DR Congo,Benin,6.5,90,,,0.0,0,0,0.0,0.0,18,22,0,0,0,0,1,33
-Axel Tuanzebe,2025-12-27,Senegal,DR Congo,6.9,90,,,0.0,0,0,0.0,0.0,27,38,0,0,0,0,2,59
-Axel Tuanzebe,2025-12-30,Botswana,DR Congo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Axel Tuanzebe,2026-01-06,Algeria,DR Congo,7.3,120,,,0.0,0,0,0.0,0.0,56,64,0,0,0,0,5,75
-Axel Tuanzebe,2026-01-10,Burnley,Millwall,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Axel Tuanzebe,2026-01-17,Liverpool,Burnley,6.6,90,,,0.0,0,0,0.0,0.0,4,14,0,0,0,0,2,29
-Axel Tuanzebe,2026-01-24,Burnley,Tottenham Hotspur,7.1,90,,,0.0,1,0,0.61,0.0,25,32,0,0,2,0,1,41
-Axel Tuanzebe,2026-02-02,Sunderland,Burnley,5.6,45,,,0.0,0,0,0.0,0.0,31,35,0,0,1,0,2,41
-Axel Tuanzebe,2026-03-31,DR Congo,Jamaica,8.5,120,,,0.0,1,0,0.0,0.0,59,70,1,0,1,0,5,81
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Axel Tuanzebe,2025-11-13,Cameroon,DR Congo,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Axel Tuanzebe,2025-11-16,Nigeria,DR Congo,,120,12600.0,23.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.83
+Axel Tuanzebe,2025-11-22,Burnley,Chelsea,6.7,90,9790.0,17.0,108.78,0,0,0.0,0.0,44,54,0,0,0,0,5,66,0,1.74
+Axel Tuanzebe,2025-11-29,Brentford,Burnley,5.3,90,9647.0,19.0,107.19,0,0,0.0,0.01,27,32,0,0,1,0,2,41,0,1.97
+Axel Tuanzebe,2025-12-13,Burnley,Fulham,6.3,77,8383.0,16.0,108.87,0,0,0.0,0.08,45,49,0,0,1,0,4,59,0,1.91
+Axel Tuanzebe,2025-12-23,DR Congo,Benin,6.5,90,9601.0,17.0,106.68,0,0,0.0,0.0,18,22,0,0,0,0,1,33,0,1.77
+Axel Tuanzebe,2025-12-27,Senegal,DR Congo,6.9,90,9723.0,17.0,108.03,0,0,0.0,0.0,27,38,0,0,0,0,2,59,0,1.75
+Axel Tuanzebe,2025-12-30,Botswana,DR Congo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Axel Tuanzebe,2026-01-06,Algeria,DR Congo,7.3,120,12978.0,23.0,108.15,0,0,0.0,0.0,56,64,0,0,0,0,5,75,0,1.77
+Axel Tuanzebe,2026-01-10,Burnley,Millwall,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Axel Tuanzebe,2026-01-17,Liverpool,Burnley,6.6,90,9597.0,17.0,106.63,0,0,0.0,0.0,4,14,0,0,0,0,2,29,0,1.77
+Axel Tuanzebe,2026-01-24,Burnley,Tottenham Hotspur,7.1,90,9635.0,20.0,107.06,1,0,0.61,0.0,25,32,0,0,2,0,1,41,0,2.08
+Axel Tuanzebe,2026-02-02,Sunderland,Burnley,5.6,45,4922.0,10.0,109.38,0,0,0.0,0.0,31,35,0,0,1,0,2,41,0,2.03
+Axel Tuanzebe,2026-03-31,DR Congo,Jamaica,8.5,120,13003.0,24.0,108.36,1,0,0.0,0.0,59,70,1,0,1,0,5,81,0,1.85

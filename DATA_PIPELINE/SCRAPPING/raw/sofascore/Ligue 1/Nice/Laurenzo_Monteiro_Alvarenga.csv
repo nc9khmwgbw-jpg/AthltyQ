@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Laurenzo Monteiro Alvarenga,2024-11-28,Nice,Rangers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2024-12-01,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2024-12-07,Nice,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2024-12-12,Royale Union Saint-Gilloise,Nice,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2024-12-15,Montpellier,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2024-12-21,US Club du Cortenais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2025-01-23,IF Elfsborg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2025-01-30,Nice,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2025-08-12,Benfica,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2025-10-23,Celta Vigo,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Laurenzo Monteiro Alvarenga,2026-01-29,Ludogorets,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Laurenzo Monteiro Alvarenga,2024-11-28,Nice,Rangers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2024-12-01,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2024-12-07,Nice,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2024-12-12,Royale Union Saint-Gilloise,Nice,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2024-12-15,Montpellier,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2024-12-21,US Club du Cortenais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2025-01-23,IF Elfsborg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2025-01-30,Nice,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2025-08-12,Benfica,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2025-10-23,Celta Vigo,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Laurenzo Monteiro Alvarenga,2026-01-29,Ludogorets,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

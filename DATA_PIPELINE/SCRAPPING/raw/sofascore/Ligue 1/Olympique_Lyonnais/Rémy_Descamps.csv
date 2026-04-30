@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Rémy Descamps,2026-02-04,Olympique Lyonnais,Stade Lavallois,8.1,90,,,0.0,0,0,0.0,0.0,14,15,0,0,0,0,12,30
-Rémy Descamps,2026-02-07,Nantes,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-02-15,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-02-22,RC Strasbourg,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-03-05,Olympique Lyonnais,RC Lens,6.2,90,,,0.0,0,0,0.0,0.0,31,37,0,0,0,0,9,44
-Rémy Descamps,2026-03-08,Olympique Lyonnais,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-03-12,Celta Vigo,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-03-15,Le Havre,Olympique Lyonnais,8.7,90,,,0.0,0,0,0.0,0.0,22,25,0,0,0,0,7,36
-Rémy Descamps,2026-03-19,Olympique Lyonnais,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-04-05,Angers,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-04-12,Olympique Lyonnais,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Rémy Descamps,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rémy Descamps,2026-02-04,Olympique Lyonnais,Stade Lavallois,8.1,90,9726.0,17.0,108.07,0,0,0.0,0.0,14,15,0,0,0,0,12,30,0,1.75
+Rémy Descamps,2026-02-07,Nantes,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-02-15,Olympique Lyonnais,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-02-22,RC Strasbourg,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-03-01,Olympique de Marseille,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-03-05,Olympique Lyonnais,RC Lens,6.2,90,9747.0,17.0,108.3,0,0,0.0,0.0,31,37,0,0,0,0,9,44,0,1.74
+Rémy Descamps,2026-03-08,Olympique Lyonnais,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-03-12,Celta Vigo,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-03-15,Le Havre,Olympique Lyonnais,8.7,90,9689.0,17.0,107.66,0,0,0.0,0.0,22,25,0,0,0,0,7,36,0,1.75
+Rémy Descamps,2026-03-19,Olympique Lyonnais,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-04-05,Angers,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-04-12,Olympique Lyonnais,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Rémy Descamps,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

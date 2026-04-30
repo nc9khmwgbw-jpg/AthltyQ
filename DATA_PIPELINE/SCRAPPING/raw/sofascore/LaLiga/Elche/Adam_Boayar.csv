@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Adam Boayar,2025-12-03,CD Quintanar Del Rey,Elche,6.1,120,,,0.0,0,0,0.0,0.0,15,20,0,0,0,0,3,38
-Adam Boayar,2025-12-07,Elche,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Boayar,2025-12-13,Mallorca,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Boayar,2025-12-16,Eibar,Elche,8.0,73,,,0.0,1,0,0.0,0.0,8,13,0,0,2,0,4,25
-Adam Boayar,2025-12-21,Elche,Rayo Vallecano,,1,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1
-Adam Boayar,2026-01-03,Elche,Villarreal,6.3,11,,,0.0,0,0,0.0,0.0,4,4,0,0,0,0,1,7
-Adam Boayar,2026-01-10,Valencia,Elche,6.8,30,,,0.0,0,0,0.02,0.06,14,14,1,0,0,0,2,22
-Adam Boayar,2026-01-14,Real Betis,Elche,6.0,60,,,0.0,0,0,0.0,0.0,8,13,0,0,0,0,3,30
-Adam Boayar,2026-01-19,Elche,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Boayar,2026-01-23,Levante UD,Elche,7.6,20,,,0.0,1,0,0.12,0.0,3,3,0,0,0,0,0,8
-Adam Boayar,2026-01-31,Elche,FC Barcelona,6.9,30,,,0.0,0,0,0.16,0.36,4,6,1,0,1,0,0,15
-Adam Boayar,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Boayar,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Boayar,2026-02-20,Athletic Club,Elche,,1,,,0.0,0,0,0.0,0.0,0,2,0,0,0,0,0,5
-Adam Boayar,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Adam Boayar,2025-12-03,CD Quintanar Del Rey,Elche,6.1,120,12797.0,23.0,106.64,0,0,0.0,0.0,15,20,0,0,0,0,3,38,0,1.8
+Adam Boayar,2025-12-07,Elche,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Boayar,2025-12-13,Mallorca,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Boayar,2025-12-16,Eibar,Elche,8.0,73,7820.0,17.0,107.12,1,0,0.0,0.0,8,13,0,0,2,0,4,25,0,2.17
+Adam Boayar,2025-12-21,Elche,Rayo Vallecano,,1,109.0,0.0,109.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,0.0
+Adam Boayar,2026-01-03,Elche,Villarreal,6.3,11,1197.0,2.0,108.82,0,0,0.0,0.0,4,4,0,0,0,0,1,7,0,1.67
+Adam Boayar,2026-01-10,Valencia,Elche,6.8,30,3267.0,6.0,108.9,0,0,0.02,0.06,14,14,1,0,0,0,2,22,0,1.84
+Adam Boayar,2026-01-14,Real Betis,Elche,6.0,60,6464.0,12.0,107.73,0,0,0.0,0.0,8,13,0,0,0,0,3,30,0,1.86
+Adam Boayar,2026-01-19,Elche,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Boayar,2026-01-23,Levante UD,Elche,7.6,20,2134.0,4.0,106.7,1,0,0.12,0.0,3,3,0,0,0,0,0,8,0,1.87
+Adam Boayar,2026-01-31,Elche,FC Barcelona,6.9,30,3213.0,7.0,107.1,0,0,0.16,0.36,4,6,1,0,1,0,0,15,0,2.18
+Adam Boayar,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Boayar,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Boayar,2026-02-20,Athletic Club,Elche,,1,126.0,0.0,126.0,0,0,0.0,0.0,0,2,0,0,0,0,0,5,0,0.0
+Adam Boayar,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

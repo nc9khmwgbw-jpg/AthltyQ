@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Antoni Milambo,2025-06-15,Netherlands U21,Denmark U21,7.1,24,,,0.0,0,0,0.0,0.0,13,14,3,0,0,0,0,18
-Antoni Milambo,2025-06-18,Netherlands U21,Ukraine U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antoni Milambo,2025-06-21,Portugal U21,Netherlands U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antoni Milambo,2025-06-25,England U21,Netherlands U21,7.0,69,,,0.0,0,0,0.0,0.0,24,26,0,0,0,0,1,33
-Antoni Milambo,2025-07-25,Gil Vicente,Brentford,6.4,45,,,0.0,0,0,0.0,0.0,12,13,0,0,1,0,2,15
-Antoni Milambo,2025-08-02,Queens Park Rangers,Brentford,7.3,26,,,0.0,0,0,0.0,0.0,9,10,1,0,2,0,1,18
-Antoni Milambo,2025-08-08,Brentford,Borussia M'gladbach,6.3,15,,,0.0,0,0,0.0,0.0,9,9,0,0,0,0,1,14
-Antoni Milambo,2025-08-17,Nottingham Forest,Brentford,6.7,45,,,0.0,0,0,0.0,0.01,8,11,0,0,0,0,2,19
-Antoni Milambo,2025-08-23,Brentford,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antoni Milambo,2025-08-26,Bournemouth,Brentford,6.3,59,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,2,16
-Antoni Milambo,2025-08-30,Sunderland,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antoni Milambo,2025-09-09,Netherlands U21,Israel U21,8.0,90,,,0.0,0,0,0.0,0.0,98,105,3,0,0,0,6,117
-Antoni Milambo,2025-09-16,Brentford,Aston Villa,6.8,68,,,0.0,0,0,0.0,0.0,8,12,1,0,0,0,2,21
-Antoni Milambo,2025-09-27,Brentford,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antoni Milambo,2025-10-10,Bosnia & Herzegovina U21,Netherlands U21,6.5,45,,,0.0,0,0,0.0,0.0,21,24,1,0,0,0,3,26
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Antoni Milambo,2025-06-15,Netherlands U21,Denmark U21,7.1,24,2596.0,5.0,108.17,0,0,0.0,0.0,13,14,3,0,0,0,0,18,0,1.93
+Antoni Milambo,2025-06-18,Netherlands U21,Ukraine U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antoni Milambo,2025-06-21,Portugal U21,Netherlands U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antoni Milambo,2025-06-25,England U21,Netherlands U21,7.0,69,7396.0,13.0,107.19,0,0,0.0,0.0,24,26,0,0,0,0,1,33,0,1.76
+Antoni Milambo,2025-07-25,Gil Vicente,Brentford,6.4,45,4813.0,10.0,106.96,0,0,0.0,0.0,12,13,0,0,1,0,2,15,0,2.08
+Antoni Milambo,2025-08-02,Queens Park Rangers,Brentford,7.3,26,2818.0,8.0,108.38,0,0,0.0,0.0,9,10,1,0,2,0,1,18,0,2.84
+Antoni Milambo,2025-08-08,Brentford,Borussia M'gladbach,6.3,15,1646.0,3.0,109.73,0,0,0.0,0.0,9,9,0,0,0,0,1,14,0,1.82
+Antoni Milambo,2025-08-17,Nottingham Forest,Brentford,6.7,45,4830.0,9.0,107.33,0,0,0.0,0.01,8,11,0,0,0,0,2,19,0,1.86
+Antoni Milambo,2025-08-23,Brentford,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antoni Milambo,2025-08-26,Bournemouth,Brentford,6.3,59,6287.0,11.0,106.56,0,0,0.0,0.0,4,6,0,0,0,0,2,16,0,1.75
+Antoni Milambo,2025-08-30,Sunderland,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antoni Milambo,2025-09-09,Netherlands U21,Israel U21,8.0,90,10016.0,17.0,111.29,0,0,0.0,0.0,98,105,3,0,0,0,6,117,0,1.7
+Antoni Milambo,2025-09-16,Brentford,Aston Villa,6.8,68,7253.0,13.0,106.66,0,0,0.0,0.0,8,12,1,0,0,0,2,21,0,1.79
+Antoni Milambo,2025-09-27,Brentford,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antoni Milambo,2025-10-10,Bosnia & Herzegovina U21,Netherlands U21,6.5,45,4872.0,9.0,108.27,0,0,0.0,0.0,21,24,1,0,0,0,3,26,0,1.85

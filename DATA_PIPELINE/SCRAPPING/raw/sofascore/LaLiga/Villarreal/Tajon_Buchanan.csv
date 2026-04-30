@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tajon Buchanan,2026-01-24,Villarreal,Real Madrid,6.6,70,,,0.0,0,0,0.0,0.01,16,21,0,0,1,0,4,40
-Tajon Buchanan,2026-01-28,Bayer 04 Leverkusen,Villarreal,6.2,45,,,0.0,0,0,0.02,0.0,9,14,0,0,0,0,7,22
-Tajon Buchanan,2026-01-31,Osasuna,Villarreal,6.5,15,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,9
-Tajon Buchanan,2026-02-09,Villarreal,Espanyol,6.6,64,,,0.0,0,0,0.17,0.2,12,13,2,0,0,0,4,27
-Tajon Buchanan,2026-02-14,Getafe,Villarreal,6.1,65,,,0.0,0,0,0.0,0.01,6,9,0,0,0,0,2,22
-Tajon Buchanan,2026-02-18,Levante UD,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tajon Buchanan,2026-02-22,Villarreal,Valencia,6.5,20,,,0.0,0,0,0.0,0.0,4,5,0,0,1,0,3,12
-Tajon Buchanan,2026-02-28,FC Barcelona,Villarreal,6.3,23,,,0.0,0,0,0.0,0.0,0,3,0,0,1,0,1,7
-Tajon Buchanan,2026-03-08,Villarreal,Elche,7.9,65,,,0.0,1,0,0.11,0.07,12,16,2,0,0,0,6,27
-Tajon Buchanan,2026-03-13,Deportivo Alavés,Villarreal,6.2,59,,,0.0,0,0,0.0,0.0,7,9,0,0,0,0,3,15
-Tajon Buchanan,2026-03-20,Villarreal,Real Sociedad,6.4,16,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,9
-Tajon Buchanan,2026-03-28,Canada,Iceland,6.9,80,,,0.0,0,0,0.0,0.0,24,27,0,0,1,0,5,58
-Tajon Buchanan,2026-04-06,Girona FC,Villarreal,6.4,20,,,0.0,0,0,0.01,0.0,4,4,0,0,0,0,0,7
-Tajon Buchanan,2026-04-12,Athletic Club,Villarreal,6.8,78,,,0.0,0,0,0.13,0.02,17,19,0,0,1,0,5,32
-Tajon Buchanan,2026-04-23,Real Oviedo,Villarreal,6.6,45,,,0.0,0,0,0.0,0.01,7,9,0,0,0,0,2,22
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tajon Buchanan,2026-01-24,Villarreal,Real Madrid,6.6,70,7568.0,15.0,108.11,0,0,0.0,0.01,16,21,0,0,1,0,4,40,0,1.98
+Tajon Buchanan,2026-01-28,Bayer 04 Leverkusen,Villarreal,6.2,45,4905.0,9.0,109.0,0,0,0.02,0.0,9,14,0,0,0,0,7,22,0,1.83
+Tajon Buchanan,2026-01-31,Osasuna,Villarreal,6.5,15,1613.0,3.0,107.53,0,0,0.0,0.0,2,2,0,0,0,0,0,9,0,1.86
+Tajon Buchanan,2026-02-09,Villarreal,Espanyol,6.6,64,6883.0,12.0,107.55,0,0,0.17,0.2,12,13,2,0,0,0,4,27,0,1.74
+Tajon Buchanan,2026-02-14,Getafe,Villarreal,6.1,65,6942.0,12.0,106.8,0,0,0.0,0.01,6,9,0,0,0,0,2,22,0,1.73
+Tajon Buchanan,2026-02-18,Levante UD,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tajon Buchanan,2026-02-22,Villarreal,Valencia,6.5,20,2188.0,5.0,109.4,0,0,0.0,0.0,4,5,0,0,1,0,3,12,0,2.29
+Tajon Buchanan,2026-02-28,FC Barcelona,Villarreal,6.3,23,2457.0,6.0,106.83,0,0,0.0,0.0,0,3,0,0,1,0,1,7,0,2.44
+Tajon Buchanan,2026-03-08,Villarreal,Elche,7.9,65,7013.0,12.0,107.89,1,0,0.11,0.07,12,16,2,0,0,0,6,27,0,1.71
+Tajon Buchanan,2026-03-13,Deportivo Alavés,Villarreal,6.2,59,6296.0,11.0,106.71,0,0,0.0,0.0,7,9,0,0,0,0,3,15,0,1.75
+Tajon Buchanan,2026-03-20,Villarreal,Real Sociedad,6.4,16,1718.0,3.0,107.38,0,0,0.0,0.0,2,3,0,0,0,0,0,9,0,1.75
+Tajon Buchanan,2026-03-28,Canada,Iceland,6.9,80,8706.0,17.0,108.82,0,0,0.0,0.0,24,27,0,0,1,0,5,58,0,1.95
+Tajon Buchanan,2026-04-06,Girona FC,Villarreal,6.4,20,2129.0,4.0,106.45,0,0,0.01,0.0,4,4,0,0,0,0,0,7,0,1.88
+Tajon Buchanan,2026-04-12,Athletic Club,Villarreal,6.8,78,8387.0,16.0,107.53,0,0,0.13,0.02,17,19,0,0,1,0,5,32,0,1.91
+Tajon Buchanan,2026-04-23,Real Oviedo,Villarreal,6.6,45,4842.0,9.0,107.6,0,0,0.0,0.01,7,9,0,0,0,0,2,22,0,1.86

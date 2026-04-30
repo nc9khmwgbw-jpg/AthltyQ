@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Antonio Raíllo,2025-12-05,Real Oviedo,Mallorca,6.7,90,,,0.0,0,0,0.07,0.0,26,32,1,0,0,0,3,40
-Antonio Raíllo,2025-12-13,Mallorca,Elche,6.7,90,,,0.0,0,0,0.0,0.12,61,67,1,0,0,0,2,68
-Antonio Raíllo,2025-12-19,Valencia,Mallorca,7.1,90,,,0.0,0,0,0.0,0.02,20,24,1,0,0,0,1,35
-Antonio Raíllo,2026-01-04,Mallorca,Girona FC,6.6,90,,,0.0,0,0,0.0,0.01,35,42,1,0,1,0,3,53
-Antonio Raíllo,2026-01-17,Mallorca,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonio Raíllo,2026-01-25,Atlético Madrid,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonio Raíllo,2026-02-02,Mallorca,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonio Raíllo,2026-02-07,FC Barcelona,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonio Raíllo,2026-02-15,Mallorca,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Antonio Raíllo,2026-02-22,Celta Vigo,Mallorca,6.5,90,,,0.0,0,0,0.04,0.0,54,59,0,0,0,0,4,70
-Antonio Raíllo,2026-02-28,Mallorca,Real Sociedad,7.6,90,,,0.0,0,0,0.08,0.01,60,64,0,0,0,0,2,76
-Antonio Raíllo,2026-03-07,Osasuna,Mallorca,7.4,53,,,0.0,0,0,0.0,0.0,38,39,0,0,0,0,0,44
-Antonio Raíllo,2026-03-15,Mallorca,Espanyol,7.8,90,,,0.0,0,0,0.02,0.25,72,79,1,0,1,0,0,98
-Antonio Raíllo,2026-03-21,Elche,Mallorca,7.2,90,,,0.0,0,0,0.0,0.02,35,43,0,0,1,0,0,57
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Antonio Raíllo,2025-12-05,Real Oviedo,Mallorca,6.7,90,9656.0,17.0,107.29,0,0,0.07,0.0,26,32,1,0,0,0,3,40,0,1.76
+Antonio Raíllo,2025-12-13,Mallorca,Elche,6.7,90,9761.0,17.0,108.46,0,0,0.0,0.12,61,67,1,0,0,0,2,68,0,1.74
+Antonio Raíllo,2025-12-19,Valencia,Mallorca,7.1,90,9610.0,17.0,106.78,0,0,0.0,0.02,20,24,1,0,0,0,1,35,0,1.77
+Antonio Raíllo,2026-01-04,Mallorca,Girona FC,6.6,90,9710.0,19.0,107.89,0,0,0.0,0.01,35,42,1,0,1,0,3,53,0,1.96
+Antonio Raíllo,2026-01-17,Mallorca,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonio Raíllo,2026-01-25,Atlético Madrid,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonio Raíllo,2026-02-02,Mallorca,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonio Raíllo,2026-02-07,FC Barcelona,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonio Raíllo,2026-02-15,Mallorca,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Antonio Raíllo,2026-02-22,Celta Vigo,Mallorca,6.5,90,9794.0,17.0,108.82,0,0,0.04,0.0,54,59,0,0,0,0,4,70,0,1.74
+Antonio Raíllo,2026-02-28,Mallorca,Real Sociedad,7.6,90,9794.0,17.0,108.82,0,0,0.08,0.01,60,64,0,0,0,0,2,76,0,1.74
+Antonio Raíllo,2026-03-07,Osasuna,Mallorca,7.4,53,5750.0,10.0,108.49,0,0,0.0,0.0,38,39,0,0,0,0,0,44,0,1.74
+Antonio Raíllo,2026-03-15,Mallorca,Espanyol,7.8,90,9862.0,19.0,109.58,0,0,0.02,0.25,72,79,1,0,1,0,0,98,0,1.93
+Antonio Raíllo,2026-03-21,Elche,Mallorca,7.2,90,9689.0,19.0,107.66,0,0,0.0,0.02,35,43,0,0,1,0,0,57,0,1.96

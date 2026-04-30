@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tyrick Mitchell,2026-02-08,Brighton & Hove Albion,Crystal Palace,6.6,90,,,0.0,0,0,0.0,0.01,14,23,0,0,3,0,6,43
-Tyrick Mitchell,2026-02-11,Crystal Palace,Burnley,6.5,90,,,0.0,0,0,0.14,0.07,22,32,1,0,0,0,3,60
-Tyrick Mitchell,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,6.8,9,,,0.0,0,0,0.0,0.0,8,8,0,0,0,0,1,9
-Tyrick Mitchell,2026-02-22,Crystal Palace,Wolverhampton,7.1,90,,,0.0,0,0,0.05,0.1,27,32,1,0,1,0,3,48
-Tyrick Mitchell,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,7.7,90,,,0.0,0,0,0.0,0.44,55,62,4,0,0,0,3,90
-Tyrick Mitchell,2026-03-01,Manchester United,Crystal Palace,6.5,90,,,0.0,0,0,0.01,0.09,21,28,2,0,1,0,5,55
-Tyrick Mitchell,2026-03-05,Tottenham Hotspur,Crystal Palace,6.7,90,,,0.0,0,0,0.0,0.0,14,20,0,0,0,0,5,36
-Tyrick Mitchell,2026-03-12,Crystal Palace,AEK Larnaca,6.9,90,,,0.0,0,0,0.42,0.09,46,53,1,0,0,0,10,78
-Tyrick Mitchell,2026-03-15,Crystal Palace,Leeds United,6.8,90,,,0.0,0,0,0.0,0.02,28,38,0,0,0,0,1,58
-Tyrick Mitchell,2026-03-19,AEK Larnaca,Crystal Palace,6.8,120,,,0.0,0,0,0.08,0.08,41,53,4,0,0,0,7,77
-Tyrick Mitchell,2026-04-09,Crystal Palace,Fiorentina,7.4,90,,,0.0,1,0,0.38,0.01,25,27,0,0,0,0,8,40
-Tyrick Mitchell,2026-04-12,Crystal Palace,Newcastle United,7.5,89,,,0.0,0,0,0.0,0.55,27,34,2,0,0,0,6,62
-Tyrick Mitchell,2026-04-16,Fiorentina,Crystal Palace,6.8,90,,,0.0,0,0,0.0,0.06,12,17,2,0,0,0,2,41
-Tyrick Mitchell,2026-04-20,Crystal Palace,West Ham United,7.3,90,,,0.0,0,0,0.06,0.09,33,39,1,0,2,0,7,65
-Tyrick Mitchell,2026-04-25,Liverpool,Crystal Palace,6.2,45,,,0.0,0,0,0.0,0.0,12,19,2,0,1,0,2,34
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tyrick Mitchell,2026-02-08,Brighton & Hove Albion,Crystal Palace,6.6,90,9706.0,22.0,107.84,0,0,0.0,0.01,14,23,0,0,3,0,6,43,0,2.27
+Tyrick Mitchell,2026-02-11,Crystal Palace,Burnley,6.5,90,9740.0,17.0,108.22,0,0,0.14,0.07,22,32,1,0,0,0,3,60,0,1.75
+Tyrick Mitchell,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,6.8,9,995.0,2.0,110.56,0,0,0.0,0.0,8,8,0,0,0,0,1,9,0,2.01
+Tyrick Mitchell,2026-02-22,Crystal Palace,Wolverhampton,7.1,90,9689.0,19.0,107.66,0,0,0.05,0.1,27,32,1,0,1,0,3,48,0,1.96
+Tyrick Mitchell,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,7.7,90,9866.0,17.0,109.62,0,0,0.0,0.44,55,62,4,0,0,0,3,90,0,1.72
+Tyrick Mitchell,2026-03-01,Manchester United,Crystal Palace,6.5,90,9744.0,19.0,108.27,0,0,0.01,0.09,21,28,2,0,1,0,5,55,0,1.95
+Tyrick Mitchell,2026-03-05,Tottenham Hotspur,Crystal Palace,6.7,90,9664.0,17.0,107.38,0,0,0.0,0.0,14,20,0,0,0,0,5,36,0,1.76
+Tyrick Mitchell,2026-03-12,Crystal Palace,AEK Larnaca,6.9,90,9903.0,17.0,110.03,0,0,0.42,0.09,46,53,1,0,0,0,10,78,0,1.72
+Tyrick Mitchell,2026-03-15,Crystal Palace,Leeds United,6.8,90,9706.0,17.0,107.84,0,0,0.0,0.02,28,38,0,0,0,0,1,58,0,1.75
+Tyrick Mitchell,2026-03-19,AEK Larnaca,Crystal Palace,6.8,120,13011.0,23.0,108.42,0,0,0.08,0.08,41,53,4,0,0,0,7,77,0,1.77
+Tyrick Mitchell,2026-04-09,Crystal Palace,Fiorentina,7.4,90,9718.0,17.0,107.98,1,0,0.38,0.01,25,27,0,0,0,0,8,40,0,1.75
+Tyrick Mitchell,2026-04-12,Crystal Palace,Newcastle United,7.5,89,9680.0,17.0,108.76,0,0,0.0,0.55,27,34,2,0,0,0,6,62,0,1.76
+Tyrick Mitchell,2026-04-16,Fiorentina,Crystal Palace,6.8,90,9647.0,17.0,107.19,0,0,0.0,0.06,12,17,2,0,0,0,2,41,0,1.76
+Tyrick Mitchell,2026-04-20,Crystal Palace,West Ham United,7.3,90,9810.0,20.0,109.0,0,0,0.06,0.09,33,39,1,0,2,0,7,65,0,2.04
+Tyrick Mitchell,2026-04-25,Liverpool,Crystal Palace,6.2,45,4893.0,10.0,108.73,0,0,0.0,0.0,12,19,2,0,1,0,2,34,0,2.04

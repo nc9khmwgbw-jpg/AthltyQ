@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Alfie Harrison,2025-09-26,Reading U21,Newcastle United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-10-05,Newcastle United U21,Tottenham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-10-08,Boston United,Newcastle United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-10-15,Mansfield Town,Newcastle United U21,6.7,84,,,0.0,0,0,0.0,0.0,18,25,0,0,3,0,3,45
-Alfie Harrison,2025-10-27,Crystal Palace U21,Newcastle United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-10-31,Ipswich Town U21,Newcastle United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-11-08,Newcastle United U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-11-11,Harrogate Town,Newcastle United U21,7.5,83,,,0.0,1,0,0.0,0.0,30,38,0,0,2,0,4,55
-Alfie Harrison,2025-11-18,Newcastle United U21,Real Sociedad B U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-11-21,Newcastle United U21,Paris Saint-Germain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-12-02,Scunthorpe United,Newcastle United U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2025-12-16,FC Halifax Town,Newcastle United U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2026-01-09,Newcastle United U21,Middlesbrough U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2026-01-13,Newcastle United U21,SL Benfica B U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Alfie Harrison,2026-01-16,Sunderland U21,Newcastle United U21,,16,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alfie Harrison,2025-09-26,Reading U21,Newcastle United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Alfie Harrison,2025-10-05,Newcastle United U21,Tottenham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Alfie Harrison,2025-10-08,Boston United,Newcastle United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Alfie Harrison,2025-10-15,Mansfield Town,Newcastle United U21,6.7,84,9046.0,20.0,107.69,0,0,0.0,0.0,18,25,0,0,3,0,3,45,0,2.21
+Alfie Harrison,2025-10-27,Crystal Palace U21,Newcastle United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Alfie Harrison,2025-10-31,Ipswich Town U21,Newcastle United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Alfie Harrison,2025-11-08,Newcastle United U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Alfie Harrison,2025-11-11,Harrogate Town,Newcastle United U21,7.5,83,8996.0,19.0,108.39,1,0,0.0,0.0,30,38,0,0,2,0,4,55,0,2.11
+Alfie Harrison,2025-11-18,Newcastle United U21,Real Sociedad B U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alfie Harrison,2025-11-21,Newcastle United U21,Paris Saint-Germain U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alfie Harrison,2025-12-02,Scunthorpe United,Newcastle United U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alfie Harrison,2025-12-16,FC Halifax Town,Newcastle United U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alfie Harrison,2026-01-09,Newcastle United U21,Middlesbrough U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Alfie Harrison,2026-01-13,Newcastle United U21,SL Benfica B U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Alfie Harrison,2026-01-16,Sunderland U21,Newcastle United U21,,16,1680.0,3.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79

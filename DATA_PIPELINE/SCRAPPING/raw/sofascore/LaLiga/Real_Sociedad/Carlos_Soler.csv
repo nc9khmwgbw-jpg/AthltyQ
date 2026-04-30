@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Carlos Soler,2026-02-11,Athletic Club,Real Sociedad,7.4,85,,,0.0,0,0,0.0,0.0,34,39,5,0,1,0,2,48
-Carlos Soler,2026-02-14,Real Madrid,Real Sociedad,7.2,90,,,0.0,0,0,0.01,0.58,55,60,6,0,0,0,1,71
-Carlos Soler,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Soler,2026-02-28,Mallorca,Real Sociedad,7.8,63,,,0.0,1,0,0.1,0.21,31,38,1,0,0,0,1,43
-Carlos Soler,2026-03-04,Real Sociedad,Athletic Club,6.3,83,,,0.0,0,0,0.0,0.0,20,22,1,0,0,0,0,36
-Carlos Soler,2026-03-07,Atlético Madrid,Real Sociedad,8.0,74,,,0.0,1,0,0.16,0.01,31,35,0,0,0,0,6,48
-Carlos Soler,2026-03-15,Real Sociedad,Osasuna,7.2,90,,,0.0,0,0,0.05,0.07,41,43,2,0,0,0,4,50
-Carlos Soler,2026-03-20,Villarreal,Real Sociedad,7.0,90,,,0.0,0,0,0.06,0.12,66,72,1,0,1,0,4,82
-Carlos Soler,2026-03-27,Spain,Serbia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Soler,2026-03-31,Spain,Egypt,6.4,45,,,0.0,0,0,0.0,0.0,36,40,0,0,0,0,4,43
-Carlos Soler,2026-04-04,Real Sociedad,Levante UD,8.5,90,,,0.0,0,0,0.02,0.33,54,57,3,0,1,0,9,73
-Carlos Soler,2026-04-11,Real Sociedad,Deportivo Alavés,6.9,90,,,0.0,0,0,0.0,0.14,55,66,5,0,1,0,6,81
-Carlos Soler,2026-04-18,Atlético Madrid,Real Sociedad,6.3,120,,,0.0,0,0,0.0,0.0,35,42,0,0,4,0,9,65
-Carlos Soler,2026-04-22,Real Sociedad,Getafe,7.4,88,,,0.0,0,0,0.02,0.67,51,57,4,0,1,0,5,68
-Carlos Soler,2026-04-26,Rayo Vallecano,Real Sociedad,6.5,90,,,0.0,0,0,0.36,0.15,22,27,0,0,2,0,3,45
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Carlos Soler,2026-02-11,Athletic Club,Real Sociedad,7.4,85,9152.0,18.0,107.67,0,0,0.0,0.0,34,39,5,0,1,0,2,48,0,1.97
+Carlos Soler,2026-02-14,Real Madrid,Real Sociedad,7.2,90,9761.0,17.0,108.46,0,0,0.01,0.58,55,60,6,0,0,0,1,71,0,1.74
+Carlos Soler,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Soler,2026-02-28,Mallorca,Real Sociedad,7.8,63,6808.0,12.0,108.06,1,0,0.1,0.21,31,38,1,0,0,0,1,43,0,1.76
+Carlos Soler,2026-03-04,Real Sociedad,Athletic Club,6.3,83,8866.0,16.0,106.82,0,0,0.0,0.0,20,22,1,0,0,0,0,36,0,1.8
+Carlos Soler,2026-03-07,Atlético Madrid,Real Sociedad,8.0,74,8047.0,14.0,108.74,1,0,0.16,0.01,31,35,0,0,0,0,6,48,0,1.74
+Carlos Soler,2026-03-15,Real Sociedad,Osasuna,7.2,90,9710.0,17.0,107.89,0,0,0.05,0.07,41,43,2,0,0,0,4,50,0,1.75
+Carlos Soler,2026-03-20,Villarreal,Real Sociedad,7.0,90,9844.0,19.0,109.38,0,0,0.06,0.12,66,72,1,0,1,0,4,82,0,1.93
+Carlos Soler,2026-03-27,Spain,Serbia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Soler,2026-03-31,Spain,Egypt,6.4,45,4956.0,9.0,110.13,0,0,0.0,0.0,36,40,0,0,0,0,4,43,0,1.82
+Carlos Soler,2026-04-04,Real Sociedad,Levante UD,8.5,90,9869.0,19.0,109.66,0,0,0.02,0.33,54,57,3,0,1,0,9,73,0,1.93
+Carlos Soler,2026-04-11,Real Sociedad,Deportivo Alavés,6.9,90,9865.0,19.0,109.61,0,0,0.0,0.14,55,66,5,0,1,0,6,81,0,1.93
+Carlos Soler,2026-04-18,Atlético Madrid,Real Sociedad,6.3,120,12986.0,29.0,108.22,0,0,0.0,0.0,35,42,0,0,4,0,9,65,0,2.23
+Carlos Soler,2026-04-22,Real Sociedad,Getafe,7.4,88,9588.0,18.0,108.95,0,0,0.02,0.67,51,57,4,0,1,0,5,68,0,1.88
+Carlos Soler,2026-04-26,Rayo Vallecano,Real Sociedad,6.5,90,9676.0,20.0,107.51,0,0,0.36,0.15,22,27,0,0,2,0,3,45,0,2.07

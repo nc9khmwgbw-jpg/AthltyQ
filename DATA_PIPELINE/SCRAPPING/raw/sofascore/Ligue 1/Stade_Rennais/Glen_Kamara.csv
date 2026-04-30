@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Glen Kamara,2025-12-06,Paris Saint-Germain,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2025-12-13,Stade Rennais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2025-12-21,Stade Rennais,Les Sables Vendee Foot,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-01-03,Lille,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-01-11,US Chantilly,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-01-18,Stade Rennais,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-01-31,AS Monaco,Stade Rennais,6.8,25,,,0.0,0,0,0.0,0.02,34,37,0,0,0,0,3,42
-Glen Kamara,2026-02-03,Olympique de Marseille,Stade Rennais,6.7,31,,,0.0,0,0,0.0,0.0,13,15,0,0,0,0,1,20
-Glen Kamara,2026-03-08,Nice,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-03-22,Stade Rennais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-04-04,Stade Brestois,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-04-11,Stade Rennais,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Glen Kamara,2026-04-19,RC Strasbourg,Stade Rennais,6.6,8,,,0.0,0,0,0.0,0.0,8,8,0,0,0,0,0,9
-Glen Kamara,2026-04-26,Stade Rennais,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Glen Kamara,2025-12-06,Paris Saint-Germain,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2025-12-13,Stade Rennais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2025-12-21,Stade Rennais,Les Sables Vendee Foot,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-01-03,Lille,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-01-11,US Chantilly,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-01-18,Stade Rennais,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-01-31,AS Monaco,Stade Rennais,6.8,25,2839.0,5.0,113.56,0,0,0.0,0.02,34,37,0,0,0,0,3,42,0,1.76
+Glen Kamara,2026-02-03,Olympique de Marseille,Stade Rennais,6.7,31,3352.0,6.0,108.13,0,0,0.0,0.0,13,15,0,0,0,0,1,20,0,1.79
+Glen Kamara,2026-03-08,Nice,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-03-22,Stade Rennais,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-04-04,Stade Brestois,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-04-11,Stade Rennais,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Glen Kamara,2026-04-19,RC Strasbourg,Stade Rennais,6.6,8,878.0,2.0,109.75,0,0,0.0,0.0,8,8,0,0,0,0,0,9,0,2.28
+Glen Kamara,2026-04-26,Stade Rennais,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

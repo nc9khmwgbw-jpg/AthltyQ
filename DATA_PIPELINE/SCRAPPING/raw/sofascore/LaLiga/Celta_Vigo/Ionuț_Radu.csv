@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ionuț Radu,2026-02-26,Celta Vigo,PAOK,6.8,90,,,0.0,0,0,0.0,0.0,19,21,0,0,0,0,6,25
-Ionuț Radu,2026-03-01,Girona FC,Celta Vigo,8.1,90,,,0.0,0,0,0.0,0.0,13,22,0,0,0,0,6,34
-Ionuț Radu,2026-03-06,Celta Vigo,Real Madrid,6.4,90,,,0.0,0,0,0.0,0.0,13,16,0,0,0,0,5,22
-Ionuț Radu,2026-03-12,Celta Vigo,Olympique Lyonnais,6.9,90,,,0.0,0,0,0.0,0.0,16,31,0,0,0,0,15,49
-Ionuț Radu,2026-03-15,Real Betis,Celta Vigo,7.9,90,,,0.0,0,0,0.0,0.01,21,26,1,0,0,0,12,44
-Ionuț Radu,2026-03-19,Olympique Lyonnais,Celta Vigo,6.7,90,,,0.0,0,0,0.0,0.0,12,18,0,0,0,0,7,26
-Ionuț Radu,2026-03-22,Celta Vigo,Deportivo Alavés,5.9,90,,,0.0,0,0,0.0,0.0,22,33,0,0,0,0,16,48
-Ionuț Radu,2026-03-26,Türkiye,Romania,6.8,90,,,0.0,0,0,0.0,0.0,22,39,0,0,0,0,8,49
-Ionuț Radu,2026-04-05,Valencia,Celta Vigo,6.0,90,,,0.0,0,0,0.0,0.0,12,25,0,0,0,0,8,29
-Ionuț Radu,2026-04-09,SC Freiburg,Celta Vigo,7.3,90,,,0.0,0,0,0.0,0.0,13,22,0,0,0,0,13,39
-Ionuț Radu,2026-04-12,Celta Vigo,Real Oviedo,7.1,90,,,0.0,0,0,0.0,0.0,23,26,0,0,0,0,11,33
-Ionuț Radu,2026-04-16,Celta Vigo,SC Freiburg,5.9,90,,,0.0,0,0,0.0,0.0,15,23,0,0,0,0,8,30
-Ionuț Radu,2026-04-22,FC Barcelona,Celta Vigo,6.6,90,,,0.0,0,0,0.0,0.0,20,28,0,0,0,0,3,34
-Ionuț Radu,2026-04-26,Villarreal,Celta Vigo,6.4,90,,,0.0,0,0,0.0,0.0,24,29,0,0,1,0,14,40
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ionuț Radu,2026-02-26,Celta Vigo,PAOK,6.8,90,9630.0,17.0,107.0,0,0,0.0,0.0,19,21,0,0,0,0,6,25,0,1.77
+Ionuț Radu,2026-03-01,Girona FC,Celta Vigo,8.1,90,9668.0,17.0,107.42,0,0,0.0,0.0,13,22,0,0,0,0,6,34,0,1.76
+Ionuț Radu,2026-03-06,Celta Vigo,Real Madrid,6.4,90,9605.0,17.0,106.72,0,0,0.0,0.0,13,16,0,0,0,0,5,22,0,1.77
+Ionuț Radu,2026-03-12,Celta Vigo,Olympique Lyonnais,6.9,90,9843.0,17.0,109.37,0,0,0.0,0.0,16,31,0,0,0,0,15,49,0,1.73
+Ionuț Radu,2026-03-15,Real Betis,Celta Vigo,7.9,90,9785.0,17.0,108.72,0,0,0.0,0.01,21,26,1,0,0,0,12,44,0,1.74
+Ionuț Radu,2026-03-19,Olympique Lyonnais,Celta Vigo,6.7,90,9647.0,17.0,107.19,0,0,0.0,0.0,12,18,0,0,0,0,7,26,0,1.76
+Ionuț Radu,2026-03-22,Celta Vigo,Deportivo Alavés,5.9,90,9852.0,17.0,109.47,0,0,0.0,0.0,22,33,0,0,0,0,16,48,0,1.73
+Ionuț Radu,2026-03-26,Türkiye,Romania,6.8,90,9756.0,17.0,108.4,0,0,0.0,0.0,22,39,0,0,0,0,8,49,0,1.74
+Ionuț Radu,2026-04-05,Valencia,Celta Vigo,6.0,90,9672.0,17.0,107.47,0,0,0.0,0.0,12,25,0,0,0,0,8,29,0,1.76
+Ionuț Radu,2026-04-09,SC Freiburg,Celta Vigo,7.3,90,9776.0,17.0,108.62,0,0,0.0,0.0,13,22,0,0,0,0,13,39,0,1.74
+Ionuț Radu,2026-04-12,Celta Vigo,Real Oviedo,7.1,90,9726.0,17.0,108.07,0,0,0.0,0.0,23,26,0,0,0,0,11,33,0,1.75
+Ionuț Radu,2026-04-16,Celta Vigo,SC Freiburg,5.9,90,9676.0,17.0,107.51,0,0,0.0,0.0,15,23,0,0,0,0,8,30,0,1.76
+Ionuț Radu,2026-04-22,FC Barcelona,Celta Vigo,6.6,90,9630.0,17.0,107.0,0,0,0.0,0.0,20,28,0,0,0,0,3,34,0,1.77
+Ionuț Radu,2026-04-26,Villarreal,Celta Vigo,6.4,90,9793.0,19.0,108.81,0,0,0.0,0.0,24,29,0,0,1,0,14,40,0,1.94

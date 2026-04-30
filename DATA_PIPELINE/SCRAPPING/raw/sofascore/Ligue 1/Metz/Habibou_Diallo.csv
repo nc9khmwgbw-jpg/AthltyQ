@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Habibou Diallo,2026-01-14,Senegal,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Habibou Diallo,2026-01-25,Metz,Olympique Lyonnais,7.5,90,,,0.0,1,0,0.6,0.0,4,7,0,0,1,0,2,17
-Habibou Diallo,2026-02-01,Angers,Metz,6.4,90,,,0.0,0,0,0.15,0.0,9,11,0,0,0,0,3,26
-Habibou Diallo,2026-02-06,Metz,Lille,6.4,90,,,0.0,0,0,0.13,0.0,8,13,0,0,0,0,2,30
-Habibou Diallo,2026-02-15,Metz,Auxerre,6.4,90,,,0.0,0,0,0.0,0.01,8,13,0,0,0,0,2,23
-Habibou Diallo,2026-02-21,Paris Saint-Germain,Metz,6.7,90,,,0.0,0,0,0.0,0.0,5,12,0,0,0,0,2,23
-Habibou Diallo,2026-03-01,Metz,Stade Brestois,6.7,90,,,0.0,0,0,0.61,0.08,10,15,2,0,0,0,4,28
-Habibou Diallo,2026-03-08,RC Lens,Metz,6.8,90,,,0.0,0,0,0.0,0.01,8,9,1,0,0,0,2,28
-Habibou Diallo,2026-03-15,Metz,Toulouse,6.6,20,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,2,8
-Habibou Diallo,2026-03-22,Stade Rennais,Metz,7.1,90,,,0.0,0,0,0.15,0.0,5,9,0,0,0,0,3,32
-Habibou Diallo,2026-03-28,Senegal,Peru,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Habibou Diallo,2026-04-05,Metz,Nantes,6.9,90,,,0.0,0,0,0.3,0.06,15,20,2,0,0,0,4,32
-Habibou Diallo,2026-04-10,Olympique de Marseille,Metz,6.2,90,,,0.0,0,0,0.0,0.03,14,18,0,0,0,0,2,24
-Habibou Diallo,2026-04-19,Metz,Paris FC,6.5,30,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Habibou Diallo,2026-01-14,Senegal,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Habibou Diallo,2026-01-25,Metz,Olympique Lyonnais,7.5,90,9546.0,19.0,106.07,1,0,0.6,0.0,4,7,0,0,1,0,2,17,0,1.99
+Habibou Diallo,2026-02-01,Angers,Metz,6.4,90,9597.0,17.0,106.63,0,0,0.15,0.0,9,11,0,0,0,0,3,26,0,1.77
+Habibou Diallo,2026-02-06,Metz,Lille,6.4,90,9601.0,17.0,106.68,0,0,0.13,0.0,8,13,0,0,0,0,2,30,0,1.77
+Habibou Diallo,2026-02-15,Metz,Auxerre,6.4,90,9572.0,17.0,106.36,0,0,0.0,0.01,8,13,0,0,0,0,2,23,0,1.78
+Habibou Diallo,2026-02-21,Paris Saint-Germain,Metz,6.7,90,9572.0,17.0,106.36,0,0,0.0,0.0,5,12,0,0,0,0,2,23,0,1.78
+Habibou Diallo,2026-03-01,Metz,Stade Brestois,6.7,90,9618.0,17.0,106.87,0,0,0.61,0.08,10,15,2,0,0,0,4,28,0,1.77
+Habibou Diallo,2026-03-08,RC Lens,Metz,6.8,90,9593.0,17.0,106.59,0,0,0.0,0.01,8,9,1,0,0,0,2,28,0,1.77
+Habibou Diallo,2026-03-15,Metz,Toulouse,6.6,20,2159.0,4.0,107.95,0,0,0.0,0.0,5,6,0,0,0,0,2,8,0,1.85
+Habibou Diallo,2026-03-22,Stade Rennais,Metz,7.1,90,9622.0,17.0,106.91,0,0,0.15,0.0,5,9,0,0,0,0,3,32,0,1.77
+Habibou Diallo,2026-03-28,Senegal,Peru,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Habibou Diallo,2026-04-05,Metz,Nantes,6.9,90,9634.0,17.0,107.04,0,0,0.3,0.06,15,20,2,0,0,0,4,32,0,1.76
+Habibou Diallo,2026-04-10,Olympique de Marseille,Metz,6.2,90,9576.0,17.0,106.4,0,0,0.0,0.03,14,18,0,0,0,0,2,24,0,1.78
+Habibou Diallo,2026-04-19,Metz,Paris FC,6.5,30,3163.0,6.0,105.43,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0,1.9

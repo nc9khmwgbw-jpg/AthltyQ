@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Unai Simón,2026-02-08,Athletic Club,Levante UD,6.3,90,,,0.0,0,0,0.0,0.0,17,28,0,0,0,0,13,38
-Unai Simón,2026-02-11,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Unai Simón,2026-02-15,Real Oviedo,Athletic Club,6.0,90,,,0.0,0,0,0.0,0.0,12,32,0,0,0,0,13,39
-Unai Simón,2026-02-20,Athletic Club,Elche,6.8,90,,,0.0,0,0,0.0,0.0,18,29,0,0,0,0,12,34
-Unai Simón,2026-02-28,Rayo Vallecano,Athletic Club,7.2,90,,,0.0,0,0,0.0,0.02,19,41,0,0,0,0,24,56
-Unai Simón,2026-03-04,Real Sociedad,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Unai Simón,2026-03-07,Athletic Club,FC Barcelona,6.5,90,,,0.0,0,0,0.0,0.0,13,25,0,0,0,0,10,34
-Unai Simón,2026-03-14,Girona FC,Athletic Club,6.2,90,,,0.0,0,0,0.0,0.01,26,36,0,0,0,0,9,47
-Unai Simón,2026-03-22,Athletic Club,Real Betis,7.0,90,,,0.0,0,0,0.0,0.01,22,34,0,0,0,0,10,44
-Unai Simón,2026-03-27,Spain,Serbia,7.1,90,,,0.0,0,0,0.0,0.0,26,27,0,0,0,0,12,38
-Unai Simón,2026-03-31,Spain,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Unai Simón,2026-04-05,Getafe,Athletic Club,6.8,90,,,0.0,0,0,0.0,0.0,20,28,0,0,0,0,11,44
-Unai Simón,2026-04-12,Athletic Club,Villarreal,6.1,90,,,0.0,0,0,0.0,0.0,16,24,0,0,0,0,4,32
-Unai Simón,2026-04-21,Athletic Club,Osasuna,8.0,90,,,0.0,0,0,0.0,0.0,13,26,0,0,0,0,10,35
-Unai Simón,2026-04-25,Atlético Madrid,Athletic Club,5.6,90,,,0.0,0,0,0.0,0.0,23,40,0,0,0,0,9,48
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Unai Simón,2026-02-08,Athletic Club,Levante UD,6.3,90,9772.0,17.0,108.58,0,0,0.0,0.0,17,28,0,0,0,0,13,38,0,1.74
+Unai Simón,2026-02-11,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Unai Simón,2026-02-15,Real Oviedo,Athletic Club,6.0,90,9776.0,17.0,108.62,0,0,0.0,0.0,12,32,0,0,0,0,13,39,0,1.74
+Unai Simón,2026-02-20,Athletic Club,Elche,6.8,90,9743.0,17.0,108.26,0,0,0.0,0.0,18,29,0,0,0,0,12,34,0,1.74
+Unai Simón,2026-02-28,Rayo Vallecano,Athletic Club,7.2,90,9985.0,17.0,110.94,0,0,0.0,0.02,19,41,0,0,0,0,24,56,0,1.7
+Unai Simón,2026-03-04,Real Sociedad,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Unai Simón,2026-03-07,Athletic Club,FC Barcelona,6.5,90,9718.0,17.0,107.98,0,0,0.0,0.0,13,25,0,0,0,0,10,34,0,1.75
+Unai Simón,2026-03-14,Girona FC,Athletic Club,6.2,90,9760.0,17.0,108.44,0,0,0.0,0.01,26,36,0,0,0,0,9,47,0,1.74
+Unai Simón,2026-03-22,Athletic Club,Real Betis,7.0,90,9760.0,17.0,108.44,0,0,0.0,0.01,22,34,0,0,0,0,10,44,0,1.74
+Unai Simón,2026-03-27,Spain,Serbia,7.1,90,9760.0,17.0,108.44,0,0,0.0,0.0,26,27,0,0,0,0,12,38,0,1.74
+Unai Simón,2026-03-31,Spain,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Unai Simón,2026-04-05,Getafe,Athletic Club,6.8,90,9772.0,17.0,108.58,0,0,0.0,0.0,20,28,0,0,0,0,11,44,0,1.74
+Unai Simón,2026-04-12,Athletic Club,Villarreal,6.1,90,9634.0,17.0,107.04,0,0,0.0,0.0,16,24,0,0,0,0,4,32,0,1.76
+Unai Simón,2026-04-21,Athletic Club,Osasuna,8.0,90,9722.0,17.0,108.02,0,0,0.0,0.0,13,26,0,0,0,0,10,35,0,1.75
+Unai Simón,2026-04-25,Atlético Madrid,Athletic Club,5.6,90,9764.0,17.0,108.49,0,0,0.0,0.0,23,40,0,0,0,0,9,48,0,1.74

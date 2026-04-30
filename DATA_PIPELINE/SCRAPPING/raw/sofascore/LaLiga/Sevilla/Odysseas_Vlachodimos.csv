@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Odysseas Vlachodimos,2026-01-24,Sevilla,Athletic Club,7.0,90,,,0.0,0,0,0.0,0.0,21,34,0,0,0,0,14,52
-Odysseas Vlachodimos,2026-02-02,Mallorca,Sevilla,5.6,90,,,0.0,0,0,0.0,0.0,24,35,0,0,0,0,7,41
-Odysseas Vlachodimos,2026-02-08,Sevilla,Girona FC,8.5,90,,,0.0,0,0,0.0,0.0,24,34,0,0,0,0,3,43
-Odysseas Vlachodimos,2026-02-14,Sevilla,Deportivo Alavés,6.2,90,,,0.0,0,0,0.0,0.0,8,28,0,0,1,0,7,36
-Odysseas Vlachodimos,2026-02-22,Getafe,Sevilla,7.6,90,,,0.0,0,0,0.0,0.0,18,23,0,0,0,0,10,30
-Odysseas Vlachodimos,2026-03-01,Real Betis,Sevilla,6.4,90,,,0.0,0,0,0.0,0.0,15,20,0,0,0,0,2,21
-Odysseas Vlachodimos,2026-03-08,Sevilla,Rayo Vallecano,6.6,90,,,0.0,0,0,0.0,0.0,19,30,0,0,0,0,7,33
-Odysseas Vlachodimos,2026-03-15,FC Barcelona,Sevilla,6.6,90,,,0.0,0,0,0.0,0.0,18,42,0,0,0,0,8,55
-Odysseas Vlachodimos,2026-03-21,Sevilla,Valencia,6.4,90,,,0.0,0,0,0.0,0.0,16,17,0,0,0,0,5,22
-Odysseas Vlachodimos,2026-03-31,Hungary,Greece,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Odysseas Vlachodimos,2026-04-05,Real Oviedo,Sevilla,6.8,90,,,0.0,0,0,0.0,0.01,17,39,0,0,0,0,16,46
-Odysseas Vlachodimos,2026-04-11,Sevilla,Atlético Madrid,6.7,90,,,0.0,0,0,0.0,0.0,12,24,0,0,0,0,6,31
-Odysseas Vlachodimos,2026-04-23,Levante UD,Sevilla,6.1,90,,,0.0,0,0,0.0,0.0,22,28,0,0,0,0,7,35
-Odysseas Vlachodimos,2026-04-26,Osasuna,Sevilla,7.4,90,,,0.0,0,0,0.0,0.0,10,27,0,0,0,0,9,40
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Odysseas Vlachodimos,2026-01-24,Sevilla,Athletic Club,7.0,90,9843.0,17.0,109.37,0,0,0.0,0.0,21,34,0,0,0,0,14,52,0,1.73
+Odysseas Vlachodimos,2026-02-02,Mallorca,Sevilla,5.6,90,9710.0,17.0,107.89,0,0,0.0,0.0,24,35,0,0,0,0,7,41,0,1.75
+Odysseas Vlachodimos,2026-02-08,Sevilla,Girona FC,8.5,90,9668.0,17.0,107.42,0,0,0.0,0.0,24,34,0,0,0,0,3,43,0,1.76
+Odysseas Vlachodimos,2026-02-14,Sevilla,Deportivo Alavés,6.2,90,9689.0,19.0,107.66,0,0,0.0,0.0,8,28,0,0,1,0,7,36,0,1.96
+Odysseas Vlachodimos,2026-02-22,Getafe,Sevilla,7.6,90,9701.0,17.0,107.79,0,0,0.0,0.0,18,23,0,0,0,0,10,30,0,1.75
+Odysseas Vlachodimos,2026-03-01,Real Betis,Sevilla,6.4,90,9563.0,17.0,106.26,0,0,0.0,0.0,15,20,0,0,0,0,2,21,0,1.78
+Odysseas Vlachodimos,2026-03-08,Sevilla,Rayo Vallecano,6.6,90,9676.0,17.0,107.51,0,0,0.0,0.0,19,30,0,0,0,0,7,33,0,1.76
+Odysseas Vlachodimos,2026-03-15,FC Barcelona,Sevilla,6.6,90,9781.0,17.0,108.68,0,0,0.0,0.0,18,42,0,0,0,0,8,55,0,1.74
+Odysseas Vlachodimos,2026-03-21,Sevilla,Valencia,6.4,90,9605.0,17.0,106.72,0,0,0.0,0.0,16,17,0,0,0,0,5,22,0,1.77
+Odysseas Vlachodimos,2026-03-31,Hungary,Greece,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Odysseas Vlachodimos,2026-04-05,Real Oviedo,Sevilla,6.8,90,9843.0,17.0,109.37,0,0,0.0,0.01,17,39,0,0,0,0,16,46,0,1.73
+Odysseas Vlachodimos,2026-04-11,Sevilla,Atlético Madrid,6.7,90,9655.0,17.0,107.28,0,0,0.0,0.0,12,24,0,0,0,0,6,31,0,1.76
+Odysseas Vlachodimos,2026-04-23,Levante UD,Sevilla,6.1,90,9684.0,17.0,107.6,0,0,0.0,0.0,22,28,0,0,0,0,7,35,0,1.76
+Odysseas Vlachodimos,2026-04-26,Osasuna,Sevilla,7.4,90,9730.0,17.0,108.11,0,0,0.0,0.0,10,27,0,0,0,0,9,40,0,1.75

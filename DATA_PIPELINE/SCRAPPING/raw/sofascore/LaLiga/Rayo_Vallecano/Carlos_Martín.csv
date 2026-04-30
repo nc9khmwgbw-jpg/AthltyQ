@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Carlos Martín,2026-01-11,Rayo Vallecano,Mallorca,6.6,79,,,0.0,0,0,0.21,0.14,21,29,0,0,0,0,7,50
-Carlos Martín,2026-01-18,Celta Vigo,Rayo Vallecano,6.6,68,,,0.0,0,0,0.12,0.04,15,18,1,0,0,0,2,25
-Carlos Martín,2026-01-24,Rayo Vallecano,Osasuna,6.2,45,,,0.0,0,0,0.0,0.01,9,9,0,0,0,0,0,23
-Carlos Martín,2026-02-01,Real Madrid,Rayo Vallecano,6.4,22,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,2,6
-Carlos Martín,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Martín,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Martín,2026-03-04,Rayo Vallecano,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Martín,2026-03-08,Sevilla,Rayo Vallecano,5.7,67,,,0.0,0,0,0.0,0.0,10,11,0,0,0,0,1,16
-Carlos Martín,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Martín,2026-03-22,FC Barcelona,Rayo Vallecano,6.3,45,,,0.0,0,0,0.67,0.0,7,10,0,0,0,0,3,24
-Carlos Martín,2026-04-03,Rayo Vallecano,Elche,,1,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,3
-Carlos Martín,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Martín,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Carlos Martín,2026-04-26,Rayo Vallecano,Real Sociedad,6.4,64,,,0.0,0,0,0.02,0.01,10,10,1,0,0,0,1,20
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Carlos Martín,2026-01-11,Rayo Vallecano,Mallorca,6.6,79,8592.0,15.0,108.76,0,0,0.21,0.14,21,29,0,0,0,0,7,50,0,1.75
+Carlos Martín,2026-01-18,Celta Vigo,Rayo Vallecano,6.6,68,7270.0,13.0,106.91,0,0,0.12,0.04,15,18,1,0,0,0,2,25,0,1.79
+Carlos Martín,2026-01-24,Rayo Vallecano,Osasuna,6.2,45,4822.0,9.0,107.16,0,0,0.0,0.01,9,9,0,0,0,0,0,23,0,1.87
+Carlos Martín,2026-02-01,Real Madrid,Rayo Vallecano,6.4,22,2360.0,4.0,107.27,0,0,0.0,0.0,2,3,0,0,0,0,2,6,0,1.69
+Carlos Martín,2026-02-21,Real Betis,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Martín,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Martín,2026-03-04,Rayo Vallecano,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Martín,2026-03-08,Sevilla,Rayo Vallecano,5.7,67,7115.0,13.0,106.19,0,0,0.0,0.0,10,11,0,0,0,0,1,16,0,1.83
+Carlos Martín,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Martín,2026-03-22,FC Barcelona,Rayo Vallecano,6.3,45,4863.0,9.0,108.07,0,0,0.67,0.0,7,10,0,0,0,0,3,24,0,1.85
+Carlos Martín,2026-04-03,Rayo Vallecano,Elche,,1,118.0,0.0,118.0,0,0,0.0,0.0,0,1,0,0,0,0,0,3,0,0.0
+Carlos Martín,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Martín,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Carlos Martín,2026-04-26,Rayo Vallecano,Real Sociedad,6.4,64,6816.0,12.0,106.5,0,0,0.02,0.01,10,10,1,0,0,0,1,20,0,1.76

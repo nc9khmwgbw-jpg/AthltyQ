@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Murray Campbell,2025-10-21,Tamworth,Burnley U21,,85,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2025-10-24,Norwich City U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2025-10-31,Burnley U21,Birmingham City U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2025-11-08,Newcastle United U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2025-11-25,Brackley Town,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-01-09,Manchester City U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-01-16,Burnley U21,Tottenham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-01-23,Arsenal U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-01-30,Burnley U21,Reading U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-02-16,Everton U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-02-23,Burnley U21,Derby County U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-02-27,Fulham U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-03-09,Stoke City U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-03-16,Burnley U21,Brighton & Hove Albion U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Murray Campbell,2026-03-23,Ipswich Town U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Murray Campbell,2025-10-21,Tamworth,Burnley U21,,85,8925.0,16.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79
+Murray Campbell,2025-10-24,Norwich City U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2025-10-31,Burnley U21,Birmingham City U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2025-11-08,Newcastle United U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2025-11-25,Brackley Town,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-01-09,Manchester City U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-01-16,Burnley U21,Tottenham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-01-23,Arsenal U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-01-30,Burnley U21,Reading U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-02-16,Everton U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-02-23,Burnley U21,Derby County U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-02-27,Fulham U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-03-09,Stoke City U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-03-16,Burnley U21,Brighton & Hove Albion U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Murray Campbell,2026-03-23,Ipswich Town U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8

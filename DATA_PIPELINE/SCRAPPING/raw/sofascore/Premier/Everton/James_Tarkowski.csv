@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-James Tarkowski,2026-01-04,Everton,Brentford,6.8,90,,,0.0,0,0,0.29,0.06,29,39,2,0,0,0,3,62
-James Tarkowski,2026-01-07,Everton,Wolverhampton,7.1,90,,,0.0,0,0,0.0,0.01,33,39,2,0,0,0,1,59
-James Tarkowski,2026-01-10,Everton,Sunderland,7.9,120,,,0.0,0,0,0.0,0.0,51,59,2,0,1,0,3,87
-James Tarkowski,2026-01-18,Aston Villa,Everton,7.4,90,,,0.0,0,0,0.1,0.0,18,23,0,0,3,0,1,42
-James Tarkowski,2026-01-26,Everton,Leeds United,7.4,90,,,0.0,0,0,0.0,0.01,56,64,0,0,0,0,3,85
-James Tarkowski,2026-01-31,Brighton & Hove Albion,Everton,7.0,90,,,0.0,0,0,0.09,0.21,35,48,0,0,1,0,1,61
-James Tarkowski,2026-02-07,Fulham,Everton,6.1,90,,,0.0,0,0,0.24,0.0,35,43,0,0,0,0,3,49
-James Tarkowski,2026-02-10,Everton,Bournemouth,6.9,90,,,0.0,0,0,0.24,0.02,23,27,0,0,0,0,2,41
-James Tarkowski,2026-02-23,Everton,Manchester United,7.5,90,,,0.0,0,0,0.19,0.01,25,38,1,0,0,0,4,52
-James Tarkowski,2026-02-28,Newcastle United,Everton,6.8,90,,,0.0,0,0,0.0,0.0,19,24,0,0,1,0,1,42
-James Tarkowski,2026-03-03,Everton,Burnley,8.1,90,,,0.0,1,0,0.13,0.01,53,61,0,0,1,0,2,67
-James Tarkowski,2026-03-21,Everton,Chelsea,7.3,90,,,0.0,0,0,0.04,0.0,34,40,0,0,0,0,4,49
-James Tarkowski,2026-04-11,Brentford,Everton,6.7,90,,,0.0,0,0,0.0,0.0,37,46,0,0,0,0,2,62
-James Tarkowski,2026-04-19,Everton,Liverpool,6.7,90,,,0.0,0,0,0.13,0.0,32,39,0,0,1,0,3,49
-James Tarkowski,2026-04-25,West Ham United,Everton,7.4,90,,,0.0,0,0,0.0,0.21,64,69,2,0,0,0,1,77
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+James Tarkowski,2026-01-04,Everton,Brentford,6.8,90,9748.0,17.0,108.31,0,0,0.29,0.06,29,39,2,0,0,0,3,62,0,1.74
+James Tarkowski,2026-01-07,Everton,Wolverhampton,7.1,90,9710.0,17.0,107.89,0,0,0.0,0.01,33,39,2,0,0,0,1,59,0,1.75
+James Tarkowski,2026-01-10,Everton,Sunderland,7.9,120,13003.0,24.0,108.36,0,0,0.0,0.0,51,59,2,0,1,0,3,87,0,1.85
+James Tarkowski,2026-01-18,Aston Villa,Everton,7.4,90,9639.0,22.0,107.1,0,0,0.1,0.0,18,23,0,0,3,0,1,42,0,2.28
+James Tarkowski,2026-01-26,Everton,Leeds United,7.4,90,9844.0,17.0,109.38,0,0,0.0,0.01,56,64,0,0,0,0,3,85,0,1.73
+James Tarkowski,2026-01-31,Brighton & Hove Albion,Everton,7.0,90,9719.0,19.0,107.99,0,0,0.09,0.21,35,48,0,0,1,0,1,61,0,1.95
+James Tarkowski,2026-02-07,Fulham,Everton,6.1,90,9693.0,17.0,107.7,0,0,0.24,0.0,35,43,0,0,0,0,3,49,0,1.75
+James Tarkowski,2026-02-10,Everton,Bournemouth,6.9,90,9647.0,17.0,107.19,0,0,0.24,0.02,23,27,0,0,0,0,2,41,0,1.76
+James Tarkowski,2026-02-23,Everton,Manchester United,7.5,90,9718.0,17.0,107.98,0,0,0.19,0.01,25,38,1,0,0,0,4,52,0,1.75
+James Tarkowski,2026-02-28,Newcastle United,Everton,6.8,90,9639.0,19.0,107.1,0,0,0.0,0.0,19,24,0,0,1,0,1,42,0,1.97
+James Tarkowski,2026-03-03,Everton,Burnley,8.1,90,9756.0,19.0,108.4,1,0,0.13,0.01,53,61,0,0,1,0,2,67,0,1.95
+James Tarkowski,2026-03-21,Everton,Chelsea,7.3,90,9706.0,17.0,107.84,0,0,0.04,0.0,34,40,0,0,0,0,4,49,0,1.75
+James Tarkowski,2026-04-11,Brentford,Everton,6.7,90,9735.0,17.0,108.17,0,0,0.0,0.0,37,46,0,0,0,0,2,62,0,1.75
+James Tarkowski,2026-04-19,Everton,Liverpool,6.7,90,9693.0,19.0,107.7,0,0,0.13,0.0,32,39,0,0,1,0,3,49,0,1.96
+James Tarkowski,2026-04-25,West Ham United,Everton,7.4,90,9786.0,17.0,108.73,0,0,0.0,0.21,64,69,2,0,0,0,1,77,0,1.74

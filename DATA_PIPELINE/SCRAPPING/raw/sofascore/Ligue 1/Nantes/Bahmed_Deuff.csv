@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Bahmed Deuff,2025-10-29,Nantes,AS Monaco,6.1,27,,,0.0,0,0,0.05,0.0,9,11,0,0,0,0,1,20
-Bahmed Deuff,2025-11-02,Nantes,Metz,6.4,11,,,0.0,0,0,0.05,0.0,4,4,0,0,0,0,2,5
-Bahmed Deuff,2025-11-08,Le Havre,Nantes,6.4,31,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,1,14
-Bahmed Deuff,2025-11-23,Nantes,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Bahmed Deuff,2025-11-30,Olympique Lyonnais,Nantes,6.4,31,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,8
-Bahmed Deuff,2025-12-06,Nantes,RC Lens,6.8,60,,,0.0,0,0,0.03,0.01,9,12,0,0,1,0,2,33
-Bahmed Deuff,2025-12-12,Angers,Nantes,6.2,8,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,1,8
-Bahmed Deuff,2025-12-21,US Concarneau,Nantes,7.3,90,,,0.0,1,0,0.0,0.0,32,49,0,0,0,0,9,67
-Bahmed Deuff,2026-01-04,Olympique de Marseille,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Bahmed Deuff,2026-01-11,Nantes,Nice,7.1,90,,,0.0,0,0,0.0,0.0,32,43,1,0,0,0,6,56
-Bahmed Deuff,2026-01-18,Nantes,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Bahmed Deuff,2026-01-25,Nantes,Nice,6.5,9,,,0.0,0,0,0.02,0.0,1,3,0,0,0,0,2,5
-Bahmed Deuff,2026-04-22,Paris Saint-Germain,Nantes,6.8,17,,,0.0,0,0,0.02,0.0,12,12,0,0,0,0,0,15
-Bahmed Deuff,2026-04-26,Stade Rennais,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Bahmed Deuff,2025-10-29,Nantes,AS Monaco,6.1,27,2932.0,5.0,108.59,0,0,0.05,0.0,9,11,0,0,0,0,1,20,0,1.71
+Bahmed Deuff,2025-11-02,Nantes,Metz,6.4,11,1201.0,2.0,109.18,0,0,0.05,0.0,4,4,0,0,0,0,2,5,0,1.67
+Bahmed Deuff,2025-11-08,Le Havre,Nantes,6.4,31,3326.0,6.0,107.29,0,0,0.0,0.0,5,6,0,0,0,0,1,14,0,1.8
+Bahmed Deuff,2025-11-23,Nantes,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Bahmed Deuff,2025-11-30,Olympique Lyonnais,Nantes,6.4,31,3289.0,6.0,106.1,0,0,0.0,0.0,3,3,0,0,0,0,0,8,0,1.82
+Bahmed Deuff,2025-12-06,Nantes,RC Lens,6.8,60,6464.0,13.0,107.73,0,0,0.03,0.01,9,12,0,0,1,0,2,33,0,2.01
+Bahmed Deuff,2025-12-12,Angers,Nantes,6.2,8,886.0,2.0,110.75,0,0,0.0,0.0,5,6,0,0,0,0,1,8,0,2.26
+Bahmed Deuff,2025-12-21,US Concarneau,Nantes,7.3,90,9844.0,17.0,109.38,1,0,0.0,0.0,32,49,0,0,0,0,9,67,0,1.73
+Bahmed Deuff,2026-01-04,Olympique de Marseille,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Bahmed Deuff,2026-01-11,Nantes,Nice,7.1,90,9760.0,17.0,108.44,0,0,0.0,0.0,32,43,1,0,0,0,6,56,0,1.74
+Bahmed Deuff,2026-01-18,Nantes,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Bahmed Deuff,2026-01-25,Nantes,Nice,6.5,9,991.0,2.0,110.11,0,0,0.02,0.0,1,3,0,0,0,0,2,5,0,2.02
+Bahmed Deuff,2026-04-22,Paris Saint-Germain,Nantes,6.8,17,1848.0,3.0,108.71,0,0,0.02,0.0,12,12,0,0,0,0,0,15,0,1.62
+Bahmed Deuff,2026-04-26,Stade Rennais,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

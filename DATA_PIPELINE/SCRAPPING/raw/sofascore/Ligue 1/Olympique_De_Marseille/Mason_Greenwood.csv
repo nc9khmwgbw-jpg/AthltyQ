@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Mason Greenwood,2026-01-24,Olympique de Marseille,RC Lens,6.9,32,,,0.0,0,0,0.05,0.03,16,20,2,0,0,0,0,24
-Mason Greenwood,2026-01-28,Club Brugge KV,Olympique de Marseille,6.2,90,,,0.0,0,0,0.17,0.18,34,40,1,0,0,0,1,66
-Mason Greenwood,2026-01-31,Paris FC,Olympique de Marseille,8.7,90,,,0.0,1,0,0.98,0.26,38,45,5,0,0,0,3,66
-Mason Greenwood,2026-02-03,Olympique de Marseille,Stade Rennais,8.6,90,,,0.0,1,0,0.0,0.0,36,41,2,0,0,0,3,58
-Mason Greenwood,2026-02-08,Paris Saint-Germain,Olympique de Marseille,6.0,80,,,0.0,0,0,0.02,0.16,26,31,3,0,0,0,2,42
-Mason Greenwood,2026-02-14,Olympique de Marseille,RC Strasbourg,7.5,90,,,0.0,1,0,0.62,0.02,28,34,0,0,1,0,4,50
-Mason Greenwood,2026-02-20,Stade Brestois,Olympique de Marseille,5.8,90,,,0.0,0,0,1.0,0.15,42,55,0,0,0,0,5,88
-Mason Greenwood,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.9,89,,,0.0,0,0,0.42,0.14,25,32,1,0,0,0,1,62
-Mason Greenwood,2026-03-04,Olympique de Marseille,Toulouse,8.3,90,,,0.0,1,0,0.0,0.0,27,32,3,0,0,0,6,54
-Mason Greenwood,2026-03-07,Toulouse,Olympique de Marseille,7.6,66,,,0.0,1,0,0.11,0.06,19,21,2,0,0,0,3,34
-Mason Greenwood,2026-03-13,Olympique de Marseille,Auxerre,7.2,89,,,0.0,0,0,0.33,0.14,36,47,2,0,0,0,5,71
-Mason Greenwood,2026-03-22,Olympique de Marseille,Lille,6.7,18,,,0.0,0,0,0.02,0.0,3,4,0,0,0,0,1,7
-Mason Greenwood,2026-04-10,Olympique de Marseille,Metz,8.3,82,,,0.0,0,0,0.33,0.23,32,38,3,0,1,0,4,50
-Mason Greenwood,2026-04-18,Lorient,Olympique de Marseille,6.7,90,,,0.0,0,0,0.09,0.44,40,44,2,0,0,0,2,63
-Mason Greenwood,2026-04-26,Olympique de Marseille,Nice,6.6,27,,,0.0,0,0,0.04,0.1,13,13,3,0,0,0,3,24
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mason Greenwood,2026-01-24,Olympique de Marseille,RC Lens,6.9,32,3461.0,6.0,108.16,0,0,0.05,0.03,16,20,2,0,0,0,0,24,0,1.73
+Mason Greenwood,2026-01-28,Club Brugge KV,Olympique de Marseille,6.2,90,9740.0,17.0,108.22,0,0,0.17,0.18,34,40,1,0,0,0,1,66,0,1.75
+Mason Greenwood,2026-01-31,Paris FC,Olympique de Marseille,8.7,90,9765.0,17.0,108.5,1,0,0.98,0.26,38,45,5,0,0,0,3,66,0,1.74
+Mason Greenwood,2026-02-03,Olympique de Marseille,Stade Rennais,8.6,90,9731.0,17.0,108.12,1,0,0.0,0.0,36,41,2,0,0,0,3,58,0,1.75
+Mason Greenwood,2026-02-08,Paris Saint-Germain,Olympique de Marseille,6.0,80,8601.0,15.0,107.51,0,0,0.02,0.16,26,31,3,0,0,0,2,42,0,1.74
+Mason Greenwood,2026-02-14,Olympique de Marseille,RC Strasbourg,7.5,90,9710.0,19.0,107.89,1,0,0.62,0.02,28,34,0,0,1,0,4,50,0,1.96
+Mason Greenwood,2026-02-20,Stade Brestois,Olympique de Marseille,5.8,90,9882.0,17.0,109.8,0,0,1.0,0.15,42,55,0,0,0,0,5,88,0,1.72
+Mason Greenwood,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.9,89,9618.0,17.0,108.07,0,0,0.42,0.14,25,32,1,0,0,0,1,62,0,1.77
+Mason Greenwood,2026-03-04,Olympique de Marseille,Toulouse,8.3,90,9752.0,17.0,108.36,1,0,0.0,0.0,27,32,3,0,0,0,6,54,0,1.74
+Mason Greenwood,2026-03-07,Toulouse,Olympique de Marseille,7.6,66,7110.0,13.0,107.73,1,0,0.11,0.06,19,21,2,0,0,0,3,34,0,1.83
+Mason Greenwood,2026-03-13,Olympique de Marseille,Auxerre,7.2,89,9706.0,17.0,109.06,0,0,0.33,0.14,36,47,2,0,0,0,5,71,0,1.75
+Mason Greenwood,2026-03-22,Olympique de Marseille,Lille,6.7,18,1932.0,3.0,107.33,0,0,0.02,0.0,3,4,0,0,0,0,1,7,0,1.55
+Mason Greenwood,2026-04-10,Olympique de Marseille,Metz,8.3,82,8870.0,17.0,108.17,0,0,0.33,0.23,32,38,3,0,1,0,4,50,0,1.92
+Mason Greenwood,2026-04-18,Lorient,Olympique de Marseille,6.7,90,9740.0,17.0,108.22,0,0,0.09,0.44,40,44,2,0,0,0,2,63,0,1.75
+Mason Greenwood,2026-04-26,Olympique de Marseille,Nice,6.6,27,2973.0,5.0,110.11,0,0,0.04,0.1,13,13,3,0,0,0,3,24,0,1.68

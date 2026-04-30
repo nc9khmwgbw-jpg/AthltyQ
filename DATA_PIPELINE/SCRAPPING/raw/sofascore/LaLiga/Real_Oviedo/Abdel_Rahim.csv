@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Abdel Rahim,2026-01-04,Deportivo Alavés,Real Oviedo,7.0,90,,,0.0,0,0,0.0,0.02,26,35,2,0,4,0,9,66
-Abdel Rahim,2026-01-10,Real Oviedo,Real Betis,6.7,90,,,0.0,0,0,0.0,0.07,31,40,2,0,0,0,7,68
-Abdel Rahim,2026-01-17,Osasuna,Real Oviedo,6.2,90,,,0.0,0,0,0.03,0.01,27,36,0,0,0,0,4,64
-Abdel Rahim,2026-02-15,Real Oviedo,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdel Rahim,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdel Rahim,2026-02-28,Real Oviedo,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdel Rahim,2026-03-04,Rayo Vallecano,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdel Rahim,2026-03-09,Espanyol,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdel Rahim,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abdel Rahim,2026-03-21,Levante UD,Real Oviedo,6.5,26,,,0.0,0,0,0.0,0.0,12,18,0,0,0,0,2,33
-Abdel Rahim,2026-04-05,Real Oviedo,Sevilla,6.7,9,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,2
-Abdel Rahim,2026-04-12,Celta Vigo,Real Oviedo,6.6,12,,,0.0,0,0,0.0,0.0,2,3,0,0,1,0,0,7
-Abdel Rahim,2026-04-23,Real Oviedo,Villarreal,6.6,8,,,0.0,0,0,0.0,0.0,3,7,0,0,1,0,0,10
-Abdel Rahim,2026-04-26,Real Oviedo,Elche,6.0,58,,,0.0,0,0,0.0,0.18,17,22,0,0,1,0,1,37
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abdel Rahim,2026-01-04,Deportivo Alavés,Real Oviedo,7.0,90,9840.0,23.0,109.33,0,0,0.0,0.02,26,35,2,0,4,0,9,66,0,2.34
+Abdel Rahim,2026-01-10,Real Oviedo,Real Betis,6.7,90,9823.0,17.0,109.14,0,0,0.0,0.07,31,40,2,0,0,0,7,68,0,1.73
+Abdel Rahim,2026-01-17,Osasuna,Real Oviedo,6.2,90,9769.0,17.0,108.54,0,0,0.03,0.01,27,36,0,0,0,0,4,64,0,1.74
+Abdel Rahim,2026-02-15,Real Oviedo,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdel Rahim,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdel Rahim,2026-02-28,Real Oviedo,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdel Rahim,2026-03-04,Rayo Vallecano,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdel Rahim,2026-03-09,Espanyol,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdel Rahim,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abdel Rahim,2026-03-21,Levante UD,Real Oviedo,6.5,26,2894.0,5.0,111.31,0,0,0.0,0.0,12,18,0,0,0,0,2,33,0,1.73
+Abdel Rahim,2026-04-05,Real Oviedo,Sevilla,6.7,9,953.0,2.0,105.89,0,0,0.0,0.0,2,2,0,0,0,0,0,2,0,2.1
+Abdel Rahim,2026-04-12,Celta Vigo,Real Oviedo,6.6,12,1289.0,4.0,107.42,0,0,0.0,0.0,2,3,0,0,1,0,0,7,0,3.1
+Abdel Rahim,2026-04-23,Real Oviedo,Villarreal,6.6,8,882.0,3.0,110.25,0,0,0.0,0.0,3,7,0,0,1,0,0,10,0,3.4
+Abdel Rahim,2026-04-26,Real Oviedo,Elche,6.0,58,6258.0,13.0,107.9,0,0,0.0,0.18,17,22,0,0,1,0,1,37,0,2.08

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Aaron Hickey,2025-12-20,Wolverhampton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Aaron Hickey,2025-12-27,Brentford,Bournemouth,6.7,13,,,0.0,0,0,0.0,0.0,2,4,0,0,1,0,1,8
-Aaron Hickey,2026-01-01,Brentford,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Aaron Hickey,2026-01-04,Everton,Brentford,6.4,76,,,0.0,0,0,0.0,0.0,34,40,0,0,0,0,1,58
-Aaron Hickey,2026-01-07,Brentford,Sunderland,6.6,8,,,0.0,0,0,0.0,0.0,9,10,0,0,0,0,2,11
-Aaron Hickey,2026-01-10,Sheffield Wednesday,Brentford,6.9,90,,,0.0,0,0,0.0,0.0,57,63,0,0,0,0,7,87
-Aaron Hickey,2026-01-17,Chelsea,Brentford,6.4,8,,,0.0,0,0,0.05,0.0,8,12,0,0,0,0,0,16
-Aaron Hickey,2026-01-25,Brentford,Nottingham Forest,6.4,23,,,0.0,0,0,0.0,0.0,19,20,0,0,0,0,2,25
-Aaron Hickey,2026-02-01,Aston Villa,Brentford,6.9,17,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,1,7
-Aaron Hickey,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Aaron Hickey,2026-02-12,Brentford,Arsenal,,1,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3
-Aaron Hickey,2026-02-16,Macclesfield FC,Brentford,7.4,90,,,0.0,0,0,0.0,0.0,32,37,3,0,0,0,5,65
-Aaron Hickey,2026-02-21,Brentford,Brighton & Hove Albion,6.8,44,,,0.0,0,0,0.0,0.0,12,13,0,0,0,0,2,25
-Aaron Hickey,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Aaron Hickey,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Aaron Hickey,2025-12-20,Wolverhampton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Aaron Hickey,2025-12-27,Brentford,Bournemouth,6.7,13,1411.0,4.0,108.54,0,0,0.0,0.0,2,4,0,0,1,0,1,8,0,2.83
+Aaron Hickey,2026-01-01,Brentford,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Aaron Hickey,2026-01-04,Everton,Brentford,6.4,76,8236.0,15.0,108.37,0,0,0.0,0.0,34,40,0,0,0,0,1,58,0,1.82
+Aaron Hickey,2026-01-07,Brentford,Sunderland,6.6,8,911.0,2.0,113.88,0,0,0.0,0.0,9,10,0,0,0,0,2,11,0,2.2
+Aaron Hickey,2026-01-10,Sheffield Wednesday,Brentford,6.9,90,9903.0,17.0,110.03,0,0,0.0,0.0,57,63,0,0,0,0,7,87,0,1.72
+Aaron Hickey,2026-01-17,Chelsea,Brentford,6.4,8,907.0,2.0,113.38,0,0,0.05,0.0,8,12,0,0,0,0,0,16,0,2.21
+Aaron Hickey,2026-01-25,Brentford,Nottingham Forest,6.4,23,2545.0,4.0,110.65,0,0,0.0,0.0,19,20,0,0,0,0,2,25,0,1.57
+Aaron Hickey,2026-02-01,Aston Villa,Brentford,6.9,17,1827.0,3.0,107.47,0,0,0.0,0.0,1,1,0,0,0,0,1,7,0,1.64
+Aaron Hickey,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Aaron Hickey,2026-02-12,Brentford,Arsenal,,1,118.0,0.0,118.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,0.0
+Aaron Hickey,2026-02-16,Macclesfield FC,Brentford,7.4,90,9786.0,17.0,108.73,0,0,0.0,0.0,32,37,3,0,0,0,5,65,0,1.74
+Aaron Hickey,2026-02-21,Brentford,Brighton & Hove Albion,6.8,44,4750.0,8.0,107.95,0,0,0.0,0.0,12,13,0,0,0,0,2,25,0,1.68
+Aaron Hickey,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Aaron Hickey,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

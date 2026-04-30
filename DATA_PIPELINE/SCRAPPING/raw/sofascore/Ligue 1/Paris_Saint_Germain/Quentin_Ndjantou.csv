@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Quentin Ndjantou,2025-10-29,Lorient,Paris Saint-Germain,6.4,45,,,0.0,0,0,0.0,0.01,20,23,0,0,0,0,1,26
-Quentin Ndjantou,2025-11-01,Paris Saint-Germain,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quentin Ndjantou,2025-11-04,Paris Saint-Germain,FC Bayern München,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quentin Ndjantou,2025-11-09,Olympique Lyonnais,Paris Saint-Germain,6.4,23,,,0.0,0,0,0.0,0.06,3,4,0,0,0,0,0,6
-Quentin Ndjantou,2025-11-12,France U19,Faroe Islands U19,,29,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quentin Ndjantou,2025-11-15,France U19,Bulgaria U19,,65,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quentin Ndjantou,2025-11-18,Hungary U19,France U19,,66,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quentin Ndjantou,2025-11-22,Paris Saint-Germain,Le Havre,6.7,26,,,0.0,0,0,0.11,0.03,13,16,0,0,0,0,2,24
-Quentin Ndjantou,2025-11-26,Paris Saint-Germain,Tottenham Hotspur,6.7,79,,,0.0,0,0,0.0,0.03,17,20,2,0,0,0,0,34
-Quentin Ndjantou,2025-11-29,AS Monaco,Paris Saint-Germain,6.1,26,,,0.0,0,0,0.25,0.02,7,9,1,0,0,0,0,11
-Quentin Ndjantou,2025-12-06,Paris Saint-Germain,Stade Rennais,6.8,10,,,0.0,0,0,0.0,0.03,16,17,1,0,0,0,0,18
-Quentin Ndjantou,2025-12-10,Athletic Club,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Quentin Ndjantou,2025-12-13,Metz,Paris Saint-Germain,7.1,66,,,0.0,1,0,0.65,0.08,26,29,0,0,0,0,1,34
-Quentin Ndjantou,2025-12-17,Paris Saint-Germain,Flamengo,6.2,15,,,0.0,0,0,0.0,0.0,1,2,1,0,0,0,0,5
-Quentin Ndjantou,2025-12-20,Vendée Fontenay Foot,Paris Saint-Germain,6.4,45,,,0.0,0,0,0.0,0.0,14,18,0,0,0,0,0,22
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Quentin Ndjantou,2025-10-29,Lorient,Paris Saint-Germain,6.4,45,4847.0,9.0,107.71,0,0,0.0,0.01,20,23,0,0,0,0,1,26,0,1.86
+Quentin Ndjantou,2025-11-01,Paris Saint-Germain,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quentin Ndjantou,2025-11-04,Paris Saint-Germain,FC Bayern München,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quentin Ndjantou,2025-11-09,Olympique Lyonnais,Paris Saint-Germain,6.4,23,2440.0,4.0,106.09,0,0,0.0,0.06,3,4,0,0,0,0,0,6,0,1.64
+Quentin Ndjantou,2025-11-12,France U19,Faroe Islands U19,,29,3045.0,6.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.97
+Quentin Ndjantou,2025-11-15,France U19,Bulgaria U19,,65,6825.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.76
+Quentin Ndjantou,2025-11-18,Hungary U19,France U19,,66,6930.0,13.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.88
+Quentin Ndjantou,2025-11-22,Paris Saint-Germain,Le Havre,6.7,26,2856.0,5.0,109.85,0,0,0.11,0.03,13,16,0,0,0,0,2,24,0,1.75
+Quentin Ndjantou,2025-11-26,Paris Saint-Germain,Tottenham Hotspur,6.7,79,8438.0,15.0,106.81,0,0,0.0,0.03,17,20,2,0,0,0,0,34,0,1.78
+Quentin Ndjantou,2025-11-29,AS Monaco,Paris Saint-Germain,6.1,26,2776.0,5.0,106.77,0,0,0.25,0.02,7,9,1,0,0,0,0,11,0,1.8
+Quentin Ndjantou,2025-12-06,Paris Saint-Germain,Stade Rennais,6.8,10,1126.0,2.0,112.6,0,0,0.0,0.03,16,17,1,0,0,0,0,18,0,1.78
+Quentin Ndjantou,2025-12-10,Athletic Club,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Quentin Ndjantou,2025-12-13,Metz,Paris Saint-Germain,7.1,66,7085.0,13.0,107.35,1,0,0.65,0.08,26,29,0,0,0,0,1,34,0,1.83
+Quentin Ndjantou,2025-12-17,Paris Saint-Germain,Flamengo,6.2,15,1596.0,3.0,106.4,0,0,0.0,0.0,1,2,1,0,0,0,0,5,0,1.88
+Quentin Ndjantou,2025-12-20,Vendée Fontenay Foot,Paris Saint-Germain,6.4,45,4817.0,9.0,107.04,0,0,0.0,0.0,14,18,0,0,0,0,0,22,0,1.87

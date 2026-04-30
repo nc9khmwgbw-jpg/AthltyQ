@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Thierry Correia,2025-12-04,FC Cartagena,Valencia,7.2,56,,,0.0,0,0,0.0,0.0,42,47,2,0,0,0,3,65
-Thierry Correia,2025-12-07,Valencia,Sevilla,6.3,90,,,0.0,0,0,0.15,0.01,28,37,0,0,2,0,2,67
-Thierry Correia,2025-12-13,Atlético Madrid,Valencia,6.0,90,,,0.0,0,0,0.0,0.04,24,31,0,0,1,0,2,57
-Thierry Correia,2025-12-16,Sporting Gijón,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Thierry Correia,2025-12-19,Valencia,Mallorca,6.3,76,,,0.0,0,0,0.0,0.69,37,46,1,0,0,0,2,77
-Thierry Correia,2026-01-03,Celta Vigo,Valencia,6.6,57,,,0.0,0,0,0.09,0.15,21,25,2,0,0,0,3,35
-Thierry Correia,2026-01-10,Valencia,Elche,6.8,17,,,0.0,0,0,0.0,0.0,5,5,0,0,1,0,1,9
-Thierry Correia,2026-02-08,Valencia,Real Madrid,6.5,18,,,0.0,0,0,0.0,0.06,7,10,0,0,0,0,2,17
-Thierry Correia,2026-02-22,Villarreal,Valencia,6.6,20,,,0.0,0,0,0.0,0.01,15,16,0,0,0,0,0,18
-Thierry Correia,2026-03-01,Valencia,Osasuna,6.7,90,,,0.0,0,0,0.0,0.03,31,43,1,0,3,0,6,59
-Thierry Correia,2026-03-08,Valencia,Deportivo Alavés,6.7,82,,,0.0,0,0,0.0,0.04,50,53,0,0,1,0,3,71
-Thierry Correia,2026-03-14,Real Oviedo,Valencia,6.6,90,,,0.0,0,0,0.06,0.03,47,60,1,0,0,0,8,91
-Thierry Correia,2026-04-05,Valencia,Celta Vigo,6.7,27,,,0.0,0,0,0.0,0.06,11,11,1,0,0,0,1,21
-Thierry Correia,2026-04-11,Elche,Valencia,6.4,90,,,0.0,0,0,0.0,0.07,27,30,1,0,0,0,1,43
-Thierry Correia,2026-04-21,Mallorca,Valencia,6.6,11,,,0.0,0,0,0.0,0.0,1,4,0,0,0,0,0,8
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Thierry Correia,2025-12-04,FC Cartagena,Valencia,7.2,56,6190.0,11.0,110.54,0,0,0.0,0.0,42,47,2,0,0,0,3,65,0,1.78
+Thierry Correia,2025-12-07,Valencia,Sevilla,6.3,90,9756.0,20.0,108.4,0,0,0.15,0.01,28,37,0,0,2,0,2,67,0,2.05
+Thierry Correia,2025-12-13,Atlético Madrid,Valencia,6.0,90,9714.0,19.0,107.93,0,0,0.0,0.04,24,31,0,0,1,0,2,57,0,1.96
+Thierry Correia,2025-12-16,Sporting Gijón,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Thierry Correia,2025-12-19,Valencia,Mallorca,6.3,76,8328.0,15.0,109.58,0,0,0.0,0.69,37,46,1,0,0,0,2,77,0,1.8
+Thierry Correia,2026-01-03,Celta Vigo,Valencia,6.6,57,6170.0,11.0,108.25,0,0,0.09,0.15,21,25,2,0,0,0,3,35,0,1.78
+Thierry Correia,2026-01-10,Valencia,Elche,6.8,17,1835.0,5.0,107.94,0,0,0.0,0.0,5,5,0,0,1,0,1,9,0,2.72
+Thierry Correia,2026-02-08,Valencia,Real Madrid,6.5,18,1986.0,3.0,110.33,0,0,0.0,0.06,7,10,0,0,0,0,2,17,0,1.51
+Thierry Correia,2026-02-22,Villarreal,Valencia,6.6,20,2176.0,4.0,108.8,0,0,0.0,0.01,15,16,0,0,0,0,0,18,0,1.84
+Thierry Correia,2026-03-01,Valencia,Osasuna,6.7,90,9773.0,22.0,108.59,0,0,0.0,0.03,31,43,1,0,3,0,6,59,0,2.25
+Thierry Correia,2026-03-08,Valencia,Deportivo Alavés,6.7,82,8946.0,17.0,109.1,0,0,0.0,0.04,50,53,0,0,1,0,3,71,0,1.9
+Thierry Correia,2026-03-14,Real Oviedo,Valencia,6.6,90,9932.0,17.0,110.36,0,0,0.06,0.03,47,60,1,0,0,0,8,91,0,1.71
+Thierry Correia,2026-04-05,Valencia,Celta Vigo,6.7,27,2936.0,5.0,108.74,0,0,0.0,0.06,11,11,1,0,0,0,1,21,0,1.7
+Thierry Correia,2026-04-11,Elche,Valencia,6.4,90,9643.0,17.0,107.14,0,0,0.0,0.07,27,30,1,0,0,0,1,43,0,1.76
+Thierry Correia,2026-04-21,Mallorca,Valencia,6.6,11,1189.0,2.0,108.09,0,0,0.0,0.0,1,4,0,0,0,0,0,8,0,1.68

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Darlin Yongwa,2026-02-04,Lorient,Paris FC,7.1,78,,,0.0,0,0,0.0,0.0,41,50,0,0,1,0,5,62
-Darlin Yongwa,2026-02-07,Stade Brestois,Lorient,6.2,26,,,0.0,0,0,0.0,0.06,10,11,2,0,0,0,0,19
-Darlin Yongwa,2026-02-15,Lorient,Angers,6.7,86,,,0.0,0,0,0.0,0.01,59,65,0,0,0,0,4,80
-Darlin Yongwa,2026-02-22,Nice,Lorient,6.0,90,,,0.0,0,0,0.0,0.08,31,36,2,0,0,0,2,62
-Darlin Yongwa,2026-03-01,Lorient,Auxerre,6.9,90,,,0.0,0,1,0.11,0.22,27,30,3,0,0,0,5,51
-Darlin Yongwa,2026-03-04,Lorient,Nice,7.0,72,,,0.0,0,0,0.0,0.0,33,40,0,0,1,0,4,65
-Darlin Yongwa,2026-03-08,Lille,Lorient,6.8,16,,,0.0,0,0,0.05,0.0,6,8,0,0,0,0,2,15
-Darlin Yongwa,2026-03-14,Lorient,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Darlin Yongwa,2026-03-21,Toulouse,Lorient,6.5,90,,,0.0,0,0,0.06,0.02,31,36,0,0,0,0,7,58
-Darlin Yongwa,2026-03-27,Australia,Cameroon,6.2,89,,,0.0,0,0,0.0,0.0,15,20,1,0,2,0,3,41
-Darlin Yongwa,2026-03-31,Cameroon,China,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Darlin Yongwa,2026-04-05,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Darlin Yongwa,2026-04-12,Olympique Lyonnais,Lorient,6.9,17,,,0.0,0,0,0.0,0.06,4,5,1,0,0,0,2,14
-Darlin Yongwa,2026-04-18,Lorient,Olympique de Marseille,7.2,90,,,0.0,0,0,0.0,0.08,20,24,2,0,1,0,6,50
-Darlin Yongwa,2026-04-26,Lorient,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Darlin Yongwa,2026-02-04,Lorient,Paris FC,7.1,78,8513.0,16.0,109.14,0,0,0.0,0.0,41,50,0,0,1,0,5,62,0,1.88
+Darlin Yongwa,2026-02-07,Stade Brestois,Lorient,6.2,26,2810.0,5.0,108.08,0,0,0.0,0.06,10,11,2,0,0,0,0,19,0,1.78
+Darlin Yongwa,2026-02-15,Lorient,Angers,6.7,86,9416.0,17.0,109.49,0,0,0.0,0.01,59,65,0,0,0,0,4,80,0,1.81
+Darlin Yongwa,2026-02-22,Nice,Lorient,6.0,90,9735.0,17.0,108.17,0,0,0.0,0.08,31,36,2,0,0,0,2,62,0,1.75
+Darlin Yongwa,2026-03-01,Lorient,Auxerre,6.9,90,9727.0,17.0,108.08,0,1,0.11,0.22,27,30,3,0,0,0,5,51,0,1.75
+Darlin Yongwa,2026-03-04,Lorient,Nice,7.0,72,7883.0,15.0,109.49,0,0,0.0,0.0,33,40,0,0,1,0,4,65,0,1.9
+Darlin Yongwa,2026-03-08,Lille,Lorient,6.8,16,1768.0,3.0,110.5,0,0,0.05,0.0,6,8,0,0,0,0,2,15,0,1.7
+Darlin Yongwa,2026-03-14,Lorient,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Darlin Yongwa,2026-03-21,Toulouse,Lorient,6.5,90,9781.0,17.0,108.68,0,0,0.06,0.02,31,36,0,0,0,0,7,58,0,1.74
+Darlin Yongwa,2026-03-27,Australia,Cameroon,6.2,89,9555.0,20.0,107.36,0,0,0.0,0.0,15,20,1,0,2,0,3,41,0,2.09
+Darlin Yongwa,2026-03-31,Cameroon,China,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Darlin Yongwa,2026-04-05,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Darlin Yongwa,2026-04-12,Olympique Lyonnais,Lorient,6.9,17,1869.0,3.0,109.94,0,0,0.0,0.06,4,5,1,0,0,0,2,14,0,1.61
+Darlin Yongwa,2026-04-18,Lorient,Olympique de Marseille,7.2,90,9735.0,19.0,108.17,0,0,0.0,0.08,20,24,2,0,1,0,6,50,0,1.95
+Darlin Yongwa,2026-04-26,Lorient,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

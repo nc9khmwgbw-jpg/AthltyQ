@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pathé Ismaël Ciss,2026-02-01,Real Madrid,Rayo Vallecano,6.0,80,,,0.0,0,0,0.02,0.01,49,51,1,0,2,0,4,63
-Pathé Ismaël Ciss,2026-02-21,Real Betis,Rayo Vallecano,6.3,29,,,0.0,0,0,0.12,0.01,18,19,1,0,0,0,2,24
-Pathé Ismaël Ciss,2026-02-28,Rayo Vallecano,Athletic Club,7.0,90,,,0.0,0,0,0.05,0.0,16,20,1,0,4,0,1,41
-Pathé Ismaël Ciss,2026-03-04,Rayo Vallecano,Real Oviedo,7.5,88,,,0.0,0,0,0.0,0.01,27,34,1,0,0,0,6,45
-Pathé Ismaël Ciss,2026-03-12,Samsunspor,Rayo Vallecano,7.0,87,,,0.0,0,0,0.02,0.01,22,25,0,0,3,0,0,41
-Pathé Ismaël Ciss,2026-03-16,Rayo Vallecano,Levante UD,6.9,14,,,0.0,1,0,0.71,0.0,10,10,0,0,0,0,2,11
-Pathé Ismaël Ciss,2026-03-19,Rayo Vallecano,Samsunspor,7.0,90,,,0.0,0,0,0.0,0.04,16,23,2,0,3,0,2,38
-Pathé Ismaël Ciss,2026-03-22,FC Barcelona,Rayo Vallecano,6.2,90,,,0.0,0,0,0.33,0.0,35,39,0,0,1,0,1,52
-Pathé Ismaël Ciss,2026-03-28,Senegal,Peru,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pathé Ismaël Ciss,2026-04-09,Rayo Vallecano,AEK Athens,8.6,90,,,0.0,0,0,0.0,0.0,30,40,0,0,3,0,7,62
-Pathé Ismaël Ciss,2026-04-12,Mallorca,Rayo Vallecano,6.9,45,,,0.0,0,0,0.0,0.0,29,29,1,0,1,0,1,33
-Pathé Ismaël Ciss,2026-04-16,AEK Athens,Rayo Vallecano,6.8,90,,,0.0,0,0,0.0,0.01,14,26,0,0,3,0,5,45
-Pathé Ismaël Ciss,2026-04-23,Rayo Vallecano,Espanyol,7.5,90,,,0.0,0,0,0.19,0.01,36,42,0,0,0,0,0,59
-Pathé Ismaël Ciss,2026-04-26,Rayo Vallecano,Real Sociedad,6.5,90,,,0.0,0,0,0.16,0.01,53,57,0,0,3,0,7,67
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pathé Ismaël Ciss,2026-02-01,Real Madrid,Rayo Vallecano,6.0,80,8715.0,18.0,108.94,0,0,0.02,0.01,49,51,1,0,2,0,4,63,0,2.07
+Pathé Ismaël Ciss,2026-02-21,Real Betis,Rayo Vallecano,6.3,29,3171.0,6.0,109.34,0,0,0.12,0.01,18,19,1,0,0,0,2,24,0,1.89
+Pathé Ismaël Ciss,2026-02-28,Rayo Vallecano,Athletic Club,7.0,90,9635.0,23.0,107.06,0,0,0.05,0.0,16,20,1,0,4,0,1,41,0,2.39
+Pathé Ismaël Ciss,2026-03-04,Rayo Vallecano,Real Oviedo,7.5,88,9504.0,17.0,108.0,0,0,0.0,0.01,27,34,1,0,0,0,6,45,0,1.79
+Pathé Ismaël Ciss,2026-03-12,Samsunspor,Rayo Vallecano,7.0,87,9307.0,21.0,106.98,0,0,0.02,0.01,22,25,0,0,3,0,0,41,0,2.26
+Pathé Ismaël Ciss,2026-03-16,Rayo Vallecano,Levante UD,6.9,14,1541.0,3.0,110.07,1,0,0.71,0.0,10,10,0,0,0,0,2,11,0,1.95
+Pathé Ismaël Ciss,2026-03-19,Rayo Vallecano,Samsunspor,7.0,90,9635.0,22.0,107.06,0,0,0.0,0.04,16,23,2,0,3,0,2,38,0,2.28
+Pathé Ismaël Ciss,2026-03-22,FC Barcelona,Rayo Vallecano,6.2,90,9681.0,19.0,107.57,0,0,0.33,0.0,35,39,0,0,1,0,1,52,0,1.96
+Pathé Ismaël Ciss,2026-03-28,Senegal,Peru,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pathé Ismaël Ciss,2026-04-09,Rayo Vallecano,AEK Athens,8.6,90,9798.0,22.0,108.87,0,0,0.0,0.0,30,40,0,0,3,0,7,62,0,2.25
+Pathé Ismaël Ciss,2026-04-12,Mallorca,Rayo Vallecano,6.9,45,4876.0,10.0,108.36,0,0,0.0,0.0,29,29,1,0,1,0,1,33,0,2.05
+Pathé Ismaël Ciss,2026-04-16,AEK Athens,Rayo Vallecano,6.8,90,9702.0,22.0,107.8,0,0,0.0,0.01,14,26,0,0,3,0,5,45,0,2.27
+Pathé Ismaël Ciss,2026-04-23,Rayo Vallecano,Espanyol,7.5,90,9698.0,17.0,107.76,0,0,0.19,0.01,36,42,0,0,0,0,0,59,0,1.75
+Pathé Ismaël Ciss,2026-04-26,Rayo Vallecano,Real Sociedad,6.5,90,9819.0,22.0,109.1,0,0,0.16,0.01,53,57,0,0,3,0,7,67,0,2.24

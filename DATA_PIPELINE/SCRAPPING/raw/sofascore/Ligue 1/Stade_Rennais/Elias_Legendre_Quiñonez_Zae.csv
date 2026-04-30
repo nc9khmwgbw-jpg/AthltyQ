@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Elias Legendre Quiñonez Zae,2025-04-08,Ecuador U17,Paraguay U17,7.3,95,,,0.0,0,0,0.35,0.16,22,24,1,0,0,0,0,37
-Elias Legendre Quiñonez Zae,2025-04-11,Bolivia U17,Ecuador U17,6.5,66,,,0.0,0,0,0.1,0.0,6,9,0,0,1,0,1,14
-Elias Legendre Quiñonez Zae,2025-11-28,Metz,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Elias Legendre Quiñonez Zae,2025-12-06,Paris Saint-Germain,Stade Rennais,6.2,8,,,0.0,0,0,0.0,0.0,3,3,0,0,1,0,0,6
-Elias Legendre Quiñonez Zae,2025-12-13,Stade Rennais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Elias Legendre Quiñonez Zae,2025-12-21,Stade Rennais,Les Sables Vendee Foot,6.7,9,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,1,5
-Elias Legendre Quiñonez Zae,2026-01-03,Lille,Stade Rennais,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Elias Legendre Quiñonez Zae,2026-01-11,US Chantilly,Stade Rennais,7.3,15,,,0.0,1,0,0.0,0.0,4,6,0,0,0,0,0,8
-Elias Legendre Quiñonez Zae,2026-01-18,Stade Rennais,Le Havre,6.4,10,,,0.0,0,0,0.0,0.03,7,9,0,0,0,0,1,20
-Elias Legendre Quiñonez Zae,2026-01-24,Stade Rennais,Lorient,6.5,9,,,0.0,0,0,0.15,0.0,2,2,0,0,0,0,0,5
-Elias Legendre Quiñonez Zae,2026-01-31,AS Monaco,Stade Rennais,6.6,12,,,0.0,0,0,0.0,0.31,3,4,2,0,0,0,0,6
-Elias Legendre Quiñonez Zae,2026-02-03,Olympique de Marseille,Stade Rennais,6.5,11,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,1,14
-Elias Legendre Quiñonez Zae,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Elias Legendre Quiñonez Zae,2026-02-13,Stade Rennais,Paris Saint-Germain,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Elias Legendre Quiñonez Zae,2026-03-31,Netherlands,Ecuador,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Elias Legendre Quiñonez Zae,2025-04-08,Ecuador U17,Paraguay U17,7.3,95,10130.0,18.0,106.63,0,0,0.35,0.16,22,24,1,0,0,0,0,37,0,1.78
+Elias Legendre Quiñonez Zae,2025-04-11,Bolivia U17,Ecuador U17,6.5,66,7001.0,14.0,106.08,0,0,0.1,0.0,6,9,0,0,1,0,1,14,0,2.0
+Elias Legendre Quiñonez Zae,2025-11-28,Metz,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Elias Legendre Quiñonez Zae,2025-12-06,Paris Saint-Germain,Stade Rennais,6.2,8,865.0,3.0,108.12,0,0,0.0,0.0,3,3,0,0,1,0,0,6,0,3.47
+Elias Legendre Quiñonez Zae,2025-12-13,Stade Rennais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Elias Legendre Quiñonez Zae,2025-12-21,Stade Rennais,Les Sables Vendee Foot,6.7,9,978.0,2.0,108.67,0,0,0.0,0.0,1,2,0,0,0,0,1,5,0,2.04
+Elias Legendre Quiñonez Zae,2026-01-03,Lille,Stade Rennais,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Elias Legendre Quiñonez Zae,2026-01-11,US Chantilly,Stade Rennais,7.3,15,1609.0,3.0,107.27,1,0,0.0,0.0,4,6,0,0,0,0,0,8,0,1.86
+Elias Legendre Quiñonez Zae,2026-01-18,Stade Rennais,Le Havre,6.4,10,1146.0,2.0,114.6,0,0,0.0,0.03,7,9,0,0,0,0,1,20,0,1.75
+Elias Legendre Quiñonez Zae,2026-01-24,Stade Rennais,Lorient,6.5,9,966.0,2.0,107.33,0,0,0.15,0.0,2,2,0,0,0,0,0,5,0,2.07
+Elias Legendre Quiñonez Zae,2026-01-31,AS Monaco,Stade Rennais,6.6,12,1285.0,2.0,107.08,0,0,0.0,0.31,3,4,2,0,0,0,0,6,0,1.56
+Elias Legendre Quiñonez Zae,2026-02-03,Olympique de Marseille,Stade Rennais,6.5,11,1226.0,2.0,111.45,0,0,0.0,0.0,4,6,0,0,0,0,1,14,0,1.63
+Elias Legendre Quiñonez Zae,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Elias Legendre Quiñonez Zae,2026-02-13,Stade Rennais,Paris Saint-Germain,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Elias Legendre Quiñonez Zae,2026-03-31,Netherlands,Ecuador,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pierrick Capelle,2026-01-10,Angers,Toulouse,6.6,75,,,0.0,0,0,0.0,0.0,32,37,0,0,2,0,1,53
-Pierrick Capelle,2026-01-17,Angers,Olympique de Marseille,6.5,14,,,0.0,0,0,0.0,0.0,7,9,0,0,0,0,0,14
-Pierrick Capelle,2026-01-25,Paris FC,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pierrick Capelle,2026-02-01,Angers,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pierrick Capelle,2026-02-08,Angers,Toulouse,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pierrick Capelle,2026-02-15,Lorient,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pierrick Capelle,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pierrick Capelle,2026-02-28,AS Monaco,Angers,6.7,21,,,0.0,0,0,0.0,0.0,9,10,0,0,0,0,2,16
-Pierrick Capelle,2026-03-07,Nantes,Angers,6.9,75,,,0.0,0,0,0.05,0.02,16,18,0,0,1,0,1,36
-Pierrick Capelle,2026-03-14,Angers,Nice,7.2,64,,,0.0,0,0,0.12,0.05,9,12,1,0,1,0,1,27
-Pierrick Capelle,2026-03-20,RC Lens,Angers,6.7,9,,,0.0,0,0,0.0,0.0,6,11,0,0,0,0,3,16
-Pierrick Capelle,2026-04-05,Angers,Olympique Lyonnais,6.7,1,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,1,8
-Pierrick Capelle,2026-04-11,Stade Rennais,Angers,6.4,28,,,0.0,0,0,0.0,0.0,7,8,0,0,0,0,2,15
-Pierrick Capelle,2026-04-18,Angers,Le Havre,6.9,73,,,0.0,0,0,0.13,0.06,24,28,1,0,1,0,4,39
-Pierrick Capelle,2026-04-25,Angers,Paris Saint-Germain,6.7,73,,,0.0,0,0,0.0,0.02,26,29,0,0,0,0,9,37
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pierrick Capelle,2026-01-10,Angers,Toulouse,6.6,75,8110.0,17.0,108.13,0,0,0.0,0.0,32,37,0,0,2,0,1,53,0,2.1
+Pierrick Capelle,2026-01-17,Angers,Olympique de Marseille,6.5,14,1529.0,3.0,109.21,0,0,0.0,0.0,7,9,0,0,0,0,0,14,0,1.96
+Pierrick Capelle,2026-01-25,Paris FC,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pierrick Capelle,2026-02-01,Angers,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pierrick Capelle,2026-02-08,Angers,Toulouse,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pierrick Capelle,2026-02-15,Lorient,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pierrick Capelle,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pierrick Capelle,2026-02-28,AS Monaco,Angers,6.7,21,2297.0,4.0,109.38,0,0,0.0,0.0,9,10,0,0,0,0,2,16,0,1.74
+Pierrick Capelle,2026-03-07,Nantes,Angers,6.9,75,8039.0,16.0,107.19,0,0,0.05,0.02,16,18,0,0,1,0,1,36,0,1.99
+Pierrick Capelle,2026-03-14,Angers,Nice,7.2,64,6846.0,14.0,106.97,0,0,0.12,0.05,9,12,1,0,1,0,1,27,0,2.04
+Pierrick Capelle,2026-03-20,RC Lens,Angers,6.7,9,1050.0,2.0,116.67,0,0,0.0,0.0,6,11,0,0,0,0,3,16,0,1.9
+Pierrick Capelle,2026-04-05,Angers,Olympique Lyonnais,6.7,1,151.0,0.0,151.0,0,0,0.0,0.0,2,3,0,0,0,0,1,8,0,0.0
+Pierrick Capelle,2026-04-11,Stade Rennais,Angers,6.4,28,3028.0,5.0,108.14,0,0,0.0,0.0,7,8,0,0,0,0,2,15,0,1.65
+Pierrick Capelle,2026-04-18,Angers,Le Havre,6.9,73,7879.0,15.0,107.93,0,0,0.13,0.06,24,28,1,0,1,0,4,39,0,1.9
+Pierrick Capelle,2026-04-25,Angers,Paris Saint-Germain,6.7,73,7933.0,14.0,108.67,0,0,0.0,0.02,26,29,0,0,0,0,9,37,0,1.76

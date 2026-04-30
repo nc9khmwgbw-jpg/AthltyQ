@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Nicolas Tagliafico,2025-12-14,Olympique Lyonnais,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nicolas Tagliafico,2026-01-03,AS Monaco,Olympique Lyonnais,7.3,90,,,0.0,0,0,0.08,0.1,55,66,2,0,2,0,5,98
-Nicolas Tagliafico,2026-01-11,Lille,Olympique Lyonnais,6.8,90,,,0.0,0,0,0.0,0.0,32,37,0,0,3,0,3,57
-Nicolas Tagliafico,2026-01-18,Olympique Lyonnais,Stade Brestois,7.1,90,,,0.0,0,0,0.18,0.11,60,63,1,0,0,0,3,82
-Nicolas Tagliafico,2026-01-22,BSC Young Boys,Olympique Lyonnais,6.8,45,,,0.0,0,0,0.0,0.0,22,25,0,0,1,0,4,31
-Nicolas Tagliafico,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.5,15,,,0.0,0,0,0.0,0.0,6,6,0,0,0,0,1,8
-Nicolas Tagliafico,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.2,88,,,0.0,0,0,0.03,0.05,27,33,1,0,0,0,5,48
-Nicolas Tagliafico,2026-03-05,Olympique Lyonnais,RC Lens,6.0,59,,,0.0,0,0,0.0,0.0,30,39,1,0,1,0,4,49
-Nicolas Tagliafico,2026-03-08,Olympique Lyonnais,Paris FC,6.8,58,,,0.0,0,0,0.0,0.01,23,25,0,0,2,0,4,40
-Nicolas Tagliafico,2026-03-12,Celta Vigo,Olympique Lyonnais,6.4,66,,,0.0,0,0,0.02,0.02,44,50,0,0,1,0,3,62
-Nicolas Tagliafico,2026-03-15,Le Havre,Olympique Lyonnais,7.0,80,,,0.0,0,0,0.09,0.31,34,40,1,0,0,0,2,63
-Nicolas Tagliafico,2026-03-19,Olympique Lyonnais,Celta Vigo,6.0,90,,,0.0,0,0,0.03,0.01,18,23,0,0,1,0,2,46
-Nicolas Tagliafico,2026-03-22,Olympique Lyonnais,AS Monaco,6.7,89,,,0.0,0,0,0.04,0.03,33,45,2,0,3,0,7,72
-Nicolas Tagliafico,2026-04-01,Argentina,Zambia,6.7,54,,,0.0,0,0,0.0,0.0,36,36,0,0,0,0,1,39
-Nicolas Tagliafico,2026-04-25,Olympique Lyonnais,Auxerre,6.5,13,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,12
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nicolas Tagliafico,2025-12-14,Olympique Lyonnais,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Nicolas Tagliafico,2026-01-03,AS Monaco,Olympique Lyonnais,7.3,90,9924.0,20.0,110.27,0,0,0.08,0.1,55,66,2,0,2,0,5,98,0,2.02
+Nicolas Tagliafico,2026-01-11,Lille,Olympique Lyonnais,6.8,90,9727.0,22.0,108.08,0,0,0.0,0.0,32,37,0,0,3,0,3,57,0,2.26
+Nicolas Tagliafico,2026-01-18,Olympique Lyonnais,Stade Brestois,7.1,90,9832.0,17.0,109.24,0,0,0.18,0.11,60,63,1,0,0,0,3,82,0,1.73
+Nicolas Tagliafico,2026-01-22,BSC Young Boys,Olympique Lyonnais,6.8,45,4905.0,10.0,109.0,0,0,0.0,0.0,22,25,0,0,1,0,4,31,0,2.04
+Nicolas Tagliafico,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.5,15,1621.0,3.0,108.07,0,0,0.0,0.0,6,6,0,0,0,0,1,8,0,1.85
+Nicolas Tagliafico,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.2,88,9504.0,17.0,108.0,0,0,0.03,0.05,27,33,1,0,0,0,5,48,0,1.79
+Nicolas Tagliafico,2026-03-05,Olympique Lyonnais,RC Lens,6.0,59,6451.0,13.0,109.34,0,0,0.0,0.0,30,39,1,0,1,0,4,49,0,2.02
+Nicolas Tagliafico,2026-03-08,Olympique Lyonnais,Paris FC,6.8,58,6308.0,14.0,108.76,0,0,0.0,0.01,23,25,0,0,2,0,4,40,0,2.22
+Nicolas Tagliafico,2026-03-12,Celta Vigo,Olympique Lyonnais,6.4,66,7228.0,14.0,109.52,0,0,0.02,0.02,44,50,0,0,1,0,3,62,0,1.94
+Nicolas Tagliafico,2026-03-15,Le Havre,Olympique Lyonnais,7.0,80,8690.0,15.0,108.62,0,0,0.09,0.31,34,40,1,0,0,0,2,63,0,1.73
+Nicolas Tagliafico,2026-03-19,Olympique Lyonnais,Celta Vigo,6.0,90,9668.0,19.0,107.42,0,0,0.03,0.01,18,23,0,0,1,0,2,46,0,1.97
+Nicolas Tagliafico,2026-03-22,Olympique Lyonnais,AS Monaco,6.7,89,9735.0,21.0,109.38,0,0,0.04,0.03,33,45,2,0,3,0,7,72,0,2.16
+Nicolas Tagliafico,2026-04-01,Argentina,Zambia,6.7,54,5846.0,10.0,108.26,0,0,0.0,0.0,36,36,0,0,0,0,1,39,0,1.71
+Nicolas Tagliafico,2026-04-25,Olympique Lyonnais,Auxerre,6.5,13,1415.0,2.0,108.85,0,0,0.0,0.0,0,1,0,0,0,0,0,12,0,1.41

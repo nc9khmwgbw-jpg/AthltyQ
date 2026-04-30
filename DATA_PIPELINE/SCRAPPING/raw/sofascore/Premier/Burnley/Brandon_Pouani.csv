@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Brandon Pouani,2025-10-21,Tamworth,Burnley U21,,63,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2025-10-25,Burnley U18,Middlesbrough U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2025-10-31,Burnley U21,Birmingham City U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2025-11-08,Newcastle United U21,Burnley U21,,75,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2025-11-25,Brackley Town,Burnley U21,,82,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2025-11-29,Stoke City U18,Burnley U18,,86,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-01-09,Manchester City U21,Burnley U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-01-16,Burnley U21,Tottenham U21,,61,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-01-23,Arsenal U21,Burnley U21,,80,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-01-30,Burnley U21,Reading U21,,71,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-02-16,Everton U21,Burnley U21,,79,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-02-23,Burnley U21,Derby County U21,,30,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-02-27,Fulham U21,Burnley U21,,67,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-03-16,Burnley U21,Brighton & Hove Albion U21,,62,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Brandon Pouani,2026-03-23,Ipswich Town U21,Burnley U21,,83,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Brandon Pouani,2025-10-21,Tamworth,Burnley U21,,63,6615.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.81
+Brandon Pouani,2025-10-25,Burnley U18,Middlesbrough U18,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Brandon Pouani,2025-10-31,Burnley U21,Birmingham City U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Brandon Pouani,2025-11-08,Newcastle United U21,Burnley U21,,75,7875.0,14.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.78
+Brandon Pouani,2025-11-25,Brackley Town,Burnley U21,,82,8610.0,16.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.86
+Brandon Pouani,2025-11-29,Stoke City U18,Burnley U18,,86,9030.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.88
+Brandon Pouani,2026-01-09,Manchester City U21,Burnley U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Brandon Pouani,2026-01-16,Burnley U21,Tottenham U21,,61,6405.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.87
+Brandon Pouani,2026-01-23,Arsenal U21,Burnley U21,,80,8400.0,15.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.79
+Brandon Pouani,2026-01-30,Burnley U21,Reading U21,,71,7455.0,14.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.88
+Brandon Pouani,2026-02-16,Everton U21,Burnley U21,,79,8295.0,15.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.81
+Brandon Pouani,2026-02-23,Burnley U21,Derby County U21,,30,3150.0,6.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.9
+Brandon Pouani,2026-02-27,Fulham U21,Burnley U21,,67,7035.0,13.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.85
+Brandon Pouani,2026-03-16,Burnley U21,Brighton & Hove Albion U21,,62,6510.0,12.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.84
+Brandon Pouani,2026-03-23,Ipswich Town U21,Burnley U21,,83,8715.0,16.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.84

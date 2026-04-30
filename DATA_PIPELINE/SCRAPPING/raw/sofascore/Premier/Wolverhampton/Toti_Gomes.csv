@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Toti Gomes,2025-11-01,Fulham,Wolverhampton,6.4,45,,,0.0,0,0,0.0,0.14,17,21,2,0,1,0,0,29
-Toti Gomes,2025-11-08,Chelsea,Wolverhampton,6.2,90,,,0.0,0,0,0.0,0.0,39,45,0,0,0,0,4,53
-Toti Gomes,2025-11-22,Wolverhampton,Crystal Palace,6.3,90,,,0.0,0,0,0.0,0.01,44,52,0,0,0,0,4,66
-Toti Gomes,2025-11-30,Aston Villa,Wolverhampton,7.0,90,,,0.0,0,0,0.0,0.01,61,64,1,0,1,0,1,83
-Toti Gomes,2025-12-03,Wolverhampton,Nottingham Forest,7.0,90,,,0.0,0,0,0.0,0.01,56,62,0,0,3,0,5,78
-Toti Gomes,2025-12-08,Wolverhampton,Manchester United,6.5,70,,,0.0,0,0,0.0,0.01,21,28,0,0,0,0,1,40
-Toti Gomes,2025-12-13,Arsenal,Wolverhampton,6.4,86,,,0.0,0,0,0.0,0.0,13,16,0,0,0,0,0,30
-Toti Gomes,2026-02-22,Crystal Palace,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Toti Gomes,2026-02-27,Wolverhampton,Aston Villa,7.2,90,,,0.0,0,0,0.18,0.0,36,43,0,0,2,0,3,60
-Toti Gomes,2026-03-03,Wolverhampton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Toti Gomes,2026-03-06,Wolverhampton,Liverpool,6.1,75,,,0.0,0,0,0.0,0.0,17,24,0,0,0,0,3,31
-Toti Gomes,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Toti Gomes,2026-04-10,West Ham United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Toti Gomes,2026-04-18,Leeds United,Wolverhampton,6.4,90,,,0.0,0,0,0.0,0.0,42,49,0,0,0,0,3,74
-Toti Gomes,2026-04-25,Wolverhampton,Tottenham Hotspur,6.7,90,,,0.0,0,0,0.0,0.0,38,47,0,0,0,0,4,62
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Toti Gomes,2025-11-01,Fulham,Wolverhampton,6.4,45,4847.0,10.0,107.71,0,0,0.0,0.14,17,21,2,0,1,0,0,29,0,2.06
+Toti Gomes,2025-11-08,Chelsea,Wolverhampton,6.2,90,9723.0,17.0,108.03,0,0,0.0,0.0,39,45,0,0,0,0,4,53,0,1.75
+Toti Gomes,2025-11-22,Wolverhampton,Crystal Palace,6.3,90,9777.0,17.0,108.63,0,0,0.0,0.01,44,52,0,0,0,0,4,66,0,1.74
+Toti Gomes,2025-11-30,Aston Villa,Wolverhampton,7.0,90,9811.0,19.0,109.01,0,0,0.0,0.01,61,64,1,0,1,0,1,83,0,1.94
+Toti Gomes,2025-12-03,Wolverhampton,Nottingham Forest,7.0,90,9840.0,22.0,109.33,0,0,0.0,0.01,56,62,0,0,3,0,5,78,0,2.24
+Toti Gomes,2025-12-08,Wolverhampton,Manchester United,6.5,70,7530.0,13.0,107.57,0,0,0.0,0.01,21,28,0,0,0,0,1,40,0,1.73
+Toti Gomes,2025-12-13,Arsenal,Wolverhampton,6.4,86,9156.0,17.0,106.47,0,0,0.0,0.0,13,16,0,0,0,0,0,30,0,1.86
+Toti Gomes,2026-02-22,Crystal Palace,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Toti Gomes,2026-02-27,Wolverhampton,Aston Villa,7.2,90,9740.0,20.0,108.22,0,0,0.18,0.0,36,43,0,0,2,0,3,60,0,2.05
+Toti Gomes,2026-03-03,Wolverhampton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Toti Gomes,2026-03-06,Wolverhampton,Liverpool,6.1,75,8043.0,14.0,107.24,0,0,0.0,0.0,17,24,0,0,0,0,3,31,0,1.74
+Toti Gomes,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Toti Gomes,2026-04-10,West Ham United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Toti Gomes,2026-04-18,Leeds United,Wolverhampton,6.4,90,9798.0,17.0,108.87,0,0,0.0,0.0,42,49,0,0,0,0,3,74,0,1.74
+Toti Gomes,2026-04-25,Wolverhampton,Tottenham Hotspur,6.7,90,9760.0,17.0,108.44,0,0,0.0,0.0,38,47,0,0,0,0,4,62,0,1.74

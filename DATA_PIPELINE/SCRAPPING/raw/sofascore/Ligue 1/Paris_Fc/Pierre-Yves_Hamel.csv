@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pierre-Yves Hamel,2025-02-28,Annecy FC,Paris FC,6.5,11,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1
-Pierre-Yves Hamel,2025-03-08,Paris FC,Lorient,6.4,11,,,0.0,0,0,0.0,0.0,2,5,0,0,0,0,0,9
-Pierre-Yves Hamel,2025-03-15,Stade Lavallois,Paris FC,6.8,31,,,0.0,0,0,0.0,0.0,3,5,1,0,0,0,1,10
-Pierre-Yves Hamel,2025-04-12,Grenoble Foot 38,Paris FC,7.7,25,,,0.0,1,0,0.0,0.0,6,6,0,0,0,0,1,15
-Pierre-Yves Hamel,2025-04-19,Paris FC,Bastia,7.2,75,,,0.0,1,0,0.0,0.0,5,9,0,0,0,0,0,23
-Pierre-Yves Hamel,2025-04-26,Rodez AF,Paris FC,6.6,77,,,0.0,0,0,0.0,0.0,16,18,0,0,0,0,2,26
-Pierre-Yves Hamel,2025-05-02,FC Martigues,Paris FC,7.0,90,,,0.0,1,0,0.0,0.0,10,19,0,0,0,0,2,28
-Pierre-Yves Hamel,2025-05-10,Paris FC,Ajaccio,6.9,62,,,0.0,0,0,0.0,0.0,9,11,2,0,1,0,0,16
-Pierre-Yves Hamel,2025-08-17,Angers,Paris FC,6.3,71,,,0.0,0,0,0.0,0.01,6,9,0,0,1,0,2,12
-Pierre-Yves Hamel,2025-08-23,Olympique de Marseille,Paris FC,6.2,8,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pierre-Yves Hamel,2025-11-01,AS Monaco,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pierre-Yves Hamel,2025-02-28,Annecy FC,Paris FC,6.5,11,1159.0,2.0,105.36,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,1.73
+Pierre-Yves Hamel,2025-03-08,Paris FC,Lorient,6.4,11,1193.0,2.0,108.45,0,0,0.0,0.0,2,5,0,0,0,0,0,9,0,1.68
+Pierre-Yves Hamel,2025-03-15,Stade Lavallois,Paris FC,6.8,31,3310.0,6.0,106.77,0,0,0.0,0.0,3,5,1,0,0,0,1,10,0,1.81
+Pierre-Yves Hamel,2025-04-12,Grenoble Foot 38,Paris FC,7.7,25,2700.0,5.0,108.0,1,0,0.0,0.0,6,6,0,0,0,0,1,15,0,1.85
+Pierre-Yves Hamel,2025-04-19,Paris FC,Bastia,7.2,75,7972.0,14.0,106.29,1,0,0.0,0.0,5,9,0,0,0,0,0,23,0,1.76
+Pierre-Yves Hamel,2025-04-26,Rodez AF,Paris FC,6.6,77,8219.0,15.0,106.74,0,0,0.0,0.0,16,18,0,0,0,0,2,26,0,1.83
+Pierre-Yves Hamel,2025-05-02,FC Martigues,Paris FC,7.0,90,9593.0,17.0,106.59,1,0,0.0,0.0,10,19,0,0,0,0,2,28,0,1.77
+Pierre-Yves Hamel,2025-05-10,Paris FC,Ajaccio,6.9,62,6577.0,13.0,106.08,0,0,0.0,0.0,9,11,2,0,1,0,0,16,0,1.98
+Pierre-Yves Hamel,2025-08-17,Angers,Paris FC,6.3,71,7530.0,15.0,106.06,0,0,0.0,0.01,6,9,0,0,1,0,2,12,0,1.99
+Pierre-Yves Hamel,2025-08-23,Olympique de Marseille,Paris FC,6.2,8,840.0,2.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,2.38
+Pierre-Yves Hamel,2025-11-01,AS Monaco,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

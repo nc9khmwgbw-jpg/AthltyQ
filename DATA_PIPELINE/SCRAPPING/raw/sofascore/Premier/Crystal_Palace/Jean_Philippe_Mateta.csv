@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jean Philippe Mateta,2025-12-23,Arsenal,Crystal Palace,7.7,90,,,0.0,0,0,0.0,0.0,10,18,3,0,1,0,3,34
-Jean Philippe Mateta,2025-12-28,Crystal Palace,Tottenham Hotspur,5.7,90,,,0.0,0,0,0.29,0.19,10,17,0,0,0,0,3,40
-Jean Philippe Mateta,2026-01-01,Crystal Palace,Fulham,7.0,90,,,0.0,1,0,0.71,0.0,6,10,0,0,0,0,4,19
-Jean Philippe Mateta,2026-01-04,Newcastle United,Crystal Palace,5.8,87,,,0.0,0,0,0.13,0.01,8,14,0,0,0,0,4,24
-Jean Philippe Mateta,2026-01-07,Crystal Palace,Aston Villa,6.4,90,,,0.0,0,0,0.0,0.0,5,10,0,0,0,0,3,21
-Jean Philippe Mateta,2026-01-17,Sunderland,Crystal Palace,6.9,90,,,0.0,0,0,0.3,0.2,7,10,1,0,0,0,1,27
-Jean Philippe Mateta,2026-01-25,Crystal Palace,Chelsea,6.9,85,,,0.0,0,0,0.46,0.0,3,11,0,0,0,0,1,29
-Jean Philippe Mateta,2026-03-12,Crystal Palace,AEK Larnaca,6.4,13,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4
-Jean Philippe Mateta,2026-03-15,Crystal Palace,Leeds United,6.4,30,,,0.0,0,0,0.11,0.0,4,5,0,0,0,0,1,9
-Jean Philippe Mateta,2026-03-19,AEK Larnaca,Crystal Palace,6.4,37,,,0.0,0,0,0.0,0.02,4,7,1,0,0,0,1,10
-Jean Philippe Mateta,2026-04-09,Crystal Palace,Fiorentina,7.5,83,,,0.0,1,0,1.67,0.19,8,9,1,0,0,0,5,19
-Jean Philippe Mateta,2026-04-12,Crystal Palace,Newcastle United,8.4,25,,,0.0,2,0,1.08,0.0,1,2,1,0,1,0,2,17
-Jean Philippe Mateta,2026-04-16,Fiorentina,Crystal Palace,6.4,45,,,0.0,0,0,0.0,0.0,6,8,0,0,0,0,2,17
-Jean Philippe Mateta,2026-04-20,Crystal Palace,West Ham United,6.1,31,,,0.0,0,0,0.0,0.01,6,9,0,0,0,0,1,15
-Jean Philippe Mateta,2026-04-25,Liverpool,Crystal Palace,6.3,70,,,0.0,0,0,0.3,0.01,6,7,0,0,0,0,2,16
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jean Philippe Mateta,2025-12-23,Arsenal,Crystal Palace,7.7,90,9630.0,19.0,107.0,0,0,0.0,0.0,10,18,3,0,1,0,3,34,0,1.97
+Jean Philippe Mateta,2025-12-28,Crystal Palace,Tottenham Hotspur,5.7,90,9656.0,17.0,107.29,0,0,0.29,0.19,10,17,0,0,0,0,3,40,0,1.76
+Jean Philippe Mateta,2026-01-01,Crystal Palace,Fulham,7.0,90,9580.0,17.0,106.44,1,0,0.71,0.0,6,10,0,0,0,0,4,19,0,1.77
+Jean Philippe Mateta,2026-01-04,Newcastle United,Crystal Palace,5.8,87,9286.0,17.0,106.74,0,0,0.13,0.01,8,14,0,0,0,0,4,24,0,1.83
+Jean Philippe Mateta,2026-01-07,Crystal Palace,Aston Villa,6.4,90,9576.0,17.0,106.4,0,0,0.0,0.0,5,10,0,0,0,0,3,21,0,1.78
+Jean Philippe Mateta,2026-01-17,Sunderland,Crystal Palace,6.9,90,9576.0,17.0,106.4,0,0,0.3,0.2,7,10,1,0,0,0,1,27,0,1.78
+Jean Philippe Mateta,2026-01-25,Crystal Palace,Chelsea,6.9,85,9059.0,16.0,106.58,0,0,0.46,0.0,3,11,0,0,0,0,1,29,0,1.77
+Jean Philippe Mateta,2026-03-12,Crystal Palace,AEK Larnaca,6.4,13,1382.0,2.0,106.31,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0,1.45
+Jean Philippe Mateta,2026-03-15,Crystal Palace,Leeds United,6.4,30,3200.0,6.0,106.67,0,0,0.11,0.0,4,5,0,0,0,0,1,9,0,1.88
+Jean Philippe Mateta,2026-03-19,AEK Larnaca,Crystal Palace,6.4,37,3940.0,7.0,106.49,0,0,0.0,0.02,4,7,1,0,0,0,1,10,0,1.78
+Jean Philippe Mateta,2026-04-09,Crystal Palace,Fiorentina,7.5,83,8857.0,16.0,106.71,1,0,1.67,0.19,8,9,1,0,0,0,5,19,0,1.81
+Jean Philippe Mateta,2026-04-12,Crystal Palace,Newcastle United,8.4,25,2721.0,6.0,108.84,2,0,1.08,0.0,1,2,1,0,1,0,2,17,0,2.21
+Jean Philippe Mateta,2026-04-16,Fiorentina,Crystal Palace,6.4,45,4821.0,9.0,107.13,0,0,0.0,0.0,6,8,0,0,0,0,2,17,0,1.87
+Jean Philippe Mateta,2026-04-20,Crystal Palace,West Ham United,6.1,31,3330.0,6.0,107.42,0,0,0.0,0.01,6,9,0,0,0,0,1,15,0,1.8
+Jean Philippe Mateta,2026-04-25,Liverpool,Crystal Palace,6.3,70,7442.0,13.0,106.31,0,0,0.3,0.01,6,7,0,0,0,0,2,16,0,1.75

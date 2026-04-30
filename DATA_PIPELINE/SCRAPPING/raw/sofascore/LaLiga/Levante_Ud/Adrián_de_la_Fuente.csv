@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Adrián de la Fuente,2026-01-11,Levante UD,Espanyol,7.8,90,,,0.0,0,0,0.0,0.21,64,69,2,0,1,0,2,81
-Adrián de la Fuente,2026-01-17,Real Madrid,Levante UD,5.9,90,,,0.0,0,0,0.09,0.04,32,37,0,0,4,0,1,52
-Adrián de la Fuente,2026-01-23,Levante UD,Elche,7.7,90,,,0.0,1,0,0.34,0.03,51,63,0,0,1,0,5,77
-Adrián de la Fuente,2026-01-31,Levante UD,Atlético Madrid,6.9,90,,,0.0,0,0,0.1,0.01,37,44,0,0,0,0,2,55
-Adrián de la Fuente,2026-02-08,Athletic Club,Levante UD,6.8,65,,,0.0,0,0,0.0,0.02,37,47,1,0,1,0,1,57
-Adrián de la Fuente,2026-02-15,Levante UD,Valencia,6.8,90,,,0.0,0,0,0.11,0.05,53,63,0,0,4,0,5,89
-Adrián de la Fuente,2026-02-18,Levante UD,Villarreal,8.6,90,,,0.0,0,0,0.07,0.01,84,95,0,0,2,0,2,117
-Adrián de la Fuente,2026-02-22,FC Barcelona,Levante UD,6.1,90,,,0.0,0,0,0.0,0.0,29,35,0,0,2,0,3,44
-Adrián de la Fuente,2026-02-27,Levante UD,Deportivo Alavés,9.0,90,,,0.0,0,0,0.14,0.22,51,58,3,0,4,0,5,87
-Adrián de la Fuente,2026-03-07,Levante UD,Girona FC,7.3,90,,,0.0,0,0,0.02,0.01,41,50,0,0,1,0,1,62
-Adrián de la Fuente,2026-03-21,Levante UD,Real Oviedo,5.8,90,,,0.0,0,0,0.02,0.01,25,36,0,0,2,0,3,55
-Adrián de la Fuente,2026-04-04,Real Sociedad,Levante UD,6.8,90,,,0.0,0,0,0.02,0.19,38,46,1,0,1,0,4,65
-Adrián de la Fuente,2026-04-13,Levante UD,Getafe,7.1,90,,,0.0,0,0,0.9,0.05,57,66,2,0,1,0,5,84
-Adrián de la Fuente,2026-04-23,Levante UD,Sevilla,7.8,90,,,0.0,0,0,0.0,0.14,40,48,1,0,4,0,1,61
-Adrián de la Fuente,2026-04-27,Espanyol,Levante UD,7.3,90,,,0.0,0,0,0.01,0.01,41,54,0,0,1,0,1,76
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Adrián de la Fuente,2026-01-11,Levante UD,Espanyol,7.8,90,9815.0,19.0,109.06,0,0,0.0,0.21,64,69,2,0,1,0,2,81,0,1.94
+Adrián de la Fuente,2026-01-17,Real Madrid,Levante UD,5.9,90,9681.0,23.0,107.57,0,0,0.09,0.04,32,37,0,0,4,0,1,52,0,2.38
+Adrián de la Fuente,2026-01-23,Levante UD,Elche,7.7,90,9836.0,19.0,109.29,1,0,0.34,0.03,51,63,0,0,1,0,5,77,0,1.93
+Adrián de la Fuente,2026-01-31,Levante UD,Atlético Madrid,6.9,90,9706.0,17.0,107.84,0,0,0.1,0.01,37,44,0,0,0,0,2,55,0,1.75
+Adrián de la Fuente,2026-02-08,Athletic Club,Levante UD,6.8,65,7077.0,14.0,108.88,0,0,0.0,0.02,37,47,1,0,1,0,1,57,0,1.98
+Adrián de la Fuente,2026-02-15,Levante UD,Valencia,6.8,90,9886.0,23.0,109.84,0,0,0.11,0.05,53,63,0,0,4,0,5,89,0,2.33
+Adrián de la Fuente,2026-02-18,Levante UD,Villarreal,8.6,90,9966.0,20.0,110.73,0,0,0.07,0.01,84,95,0,0,2,0,2,117,0,2.01
+Adrián de la Fuente,2026-02-22,FC Barcelona,Levante UD,6.1,90,9672.0,20.0,107.47,0,0,0.0,0.0,29,35,0,0,2,0,3,44,0,2.07
+Adrián de la Fuente,2026-02-27,Levante UD,Deportivo Alavés,9.0,90,9878.0,23.0,109.76,0,0,0.14,0.22,51,58,3,0,4,0,5,87,0,2.33
+Adrián de la Fuente,2026-03-07,Levante UD,Girona FC,7.3,90,9723.0,19.0,108.03,0,0,0.02,0.01,41,50,0,0,1,0,1,62,0,1.95
+Adrián de la Fuente,2026-03-21,Levante UD,Real Oviedo,5.8,90,9718.0,20.0,107.98,0,0,0.02,0.01,25,36,0,0,2,0,3,55,0,2.06
+Adrián de la Fuente,2026-04-04,Real Sociedad,Levante UD,6.8,90,9773.0,19.0,108.59,0,0,0.02,0.19,38,46,1,0,1,0,4,65,0,1.94
+Adrián de la Fuente,2026-04-13,Levante UD,Getafe,7.1,90,9865.0,19.0,109.61,0,0,0.9,0.05,57,66,2,0,1,0,5,84,0,1.93
+Adrián de la Fuente,2026-04-23,Levante UD,Sevilla,7.8,90,9719.0,23.0,107.99,0,0,0.0,0.14,40,48,1,0,4,0,1,61,0,2.37
+Adrián de la Fuente,2026-04-27,Espanyol,Levante UD,7.3,90,9782.0,19.0,108.69,0,0,0.01,0.01,41,54,0,0,1,0,1,76,0,1.94

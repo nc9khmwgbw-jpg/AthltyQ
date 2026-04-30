@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Diego Coppola,2026-01-19,Brighton & Hove Albion,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Coppola,2026-01-24,Fulham,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Coppola,2026-01-31,Paris FC,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Coppola,2026-02-04,Lorient,Paris FC,6.9,90,,,0.0,0,0,0.0,0.0,74,79,0,0,1,0,2,92
-Diego Coppola,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Coppola,2026-02-14,Paris FC,RC Lens,5.6,90,,,0.0,0,0,0.0,0.01,58,67,0,0,0,0,5,80
-Diego Coppola,2026-02-21,Toulouse,Paris FC,6.6,90,,,0.0,0,0,0.0,0.0,47,56,0,0,0,0,2,73
-Diego Coppola,2026-03-01,Paris FC,Nice,7.4,90,,,0.0,0,0,0.0,0.01,29,38,0,0,1,0,5,52
-Diego Coppola,2026-03-08,Olympique Lyonnais,Paris FC,7.1,90,,,0.0,0,0,0.0,0.0,35,40,0,0,0,0,1,54
-Diego Coppola,2026-03-15,RC Strasbourg,Paris FC,7.3,90,,,0.0,0,0,0.04,0.01,52,62,0,0,1,0,3,78
-Diego Coppola,2026-03-22,Paris FC,Le Havre,7.0,90,,,0.0,0,0,0.09,0.07,13,15,2,0,0,0,4,36
-Diego Coppola,2026-04-05,Lorient,Paris FC,7.3,90,,,0.0,0,0,0.03,0.02,51,58,0,0,0,0,2,69
-Diego Coppola,2026-04-10,Paris FC,AS Monaco,6.7,90,,,0.0,0,0,0.0,0.0,24,34,0,0,2,0,1,52
-Diego Coppola,2026-04-19,Metz,Paris FC,7.1,90,,,0.0,0,0,0.0,0.02,51,55,1,0,1,0,5,63
-Diego Coppola,2026-04-26,Paris FC,Lille,6.6,90,,,0.0,0,0,0.0,0.01,41,50,0,0,0,0,4,58
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Diego Coppola,2026-01-19,Brighton & Hove Albion,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Coppola,2026-01-24,Fulham,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Coppola,2026-01-31,Paris FC,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Coppola,2026-02-04,Lorient,Paris FC,6.9,90,9861.0,19.0,109.57,0,0,0.0,0.0,74,79,0,0,1,0,2,92,0,1.93
+Diego Coppola,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Coppola,2026-02-14,Paris FC,RC Lens,5.6,90,9848.0,17.0,109.42,0,0,0.0,0.01,58,67,0,0,0,0,5,80,0,1.73
+Diego Coppola,2026-02-21,Toulouse,Paris FC,6.6,90,9782.0,17.0,108.69,0,0,0.0,0.0,47,56,0,0,0,0,2,73,0,1.74
+Diego Coppola,2026-03-01,Paris FC,Nice,7.4,90,9731.0,19.0,108.12,0,0,0.0,0.01,29,38,0,0,1,0,5,52,0,1.95
+Diego Coppola,2026-03-08,Olympique Lyonnais,Paris FC,7.1,90,9689.0,17.0,107.66,0,0,0.0,0.0,35,40,0,0,0,0,1,54,0,1.75
+Diego Coppola,2026-03-15,RC Strasbourg,Paris FC,7.3,90,9815.0,19.0,109.06,0,0,0.04,0.01,52,62,0,0,1,0,3,78,0,1.94
+Diego Coppola,2026-03-22,Paris FC,Le Havre,7.0,90,9651.0,17.0,107.23,0,0,0.09,0.07,13,15,2,0,0,0,4,36,0,1.76
+Diego Coppola,2026-04-05,Lorient,Paris FC,7.3,90,9765.0,17.0,108.5,0,0,0.03,0.02,51,58,0,0,0,0,2,69,0,1.74
+Diego Coppola,2026-04-10,Paris FC,AS Monaco,6.7,90,9681.0,20.0,107.57,0,0,0.0,0.0,24,34,0,0,2,0,1,52,0,2.07
+Diego Coppola,2026-04-19,Metz,Paris FC,7.1,90,9777.0,19.0,108.63,0,0,0.0,0.02,51,55,1,0,1,0,5,63,0,1.94
+Diego Coppola,2026-04-26,Paris FC,Lille,6.6,90,9744.0,17.0,108.27,0,0,0.0,0.01,41,50,0,0,0,0,4,58,0,1.74

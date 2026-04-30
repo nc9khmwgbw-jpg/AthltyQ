@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Moise Bombito,2025-03-09,Nice,Olympique Lyonnais,6.3,84,,,0.0,0,0,0.02,0.02,44,49,0,0,1,0,7,65
-Moise Bombito,2025-03-14,Nice,Auxerre,7.8,90,,,0.0,0,0,0.0,0.24,42,49,1,0,4,0,4,66
-Moise Bombito,2025-03-21,Canada,Mexico,6.6,90,,,0.0,0,0,0.0,0.0,62,68,0,0,2,0,5,85
-Moise Bombito,2025-03-23,Canada,USA,7.2,90,,,0.0,0,0,0.0,0.0,31,34,0,0,3,0,5,52
-Moise Bombito,2025-03-29,AS Monaco,Nice,6.6,76,,,0.0,0,0,0.0,0.01,23,27,0,0,0,0,4,37
-Moise Bombito,2025-04-04,Nice,Nantes,6.6,63,,,0.0,0,0,0.02,0.03,54,59,0,0,1,0,4,73
-Moise Bombito,2025-04-12,RC Strasbourg,Nice,5.9,61,,,0.0,0,0,0.04,0.01,28,33,0,0,0,0,7,44
-Moise Bombito,2025-05-02,Nice,Stade de Reims,7.7,90,,,0.0,0,0,0.0,0.01,72,76,0,0,1,0,2,90
-Moise Bombito,2025-05-10,Stade Rennais,Nice,6.9,90,,,0.0,0,0,0.0,0.01,51,57,0,0,0,0,3,66
-Moise Bombito,2025-05-17,Nice,Stade Brestois,6.7,90,,,0.0,0,0,0.0,0.01,41,47,0,0,0,0,1,56
-Moise Bombito,2025-09-20,Stade Brestois,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Moise Bombito,2025-09-24,Nice,Roma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Moise Bombito,2025-09-28,Nice,Paris FC,7.3,90,,,0.0,0,0,0.0,0.0,41,45,0,0,1,0,3,57
-Moise Bombito,2025-10-02,Fenerbahçe,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Moise Bombito,2025-10-05,AS Monaco,Nice,5.9,56,,,0.0,0,0,0.0,0.0,13,19,0,0,1,0,1,24
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Moise Bombito,2025-03-09,Nice,Olympique Lyonnais,6.3,84,9180.0,18.0,109.29,0,0,0.02,0.02,44,49,0,0,1,0,7,65,0,1.96
+Moise Bombito,2025-03-14,Nice,Auxerre,7.8,90,9777.0,23.0,108.63,0,0,0.0,0.24,42,49,1,0,4,0,4,66,0,2.35
+Moise Bombito,2025-03-21,Canada,Mexico,6.6,90,9870.0,20.0,109.67,0,0,0.0,0.0,62,68,0,0,2,0,5,85,0,2.03
+Moise Bombito,2025-03-23,Canada,USA,7.2,90,9731.0,22.0,108.12,0,0,0.0,0.0,31,34,0,0,3,0,5,52,0,2.26
+Moise Bombito,2025-03-29,AS Monaco,Nice,6.6,76,8185.0,15.0,107.7,0,0,0.0,0.01,23,27,0,0,0,0,4,37,0,1.83
+Moise Bombito,2025-04-04,Nice,Nantes,6.6,63,6972.0,14.0,110.67,0,0,0.02,0.03,54,59,0,0,1,0,4,73,0,2.01
+Moise Bombito,2025-04-12,RC Strasbourg,Nice,5.9,61,6677.0,12.0,109.46,0,0,0.04,0.01,28,33,0,0,0,0,7,44,0,1.8
+Moise Bombito,2025-05-02,Nice,Stade de Reims,7.7,90,9853.0,19.0,109.48,0,0,0.0,0.01,72,76,0,0,1,0,2,90,0,1.93
+Moise Bombito,2025-05-10,Stade Rennais,Nice,6.9,90,9765.0,17.0,108.5,0,0,0.0,0.01,51,57,0,0,0,0,3,66,0,1.74
+Moise Bombito,2025-05-17,Nice,Stade Brestois,6.7,90,9698.0,17.0,107.76,0,0,0.0,0.01,41,47,0,0,0,0,1,56,0,1.75
+Moise Bombito,2025-09-20,Stade Brestois,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Moise Bombito,2025-09-24,Nice,Roma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Moise Bombito,2025-09-28,Nice,Paris FC,7.3,90,9727.0,19.0,108.08,0,0,0.0,0.0,41,45,0,0,1,0,3,57,0,1.95
+Moise Bombito,2025-10-02,Fenerbahçe,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Moise Bombito,2025-10-05,AS Monaco,Nice,5.9,56,5993.0,12.0,107.02,0,0,0.0,0.0,13,19,0,0,1,0,1,24,0,2.0

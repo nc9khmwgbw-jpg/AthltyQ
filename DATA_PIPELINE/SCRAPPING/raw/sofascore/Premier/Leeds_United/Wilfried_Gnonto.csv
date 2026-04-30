@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Wilfried Gnonto,2026-01-31,Leeds United,Arsenal,6.4,9,,,0.0,0,0,0.0,0.01,7,7,0,0,0,0,0,8
-Wilfried Gnonto,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Wilfried Gnonto,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Wilfried Gnonto,2026-02-15,Birmingham City,Leeds United,6.5,68,,,0.0,0,0,0.0,0.0,13,19,0,0,0,0,3,32
-Wilfried Gnonto,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Wilfried Gnonto,2026-02-28,Leeds United,Manchester City,6.5,15,,,0.0,0,0,0.0,0.01,4,6,0,0,0,0,1,9
-Wilfried Gnonto,2026-03-03,Leeds United,Sunderland,6.5,16,,,0.0,0,0,0.04,0.01,8,9,0,0,1,0,2,20
-Wilfried Gnonto,2026-03-08,Leeds United,Norwich City,6.6,90,,,0.0,0,0,0.0,0.0,24,29,1,0,0,0,1,44
-Wilfried Gnonto,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Wilfried Gnonto,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Wilfried Gnonto,2026-04-05,West Ham United,Leeds United,7.6,51,,,0.0,0,0,0.0,0.0,12,16,0,0,0,0,4,29
-Wilfried Gnonto,2026-04-13,Manchester United,Leeds United,6.6,16,,,0.0,0,0,0.0,0.02,15,18,0,0,0,0,1,27
-Wilfried Gnonto,2026-04-18,Leeds United,Wolverhampton,6.4,23,,,0.0,0,0,0.0,0.0,6,10,1,0,0,0,1,17
-Wilfried Gnonto,2026-04-22,Bournemouth,Leeds United,6.7,26,,,0.0,0,0,0.09,0.13,6,10,1,0,0,0,2,18
-Wilfried Gnonto,2026-04-26,Chelsea,Leeds United,6.5,16,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,1,7
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Wilfried Gnonto,2026-01-31,Leeds United,Arsenal,6.4,9,979.0,2.0,108.78,0,0,0.0,0.01,7,7,0,0,0,0,0,8,0,2.04
+Wilfried Gnonto,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Wilfried Gnonto,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Wilfried Gnonto,2026-02-15,Birmingham City,Leeds United,6.5,68,7312.0,13.0,107.53,0,0,0.0,0.0,13,19,0,0,0,0,3,32,0,1.78
+Wilfried Gnonto,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Wilfried Gnonto,2026-02-28,Leeds United,Manchester City,6.5,15,1625.0,3.0,108.33,0,0,0.0,0.01,4,6,0,0,0,0,1,9,0,1.85
+Wilfried Gnonto,2026-03-03,Leeds United,Sunderland,6.5,16,1789.0,4.0,111.81,0,0,0.04,0.01,8,9,0,0,1,0,2,20,0,2.24
+Wilfried Gnonto,2026-03-08,Leeds United,Norwich City,6.6,90,9647.0,17.0,107.19,0,0,0.0,0.0,24,29,1,0,0,0,1,44,0,1.76
+Wilfried Gnonto,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Wilfried Gnonto,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Wilfried Gnonto,2026-04-05,West Ham United,Leeds United,7.6,51,5527.0,10.0,108.37,0,0,0.0,0.0,12,16,0,0,0,0,4,29,0,1.81
+Wilfried Gnonto,2026-04-13,Manchester United,Leeds United,6.6,16,1806.0,3.0,112.88,0,0,0.0,0.02,15,18,0,0,0,0,1,27,0,1.66
+Wilfried Gnonto,2026-04-18,Leeds United,Wolverhampton,6.4,23,2499.0,4.0,108.65,0,0,0.0,0.0,6,10,1,0,0,0,1,17,0,1.6
+Wilfried Gnonto,2026-04-22,Bournemouth,Leeds United,6.7,26,2831.0,5.0,108.88,0,0,0.09,0.13,6,10,1,0,0,0,2,18,0,1.77
+Wilfried Gnonto,2026-04-26,Chelsea,Leeds United,6.5,16,1722.0,3.0,107.62,0,0,0.0,0.0,4,6,0,0,0,0,1,7,0,1.74

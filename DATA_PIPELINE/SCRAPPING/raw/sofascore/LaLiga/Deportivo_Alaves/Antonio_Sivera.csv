@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Antonio Sivera,2026-01-18,Atlético Madrid,Deportivo Alavés,6.6,90,,,0.0,0,0,0.0,0.0,22,37,0,0,0,0,8,53
-Antonio Sivera,2026-01-25,Deportivo Alavés,Real Betis,6.5,90,,,0.0,0,0,0.0,0.01,14,34,0,0,0,0,13,42
-Antonio Sivera,2026-01-30,Espanyol,Deportivo Alavés,6.9,90,,,0.0,0,0,0.0,0.01,16,36,0,0,0,0,14,42
-Antonio Sivera,2026-02-08,Deportivo Alavés,Getafe,7.3,90,,,0.0,0,0,0.0,0.01,18,25,0,0,0,0,8,34
-Antonio Sivera,2026-02-14,Sevilla,Deportivo Alavés,6.2,90,,,0.0,0,0,0.0,0.0,12,15,0,0,0,0,6,21
-Antonio Sivera,2026-02-23,Deportivo Alavés,Girona FC,6.4,90,,,0.0,0,0,0.0,0.0,12,22,0,0,0,0,6,30
-Antonio Sivera,2026-02-27,Levante UD,Deportivo Alavés,6.5,90,,,0.0,0,0,0.0,0.01,13,30,0,0,0,0,9,41
-Antonio Sivera,2026-03-08,Valencia,Deportivo Alavés,8.8,90,,,0.0,0,0,0.0,0.0,14,25,0,0,0,0,9,38
-Antonio Sivera,2026-03-13,Deportivo Alavés,Villarreal,7.2,90,,,0.0,0,0,0.0,0.01,12,28,0,0,0,0,8,37
-Antonio Sivera,2026-03-22,Celta Vigo,Deportivo Alavés,6.5,90,,,0.0,0,0,0.0,0.01,10,21,0,0,0,0,6,26
-Antonio Sivera,2026-04-05,Deportivo Alavés,Osasuna,7.0,90,,,0.0,0,0,0.0,0.01,13,27,0,0,0,0,4,32
-Antonio Sivera,2026-04-11,Real Sociedad,Deportivo Alavés,6.5,90,,,0.0,0,0,0.0,0.0,12,32,0,0,0,0,11,43
-Antonio Sivera,2026-04-21,Real Madrid,Deportivo Alavés,5.8,90,,,0.0,0,0,0.0,0.0,6,23,0,0,0,0,6,35
-Antonio Sivera,2026-04-25,Deportivo Alavés,Mallorca,6.7,90,,,0.0,0,0,0.0,0.0,17,29,0,0,0,0,14,40
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Antonio Sivera,2026-01-18,Atlético Madrid,Deportivo Alavés,6.6,90,9773.0,17.0,108.59,0,0,0.0,0.0,22,37,0,0,0,0,8,53,0,1.74
+Antonio Sivera,2026-01-25,Deportivo Alavés,Real Betis,6.5,90,9789.0,17.0,108.77,0,0,0.0,0.01,14,34,0,0,0,0,13,42,0,1.74
+Antonio Sivera,2026-01-30,Espanyol,Deportivo Alavés,6.9,90,9801.0,17.0,108.9,0,0,0.0,0.01,16,36,0,0,0,0,14,42,0,1.73
+Antonio Sivera,2026-02-08,Deportivo Alavés,Getafe,7.3,90,9693.0,17.0,107.7,0,0,0.0,0.01,18,25,0,0,0,0,8,34,0,1.75
+Antonio Sivera,2026-02-14,Sevilla,Deportivo Alavés,6.2,90,9613.0,17.0,106.81,0,0,0.0,0.0,12,15,0,0,0,0,6,21,0,1.77
+Antonio Sivera,2026-02-23,Deportivo Alavés,Girona FC,6.4,90,9651.0,17.0,107.23,0,0,0.0,0.0,12,22,0,0,0,0,6,30,0,1.76
+Antonio Sivera,2026-02-27,Levante UD,Deportivo Alavés,6.5,90,9735.0,17.0,108.17,0,0,0.0,0.01,13,30,0,0,0,0,9,41,0,1.75
+Antonio Sivera,2026-03-08,Valencia,Deportivo Alavés,8.8,90,9722.0,17.0,108.02,0,0,0.0,0.0,14,25,0,0,0,0,9,38,0,1.75
+Antonio Sivera,2026-03-13,Deportivo Alavés,Villarreal,7.2,90,9705.0,17.0,107.83,0,0,0.0,0.01,12,28,0,0,0,0,8,37,0,1.75
+Antonio Sivera,2026-03-22,Celta Vigo,Deportivo Alavés,6.5,90,9634.0,17.0,107.04,0,0,0.0,0.01,10,21,0,0,0,0,6,26,0,1.76
+Antonio Sivera,2026-04-05,Deportivo Alavés,Osasuna,7.0,90,9634.0,17.0,107.04,0,0,0.0,0.01,13,27,0,0,0,0,4,32,0,1.76
+Antonio Sivera,2026-04-11,Real Sociedad,Deportivo Alavés,6.5,90,9768.0,17.0,108.53,0,0,0.0,0.0,12,32,0,0,0,0,11,43,0,1.74
+Antonio Sivera,2026-04-21,Real Madrid,Deportivo Alavés,5.8,90,9672.0,17.0,107.47,0,0,0.0,0.0,6,23,0,0,0,0,6,35,0,1.76
+Antonio Sivera,2026-04-25,Deportivo Alavés,Mallorca,6.7,90,9793.0,17.0,108.81,0,0,0.0,0.0,17,29,0,0,0,0,14,40,0,1.74

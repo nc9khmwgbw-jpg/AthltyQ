@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Pablo Torre,2026-01-11,Rayo Vallecano,Mallorca,6.7,20,,,0.0,0,0,0.0,0.16,11,15,3,0,1,0,3,27
-Pablo Torre,2026-01-17,Mallorca,Athletic Club,6.7,19,,,0.0,0,0,0.0,0.01,8,8,1,0,1,0,1,11
-Pablo Torre,2026-01-25,Atlético Madrid,Mallorca,6.2,16,,,0.0,0,0,0.0,0.05,8,9,1,0,0,0,1,16
-Pablo Torre,2026-02-02,Mallorca,Sevilla,7.8,5,,,0.0,1,0,0.24,0.0,1,2,0,0,0,0,1,6
-Pablo Torre,2026-02-07,FC Barcelona,Mallorca,6.2,62,,,0.0,0,0,0.04,0.0,10,14,1,0,2,0,4,29
-Pablo Torre,2026-02-15,Mallorca,Real Betis,6.8,12,,,0.0,0,0,0.0,0.06,9,11,1,0,0,0,0,14
-Pablo Torre,2026-02-22,Celta Vigo,Mallorca,6.4,13,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,6
-Pablo Torre,2026-02-28,Mallorca,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Pablo Torre,2026-03-07,Osasuna,Mallorca,6.5,53,,,0.0,0,0,0.04,0.02,30,33,1,0,0,0,1,41
-Pablo Torre,2026-03-15,Mallorca,Espanyol,8.2,75,,,0.0,1,0,0.07,0.3,34,39,0,0,0,0,1,51
-Pablo Torre,2026-03-21,Elche,Mallorca,7.7,65,,,0.0,1,0,0.06,0.02,24,27,0,0,0,0,2,45
-Pablo Torre,2026-04-04,Mallorca,Real Madrid,6.8,70,,,0.0,0,0,0.0,0.1,25,27,1,0,0,0,5,38
-Pablo Torre,2026-04-12,Mallorca,Rayo Vallecano,7.4,72,,,0.0,0,0,0.26,0.15,27,33,3,0,0,0,5,48
-Pablo Torre,2026-04-21,Mallorca,Valencia,6.8,85,,,0.0,0,0,0.06,0.14,36,40,1,0,0,0,4,57
-Pablo Torre,2026-04-25,Deportivo Alavés,Mallorca,6.7,70,,,0.0,0,0,0.0,0.01,34,41,0,0,1,0,9,54
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pablo Torre,2026-01-11,Rayo Vallecano,Mallorca,6.7,20,2251.0,5.0,112.55,0,0,0.0,0.16,11,15,3,0,1,0,3,27,0,2.22
+Pablo Torre,2026-01-17,Mallorca,Athletic Club,6.7,19,2054.0,5.0,108.11,0,0,0.0,0.01,8,8,1,0,1,0,1,11,0,2.43
+Pablo Torre,2026-01-25,Atlético Madrid,Mallorca,6.2,16,1760.0,3.0,110.0,0,0,0.0,0.05,8,9,1,0,0,0,1,16,0,1.7
+Pablo Torre,2026-02-02,Mallorca,Sevilla,7.8,5,563.0,1.0,112.6,1,0,0.24,0.0,1,2,0,0,0,0,1,6,0,1.78
+Pablo Torre,2026-02-07,FC Barcelona,Mallorca,6.2,62,6682.0,15.0,107.77,0,0,0.04,0.0,10,14,1,0,2,0,4,29,0,2.24
+Pablo Torre,2026-02-15,Mallorca,Real Betis,6.8,12,1319.0,2.0,109.92,0,0,0.0,0.06,9,11,1,0,0,0,0,14,0,1.52
+Pablo Torre,2026-02-22,Celta Vigo,Mallorca,6.4,13,1390.0,2.0,106.92,0,0,0.0,0.0,2,2,0,0,0,0,0,6,0,1.44
+Pablo Torre,2026-02-28,Mallorca,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Pablo Torre,2026-03-07,Osasuna,Mallorca,6.5,53,5750.0,10.0,108.49,0,0,0.04,0.02,30,33,1,0,0,0,1,41,0,1.74
+Pablo Torre,2026-03-15,Mallorca,Espanyol,8.2,75,8102.0,14.0,108.03,1,0,0.07,0.3,34,39,0,0,0,0,1,51,0,1.73
+Pablo Torre,2026-03-21,Elche,Mallorca,7.7,65,7039.0,12.0,108.29,1,0,0.06,0.02,24,27,0,0,0,0,2,45,0,1.7
+Pablo Torre,2026-04-04,Mallorca,Real Madrid,6.8,70,7572.0,13.0,108.17,0,0,0.0,0.1,25,27,1,0,0,0,5,38,0,1.72
+Pablo Torre,2026-04-12,Mallorca,Rayo Vallecano,7.4,72,7824.0,14.0,108.67,0,0,0.26,0.15,27,33,3,0,0,0,5,48,0,1.79
+Pablo Torre,2026-04-21,Mallorca,Valencia,6.8,85,9214.0,16.0,108.4,0,0,0.06,0.14,36,40,1,0,0,0,4,57,0,1.74
+Pablo Torre,2026-04-25,Deportivo Alavés,Mallorca,6.7,70,7689.0,15.0,109.84,0,0,0.0,0.01,34,41,0,0,1,0,9,54,0,1.95

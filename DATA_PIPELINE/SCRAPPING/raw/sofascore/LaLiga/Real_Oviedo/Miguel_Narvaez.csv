@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Miguel Narvaez,2024-10-26,Cádiz,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2024-11-03,Real Oviedo,Burgos Club de Fútbol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2025-04-12,Real Oviedo,Racing de Ferrol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2025-04-20,Córdoba,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2025-04-26,Real Oviedo,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2025-08-15,Villarreal,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2025-12-20,Real Oviedo,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2026-01-10,Real Oviedo,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2026-01-17,Osasuna,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2026-01-31,Real Oviedo,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2026-04-05,Real Oviedo,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Miguel Narvaez,2026-04-23,Real Oviedo,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Miguel Narvaez,2024-10-26,Cádiz,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2024-11-03,Real Oviedo,Burgos Club de Fútbol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2025-04-12,Real Oviedo,Racing de Ferrol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2025-04-20,Córdoba,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2025-04-26,Real Oviedo,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2025-08-15,Villarreal,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2025-12-20,Real Oviedo,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2026-01-10,Real Oviedo,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2026-01-17,Osasuna,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2026-01-31,Real Oviedo,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2026-04-05,Real Oviedo,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Miguel Narvaez,2026-04-23,Real Oviedo,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

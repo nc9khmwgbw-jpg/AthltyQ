@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Adam Smith,2026-01-07,Bournemouth,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Smith,2026-01-10,Newcastle United,Bournemouth,6.6,120,,,0.0,0,0,0.0,0.0,16,25,0,0,0,0,4,49
-Adam Smith,2026-01-19,Brighton & Hove Albion,Bournemouth,6.0,19,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,8
-Adam Smith,2026-01-24,Bournemouth,Liverpool,6.3,90,,,0.0,0,0,0.0,0.0,14,19,0,0,2,0,4,31
-Adam Smith,2026-01-31,Wolverhampton,Bournemouth,6.8,89,,,0.0,0,0,0.0,0.0,35,40,0,0,1,0,3,54
-Adam Smith,2026-02-07,Bournemouth,Aston Villa,6.6,9,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2
-Adam Smith,2026-02-10,Everton,Bournemouth,,1,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,2
-Adam Smith,2026-02-21,West Ham United,Bournemouth,6.7,8,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3
-Adam Smith,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Smith,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Smith,2026-03-14,Burnley,Bournemouth,7.4,61,,,0.0,0,0,0.0,0.09,21,25,2,0,0,0,2,45
-Adam Smith,2026-03-20,Bournemouth,Manchester United,6.8,17,,,0.0,0,0,0.0,0.0,12,12,0,0,0,0,2,18
-Adam Smith,2026-04-11,Arsenal,Bournemouth,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1
-Adam Smith,2026-04-18,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adam Smith,2026-04-22,Bournemouth,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Adam Smith,2026-01-07,Bournemouth,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Smith,2026-01-10,Newcastle United,Bournemouth,6.6,120,12856.0,23.0,107.13,0,0,0.0,0.0,16,25,0,0,0,0,4,49,0,1.79
+Adam Smith,2026-01-19,Brighton & Hove Albion,Bournemouth,6.0,19,2029.0,4.0,106.79,0,0,0.0,0.0,3,3,0,0,0,0,0,8,0,1.97
+Adam Smith,2026-01-24,Bournemouth,Liverpool,6.3,90,9630.0,20.0,107.0,0,0,0.0,0.0,14,19,0,0,2,0,4,31,0,2.08
+Adam Smith,2026-01-31,Wolverhampton,Bournemouth,6.8,89,9609.0,19.0,107.97,0,0,0.0,0.0,35,40,0,0,1,0,3,54,0,1.98
+Adam Smith,2026-02-07,Bournemouth,Aston Villa,6.6,9,953.0,2.0,105.89,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,2.1
+Adam Smith,2026-02-10,Everton,Bournemouth,,1,113.0,0.0,113.0,0,0,0.0,0.0,0,1,0,0,0,0,0,2,0,0.0
+Adam Smith,2026-02-21,West Ham United,Bournemouth,6.7,8,853.0,2.0,106.62,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0,2.34
+Adam Smith,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Smith,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Smith,2026-03-14,Burnley,Bournemouth,7.4,61,6619.0,12.0,108.51,0,0,0.0,0.09,21,25,2,0,0,0,2,45,0,1.81
+Adam Smith,2026-03-20,Bournemouth,Manchester United,6.8,17,1886.0,3.0,110.94,0,0,0.0,0.0,12,12,0,0,0,0,2,18,0,1.59
+Adam Smith,2026-04-11,Arsenal,Bournemouth,,1,109.0,0.0,109.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,0.0
+Adam Smith,2026-04-18,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adam Smith,2026-04-22,Bournemouth,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

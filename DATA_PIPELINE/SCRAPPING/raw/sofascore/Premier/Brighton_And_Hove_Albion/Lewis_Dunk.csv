@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Lewis Dunk,2025-12-30,West Ham United,Brighton & Hove Albion,7.6,90,,,0.0,0,0,0.03,0.01,82,86,0,0,5,0,4,106
-Lewis Dunk,2026-01-03,Brighton & Hove Albion,Burnley,7.9,90,,,0.0,0,0,0.06,0.07,123,128,1,0,0,0,5,138
-Lewis Dunk,2026-01-07,Manchester City,Brighton & Hove Albion,6.9,90,,,0.0,0,0,0.0,0.0,66,75,0,0,3,0,4,90
-Lewis Dunk,2026-01-11,Manchester United,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Lewis Dunk,2026-01-19,Brighton & Hove Albion,Bournemouth,7.0,90,,,0.0,0,0,0.04,0.01,58,64,1,0,0,0,4,76
-Lewis Dunk,2026-01-24,Fulham,Brighton & Hove Albion,7.1,90,,,0.0,0,0,0.21,0.15,71,77,1,0,2,0,4,94
-Lewis Dunk,2026-01-31,Brighton & Hove Albion,Everton,6.7,90,,,0.0,0,0,0.0,0.0,78,87,0,0,1,0,5,104
-Lewis Dunk,2026-02-08,Brighton & Hove Albion,Crystal Palace,7.0,90,,,0.0,0,0,0.15,0.01,84,92,0,0,0,0,6,112
-Lewis Dunk,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,,,0.0,0,0,0.0,0.02,52,58,0,0,1,0,4,66
-Lewis Dunk,2026-02-14,Liverpool,Brighton & Hove Albion,5.8,90,,,0.0,0,0,0.0,0.0,54,58,2,0,0,0,5,68
-Lewis Dunk,2026-02-21,Brentford,Brighton & Hove Albion,7.3,90,,,0.0,0,0,0.05,0.0,35,41,0,0,1,0,2,51
-Lewis Dunk,2026-03-01,Brighton & Hove Albion,Nottingham Forest,7.3,90,,,0.0,0,0,0.0,0.01,85,88,0,0,1,0,2,98
-Lewis Dunk,2026-03-14,Sunderland,Brighton & Hove Albion,8.0,90,,,0.0,0,0,0.05,0.03,56,62,1,0,1,0,3,79
-Lewis Dunk,2026-03-21,Brighton & Hove Albion,Liverpool,6.4,90,,,0.0,0,0,0.0,0.01,42,45,0,0,0,0,5,49
-Lewis Dunk,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lewis Dunk,2025-12-30,West Ham United,Brighton & Hove Albion,7.6,90,9945.0,24.0,110.5,0,0,0.03,0.01,82,86,0,0,5,0,4,106,0,2.41
+Lewis Dunk,2026-01-03,Brighton & Hove Albion,Burnley,7.9,90,10092.0,17.0,112.13,0,0,0.06,0.07,123,128,1,0,0,0,5,138,0,1.68
+Lewis Dunk,2026-01-07,Manchester City,Brighton & Hove Albion,6.9,90,9878.0,22.0,109.76,0,0,0.0,0.0,66,75,0,0,3,0,4,90,0,2.23
+Lewis Dunk,2026-01-11,Manchester United,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Lewis Dunk,2026-01-19,Brighton & Hove Albion,Bournemouth,7.0,90,9819.0,17.0,109.1,0,0,0.04,0.01,58,64,1,0,0,0,4,76,0,1.73
+Lewis Dunk,2026-01-24,Fulham,Brighton & Hove Albion,7.1,90,9895.0,20.0,109.94,0,0,0.21,0.15,71,77,1,0,2,0,4,94,0,2.02
+Lewis Dunk,2026-01-31,Brighton & Hove Albion,Everton,6.7,90,9949.0,19.0,110.54,0,0,0.0,0.0,78,87,0,0,1,0,5,104,0,1.91
+Lewis Dunk,2026-02-08,Brighton & Hove Albion,Crystal Palace,7.0,90,9995.0,17.0,111.06,0,0,0.15,0.01,84,92,0,0,0,0,6,112,0,1.7
+Lewis Dunk,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,9777.0,19.0,108.63,0,0,0.0,0.02,52,58,0,0,1,0,4,66,0,1.94
+Lewis Dunk,2026-02-14,Liverpool,Brighton & Hove Albion,5.8,90,9798.0,17.0,108.87,0,0,0.0,0.0,54,58,2,0,0,0,5,68,0,1.74
+Lewis Dunk,2026-02-21,Brentford,Brighton & Hove Albion,7.3,90,9689.0,19.0,107.66,0,0,0.05,0.0,35,41,0,0,1,0,2,51,0,1.96
+Lewis Dunk,2026-03-01,Brighton & Hove Albion,Nottingham Forest,7.3,90,9887.0,19.0,109.86,0,0,0.0,0.01,85,88,0,0,1,0,2,98,0,1.92
+Lewis Dunk,2026-03-14,Sunderland,Brighton & Hove Albion,8.0,90,9819.0,19.0,109.1,0,0,0.05,0.03,56,62,1,0,1,0,3,79,0,1.94
+Lewis Dunk,2026-03-21,Brighton & Hove Albion,Liverpool,6.4,90,9718.0,17.0,107.98,0,0,0.0,0.01,42,45,0,0,0,0,5,49,0,1.75
+Lewis Dunk,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Rodrigo Muniz,2025-09-23,Fulham,Cambridge United,7.1,8,,,0.0,0,0,0.0,0.0,2,2,1,0,0,0,0,8
-Rodrigo Muniz,2025-11-01,Fulham,Wolverhampton,6.6,18,,,0.0,0,0,0.03,0.0,0,0,0,0,0,0,1,5
-Rodrigo Muniz,2025-11-08,Everton,Fulham,6.5,17,,,0.0,0,0,0.05,0.0,1,2,0,0,0,0,0,3
-Rodrigo Muniz,2026-02-07,Fulham,Everton,6.3,15,,,0.0,0,0,0.13,0.0,0,1,0,0,0,0,0,3
-Rodrigo Muniz,2026-02-11,Manchester City,Fulham,6.7,30,,,0.0,0,0,0.04,0.0,3,4,1,0,0,0,1,7
-Rodrigo Muniz,2026-02-15,Stoke City,Fulham,6.3,77,,,0.0,0,0,0.0,0.0,6,12,0,0,0,0,1,22
-Rodrigo Muniz,2026-02-22,Sunderland,Fulham,6.4,25,,,0.0,0,0,0.0,0.01,3,5,0,0,0,0,1,17
-Rodrigo Muniz,2026-03-01,Fulham,Tottenham Hotspur,6.3,17,,,0.0,0,0,0.13,0.0,2,3,0,0,0,0,0,10
-Rodrigo Muniz,2026-03-04,Fulham,West Ham United,6.5,30,,,0.0,0,0,0.04,0.01,2,2,0,0,0,0,0,9
-Rodrigo Muniz,2026-03-08,Fulham,Southampton,7.0,90,,,0.0,0,0,0.0,0.0,6,9,1,0,0,0,1,29
-Rodrigo Muniz,2026-03-15,Nottingham Forest,Fulham,6.7,28,,,0.0,0,0,0.06,0.02,3,5,0,0,0,0,0,12
-Rodrigo Muniz,2026-03-21,Fulham,Burnley,7.2,82,,,0.0,0,0,0.59,0.01,6,12,1,0,2,0,1,27
-Rodrigo Muniz,2026-04-11,Liverpool,Fulham,6.6,80,,,0.0,0,0,0.27,0.06,7,13,2,0,0,0,3,26
-Rodrigo Muniz,2026-04-18,Brentford,Fulham,6.5,67,,,0.0,0,0,0.0,0.0,2,7,0,0,0,0,0,15
-Rodrigo Muniz,2026-04-25,Fulham,Aston Villa,7.0,24,,,0.0,0,0,0.11,0.01,2,7,0,0,0,0,1,17
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rodrigo Muniz,2025-09-23,Fulham,Cambridge United,7.1,8,874.0,2.0,109.25,0,0,0.0,0.0,2,2,1,0,0,0,0,8,0,2.29
+Rodrigo Muniz,2025-11-01,Fulham,Wolverhampton,6.6,18,1924.0,3.0,106.89,0,0,0.03,0.0,0,0,0,0,0,0,1,5,0,1.56
+Rodrigo Muniz,2025-11-08,Everton,Fulham,6.5,17,1798.0,3.0,105.76,0,0,0.05,0.0,1,2,0,0,0,0,0,3,0,1.67
+Rodrigo Muniz,2026-02-07,Fulham,Everton,6.3,15,1588.0,3.0,105.87,0,0,0.13,0.0,0,1,0,0,0,0,0,3,0,1.89
+Rodrigo Muniz,2026-02-11,Manchester City,Fulham,6.7,30,3192.0,6.0,106.4,0,0,0.04,0.0,3,4,1,0,0,0,1,7,0,1.88
+Rodrigo Muniz,2026-02-15,Stoke City,Fulham,6.3,77,8190.0,15.0,106.36,0,0,0.0,0.0,6,12,0,0,0,0,1,22,0,1.83
+Rodrigo Muniz,2026-02-22,Sunderland,Fulham,6.4,25,2709.0,5.0,108.36,0,0,0.0,0.01,3,5,0,0,0,0,1,17,0,1.85
+Rodrigo Muniz,2026-03-01,Fulham,Tottenham Hotspur,6.3,17,1827.0,3.0,107.47,0,0,0.13,0.0,2,3,0,0,0,0,0,10,0,1.64
+Rodrigo Muniz,2026-03-04,Fulham,West Ham United,6.5,30,3188.0,6.0,106.27,0,0,0.04,0.01,2,2,0,0,0,0,0,9,0,1.88
+Rodrigo Muniz,2026-03-08,Fulham,Southampton,7.0,90,9584.0,17.0,106.49,0,0,0.0,0.0,6,9,1,0,0,0,1,29,0,1.77
+Rodrigo Muniz,2026-03-15,Nottingham Forest,Fulham,6.7,28,2990.0,5.0,106.79,0,0,0.06,0.02,3,5,0,0,0,0,0,12,0,1.67
+Rodrigo Muniz,2026-03-21,Fulham,Burnley,7.2,82,8736.0,19.0,106.54,0,0,0.59,0.01,6,12,1,0,2,0,1,27,0,2.17
+Rodrigo Muniz,2026-04-11,Liverpool,Fulham,6.6,80,8547.0,15.0,106.84,0,0,0.27,0.06,7,13,2,0,0,0,3,26,0,1.76
+Rodrigo Muniz,2026-04-18,Brentford,Fulham,6.5,67,7098.0,13.0,105.94,0,0,0.0,0.0,2,7,0,0,0,0,0,15,0,1.83
+Rodrigo Muniz,2026-04-25,Fulham,Aston Villa,7.0,24,2604.0,5.0,108.5,0,0,0.11,0.01,2,7,0,0,0,0,1,17,0,1.92

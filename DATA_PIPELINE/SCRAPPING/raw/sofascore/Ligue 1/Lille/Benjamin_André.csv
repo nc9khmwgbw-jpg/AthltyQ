@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Benjamin André,2026-01-11,Lille,Olympique Lyonnais,6.4,59,,,0.0,0,0,0.0,0.0,35,40,0,0,1,0,2,43
-Benjamin André,2026-01-29,Lille,SC Freiburg,6.8,90,,,0.0,0,0,0.0,0.07,56,71,0,0,1,0,5,86
-Benjamin André,2026-02-01,Olympique Lyonnais,Lille,7.1,90,,,0.0,0,0,0.0,0.03,56,62,1,0,1,0,6,82
-Benjamin André,2026-02-06,Metz,Lille,7.4,90,,,0.0,0,0,0.2,0.22,59,69,2,0,1,0,3,81
-Benjamin André,2026-02-14,Lille,Stade Brestois,7.2,90,,,0.0,0,0,0.38,0.08,53,65,1,0,1,0,4,84
-Benjamin André,2026-02-19,Lille,FK Crvena zvezda,6.5,90,,,0.0,0,0,0.0,0.02,29,42,1,0,0,0,4,54
-Benjamin André,2026-02-22,Angers,Lille,7.6,90,,,0.0,0,0,0.03,0.14,45,52,0,0,5,0,2,72
-Benjamin André,2026-02-26,FK Crvena zvezda,Lille,8.0,120,,,0.0,0,0,0.08,0.09,48,61,1,0,3,0,5,94
-Benjamin André,2026-03-01,Lille,Nantes,7.3,90,,,0.0,0,0,0.25,0.1,49,75,1,0,2,0,8,96
-Benjamin André,2026-03-08,Lille,Lorient,7.4,90,,,0.0,0,0,0.0,0.22,58,71,2,0,2,0,8,86
-Benjamin André,2026-03-12,Lille,Aston Villa,6.8,45,,,0.0,0,0,0.0,0.02,24,25,1,0,0,0,3,29
-Benjamin André,2026-04-04,Lille,RC Lens,6.9,17,,,0.0,0,0,0.0,0.01,12,13,0,0,0,0,1,17
-Benjamin André,2026-04-12,Toulouse,Lille,7.3,76,,,0.0,0,0,0.0,0.09,36,39,1,0,1,0,7,54
-Benjamin André,2026-04-18,Lille,Nice,7.3,90,,,0.0,0,0,0.0,0.04,50,60,0,0,0,0,6,73
-Benjamin André,2026-04-26,Paris FC,Lille,7.5,90,,,0.0,0,0,0.28,0.04,55,62,1,0,1,0,4,83
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Benjamin André,2026-01-11,Lille,Olympique Lyonnais,6.4,59,6401.0,13.0,108.49,0,0,0.0,0.0,35,40,0,0,1,0,2,43,0,2.03
+Benjamin André,2026-01-29,Lille,SC Freiburg,6.8,90,9874.0,19.0,109.71,0,0,0.0,0.07,56,71,0,0,1,0,5,86,0,1.92
+Benjamin André,2026-02-01,Olympique Lyonnais,Lille,7.1,90,9869.0,19.0,109.66,0,0,0.0,0.03,56,62,1,0,1,0,6,82,0,1.93
+Benjamin André,2026-02-06,Metz,Lille,7.4,90,9828.0,19.0,109.2,0,0,0.2,0.22,59,69,2,0,1,0,3,81,0,1.93
+Benjamin André,2026-02-14,Lille,Stade Brestois,7.2,90,9853.0,19.0,109.48,0,0,0.38,0.08,53,65,1,0,1,0,4,84,0,1.93
+Benjamin André,2026-02-19,Lille,FK Crvena zvezda,6.5,90,9727.0,17.0,108.08,0,0,0.0,0.02,29,42,1,0,0,0,4,54,0,1.75
+Benjamin André,2026-02-22,Angers,Lille,7.6,90,9777.0,24.0,108.63,0,0,0.03,0.14,45,52,0,0,5,0,2,72,0,2.45
+Benjamin André,2026-02-26,FK Crvena zvezda,Lille,8.0,120,13057.0,27.0,108.81,0,0,0.08,0.09,48,61,1,0,3,0,5,94,0,2.07
+Benjamin André,2026-03-01,Lille,Nantes,7.3,90,9953.0,20.0,110.59,0,0,0.25,0.1,49,75,1,0,2,0,8,96,0,2.01
+Benjamin André,2026-03-08,Lille,Lorient,7.4,90,9911.0,20.0,110.12,0,0,0.0,0.22,58,71,2,0,2,0,8,86,0,2.02
+Benjamin André,2026-03-12,Lille,Aston Villa,6.8,45,4884.0,9.0,108.53,0,0,0.0,0.02,24,25,1,0,0,0,3,29,0,1.84
+Benjamin André,2026-04-04,Lille,RC Lens,6.9,17,1869.0,3.0,109.94,0,0,0.0,0.01,12,13,0,0,0,0,1,17,0,1.61
+Benjamin André,2026-04-12,Toulouse,Lille,7.3,76,8294.0,16.0,109.13,0,0,0.0,0.09,36,39,1,0,1,0,7,54,0,1.93
+Benjamin André,2026-04-18,Lille,Nice,7.3,90,9832.0,17.0,109.24,0,0,0.0,0.04,50,60,0,0,0,0,6,73,0,1.73
+Benjamin André,2026-04-26,Paris FC,Lille,7.5,90,9849.0,19.0,109.43,0,0,0.28,0.04,55,62,1,0,1,0,4,83,0,1.93

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jean-Philippe Krasso,2025-12-24,Côte d'Ivoire,Mozambique,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Philippe Krasso,2025-12-28,Côte d'Ivoire,Cameroon,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Philippe Krasso,2025-12-31,Gabon,Côte d'Ivoire,6.8,82,,,0.0,1,0,0.0,0.0,17,21,1,0,0,0,2,33
-Jean-Philippe Krasso,2026-01-06,Côte d'Ivoire,Burkina Faso,6.7,15,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,0,8
-Jean-Philippe Krasso,2026-01-10,Egypt,Côte d'Ivoire,6.6,20,,,0.0,0,0,0.0,0.0,6,6,1,0,0,0,0,7
-Jean-Philippe Krasso,2026-01-18,Nantes,Paris FC,5.8,90,,,0.0,0,0,0.02,0.01,9,14,1,0,0,0,2,29
-Jean-Philippe Krasso,2026-01-25,Paris FC,Angers,6.7,60,,,0.0,0,0,0.08,0.01,9,12,0,0,0,0,3,21
-Jean-Philippe Krasso,2026-01-31,Paris FC,Olympique de Marseille,6.3,64,,,0.0,0,0,0.14,0.0,13,15,1,0,0,0,1,29
-Jean-Philippe Krasso,2026-02-04,Lorient,Paris FC,6.5,16,,,0.0,0,0,0.0,0.0,5,7,0,0,1,0,1,10
-Jean-Philippe Krasso,2026-02-08,Auxerre,Paris FC,6.7,11,,,0.0,0,0,0.19,0.0,2,2,0,0,0,0,2,6
-Jean-Philippe Krasso,2026-02-14,Paris FC,RC Lens,7.2,17,,,0.0,0,0,0.13,0.03,6,10,2,0,0,0,0,24
-Jean-Philippe Krasso,2026-02-21,Toulouse,Paris FC,6.5,9,,,0.0,0,0,0.11,0.0,5,7,0,0,0,0,1,14
-Jean-Philippe Krasso,2026-03-01,Paris FC,Nice,6.7,20,,,0.0,0,0,0.18,0.01,7,12,0,0,0,0,1,25
-Jean-Philippe Krasso,2026-03-08,Olympique Lyonnais,Paris FC,5.9,73,,,0.0,0,0,0.08,0.12,14,21,3,0,0,0,1,32
-Jean-Philippe Krasso,2026-03-15,RC Strasbourg,Paris FC,6.2,26,,,0.0,0,0,0.04,0.04,6,8,1,0,0,0,1,13
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jean-Philippe Krasso,2025-12-24,Côte d'Ivoire,Mozambique,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Philippe Krasso,2025-12-28,Côte d'Ivoire,Cameroon,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Philippe Krasso,2025-12-31,Gabon,Côte d'Ivoire,6.8,82,8774.0,16.0,107.0,1,0,0.0,0.0,17,21,1,0,0,0,2,33,0,1.82
+Jean-Philippe Krasso,2026-01-06,Côte d'Ivoire,Burkina Faso,6.7,15,1609.0,3.0,107.27,0,0,0.0,0.0,4,5,0,0,0,0,0,8,0,1.86
+Jean-Philippe Krasso,2026-01-10,Egypt,Côte d'Ivoire,6.6,20,2129.0,4.0,106.45,0,0,0.0,0.0,6,6,1,0,0,0,0,7,0,1.88
+Jean-Philippe Krasso,2026-01-18,Nantes,Paris FC,5.8,90,9597.0,17.0,106.63,0,0,0.02,0.01,9,14,1,0,0,0,2,29,0,1.77
+Jean-Philippe Krasso,2026-01-25,Paris FC,Angers,6.7,60,6426.0,12.0,107.1,0,0,0.08,0.01,9,12,0,0,0,0,3,21,0,1.87
+Jean-Philippe Krasso,2026-01-31,Paris FC,Olympique de Marseille,6.3,64,6854.0,12.0,107.09,0,0,0.14,0.0,13,15,1,0,0,0,1,29,0,1.75
+Jean-Philippe Krasso,2026-02-04,Lorient,Paris FC,6.5,16,1734.0,4.0,108.38,0,0,0.0,0.0,5,7,0,0,1,0,1,10,0,2.31
+Jean-Philippe Krasso,2026-02-08,Auxerre,Paris FC,6.7,11,1205.0,2.0,109.55,0,0,0.19,0.0,2,2,0,0,0,0,2,6,0,1.66
+Jean-Philippe Krasso,2026-02-14,Paris FC,RC Lens,7.2,17,1886.0,3.0,110.94,0,0,0.13,0.03,6,10,2,0,0,0,0,24,0,1.59
+Jean-Philippe Krasso,2026-02-21,Toulouse,Paris FC,6.5,9,1016.0,2.0,112.89,0,0,0.11,0.0,5,7,0,0,0,0,1,14,0,1.97
+Jean-Philippe Krasso,2026-03-01,Paris FC,Nice,6.7,20,2218.0,4.0,110.9,0,0,0.18,0.01,7,12,0,0,0,0,1,25,0,1.8
+Jean-Philippe Krasso,2026-03-08,Olympique Lyonnais,Paris FC,5.9,73,7812.0,14.0,107.01,0,0,0.08,0.12,14,21,3,0,0,0,1,32,0,1.79
+Jean-Philippe Krasso,2026-03-15,RC Strasbourg,Paris FC,6.2,26,2797.0,5.0,107.58,0,0,0.04,0.04,6,8,1,0,0,0,1,13,0,1.79

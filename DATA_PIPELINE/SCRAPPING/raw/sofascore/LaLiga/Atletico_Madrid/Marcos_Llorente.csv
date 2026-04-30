@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Marcos Llorente,2026-02-24,Atlético Madrid,Club Brugge KV,7.1,90,,,0.0,0,0,0.1,0.05,35,38,0,0,2,0,1,63
-Marcos Llorente,2026-02-28,Real Oviedo,Atlético Madrid,6.8,18,,,0.0,0,0,0.09,0.01,8,11,0,0,0,0,0,15
-Marcos Llorente,2026-03-03,FC Barcelona,Atlético Madrid,6.8,90,,,0.0,0,0,0.0,0.0,17,22,1,0,0,0,2,49
-Marcos Llorente,2026-03-07,Atlético Madrid,Real Sociedad,6.6,45,,,0.0,0,0,0.02,0.11,15,17,1,0,0,0,3,25
-Marcos Llorente,2026-03-10,Atlético Madrid,Tottenham Hotspur,7.5,69,,,0.0,1,0,0.36,0.02,21,25,0,0,0,0,1,43
-Marcos Llorente,2026-03-14,Atlético Madrid,Getafe,6.6,17,,,0.0,0,0,0.0,0.0,6,9,0,0,0,0,3,15
-Marcos Llorente,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.4,90,,,0.0,0,0,0.01,0.05,27,33,0,0,1,0,6,52
-Marcos Llorente,2026-03-22,Real Madrid,Atlético Madrid,6.5,90,,,0.0,0,0,0.09,0.04,49,53,1,0,0,0,4,70
-Marcos Llorente,2026-03-27,Spain,Serbia,7.1,90,,,0.0,0,0,0.0,0.0,80,83,0,0,0,0,3,95
-Marcos Llorente,2026-03-31,Spain,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Marcos Llorente,2026-04-08,FC Barcelona,Atlético Madrid,6.9,90,,,0.0,0,0,0.0,0.07,31,36,0,0,1,0,4,46
-Marcos Llorente,2026-04-11,Sevilla,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Marcos Llorente,2026-04-14,Atlético Madrid,FC Barcelona,7.8,90,,,0.0,0,0,0.07,0.24,18,22,1,0,2,0,4,48
-Marcos Llorente,2026-04-18,Atlético Madrid,Real Sociedad,7.9,99,,,0.0,0,0,0.0,0.0,43,45,2,0,0,0,8,64
-Marcos Llorente,2026-04-25,Atlético Madrid,Athletic Club,6.4,63,,,0.0,0,0,0.0,0.01,48,51,0,0,1,0,3,67
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Marcos Llorente,2026-02-24,Atlético Madrid,Club Brugge KV,7.1,90,9727.0,20.0,108.08,0,0,0.1,0.05,35,38,0,0,2,0,1,63,0,2.06
+Marcos Llorente,2026-02-28,Real Oviedo,Atlético Madrid,6.8,18,1953.0,3.0,108.5,0,0,0.09,0.01,8,11,0,0,0,0,0,15,0,1.54
+Marcos Llorente,2026-03-03,FC Barcelona,Atlético Madrid,6.8,90,9681.0,17.0,107.57,0,0,0.0,0.0,17,22,1,0,0,0,2,49,0,1.76
+Marcos Llorente,2026-03-07,Atlético Madrid,Real Sociedad,6.6,45,4868.0,9.0,108.18,0,0,0.02,0.11,15,17,1,0,0,0,3,25,0,1.85
+Marcos Llorente,2026-03-10,Atlético Madrid,Tottenham Hotspur,7.5,69,7438.0,13.0,107.8,1,0,0.36,0.02,21,25,0,0,0,0,1,43,0,1.75
+Marcos Llorente,2026-03-14,Atlético Madrid,Getafe,6.6,17,1886.0,3.0,110.94,0,0,0.0,0.0,6,9,0,0,0,0,3,15,0,1.59
+Marcos Llorente,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.4,90,9743.0,19.0,108.26,0,0,0.01,0.05,27,33,0,0,1,0,6,52,0,1.95
+Marcos Llorente,2026-03-22,Real Madrid,Atlético Madrid,6.5,90,9794.0,17.0,108.82,0,0,0.09,0.04,49,53,1,0,0,0,4,70,0,1.74
+Marcos Llorente,2026-03-27,Spain,Serbia,7.1,90,9886.0,17.0,109.84,0,0,0.0,0.0,80,83,0,0,0,0,3,95,0,1.72
+Marcos Llorente,2026-03-31,Spain,Egypt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Marcos Llorente,2026-04-08,FC Barcelona,Atlético Madrid,6.9,90,9693.0,19.0,107.7,0,0,0.0,0.07,31,36,0,0,1,0,4,46,0,1.96
+Marcos Llorente,2026-04-11,Sevilla,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Marcos Llorente,2026-04-14,Atlético Madrid,FC Barcelona,7.8,90,9702.0,20.0,107.8,0,0,0.07,0.24,18,22,1,0,2,0,4,48,0,2.06
+Marcos Llorente,2026-04-18,Atlético Madrid,Real Sociedad,7.9,99,10764.0,19.0,108.73,0,0,0.0,0.0,43,45,2,0,0,0,8,64,0,1.77
+Marcos Llorente,2026-04-25,Atlético Madrid,Athletic Club,6.4,63,6934.0,14.0,110.06,0,0,0.0,0.01,48,51,0,0,1,0,3,67,0,2.02

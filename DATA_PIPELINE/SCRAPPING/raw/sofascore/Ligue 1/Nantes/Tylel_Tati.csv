@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tylel Tati,2025-11-30,Olympique Lyonnais,Nantes,6.0,89,,,0.0,0,0,0.0,0.0,19,23,0,0,0,0,3,31
-Tylel Tati,2025-12-06,Nantes,RC Lens,6.7,90,,,0.0,0,0,0.0,0.0,22,28,0,0,0,0,3,37
-Tylel Tati,2025-12-12,Angers,Nantes,6.2,90,,,0.0,0,0,0.0,0.01,50,62,0,0,0,0,4,70
-Tylel Tati,2025-12-21,US Concarneau,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tylel Tati,2026-01-04,Olympique de Marseille,Nantes,7.7,90,,,0.0,0,0,0.07,0.01,52,53,0,0,2,0,2,70
-Tylel Tati,2026-01-11,Nantes,Nice,7.2,57,,,0.0,0,0,0.0,0.0,59,60,0,0,1,0,3,70
-Tylel Tati,2026-01-18,Nantes,Paris FC,6.6,90,,,0.0,0,0,0.0,0.0,61,65,0,0,1,0,4,78
-Tylel Tati,2026-01-25,Nantes,Nice,6.4,90,,,0.0,0,0,0.18,0.03,42,53,0,0,1,0,6,69
-Tylel Tati,2026-02-22,Nantes,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tylel Tati,2026-03-01,Lille,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tylel Tati,2026-03-22,Nantes,RC Strasbourg,6.0,90,,,0.0,0,0,0.0,0.01,29,33,0,0,0,0,0,36
-Tylel Tati,2026-03-25,France U19,Wales U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tylel Tati,2026-03-31,Switzerland U19,France U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tylel Tati,2026-04-05,Metz,Nantes,5.7,39,,,0.0,0,0,0.0,0.0,32,35,0,0,0,0,4,39
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tylel Tati,2025-11-30,Olympique Lyonnais,Nantes,6.0,89,9513.0,17.0,106.89,0,0,0.0,0.0,19,23,0,0,0,0,3,31,0,1.79
+Tylel Tati,2025-12-06,Nantes,RC Lens,6.7,90,9643.0,17.0,107.14,0,0,0.0,0.0,22,28,0,0,0,0,3,37,0,1.76
+Tylel Tati,2025-12-12,Angers,Nantes,6.2,90,9794.0,17.0,108.82,0,0,0.0,0.01,50,62,0,0,0,0,4,70,0,1.74
+Tylel Tati,2025-12-21,US Concarneau,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tylel Tati,2026-01-04,Olympique de Marseille,Nantes,7.7,90,9769.0,20.0,108.54,0,0,0.07,0.01,52,53,0,0,2,0,2,70,0,2.05
+Tylel Tati,2026-01-11,Nantes,Nice,7.2,57,6316.0,12.0,110.81,0,0,0.0,0.0,59,60,0,0,1,0,3,70,0,1.9
+Tylel Tati,2026-01-18,Nantes,Paris FC,6.6,90,9828.0,19.0,109.2,0,0,0.0,0.0,61,65,0,0,1,0,4,78,0,1.93
+Tylel Tati,2026-01-25,Nantes,Nice,6.4,90,9815.0,19.0,109.06,0,0,0.18,0.03,42,53,0,0,1,0,6,69,0,1.94
+Tylel Tati,2026-02-22,Nantes,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tylel Tati,2026-03-01,Lille,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tylel Tati,2026-03-22,Nantes,RC Strasbourg,6.0,90,9601.0,17.0,106.68,0,0,0.0,0.01,29,33,0,0,0,0,0,36,0,1.77
+Tylel Tati,2026-03-25,France U19,Wales U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tylel Tati,2026-03-31,Switzerland U19,France U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Tylel Tati,2026-04-05,Metz,Nantes,5.7,39,4309.0,8.0,110.49,0,0,0.0,0.0,32,35,0,0,0,0,4,39,0,1.86

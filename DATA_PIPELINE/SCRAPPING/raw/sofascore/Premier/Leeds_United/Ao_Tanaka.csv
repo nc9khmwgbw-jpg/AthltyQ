@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ao Tanaka,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ao Tanaka,2026-02-15,Birmingham City,Leeds United,7.1,78,,,0.0,0,0,0.0,0.0,30,36,1,0,1,0,6,50
-Ao Tanaka,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ao Tanaka,2026-02-28,Leeds United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ao Tanaka,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ao Tanaka,2026-03-08,Leeds United,Norwich City,7.0,70,,,0.0,0,0,0.0,0.0,39,47,0,0,4,0,5,59
-Ao Tanaka,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ao Tanaka,2026-03-21,Leeds United,Brentford,6.8,22,,,0.0,0,0,0.02,0.04,10,10,0,0,0,0,0,13
-Ao Tanaka,2026-03-28,Scotland,Japan,7.1,78,,,0.0,0,0,0.0,0.0,62,70,1,0,0,0,7,80
-Ao Tanaka,2026-03-31,England,Japan,6.8,19,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,5
-Ao Tanaka,2026-04-05,West Ham United,Leeds United,8.2,69,,,0.0,1,0,0.0,0.0,41,45,0,0,2,0,5,60
-Ao Tanaka,2026-04-13,Manchester United,Leeds United,7.7,74,,,0.0,0,0,0.59,0.52,42,50,4,0,2,0,2,67
-Ao Tanaka,2026-04-18,Leeds United,Wolverhampton,7.3,89,,,0.0,0,0,0.03,0.16,40,44,4,0,1,0,5,64
-Ao Tanaka,2026-04-22,Bournemouth,Leeds United,6.6,89,,,0.0,0,0,0.0,0.02,37,39,1,0,0,0,7,49
-Ao Tanaka,2026-04-26,Chelsea,Leeds United,6.6,74,,,0.0,0,0,0.0,0.0,22,28,0,0,1,0,3,39
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ao Tanaka,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ao Tanaka,2026-02-15,Birmingham City,Leeds United,7.1,78,8475.0,16.0,108.65,0,0,0.0,0.0,30,36,1,0,1,0,6,50,0,1.89
+Ao Tanaka,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ao Tanaka,2026-02-28,Leeds United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ao Tanaka,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ao Tanaka,2026-03-08,Leeds United,Norwich City,7.0,70,7660.0,19.0,109.43,0,0,0.0,0.0,39,47,0,0,4,0,5,59,0,2.48
+Ao Tanaka,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ao Tanaka,2026-03-21,Leeds United,Brentford,6.8,22,2365.0,4.0,107.5,0,0,0.02,0.04,10,10,0,0,0,0,0,13,0,1.69
+Ao Tanaka,2026-03-28,Scotland,Japan,7.1,78,8614.0,15.0,110.44,0,0,0.0,0.0,62,70,1,0,0,0,7,80,0,1.74
+Ao Tanaka,2026-03-31,England,Japan,6.8,19,2016.0,4.0,106.11,0,0,0.0,0.0,2,3,0,0,0,0,0,5,0,1.98
+Ao Tanaka,2026-04-05,West Ham United,Leeds United,8.2,69,7560.0,16.0,109.57,1,0,0.0,0.0,41,45,0,0,2,0,5,60,0,2.12
+Ao Tanaka,2026-04-13,Manchester United,Leeds United,7.7,74,8076.0,17.0,109.14,0,0,0.59,0.52,42,50,4,0,2,0,2,67,0,2.11
+Ao Tanaka,2026-04-18,Leeds United,Wolverhampton,7.3,89,9676.0,19.0,108.72,0,0,0.03,0.16,40,44,4,0,1,0,5,64,0,1.96
+Ao Tanaka,2026-04-22,Bournemouth,Leeds United,6.6,89,9638.0,17.0,108.29,0,0,0.0,0.02,37,39,1,0,0,0,7,49,0,1.76
+Ao Tanaka,2026-04-26,Chelsea,Leeds United,6.6,74,7971.0,16.0,107.72,0,0,0.0,0.0,22,28,0,0,1,0,3,39,0,2.01

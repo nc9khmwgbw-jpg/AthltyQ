@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jean-Baptiste Bosey,2025-12-18,RC Strasbourg,Breidablik Kópavogur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-03-12,HNK Rijeka,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-03-15,RC Strasbourg,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-03-19,RC Strasbourg,HNK Rijeka,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-03-25,France U19,Wales U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-03-28,France U19,Hungary U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-03-31,Switzerland U19,France U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-04-09,1. FSV Mainz 05,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-04-16,RC Strasbourg,1. FSV Mainz 05,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jean-Baptiste Bosey,2026-04-19,RC Strasbourg,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jean-Baptiste Bosey,2025-12-18,RC Strasbourg,Breidablik Kópavogur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-03-12,HNK Rijeka,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-03-15,RC Strasbourg,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-03-19,RC Strasbourg,HNK Rijeka,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-03-25,France U19,Wales U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-03-28,France U19,Hungary U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-03-31,Switzerland U19,France U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-04-09,1. FSV Mainz 05,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-04-16,RC Strasbourg,1. FSV Mainz 05,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jean-Baptiste Bosey,2026-04-19,RC Strasbourg,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

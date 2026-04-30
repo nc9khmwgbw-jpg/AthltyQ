@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Hector Fort,2025-09-12,Sevilla,Elche,6.4,10,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,8
-Hector Fort,2025-09-21,Elche,Real Oviedo,6.8,12,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,8
-Hector Fort,2025-09-25,Osasuna,Elche,5.9,69,,,0.0,0,0,0.3,0.02,26,31,0,0,2,0,2,53
-Hector Fort,2025-10-25,Espanyol,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hector Fort,2025-10-29,Los Garres,Elche,6.9,58,,,0.0,0,0,0.0,0.0,39,41,0,0,1,0,3,53
-Hector Fort,2025-11-02,FC Barcelona,Elche,6.9,20,,,0.0,0,0,0.03,0.07,18,19,1,0,3,0,2,29
-Hector Fort,2025-11-07,Elche,Real Sociedad,6.3,16,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,0,11
-Hector Fort,2025-11-23,Elche,Real Madrid,6.4,66,,,0.0,0,0,0.0,0.01,13,16,0,0,0,0,3,30
-Hector Fort,2025-11-28,Getafe,Elche,6.3,64,,,0.0,0,0,0.04,0.04,21,26,1,0,0,0,5,40
-Hector Fort,2025-12-03,CD Quintanar Del Rey,Elche,8.0,56,,,0.0,1,0,0.0,0.0,17,22,3,0,0,0,2,45
-Hector Fort,2025-12-07,Elche,Girona FC,7.4,59,,,0.0,0,0,0.0,0.04,12,12,2,0,0,0,2,25
-Hector Fort,2025-12-16,Eibar,Elche,6.8,27,,,0.0,0,0,0.0,0.0,10,11,1,0,2,0,2,19
-Hector Fort,2025-12-21,Elche,Rayo Vallecano,8.1,12,,,0.0,1,0,0.18,0.0,0,0,0,0,0,0,0,6
-Hector Fort,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Hector Fort,2026-04-26,Real Oviedo,Elche,6.5,62,,,0.0,0,0,0.0,0.0,7,12,0,0,1,0,1,20
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Hector Fort,2025-09-12,Sevilla,Elche,6.4,10,1084.0,2.0,108.4,0,0,0.0,0.0,2,2,0,0,0,0,0,8,0,1.85
+Hector Fort,2025-09-21,Elche,Real Oviedo,6.8,12,1294.0,2.0,107.83,0,0,0.0,0.0,2,3,0,0,0,0,0,8,0,1.55
+Hector Fort,2025-09-25,Osasuna,Elche,5.9,69,7493.0,16.0,108.59,0,0,0.3,0.02,26,31,0,0,2,0,2,53,0,2.14
+Hector Fort,2025-10-25,Espanyol,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hector Fort,2025-10-29,Los Garres,Elche,6.9,58,6350.0,13.0,109.48,0,0,0.0,0.0,39,41,0,0,1,0,3,53,0,2.05
+Hector Fort,2025-11-02,FC Barcelona,Elche,6.9,20,2247.0,8.0,112.35,0,0,0.03,0.07,18,19,1,0,3,0,2,29,0,3.56
+Hector Fort,2025-11-07,Elche,Real Sociedad,6.3,16,1726.0,3.0,107.88,0,0,0.0,0.0,4,6,0,0,0,0,0,11,0,1.74
+Hector Fort,2025-11-23,Elche,Real Madrid,6.4,66,7094.0,13.0,107.48,0,0,0.0,0.01,13,16,0,0,0,0,3,30,0,1.83
+Hector Fort,2025-11-28,Getafe,Elche,6.3,64,6950.0,12.0,108.59,0,0,0.04,0.04,21,26,1,0,0,0,5,40,0,1.73
+Hector Fort,2025-12-03,CD Quintanar Del Rey,Elche,8.0,56,6094.0,11.0,108.82,1,0,0.0,0.0,17,22,3,0,0,0,2,45,0,1.81
+Hector Fort,2025-12-07,Elche,Girona FC,7.4,59,6325.0,11.0,107.2,0,0,0.0,0.04,12,12,2,0,0,0,2,25,0,1.74
+Hector Fort,2025-12-16,Eibar,Elche,6.8,27,2940.0,8.0,108.89,0,0,0.0,0.0,10,11,1,0,2,0,2,19,0,2.72
+Hector Fort,2025-12-21,Elche,Rayo Vallecano,8.1,12,1285.0,2.0,107.08,1,0,0.18,0.0,0,0,0,0,0,0,0,6,0,1.56
+Hector Fort,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Hector Fort,2026-04-26,Real Oviedo,Elche,6.5,62,6606.0,13.0,106.55,0,0,0.0,0.0,7,12,0,0,1,0,1,20,0,1.97

@@ -1,15 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Illan Meslier,2025-04-08,Middlesbrough,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-04-12,Leeds United,Preston North End,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-04-18,Oxford United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-04-21,Leeds United,Stoke City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-04-28,Leeds United,Bristol City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-05-03,Plymouth Argyle,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-07-19,Manchester United,Leeds United,7.1,45,,,0.0,0,0,0.0,0.0,15,21,0,0,0,0,4,28
-Illan Meslier,2025-09-13,Fulham,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-09-20,Wolverhampton,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-09-27,Leeds United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-10-04,Leeds United,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2025-11-29,Manchester City,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2026-02-07,Manchester City U21,Leeds United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Illan Meslier,2026-02-28,Leeds United U21,West Ham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Illan Meslier,2025-04-08,Middlesbrough,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-04-12,Leeds United,Preston North End,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-04-18,Oxford United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-04-21,Leeds United,Stoke City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-04-28,Leeds United,Bristol City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-05-03,Plymouth Argyle,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-07-19,Manchester United,Leeds United,7.1,45,4893.0,9.0,108.73,0,0,0.0,0.0,15,21,0,0,0,0,4,28,0,1.84
+Illan Meslier,2025-09-13,Fulham,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-09-20,Wolverhampton,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-09-27,Leeds United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-10-04,Leeds United,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2025-11-29,Manchester City,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Illan Meslier,2026-02-07,Manchester City U21,Leeds United U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8
+Illan Meslier,2026-02-28,Leeds United U21,West Ham U21,,90,9450.0,17.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.8

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Ashley Barnes,2025-12-27,Burnley,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2025-12-30,Burnley,Newcastle United,6.3,9,,,0.0,0,0,0.11,0.0,0,0,0,0,0,0,0,3
-Ashley Barnes,2026-01-03,Brighton & Hove Albion,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2026-01-07,Burnley,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2026-01-10,Burnley,Millwall,7.6,90,,,0.0,2,0,0.0,0.0,20,29,1,0,0,0,3,44
-Ashley Barnes,2026-01-17,Liverpool,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2026-01-24,Burnley,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2026-02-07,Burnley,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2026-02-11,Crystal Palace,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2026-02-14,Burnley,Mansfield Town,6.7,81,,,0.0,0,0,0.0,0.0,21,22,1,0,0,0,1,32
-Ashley Barnes,2026-02-21,Chelsea,Burnley,6.4,13,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,1,2
-Ashley Barnes,2026-02-28,Burnley,Brentford,6.2,13,,,0.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1
-Ashley Barnes,2026-03-03,Everton,Burnley,6.3,16,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3
-Ashley Barnes,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Ashley Barnes,2026-03-21,Fulham,Burnley,6.5,12,,,0.0,0,0,0.0,0.0,0,2,0,0,0,0,0,5
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ashley Barnes,2025-12-27,Burnley,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2025-12-30,Burnley,Newcastle United,6.3,9,958.0,2.0,106.44,0,0,0.11,0.0,0,0,0,0,0,0,0,3,0,2.09
+Ashley Barnes,2026-01-03,Brighton & Hove Albion,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2026-01-07,Burnley,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2026-01-10,Burnley,Millwall,7.6,90,9672.0,17.0,107.47,2,0,0.0,0.0,20,29,1,0,0,0,3,44,0,1.76
+Ashley Barnes,2026-01-17,Liverpool,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2026-01-24,Burnley,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2026-02-07,Burnley,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2026-02-11,Crystal Palace,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2026-02-14,Burnley,Mansfield Town,6.7,81,8652.0,16.0,106.81,0,0,0.0,0.0,21,22,1,0,0,0,1,32,0,1.85
+Ashley Barnes,2026-02-21,Chelsea,Burnley,6.4,13,1386.0,2.0,106.62,0,0,0.0,0.0,0,1,0,0,0,0,1,2,0,1.44
+Ashley Barnes,2026-02-28,Burnley,Brentford,6.2,13,1369.0,2.0,105.31,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,1.46
+Ashley Barnes,2026-03-03,Everton,Burnley,6.3,16,1693.0,3.0,105.81,0,0,0.0,0.0,1,2,0,0,0,0,0,3,0,1.77
+Ashley Barnes,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Ashley Barnes,2026-03-21,Fulham,Burnley,6.5,12,1281.0,2.0,106.75,0,0,0.0,0.0,0,2,0,0,0,0,0,5,0,1.56

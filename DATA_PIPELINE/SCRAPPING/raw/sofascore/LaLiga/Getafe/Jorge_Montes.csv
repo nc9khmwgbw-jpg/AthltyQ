@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jorge Montes,2025-12-18,Burgos Club de Fútbol,Getafe,6.3,90,,,0.0,0,0,0.0,0.0,16,24,0,0,0,0,2,41
-Jorge Montes,2025-12-21,Real Betis,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-01-02,Rayo Vallecano,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-01-09,Getafe,Real Sociedad,6.4,26,,,0.0,0,0,0.0,0.0,8,9,1,0,0,0,1,20
-Jorge Montes,2026-01-18,Getafe,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-02-01,Getafe,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-02-08,Deportivo Alavés,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-02-14,Getafe,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-03-02,Real Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-03-08,Getafe,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-03-21,Espanyol,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-04-05,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-04-22,Real Sociedad,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jorge Montes,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jorge Montes,2025-12-18,Burgos Club de Fútbol,Getafe,6.3,90,9647.0,17.0,107.19,0,0,0.0,0.0,16,24,0,0,0,0,2,41,0,1.76
+Jorge Montes,2025-12-21,Real Betis,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-01-02,Rayo Vallecano,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-01-09,Getafe,Real Sociedad,6.4,26,2826.0,5.0,108.69,0,0,0.0,0.0,8,9,1,0,0,0,1,20,0,1.77
+Jorge Montes,2026-01-18,Getafe,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-02-01,Getafe,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-02-08,Deportivo Alavés,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-02-14,Getafe,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-03-02,Real Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-03-08,Getafe,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-03-21,Espanyol,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-04-05,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-04-22,Real Sociedad,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jorge Montes,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

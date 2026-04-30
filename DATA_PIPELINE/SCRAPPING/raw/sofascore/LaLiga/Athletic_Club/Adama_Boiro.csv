@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Adama Boiro,2026-02-01,Athletic Club,Real Sociedad,6.4,90,,,0.0,0,0,0.02,0.01,32,37,0,0,5,0,2,73
-Adama Boiro,2026-02-04,Valencia,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-02-08,Athletic Club,Levante UD,6.7,51,,,0.0,0,0,0.0,0.01,38,40,1,0,1,0,3,49
-Adama Boiro,2026-02-11,Athletic Club,Real Sociedad,6.8,90,,,0.0,0,0,0.0,0.0,35,36,0,0,0,0,4,59
-Adama Boiro,2026-02-15,Real Oviedo,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-03-04,Real Sociedad,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-03-07,Athletic Club,FC Barcelona,6.8,90,,,0.0,0,0,0.0,0.01,17,22,0,0,1,0,4,42
-Adama Boiro,2026-03-14,Girona FC,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-04-05,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-04-12,Athletic Club,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Adama Boiro,2026-04-21,Athletic Club,Osasuna,6.7,9,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4
-Adama Boiro,2026-04-25,Atlético Madrid,Athletic Club,6.7,27,,,0.0,0,0,0.0,0.02,23,25,0,0,1,0,1,35
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Adama Boiro,2026-02-01,Athletic Club,Real Sociedad,6.4,90,9782.0,24.0,108.69,0,0,0.02,0.01,32,37,0,0,5,0,2,73,0,2.45
+Adama Boiro,2026-02-04,Valencia,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-02-08,Athletic Club,Levante UD,6.7,51,5598.0,11.0,109.76,0,0,0.0,0.01,38,40,1,0,1,0,3,49,0,1.96
+Adama Boiro,2026-02-11,Athletic Club,Real Sociedad,6.8,90,9748.0,17.0,108.31,0,0,0.0,0.0,35,36,0,0,0,0,4,59,0,1.74
+Adama Boiro,2026-02-15,Real Oviedo,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-03-04,Real Sociedad,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-03-07,Athletic Club,FC Barcelona,6.8,90,9676.0,19.0,107.51,0,0,0.0,0.01,17,22,0,0,1,0,4,42,0,1.96
+Adama Boiro,2026-03-14,Girona FC,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-04-05,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-04-12,Athletic Club,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Adama Boiro,2026-04-21,Athletic Club,Osasuna,6.7,9,962.0,2.0,106.89,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0,2.08
+Adama Boiro,2026-04-25,Atlético Madrid,Athletic Club,6.7,27,2994.0,7.0,110.89,0,0,0.0,0.02,23,25,0,0,1,0,1,35,0,2.34

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Emil Krafth,2025-09-18,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-09-21,Bournemouth,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-09-24,Newcastle United,Bradford City,6.5,61,,,0.0,0,0,0.0,0.0,53,59,1,0,0,0,3,72
-Emil Krafth,2025-09-28,Newcastle United,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-10-01,Royale Union Saint-Gilloise,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-10-05,Newcastle United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-10-18,Brighton & Hove Albion,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-10-21,Newcastle United,Benfica,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-10-25,Newcastle United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-10-29,Newcastle United,Tottenham Hotspur,6.8,72,,,0.0,0,0,0.0,0.0,19,24,0,0,1,0,3,37
-Emil Krafth,2025-11-02,West Ham United,Newcastle United,5.8,45,,,0.0,0,0,0.0,0.0,14,19,0,0,0,0,0,33
-Emil Krafth,2025-11-05,Newcastle United,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-11-09,Brentford,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-11-15,Switzerland,Sweden,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Emil Krafth,2025-11-18,Sweden,Slovenia,7.1,65,,,0.0,0,0,0.0,0.0,50,55,0,0,0,0,4,69
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Emil Krafth,2025-09-18,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-09-21,Bournemouth,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-09-24,Newcastle United,Bradford City,6.5,61,6745.0,12.0,110.57,0,0,0.0,0.0,53,59,1,0,0,0,3,72,0,1.78
+Emil Krafth,2025-09-28,Newcastle United,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-10-01,Royale Union Saint-Gilloise,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-10-05,Newcastle United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-10-18,Brighton & Hove Albion,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-10-21,Newcastle United,Benfica,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-10-25,Newcastle United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-10-29,Newcastle United,Tottenham Hotspur,6.8,72,7753.0,15.0,107.68,0,0,0.0,0.0,19,24,0,0,1,0,3,37,0,1.93
+Emil Krafth,2025-11-02,West Ham United,Newcastle United,5.8,45,4864.0,9.0,108.09,0,0,0.0,0.0,14,19,0,0,0,0,0,33,0,1.85
+Emil Krafth,2025-11-05,Newcastle United,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-11-09,Brentford,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-11-15,Switzerland,Sweden,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Emil Krafth,2025-11-18,Sweden,Slovenia,7.1,65,7165.0,12.0,110.23,0,0,0.0,0.0,50,55,0,0,0,0,4,69,0,1.67

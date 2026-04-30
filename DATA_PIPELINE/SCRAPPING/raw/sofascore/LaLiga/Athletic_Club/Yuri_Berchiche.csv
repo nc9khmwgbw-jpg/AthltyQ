@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Yuri Berchiche,2026-01-28,Athletic Club,Sporting CP,6.3,90,,,0.0,0,0,0.11,0.01,36,40,0,0,4,0,1,55
-Yuri Berchiche,2026-02-01,Athletic Club,Real Sociedad,6.4,90,,,0.0,0,0,0.0,0.02,53,56,2,0,1,0,3,63
-Yuri Berchiche,2026-02-04,Valencia,Athletic Club,7.0,31,,,0.0,0,0,0.0,0.0,24,27,0,0,0,0,1,32
-Yuri Berchiche,2026-02-08,Athletic Club,Levante UD,6.9,39,,,0.0,0,0,0.0,0.01,16,19,0,0,1,0,3,26
-Yuri Berchiche,2026-02-15,Real Oviedo,Athletic Club,7.1,90,,,0.0,0,0,0.0,0.03,39,49,3,0,2,0,6,73
-Yuri Berchiche,2026-02-20,Athletic Club,Elche,8.7,90,,,0.0,0,0,0.0,0.56,42,46,4,0,2,0,3,79
-Yuri Berchiche,2026-02-28,Rayo Vallecano,Athletic Club,6.8,90,,,0.0,0,0,0.0,0.08,29,32,0,0,2,0,6,54
-Yuri Berchiche,2026-03-04,Real Sociedad,Athletic Club,6.4,90,,,0.0,0,0,0.0,0.0,30,36,1,0,0,0,6,55
-Yuri Berchiche,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Yuri Berchiche,2026-03-14,Girona FC,Athletic Club,7.1,90,,,0.0,0,0,0.02,0.4,57,62,1,0,0,0,5,79
-Yuri Berchiche,2026-03-22,Athletic Club,Real Betis,6.6,90,,,0.0,0,0,0.05,0.03,22,27,1,0,1,0,4,53
-Yuri Berchiche,2026-04-05,Getafe,Athletic Club,6.1,90,,,0.0,0,0,0.0,0.1,48,55,0,0,0,0,4,86
-Yuri Berchiche,2026-04-12,Athletic Club,Villarreal,7.4,90,,,0.0,0,0,0.07,0.63,68,77,1,0,0,0,7,93
-Yuri Berchiche,2026-04-21,Athletic Club,Osasuna,7.5,81,,,0.0,0,0,0.02,0.0,23,24,0,0,0,0,5,46
-Yuri Berchiche,2026-04-25,Atlético Madrid,Athletic Club,6.4,63,,,0.0,0,0,0.05,0.01,29,31,0,0,1,0,4,46
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Yuri Berchiche,2026-01-28,Athletic Club,Sporting CP,6.3,90,9694.0,23.0,107.71,0,0,0.11,0.01,36,40,0,0,4,0,1,55,0,2.37
+Yuri Berchiche,2026-02-01,Athletic Club,Real Sociedad,6.4,90,9752.0,19.0,108.36,0,0,0.0,0.02,53,56,2,0,1,0,3,63,0,1.95
+Yuri Berchiche,2026-02-04,Valencia,Athletic Club,7.0,31,3402.0,6.0,109.74,0,0,0.0,0.0,24,27,0,0,0,0,1,32,0,1.76
+Yuri Berchiche,2026-02-08,Athletic Club,Levante UD,6.9,39,4242.0,9.0,108.77,0,0,0.0,0.01,16,19,0,0,1,0,3,26,0,2.12
+Yuri Berchiche,2026-02-15,Real Oviedo,Athletic Club,7.1,90,9832.0,20.0,109.24,0,0,0.0,0.03,39,49,3,0,2,0,6,73,0,2.03
+Yuri Berchiche,2026-02-20,Athletic Club,Elche,8.7,90,9819.0,20.0,109.1,0,0,0.0,0.56,42,46,4,0,2,0,3,79,0,2.04
+Yuri Berchiche,2026-02-28,Rayo Vallecano,Athletic Club,6.8,90,9752.0,20.0,108.36,0,0,0.0,0.08,29,32,0,0,2,0,6,54,0,2.05
+Yuri Berchiche,2026-03-04,Real Sociedad,Athletic Club,6.4,90,9756.0,17.0,108.4,0,0,0.0,0.0,30,36,1,0,0,0,6,55,0,1.74
+Yuri Berchiche,2026-03-07,Athletic Club,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Yuri Berchiche,2026-03-14,Girona FC,Athletic Club,7.1,90,9844.0,17.0,109.38,0,0,0.02,0.4,57,62,1,0,0,0,5,79,0,1.73
+Yuri Berchiche,2026-03-22,Athletic Club,Real Betis,6.6,90,9723.0,19.0,108.03,0,0,0.05,0.03,22,27,1,0,1,0,4,53,0,1.95
+Yuri Berchiche,2026-04-05,Getafe,Athletic Club,6.1,90,9861.0,17.0,109.57,0,0,0.0,0.1,48,55,0,0,0,0,4,86,0,1.72
+Yuri Berchiche,2026-04-12,Athletic Club,Villarreal,7.4,90,9928.0,17.0,110.31,0,0,0.07,0.63,68,77,1,0,0,0,7,93,0,1.71
+Yuri Berchiche,2026-04-21,Athletic Club,Osasuna,7.5,81,8761.0,16.0,108.16,0,0,0.02,0.0,23,24,0,0,0,0,5,46,0,1.83
+Yuri Berchiche,2026-04-25,Atlético Madrid,Athletic Club,6.4,63,6858.0,14.0,108.86,0,0,0.05,0.01,29,31,0,0,1,0,4,46,0,2.04

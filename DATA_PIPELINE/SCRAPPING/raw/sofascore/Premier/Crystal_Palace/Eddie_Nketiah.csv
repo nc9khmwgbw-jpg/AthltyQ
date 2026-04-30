@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Eddie Nketiah,2025-10-18,Crystal Palace,Bournemouth,6.9,26,,,0.0,0,0,0.04,0.35,2,3,1,0,1,0,1,15
-Eddie Nketiah,2025-10-23,Crystal Palace,AEK Larnaca,6.8,30,,,0.0,0,0,0.28,0.28,8,12,1,0,0,0,2,23
-Eddie Nketiah,2025-10-26,Arsenal,Crystal Palace,6.7,31,,,0.0,0,0,0.19,0.08,7,7,1,0,0,0,1,19
-Eddie Nketiah,2025-10-29,Liverpool,Crystal Palace,6.2,45,,,0.0,0,0,0.0,0.0,6,7,0,0,0,0,2,16
-Eddie Nketiah,2025-11-22,Wolverhampton,Crystal Palace,6.7,30,,,0.0,0,0,0.07,0.0,7,9,1,0,0,0,3,20
-Eddie Nketiah,2025-11-27,RC Strasbourg,Crystal Palace,6.5,28,,,0.0,0,0,0.0,0.28,4,7,2,0,0,0,0,9
-Eddie Nketiah,2025-11-30,Crystal Palace,Manchester United,6.3,52,,,0.0,0,0,0.2,0.0,6,7,1,0,1,0,1,26
-Eddie Nketiah,2025-12-03,Burnley,Crystal Palace,6.1,26,,,0.0,0,0,0.0,0.0,8,9,0,0,0,0,1,14
-Eddie Nketiah,2025-12-07,Fulham,Crystal Palace,7.4,65,,,0.0,1,0,0.48,0.01,8,11,0,0,0,0,3,28
-Eddie Nketiah,2025-12-11,Shelbourne,Crystal Palace,7.6,67,,,0.0,1,0,1.06,0.48,17,18,3,0,0,0,5,33
-Eddie Nketiah,2025-12-14,Crystal Palace,Manchester City,6.4,27,,,0.0,0,0,0.03,0.0,2,3,0,0,0,0,0,9
-Eddie Nketiah,2025-12-18,Crystal Palace,Kuopion Palloseura,6.7,14,,,0.0,0,0,0.19,0.21,2,2,1,0,0,0,0,8
-Eddie Nketiah,2025-12-20,Leeds United,Crystal Palace,6.5,77,,,0.0,0,0,0.15,0.02,14,16,1,0,0,0,2,37
-Eddie Nketiah,2025-12-23,Arsenal,Crystal Palace,6.4,45,,,0.0,0,0,0.0,0.0,3,7,0,0,0,0,3,12
-Eddie Nketiah,2025-12-28,Crystal Palace,Tottenham Hotspur,6.2,32,,,0.0,0,0,0.0,0.0,6,9,0,0,0,0,3,22
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Eddie Nketiah,2025-10-18,Crystal Palace,Bournemouth,6.9,26,2806.0,6.0,107.92,0,0,0.04,0.35,2,3,1,0,1,0,1,15,0,2.14
+Eddie Nketiah,2025-10-23,Crystal Palace,AEK Larnaca,6.8,30,3272.0,6.0,109.07,0,0,0.28,0.28,8,12,1,0,0,0,2,23,0,1.83
+Eddie Nketiah,2025-10-26,Arsenal,Crystal Palace,6.7,31,3347.0,6.0,107.97,0,0,0.19,0.08,7,7,1,0,0,0,1,19,0,1.79
+Eddie Nketiah,2025-10-29,Liverpool,Crystal Palace,6.2,45,4817.0,9.0,107.04,0,0,0.0,0.0,6,7,0,0,0,0,2,16,0,1.87
+Eddie Nketiah,2025-11-22,Wolverhampton,Crystal Palace,6.7,30,3272.0,6.0,109.07,0,0,0.07,0.0,7,9,1,0,0,0,3,20,0,1.83
+Eddie Nketiah,2025-11-27,RC Strasbourg,Crystal Palace,6.5,28,2978.0,5.0,106.36,0,0,0.0,0.28,4,7,2,0,0,0,0,9,0,1.68
+Eddie Nketiah,2025-11-30,Crystal Palace,Manchester United,6.3,52,5582.0,11.0,107.35,0,0,0.2,0.0,6,7,1,0,1,0,1,26,0,1.97
+Eddie Nketiah,2025-12-03,Burnley,Crystal Palace,6.1,26,2801.0,5.0,107.73,0,0,0.0,0.0,8,9,0,0,0,0,1,14,0,1.79
+Eddie Nketiah,2025-12-07,Fulham,Crystal Palace,7.4,65,6980.0,12.0,107.38,1,0,0.48,0.01,8,11,0,0,0,0,3,28,0,1.72
+Eddie Nketiah,2025-12-11,Shelbourne,Crystal Palace,7.6,67,7236.0,13.0,108.0,1,0,1.06,0.48,17,18,3,0,0,0,5,33,0,1.8
+Eddie Nketiah,2025-12-14,Crystal Palace,Manchester City,6.4,27,2873.0,5.0,106.41,0,0,0.03,0.0,2,3,0,0,0,0,0,9,0,1.74
+Eddie Nketiah,2025-12-18,Crystal Palace,Kuopion Palloseura,6.7,14,1504.0,3.0,107.43,0,0,0.19,0.21,2,2,1,0,0,0,0,8,0,1.99
+Eddie Nketiah,2025-12-20,Leeds United,Crystal Palace,6.5,77,8265.0,15.0,107.34,0,0,0.15,0.02,14,16,1,0,0,0,2,37,0,1.81
+Eddie Nketiah,2025-12-23,Arsenal,Crystal Palace,6.4,45,4813.0,9.0,106.96,0,0,0.0,0.0,3,7,0,0,0,0,3,12,0,1.87
+Eddie Nketiah,2025-12-28,Crystal Palace,Tottenham Hotspur,6.2,32,3490.0,6.0,109.06,0,0,0.0,0.0,6,9,0,0,0,0,3,22,0,1.72

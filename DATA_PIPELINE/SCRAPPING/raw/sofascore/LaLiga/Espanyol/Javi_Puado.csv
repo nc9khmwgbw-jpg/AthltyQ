@@ -1,12 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Javi Puado,2025-08-08,Newcastle United,Espanyol,5.8,69,,,0.0,0,0,0.0,0.0,9,12,0,0,0,0,3,19
-Javi Puado,2025-08-17,Espanyol,Atlético Madrid,6.5,88,,,0.0,0,0,0.02,0.04,25,31,0,0,1,0,4,47
-Javi Puado,2025-08-24,Real Sociedad,Espanyol,7.0,90,,,0.0,1,0,0.89,0.02,21,23,2,0,1,0,5,39
-Javi Puado,2025-08-31,Espanyol,Osasuna,6.3,84,,,0.0,0,0,0.16,0.04,18,24,2,0,0,0,4,37
-Javi Puado,2025-09-15,Espanyol,Mallorca,6.3,72,,,0.0,0,0,0.0,0.08,16,20,1,0,0,0,3,26
-Javi Puado,2025-09-20,Real Madrid,Espanyol,6.5,77,,,0.0,0,0,0.0,0.12,12,13,1,0,0,0,2,23
-Javi Puado,2025-09-23,Espanyol,Valencia,7.2,90,,,0.0,1,0,1.21,0.24,15,20,2,0,1,0,7,46
-Javi Puado,2025-09-26,Girona FC,Espanyol,6.6,75,,,0.0,0,0,0.03,0.16,17,17,2,0,0,0,1,24
-Javi Puado,2025-10-05,Espanyol,Real Betis,6.4,90,,,0.0,0,0,1.17,0.12,40,47,0,0,0,0,7,62
-Javi Puado,2026-01-03,Espanyol,FC Barcelona,6.5,8,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,0,6
-Javi Puado,2026-01-11,Levante UD,Espanyol,,4,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Javi Puado,2025-08-08,Newcastle United,Espanyol,5.8,69,7362.0,13.0,106.7,0,0,0.0,0.0,9,12,0,0,0,0,3,19,0,1.77
+Javi Puado,2025-08-17,Espanyol,Atlético Madrid,6.5,88,9487.0,18.0,107.81,0,0,0.02,0.04,25,31,0,0,1,0,4,47,0,1.9
+Javi Puado,2025-08-24,Real Sociedad,Espanyol,7.0,90,9676.0,19.0,107.51,1,0,0.89,0.02,21,23,2,0,1,0,5,39,0,1.96
+Javi Puado,2025-08-31,Espanyol,Osasuna,6.3,84,9025.0,16.0,107.44,0,0,0.16,0.04,18,24,2,0,0,0,4,37,0,1.77
+Javi Puado,2025-09-15,Espanyol,Mallorca,6.3,72,7707.0,14.0,107.04,0,0,0.0,0.08,16,20,1,0,0,0,3,26,0,1.82
+Javi Puado,2025-09-20,Real Madrid,Espanyol,6.5,77,8207.0,15.0,106.58,0,0,0.0,0.12,12,13,1,0,0,0,2,23,0,1.83
+Javi Puado,2025-09-23,Espanyol,Valencia,7.2,90,9731.0,19.0,108.12,1,0,1.21,0.24,15,20,2,0,1,0,7,46,0,1.95
+Javi Puado,2025-09-26,Girona FC,Espanyol,6.6,75,7988.0,14.0,106.51,0,0,0.03,0.16,17,17,2,0,0,0,1,24,0,1.75
+Javi Puado,2025-10-05,Espanyol,Real Betis,6.4,90,9798.0,17.0,108.87,0,0,1.17,0.12,40,47,0,0,0,0,7,62,0,1.74
+Javi Puado,2026-01-03,Espanyol,FC Barcelona,6.5,8,865.0,2.0,108.12,0,0,0.0,0.0,3,4,0,0,0,0,0,6,0,2.31
+Javi Puado,2026-01-11,Levante UD,Espanyol,,4,424.0,1.0,106.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,2.36

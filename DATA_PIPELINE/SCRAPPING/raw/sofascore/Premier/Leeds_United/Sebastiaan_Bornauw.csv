@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Sebastiaan Bornauw,2026-01-31,Leeds United,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-02-06,Leeds United,Nottingham Forest,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-02-10,Chelsea,Leeds United,6.4,55,,,0.0,0,0,0.0,0.0,11,13,0,0,0,0,1,24
-Sebastiaan Bornauw,2026-02-15,Birmingham City,Leeds United,6.6,90,,,0.0,0,0,0.0,0.0,25,29,0,0,0,0,2,43
-Sebastiaan Bornauw,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-02-28,Leeds United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-03-08,Leeds United,Norwich City,6.5,45,,,0.0,0,0,0.0,0.0,7,10,0,0,1,0,1,15
-Sebastiaan Bornauw,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-04-05,West Ham United,Leeds United,6.4,68,,,0.0,0,0,0.0,0.0,7,11,0,0,2,0,1,25
-Sebastiaan Bornauw,2026-04-13,Manchester United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-04-18,Leeds United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-04-22,Bournemouth,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sebastiaan Bornauw,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Sebastiaan Bornauw,2026-01-31,Leeds United,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-02-06,Leeds United,Nottingham Forest,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-02-10,Chelsea,Leeds United,6.4,55,5888.0,11.0,107.05,0,0,0.0,0.0,11,13,0,0,0,0,1,24,0,1.87
+Sebastiaan Bornauw,2026-02-15,Birmingham City,Leeds United,6.6,90,9656.0,17.0,107.29,0,0,0.0,0.0,25,29,0,0,0,0,2,43,0,1.76
+Sebastiaan Bornauw,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-02-28,Leeds United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-03-08,Leeds United,Norwich City,6.5,45,4800.0,10.0,106.67,0,0,0.0,0.0,7,10,0,0,1,0,1,15,0,2.08
+Sebastiaan Bornauw,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-04-05,West Ham United,Leeds United,6.4,68,7258.0,16.0,106.74,0,0,0.0,0.0,7,11,0,0,2,0,1,25,0,2.2
+Sebastiaan Bornauw,2026-04-13,Manchester United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-04-18,Leeds United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-04-22,Bournemouth,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sebastiaan Bornauw,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

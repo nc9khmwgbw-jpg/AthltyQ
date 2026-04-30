@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Diego Rico,2026-01-09,Getafe,Real Sociedad,6.1,90,,,0.0,0,0,0.0,0.0,18,33,0,0,0,0,9,63
-Diego Rico,2026-01-18,Getafe,Valencia,7.7,90,,,0.0,0,0,0.02,0.08,29,39,1,0,3,0,5,78
-Diego Rico,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Rico,2026-02-01,Getafe,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Rico,2026-02-08,Deportivo Alavés,Getafe,,1,,,0.0,0,0,0.0,0.0,1,3,0,0,1,0,1,6
-Diego Rico,2026-02-14,Getafe,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Rico,2026-02-22,Getafe,Sevilla,6.9,23,,,0.0,0,0,0.0,0.01,6,9,0,0,0,0,1,21
-Diego Rico,2026-03-02,Real Madrid,Getafe,6.8,90,,,0.0,0,0,0.15,0.02,6,14,0,0,0,0,0,37
-Diego Rico,2026-03-08,Getafe,Real Betis,6.4,9,,,0.0,0,0,0.0,0.0,0,2,0,0,0,0,0,6
-Diego Rico,2026-03-14,Atlético Madrid,Getafe,6.8,17,,,0.0,0,0,0.0,0.0,2,7,0,0,0,0,1,13
-Diego Rico,2026-03-21,Espanyol,Getafe,6.5,34,,,0.0,0,0,0.0,0.0,0,4,0,0,1,0,2,13
-Diego Rico,2026-04-05,Getafe,Athletic Club,6.8,8,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,6
-Diego Rico,2026-04-13,Levante UD,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Diego Rico,2026-04-22,Real Sociedad,Getafe,6.6,10,,,0.0,0,0,0.0,0.0,0,2,0,0,2,0,0,5
-Diego Rico,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Diego Rico,2026-01-09,Getafe,Real Sociedad,6.1,90,9827.0,17.0,109.19,0,0,0.0,0.0,18,33,0,0,0,0,9,63,0,1.73
+Diego Rico,2026-01-18,Getafe,Valencia,7.7,90,9840.0,22.0,109.33,0,0,0.02,0.08,29,39,1,0,3,0,5,78,0,2.24
+Diego Rico,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Rico,2026-02-01,Getafe,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Rico,2026-02-08,Deportivo Alavés,Getafe,,1,143.0,2.0,143.0,0,0,0.0,0.0,1,3,0,0,1,0,1,6,0,13.99
+Diego Rico,2026-02-14,Getafe,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Rico,2026-02-22,Getafe,Sevilla,6.9,23,2516.0,4.0,109.39,0,0,0.0,0.01,6,9,0,0,0,0,1,21,0,1.59
+Diego Rico,2026-03-02,Real Madrid,Getafe,6.8,90,9605.0,17.0,106.72,0,0,0.15,0.02,6,14,0,0,0,0,0,37,0,1.77
+Diego Rico,2026-03-08,Getafe,Real Betis,6.4,9,970.0,2.0,107.78,0,0,0.0,0.0,0,2,0,0,0,0,0,6,0,2.06
+Diego Rico,2026-03-14,Atlético Madrid,Getafe,6.8,17,1852.0,3.0,108.94,0,0,0.0,0.0,2,7,0,0,0,0,1,13,0,1.62
+Diego Rico,2026-03-21,Espanyol,Getafe,6.5,34,3650.0,8.0,107.35,0,0,0.0,0.0,0,4,0,0,1,0,2,13,0,2.19
+Diego Rico,2026-04-05,Getafe,Athletic Club,6.8,8,865.0,2.0,108.12,0,0,0.0,0.0,1,1,0,0,0,0,0,6,0,2.31
+Diego Rico,2026-04-13,Levante UD,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Diego Rico,2026-04-22,Real Sociedad,Getafe,6.6,10,1071.0,5.0,107.1,0,0,0.0,0.0,0,2,0,0,2,0,0,5,0,4.67
+Diego Rico,2026-04-25,Getafe,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

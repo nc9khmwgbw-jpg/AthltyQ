@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Eric Dier,2025-09-27,Lorient,AS Monaco,8.4,90,,,0.0,0,0,0.0,0.06,113,123,0,0,2,0,3,135
-Eric Dier,2025-10-01,AS Monaco,Manchester City,7.7,90,,,0.0,1,0,0.79,0.01,28,33,0,0,1,0,2,48
-Eric Dier,2025-10-05,AS Monaco,Nice,7.0,90,,,0.0,0,0,0.23,0.06,80,90,0,0,1,0,5,103
-Eric Dier,2025-11-08,AS Monaco,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Dier,2025-12-14,Olympique de Marseille,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Dier,2026-01-03,AS Monaco,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Dier,2026-01-10,US Orléans,AS Monaco,6.6,90,,,0.0,0,0,0.0,0.0,27,34,0,0,2,0,1,52
-Eric Dier,2026-01-16,AS Monaco,Lorient,6.2,90,,,0.0,0,0,0.0,0.04,79,80,0,0,0,0,2,82
-Eric Dier,2026-01-20,Real Madrid,AS Monaco,5.6,90,,,0.0,0,0,0.05,0.0,28,32,0,0,2,0,2,42
-Eric Dier,2026-01-24,Le Havre,AS Monaco,6.7,42,,,0.0,0,0,0.0,0.0,17,18,0,0,2,0,0,24
-Eric Dier,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Dier,2026-04-05,AS Monaco,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Dier,2026-04-10,Paris FC,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Dier,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Eric Dier,2026-04-25,Toulouse,AS Monaco,6.4,15,,,0.0,0,0,0.0,0.0,9,9,0,0,0,0,0,12
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Eric Dier,2025-09-27,Lorient,AS Monaco,8.4,90,10054.0,20.0,111.71,0,0,0.0,0.06,113,123,0,0,2,0,3,135,0,1.99
+Eric Dier,2025-10-01,AS Monaco,Manchester City,7.7,90,9677.0,19.0,107.52,1,0,0.79,0.01,28,33,0,0,1,0,2,48,0,1.96
+Eric Dier,2025-10-05,AS Monaco,Nice,7.0,90,9945.0,19.0,110.5,0,0,0.23,0.06,80,90,0,0,1,0,5,103,0,1.91
+Eric Dier,2025-11-08,AS Monaco,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Dier,2025-12-14,Olympique de Marseille,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Dier,2026-01-03,AS Monaco,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Dier,2026-01-10,US Orléans,AS Monaco,6.6,90,9681.0,20.0,107.57,0,0,0.0,0.0,27,34,0,0,2,0,1,52,0,2.07
+Eric Dier,2026-01-16,AS Monaco,Lorient,6.2,90,9819.0,17.0,109.1,0,0,0.0,0.04,79,80,0,0,0,0,2,82,0,1.73
+Eric Dier,2026-01-20,Real Madrid,AS Monaco,5.6,90,9651.0,20.0,107.23,0,0,0.05,0.0,28,32,0,0,2,0,2,42,0,2.07
+Eric Dier,2026-01-24,Le Havre,AS Monaco,6.7,42,4511.0,11.0,107.4,0,0,0.0,0.0,17,18,0,0,2,0,0,24,0,2.44
+Eric Dier,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Dier,2026-04-05,AS Monaco,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Dier,2026-04-10,Paris FC,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Dier,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Eric Dier,2026-04-25,Toulouse,AS Monaco,6.4,15,1625.0,3.0,108.33,0,0,0.0,0.0,9,9,0,0,0,0,0,12,0,1.85

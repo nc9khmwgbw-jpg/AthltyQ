@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Donny van de Beek,2025-01-29,Girona FC,Arsenal,6.5,22,,,0.0,0,0,0.0,0.0,4,4,0,0,0,0,2,10
-Donny van de Beek,2025-02-03,Girona FC,Las Palmas,6.5,66,,,0.0,0,0,0.05,0.02,13,14,1,0,0,0,1,22
-Donny van de Beek,2025-02-08,Athletic Club,Girona FC,6.6,90,,,0.0,0,0,0.0,0.01,20,21,0,0,2,0,4,32
-Donny van de Beek,2025-02-14,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Donny van de Beek,2025-02-23,Real Madrid,Girona FC,7.1,56,,,0.0,0,0,0.05,0.15,11,11,1,0,3,0,1,18
-Donny van de Beek,2025-03-01,Girona FC,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Donny van de Beek,2025-03-10,Espanyol,Girona FC,6.7,14,,,0.0,0,0,0.0,0.04,5,5,0,0,0,0,1,6
-Donny van de Beek,2025-03-15,Girona FC,Valencia,7.4,53,,,0.0,0,0,0.06,0.56,14,17,3,0,1,0,4,26
-Donny van de Beek,2025-04-05,Girona FC,Deportivo Alavés,6.8,68,,,0.0,0,0,0.16,0.03,13,16,1,0,0,0,0,20
-Donny van de Beek,2025-04-13,Osasuna,Girona FC,,1,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,2
-Donny van de Beek,2025-04-21,Girona FC,Real Betis,6.5,33,,,0.0,0,0,0.04,0.0,4,9,0,0,0,0,0,11
-Donny van de Beek,2025-04-24,Leganés,Girona FC,6.5,11,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,1,6
-Donny van de Beek,2025-09-14,Celta Vigo,Girona FC,6.6,8,,,0.0,0,0,0.04,0.07,5,5,0,0,0,0,0,7
-Donny van de Beek,2025-09-20,Girona FC,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Donny van de Beek,2025-09-23,Athletic Club,Girona FC,6.6,33,,,0.0,0,0,0.05,0.0,7,8,0,0,0,0,3,13
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Donny van de Beek,2025-01-29,Girona FC,Arsenal,6.5,22,2377.0,4.0,108.05,0,0,0.0,0.0,4,4,0,0,0,0,2,10,0,1.68
+Donny van de Beek,2025-02-03,Girona FC,Las Palmas,6.5,66,7035.0,13.0,106.59,0,0,0.05,0.02,13,14,1,0,0,0,1,22,0,1.85
+Donny van de Beek,2025-02-08,Athletic Club,Girona FC,6.6,90,9634.0,20.0,107.04,0,0,0.0,0.01,20,21,0,0,2,0,4,32,0,2.08
+Donny van de Beek,2025-02-14,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Donny van de Beek,2025-02-23,Real Madrid,Girona FC,7.1,56,5968.0,15.0,106.57,0,0,0.05,0.15,11,11,1,0,3,0,1,18,0,2.51
+Donny van de Beek,2025-03-01,Girona FC,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Donny van de Beek,2025-03-10,Espanyol,Girona FC,6.7,14,1508.0,3.0,107.71,0,0,0.0,0.04,5,5,0,0,0,0,1,6,0,1.99
+Donny van de Beek,2025-03-15,Girona FC,Valencia,7.4,53,5724.0,12.0,108.0,0,0,0.06,0.56,14,17,3,0,1,0,4,26,0,2.1
+Donny van de Beek,2025-04-05,Girona FC,Deportivo Alavés,6.8,68,7224.0,13.0,106.24,0,0,0.16,0.03,13,16,1,0,0,0,0,20,0,1.8
+Donny van de Beek,2025-04-13,Osasuna,Girona FC,,1,113.0,0.0,113.0,0,0,0.0,0.0,1,2,0,0,0,0,0,2,0,0.0
+Donny van de Beek,2025-04-21,Girona FC,Real Betis,6.5,33,3511.0,6.0,106.39,0,0,0.04,0.0,4,9,0,0,0,0,0,11,0,1.71
+Donny van de Beek,2025-04-24,Leganés,Girona FC,6.5,11,1193.0,2.0,108.45,0,0,0.0,0.0,2,4,0,0,0,0,1,6,0,1.68
+Donny van de Beek,2025-09-14,Celta Vigo,Girona FC,6.6,8,869.0,2.0,108.62,0,0,0.04,0.07,5,5,0,0,0,0,0,7,0,2.3
+Donny van de Beek,2025-09-20,Girona FC,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Donny van de Beek,2025-09-23,Athletic Club,Girona FC,6.6,33,3557.0,6.0,107.79,0,0,0.05,0.0,7,8,0,0,0,0,3,13,0,1.69

@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Mathieu Gorgelin,2026-01-24,Olympique de Marseille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-01-30,RC Lens,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-02-04,Troyes,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-02-14,Paris FC,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-02-21,RC Lens,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-03-05,Olympique Lyonnais,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-03-08,RC Lens,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-03-14,Lorient,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-03-20,RC Lens,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-04-21,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Mathieu Gorgelin,2026-04-24,Stade Brestois,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mathieu Gorgelin,2026-01-24,Olympique de Marseille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-01-30,RC Lens,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-02-04,Troyes,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-02-14,Paris FC,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-02-21,RC Lens,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-03-05,Olympique Lyonnais,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-03-08,RC Lens,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-03-14,Lorient,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-03-20,RC Lens,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-04-21,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Mathieu Gorgelin,2026-04-24,Stade Brestois,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0

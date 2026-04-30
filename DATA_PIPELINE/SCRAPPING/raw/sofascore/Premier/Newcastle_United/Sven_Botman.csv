@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Sven Botman,2026-01-31,Liverpool,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sven Botman,2026-02-04,Manchester City,Newcastle United,6.0,90,,,0.0,0,0,0.0,0.0,39,46,0,0,1,0,0,57
-Sven Botman,2026-02-07,Newcastle United,Brentford,7.8,90,,,0.0,1,0,0.29,0.01,54,62,0,0,0,0,5,78
-Sven Botman,2026-02-10,Tottenham Hotspur,Newcastle United,7.3,90,,,0.0,0,0,0.69,0.0,30,32,0,0,0,0,3,47
-Sven Botman,2026-02-24,Newcastle United,Qarabağ FK,7.4,54,,,0.0,1,0,0.11,0.01,60,66,0,0,0,0,2,68
-Sven Botman,2026-02-28,Newcastle United,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sven Botman,2026-03-04,Newcastle United,Manchester United,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sven Botman,2026-03-07,Newcastle United,Manchester City,5.9,90,,,0.0,0,0,0.0,0.0,39,46,1,0,1,0,3,58
-Sven Botman,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Sven Botman,2026-03-14,Chelsea,Newcastle United,7.4,90,,,0.0,0,0,0.0,0.0,39,46,0,0,0,0,1,59
-Sven Botman,2026-03-18,FC Barcelona,Newcastle United,6.2,26,,,0.0,0,0,0.0,0.0,9,10,0,0,0,0,1,12
-Sven Botman,2026-03-22,Newcastle United,Sunderland,7.4,54,,,0.0,0,0,0.14,0.08,24,26,1,0,0,0,0,38
-Sven Botman,2026-04-12,Crystal Palace,Newcastle United,5.9,90,,,0.0,0,0,0.07,0.01,78,89,0,0,4,0,5,105
-Sven Botman,2026-04-18,Newcastle United,Bournemouth,7.1,90,,,0.0,0,0,0.0,0.07,46,60,1,0,0,0,6,81
-Sven Botman,2026-04-25,Arsenal,Newcastle United,7.4,90,,,0.0,0,0,0.13,0.05,56,66,0,0,5,0,4,86
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Sven Botman,2026-01-31,Liverpool,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sven Botman,2026-02-04,Manchester City,Newcastle United,6.0,90,9689.0,19.0,107.66,0,0,0.0,0.0,39,46,0,0,1,0,0,57,0,1.96
+Sven Botman,2026-02-07,Newcastle United,Brentford,7.8,90,9840.0,17.0,109.33,1,0,0.29,0.01,54,62,0,0,0,0,5,78,0,1.73
+Sven Botman,2026-02-10,Tottenham Hotspur,Newcastle United,7.3,90,9685.0,17.0,107.61,0,0,0.69,0.0,30,32,0,0,0,0,3,47,0,1.76
+Sven Botman,2026-02-24,Newcastle United,Qarabağ FK,7.4,54,5981.0,10.0,110.76,1,0,0.11,0.01,60,66,0,0,0,0,2,68,0,1.67
+Sven Botman,2026-02-28,Newcastle United,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sven Botman,2026-03-04,Newcastle United,Manchester United,,1,105.0,0.0,105.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sven Botman,2026-03-07,Newcastle United,Manchester City,5.9,90,9731.0,19.0,108.12,0,0,0.0,0.0,39,46,1,0,1,0,3,58,0,1.95
+Sven Botman,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Sven Botman,2026-03-14,Chelsea,Newcastle United,7.4,90,9710.0,17.0,107.89,0,0,0.0,0.0,39,46,0,0,0,0,1,59,0,1.75
+Sven Botman,2026-03-18,FC Barcelona,Newcastle United,6.2,26,2793.0,5.0,107.42,0,0,0.0,0.0,9,10,0,0,0,0,1,12,0,1.79
+Sven Botman,2026-03-22,Newcastle United,Sunderland,7.4,54,5830.0,10.0,107.96,0,0,0.14,0.08,24,26,1,0,0,0,0,38,0,1.72
+Sven Botman,2026-04-12,Crystal Palace,Newcastle United,5.9,90,9954.0,23.0,110.6,0,0,0.07,0.01,78,89,0,0,4,0,5,105,0,2.31
+Sven Botman,2026-04-18,Newcastle United,Bournemouth,7.1,90,9865.0,17.0,109.61,0,0,0.0,0.07,46,60,1,0,0,0,6,81,0,1.72
+Sven Botman,2026-04-25,Arsenal,Newcastle United,7.4,90,9861.0,24.0,109.57,0,0,0.13,0.05,56,66,0,0,5,0,4,86,0,2.43

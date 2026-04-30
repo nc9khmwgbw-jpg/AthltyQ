@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Jose Sa,2026-01-07,Everton,Wolverhampton,6.6,90,,,0.0,0,0,0.0,0.0,17,35,0,0,0,0,7,42
-Jose Sa,2026-01-18,Wolverhampton,Newcastle United,7.4,90,,,0.0,0,0,0.0,0.0,14,30,0,0,0,0,5,39
-Jose Sa,2026-01-24,Manchester City,Wolverhampton,6.1,90,,,0.0,0,0,0.0,0.0,13,18,0,0,0,0,5,27
-Jose Sa,2026-01-31,Wolverhampton,Bournemouth,6.5,90,,,0.0,0,0,0.0,0.0,35,45,0,0,0,0,12,55
-Jose Sa,2026-02-07,Wolverhampton,Chelsea,6.7,90,,,0.0,0,0,0.0,0.0,29,34,0,0,0,0,9,44
-Jose Sa,2026-02-11,Nottingham Forest,Wolverhampton,9.8,90,,,0.0,0,0,0.0,0.0,20,39,0,0,0,0,12,65
-Jose Sa,2026-02-18,Wolverhampton,Arsenal,6.4,90,,,0.0,0,0,0.0,0.0,20,33,0,0,0,0,6,44
-Jose Sa,2026-02-22,Crystal Palace,Wolverhampton,6.8,90,,,0.0,0,0,0.0,0.0,15,29,0,0,0,0,10,40
-Jose Sa,2026-02-27,Wolverhampton,Aston Villa,7.5,90,,,0.0,0,0,0.0,0.0,14,28,0,0,0,0,9,37
-Jose Sa,2026-03-03,Wolverhampton,Liverpool,6.8,90,,,0.0,0,0,0.0,0.0,11,27,0,0,0,0,15,51
-Jose Sa,2026-03-16,Brentford,Wolverhampton,6.6,90,,,0.0,0,0,0.0,0.0,32,37,0,0,0,0,8,46
-Jose Sa,2026-03-29,Mexico,Portugal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Jose Sa,2026-04-01,USA,Portugal,6.9,85,,,0.0,0,0,0.0,0.0,18,27,0,0,0,0,5,34
-Jose Sa,2026-04-10,West Ham United,Wolverhampton,6.1,90,,,0.0,0,0,0.0,0.0,18,22,0,0,0,0,9,32
-Jose Sa,2026-04-25,Wolverhampton,Tottenham Hotspur,6.9,90,,,0.0,0,0,0.0,0.0,19,34,0,0,0,0,10,44
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jose Sa,2026-01-07,Everton,Wolverhampton,6.6,90,9714.0,17.0,107.93,0,0,0.0,0.0,17,35,0,0,0,0,7,42,0,1.75
+Jose Sa,2026-01-18,Wolverhampton,Newcastle United,7.4,90,9676.0,17.0,107.51,0,0,0.0,0.0,14,30,0,0,0,0,5,39,0,1.76
+Jose Sa,2026-01-24,Manchester City,Wolverhampton,6.1,90,9626.0,17.0,106.96,0,0,0.0,0.0,13,18,0,0,0,0,5,27,0,1.77
+Jose Sa,2026-01-31,Wolverhampton,Bournemouth,6.5,90,9831.0,17.0,109.23,0,0,0.0,0.0,35,45,0,0,0,0,12,55,0,1.73
+Jose Sa,2026-02-07,Wolverhampton,Chelsea,6.7,90,9747.0,17.0,108.3,0,0,0.0,0.0,29,34,0,0,0,0,9,44,0,1.74
+Jose Sa,2026-02-11,Nottingham Forest,Wolverhampton,9.8,90,9873.0,17.0,109.7,0,0,0.0,0.0,20,39,0,0,0,0,12,65,0,1.72
+Jose Sa,2026-02-18,Wolverhampton,Arsenal,6.4,90,9710.0,17.0,107.89,0,0,0.0,0.0,20,33,0,0,0,0,6,44,0,1.75
+Jose Sa,2026-02-22,Crystal Palace,Wolverhampton,6.8,90,9743.0,17.0,108.26,0,0,0.0,0.0,15,29,0,0,0,0,10,40,0,1.74
+Jose Sa,2026-02-27,Wolverhampton,Aston Villa,7.5,90,9718.0,17.0,107.98,0,0,0.0,0.0,14,28,0,0,0,0,9,37,0,1.75
+Jose Sa,2026-03-03,Wolverhampton,Liverpool,6.8,90,9852.0,17.0,109.47,0,0,0.0,0.0,11,27,0,0,0,0,15,51,0,1.73
+Jose Sa,2026-03-16,Brentford,Wolverhampton,6.6,90,9743.0,17.0,108.26,0,0,0.0,0.0,32,37,0,0,0,0,8,46,0,1.74
+Jose Sa,2026-03-29,Mexico,Portugal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Jose Sa,2026-04-01,USA,Portugal,6.9,85,9130.0,16.0,107.41,0,0,0.0,0.0,18,27,0,0,0,0,5,34,0,1.75
+Jose Sa,2026-04-10,West Ham United,Wolverhampton,6.1,90,9697.0,17.0,107.74,0,0,0.0,0.0,18,22,0,0,0,0,9,32,0,1.75
+Jose Sa,2026-04-25,Wolverhampton,Tottenham Hotspur,6.9,90,9760.0,17.0,108.44,0,0,0.0,0.0,19,34,0,0,0,0,10,44,0,1.74

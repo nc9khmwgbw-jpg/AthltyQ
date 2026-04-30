@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Abel Bretones,2026-01-13,Real Sociedad,Osasuna,7.1,120,,,0.0,0,0,0.0,0.0,15,23,2,0,0,0,8,55
-Abel Bretones,2026-01-17,Osasuna,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Bretones,2026-01-24,Rayo Vallecano,Osasuna,6.8,9,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,1,9
-Abel Bretones,2026-01-31,Osasuna,Villarreal,6.8,14,,,0.0,0,0,0.0,0.01,8,8,0,0,0,0,1,14
-Abel Bretones,2026-02-06,Celta Vigo,Osasuna,6.6,11,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,5
-Abel Bretones,2026-02-13,Elche,Osasuna,6.8,10,,,0.0,0,0,0.0,0.12,1,1,0,0,0,0,0,2
-Abel Bretones,2026-02-21,Osasuna,Real Madrid,6.0,24,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,1,8
-Abel Bretones,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Bretones,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Bretones,2026-03-15,Real Sociedad,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Bretones,2026-03-21,Osasuna,Girona FC,6.5,14,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2
-Abel Bretones,2026-04-05,Deportivo Alavés,Osasuna,6.5,13,,,0.0,0,0,0.0,0.31,1,1,0,0,0,0,0,2
-Abel Bretones,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Bretones,2026-04-21,Athletic Club,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Abel Bretones,2026-04-26,Osasuna,Sevilla,6.6,11,,,0.0,0,0,0.0,0.0,3,6,0,0,0,0,2,7
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abel Bretones,2026-01-13,Real Sociedad,Osasuna,7.1,120,12931.0,23.0,107.76,0,0,0.0,0.0,15,23,2,0,0,0,8,55,0,1.78
+Abel Bretones,2026-01-17,Osasuna,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Bretones,2026-01-24,Rayo Vallecano,Osasuna,6.8,9,995.0,2.0,110.56,0,0,0.0,0.0,2,3,0,0,0,0,1,9,0,2.01
+Abel Bretones,2026-01-31,Osasuna,Villarreal,6.8,14,1541.0,3.0,110.07,0,0,0.0,0.01,8,8,0,0,0,0,1,14,0,1.95
+Abel Bretones,2026-02-06,Celta Vigo,Osasuna,6.6,11,1176.0,2.0,106.91,0,0,0.0,0.0,1,1,0,0,0,0,0,5,0,1.7
+Abel Bretones,2026-02-13,Elche,Osasuna,6.8,10,1058.0,2.0,105.8,0,0,0.0,0.12,1,1,0,0,0,0,0,2,0,1.89
+Abel Bretones,2026-02-21,Osasuna,Real Madrid,6.0,24,2566.0,5.0,106.92,0,0,0.0,0.0,4,5,0,0,0,0,1,8,0,1.95
+Abel Bretones,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Bretones,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Bretones,2026-03-15,Real Sociedad,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Bretones,2026-03-21,Osasuna,Girona FC,6.5,14,1478.0,3.0,105.57,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,2.03
+Abel Bretones,2026-04-05,Deportivo Alavés,Osasuna,6.5,13,1373.0,2.0,105.62,0,0,0.0,0.31,1,1,0,0,0,0,0,2,0,1.46
+Abel Bretones,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Bretones,2026-04-21,Athletic Club,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Abel Bretones,2026-04-26,Osasuna,Sevilla,6.6,11,1209.0,2.0,109.91,0,0,0.0,0.0,3,6,0,0,0,0,2,7,0,1.65

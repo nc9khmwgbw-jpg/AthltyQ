@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Daouda Guindo,2025-12-13,Stade Rennais,Stade Brestois,5.4,88,,,0.0,0,0,0.01,0.01,13,27,0,0,0,0,1,43
-Daouda Guindo,2025-12-19,Avranches,Stade Brestois,6.7,9,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3
-Daouda Guindo,2026-01-04,Stade Brestois,Auxerre,6.6,90,,,0.0,0,0,0.51,0.0,31,41,0,0,1,0,4,57
-Daouda Guindo,2026-01-18,Olympique Lyonnais,Stade Brestois,6.7,21,,,0.0,0,0,0.0,0.0,8,12,0,0,2,0,4,25
-Daouda Guindo,2026-01-25,Stade Brestois,Toulouse,6.3,90,,,0.0,0,0,0.04,0.02,47,57,0,0,2,0,4,82
-Daouda Guindo,2026-02-01,Nice,Stade Brestois,6.9,90,,,0.0,0,0,0.03,0.0,21,22,0,0,3,0,5,48
-Daouda Guindo,2026-02-07,Stade Brestois,Lorient,6.9,90,,,0.0,0,0,0.01,0.01,20,27,0,0,2,0,1,45
-Daouda Guindo,2026-02-14,Lille,Stade Brestois,6.5,90,,,0.0,0,0,0.13,0.02,18,25,1,0,4,0,5,60
-Daouda Guindo,2026-02-20,Stade Brestois,Olympique de Marseille,6.7,90,,,0.0,0,0,0.13,0.0,17,22,0,0,1,0,5,37
-Daouda Guindo,2026-03-01,Metz,Stade Brestois,3.8,22,,,0.0,0,0,0.0,0.0,11,12,0,0,1,0,0,14
-Daouda Guindo,2026-03-14,AS Monaco,Stade Brestois,6.5,90,,,0.0,0,0,0.1,0.03,30,42,1,0,1,0,3,65
-Daouda Guindo,2026-03-21,Auxerre,Stade Brestois,5.9,76,,,0.0,0,0,0.06,0.04,22,26,0,0,0,0,1,37
-Daouda Guindo,2026-04-04,Stade Brestois,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Daouda Guindo,2026-04-19,Nantes,Stade Brestois,6.5,67,,,0.0,0,0,0.0,0.01,27,37,0,0,0,0,1,49
-Daouda Guindo,2026-04-24,Stade Brestois,RC Lens,8.2,88,,,0.0,1,0,0.01,0.12,25,29,2,0,5,0,3,52
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Daouda Guindo,2025-12-13,Stade Rennais,Stade Brestois,5.4,88,9433.0,17.0,107.19,0,0,0.01,0.01,13,27,0,0,0,0,1,43,0,1.8
+Daouda Guindo,2025-12-19,Avranches,Stade Brestois,6.7,9,958.0,2.0,106.44,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0,2.09
+Daouda Guindo,2026-01-04,Stade Brestois,Auxerre,6.6,90,9739.0,19.0,108.21,0,0,0.51,0.0,31,41,0,0,1,0,4,57,0,1.95
+Daouda Guindo,2026-01-18,Olympique Lyonnais,Stade Brestois,6.7,21,2360.0,7.0,112.38,0,0,0.0,0.0,8,12,0,0,2,0,4,25,0,2.97
+Daouda Guindo,2026-01-25,Stade Brestois,Toulouse,6.3,90,9844.0,20.0,109.38,0,0,0.04,0.02,47,57,0,0,2,0,4,82,0,2.03
+Daouda Guindo,2026-02-01,Nice,Stade Brestois,6.9,90,9714.0,22.0,107.93,0,0,0.03,0.0,21,22,0,0,3,0,5,48,0,2.26
+Daouda Guindo,2026-02-07,Stade Brestois,Lorient,6.9,90,9652.0,20.0,107.24,0,0,0.01,0.01,20,27,0,0,2,0,1,45,0,2.07
+Daouda Guindo,2026-02-14,Lille,Stade Brestois,6.5,90,9764.0,23.0,108.49,0,0,0.13,0.02,18,25,1,0,4,0,5,60,0,2.36
+Daouda Guindo,2026-02-20,Stade Brestois,Olympique de Marseille,6.7,90,9668.0,19.0,107.42,0,0,0.13,0.0,17,22,0,0,1,0,5,37,0,1.97
+Daouda Guindo,2026-03-01,Metz,Stade Brestois,3.8,22,2369.0,6.0,107.68,0,0,0.0,0.0,11,12,0,0,1,0,0,14,0,2.53
+Daouda Guindo,2026-03-14,AS Monaco,Stade Brestois,6.5,90,9760.0,19.0,108.44,0,0,0.1,0.03,30,42,1,0,1,0,3,65,0,1.95
+Daouda Guindo,2026-03-21,Auxerre,Stade Brestois,5.9,76,8148.0,15.0,107.21,0,0,0.06,0.04,22,26,0,0,0,0,1,37,0,1.84
+Daouda Guindo,2026-04-04,Stade Brestois,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Daouda Guindo,2026-04-19,Nantes,Stade Brestois,6.5,67,7253.0,13.0,108.25,0,0,0.0,0.01,27,37,0,0,0,0,1,49,0,1.79
+Daouda Guindo,2026-04-24,Stade Brestois,RC Lens,8.2,88,9496.0,24.0,107.91,1,0,0.01,0.12,25,29,2,0,5,0,3,52,0,2.53

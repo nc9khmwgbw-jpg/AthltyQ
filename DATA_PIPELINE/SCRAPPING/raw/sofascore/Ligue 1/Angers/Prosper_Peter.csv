@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Prosper Peter,2025-12-19,Les Herbiers,Angers,5.8,90,,,0.0,0,0,0.0,0.0,7,10,0,0,0,0,2,23
-Prosper Peter,2026-01-04,Le Havre,Angers,6.3,14,,,0.0,0,0,0.0,0.0,3,3,1,0,0,0,0,8
-Prosper Peter,2026-01-10,Angers,Toulouse,6.5,89,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,0,17
-Prosper Peter,2026-01-17,Angers,Olympique de Marseille,6.3,62,,,0.0,0,0,0.0,0.01,3,6,0,0,0,0,1,14
-Prosper Peter,2026-01-25,Paris FC,Angers,6.5,30,,,0.0,0,0,0.23,0.05,4,6,1,0,0,0,0,17
-Prosper Peter,2026-02-01,Angers,Metz,6.2,69,,,0.0,0,0,0.25,0.05,11,12,1,0,0,0,2,23
-Prosper Peter,2026-02-08,Angers,Toulouse,6.7,11,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,7
-Prosper Peter,2026-02-15,Lorient,Angers,6.4,15,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,2,7
-Prosper Peter,2026-02-22,Angers,Lille,6.7,12,,,0.0,0,0,0.0,0.0,3,8,0,0,0,0,1,14
-Prosper Peter,2026-02-28,AS Monaco,Angers,6.3,90,,,0.0,0,0,0.05,0.02,15,19,1,0,1,0,2,41
-Prosper Peter,2026-03-14,Angers,Nice,6.5,26,,,0.0,0,0,0.0,0.04,5,6,1,0,0,0,0,10
-Prosper Peter,2026-04-05,Angers,Olympique Lyonnais,6.2,22,,,0.0,0,0,0.0,0.0,0,2,0,0,1,0,2,8
-Prosper Peter,2026-04-11,Stade Rennais,Angers,8.0,28,,,0.0,1,0,0.18,0.01,1,2,0,0,0,0,0,6
-Prosper Peter,2026-04-18,Angers,Le Havre,7.1,80,,,0.0,1,0,0.83,0.03,6,7,0,0,0,0,0,31
-Prosper Peter,2026-04-25,Angers,Paris Saint-Germain,6.3,67,,,0.0,0,0,0.47,0.01,7,13,0,0,0,0,3,21
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Prosper Peter,2025-12-19,Les Herbiers,Angers,5.8,90,9572.0,17.0,106.36,0,0,0.0,0.0,7,10,0,0,0,0,2,23,0,1.78
+Prosper Peter,2026-01-04,Le Havre,Angers,6.3,14,1504.0,3.0,107.43,0,0,0.0,0.0,3,3,1,0,0,0,0,8,0,1.99
+Prosper Peter,2026-01-10,Angers,Toulouse,6.5,89,9416.0,17.0,105.8,0,0,0.0,0.0,3,4,0,0,0,0,0,17,0,1.81
+Prosper Peter,2026-01-17,Angers,Olympique de Marseille,6.3,62,6581.0,12.0,106.15,0,0,0.0,0.01,3,6,0,0,0,0,1,14,0,1.82
+Prosper Peter,2026-01-25,Paris FC,Angers,6.5,30,3221.0,6.0,107.37,0,0,0.23,0.05,4,6,1,0,0,0,0,17,0,1.86
+Prosper Peter,2026-02-01,Angers,Metz,6.2,69,7367.0,13.0,106.77,0,0,0.25,0.05,11,12,1,0,0,0,2,23,0,1.76
+Prosper Peter,2026-02-08,Angers,Toulouse,6.7,11,1184.0,2.0,107.64,0,0,0.0,0.0,2,3,0,0,0,0,0,7,0,1.69
+Prosper Peter,2026-02-15,Lorient,Angers,6.4,15,1629.0,3.0,108.6,0,0,0.0,0.0,3,3,0,0,0,0,2,7,0,1.84
+Prosper Peter,2026-02-22,Angers,Lille,6.7,12,1331.0,2.0,110.92,0,0,0.0,0.0,3,8,0,0,0,0,1,14,0,1.5
+Prosper Peter,2026-02-28,AS Monaco,Angers,6.3,90,9647.0,19.0,107.19,0,0,0.05,0.02,15,19,1,0,1,0,2,41,0,1.97
+Prosper Peter,2026-03-14,Angers,Nice,6.5,26,2772.0,5.0,106.62,0,0,0.0,0.04,5,6,1,0,0,0,0,10,0,1.8
+Prosper Peter,2026-04-05,Angers,Olympique Lyonnais,6.2,22,2369.0,6.0,107.68,0,0,0.0,0.0,0,2,0,0,1,0,2,8,0,2.53
+Prosper Peter,2026-04-11,Stade Rennais,Angers,8.0,28,2965.0,5.0,105.89,1,0,0.18,0.01,1,2,0,0,0,0,0,6,0,1.69
+Prosper Peter,2026-04-18,Angers,Le Havre,7.1,80,8530.0,15.0,106.62,1,0,0.83,0.03,6,7,0,0,0,0,0,31,0,1.76
+Prosper Peter,2026-04-25,Angers,Paris Saint-Germain,6.3,67,7161.0,13.0,106.88,0,0,0.47,0.01,7,13,0,0,0,0,3,21,0,1.82

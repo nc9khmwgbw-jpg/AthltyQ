@@ -1,16 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Elliot Anderson,2026-02-06,Leeds United,Nottingham Forest,7.0,90,,,0.0,0,0,0.0,0.21,56,67,3,0,1,0,7,98
-Elliot Anderson,2026-02-11,Nottingham Forest,Wolverhampton,8.6,90,,,0.0,0,0,0.27,0.52,79,98,2,0,0,0,9,125
-Elliot Anderson,2026-02-19,Fenerbahçe,Nottingham Forest,6.8,67,,,0.0,0,0,0.12,0.1,36,42,3,0,2,0,5,60
-Elliot Anderson,2026-02-22,Nottingham Forest,Liverpool,7.2,77,,,0.0,0,0,0.1,0.04,53,64,2,0,0,0,12,90
-Elliot Anderson,2026-02-26,Nottingham Forest,Fenerbahçe,6.7,90,,,0.0,0,0,0.12,0.05,67,74,1,0,3,0,10,104
-Elliot Anderson,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.8,90,,,0.0,0,0,0.06,0.08,51,56,1,0,2,0,5,76
-Elliot Anderson,2026-03-04,Manchester City,Nottingham Forest,8.4,90,,,0.0,1,0,0.1,0.08,39,45,1,0,1,0,6,72
-Elliot Anderson,2026-03-12,Nottingham Forest,FC Midtjylland,7.3,90,,,0.0,0,0,0.14,0.1,62,71,1,0,0,0,9,95
-Elliot Anderson,2026-03-15,Nottingham Forest,Fulham,7.1,88,,,0.0,0,0,0.07,0.23,48,54,3,0,1,0,7,75
-Elliot Anderson,2026-03-19,FC Midtjylland,Nottingham Forest,7.2,45,,,0.0,0,0,0.0,0.06,24,32,1,0,0,0,4,55
-Elliot Anderson,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.8,89,,,0.0,0,0,0.0,0.08,38,48,3,0,0,0,9,78
-Elliot Anderson,2026-03-31,England,Japan,7.6,90,,,0.0,0,0,0.0,0.0,112,119,1,0,4,0,13,136
-Elliot Anderson,2026-04-12,Nottingham Forest,Aston Villa,6.9,90,,,0.0,0,0,0.05,0.11,41,43,0,0,1,0,10,64
-Elliot Anderson,2026-04-19,Nottingham Forest,Burnley,7.2,90,,,0.0,0,0,0.0,0.05,57,77,0,0,0,0,7,98
-Elliot Anderson,2026-04-24,Sunderland,Nottingham Forest,7.7,90,,,0.0,1,0,0.23,0.01,31,39,1,0,1,0,5,62
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Elliot Anderson,2026-02-06,Leeds United,Nottingham Forest,7.0,90,9949.0,19.0,110.54,0,0,0.0,0.21,56,67,3,0,1,0,7,98,0,1.91
+Elliot Anderson,2026-02-11,Nottingham Forest,Wolverhampton,8.6,90,10088.0,17.0,112.09,0,0,0.27,0.52,79,98,2,0,0,0,9,125,0,1.69
+Elliot Anderson,2026-02-19,Fenerbahçe,Nottingham Forest,6.8,67,7350.0,16.0,109.7,0,0,0.12,0.1,36,42,3,0,2,0,5,60,0,2.18
+Elliot Anderson,2026-02-22,Nottingham Forest,Liverpool,7.2,77,8613.0,15.0,111.86,0,0,0.1,0.04,53,64,2,0,0,0,12,90,0,1.74
+Elliot Anderson,2026-02-26,Nottingham Forest,Fenerbahçe,6.7,90,10012.0,22.0,111.24,0,0,0.12,0.05,67,74,1,0,3,0,10,104,0,2.2
+Elliot Anderson,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.8,90,9832.0,20.0,109.24,0,0,0.06,0.08,51,56,1,0,2,0,5,76,0,2.03
+Elliot Anderson,2026-03-04,Manchester City,Nottingham Forest,8.4,90,9827.0,19.0,109.19,1,0,0.1,0.08,39,45,1,0,1,0,6,72,0,1.93
+Elliot Anderson,2026-03-12,Nottingham Forest,FC Midtjylland,7.3,90,9962.0,17.0,110.69,0,0,0.14,0.1,62,71,1,0,0,0,9,95,0,1.71
+Elliot Anderson,2026-03-15,Nottingham Forest,Fulham,7.1,88,9642.0,18.0,109.57,0,0,0.07,0.23,48,54,3,0,1,0,7,75,0,1.87
+Elliot Anderson,2026-03-19,FC Midtjylland,Nottingham Forest,7.2,45,5006.0,9.0,111.24,0,0,0.0,0.06,24,32,1,0,0,0,4,55,0,1.8
+Elliot Anderson,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.8,89,9785.0,17.0,109.94,0,0,0.0,0.08,38,48,3,0,0,0,9,78,0,1.74
+Elliot Anderson,2026-03-31,England,Japan,7.6,90,10184.0,23.0,113.16,0,0,0.0,0.0,112,119,1,0,4,0,13,136,0,2.26
+Elliot Anderson,2026-04-12,Nottingham Forest,Aston Villa,6.9,90,9844.0,19.0,109.38,0,0,0.05,0.11,41,43,0,0,1,0,10,64,0,1.93
+Elliot Anderson,2026-04-19,Nottingham Forest,Burnley,7.2,90,9949.0,17.0,110.54,0,0,0.0,0.05,57,77,0,0,0,0,7,98,0,1.71
+Elliot Anderson,2026-04-24,Sunderland,Nottingham Forest,7.7,90,9773.0,19.0,108.59,1,0,0.23,0.01,31,39,1,0,1,0,5,62,0,1.94

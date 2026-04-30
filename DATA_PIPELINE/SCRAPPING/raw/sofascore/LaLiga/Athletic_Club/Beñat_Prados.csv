@@ -1,14 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Beñat Prados,2025-04-20,Real Madrid,Athletic Club,7.1,90,,,0.0,0,0,0.0,0.01,15,19,0,0,4,0,6,44
-Beñat Prados,2025-04-23,Athletic Club,Las Palmas,6.4,11,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,3
-Beñat Prados,2025-05-01,Athletic Club,Manchester United,6.7,45,,,0.0,0,0,0.0,0.0,6,8,0,0,3,0,1,13
-Beñat Prados,2025-05-04,Real Sociedad,Athletic Club,7.1,74,,,0.0,0,0,0.0,0.01,22,27,0,0,0,0,5,39
-Beñat Prados,2025-05-08,Manchester United,Athletic Club,6.5,12,,,0.0,0,0,0.0,0.0,4,6,0,0,0,0,1,8
-Beñat Prados,2025-05-15,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Beñat Prados,2025-05-18,Valencia,Athletic Club,6.9,74,,,0.0,0,0,0.0,0.03,29,31,0,0,0,0,5,37
-Beñat Prados,2025-05-25,Athletic Club,FC Barcelona,6.8,28,,,0.0,0,0,0.12,0.04,7,7,0,0,0,0,1,15
-Beñat Prados,2025-07-22,Deportivo Alavés,Athletic Club,7.2,45,,,0.0,0,0,0.0,0.0,18,21,0,0,1,0,1,34
-Beñat Prados,2025-07-26,PSV Eindhoven,Athletic Club,6.9,82,,,0.0,0,0,0.0,0.0,22,27,0,0,2,0,3,39
-Beñat Prados,2025-08-04,Liverpool,Athletic Club,6.4,13,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,0,5
-Beñat Prados,2025-08-25,Athletic Club,Rayo Vallecano,6.5,23,,,0.0,0,0,0.0,0.0,9,12,1,0,0,0,0,15
-Beñat Prados,2025-08-31,Real Betis,Athletic Club,6.6,62,,,0.0,0,0,0.03,0.01,28,37,1,0,2,0,4,50
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Beñat Prados,2025-04-20,Real Madrid,Athletic Club,7.1,90,9710.0,23.0,107.89,0,0,0.0,0.01,15,19,0,0,4,0,6,44,0,2.37
+Beñat Prados,2025-04-23,Athletic Club,Las Palmas,6.4,11,1168.0,2.0,106.18,0,0,0.0,0.0,2,3,0,0,0,0,0,3,0,1.71
+Beñat Prados,2025-05-01,Athletic Club,Manchester United,6.7,45,4792.0,13.0,106.49,0,0,0.0,0.0,6,8,0,0,3,0,1,13,0,2.71
+Beñat Prados,2025-05-04,Real Sociedad,Athletic Club,7.1,74,7996.0,14.0,108.05,0,0,0.0,0.01,22,27,0,0,0,0,5,39,0,1.75
+Beñat Prados,2025-05-08,Manchester United,Athletic Club,6.5,12,1306.0,2.0,108.83,0,0,0.0,0.0,4,6,0,0,0,0,1,8,0,1.53
+Beñat Prados,2025-05-15,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
+Beñat Prados,2025-05-18,Valencia,Athletic Club,6.9,74,7988.0,14.0,107.95,0,0,0.0,0.03,29,31,0,0,0,0,5,37,0,1.75
+Beñat Prados,2025-05-25,Athletic Club,FC Barcelona,6.8,28,3016.0,5.0,107.71,0,0,0.12,0.04,7,7,0,0,0,0,1,15,0,1.66
+Beñat Prados,2025-07-22,Deportivo Alavés,Athletic Club,7.2,45,4880.0,10.0,108.44,0,0,0.0,0.0,18,21,0,0,1,0,1,34,0,2.05
+Beñat Prados,2025-07-26,PSV Eindhoven,Athletic Club,6.9,82,8811.0,19.0,107.45,0,0,0.0,0.0,22,27,0,0,2,0,3,39,0,2.16
+Beñat Prados,2025-08-04,Liverpool,Athletic Club,6.4,13,1386.0,2.0,106.62,0,0,0.0,0.0,2,4,0,0,0,0,0,5,0,1.44
+Beñat Prados,2025-08-25,Athletic Club,Rayo Vallecano,6.5,23,2478.0,4.0,107.74,0,0,0.0,0.0,9,12,1,0,0,0,0,15,0,1.61
+Beñat Prados,2025-08-31,Real Betis,Athletic Club,6.6,62,6770.0,15.0,109.19,0,0,0.03,0.01,28,37,1,0,2,0,4,50,0,2.22
