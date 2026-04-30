@@ -31,6 +31,22 @@ DATA_PATH = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clea
 warnings.filterwarnings('ignore', category=pd.errors.DtypeWarning)
 
 # ══════════════════════════════════════════════════════════════════════
+# 0. CONFIGURATION DES POIDS (INTENSITÉ)
+# ══════════════════════════════════════════════════════════════════════
+
+COMPETITION_WEIGHTS = {
+    'Champions League': 1.30,
+    'Europa League': 1.15,
+    'Premier': 1.20,          # La Premier League est plus intense que la moyenne
+    'Bundesliga': 1.10,
+    'Ligue 1': 1.00,          # Référence
+    'LaLiga': 1.10,
+    'Serie A': 1.05,
+    'Ligue 2': 0.85,
+    'Coupe': 0.80             # Matchs de coupe (souvent moins d'intensité)
+}
+
+# ══════════════════════════════════════════════════════════════════════
 # 1. DEFINITION DES FEATURES
 # ══════════════════════════════════════════════════════════════════════
 
@@ -51,7 +67,7 @@ FATIGUE_FEATURES = [
 # ══════════════════════════════════════════════════════════════════════
 
 def calculer_fatigue_score(df):
-    """Calcule un score de fatigue composite (0-100)."""
+    """Calcule un score de fatigue composite (0-100) pondéré par l'intensité de la compétition."""
     df = df.copy()
     
     # Composante 1 : ACWR (40% du score)
@@ -71,7 +87,15 @@ def calculer_fatigue_score(df):
     # Composante 4 : Trauma (10% du score)
     comp_trauma = (df['Trauma_Index'] / 10).clip(0, 1) * 10 if 'Trauma_Index' in df.columns else 0
 
-    df['Fatigue_Score'] = (comp_acwr + comp_fatigue + comp_congestion + comp_trauma).round(1).clip(0, 100)
+    # Calcul de base
+    base_score = comp_acwr + comp_fatigue + comp_congestion + comp_trauma
+
+    # Multiplicateur de Compétition
+    if 'League' in df.columns:
+        weights = df['League'].map(COMPETITION_WEIGHTS).fillna(1.0)
+        base_score = base_score * weights
+
+    df['Fatigue_Score'] = base_score.round(1).clip(0, 100)
     return df
 
 # ══════════════════════════════════════════════════════════════════════
@@ -182,50 +206,87 @@ def predire_risque_blessure(df):
     # 4. Force 100% si déjà blessé
     df.loc[df['Current_Injury'] == 1, 'Injury_Risk'] = 1.0
 
-    # 5. Classification
+    # 5. Classification (Basée sur les seuils physiques bruts)
     df = _classifier_niveaux(df)
     
-    # 6. Résumé final (dernier match par joueur)
+    # 6. Dilation visuelle (Désactivée ou très légère pour garder la cohérence fatigue/risque)
+    # On reste sur les probabilités réelles pour éviter les incohérences visuelles.
+    # mask_danger = (df['Injury_Risk'] > 0.60) & (df['Current_Injury'] == 0)
+    # df.loc[mask_danger, 'Injury_Risk'] = (0.60 + (df.loc[mask_danger, 'Injury_Risk'] - 0.60) * 1.1).clip(0, 0.95)
+
+    # 7. Résumé final (dernier match par joueur)
     result = df.sort_values(['Nom', 'Match_Date'], ascending=[True, False]).groupby('Nom').first().reset_index()
     
     _afficher_rapport(result)
     return result
 
 def _classifier_niveaux(df):
-    """
-    Classification scientifique par Z-Score (Sensibilité Ajustée).
-    Identifie les joueurs s'écartant de la moyenne du jour.
-    """
+    """Classifie les joueurs selon les seuils fixes demandés."""
     risk = df['Injury_Risk']
     
-    # 1. Distribution du jour
-    mean_val = risk.mean()
-    std_val = risk.std()
-    if pd.isna(std_val) or std_val == 0: std_val = 0.1
-
-    # 2. Seuils dynamiques équilibrés (Standard Elite)
-    # Le multiplicateur 0.8 est le standard industriel pour identifier les outliers.
-    seuil_eleve = mean_val + (0.8 * std_val)
-    seuil_faible = mean_val - (0.8 * std_val)
-
-    # Sécurités physiologiques (Bornes de réalisme médical)
-    seuil_eleve = min(max(seuil_eleve, 0.48), 0.85)
-    seuil_faible = max(min(seuil_faible, 0.32), 0.05)
-
     conditions = [
-        (df['Current_Injury'] == 1) | (risk >= seuil_eleve), # 🔴 ÉLEVÉ
-        (risk > seuil_faible),                               # 🟠 MODÉRÉ
+        (df['Current_Injury'] == 1) | (risk >= 0.60),  # 🔴 ÉLEVÉ
+        (risk >= 0.16)                                  # 🟠 MODÉRÉ
     ]
     choices = ['🔴 ÉLEVÉ', '🟠 MODÉRÉ']
     df['Risk_Level'] = np.select(conditions, choices, default='🟢 FAIBLE')
     
-    print(f"📊 [INFO] Distribution du jour : Moyenne={mean_val:.3f}, Std={std_val:.3f}")
-    print(f"   Seuils appliqués : Faible <= {seuil_faible:.3f} | Élevé >= {seuil_eleve:.3f}")
-    
     return df
 
+def _identifier_facteur_majeur(row):
+    """Identifie la cause principale du risque élevé avec détails et explications."""
+    if row.get('Current_Injury', 0) == 1:
+        return None, None
+    
+    factors = []
+    # 1. Historique Médical
+    if row.get('Injury_Prone_Index', 0) > 0.20:
+        jours = int(row.get('Total_Injury_Days', 0))
+        count = int(row.get('Injury_Count', 0))
+        title = f"HISTORIQUE MÉDICAL ({count} blessures passées, {jours} jours d'absence)"
+        explanation = "Le joueur présente une fragilité structurelle récurrente. Ses antécédents suggèrent une vulnérabilité aux rechutes lors des pics de charge."
+        factors.append(((title, explanation), row['Injury_Prone_Index'] * 1.5))
+    
+    # 2. Fatigue (Score cumulé)
+    fatigue = row.get('Fatigue_Score', 0)
+    if fatigue > 55:
+        title = f"FATIGUE ACCUMULÉE (Score de fatigue élevé : {fatigue:.1f}/100)"
+        cum_min = row.get('Cumulative_Minutes_21d', 0)
+        days_rest = row.get('Days_Since_Last', 7)
+        if cum_min > 270:
+            explanation = f"Le joueur a dépassé 270 minutes de jeu ({int(cum_min)} min) en 21 jours. Le volume accumulé excède ses capacités de récupération."
+        elif days_rest < 4:
+            explanation = f"Le temps de repos entre les derniers matchs est insuffisant ({int(days_rest)} jours). La régénération musculaire n'est pas complète."
+        else:
+            explanation = "Somme des contraintes physiques (minutes, chocs) atteignant un seuil critique pour son profil."
+        factors.append(((title, explanation), fatigue / 100))
+        
+    # 3. ACWR (Intensité de charge)
+    acwr = row.get('ACWR', 1.0)
+    if acwr > 1.3:
+        title = f"INTENSITÉ ACWR (Surcharge brutale : {acwr:.2f}x la charge normale)"
+        explanation = "Le volume de travail cette semaine est largement supérieur à sa moyenne habituelle. Cette hausse soudaine est une cause majeure de risque."
+        factors.append(((title, explanation), acwr - 1.0))
+    elif acwr < 0.8:
+        title = f"INTENSITÉ ACWR (Sous-charge / Reprise : {acwr:.2f}x)"
+        explanation = "Le joueur est en phase de reprise. Son déficit de charge chronique le rend vulnérable aux intensités de match (Manque de rythme)."
+        factors.append(((title, explanation), 0.8 - acwr))
+        
+    # 4. Congestion (Calendrier)
+    if row.get('Congestion_Risk', 1.0) > 1.0:
+        title = "CALENDRIER SURCHARGÉ (Repos insuffisant entre les matchs)"
+        explanation = "Enchaînement de matchs à haute intensité sans cycle de décharge. Une rotation est recommandée pour éviter la blessure de fatigue."
+        factors.append(((title, explanation), 0.5))
+
+    if not factors:
+        return None, None
+    
+    # Prendre le facteur avec le poids le plus élevé
+    factors.sort(key=lambda x: x[1], reverse=True)
+    return factors[0][0]
+
 def _afficher_rapport(result):
-    """Rapport premium AthlytIQ."""
+    """Rapport premium AthlytIQ — Affichage exhaustif et explicatif détaillé."""
     print("\n" + "═"*65)
     print("   🏥 RAPPORT DE RISQUE DE BLESSURE — AthlytIQ")
     print("═"*65 + "\n")
@@ -236,28 +297,40 @@ def _afficher_rapport(result):
         print(f"{niveau} ({count} joueurs) :")
         print("   " + "─"*54)
         
-        display_limit = 50 if niveau == '🔴 ÉLEVÉ' else 20
-        for _, row in groupe.head(display_limit).iterrows():
+        for _, row in groupe.iterrows():
             risk = row['Injury_Risk']
             fatigue = row.get('Fatigue_Score', 0)
             
-            line = f"   {row['Nom'] : <46} Fatigue: {fatigue: >5.1f}/100  Risque: {int(risk*100)}% (Prédiction du LM)"
+            # Identification du facteur explicatif
+            facteur_titre, facteur_expl = _identifier_facteur_majeur(row) if risk >= 0.16 else (None, None)
+            
+            # Ligne principale
+            line = f"   {row['Nom'] : <46} Fatigue: {fatigue: >5.1f}/100  Risque: {int(risk*100)}%"
             print(line)
             
+            # Détails et État Actuel
             if row.get('Current_Injury', 0) == 1:
                 injury_type = row.get('Injury_Type_Text', 'Blessure')
                 print(f"                                                   -> État Actuel : 🚑 ACTUELLEMENT BLESSÉ ({injury_type})")
                 print(f"                                                   -> ✅ PRÉDICTION CORRECTE (Forcée)")
-            elif fatigue > 75:
-                print(f"                                                   -> État Actuel : 🟠 SURCHARGE DÉTECTÉE")
-            elif risk >= 0.6:
-                print(f"                                                   -> État Actuel : 🟢 APTE (Risque Imminent)")
-            elif risk >= 0.16:
-                print(f"                                                   -> État Actuel : 🟢 APTE (Temps réduit)")
+            else:
+                # Affichage du facteur clé si présent
+                if facteur_titre:
+                    print(f"                                                   -> Facteur Clé : ⚠️ {facteur_titre}")
+                    if facteur_expl:
+                        print(f"                                                      {facteur_expl}")
+                
+                # État de forme / Aptitude
+                if fatigue > 75:
+                    print(f"                                                   -> État Actuel : 🟠 SURCHARGE DÉTECTÉE")
+                elif risk >= 0.60:
+                    print(f"                                                   -> État Actuel : 🟢 APTE (Risque Imminent)")
+                elif risk >= 0.16:
+                    print(f"                                                   -> État Actuel : 🟢 APTE (Temps réduit)")
+                else:
+                    print(f"                                                   -> État Actuel : 🟢 APTE (Plein temps)")
+            
             print("")
-        
-        if count > display_limit:
-            print(f"   ... et {count - display_limit} autres joueurs dans cette catégorie.\n")
 
 # ══════════════════════════════════════════════════════════════════════
 # 6. INTERFACE API (CLASSE)

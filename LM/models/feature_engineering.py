@@ -17,6 +17,21 @@ from pathlib import Path
 # Définition de la racine du projet
 ROOT = Path(__file__).resolve().parent.parent.parent
 
+# ── CONFIGURATION DES POIDS PAR COMPÉTITION ──
+# Reflète l'intensité physique réelle (vitesse, duels, pression)
+COMPETITION_WEIGHTS = {
+    'Champions League': 1.30,
+    'Europa League': 1.15,
+    'Premier': 1.20,          # La Premier League est plus intense que la moyenne
+    'Bundesliga': 1.10,
+    'Ligue 1': 1.00,          # Référence
+    'LaLiga': 1.10,
+    'Serie A': 1.05,
+    'Ligue 2': 0.85,
+    'Coupe': 0.80             # Matchs de coupe (souvent moins d'intensité)
+}
+DEFAULT_WEIGHT = 1.00
+
 
 # ══════════════════════════════════════════════════════════════════════
 # 1. CONTEXTE DU MATCH (Domicile/Extérieur, Force Adversaire)
@@ -78,6 +93,15 @@ def calculer_features_match(df):
     Calcule les ratios et features dérivés pour chaque match individuel.
     """
     df = df.copy()
+
+    # Pondération de la fatigue par compétition (Intensité League/UCL)
+    if 'League' in df.columns:
+        df['Comp_Weight'] = df['League'].map(COMPETITION_WEIGHTS).fillna(DEFAULT_WEIGHT)
+    else:
+        df['Comp_Weight'] = DEFAULT_WEIGHT
+    
+    # Minutes pondérées (Nouveau moteur de fatigue)
+    df['Weighted_Minutes'] = df['Minutes_Played'] * df['Comp_Weight']
 
     # --- Offensive ---
     if 'Total_Shots' in df.columns and 'Shots_On_Target' in df.columns:
@@ -175,7 +199,8 @@ def calculer_features_temporelles(df, fenetres=[3, 5, 10]):
 
     # ── Paramètres Médicaux (Fatigue & ACWR) ──
     # Cœur de la prédiction de blessures
-    workload_col = 'Minutes_Played'
+    # Utilisation des Minutes Pondérées (Weighted_Minutes) pour refléter l'intensité réelle
+    workload_col = 'Weighted_Minutes'
     if 'Distance_Covered_km' in df.columns:
         workload_col = 'Distance_Covered_km'
 
@@ -186,8 +211,8 @@ def calculer_features_temporelles(df, fenetres=[3, 5, 10]):
     df['Chronic_Workload'] = df.groupby('Nom')[workload_col].transform(lambda x: x.ewm(span=10, min_periods=1).mean())
     df['ACWR'] = (df['Acute_Workload'] / df['Chronic_Workload'].replace(0, 1)).clip(0, 3)
 
-    # 2. Fatigue Accumulée (Rolling sum 21 jours)
-    df['Cumulative_Minutes_21d'] = df.groupby('Nom')['Minutes_Played'].transform(lambda x: x.rolling(5, min_periods=1).sum())
+    # 2. Fatigue Accumulée (Rolling sum 21 jours - Basé sur intensité réelle)
+    df['Cumulative_Minutes_21d'] = df.groupby('Nom')['Weighted_Minutes'].transform(lambda x: x.rolling(5, min_periods=1).sum())
     df['Fatigue_Index'] = (df['Cumulative_Minutes_21d'] / 450).clip(0, 1) # Normalisé sur ~5 matchs complets
 
     # 3. Intensité des Duels & Trauma (Chocs physiques)
@@ -360,8 +385,9 @@ def integrer_historique_medical(df):
     stats_med['Injury_Prone_Index'] = (stats_med['Total_Injury_Days'] / max_days).clip(0, 1)
     
     # Merge
-    df = df.merge(stats_med[['Injury_Prone_Index', 'Dominant_Injury_Cause', 'Injury_Count']], on='Nom', how='left')
+    df = df.merge(stats_med[['Injury_Prone_Index', 'Dominant_Injury_Cause', 'Injury_Count', 'Total_Injury_Days']], on='Nom', how='left')
     df['Injury_Prone_Index'] = df['Injury_Prone_Index'].fillna(0)
+    df['Total_Injury_Days'] = df['Total_Injury_Days'].fillna(0)
     df['Dominant_Injury_Cause'] = df['Dominant_Injury_Cause'].fillna('NONE')
     
     return df
