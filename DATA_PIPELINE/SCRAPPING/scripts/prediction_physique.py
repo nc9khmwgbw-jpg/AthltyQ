@@ -64,7 +64,7 @@ def estimer_physique_manquant(df):
 
 if __name__ == "__main__":
     # Test
-    FILE = Path("DATA_PIPELINE/data/clean/merged_dataset_clean.csv")
+    FILE = Path(__file__).resolve().parents[3] / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
     if FILE.exists():
         df = pd.read_csv(FILE)
         df = estimer_physique_manquant(df)

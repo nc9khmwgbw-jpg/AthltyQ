@@ -609,7 +609,7 @@ if __name__ == "__main__":
     
     # 1. Chemins
     ROOT = Path(__file__).resolve().parent.parent.parent
-    input_path = ROOT / "DATA_PIPELINE" / "data" / "clean" / "merged_dataset_clean.csv"
+    input_path = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
     
     if not input_path.exists():
         print(f"❌ Fichier d'entrée introuvable : {input_path}")

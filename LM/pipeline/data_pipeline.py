@@ -6,8 +6,8 @@ import os
 
 # Chemins
 ROOT = Path(__file__).resolve().parents[2]
-CLEAN_DATA_PATH = ROOT / "DATA_PIPELINE" / "data" / "clean" / "merged_dataset_clean.csv"
-OUTPUT_PATH = ROOT / "DATA_PIPELINE" / "data" / "clean" / "features_dataset.csv"
+CLEAN_DATA_PATH = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
+OUTPUT_PATH = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "features_dataset.csv"
 
 def engineering_features(df):
     """Calcule les moyennes mobiles et les indicateurs de forme."""
