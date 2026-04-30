@@ -321,7 +321,7 @@ def integrer_historique_medical(df):
     Crée un profil de risque par joueur.
     """
     df = df.copy()
-    history_path = Path("data/temporal/injury_history.csv")
+    history_path = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "raw" / "transfermarkt" / "injury_history.csv"
     
     if not history_path.exists():
         print("   ⚠️ Historique médical introuvable. Features médicales ignorées.")
