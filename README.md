@@ -1,159 +1,269 @@
-# AthlytIQ - Plateforme Prédictive de Performance Football
+# ⚽ AthlytIQ — Plateforme de Prédiction de Fatigue & Blessures
 
-![AthlytIQ](https://img.shields.io/badge/AthlytIQ-Module%201-green)
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![ML](https://img.shields.io/badge/ML-XGBoost%2FLSTM%2FIF-purple)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![ML](https://img.shields.io/badge/ML-GradientBoosting%2FRandomForest-purple)
+![Data](https://img.shields.io/badge/Data-SofaScore%20%2B%20Transfermarkt-orange)
+![Status](https://img.shields.io/badge/Status-En%20développement-yellow)
 
-**AthlytIQ** est une plateforme advanced de Data Science et Business Intelligence appliquée au football professionnel. Transformez les données brutes SofaScore en prédictions de performance et alertes médicales précises.
+**AthlytIQ** est une plateforme Data Science appliquée au football professionnel.  
+Elle prédit la **fatigue des joueurs** et le **risque de blessure** à partir des statistiques match par match.
 
-## 🎯 Fonctionnalités
+---
 
-### Performance Predictor
-- **XGBoost + Random Forest** : Prédit le Form Score à J+7, J+14, J+30
-- **LSTM** : Capture les dépendances temporelles longues
-- **Validation temporelle** : TimeSeriesSplit pour éviter le data leakage
+## 🎯 Objectif
 
-### Medical / Injury Predictor
-- **XGBoost Classifier** : Prédit la probabilité de blessure
-- **ACWR** : Acute:Chronic Workload Ratio pour évaluer la surcharge
-- **Fatigue Index** : Accumulation des minutes sur 3 matchs
+```
+Stats joueur (matchs, minutes, passes, duels...)
+            ↓
+    PRÉDICTION DE FATIGUE
+  (ACWR, charge accumulée, densité des matchs)
+            ↓
+  PRÉDICTION DE BLESSURE
+  (basée sur la fatigue + historique médical)
+            ↓
+  🟢 FAIBLE  🟠 MODÉRÉ  🔴 ÉLEVÉ
+```
 
-### Anomaly Detector
-- **Isolation Forest** : Détecte les formes anormales
-- **Logique "Match Manqué"** : Identifie les blessures en temps réel 🏥
-- **Seuils adaptatifs** : Basés sur la volatilité historique du joueur
+---
 
 ## 📁 Structure du Projet
 
 ```
 AthlytIQ/
-├── api/                  # Serveur FastAPI
-│   ├── main.py          # Endpoints REST
-│   └── schemas.py       # Modèles Pydantic
-├── DASHBOARD/          # Interface Web
-│   ├── index.html      # Dashboard premium
-│   ├── index.css       # Glass-morphism design
-│   └── app.js          # Logique JavaScript
-├── data/
-│   ├── processed/      # Features & Prédictions
-│   └── temporal/       # Données match par match
-├── models/             # Modèles ML entraînés
-│   └── saved/         # Fichiers .joblib
-├── pipeline/           # Flux de données
-│   ├── data_pipeline.py
-│   ├── feature_engineering.py
-│   └── data_cleaner.py
-├── scrapers/           # Collecte de données
-│   └── sofascore_match_scraper.py
-└── requirements.txt
+│
+├── DATA_PIPELINE/
+│   ├── SCRAPPING/
+│   │   ├── scripts/
+│   │   │   ├── scraper_league.py              ← Scrape tous les joueurs d'une ligue
+│   │   │   ├── sofascore_match_scraper.py     ← Moteur de scraping SofaScore
+│   │   │   ├── transfermarkt_injury_scraper.py ← Scrape l'historique de blessures
+│   │   │   ├── fotmob_match_scraper.py        ← Réparation via FotMob
+│   │   │   ├── orchestrate_repair.py          ← Pipeline de correction automatique
+│   │   │   ├── prediction_physique.py         ← Estime distance/sprints manquants
+│   │   │   ├── calcul_tracking_brut.py        ← Calculs tracking avancés
+│   │   │   └── consolidation_sofascore.py     ← Consolidation des données
+│   │   └── raw/
+│   │       ├── sofascore/                     ← CSVs bruts par joueur
+│   │       │   ├── Premier/[Equipe]/[Joueur].csv
+│   │       │   ├── LaLiga/[Equipe]/[Joueur].csv
+│   │       │   └── Ligue 1/[Equipe]/[Joueur].csv
+│   │       └── transfermarkt/
+│   │           └── injury_history.csv         ← Historique blessures (Transfermarkt)
+│   │
+│   ├── NETTOYAGE/
+│   │   ├── scripts/
+│   │   │   └── data_cleaner.py               ← Fusionne tous les CSVs → dataset propre
+│   │   └── data/
+│   │       └── merged_dataset_clean.csv       ← Dataset principal (2.3 MB)
+│   │
+│   └── features/                             ← Calculs de features avancés
+│
+├── LM/                                       ← Module Machine Learning
+│   ├── models/
+│   │   ├── feature_engineering.py            ← Calcule ACWR, Fatigue, Form Score...
+│   │   ├── injury_predictor.py               ← Modèle de prédiction de blessure
+│   │   ├── anomaly_detector.py               ← Détection d'anomalies de performance
+│   │   ├── train.py                          ← Entraînement de tous les modèles
+│   │   └── saved/                            ← Modèles .joblib entraînés
+│   └── pipeline/
+│       └── data_pipeline.py                  ← Orchestrateur du pipeline ML complet
+│
+├── opendata/                                 ← Données SkillCorner (tracking GPS)
+├── requirements.txt
+└── README.md
 ```
+
+---
 
 ## 🚀 Installation
 
 ```bash
-# Cloner le projet
-git clone https://github.com/votre-user/AthlytIQ.git
-cd AthlytIQ
+# 1. Cloner le projet
+git clone https://github.com/nc9khmwgbw-jpg/AthltyQ.git
+cd AthltyQ
 
-# Créer un environnement virtuel
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# ou: venv\Scripts\activate  # Windows
+# 2. Créer un environnement virtuel
+python -m venv .venv
+source .venv/bin/activate        # Mac/Linux
+# .venv\Scripts\activate         # Windows
 
-# Installer les dépendances
+# 3. Installer les dépendances
 pip install -r requirements.txt
-
-# Télécharger le driver Chrome
-python -m selenium.webdriver.chrome.service
 ```
-
-## 📥 Collecte des Données
-
-### 1. Référencer l'effectif
-
-```bash
-python -m pipeline.reindex_squad
-```
-
-### 2. Scraper les matchs
-
-```bash
-python -m scrapers.sofascore_match_scraper
-```
-
-## ⚙️ Exécution du Pipeline
-
-```bash
-# Pipeline complet
-python -m pipeline.data_pipeline
-
-# Avec ré-entraînement des modèles
-python -m pipeline.data_pipeline --retrain
-```
-
-## 🔮 Lancement de l'API
-
-```bash
-# Démarrer le serveur
-python -m api.main
-
-# Dashboard disponible sur: http://localhost:8000
-# Documentation API: http://localhost:8000/docs
-```
-
-## 📊 Modèles ML
-
-| Modèle | Horizon | Type | Performance |
-|--------|---------|------|-------------|
-| XGBoost | J+7 | Régression | MAE ≈ 5-8 |
-| Random Forest | J+7 | Régression | MAE ≈ 6-9 |
-| LSTM | J+1 | Série temporelle | MAE ≈ 4-7 |
-| Isolation Forest | — | Détection anomalie | 95%+ détection |
-| XGBoost Classifier | J+14 | Classification | ROC-AUC ≈ 0.7+ |
-
-## 🎨 Dashboard
-
-Interface premium **glass-morphism** avec :
-- Vue d'ensemble des joueurs
-- Prédictions de forme
-- Alertes de performance
-- Fiche joueur détaillée avec historique
-- Panneau de risque médical
-
-## 🔧 Technologies
-
-- **Python 3.9+** : Core language
-- **Pandas/NumPy** : Manipulation de données
-- **Scikit-learn** : Modèles ML classiques
-- **XGBoost** : Gradient Boosting
-- **TensorFlow/Keras** : LSTM Deep Learning
-- **FastAPI** : API REST
-- **Selenium** : Web Scraping
-
-## ⚠️ Notes Importantes
-
-1. **Données de blessure** : La target `Target_Injury_Occurred` est actuellement simulée. Pour un usage production, remplacez par des données médicales réelles du club.
-
-2. **Rate Limiting** : Le scraper SofaScore utilise des pauses pour éviter le blocage. Pour 25 joueurs × 3 pages, comptez ~45 minutes.
-
-3. **Confidentialité** : Respectez les CGU de SofaScore. Ce projet est à but éducatif.
-
-## 📈 Améliorations Futures
-
-- [ ] Intégration données OPTA/StatsBomb
-- [ ] Système de monitoring des modèles (drift detection)
-- [ ] API temps réel via WebSocket
-- [ ] Modèle multi-équipes
-- [ ] Optimisation hyperparamètres avec Optuna
-
-## 📝 Licence
-
-MIT License - voir fichier LICENSE
-
-## 👤 Auteur
-
-**MiniMax Agent** - Développement Data Science & ML
 
 ---
 
-*AthlytIQ - Transformez la data en performance* ⚽
+## 📋 Pipeline Complet — Étape par Étape
+
+### ÉTAPE 1 — Scraper les matchs (SofaScore)
+
+Scrape les statistiques match par match pour tous les joueurs d'une ligue.
+
+```bash
+python DATA_PIPELINE/SCRAPPING/scripts/scraper_league.py
+```
+
+> Choisir la ligue dans le menu interactif (Premier League, LaLiga, Ligue 1...)  
+> Durée : ~2-3h pour une ligue complète  
+> Output : `DATA_PIPELINE/SCRAPPING/raw/sofascore/[Ligue]/[Equipe]/[Joueur].csv`
+
+---
+
+### ÉTAPE 2 — Nettoyer et fusionner les données
+
+Fusionne tous les CSVs des joueurs en un seul dataset propre.  
+Estime automatiquement la **distance parcourue** et les **sprints** manquants via un modèle physique.
+
+```bash
+python DATA_PIPELINE/NETTOYAGE/scripts/data_cleaner.py
+```
+
+> Output : `DATA_PIPELINE/NETTOYAGE/data/merged_dataset_clean.csv`
+
+---
+
+### ÉTAPE 3 — Scraper l'historique de blessures (Transfermarkt)
+
+Scrape l'historique complet de blessures pour chaque joueur du dataset.  
+À faire **une seule fois** (ou relancer avec `--resume` pour mettre à jour).
+
+```bash
+# Test sur 10 joueurs d'abord
+python DATA_PIPELINE/SCRAPPING/scripts/transfermarkt_injury_scraper.py --limit 10
+
+# Tous les joueurs (~1671 — environ 2-3 heures)
+python DATA_PIPELINE/SCRAPPING/scripts/transfermarkt_injury_scraper.py
+
+# Reprendre si interrompu
+python DATA_PIPELINE/SCRAPPING/scripts/transfermarkt_injury_scraper.py --resume
+
+# Repartir de zéro
+python DATA_PIPELINE/SCRAPPING/scripts/transfermarkt_injury_scraper.py --reset
+```
+
+> Output : `DATA_PIPELINE/SCRAPPING/raw/transfermarkt/injury_history.csv`  
+> Colonnes : `Nom, Season, Injury_Type, Date_From, Date_To, Duration_Days, Cause_Category`
+
+---
+
+### ÉTAPE 4 — Feature Engineering (Fusion + Calculs)
+
+Fusionne les stats SofaScore + l'historique Transfermarkt.  
+Calcule toutes les features de fatigue et de forme.
+
+Ce script s'exécute **automatiquement** via `injury_predictor.py` (étape 5).  
+Il peut aussi être lancé manuellement :
+
+```bash
+python LM/models/feature_engineering.py
+```
+
+**Features calculées :**
+
+| Feature | Description |
+|---------|-------------|
+| `ACWR` | Ratio charge récente / charge chronique (zone idéale : 0.8–1.3) |
+| `Fatigue_Index` | Minutes cumulées sur 5 matchs, normalisé 0–1 |
+| `Congestion_Risk` | Risque si moins de 4 jours entre matchs |
+| `Trauma_Index` | Intensité des duels sur 3 matchs glissants |
+| `Medical_Risk_Score` | Score de risque médical combiné |
+| `Injury_Prone_Index` | Fragilité du joueur (basé sur historique Transfermarkt) |
+| `Form_Score` | Score de forme composite 0–100 |
+
+---
+
+### ÉTAPE 5 — Prédiction Fatigue & Blessure
+
+Lance l'entraînement du modèle ML et génère les prédictions pour tous les joueurs.
+
+```bash
+python LM/models/injury_predictor.py
+```
+
+**Ce que fait ce script :**
+1. Calcule le **Fatigue Score** (0–100) pour chaque match
+2. Entraîne le modèle **Gradient Boosting + Random Forest** sur les données historiques
+3. Prédit le **risque de blessure** (0–1) pour chaque joueur
+4. Affiche un rapport classé par niveau de risque
+
+**Résultat :**
+```
+🔴 ÉLEVÉ   → Repos recommandé
+🟠 MODÉRÉ  → Surveiller la charge d'entraînement
+🟢 FAIBLE  → Bonne condition physique
+```
+
+---
+
+## 📊 Modèles ML
+
+| Modèle | Rôle | Performance estimée |
+|--------|------|-------------------|
+| Gradient Boosting | Prédiction risque de blessure | ~75-80% AUC-ROC |
+| Random Forest | Prédiction risque de blessure (ensemble) | ~73-78% AUC-ROC |
+| Isolation Forest | Détection d'anomalies de performance | 95%+ détection |
+
+> ⚠️ Pour atteindre 80%+ : scraper l'historique Transfermarkt sur tous les joueurs (Étape 3)
+
+---
+
+## 🔁 Workflow Quotidien (Maintien du Dataset)
+
+```bash
+# Corriger les données manquantes/erronées via FotMob
+python DATA_PIPELINE/SCRAPPING/scripts/orchestrate_repair.py
+
+# Refaire le dataset propre
+python DATA_PIPELINE/NETTOYAGE/scripts/data_cleaner.py
+
+# Relancer les prédictions
+python LM/models/injury_predictor.py
+```
+
+---
+
+## 🔧 Réparation des Données (FotMob)
+
+Si des statistiques sont manquantes ou incorrectes dans les CSVs SofaScore :
+
+```bash
+python DATA_PIPELINE/SCRAPPING/scripts/orchestrate_repair.py
+```
+
+Ce script compare automatiquement les données SofaScore avec FotMob et corrige les valeurs incorrectes.
+
+---
+
+## 💻 Technologies
+
+| Outil | Usage |
+|-------|-------|
+| Python 3.10+ | Langage principal |
+| Pandas / NumPy | Manipulation des données |
+| Scikit-learn | Modèles ML |
+| XGBoost | Gradient Boosting |
+| Selenium | Scraping SofaScore (anti-bot) |
+| BeautifulSoup | Scraping Transfermarkt |
+| Joblib | Sauvegarde des modèles |
+
+---
+
+## ⚠️ Notes Importantes
+
+1. **Rate Limiting** : Les scrapers utilisent des pauses aléatoires entre les requêtes pour éviter le blocage. Ne pas réduire les délais.
+
+2. **Reprise automatique** : Les scrapers sauvegardent leur progression. Si interrompus, ils reprennent là où ils s'étaient arrêtés (`--resume`).
+
+3. **Respect des CGU** : Ce projet est à but éducatif. Respectez les conditions d'utilisation de SofaScore et Transfermarkt.
+
+4. **Qualité des données** : Plus le dataset Transfermarkt est complet (beaucoup de joueurs scrapés), plus le modèle de blessure sera précis.
+
+---
+
+## 👥 Auteurs
+
+Projet AthlytIQ — Data Science & Football Analytics
+
+---
+
+*AthlytIQ — De la data à la performance* ⚽
