@@ -57,6 +57,8 @@ FATIGUE_FEATURES = [
     'Match_Num',              # Numéro de match dans la saison
     'Minutes_Played',         # Minutes jouées ce match
     'Duel_Intensity',         # Intensité des duels ce match
+    'Age',                    # Âge du joueur
+    'Age_Factor',             # Multiplicateur de risque selon l'âge
 ]
 
 
@@ -110,8 +112,14 @@ def calculer_fatigue_score(df):
     else:
         composante_trauma = 0
 
+    # Composante 5 : Âge (10% du score)
+    if 'Age_Factor' in df.columns:
+        composante_age = ((df['Age_Factor'] - 1.0) / 0.3).clip(0, 1) * 10
+    else:
+        composante_age = 0
+
     df['Fatigue_Score'] = (
-        composante_acwr + composante_fatigue + composante_congestion + composante_trauma
+        composante_acwr + composante_fatigue + composante_congestion + composante_trauma + composante_age
     ).round(1).clip(0, 100)
 
     return df

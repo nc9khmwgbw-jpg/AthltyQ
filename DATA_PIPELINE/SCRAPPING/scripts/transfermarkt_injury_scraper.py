@@ -196,11 +196,18 @@ def rechercher_joueur(session: requests.Session, nom: str) -> dict | None:
             team_cell = row.select_one("td.zentriert a[href*='/startseite/verein/']")
             team_name = team_cell.get_text(strip=True) if team_cell else ""
 
+            # L'âge est généralement dans la 7ème cellule (index 6)
+            cells = row.select("td")
+            age = ""
+            if len(cells) > 6:
+                age = cells[6].get_text(strip=True)
+
             return {
                 "id": player_id,
                 "name": player_name,
                 "url": f"{BASE_URL}{href}",
                 "team": team_name,
+                "age": age
             }
 
     return None
@@ -210,10 +217,11 @@ def rechercher_joueur(session: requests.Session, nom: str) -> dict | None:
 # 4. EXTRACTION DE L'HISTORIQUE DE BLESSURES
 # ══════════════════════════════════════════════════════════════════════
 
-def extraire_blessures(session: requests.Session, player_id: str, player_name: str, team: str) -> list[dict]:
+def extraire_blessures(session: requests.Session, player_id: str, player_name: str, team: str, age: str) -> list[dict]:
     """
     Extrait l'historique complet de blessures depuis la page Transfermarkt.
     URL : /player-name/verletzungen/spieler/{id}
+    Garantit de retourner au moins une ligne (avec 'NONE' si pas de blessure) pour stocker l'âge.
     """
     url = f"{BASE_URL}/player/verletzungen/spieler/{player_id}"
     try:
@@ -229,7 +237,18 @@ def extraire_blessures(session: requests.Session, player_id: str, player_name: s
     table = soup.select_one("table.items")
     if not table:
         log.info(f"   ℹ️  {player_name} — Aucun historique de blessures")
-        return []
+        return [{
+            "Nom":             player_name,
+            "Team":            team,
+            "Transfermarkt_ID": player_id,
+            "Season":          "N/A",
+            "Injury_Type":     "NONE",
+            "Date_From":       pd.NaT,
+            "Date_To":         pd.NaT,
+            "Duration_Days":   0,
+            "Cause_Category":  "NONE",
+            "Age":             age
+        }]
 
     rows = table.select("tbody tr")
     for row in rows:
@@ -269,9 +288,25 @@ def extraire_blessures(session: requests.Session, player_id: str, player_name: s
                 "Date_To":         parse_date(date_to),
                 "Duration_Days":   duration_days,
                 "Cause_Category":  classifier_blessure(injury_type),
+                "Age":             age
             })
         except Exception:
             continue
+            
+    # Si la table existe mais est vide ou mal parsée, on assure quand même l'enregistrement
+    if not injuries:
+        injuries.append({
+            "Nom":             player_name,
+            "Team":            team,
+            "Transfermarkt_ID": player_id,
+            "Season":          "N/A",
+            "Injury_Type":     "NONE",
+            "Date_From":       pd.NaT,
+            "Date_To":         pd.NaT,
+            "Duration_Days":   0,
+            "Cause_Category":  "NONE",
+            "Age":             age
+        })
 
     return injuries
 
@@ -359,16 +394,17 @@ def run(limit: int = None, resume: bool = True):
 
             stats["trouvés"] += 1
 
-            # 2. Extraction des blessures
+            # 2. Extraction des blessures (et de l'âge)
             pause(1.0, 2.5)
-            blessures = extraire_blessures(session, joueur["id"], nom, joueur["team"])
+            blessures = extraire_blessures(session, joueur["id"], nom, joueur["team"], joueur["age"])
 
-            if blessures:
+            if blessures and len(blessures) > 1 or (blessures and blessures[0]["Injury_Type"] != "NONE"):
                 sauvegarder_blessures(blessures)
-                stats["blessures"] += len(blessures)
-                print(f"✅ {len(blessures)} blessure(s) | {joueur['team']}")
+                stats["blessures"] += len([b for b in blessures if b["Injury_Type"] != "NONE"])
+                print(f"✅ {len(blessures)} blessure(s) (Âge: {joueur['age']}) | {joueur['team']}")
             else:
-                print(f"🟢 Aucune blessure trouvée | {joueur['team']}")
+                sauvegarder_blessures(blessures) # On sauvegarde quand même la ligne vide pour l'âge
+                print(f"🟢 Aucune blessure trouvée (Âge: {joueur['age']}) | {joueur['team']}")
 
             sauvegarder_cache(nom)
 
@@ -427,12 +463,13 @@ def charger_historique_pour_pipeline() -> pd.DataFrame:
     # Agrégation par joueur
     agg = df.groupby("Nom").agg(
         Total_Injury_Days=("Duration_Days", "sum"),
-        Injury_Count=("Duration_Days", "count"),
-        Avg_Injury_Duration=("Duration_Days", "mean"),
-        Dominant_Injury_Cause=("Cause_Category", lambda x: x.value_counts().index[0]),
+        Injury_Count=("Duration_Days", lambda x: (x > 0).sum()), # On compte seulement si jours > 0
+        Avg_Injury_Duration=("Duration_Days", lambda x: x[x > 0].mean() if (x > 0).any() else 0),
+        Dominant_Injury_Cause=("Cause_Category", lambda x: x[x != "NONE"].value_counts().index[0] if not x[x != "NONE"].empty else "NONE"),
         Last_Injury_Date=("Date_From", "max"),
         Had_ACL=("Cause_Category", lambda x: int("LIGAMENT" in x.values)),
         Had_Muscle=("Cause_Category", lambda x: int("MUSCULAIRE" in x.values)),
+        Age=("Age", "first") # Récupération de l'âge
     ).reset_index()
 
     # Score de fragilité normalisé 0-1
