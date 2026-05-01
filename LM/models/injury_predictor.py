@@ -234,48 +234,48 @@ def _classifier_niveaux(df):
     return df
 
 def _identifier_facteur_majeur(row):
-    """Identifie la cause principale du risque élevé avec détails et explications."""
+    """Identifie la cause principale du risque élevé avec détails et explications cliniques."""
     if row.get('Current_Injury', 0) == 1:
         return None, None
     
     factors = []
-    # 1. Historique Médical
+    # 1. Historique Médical (Fragilité structurelle)
     if row.get('Injury_Prone_Index', 0) > 0.20:
         jours = int(row.get('Total_Injury_Days', 0))
         count = int(row.get('Injury_Count', 0))
         title = f"HISTORIQUE MÉDICAL ({count} blessures passées, {jours} jours d'absence)"
-        explanation = "Le joueur présente une fragilité structurelle récurrente. Ses antécédents suggèrent une vulnérabilité aux rechutes lors des pics de charge."
+        explanation = "Le joueur présente une fragilité structurelle récurrente. Ses antécédents suggèrent une vulnérabilité accrue aux rechutes lors des pics de charge, particulièrement sur les zones déjà touchées."
         factors.append(((title, explanation), row['Injury_Prone_Index'] * 1.5))
     
-    # 2. Fatigue (Score cumulé)
+    # 2. Fatigue (Score cumulé et neuromusculaire)
     fatigue = row.get('Fatigue_Score', 0)
     if fatigue > 55:
         title = f"FATIGUE ACCUMULÉE (Score de fatigue élevé : {fatigue:.1f}/100)"
         cum_min = row.get('Cumulative_Minutes_21d', 0)
         days_rest = row.get('Days_Since_Last', 7)
         if cum_min > 270:
-            explanation = f"Le joueur a dépassé 270 minutes de jeu ({int(cum_min)} min) en 21 jours. Le volume accumulé excède ses capacités de récupération."
+            explanation = f"Le joueur a accumulé {int(cum_min)} minutes en 21 jours. Ce volume excessif sature ses capacités de régénération et dégrade sa qualité d'appui (risque de lésion non-contact)."
         elif days_rest < 4:
-            explanation = f"Le temps de repos entre les derniers matchs est insuffisant ({int(days_rest)} jours). La régénération musculaire n'est pas complète."
+            explanation = f"Temps de récupération insuffisant ({int(days_rest)} jours) entre les sollicitations à haute intensité. La fatigue neuromusculaire résiduelle n'a pas été éliminée."
         else:
-            explanation = "Somme des contraintes physiques (minutes, chocs) atteignant un seuil critique pour son profil."
+            explanation = "La somme des contraintes physiques (minutes, intensité, chocs) atteint un seuil critique. Le système nerveux central est en état de surcharge, réduisant la réactivité musculaire."
         factors.append(((title, explanation), fatigue / 100))
         
-    # 3. ACWR (Intensité de charge)
+    # 3. ACWR (Déséquilibre de charge)
     acwr = row.get('ACWR', 1.0)
     if acwr > 1.3:
         title = f"INTENSITÉ ACWR (Surcharge brutale : {acwr:.2f}x la charge normale)"
-        explanation = "Le volume de travail cette semaine est largement supérieur à sa moyenne habituelle. Cette hausse soudaine est une cause majeure de risque."
+        explanation = "Pic de charge (spike) détecté : le volume de travail hebdomadaire dépasse de loin la préparation chronique du joueur. Les tissus (tendons/muscles) subissent une contrainte à laquelle ils ne sont pas adaptés."
         factors.append(((title, explanation), acwr - 1.0))
     elif acwr < 0.8:
         title = f"INTENSITÉ ACWR (Sous-charge / Reprise : {acwr:.2f}x)"
-        explanation = "Le joueur est en phase de reprise. Son déficit de charge chronique le rend vulnérable aux intensités de match (Manque de rythme)."
+        explanation = "Déficit de charge chronique : le joueur manque de rythme de compétition. Cette 'sous-préparation' le rend paradoxalement plus vulnérable aux intensités maximales d'un match réel."
         factors.append(((title, explanation), 0.8 - acwr))
         
     # 4. Congestion (Calendrier)
     if row.get('Congestion_Risk', 1.0) > 1.0:
-        title = "CALENDRIER SURCHARGÉ (Repos insuffisant entre les matchs)"
-        explanation = "Enchaînement de matchs à haute intensité sans cycle de décharge. Une rotation est recommandée pour éviter la blessure de fatigue."
+        title = "CALENDRIER SURCHARGÉ (Fixture Congestion)"
+        explanation = "Enchaînement de matchs sans cycle de décharge (deload). Sans rotation, l'épuisement des réserves de glycogène et la fatigue mentale augmentent la probabilité d'erreur technique et de blessure."
         factors.append(((title, explanation), 0.5))
 
     if not factors:

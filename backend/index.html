@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AthltyQ — Fatigue & Prévention des Blessures</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #050505;
+            color: #ffffff;
+            overflow-x: hidden;
+        }
+
+        .font-display {
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0a0a0a;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #00d4ff;
+            border-radius: 3px;
+        }
+
+        .glass {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .glass-strong {
+            background: rgba(10, 10, 10, 0.9);
+            backdrop-filter: blur(30px);
+            -webkit-backdrop-filter: blur(30px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .neon-glow {
+            box-shadow: 0 0 20px rgba(0, 212, 255, 0.3), 0 0 40px rgba(0, 212, 255, 0.1);
+        }
+
+        .neon-glow-red {
+            box-shadow: 0 0 20px rgba(239, 68, 68, 0.3), 0 0 40px rgba(239, 68, 68, 0.1);
+        }
+
+        .neon-glow-yellow {
+            box-shadow: 0 0 20px rgba(234, 179, 8, 0.3), 0 0 40px rgba(234, 179, 8, 0.1);
+        }
+
+        .neon-glow-green {
+            box-shadow: 0 0 20px rgba(34, 197, 94, 0.3), 0 0 40px rgba(34, 197, 94, 0.1);
+        }
+
+        .gradient-text {
+            background: linear-gradient(135deg, #00d4ff 0%, #7c3aed 50%, #f472b6 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .card-hover {
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .card-hover:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 40px rgba(0, 212, 255, 0.1);
+        }
+
+        .modal-overlay {
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .modal-overlay.active {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .modal-content {
+            transform: scale(0.95) translateY(20px);
+            opacity: 0;
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .modal-overlay.active .modal-content {
+            transform: scale(1) translateY(0);
+            opacity: 1;
+        }
+
+        @keyframes pulse-ring {
+            0% {
+                transform: scale(0.8);
+                opacity: 1;
+            }
+
+            100% {
+                transform: scale(2.2);
+                opacity: 0;
+            }
+        }
+
+        .pulse-ring::after {
+            content: '';
+            position: absolute;
+            inset: -3px;
+            border-radius: 50%;
+            border: 2px solid currentColor;
+            animation: pulse-ring 2s ease-out infinite;
+        }
+
+        @keyframes live-pulse {
+            0% {
+                transform: scale(1);
+                opacity: 1;
+            }
+
+            100% {
+                transform: scale(2.5);
+                opacity: 0;
+            }
+        }
+
+        .live-dot {
+            width: 8px;
+            height: 8px;
+            background: #22c55e;
+            border-radius: 50%;
+            position: relative;
+        }
+
+        .live-dot::after {
+            content: '';
+            position: absolute;
+            inset: -4px;
+            border-radius: 50%;
+            border: 2px solid #22c55e;
+            animation: live-pulse 1.5s ease-out infinite;
+        }
+
+        .progress-ring-circle {
+            transition: stroke-dashoffset 0.8s ease-in-out;
+            transform: rotate(-90deg);
+            transform-origin: 50% 50%;
+        }
+
+        .tooltip-trigger {
+            position: relative;
+        }
+
+        .tooltip-trigger:hover .tooltip {
+            opacity: 1;
+            transform: translateY(0);
+            pointer-events: auto;
+        }
+
+        .tooltip {
+            opacity: 0;
+            transform: translateY(8px);
+            transition: all 0.2s ease;
+            pointer-events: none;
+            position: absolute;
+            z-index: 50;
+        }
+
+        .toast {
+            transform: translateX(120%);
+            transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .toast.show {
+            transform: translateX(0);
+        }
+
+        .skeleton {
+            background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+            background-size: 200% 100%;
+            animation: skeleton-loading 1.5s infinite;
+        }
+
+        @keyframes skeleton-loading {
+            0% {
+                background-position: 200% 0;
+            }
+
+            100% {
+                background-position: -200% 0;
+            }
+        }
+
+        .risk-high {
+            color: #ef4444;
+        }
+
+        .risk-medium {
+            color: #eab308;
+        }
+
+        .risk-low {
+            color: #22c55e;
+        }
+
+        .fatigue-bar {
+            transition: width 1s ease-out, background-color 0.3s;
+        }
+
+        .asymmetry-marker {
+            transition: all 0.3s ease;
+        }
+
+        .ecg-line {
+            stroke-dasharray: 1000;
+            stroke-dashoffset: 1000;
+            animation: draw-line 2s ease-out forwards;
+        }
+
+        @keyframes draw-line {
+            to {
+                stroke-dashoffset: 0;
+            }
+        }
+
+        .heatmap-cell {
+            transition: all 0.3s ease;
+        }
+
+        .heatmap-cell:hover {
+            transform: scale(1.1);
+            z-index: 10;
+        }
+
+        .brick {
+            width: 100%;
+            aspect-ratio: 1;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .brick:hover {
+            transform: translateY(-2px);
+            filter: brightness(1.2);
+        }
+
+        .brick-rating-high {
+            background: #22c55e;
+        }
+
+        .brick-rating-med {
+            background: #eab308;
+        }
+
+        .brick-rating-low {
+            background: #ef4444;
+        }
+
+        .brick-empty {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .search-result-item:hover {
+            background: rgba(255, 255, 255, 0.05);
+            color: #00d4ff;
+        }
+
+        .grid-cols-15 {
+            grid-template-columns: repeat(15, minmax(0, 1fr));
+        }
+    </style>
+</head>
+
+<body class="bg-[#050505] text-white">
+
+    <!-- Navigation -->
+    <nav id="navbar" class="fixed top-0 left-0 right-0 z-50 transition-all duration-500">
+        <div class="max-w-7xl mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-3">
+                    <div
+                        class="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center neon-glow">
+                        <i data-lucide="heart-pulse" class="w-5 h-5 text-white"></i>
+                    </div>
+                    <span class="font-display text-2xl font-bold tracking-tight">
+                        Athlty<span class="text-cyan-400">Q</span>
+                    </span>
+                    <span
+                        class="hidden md:block text-xs text-gray-500 ml-3 px-2 py-1 rounded-full bg-white/5 border border-white/10">
+                        Fatigue & Prévention
+                    </span>
+                </div>
+
+                <div class="hidden md:flex items-center gap-8">
+                    <a href="#dashboard" class="text-sm font-medium text-cyan-400">Tableau de Bord</a>
+                    <a href="#players"
+                        class="text-sm font-medium text-gray-400 hover:text-white transition-colors">Joueurs</a>
+                    <a href="#load" class="text-sm font-medium text-gray-400 hover:text-white transition-colors">Charge
+                        d'Entraînement</a>
+                    <a href="#injury"
+                        class="text-sm font-medium text-gray-400 hover:text-white transition-colors">Risque Blessure</a>
+                    <a href="#recovery"
+                        class="text-sm font-medium text-gray-400 hover:text-white transition-colors">Récupération</a>
+                </div>
+
+                <div class="flex items-center gap-4">
+                    <button onclick="toggleSearch()" class="p-2 rounded-lg hover:bg-white/5 transition-colors">
+                        <i data-lucide="search" class="w-5 h-5 text-gray-400"></i>
+                    </button>
+                    <button onclick="toggleAlerts()" class="p-2 rounded-lg hover:bg-white/5 transition-colors relative">
+                        <i data-lucide="bell-ring" class="w-5 h-5 text-gray-400"></i>
+                        <span id="alertBadge"
+                            class="absolute top-1 right-1 w-2 h-2 bg-red-500 rounded-full animate-pulse hidden"></span>
+                    </button>
+                    <div
+                        class="w-9 h-9 rounded-full bg-gradient-to-br from-red-500 to-orange-500 flex items-center justify-center text-sm font-bold">
+                        DM
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Modal -->
+    <div id="searchModal"
+        class="modal-overlay fixed inset-0 z-[60] flex items-start justify-center pt-24 bg-black/80 backdrop-blur-sm">
+        <div class="modal-content w-full max-w-2xl mx-4">
+            <div class="glass-strong rounded-2xl p-6">
+                <div class="flex items-center gap-3 mb-6">
+                    <i data-lucide="search" class="w-6 h-6 text-cyan-400"></i>
+                    <input type="text" id="searchInput" oninput="handleSearch(this.value)"
+                        placeholder="Rechercher un joueur, une session, un rapport..."
+                        class="flex-1 bg-transparent text-xl font-medium outline-none placeholder-gray-500">
+                    <kbd class="px-2 py-1 rounded bg-white/10 text-xs text-gray-400">ESC</kbd>
+                </div>
+                <div id="searchResults" class="space-y-2 max-h-96 overflow-y-auto">
+                    <p class="text-xs text-gray-500 uppercase tracking-wider mb-3">Recherches récentes</p>
+                    <div id="searchItems">
+                        <!-- Search results injected here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Alerts Panel -->
+    <div id="alertsPanel"
+        class="fixed top-20 right-6 z-50 w-96 glass-strong rounded-2xl p-4 transform translate-x-[120%] transition-transform duration-300 max-h-[80vh] overflow-y-auto">
+        <div class="flex items-center justify-between mb-4">
+            <h3 class="font-display font-bold text-lg flex items-center gap-2">
+                <i data-lucide="bell-ring" class="w-5 h-5 text-red-400"></i>
+                Alertes Actives
+            </h3>
+            <button onclick="toggleAlerts()" class="p-1 hover:bg-white/10 rounded-lg">
+                <i data-lucide="x" class="w-5 h-5"></i>
+            </button>
+        </div>
+        <div id="alertsList" class="space-y-3">
+            <!-- Alerts will be injected here -->
+        </div>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="relative min-h-[70vh] flex items-center pt-24 pb-12 overflow-hidden">
+        <div class="absolute inset-0 z-0">
+            <img src="https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1920&q=80" alt="Training"
+                class="w-full h-full object-cover opacity-20">
+            <div class="absolute inset-0 bg-gradient-to-b from-[#050505] via-[#050505]/80 to-[#050505]"></div>
+        </div>
+
+        <div class="container mx-auto px-6 relative z-10">
+            <div class="max-w-4xl">
+                <div class="flex items-center gap-3 mb-6">
+                    <div class="live-dot"></div>
+                    <span id="monitoringStatus"
+                        class="text-sm text-green-400 font-medium tracking-wider uppercase">Monitoring Actif</span>
+                </div>
+                <h1 class="text-5xl md:text-7xl font-display font-bold mb-6 leading-tight">
+                    Prévenez les blessures<br>
+                    <span class="gradient-text">avant qu'elles n'arrivent</span>
+                </h1>
+                <p class="text-xl text-gray-400 mb-8 max-w-2xl">
+                    AthltyQ analyse en temps réel la charge d'entraînement, la variabilité de la fréquence cardiaque, le
+                    sommeil et l'asymétrie musculaire pour prédire et prévenir les blessures.
+                </p>
+                <div class="flex gap-4">
+                    <button onclick="scrollToSection('dashboard')"
+                        class="px-8 py-4 rounded-xl bg-cyan-500 text-white font-medium hover:bg-cyan-400 transition-colors flex items-center gap-2 neon-glow">
+                        <i data-lucide="layout-dashboard" class="w-5 h-5"></i>
+                        Tableau de Bord
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Global Status Cards -->
+    <section id="dashboard" class="py-12 relative">
+        <div class="container mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+                <!-- Squad Status -->
+                <div class="glass rounded-2xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 rounded-xl bg-green-500/20 flex items-center justify-center">
+                            <i data-lucide="users" class="w-6 h-6 text-green-400"></i>
+                        </div>
+                        <span class="text-xs text-gray-500 bg-white/5 px-2 py-1 rounded">Effectif</span>
+                    </div>
+                    <p id="statAvailable" class="text-3xl font-bold font-display mb-1">--<span
+                            class="text-lg text-gray-500 font-normal">/--</span></p>
+                    <p class="text-sm text-gray-400 mb-3">Joueurs disponibles</p>
+                    <div id="statDistribution" class="flex gap-2">
+                        <span class="px-2 py-1 rounded bg-green-500/20 text-green-400 text-xs">-- OK</span>
+                    </div>
+                </div>
+
+                <!-- ACR (Acute:Chronic Ratio) -->
+                <div class="glass rounded-2xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 rounded-xl bg-cyan-500/20 flex items-center justify-center">
+                            <i data-lucide="gauge" class="w-6 h-6 text-cyan-400"></i>
+                        </div>
+                        <span class="text-xs text-gray-500 bg-white/5 px-2 py-1 rounded">ACR Moyen</span>
+                    </div>
+                    <p id="statAcr" class="text-3xl font-bold font-display mb-1 text-cyan-400">--</p>
+                    <p class="text-sm text-gray-400 mb-3">Ratio Aigu/Chronique</p>
+                    <div class="h-2 bg-white/10 rounded-full overflow-hidden">
+                        <div id="acrProgress"
+                            class="h-full bg-gradient-to-r from-green-500 via-cyan-500 to-yellow-500 rounded-full"
+                            style="width: 50%"></div>
+                    </div>
+                    <p class="text-xs text-gray-500 mt-2">Zone optimale: 0.8 - 1.3</p>
+                </div>
+
+                <!-- Sleep Quality -->
+                <div class="glass rounded-2xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 rounded-xl bg-purple-500/20 flex items-center justify-center">
+                            <i data-lucide="moon" class="w-6 h-6 text-purple-400"></i>
+                        </div>
+                        <span class="text-xs text-gray-500 bg-white/5 px-2 py-1 rounded">Sommeil</span>
+                    </div>
+                    <p id="statSleep" class="text-3xl font-bold font-display mb-1 text-purple-400">--<span
+                            class="text-lg text-gray-500 font-normal">h</span></p>
+                    <p class="text-sm text-gray-400 mb-3">Moyenne équipe cette nuit</p>
+                </div>
+
+                <!-- HRV Status -->
+                <div class="glass rounded-2xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 rounded-xl bg-pink-500/20 flex items-center justify-center">
+                            <i data-lucide="heart-pulse" class="w-6 h-6 text-pink-400"></i>
+                        </div>
+                        <span class="text-xs text-gray-500 bg-white/5 px-2 py-1 rounded">HRV</span>
+                    </div>
+                    <p id="statHrv" class="text-3xl font-bold font-display mb-1 text-pink-400">--<span
+                            class="text-lg text-gray-500 font-normal">ms</span></p>
+                    <p class="text-sm text-gray-400 mb-3">Variabilité cardiaque moyenne</p>
+                </div>
+            </div>
+
+            <!-- Main Dashboard Grid -->
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-12">
+                <!-- Team Load Chart -->
+                <div class="lg:col-span-2 glass rounded-2xl p-6">
+                    <div class="flex items-center justify-between mb-6">
+                        <div>
+                            <h3 class="font-display font-bold text-lg">Charge d'Entraînement — 28 Jours</h3>
+                            <p class="text-sm text-gray-500">Moyenne de l'équipe (AU)</p>
+                        </div>
+                    </div>
+                    <div class="h-64">
+                        <canvas id="loadChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Risk Distribution -->
+                <div id="riskDistCard" class="glass rounded-2xl p-6">
+                    <h3 class="font-display font-bold text-lg mb-6">Distribution des Risques</h3>
+                    <div class="space-y-4">
+                        <!-- Content injected via JS -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Top At-Risk Players -->
+            <div class="mb-12">
+                <div class="flex items-center justify-between mb-6">
+                    <h3 class="font-display font-bold text-2xl">Alertes Critiques — Joueurs à risque</h3>
+                    <span class="text-xs text-gray-500 px-3 py-1 rounded-full bg-white/5 border border-white/10">Action
+                        requise immédiate</span>
+                </div>
+                <div id="topRisksGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
+                    <!-- Injected via JS -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Players Monitoring Table -->
+    <section id="players" class="py-12 relative">
+        <div class="container mx-auto px-6">
+            <div class="flex items-end justify-between mb-8">
+                <div>
+                    <p class="text-cyan-400 font-medium tracking-widest uppercase text-sm mb-2">Monitoring Individuel
+                    </p>
+                    <h2 class="text-3xl md:text-4xl font-display font-bold">État des Joueurs</h2>
+                </div>
+                <div class="flex gap-2">
+                    <button id="filter-all" onclick="filterRisk('all')"
+                        class="filter-btn px-4 py-2 rounded-lg bg-cyan-500 text-white text-sm font-medium">Tous</button>
+                    <button id="filter-high" onclick="filterRisk('high')"
+                        class="filter-btn px-4 py-2 rounded-lg bg-white/5 text-gray-400 text-sm font-medium hover:bg-white/10">Élevé</button>
+                    <button id="filter-modere" onclick="filterRisk('modéré')"
+                        class="filter-btn px-4 py-2 rounded-lg bg-white/5 text-gray-400 text-sm font-medium hover:bg-white/10">Modéré</button>
+                </div>
+            </div>
+
+            <div class="glass rounded-2xl overflow-hidden">
+                <div class="overflow-x-auto">
+                    <table class="w-full">
+                        <thead>
+                            <tr
+                                class="border-b border-white/10 text-left text-xs text-gray-500 uppercase tracking-wider">
+                                <th class="p-4">Joueur</th>
+                                <th class="p-4">Risque</th>
+                                <th class="p-4">Fatigue</th>
+                                <th class="p-4">ACR</th>
+                                <th class="p-4">HRV</th>
+                                <th class="p-4">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody class="text-sm" id="playersTable">
+                            <!-- Injected via JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Version Footer -->
+    <footer class="py-6 border-t border-white/5 opacity-30">
+        <div
+            class="container mx-auto px-6 flex justify-between items-center text-[10px] font-mono tracking-widest uppercase text-gray-500">
+            <span>AthlytIQ Engine v2.4</span>
+            <span id="apiVersion">Chargement API...</span>
+        </div>
+    </footer>
+
+    <!-- Player Detail Modal -->
+    <div id="playerModal"
+        class="modal-overlay fixed inset-0 z-[70] flex items-start justify-center bg-black/90 backdrop-blur-md overflow-y-auto py-8 lg:py-12">
+        <!-- Content dynamic via JS template -->
+    </div>
+
+    <!-- Toast -->
+    <div id="toast"
+        class="toast fixed bottom-6 right-6 z-[80] glass-strong rounded-xl p-4 flex items-center gap-3 max-w-sm">
+        <div class="w-10 h-10 rounded-full bg-cyan-500/20 flex items-center justify-center">
+            <i data-lucide="check" class="w-5 h-5 text-cyan-400"></i>
+        </div>
+        <div>
+            <p class="font-medium text-sm" id="toastTitle">Notification</p>
+            <p class="text-xs text-gray-500" id="toastMessage">Message</p>
+        </div>
+    </div>
+
+    <script>
+        // Initialize Lucide icons
+        lucide.createIcons();
+
+        let allPlayersData = [];
+        let loadChartInstance = null;
+
+        // ===== API CONNECTION =====
+        async function loadData() {
+            try {
+                // Fetch Dashboard Data
+                const dashRes = await fetch(`/api/dashboard-data?t=${Date.now()}`);
+                const dashData = await dashRes.json();
+
+                updateSummaryUI(dashData.summary);
+                updateRiskDistribution(dashData.summary.risk_distribution);
+                renderTopRisks(dashData.top_risks);
+                renderLoadChart(dashData.load_chart);
+
+                // Fetch Full Players List
+                const playersRes = await fetch(`/api/player-data?t=${Date.now()}`);
+                const playersData = await playersRes.json();
+
+                document.getElementById('apiVersion').textContent = `API Connectée (v${playersData.version || '??'})`;
+
+                allPlayersData = playersData.players || [];
+                renderPlayersTable(allPlayersData);
+                updateAlerts(allPlayersData);
+
+            } catch (err) {
+                console.error("API Error:", err);
+                showToast("Erreur API", "Impossible de contacter le serveur de données.");
+                document.getElementById('monitoringStatus').textContent = "Erreur de connexion";
+                document.getElementById('monitoringStatus').className = "text-sm text-red-400 font-medium tracking-wider uppercase";
+            }
+        }
+
+        function updateSummaryUI(data) {
+            document.getElementById('statAvailable').innerHTML = `${data.available_players}<span class="text-lg text-gray-500 font-normal">/${data.total_players}</span>`;
+            document.getElementById('statAcr').textContent = data.avg_acr;
+            document.getElementById('statSleep').innerHTML = `${data.avg_sleep_hours}<span class="text-lg text-gray-500 font-normal">h</span>`;
+            document.getElementById('statHrv').innerHTML = `${data.avg_hrv}<span class="text-lg text-gray-500 font-normal">ms</span>`;
+            document.getElementById('monitoringStatus').textContent = `Monitoring Actif — ${data.total_players} joueurs`;
+
+            // Update availability badge with low-risk count
+            const badge = document.getElementById('statDistribution').querySelector('span');
+            badge.textContent = `${data.risk_distribution.low} SAFE`;
+
+            const acrPct = Math.min((data.avg_acr / 2) * 100, 100);
+            document.getElementById('acrProgress').style.width = `${acrPct}%`;
+        }
+
+        function renderTopRisks(risks) {
+            const grid = document.getElementById('topRisksGrid');
+            if (risks.length === 0) {
+                grid.innerHTML = '<div class="col-span-full glass rounded-xl p-8 text-center text-gray-500">Aucun joueur en alerte critique.</div>';
+                return;
+            }
+            grid.innerHTML = risks.map(r => `
+                <div class="glass rounded-xl p-4 border-l-4 border-red-500 card-hover">
+                    <div class="flex justify-between items-start mb-3">
+                        <div class="w-8 h-8 rounded-lg bg-red-500/20 flex items-center justify-center text-red-500 text-xs font-bold">
+                            ${r.name.split(' ').map(n => n[0]).join('')}
+                        </div>
+                        <span class="text-red-500 font-bold text-lg">${r.risk_score}%</span>
+                    </div>
+                    <p class="font-bold text-sm truncate">${r.name}</p>
+                    <p class="text-xs text-gray-500 mb-2">${r.position}</p>
+                    <p class="text-[10px] text-red-400 font-medium leading-tight">${r.factor}</p>
+                </div>
+            `).join('');
+        }
+
+        function renderLoadChart(data) {
+            const ctx = document.getElementById('loadChart').getContext('2d');
+            if (loadChartInstance) loadChartInstance.destroy();
+
+            loadChartInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.labels,
+                    datasets: [{
+                        label: 'Charge Squad',
+                        data: data.values,
+                        borderColor: '#00d4ff',
+                        borderWidth: 3,
+                        backgroundColor: (context) => {
+                            const chart = context.chart;
+                            const { ctx, chartArea } = chart;
+                            if (!chartArea) return null;
+                            const gradient = ctx.createLinearGradient(0, chartArea.top, 0, chartArea.bottom);
+                            gradient.addColorStop(0, 'rgba(0, 212, 255, 0.2)');
+                            gradient.addColorStop(1, 'rgba(0, 212, 255, 0)');
+                            return gradient;
+                        },
+                        fill: true,
+                        tension: 0.4,
+                        pointRadius: 0,
+                        pointHoverRadius: 6,
+                        pointHoverBackgroundColor: '#00d4ff',
+                        pointHoverBorderColor: '#fff',
+                        pointHoverBorderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: { color: 'rgba(255,255,255,0.05)' },
+                            ticks: { color: '#666', font: { size: 10 } }
+                        },
+                        x: {
+                            grid: { display: false },
+                            ticks: { color: '#666', font: { size: 10 }, maxRotation: 0 }
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderPlayersTable(players) {
+            const tbody = document.getElementById('playersTable');
+            tbody.innerHTML = players.map(p => {
+                const riskColor = p.injury_risk_level === 'ÉLEVÉ' ? 'red-500' : p.injury_risk_level === 'MODÉRÉ' ? 'yellow-500' : 'green-500';
+                return `
+                    <tr class="border-b border-white/5 hover:bg-white/5 transition-colors player-row" data-risk="${p.injury_risk_level.toLowerCase()}">
+                        <td class="p-4">
+                            <div class="flex items-center gap-3">
+                                <div class="w-10 h-10 rounded-full bg-gradient-to-br from-blue-500 to-cyan-500 flex items-center justify-center text-sm font-bold">${p.name.split(' ').map(n => n[0]).join('')}</div>
+                                <div>
+                                    <p class="font-medium">${p.name}</p>
+                                    <p class="text-xs text-gray-500">${p.position} • ${p.team}</p>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="p-4">
+                            <div class="flex items-center gap-2">
+                                <div class="w-3 h-3 rounded-full bg-${riskColor} ${p.injury_risk_level === 'ÉLEVÉ' ? 'animate-pulse' : ''}"></div>
+                                <span class="text-${riskColor} font-medium">${p.injury_risk_level}</span>
+                            </div>
+                        </td>
+                        <td class="p-4">
+                            <div class="w-full max-w-[120px]">
+                                <div class="flex justify-between text-xs mb-1">
+                                    <span class="text-gray-400">${p.fatigue_score}%</span>
+                                </div>
+                                <div class="h-2 bg-white/10 rounded-full overflow-hidden">
+                                    <div class="h-full bg-${p.fatigue_score > 70 ? 'red-500' : 'green-500'} fatigue-bar" style="width: ${p.fatigue_score}%"></div>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="p-4 font-bold ${p.acr_ratio > 1.3 ? 'text-red-400' : 'text-green-400'}">${p.acr_ratio}</td>
+                        <td class="p-4">${p.hrv_rmssd} ms</td>
+                        <td class="p-4">
+                            <button onclick="openPlayerDetail('${p.player_id}')" class="px-3 py-1.5 rounded-lg bg-white/5 hover:bg-white/20 text-xs transition-colors">Détails</button>
+                        </td>
+                    </tr>
+                `;
+            }).join('');
+            lucide.createIcons();
+        }
+
+        function updateRiskDistribution(dist) {
+            const card = document.getElementById('riskDistCard').querySelector('.space-y-4');
+            const total = dist.high + dist.medium + dist.low;
+            const getPct = (v) => Math.round((v / total) * 100);
+
+            card.innerHTML = `
+                <div class="flex items-center gap-4">
+                    <div class="w-12 h-12 rounded-full bg-red-500/20 flex items-center justify-center relative pulse-ring text-red-500">
+                        <span class="text-lg font-bold">${dist.high}</span>
+                    </div>
+                    <div class="flex-1">
+                        <div class="flex justify-between mb-1">
+                            <span class="text-sm font-medium text-red-400">Élevé</span>
+                            <span class="text-sm font-bold text-red-400">${getPct(dist.high)}%</span>
+                        </div>
+                        <div class="h-2 bg-white/10 rounded-full overflow-hidden"><div class="h-full bg-red-500" style="width: ${getPct(dist.high)}%"></div></div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div class="w-12 h-12 rounded-full bg-yellow-500/20 flex items-center justify-center text-yellow-500">
+                        <span class="text-lg font-bold">${dist.medium}</span>
+                    </div>
+                    <div class="flex-1">
+                        <div class="flex justify-between mb-1">
+                            <span class="text-sm font-medium text-yellow-400">Modéré</span>
+                            <span class="text-sm font-bold text-yellow-400">${getPct(dist.medium)}%</span>
+                        </div>
+                        <div class="h-2 bg-white/10 rounded-full overflow-hidden"><div class="h-full bg-yellow-500" style="width: ${getPct(dist.medium)}%"></div></div>
+                    </div>
+                </div>
+                <div class="flex items-center gap-4">
+                    <div class="w-12 h-12 rounded-full bg-green-500/20 flex items-center justify-center text-green-500">
+                        <span class="text-lg font-bold">${dist.low}</span>
+                    </div>
+                    <div class="flex-1">
+                        <div class="flex justify-between mb-1">
+                            <span class="text-sm font-medium text-green-400">Faible</span>
+                            <span class="text-sm font-bold text-green-400">${getPct(dist.low)}%</span>
+                        </div>
+                        <div class="h-2 bg-white/10 rounded-full overflow-hidden"><div class="h-full bg-green-500" style="width: ${getPct(dist.low)}%"></div></div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function updateAlerts(players) {
+            const highRisk = players.filter(p => p.injury_risk_level === 'ÉLEVÉ');
+            const alertBadge = document.getElementById('alertBadge');
+            const alertsList = document.getElementById('alertsList');
+
+            if (highRisk.length > 0) {
+                alertBadge.classList.remove('hidden');
+                alertsList.innerHTML = highRisk.map(p => `
+                    <div class="p-4 rounded-xl bg-red-500/10 border border-red-500/20">
+                        <p class="font-medium text-red-400">Risque Élevé</p>
+                        <p class="text-sm mt-1">${p.name} — ${p.recommendation_title || 'Analyse en cours...'}</p>
+                        <button onclick="openPlayerDetail('${p.player_id}')" class="mt-2 text-xs text-cyan-400 hover:underline">Voir le profil →</button>
+                    </div>
+                `).join('');
+            } else {
+                alertBadge.classList.add('hidden');
+                alertsList.innerHTML = '<p class="text-sm text-gray-500 text-center py-8">Aucune alerte critique</p>';
+            }
+        }
+
+        // ===== MODAL PLAYER =====
+        let playerChartInstance = null;
+
+        async function openPlayerDetail(playerId) {
+            const p = allPlayersData.find(x => x.player_id === playerId);
+            if (!p) return;
+
+            const modal = document.getElementById('playerModal');
+            modal.innerHTML = `
+                <div class="flex items-center justify-center w-full h-full">
+                    <div class="w-12 h-12 border-4 border-cyan-400 border-t-transparent rounded-full animate-spin"></div>
+                </div>
+            `;
+            modal.classList.add('active');
+
+            try {
+                const res = await fetch(`/api/player-history/${playerId}`);
+                const historyData = await res.json();
+                const history = historyData.history || [];
+
+                const riskColor = p.injury_risk_level === 'ÉLEVÉ' ? 'red-500' : p.injury_risk_level === 'MODÉRÉ' ? 'yellow-500' : 'green-500';
+
+                // Larger Bricks generation with dynamic height (Increased Scale)
+                const performanceBricks = Array(15).fill(null).map((_, i) => {
+                    const match = history[i];
+                    if (!match) return `<div class="brick brick-empty h-24 self-end opacity-20"></div>`;
+
+                    const colorClass = match.rating >= 7.5 ? 'brick-rating-high' : match.rating >= 6.5 ? 'brick-rating-med' : 'brick-rating-low';
+                    // Dynamic height based on rating (0-10) scaled to 100px for full-view compatibility
+                    const heightValue = Math.max((match.rating / 10) * 100, 10);
+
+                    return `
+                        <div class="brick ${colorClass} tooltip-trigger group cursor-help self-end rounded-lg" style="height: ${heightValue}px; min-width: 14px;">
+                            <div class="tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-4 p-4 glass-strong rounded-2xl text-[10px] w-40 text-left border border-white/10 shadow-2xl z-50">
+                                <p class="font-black text-cyan-400 mb-2 uppercase tracking-widest text-[8px]">${match.date}</p>
+                                <p class="text-white font-bold mb-2 text-xs">vs ${match.opponent}</p>
+                                <div class="flex justify-between items-center py-2 border-t border-white/5">
+                                    <span class="text-gray-400">Note Match</span>
+                                    <span class="text-sm font-black text-white">${match.rating}</span>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+
+                // Pre-calculate AI Analysis for the template
+                let aiTitle = p.recommendation_title || p.factor;
+                let aiDetails = p.recommendation_details;
+
+                // FORCE consistent analysis if risk is high but backend is silent or contradictory
+                if (!aiTitle || aiTitle === 'ANALYSE OPTIMALE' || aiTitle === 'DONNÉE MANQUANTE' || p.injury_risk_score > 60) {
+                    if (p.acr_ratio > 1.3) {
+                        aiTitle = "SURCHARGE ACR CRITIQUE";
+                        aiDetails = `Le ratio de charge aiguë/chronique est en zone rouge (${p.acr_ratio}). Le joueur subit une charge de travail brutale pour laquelle son corps n'est pas préparé. Risque élevé de lésion musculaire.`;
+                    } else if (p.fatigue_score > 65) {
+                        aiTitle = "ÉPUISEMENT NEUROMUSCULAIRE";
+                        aiDetails = `Le score de fatigue (${p.fatigue_score}%) indique un épuisement profond. Ses capacités de freinage et de changement de direction sont altérées, augmentant le risque de rupture des ligaments.`;
+                    } else if (p.acr_ratio < 0.8 && p.fatigue_score > 40) {
+                        aiTitle = "DÉCONDITIONNEMENT & FATIGUE";
+                        aiDetails = "Le joueur manque de rythme (sous-charge) tout en présentant des signes de fatigue. Cette combinaison est dangereuse car il n'a pas la base foncière pour encaisser les intensités de match.";
+                    } else if (p.hrv_rmssd < 50) {
+                        aiTitle = "DÉFAILLANCE DE RÉCUPÉRATION";
+                        aiDetails = `La variabilité cardiaque (HRV) est trop basse (${p.hrv_rmssd}ms). Le système nerveux est sous stress constant, ce qui ralentit la régénération tissulaire.`;
+                    } else if (p.injury_risk_score > 80) {
+                        // High Risk with low specific metrics
+                        aiTitle = "VULNÉRABILITÉ STRUCTURELLE";
+                        aiDetails = `Bien que sa fatigue soit modérée (${p.fatigue_score}%), l'IA détecte une fragilité critique. Cela est dû à une asymétrie de charge ou à un manque de préparation foncière face à l'intensité attendue. Risque de blessure sans contact élevé.`;
+                    } else if (p.injury_risk_level === 'ÉLEVÉ') {
+                        aiTitle = "VIGILANCE MÉDICALE REQUISE";
+                        aiDetails = "L'accumulation de charge sur les derniers cycles place le joueur dans une zone d'instabilité. Une gestion prudente du temps de jeu est nécessaire pour éviter une surcharge soudaine.";
+                    } else {
+                        aiTitle = "ÉTAT DE FORME OPTIMAL";
+                        aiDetails = "Tous les voyants sont au vert. L'équilibre entre la charge de travail et la récupération est parfaitement maîtrisé. Le joueur est prêt pour une performance maximale.";
+                    }
+                }
+
+                modal.innerHTML = `
+                    <div class="modal-content w-full max-w-[96vw] xl:max-w-7xl mx-auto my-2">
+                        <div class="glass-strong rounded-[3rem] overflow-hidden border border-white/10 shadow-[0_30px_60px_-15px_rgba(0,0,0,0.7)]">
+                            <!-- Header Section -->
+                            <div class="relative h-52 bg-gradient-to-br from-gray-900 via-[#0a1120] to-black p-10 flex items-center">
+                                <button onclick="closePlayerDetail()" class="absolute top-8 right-8 w-12 h-12 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-all z-50">
+                                    <i data-lucide="x" class="w-6 h-6"></i>
+                                </button>
+
+                                <div class="flex items-center gap-12 relative z-10 w-full">
+                                    <!-- Player Avatar & Status -->
+                                    <div class="relative shrink-0">
+                                        <div class="w-32 h-32 rounded-[2.5rem] bg-gradient-to-tr from-cyan-500 to-blue-600 p-1 shadow-[0_20px_50px_rgba(6,182,212,0.3)]">
+                                            <div class="w-full h-full rounded-[2.2rem] bg-[#0a1120] flex items-center justify-center overflow-hidden">
+                                                <span class="text-5xl font-black text-white/20">${p.name.split(' ').map(n => n[0]).join('')}</span>
+                                            </div>
+                                        </div>
+                                        <div class="absolute -bottom-2 -right-2 w-12 h-12 rounded-2xl bg-green-500 border-4 border-[#0a1120] flex items-center justify-center shadow-lg">
+                                            <i data-lucide="check" class="w-6 h-6 text-white"></i>
+                                        </div>
+                                    </div>
+
+                                    <div class="flex-1">
+                                        <div class="flex items-center gap-4 mb-3">
+                                            <span class="px-4 py-1.5 rounded-xl bg-${riskColor}/10 border border-${riskColor}/20 text-${riskColor} text-[10px] font-black tracking-[0.2em] uppercase">RISQUE ${p.injury_risk_level}</span>
+                                            <div class="w-1.5 h-1.5 rounded-full bg-white/20"></div>
+                                            <span class="text-cyan-400 text-[10px] font-black tracking-[0.3em] uppercase">${p.team}</span>
+                                        </div>
+                                        
+                                        <h2 class="text-6xl font-display font-black tracking-tighter text-white mb-4 leading-tight">${p.name}</h2>
+                                        
+                                        <div class="flex items-center gap-8">
+                                            <div class="flex items-center gap-3 px-4 py-2 rounded-2xl bg-white/5 border border-white/5">
+                                                <i data-lucide="user" class="w-4 h-4 text-gray-500"></i>
+                                                <span class="text-xs font-bold text-gray-300 uppercase tracking-widest">${p.position}</span>
+                                            </div>
+                                            <div class="flex items-center gap-3 px-4 py-2 rounded-2xl bg-white/5 border border-white/5">
+                                                <i data-lucide="calendar" class="w-4 h-4 text-gray-500"></i>
+                                                <span class="text-xs font-bold text-gray-300 uppercase tracking-widest">${p.age} ANS</span>
+                                            </div>
+                                            <div class="flex items-center gap-3">
+                                                <div class="w-2 h-2 rounded-full bg-cyan-500 animate-pulse"></div>
+                                                <span class="text-[10px] font-black text-cyan-400/80 uppercase tracking-[0.2em]">Live Tracking Active</span>
+                                                               <!-- Overall Risk Score & Action -->
+                                    <div class="hidden xl:flex items-center gap-10 pr-20 relative">
+                                        <button class="px-7 py-3.5 rounded-xl bg-white/5 border border-white/10 text-white font-black uppercase tracking-widest text-[9px] hover:bg-white hover:text-black transition-all flex items-center gap-3 shadow-2xl group active:scale-95">
+                                            <i data-lucide="file-down" class="w-4 h-4 group-hover:scale-110 transition-transform"></i>
+                                            Générer Rapport
+                                        </button>
+                                        
+                                        <div class="w-px h-10 bg-white/10"></div>
+ 
+                                        <div class="text-right">
+                                            <p class="text-[9px] font-black uppercase tracking-[0.3em] text-gray-500 mb-1">Indice de Risque</p>
+                                            <div class="flex items-baseline gap-1">
+                                                <span class="text-5xl font-black text-white tracking-tighter">${p.injury_risk_score}</span>
+                                                <span class="text-xl font-black text-cyan-500">%</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- Adjusted Close Button Position (Visual only, usually handled by modal container) -->
+                                    </div>
+                                </div>
+                            </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Main Body Content -->
+                            <div class="p-6 grid grid-cols-1 lg:grid-cols-12 gap-6 bg-[#050505]">
+                                <!-- Central Data Hub (Charts) -->
+                                <div class="lg:col-span-9 space-y-6">
+                                    
+                                    <!-- AI Recommendation Card -->
+                                    <div class="glass-strong rounded-[2.5rem] p-7 border border-${riskColor}/20 bg-gradient-to-br from-${riskColor}/5 to-transparent relative overflow-hidden">
+                                        <div class="absolute -right-4 -top-4 w-24 h-24 bg-${riskColor}/10 blur-3xl"></div>
+                                        <div class="flex items-start gap-5 relative z-10">
+                                            <div class="w-12 h-12 rounded-2xl bg-${riskColor}/20 flex items-center justify-center text-${riskColor} shrink-0">
+                                                <i data-lucide="${p.injury_risk_level === 'ÉLEVÉ' ? 'alert-triangle' : 'check-circle'}" class="w-6 h-6"></i>
+                                            </div>
+                                            <div class="flex-1">
+                                                <h3 class="font-display font-black text-xs uppercase tracking-[0.2em] text-${riskColor} mb-2">Analyse IA : ${aiTitle}</h3>
+                                                <p class="text-sm text-gray-200 leading-relaxed font-medium">
+                                                    ${aiDetails}
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Performance Analytics Section -->
+                                    <div class="glass-strong rounded-[2.5rem] p-7 border border-white/5 relative overflow-hidden min-h-[220px] flex flex-col justify-between group shrink-0">
+                                        <div class="absolute top-0 right-0 p-8 opacity-5">
+                                            <i data-lucide="trending-up" class="w-32 h-32"></i>
+                                        </div>
+                                        <div class="flex items-center justify-between mb-4 relative z-10">
+                                            <h3 class="font-display font-black text-[10px] uppercase tracking-[0.3em] text-cyan-500/70">Analyse de Performance Historique</h3>
+                                            <div class="flex gap-2">
+                                                <div class="flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-black/40 border border-white/5">
+                                                    <span class="w-1.5 h-1.5 rounded-full bg-green-500"></span>
+                                                    <span class="text-[8px] font-bold text-gray-400">TOP</span>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="flex items-end justify-between gap-1.5 h-32 mb-4 relative z-10">
+                                            ${performanceBricks}
+                                        </div>
+                                        <div class="flex justify-between text-[8px] font-black text-gray-600 uppercase tracking-widest px-1">
+                                            <span>Dernière séance (N-15)</span>
+                                            <span class="text-cyan-500/50">Match Aujourd'hui</span>
+                                        </div>
+                                    </div>
+
+                                    <!-- Effort Dynamics Section -->
+                                    <div class="glass-strong rounded-[2.5rem] p-7 border border-white/5 group">
+                                        <div class="flex items-center justify-between mb-6">
+                                            <h3 class="font-display font-black text-[10px] uppercase tracking-[0.3em] text-cyan-500/70">Dynamique d'Effort & Intensité</h3>
+                                            <div class="px-3 py-1.5 rounded-xl bg-white/5 border border-white/10 flex items-center gap-3">
+                                                <span class="text-[9px] text-gray-500 uppercase tracking-widest">Écart Moyenne</span>
+                                                <span class="text-sm font-black text-white">+2.4%</span>
+                                            </div>
+                                        </div>
+                                        <div class="h-40 relative">
+                                            <canvas id="playerEffortChart"></canvas>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Right Sidebar (Physical Identity) -->
+                                <div class="lg:col-span-3 mt-10">
+                                    <div class="glass-strong rounded-[2.5rem] p-7 border border-white/5 flex flex-col">
+                                        <h3 class="font-display font-black text-[10px] uppercase tracking-[0.3em] text-gray-500 mb-8 flex items-center gap-2">
+                                            <i data-lucide="user" class="w-3 h-3 text-cyan-400"></i> Profil Physique Élite
+                                        </h3>
+                                        
+                                        <div class="space-y-4">
+                                            <!-- Stats Cards -->
+                                            <div class="p-5 rounded-[2rem] bg-white/5 border border-white/5 flex items-center justify-between group hover:bg-white/10 transition-colors">
+                                                <div class="flex items-center gap-4">
+                                                    <div class="w-10 h-10 rounded-xl bg-cyan-500/10 flex items-center justify-center">
+                                                        <i data-lucide="wind" class="w-5 h-5 text-cyan-400"></i>
+                                                    </div>
+                                                    <div>
+                                                        <p class="text-[9px] text-gray-500 uppercase font-black">Vitesse Max</p>
+                                                        <p class="text-xl font-black text-white">34.8 <span class="text-[10px] font-medium text-gray-500">km/h</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="p-5 rounded-[2rem] bg-white/5 border border-white/5 flex items-center justify-between group hover:bg-white/10 transition-colors">
+                                                <div class="flex items-center gap-4">
+                                                    <div class="w-10 h-10 rounded-xl bg-cyan-500/10 flex items-center justify-center">
+                                                        <i data-lucide="map-pin" class="w-5 h-5 text-cyan-400"></i>
+                                                    </div>
+                                                    <div>
+                                                        <p class="text-[9px] text-gray-500 uppercase font-black">Distance / Match</p>
+                                                        <p class="text-xl font-black text-white">10.2 <span class="text-[10px] font-medium text-gray-500">km</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="p-5 rounded-[2rem] bg-white/5 border border-white/5 flex items-center justify-between group hover:bg-white/10 transition-colors">
+                                                <div class="flex items-center gap-4">
+                                                    <div class="w-10 h-10 rounded-xl bg-cyan-500/10 flex items-center justify-center">
+                                                        <i data-lucide="flame" class="w-5 h-5 text-cyan-400"></i>
+                                                    </div>
+                                                    <div>
+                                                        <p class="text-[9px] text-gray-500 uppercase font-black">Intensité Sprint</p>
+                                                        <p class="text-xl font-black text-white">18 <span class="text-[10px] font-medium text-gray-500">avg</span></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="pt-6">
+                                                <p class="text-[10px] font-black uppercase tracking-[0.2em] text-red-500 mb-5 flex items-center gap-2">
+                                                    <i data-lucide="alert-circle" class="w-3.5 h-3.5"></i> Zones de Vigilance
+                                                </p>
+                                                <div class="space-y-3">
+                                                    <div class="flex items-center gap-4 p-4 rounded-[1.5rem] bg-red-500/5 border border-red-500/10 backdrop-blur-sm">
+                                                        <div class="w-2 h-2 rounded-full bg-red-500 shadow-[0_0_15px_rgba(239,68,68,0.5)]"></div>
+                                                        <span class="text-[11px] font-black text-gray-200 tracking-tight">Ischio-jambier Droit</span>
+                                                    </div>
+                                                    <div class="flex items-center gap-4 p-4 rounded-[1.5rem] bg-yellow-500/5 border border-yellow-500/10 backdrop-blur-sm">
+                                                        <div class="w-2 h-2 rounded-full bg-yellow-500 shadow-[0_0_15px_rgba(234,179,8,0.5)]"></div>
+                                                        <span class="text-[11px] font-black text-gray-200 tracking-tight">Fatigue Adducteurs</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Physiological Hub - FULL WIDTH BOTTOM -->
+                                <div class="lg:col-span-12 grid grid-cols-1 md:grid-cols-2 gap-6 mt-12">
+                                    <div class="glass-strong rounded-[2.5rem] p-8 border border-white/5 bg-gradient-to-br from-white/5 to-transparent flex flex-col justify-between">
+                                        <h3 class="font-display font-black text-[10px] uppercase tracking-[0.3em] text-gray-500 mb-8 flex items-center gap-2">
+                                            <i data-lucide="zap" class="w-3.5 h-3.5 text-cyan-400"></i> Charge & Surcharge
+                                        </h3>
+                                        <div class="grid grid-cols-2 gap-6 items-center">
+                                            <div class="p-6 rounded-[2rem] bg-black/40 border border-white/5 hover:border-cyan-500/30 transition-all group">
+                                                <p class="text-[10px] text-gray-500 uppercase tracking-widest mb-3 font-black group-hover:text-cyan-400 transition-colors">Ratio Surcharge</p>
+                                                <p class="text-4xl font-black ${p.acr_ratio > 1.3 ? 'text-red-400' : 'text-green-400'}">${p.acr_ratio}</p>
+                                            </div>
+                                            <div class="p-6 rounded-[2rem] bg-black/40 border border-white/5 hover:border-cyan-500/30 transition-all group">
+                                                <p class="text-[10px] text-gray-500 uppercase tracking-widest mb-3 font-black group-hover:text-cyan-400 transition-colors">Énergie Corp.</p>
+                                                <p class="text-4xl font-black text-cyan-400">${p.fatigue_score}%</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="glass-strong rounded-[2.5rem] p-8 border border-white/5 bg-gradient-to-br from-white/5 to-transparent flex flex-col justify-between">
+                                        <h3 class="font-display font-black text-[10px] uppercase tracking-[0.3em] text-gray-500 mb-8 flex items-center gap-2">
+                                            <i data-lucide="refresh-cw" class="w-3.5 h-3.5 text-purple-400"></i> Récupération Systémique
+                                        </h3>
+                                        <div class="grid grid-cols-2 gap-6 items-center">
+                                            <div class="p-6 rounded-[2rem] bg-black/40 border border-white/5 hover:border-purple-500/30 transition-all group">
+                                                <p class="text-[10px] text-gray-500 uppercase tracking-widest mb-3 font-black group-hover:text-purple-400 transition-colors">Indice HRV</p>
+                                                <p class="text-4xl font-black text-purple-400">${p.hrv_rmssd}</p>
+                                            </div>
+                                            <div class="p-6 rounded-[2rem] bg-black/40 border border-white/5 hover:border-green-500/30 transition-all group">
+                                                <p class="text-[10px] text-gray-500 uppercase tracking-widest mb-3 font-black group-hover:text-green-400 transition-colors">Disponibilité</p>
+                                                <p class="text-xl font-black text-green-400 uppercase tracking-tight">TOTAL PRÊT</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                lucide.createIcons();
+
+                // Initialize Diagram (Chart.js)
+                const ctx = document.getElementById('playerEffortChart').getContext('2d');
+                if (playerChartInstance) playerChartInstance.destroy();
+
+                const chartLabels = history.map(h => h.date);
+                const chartFatigue = history.map(h => h.fatigue);
+                const chartTeamAvg = history.map(h => h.team_avg);
+
+                playerChartInstance = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: chartLabels,
+                        datasets: [
+                            {
+                                label: 'Intensité Joueur (%)',
+                                data: chartFatigue,
+                                borderColor: '#00d4ff',
+                                backgroundColor: 'rgba(0, 212, 255, 0.1)',
+                                borderWidth: 4,
+                                tension: 0.4,
+                                fill: true,
+                                pointRadius: 4,
+                                pointBackgroundColor: '#00d4ff'
+                            },
+                            {
+                                label: 'Moyenne Équipe (%)',
+                                data: chartTeamAvg,
+                                borderColor: 'rgba(255,255,255,0.2)',
+                                borderWidth: 2,
+                                borderDash: [5, 5],
+                                tension: 0.4,
+                                pointRadius: 0
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: { legend: { display: false } },
+                        scales: {
+                            y: {
+                                display: false,
+                                max: 120,
+                                min: 0
+                            },
+                            x: {
+                                grid: { display: false },
+                                ticks: { color: '#444', font: { size: 9 } }
+                            }
+                        }
+                    }
+                });
+
+            } catch (err) {
+                console.error("Error fetching player history:", err);
+                closePlayerDetail();
+                showToast("Erreur", "Impossible de charger les détails du joueur.");
+            }
+        }
+
+        function closePlayerDetail() {
+            document.getElementById('playerModal').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        // ===== SEARCH LOGIC =====
+        function toggleSearch() {
+            const modal = document.getElementById('searchModal');
+            modal.classList.toggle('active');
+            if (modal.classList.contains('active')) {
+                setTimeout(() => document.getElementById('searchInput').focus(), 100);
+            }
+        }
+
+        function handleSearch(query) {
+            const resultsContainer = document.getElementById('searchItems');
+            if (!query || query.length < 2) {
+                resultsContainer.innerHTML = '';
+                return;
+            }
+
+            const filtered = allPlayersData.filter(p =>
+                p.name.toLowerCase().includes(query.toLowerCase()) ||
+                p.position.toLowerCase().includes(query.toLowerCase())
+            ).slice(0, 5);
+
+            if (filtered.length === 0) {
+                resultsContainer.innerHTML = '<p class="text-sm text-gray-500 p-4">Aucun joueur trouvé.</p>';
+                return;
+            }
+
+            resultsContainer.innerHTML = filtered.map(p => `
+                <button onclick="selectSearchResult('${p.player_id}')" class="w-full flex items-center gap-3 p-3 rounded-xl hover:bg-white/5 transition-colors text-left group border border-transparent hover:border-white/10">
+                    <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-cyan-500 to-blue-500 flex items-center justify-center text-xs font-bold">
+                        ${p.name.split(' ').map(n => n[0]).join('')}
+                    </div>
+                    <div class="flex-1">
+                        <p class="font-medium group-hover:text-cyan-400 transition-colors">${p.name}</p>
+                        <p class="text-[10px] text-gray-500 uppercase tracking-widest">${p.position} • ${p.team}</p>
+                    </div>
+                    <div class="text-right">
+                        <p class="text-xs font-bold ${p.injury_risk_level === 'ÉLEVÉ' ? 'text-red-400' : 'text-green-400'}">${p.injury_risk_score}%</p>
+                        <p class="text-[8px] text-gray-500 uppercase">Risque</p>
+                    </div>
+                </button>
+            `).join('');
+        }
+
+        function selectSearchResult(playerId) {
+            toggleSearch();
+            openPlayerDetail(playerId);
+        }
+
+        // Escape key to close modals
+        window.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closePlayerDetail();
+                document.getElementById('searchModal').classList.remove('active');
+                document.getElementById('alertsPanel').classList.add('translate-x-[120%]');
+            }
+        });
+
+        function showToast(title, message) {
+            const toast = document.getElementById('toast');
+            document.getElementById('toastTitle').textContent = title;
+            document.getElementById('toastMessage').textContent = message;
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 3000);
+        }
+
+        function scrollToSection(id) {
+            document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function filterRisk(risk) {
+            // Update UI buttons
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('bg-cyan-500', 'text-white');
+                btn.classList.add('bg-white/5', 'text-gray-400');
+            });
+            const activeBtn = document.getElementById(`filter-${risk === 'all' ? 'all' : risk === 'high' ? 'high' : 'modere'}`);
+            if (activeBtn) {
+                activeBtn.classList.remove('bg-white/5', 'text-gray-400');
+                activeBtn.classList.add('bg-cyan-500', 'text-white');
+            }
+
+            const rows = document.querySelectorAll('.player-row');
+            rows.forEach(row => {
+                const rowRisk = row.dataset.risk.toLowerCase();
+                let match = false;
+
+                if (risk === 'all') match = true;
+                else if (risk === 'high' && (rowRisk.includes('élevé') || rowRisk.includes('high'))) match = true;
+                else if (risk === 'modéré' && (rowRisk.includes('modéré') || rowRisk.includes('medium'))) match = true;
+
+                row.style.display = match ? '' : 'none';
+            });
+        }
+
+        window.onload = loadData;
+    </script>
+</body>
+
+</html>
