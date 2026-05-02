@@ -25,4 +25,4 @@ env/
 *.log
 
 # Sous-dépôts Git (opendata a son propre .git)
-opendata/
+
