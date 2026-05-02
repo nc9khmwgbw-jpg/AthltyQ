@@ -57,21 +57,21 @@ def get_data():
     PROCESSED_PATH = ROOT / "data" / "processed" / "features_dataset.csv"
     RAW_PATH = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
     
-    print(f"Backend: Tentative de chargement des données...")
+    print(f"Dashboard: Tentative de chargement des données...")
     
     if PROCESSED_PATH.exists():
-        print(f"Backend: Chargement des features pré-traitées ({PROCESSED_PATH})")
+        print(f"Dashboard: Chargement des features pré-traitées ({PROCESSED_PATH})")
         df_features = pd.read_csv(PROCESSED_PATH, low_memory=False)
         df_features['Match_Date'] = pd.to_datetime(df_features['Match_Date'], errors='coerce')
         results = predictor.predict(df_features)
     elif RAW_PATH.exists():
-        print(f"Backend: Fichier pré-traité absent. Lancement du Feature Engineering sur {RAW_PATH}")
+        print(f"Dashboard: Fichier pré-traité absent. Lancement du Feature Engineering sur {RAW_PATH}")
         df = pd.read_csv(RAW_PATH, low_memory=False)
         df['Match_Date'] = pd.to_datetime(df['Match_Date'], errors='coerce')
         df_features = run_feature_engineering(df)
         results = predictor.predict(df_features)
     else:
-        print(f"Backend: ERREUR - Aucun fichier de données trouvé !")
+        print(f"Dashboard: ERREUR - Aucun fichier de données trouvé !")
         return None, None
     
     # Cache it
@@ -79,7 +79,7 @@ def get_data():
     CACHE["features"] = df_features
     CACHE["last_update"] = now
     
-    print(f"Backend: Données chargées avec succès. {len(results)} joueurs identifiés.")
+    print(f"Dashboard: Données chargées avec succès. {len(results)} joueurs identifiés.")
     return results, df_features
 
 # Serve static files from the current directory
@@ -223,7 +223,7 @@ def get_player_data():
         players_list.append(player)
     
     if players_list:
-        print(f"Backend: Premier joueur généré: {players_list[0]['name']} | Ligue: {players_list[0]['league']} | Equipe: {players_list[0]['team']}")
+        print(f"Dashboard: Premier joueur généré: {players_list[0]['name']} | Ligue: {players_list[0]['league']} | Equipe: {players_list[0]['team']}")
 
     return {"version": "1.3", "players": players_list}
 
