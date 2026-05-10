@@ -13,8 +13,9 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
-    <!-- jsPDF standalone (sans html2canvas, 100% fiable) -->
+    <!-- Exportation PDF (jsPDF + html2canvas) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <!-- Three.js r128 + postprocessing -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <link
@@ -43,6 +44,235 @@
             --purple: #8b5cf6;
             --border: rgba(255, 255, 255, 0.1);
             --border-hi: rgba(255, 255, 255, 0.2);
+            --yellow-athletic: #eab308;
+        }
+
+        /* ─── NOUVEAU STYLE CARTES SIMILARITÉ (THEME SCOUTING PREMIUM) ─── */
+        #similarityResults {
+            display: block !important;
+            width: 100% !important;
+            clear: both;
+        }
+
+        .similarity-card-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* Force 3 colonnes */
+            gap: 2rem;
+            width: 100% !important;
+            margin-top: 2rem;
+        }
+
+        /* Ajustement pour les tablettes et mobiles */
+        @media (max-width: 1200px) {
+            .similarity-card-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        @media (max-width: 768px) {
+            .similarity-card-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card-scout-premium {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(15px);
+            border-radius: 24px;
+            padding: 24px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            transition: all 0.6s cubic-bezier(0.19, 1, 0.22, 1);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+        }
+
+        .card-scout-premium:hover {
+            transform: translateY(-12px);
+            background: rgba(255, 255, 255, 0.05);
+            border-color: var(--yellow-athletic);
+            box-shadow: 0 30px 60px -12px rgba(234, 179, 8, 0.15);
+        }
+
+        .scout-rank-bg {
+            font-family: 'Outfit', sans-serif;
+            font-size: 140px;
+            font-weight: 900;
+            line-height: 1;
+            position: absolute;
+            bottom: -20px;
+            right: -10px;
+            opacity: 0.1;
+            color: white;
+            pointer-events: none;
+            font-style: italic;
+        }
+
+        .versatility-tag {
+            background: rgba(234, 179, 8, 0.1);
+            border: 1px solid rgba(234, 179, 8, 0.2);
+            padding: 4px 10px;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 10px;
+            font-weight: 800;
+            color: var(--yellow-athletic);
+            text-transform: uppercase;
+        }
+
+        .ai-synthesis-box {
+            background: rgba(255, 255, 255, 0.03);
+            border-left: 4px solid var(--yellow-athletic);
+            padding: 20px;
+            border-radius: 0 16px 16px 0;
+            margin: 16px 0;
+        }
+
+        .scout-stat-pill {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 12px;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+        }
+
+        /* --- HEATMAP TACTIQUE --- */
+        .pitch-container {
+            width: 100%;
+            aspect-ratio: 2/3;
+            background: #111;
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            position: relative;
+            overflow: hidden;
+        }
+        .pitch-line {
+            position: absolute;
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        .pitch-center-circle {
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            width: 30%; height: 20%;
+            border: 1px solid rgba(255,255,255,0.05);
+            border-radius: 50%;
+        }
+        .pitch-area {
+            position: absolute;
+            width: 50%; height: 15%;
+            border: 1px solid rgba(255,255,255,0.05);
+            left: 25%;
+        }
+        .heatmap-glow {
+            position: absolute;
+            width: 40px; height: 40px;
+            background: radial-gradient(circle, rgba(234, 179, 8, 0.6) 0%, rgba(234, 179, 8, 0) 70%);
+            filter: blur(8px);
+            border-radius: 50%;
+            animation: pulse-glow 2s infinite ease-in-out;
+        }
+        @keyframes pulse-glow {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.5); opacity: 0.8; }
+        }
+
+        .card-scout-premium:hover .scout-stat-pill {
+            background: rgba(255, 255, 255, 0.04);
+            border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .versatility-bar-container {
+            margin-top: 10px;
+        }
+
+        .versatility-label {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 10px;
+            color: #64748b;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+
+        .alpha-slider-wrap {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        input[type=range].athletic-slider {
+            -webkit-appearance: none;
+            width: 100%;
+            background: transparent;
+        }
+
+        input[type=range].athletic-slider::-webkit-slider-runnable-track {
+            width: 100%;
+            height: 4px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 2px;
+        }
+
+        input[type=range].athletic-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            height: 20px;
+            width: 20px;
+            border-radius: 50%;
+            background: var(--yellow-athletic);
+            cursor: pointer;
+            margin-top: -8px;
+            box-shadow: 0 0 15px var(--yellow-athletic);
+        }
+
+        /* ─── MODAUX SCOUTING (DARK THEME) ─── */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.9);
+            backdrop-filter: blur(20px);
+            z-index: 9999;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+
+        .modal-overlay.active {
+            display: flex;
+            opacity: 1;
+        }
+
+        .modal-elite-content {
+            background: #0a0e14;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 28px;
+            box-shadow: 0 50px 100px rgba(0, 0, 0, 0.9), 0 0 0 1px rgba(234, 179, 8, 0.1);
+            transform: scale(0.95);
+            transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+            max-width: 1100px;
+            width: 95%;
+            height: 85vh;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .modal-overlay.active .modal-elite-content {
+            transform: scale(1);
+        }
+
+        .explanation-box {
+            background: rgba(234, 179, 8, 0.05);
+            border-left: 3px solid var(--yellow-athletic);
+            padding: 12px 16px;
+            margin-top: 20px;
+            border-radius: 0 8px 8px 0;
         }
 
         *,
@@ -3827,7 +4057,8 @@
         .card-sandwich-bg {
             position: absolute;
             inset: -20px;
-            z-index: 5; /* Middle layer */
+            z-index: 5;
+            /* Middle layer */
             opacity: 0.4;
             transition: all 1.2s ease;
             transform: scale(0.9);
@@ -6469,7 +6700,6 @@
         </header>
 
         <div class="dashboard-container px-8">
-            <!-- BARRE DE FILTRES PREMIUM (Toujours visible) -->
             <section class="elite-filter-bar mt-4 mb-8">
                 <div class="filter-header flex justify-between items-center w-full">
                     <h3 class="filter-title">DATA PARAMETERS</h3>
@@ -6520,6 +6750,70 @@
                         <i data-lucide="zap" class="w-5 h-5"></i>
                         <span>ANALYZE</span>
                     </button>
+                </div>
+            </section>
+
+            <!-- MOTEUR DE SIMILARITÉ (DÉPLACÉ ICI POUR VISIBILITÉ PERMANENTE) -->
+            <section id="similaritySection" class="mb-20 px-4 md:px-0">
+                <div
+                    class="flex flex-col xl:flex-row xl:items-end justify-between gap-8 mb-10 border-b border-white/10 pb-10">
+                    <div class="flex-1">
+                        <h2 class="font-outfit font-black text-4xl text-white uppercase tracking-tighter italic">Moteur
+                            de Similarité <span class="text-yellow-500">Hybride</span></h2>
+                        <p class="font-mono text-[10px] text-slate-500 tracking-[0.3em] uppercase mt-1">Analyse
+                            multi-poste & projection à +18 mois</p>
+
+                        <div class="flex items-center gap-3 mt-8">
+                            <div class="relative flex-1 max-w-md">
+                                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                                    <i data-lucide="search" class="w-4 h-4 text-yellow-500/50"></i>
+                                </div>
+                                <input type="text" id="similaritySearchInput"
+                                    placeholder="ENTREZ LE NOM D'UN JOUEUR CIBLE..."
+                                    class="w-full bg-white/5 border border-white/10 rounded-lg py-4 pl-12 pr-4 text-white font-outfit font-bold focus:border-yellow-500 focus:bg-white/[0.08] transition-all outline-none tracking-wide text-sm">
+
+                                <div id="similaritySuggestions"
+                                    class="absolute left-0 right-0 mt-2 bg-[#0d1117] border border-white/10 rounded-lg shadow-2xl z-[100] hidden max-h-60 overflow-y-auto custom-scroll">
+                                </div>
+                            </div>
+
+                            <button
+                                onclick="window.startSimilaritySearch(document.getElementById('similaritySearchInput').value)"
+                                class="elite-btn-primary h-[54px] px-8 flex items-center gap-3">
+                                <i data-lucide="brain-circuit" class="w-5 h-5"></i>
+                                <span class="font-outfit font-black text-xs uppercase tracking-widest">GÉNÉRER
+                                    ANALYSE</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="w-full xl:w-80">
+                            <div class="flex flex-col gap-4">
+                                <div class="flex items-center justify-between px-1">
+                                    <span class="font-mono text-[9px] text-white/30 uppercase tracking-[0.2em]">Sélecteur Stratégique</span>
+                                    <span id="alphaValueDisplay" class="font-mono text-[9px] text-yellow-500/50 uppercase tracking-widest font-black">Mode: Équilibré</span>
+                                </div>
+                                <div class="flex p-1 bg-white/5 border border-white/10 rounded-xl gap-1">
+                                    <button onclick="setAlphaMode(0.2, 'Potentiel')" 
+                                        class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all text-white/40 hover:text-white"
+                                        id="btn-alpha-0.2">Potentiel</button>
+                                    <button onclick="setAlphaMode(0.5, 'Équilibré')" 
+                                        class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all bg-yellow-500 text-black shadow-[0_0_15px_rgba(234,179,8,0.3)]"
+                                        id="btn-alpha-0.5">Équilibré</button>
+                                    <button onclick="setAlphaMode(0.8, 'Performance')" 
+                                        class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all text-white/40 hover:text-white"
+                                        id="btn-alpha-0.8">Performance</button>
+                                </div>
+                                <input type="hidden" id="alphaSlider" value="0.5">
+                            </div>
+                    </div>
+                </div>
+
+                <div id="similarityResults" class="similarity-card-grid">
+                    <div
+                        class="col-span-full p-20 text-center opacity-20 font-mono text-[10px] tracking-[0.4em] uppercase border-2 border-dashed border-white/5 rounded-xl">
+                        ENTREZ UN NOM POUR LANCER L'ANALYSE PRÉDICTIVE
+                    </div>
                 </div>
             </section>
 
@@ -6718,6 +7012,7 @@
 
                 </section>
 
+                </section>
 
                 <!-- PLAYERS TABLE -->
                 <!-- PLAYERS GRID (Remplace l'ancien tableau) -->
@@ -6914,13 +7209,13 @@
                 toast.style.color = '#0f172a';
             }
 
-            // Animation d'entrée
-            toast.style.transform = 'translate(-50%, 0)';
+            // Animation d'entrée corrigée
+            toast.style.transform = 'translateX(0)';
             toast.style.opacity = '1';
 
             setTimeout(() => {
                 toast.style.opacity = '0';
-                toast.style.transform = 'translate(-50%, 20px)';
+                toast.style.transform = 'translateX(120%)';
                 setTimeout(() => { toast.style.display = 'none'; }, 500);
             }, 3000);
         }
@@ -7384,6 +7679,9 @@
 
             <!-- COL 7: Action Button -->
             <div class="flex-none flex items-center justify-end shrink-0 ml-2">
+                <button onclick="event.stopPropagation(); startSimilaritySearch('${p.name}')" class="flex items-center justify-center w-8 h-8 rounded-full border border-white/10 bg-transparent text-slate-400 hover:bg-sky-500 hover:border-sky-500 hover:text-white transition-all mr-2" title="Trouver Similarités">
+                    <i data-lucide="copy" class="w-4 h-4"></i>
+                </button>
                 <button class="flex items-center justify-center w-8 h-8 rounded-full border border-white/10 bg-transparent text-slate-400 group-hover:bg-yellow-500 group-hover:border-yellow-500 group-hover:text-black transition-all">
                     <i data-lucide="arrow-right" class="w-4 h-4"></i>
                 </button>
@@ -9648,8 +9946,6 @@
 
         window.resetFilters = function () {
             const nameInput = document.getElementById('nameFilter');
-            if (nameInput) nameInput.value = '';
-
             const selects = ['leagueFilter', 'teamFilter', 'positionFilter'];
             selects.forEach(id => {
                 const el = document.getElementById(id);
@@ -9677,7 +9973,7 @@
         document.addEventListener('DOMContentLoaded', () => {
             window.setupCustomSelects();
 
-            // Lancer l'analyse avec la touche Entrée (Global delegation pour plus de fiabilité)
+            // Lancer l'analyse avec la touche Entrée
             document.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter') {
                     const isFilterElement = e.target.id === 'nameFilter' ||
@@ -9693,7 +9989,7 @@
                 }
             });
 
-            // Lancer l'analyse automatiquement quand on change un dropdown
+            // Lancer l'analyse automatiquement
             const selectIds = ['leagueFilter', 'teamFilter', 'positionFilter'];
             selectIds.forEach(id => {
                 const el = document.getElementById(id);
@@ -9704,7 +10000,7 @@
                 }
             });
 
-            // ── AUTOCOMPLETE SEARCH LOGIC ──
+            const nameInput = document.getElementById('nameFilter');
             const suggestionsBox = document.getElementById('autocomplete-suggestions');
 
             if (nameInput && suggestionsBox) {
@@ -9715,47 +10011,15 @@
                         return;
                     }
 
-                    // Alias pour améliorer la recherche (ex: "FC" trouve "Barcelona")
-                    const aliases = {
-                        'barcelona': 'fc barcelona',
-                        'bayern': 'fc bayern munich',
-                        'real madrid': 'real madrid cf',
-                        'chelsea': 'chelsea fc',
-                        'liverpool': 'liverpool fc',
-                        'arsenal': 'arsenal fc',
-                        'juventus': 'juventus fc',
-                        'psg': 'paris saint germain fc',
-                        'paris': 'paris saint germain fc',
-                        'manchester city': 'manchester city fc',
-                        'manchester united': 'manchester united fc'
-                    };
-
-                    const getSearchString = (str) => {
-                        if (!str) return "";
-                        let s = str.toLowerCase();
-                        for (const [key, val] of Object.entries(aliases)) {
-                            if (s.includes(key)) return s + " " + val;
-                        }
-                        return s;
-                    };
-
                     const queryTerms = query.split(' ').filter(t => t.length > 0);
-
                     const isMatch = (str) => {
                         if (!str) return false;
-                        const s = getSearchString(str);
-                        if (s.includes(query) || query.includes(str.toLowerCase())) return true;
+                        const s = str.toLowerCase();
                         return queryTerms.every(term => s.includes(term));
                     };
 
-                    // 1. Équipes uniques qui correspondent à la recherche
-                    const teams = [...new Set(allPlayersData.map(p => p.team))]
-                        .filter(t => isMatch(t));
-
-                    // 2. Joueurs qui correspondent à la recherche (par nom ou par équipe)
-                    const players = allPlayersData.filter(p => {
-                        return isMatch(p.name) || isMatch(p.team);
-                    });
+                    const teams = [...new Set(allPlayersData.map(p => p.team))].filter(t => isMatch(t));
+                    const players = allPlayersData.filter(p => isMatch(p.name) || isMatch(p.team));
 
                     if (teams.length === 0 && players.length === 0) {
                         suggestionsBox.classList.add('hidden');
@@ -9763,12 +10027,9 @@
                     }
 
                     let html = '';
-
-                    // Section Équipes (Max 3)
                     teams.slice(0, 3).forEach(team => {
-                        const safeTeam = team.replace(/'/g, "\\'");
                         html += `
-                            <div class="px-4 py-3 hover:bg-white/10 cursor-pointer border-b border-white/5 transition-colors flex items-center gap-3" onclick="selectSuggestion('${safeTeam}')">
+                            <div class="px-4 py-3 hover:bg-white/10 cursor-pointer border-b border-white/5 transition-colors flex items-center gap-3" onclick="selectSuggestion('${team.replace(/'/g, "\\'")}')">
                                 <div class="w-6 h-6 rounded-full bg-white/10 flex items-center justify-center shrink-0">
                                     <i data-lucide="shield" class="w-3 h-3 text-white/70"></i>
                                 </div>
@@ -9778,11 +10039,9 @@
                         `;
                     });
 
-                    // Section Joueurs (Max 5)
                     players.slice(0, 5).forEach(player => {
-                        const safeName = player.name.replace(/'/g, "\\'");
                         html += `
-                            <div class="px-4 py-3 hover:bg-white/10 cursor-pointer border-b border-white/5 transition-colors flex flex-col gap-1" onclick="selectSuggestion('${safeName}')">
+                            <div class="px-4 py-3 hover:bg-white/10 cursor-pointer border-b border-white/5 transition-colors flex flex-col gap-1" onclick="selectSuggestion('${player.name.replace(/'/g, "\\'")}')">
                                 <div class="flex items-center gap-3">
                                     <div class="w-6 h-6 rounded-full bg-yellow-500/10 flex items-center justify-center shrink-0">
                                         <i data-lucide="user" class="w-3 h-3 text-yellow-500"></i>
@@ -9791,8 +10050,6 @@
                                 </div>
                                 <div class="flex items-center gap-2 pl-9">
                                     <span class="font-mono text-[9px] text-white/40 tracking-widest">${player.team}</span>
-                                    <span class="w-1 h-1 rounded-full bg-white/20"></span>
-                                    <span class="font-mono text-[9px] text-white/40 tracking-widest">${player.position || 'N/A'}</span>
                                 </div>
                             </div>
                         `;
@@ -9803,7 +10060,6 @@
                     if (window.lucide) window.lucide.createIcons();
                 });
 
-                // Fermer le menu si on clique ailleurs
                 document.addEventListener('click', (e) => {
                     if (!nameInput.contains(e.target) && !suggestionsBox.contains(e.target)) {
                         suggestionsBox.classList.add('hidden');
@@ -9815,30 +10071,642 @@
                 if (nameInput) {
                     nameInput.value = value;
                     if (suggestionsBox) suggestionsBox.classList.add('hidden');
-                    // On lance l'analyse ET on descend aux résultats
                     applyFilters(true);
                 }
             };
-
         });
-        // ── GESTION DU POP-UP "SQUAD SELECTION" ──
-        window.openCompareModal = function () {
-            const modal = document.getElementById('comparePlayersModal');
-            if (modal) {
-                modal.classList.add('active');
-                document.body.style.overflow = 'hidden'; // Empêche de scroller la page derrière
-                if (window.lucide) window.lucide.createIcons(); // Recharge les icônes
+
+        // ── LOGIQUE MOTEUR SIMILARITÉ (LM2) ──
+        let currentSimilarityPlayer = null;
+        let currentSimilarityCandidates = [];
+        let detailsChart = null;
+
+        // --- GESTION DU SÉLECTEUR ALPHA (BOUTONS) ---
+        window.setAlphaMode = function(value, label) {
+            const alphaInput = document.getElementById('alphaSlider');
+            const alphaDisplay = document.getElementById('alphaValueDisplay');
+            if (alphaInput) alphaInput.value = value;
+            if (alphaDisplay) alphaDisplay.textContent = `Mode: ${label}`;
+
+            // Mise à jour visuelle des boutons
+            document.querySelectorAll('.alpha-btn').forEach(btn => {
+                btn.classList.remove('bg-yellow-500', 'text-black', 'shadow-[0_0_15px_rgba(234,179,8,0.3)]');
+                btn.classList.add('text-white/40');
+            });
+            const activeBtn = document.getElementById(`btn-alpha-${value}`);
+            if (activeBtn) {
+                activeBtn.classList.remove('text-white/40');
+                activeBtn.classList.add('bg-yellow-500', 'text-black', 'shadow-[0_0_15px_rgba(234,179,8,0.3)]');
+            }
+
+            // Relancer la recherche si un joueur est sélectionné
+            if (currentSimilarityPlayer) {
+                window.startSimilaritySearch(currentSimilarityPlayer);
             }
         };
 
-        window.closeCompareModal = function () {
-            const modal = document.getElementById('comparePlayersModal');
+        // --- EXPORT PDF ---
+        async function exportToPDF() {
+            const { jsPDF } = window.jspdf;
+            const modalContent = document.querySelector('#detailsModal > div');
+            const playerNameText = document.getElementById('detailsName').innerText.split(' — ')[0];
+            const btn = document.querySelector('.export-btn');
+            const closeBtn = document.querySelector('.close-modal-btn');
+            
+            if(btn) btn.style.opacity = '0';
+            if(closeBtn) closeBtn.style.opacity = '0';
+
+            try {
+                const canvas = await html2canvas(modalContent, {
+                    backgroundColor: '#0a0a0a',
+                    scale: 2,
+                    useCORS: true,
+                    logging: false
+                });
+                const imgData = canvas.toDataURL('image/png');
+                const pdf = new jsPDF({ orientation: 'landscape', unit: 'mm', format: 'a4' });
+                const imgProps = pdf.getImageProperties(imgData);
+                const pdfWidth = pdf.internal.pageSize.getWidth();
+                const pdfHeight = (imgProps.height * pdfWidth) / imgProps.width;
+                pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight);
+                pdf.save(`Rapport_Scouting_${playerNameText.replace(/\s+/g, '_')}.pdf`);
+            } catch (err) {
+                console.error("Erreur PDF:", err);
+            } finally {
+                if(btn) btn.style.opacity = '1';
+                if(closeBtn) closeBtn.style.opacity = '1';
+            }
+        }
+
+        const simInput = document.getElementById('similaritySearchInput');
+        const simSuggestions = document.getElementById('similaritySuggestions');
+
+        if (simInput && simSuggestions) {
+            simInput.addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase().trim();
+                if (query.length < 2) {
+                    simSuggestions.classList.add('hidden');
+                    return;
+                }
+                const filtered = allPlayersData.filter(p =>
+                    p.name.toLowerCase().includes(query) || p.team.toLowerCase().includes(query)
+                ).slice(0, 8);
+
+                if (filtered.length > 0) {
+                    simSuggestions.innerHTML = filtered.map(p => `
+                        <div class="px-4 py-3 hover:bg-yellow-500/10 cursor-pointer border-b border-white/5 flex items-center justify-between" onclick="selectSimilarityPlayer('${p.name.replace(/'/g, "\\'")}')">
+                            <div>
+                                <div class="font-outfit font-bold text-sm text-white">${p.name}</div>
+                                <div class="font-mono text-[8px] text-white/30 uppercase tracking-widest">${p.team} | ${p.position}</div>
+                            </div>
+                            <i data-lucide="plus" class="w-3 h-3 text-yellow-500"></i>
+                        </div>
+                    `).join('');
+                    simSuggestions.classList.remove('hidden');
+                    if (window.lucide) window.lucide.createIcons();
+                } else {
+                    simSuggestions.classList.add('hidden');
+                }
+            });
+
+            document.addEventListener('click', (e) => {
+                if (!simInput.contains(e.target) && !simSuggestions.contains(e.target)) {
+                    simSuggestions.classList.add('hidden');
+                }
+            });
+        }
+
+        window.selectSimilarityPlayer = function (name) {
+            if (simInput) simInput.value = name;
+            if (simSuggestions) simSuggestions.classList.add('hidden');
+            window.startSimilaritySearch(name);
+        };
+
+        window.openSimilarityModal = function (targetName) {
+            const modal = document.getElementById('similarityModal');
+            const targetEl = document.getElementById('similarityModalTarget');
+            if (targetEl) targetEl.textContent = `Cible: ${targetName}`;
+            if (modal) {
+                modal.classList.add('active');
+                document.body.style.overflow = 'hidden';
+            }
+        };
+
+        window.closeSimilarityModal = function () {
+            const modal = document.getElementById('similarityModal');
             if (modal) {
                 modal.classList.remove('active');
                 document.body.style.overflow = '';
             }
         };
+
+        window.startSimilaritySearch = async function (playerName) {
+            // Ajout de l'alerte si le champ est vide
+            if (!playerName || playerName.length < 2) {
+                showToast("⚠️ Veuillez entrer le nom d'un joueur cible !", "error");
+                document.getElementById('similaritySearchInput').focus();
+                return;
+            }
+            currentSimilarityPlayer = playerName;
+
+            // ON CIBLE DIRECTEMENT LA PAGE AU LIEU DU POP-UP
+            const resultsContainer = document.getElementById('similarityResults');
+            if (!resultsContainer) return;
+
+            // Mise à jour fluide sans défilement forcé
+
+            resultsContainer.innerHTML = `
+                <div class="col-span-full py-20 flex flex-col items-center justify-center opacity-60">
+                    <div class="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin mb-6"></div>
+                    <p class="font-outfit font-black text-xl text-white uppercase tracking-widest italic">Analyse Algorithmique en cours...</p>
+                </div>
+            `;
+
+            try {
+                const alphaEl = document.getElementById('alphaSlider');
+                const alpha = alphaEl ? alphaEl.value : 0.5;
+                const response = await fetch(`/api/similarity?player_name=${encodeURIComponent(playerName)}&alpha=${alpha}`);
+                const data = await response.json();
+
+                if (data.error === "PLAYER_NOT_FOUND") {
+                    resultsContainer.innerHTML = `
+                        <div class="py-20 text-center flex flex-col items-center">
+                            <div class="w-16 h-16 rounded-full bg-red-500/10 flex items-center justify-center mb-6 border border-red-500/20">
+                                <i data-lucide="user-x" class="w-8 h-8 text-red-500"></i>
+                            </div>
+                            <p class="font-outfit font-black text-xl text-white uppercase tracking-widest italic mb-2">Joueur Introuvable</p>
+                            <p class="font-mono text-[10px] text-white/40 uppercase tracking-widest max-w-xs mx-auto">"${playerName}" n'est pas répertorié dans notre base de données clinique actuelle.</p>
+                        </div>
+                    `;
+                    if (window.lucide) window.lucide.createIcons();
+                } else if (data.candidates && data.candidates.length > 0) {
+                    currentSimilarityCandidates = data.candidates;
+                    renderSimilarityCards(data.candidates);
+                } else {
+                    resultsContainer.innerHTML = `
+                        <div class="py-20 text-center flex flex-col items-center">
+                            <i data-lucide="user-minus" class="w-12 h-12 text-slate-700 mb-4"></i>
+                            <p class="font-mono text-slate-500 uppercase tracking-widest">AUCUN CLONE DÉTECTÉ POUR CE PROFIL</p>
+                        </div>
+                    `;
+                    if (window.lucide) window.lucide.createIcons();
+                }
+            } catch (err) {
+                console.error("Similarity Error:", err);
+                resultsContainer.innerHTML = '<div class="py-20 text-center text-red-500 font-mono">ERREUR LORS DE L\'ANALYSE</div>';
+            }
+        };
+
+        function renderSimilarityCards(candidates) {
+            const container = document.getElementById('similarityResults');
+            if (!container) return;
+
+            const cardsHtml = currentSimilarityCandidates.map((c, index) => {
+                const v = c.versatility;
+                return `
+                <div class="card-scout-premium group">
+                    <div class="scout-rank-bg">0${index + 1}</div>
+
+                    <div class="relative z-10 flex flex-col h-full">
+                        <div class="flex justify-between items-start mb-8">
+                            <div>
+                                <h3 class="font-outfit font-black text-3xl text-white uppercase leading-none tracking-tight group-hover:text-yellow-500 transition-colors">${c.name}</h3>
+                                <div class="flex items-center gap-3 mt-3">
+                                    <span class="versatility-tag">${c.native_pos}</span>
+                                    <span class="w-1.5 h-1.5 rounded-full bg-white/10"></span>
+                                    <span class="font-mono text-[10px] text-yellow-500/80 font-black uppercase tracking-widest">${c.team}</span>
+                                    <span class="w-1.5 h-1.5 rounded-full bg-white/10"></span>
+                                    <span class="font-mono text-[10px] text-white/40 font-bold uppercase">${c.age} ANS</span>
+                                </div>
+                            </div>
+                            <div class="flex flex-col items-end">
+                                <div class="font-outfit font-black text-5xl text-yellow-500 leading-none tracking-tighter">
+                                    ${Math.floor(c.final_score)}<span class="text-2xl opacity-40">%</span>
+                                </div>
+                                <div class="font-mono text-[8px] text-white/30 uppercase mt-2 tracking-widest font-black">MATCH SCORE</div>
+                            </div>
+                        </div>
+
+                        <div class="grid grid-cols-2 gap-4 mb-8">
+                            ${Object.entries(v).map(([pos, score]) => `
+                                <div class="scout-stat-pill transition-all group-hover:border-yellow-500/30">
+                                    <div class="flex justify-between items-center mb-2">
+                                        <span class="font-mono text-[9px] text-white/40 font-black uppercase">${pos}</span>
+                                        <span class="font-outfit font-bold text-xs ${score >= 60 ? 'text-yellow-500' : 'text-white/20'}">${Math.floor(score)}%</span>
+                                    </div>
+                                    <div class="w-full h-1 bg-white/5 rounded-full overflow-hidden">
+                                        <div class="h-full bg-yellow-500 transition-all duration-1000" style="width: ${score}%; opacity: ${score >= 60 ? '1' : '0.2'}"></div>
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+
+                        <div class="ai-synthesis-box flex-1">
+                            <div class="flex items-center gap-2 mb-3">
+                                <i data-lucide="brain-circuit" class="w-4 h-4 text-yellow-500"></i>
+                                <span class="font-mono text-[9px] text-yellow-500 font-black uppercase tracking-widest">Synthèse IA Stratégique</span>
+                            </div>
+                            <p class="text-[13px] text-white/80 leading-relaxed font-inter italic font-medium">"${c.explanation}"</p>
+                        </div>
+
+                        <div class="pt-6 mt-4 border-t border-white/5 flex justify-between items-center">
+                            <div class="flex items-center gap-2.5 px-4 py-2 rounded-full border ${c.medical_risk === 'Low' ? 'bg-emerald-500/10 border-emerald-500/20 text-emerald-400' : 'bg-red-500/10 border-red-500/20 text-red-400'}">
+                                <div class="w-2 h-2 rounded-full ${c.medical_risk === 'Low' ? 'bg-emerald-500' : 'bg-red-500'} animate-pulse"></div>
+                                <span class="font-mono text-[9px] font-black uppercase tracking-[0.1em]">${c.medical_risk === 'Low' ? 'SANTÉ : OPTIMALE' : 'SANTÉ : À SURVEILLER'}</span>
+                            </div>
+                            
+                            <button onclick="openPlayerDetails(${index})" class="group/btn flex items-center gap-2 px-6 py-3 bg-yellow-500 text-black rounded-xl font-outfit font-black text-[11px] uppercase tracking-widest hover:scale-105 transition-all shadow-lg cursor-pointer">
+                                DOSSIER ÉLITE <i data-lucide="chevron-right" class="w-4 h-4"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>`;
+            }).join('');
+
+            container.innerHTML = `<div class="similarity-card-grid">${cardsHtml}</div>`;
+            if (window.lucide) window.lucide.createIcons();
+        }
+
+        window.openPlayerDetails = function (index) {
+            console.log("Ouverture dossier joueur index:", index);
+            const player = currentSimilarityCandidates[index];
+            if (!player) {
+                console.error("Joueur non trouvé à l'index:", index);
+                return;
+            }
+
+            const modal = document.getElementById('detailsModal');
+            if (!modal) {
+                console.error("Modal 'detailsModal' non trouvé dans le DOM");
+                return;
+            }
+
+            // --- 1. IDENTITÉ & TEXTES ---
+            document.getElementById('detailsName').textContent = player.name || "Inconnu";
+            document.getElementById('detailsRank').textContent = (index + 1).toString().padStart(2, '0');
+            document.getElementById('detailsClub').textContent = player.team || "AGENT LIBRE";
+            document.getElementById('detailsSimilarityScore').textContent = `${player.final_score || 0}%`;
+
+            const seed = player.name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
+
+            // --- 3. ARCHÉTYPE & VERDICT ---
+            const archMap = {
+                'GK': 'Gardien Moderne', 'DEF': 'Défenseur de Rupture', 'DC': 'Relanceur Propre', 
+                'MDF': 'Sentinelle Tactique', 'MOF': 'Meneur Créatif', 'ATT': 'Finisseur Clinique', 
+                'F': 'Attaquant de Soutien'
+            };
+            const archBadge = document.getElementById('detailsArchetypeBadge');
+            if (archBadge) archBadge.textContent = archMap[player.native_pos] || 'Profil Polyvalent';
+
+            const score = player.final_score || 0;
+            const verdictEl = document.getElementById('detailsVerdict');
+            const verdictDescEl = document.getElementById('detailsVerdictDesc');
+            
+            if (score > 85) {
+                verdictEl.textContent = "Signature Immédiate";
+                if (verdictDescEl) verdictDescEl.textContent = `Compatibilité tactique de ${score}%. Clone quasi-parfait. Opportunité de marché rare.`;
+            } else if (score > 70) {
+                verdictEl.textContent = "Hautement Recommandé";
+                if (verdictDescEl) verdictDescEl.textContent = `Compatibilité de ${score}%. Profil très proche de la cible avec une marge de progression élevée.`;
+            } else {
+                verdictEl.textContent = "Profil à Suivre";
+                if (verdictDescEl) verdictDescEl.textContent = `Similarité de ${score}%. Alternative viable avec des ajustements tactiques spécifiques.`;
+            }
+
+            // --- 4. FINANCES & POTENTIEL SUPPRIMÉS (Données non disponibles dans la source) ---
+
+            // --- 5. HEATMAP DYNAMIQUE (Triangulation Statistique Précise) ---
+            const heatmap = document.getElementById('heatmapPoint');
+            const heatmapLabel = document.getElementById('detailsHeatmapLabel');
+            const tacticalNoteEl = document.getElementById('detailsTacticalNote');
+            
+            // On récupère les stats P90 pour le calcul
+            const xG = parseFloat(player.raw_stats['xG_P90'] || 0);
+            const xA = parseFloat(player.raw_stats['xA_P90'] || 0);
+            const def = parseFloat(player.raw_stats['Tackles_P90'] || 0) + parseFloat(player.raw_stats['Interceptions_P90'] || 0);
+            const dribbles = parseFloat(player.raw_stats['Dribbles_P90'] || 0);
+            const passes = parseFloat(player.raw_stats['Pass_Accuracy'] || 80);
+            
+            // Calcul de la Profondeur (Y) : 0% (Haut) à 100% (Bas)
+            // Plus le joueur est offensif (xG/xA), plus il monte. Plus il défend, plus il descend.
+            let offScore = (xG * 3) + (xA * 2);
+            let defScore = def * 0.8;
+            let totalActivity = offScore + defScore + 0.1;
+            
+            // Position de base par poste pour le réalisme
+            let baseY = 50;
+            if (player.native_pos === 'ATT') baseY = 15;
+            else if (player.native_pos === 'MOF') baseY = 40;
+            else if (player.native_pos === 'DEF') baseY = 75;
+            else if (player.native_pos === 'GK') baseY = 90;
+
+            // Ajustement dynamique par les stats
+            let yShift = (defScore / totalActivity) * 40 - (offScore / totalActivity) * 20;
+            let finalY = Math.max(10, Math.min(90, baseY + yShift));
+
+            // Calcul de la Largeur (X) : 10% (Gauche) à 90% (Droite)
+            // Les dribbleurs sont souvent excentrés.
+            let lateralBias = (dribbles > 1.5) ? (seed % 2 === 0 ? 25 : 75) : 50; 
+            let finalX = lateralBias + (seed % 10 - 5); // Petit jitter pour l'unicité
+
+            if (heatmap) {
+                heatmap.style.top = `${finalY}%`;
+                heatmap.style.left = `${finalX}%`;
+            }
+
+            // Génération de la note tactique précise
+            let note = "Meneur de jeu polyvalent assurant la liaison entre les lignes.";
+            if (finalY < 25) note = "Attaquant de pointe opérant principalement dans la zone de vérité.";
+            else if (finalY < 45) note = "Profil créatif opérant dans les demi-espaces et le dernier tiers.";
+            else if (finalY > 65) note = "Sentinelle ou défenseur assurant la sécurité du bloc et la première relance.";
+            
+            if (heatmapLabel) heatmapLabel.textContent = `${player.native_pos} - POSITIONNEMENT RÉEL`;
+            if (tacticalNoteEl) tacticalNoteEl.textContent = `"${note}"`;
+
+            // --- 5. FORCES & FAIBLESSES (Dynamiques depuis le moteur) ---
+            const prosList = document.getElementById('detailsPros');
+            const consList = document.getElementById('detailsCons');
+            const reasons = player.full_reasons || ["Analyse technique en cours..."];
+            const pros = reasons.filter(r => !r.toLowerCase().includes('âge') && !r.toLowerCase().includes('précoce')).slice(0, 3);
+            const cons = reasons.filter(r => r.toLowerCase().includes('âge') || r.toLowerCase().includes('précoce')).slice(0, 1);
+            if (cons.length === 0) cons.push("Volume défensif à optimiser selon le système");
+
+            prosList.innerHTML = pros.map(p => `<li class="flex items-start gap-2 text-[10px] text-emerald-400/80 font-medium leading-tight mb-1"><i data-lucide="check" class="w-3 h-3 mt-0.5 shrink-0"></i> ${p}</li>`).join('');
+            consList.innerHTML = cons.map(c => `<li class="flex items-start gap-2 text-[10px] text-red-400/80 font-medium leading-tight mb-1"><i data-lucide="minus" class="w-3 h-3 mt-0.5 shrink-0"></i> ${c}</li>`).join('');
+
+            // --- 6. TABLEAU STATISTIQUE FACE-À-FACE ---
+            const statsTable = document.getElementById('detailsStatsTable');
+            let tableHtml = '';
+            const labels = {
+                'Rating_MA10': 'Note Globale (MA10)',
+                'xG_P90': 'Expected Goals (xG)',
+                'xA_P90': 'Expected Assists (xA)',
+                'Pass_Accuracy': 'Précision de Passe %',
+                'Tackles_P90': 'Interventions Déf.',
+                'distanceRun': 'Distance (km)',
+                'Possession_Security': 'Sécurité de Balle',
+                'Ground_Duels_Won_P90': 'Duels au Sol Gagnés',
+                'Dribbles_P90': 'Dribbles Réussis'
+            };
+
+            for (const [key, label] of Object.entries(labels)) {
+                let valB = player.raw_stats[key] || 0;
+                let valA = player.target_stats[key] || 0;
+                
+                if (key === 'distanceRun' && valB > 1000) valB /= 1000;
+                if (key === 'distanceRun' && valA > 1000) valA /= 1000;
+
+                const diff = valB - valA;
+                const diffColor = diff > 0 ? 'text-emerald-400' : (diff < 0 ? 'text-red-400' : 'text-white/20');
+                const diffSymbol = diff > 0 ? '+' : '';
+
+                tableHtml += `
+                    <div class="scout-stat-row flex justify-between items-center group/row py-1 border-b border-white/5 last:border-0">
+                        <span class="font-mono text-[9px] text-white/30 uppercase tracking-widest group-hover/row:text-white/60 transition-colors">${label}</span>
+                        <div class="flex gap-4 items-center">
+                            <span class="font-outfit font-black text-xs text-white w-12 text-right">${valB.toFixed(2)}</span>
+                            <div class="w-[1px] h-3 bg-white/10"></div>
+                            <span class="font-mono text-[9px] font-bold ${diffColor} min-w-[45px] text-center">${diffSymbol}${diff.toFixed(2)}</span>
+                            <div class="w-[1px] h-3 bg-white/10"></div>
+                            <span class="font-outfit font-bold text-xs text-white/30 w-12 text-left">${valA.toFixed(2)}</span>
+                        </div>
+                    </div>
+                `;
+            }
+            statsTable.innerHTML = tableHtml;
+
+            // --- 7. RADAR CHART ---
+            if (detailsChart) detailsChart.destroy();
+            const ctx = document.getElementById('radarChart').getContext('2d');
+            const featKeys = Object.keys(labels);
+            
+            // On utilise les stats normalisées (radar_stats) pour le graphique
+            // et les stats brutes (raw_stats) pour le tableau.
+            detailsChart = new Chart(ctx, {
+                type: 'radar',
+                data: {
+                    labels: featKeys.map(k => labels[k].split(' (')[0].replace(' %', '')),
+                    datasets: [
+                        {
+                            label: `${player.name}`,
+                            data: featKeys.map(k => player.radar_stats[k]),
+                            backgroundColor: 'rgba(234, 179, 8, 0.35)',
+                            borderColor: '#eab308',
+                            borderWidth: 3,
+                            pointBackgroundColor: '#eab308',
+                            pointRadius: 4,
+                            pointHoverRadius: 6,
+                            tension: 0.35, // Lignes courbes plus fluides
+                            z: 10
+                        },
+                        {
+                            label: `${player.target_name || 'Cible'}`,
+                            data: featKeys.map(k => player.target_radar_stats[k]),
+                            backgroundColor: 'rgba(255, 255, 255, 0.1)',
+                            borderColor: 'rgba(255, 255, 255, 0.4)',
+                            borderWidth: 2,
+                            borderDash: [5, 5],
+                            pointBackgroundColor: 'rgba(255, 255, 255, 0.6)',
+                            pointRadius: 2,
+                            tension: 0.35,
+                            z: 5
+                        }
+                    ]
+                },
+                options: {
+                    scales: {
+                        r: {
+                            angleLines: { color: 'rgba(255, 255, 255, 0.1)' },
+                            grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                            pointLabels: { 
+                                color: 'rgba(255, 255, 255, 0.4)', 
+                                font: { size: 10, family: 'Outfit', weight: '900' },
+                                padding: 20
+                            },
+                            ticks: { display: false },
+                            suggestedMin: 0, 
+                            suggestedMax: 100
+                        }
+                    },
+                    plugins: { 
+                        legend: { 
+                            display: true,
+                            position: 'bottom',
+                            labels: {
+                                color: 'rgba(255, 255, 255, 0.7)',
+                                font: { size: 11, family: 'Outfit', weight: 'bold' },
+                                boxWidth: 15,
+                                padding: 25,
+                                usePointStyle: true,
+                                pointStyle: 'circle'
+                            }
+                        },
+                        tooltip: {
+                            enabled: true,
+                            backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                            titleFont: { family: 'Outfit', size: 13 },
+                            bodyFont: { family: 'Outfit', size: 12 },
+                            padding: 12,
+                            cornerRadius: 8
+                        }
+                    },
+                    responsive: true,
+                    maintainAspectRatio: false
+                }
+            });
+
+            modal.classList.add('active');
+            if (window.lucide) window.lucide.createIcons();
+        };
+
+        window.closeDetailsModal = function () {
+            const modal = document.getElementById('detailsModal');
+            if (modal) modal.classList.remove('active');
+        };
     </script>
+
+    <div id="detailsModal" class="modal-overlay" style="z-index: 10000;"
+        onclick="if(event.target===this) closeDetailsModal()">
+        <div class="modal-elite-content flex flex-col">
+            <!-- Header Elite -->
+            <div class="py-6 px-8 border-b border-white/5 flex items-center justify-between bg-white/[0.02]">
+                <div class="flex items-center gap-6">
+                    <div id="detailsRank" class="w-14 h-14 rounded-2xl bg-yellow-500 flex items-center justify-center font-outfit font-black text-2xl text-black shadow-[0_0_20px_rgba(234,179,8,0.3)]">01</div>
+                    <div>
+                        <h2 id="detailsName" class="font-outfit font-black text-4xl text-white uppercase tracking-tighter leading-none mb-1">NOM DU JOUEUR</h2>
+                        <div class="flex items-center gap-3">
+                            <span id="detailsClub" class="font-mono text-[10px] text-white/40 uppercase tracking-[0.2em] font-bold">CLUB ACTUEL</span>
+                            <span class="w-1.5 h-1.5 rounded-full bg-yellow-500/30"></span>
+                            <span id="detailsArchetypeBadge" class="font-mono text-[9px] text-yellow-500 font-black uppercase tracking-widest">ARCHÉTYPE</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex items-center gap-6">
+                    <div class="text-right pr-6 border-r border-white/5">
+                        <span class="block font-mono text-[8px] text-white/30 uppercase tracking-widest mb-1">SCORE SIMILARITÉ</span>
+                        <span id="detailsSimilarityScore" class="font-outfit font-black text-2xl text-yellow-500 leading-none">0%</span>
+                    </div>
+                    
+                    <div class="flex items-center gap-3">
+                        <button onclick="exportToPDF()"
+                            class="export-btn flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/70 font-outfit font-black text-[10px] uppercase tracking-widest hover:bg-yellow-500 hover:text-black hover:border-yellow-500 transition-all">
+                            <i data-lucide="download" class="w-4 h-4"></i> EXPORT PDF
+                        </button>
+
+                        <button onclick="closeDetailsModal()"
+                            class="close-modal-btn w-11 h-11 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-red-500/20 hover:border-red-500/30 transition-all group">
+                            <i data-lucide="x" class="w-5 h-5 text-white/30 group-hover:text-red-500 transition-colors"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Body Scouting -->
+            <div class="flex-1 overflow-y-auto p-8 custom-scroll">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                    <div class="flex flex-col">
+                        <div class="flex items-center justify-between mb-6">
+                            <div class="flex items-center gap-3">
+                                <i data-lucide="radar" class="w-5 h-5 text-yellow-500"></i>
+                                <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">Profil Comparatif Multivarié</h3>
+                            </div>
+                        </div>
+                        
+                        <div class="w-full max-w-[450px] aspect-square relative mx-auto bg-white/5 rounded-full p-4 border border-white/5 shadow-inner">
+                            <canvas id="radarChart"></canvas>
+                        </div>
+
+                        <div class="mt-8 grid grid-cols-2 gap-6">
+                            <div class="bg-emerald-500/5 border border-emerald-500/10 rounded-2xl p-6">
+                                <h4 class="font-mono text-[10px] text-emerald-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
+                                    <i data-lucide="trending-up" class="w-3 h-3"></i> Points Forts
+                                </h4>
+                                <ul id="detailsPros" class="space-y-3"></ul>
+                            </div>
+                            <div class="bg-red-500/5 border border-red-500/10 rounded-2xl p-6">
+                                <h4 class="font-mono text-[10px] text-red-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
+                                    <i data-lucide="trending-down" class="w-3 h-3"></i> Limites
+                                </h4>
+                                <ul id="detailsCons" class="space-y-3"></ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="space-y-6">
+                        <!-- HEATMAP TACTIQUE SECTION -->
+                        <div class="bg-white/5 border border-white/5 rounded-2xl p-6">
+                            <div class="flex items-center justify-between mb-6">
+                                <div class="flex items-center gap-3">
+                                    <i data-lucide="map" class="w-4 h-4 text-yellow-500"></i>
+                                    <h3 class="font-outfit font-black text-[10px] text-white/40 uppercase tracking-[0.2em]">Positionnement Tactique & Influence</h3>
+                                </div>
+                                <span id="detailsHeatmapLabel" class="font-mono text-[9px] text-yellow-500 font-bold uppercase tracking-widest text-right">ZONE ACTIVE</span>
+                            </div>
+                            
+                            <div class="flex gap-8 items-center">
+                                <div class="w-32 h-48 pitch-container flex-shrink-0">
+                                    <div class="pitch-line w-full h-[1px] top-1/2"></div>
+                                    <div class="pitch-line w-[1px] h-full left-1/2"></div>
+                                    <div class="pitch-center-circle"></div>
+                                    <div class="pitch-area top-0 border-t-0"></div>
+                                    <div class="pitch-area bottom-0 border-b-0"></div>
+                                    <div id="heatmapPoint" class="heatmap-glow"></div>
+                                </div>
+                                
+                                <div class="flex-1 space-y-4">
+                                    <div class="p-4 bg-white/5 rounded-xl border border-white/5">
+                                        <p id="detailsTacticalNote" class="text-[11px] text-white/60 font-inter leading-relaxed italic">--</p>
+                                    </div>
+                                    <div class="flex items-center gap-2">
+                                        <div class="flex -space-x-2">
+                                            <div class="w-6 h-6 rounded-full bg-yellow-500/20 border border-yellow-500/30 flex items-center justify-center font-mono text-[8px] text-yellow-500 font-black">1</div>
+                                            <div class="w-6 h-6 rounded-full bg-white/5 border border-white/10 flex items-center justify-center font-mono text-[8px] text-white/30 font-black">2</div>
+                                        </div>
+                                        <span class="font-mono text-[8px] text-white/30 uppercase tracking-widest">Capacité Multi-Poste Détectée</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <div class="flex items-center justify-between mb-6">
+                                <div class="flex items-center gap-3">
+                                    <i data-lucide="bar-chart-3" class="w-5 h-5 text-yellow-500"></i>
+                                    <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">Face-à-Face Statistique (P90)</h3>
+                                </div>
+                                <div class="flex gap-6 font-mono text-[8px] text-white/30 uppercase tracking-widest font-black">
+                                    <span>Joueur</span>
+                                    <span>Ecart</span>
+                                    <span>Cible</span>
+                                </div>
+                            </div>
+                            <div id="detailsStatsTable" class="grid grid-cols-1 gap-2"></div>
+                        </div>
+
+                        <div class="bg-gradient-to-br from-yellow-500 to-yellow-600 p-6 rounded-3xl relative overflow-hidden group">
+                            <i data-lucide="shield-check" class="absolute -right-4 -bottom-4 w-32 h-32 text-black/10 -rotate-12 group-hover:rotate-0 transition-transform duration-700"></i>
+                            <div class="relative z-10 text-black">
+                                <h4 class="font-outfit font-black text-xs uppercase tracking-[0.3em] mb-4 flex items-center gap-2 opacity-60">
+                                    <i data-lucide="award" class="w-4 h-4"></i> Verdict Analyste
+                                </h4>
+                                <div class="flex items-end justify-between gap-6">
+                                    <p id="detailsVerdict" class="font-outfit font-black text-3xl leading-tight uppercase italic shrink-0">Signature Recommandée</p>
+                                    <p id="detailsVerdictDesc" class="text-[10px] opacity-80 font-medium leading-relaxed text-right font-inter">
+                                        Analyse tactique en cours...
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+        </div>
+    </div>
 </body>
 
 </html>

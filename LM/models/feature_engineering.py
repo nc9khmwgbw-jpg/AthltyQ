@@ -133,14 +133,18 @@ def calculer_features_match(df):
     # --- Duels ---
     df['Defensive_Actions'] = df['Tackles'] + df['Interceptions'] + df['Ball_Recovery']
 
-    # --- Ball Control ---
-    if 'Touches' in df.columns and 'Possession_Lost' in df.columns:
+    # --- Ball Control & Security ---
+    # Si Possession_Lost est absent ou vide, on utilise une heuristique basée sur Pass_Accuracy
+    if 'Touches' in df.columns and 'Possession_Lost' in df.columns and df['Possession_Lost'].sum() > 0:
         df['Possession_Security'] = np.where(
             df['Touches'] > 0,
             ((df['Touches'] - df['Possession_Lost']) / df['Touches']) * 100, 0
         )
     else:
-        df['Possession_Security'] = 0
+        # Heuristique : La sécurité de balle est fortement corrélée à la précision de passe
+        df['Possession_Security'] = (df['Pass_Accuracy'] * 0.85) + (df.get('Rating', 7) * 1.2)
+        df['Possession_Security'] = df['Possession_Security'].clip(65, 96)
+
     df['Threat_Per_Touch'] = np.where(
         df['Touches'] > 0,
         (df['Expected_Goals'] + df['Expected_Assists']) / df['Touches'], 0
@@ -148,6 +152,17 @@ def calculer_features_match(df):
 
     # --- Normalisation par 90 minutes ---
     df['P90_Factor'] = np.where(df['Minutes_Played'] > 0, 90 / df['Minutes_Played'], 0)
+
+    # --- DATA RECOVERY: Gestion des colonnes vides/manquantes ---
+    if 'Successful_Dribbles' not in df.columns or df['Successful_Dribbles'].sum() == 0:
+        if 'kpi_explosivity' in df.columns:
+            # Proxy : explosivité (scale 0-5) -> dribbles (scale 0-4)
+            df['Successful_Dribbles'] = (df['kpi_explosivity'] * 0.7) + (df.get('Rating', 7) * 0.05)
+    
+    if 'Ground_Duels_Won' not in df.columns or df['Ground_Duels_Won'].sum() == 0:
+        if 'kpi_work_rate' in df.columns:
+            # Proxy : kpi_work_rate est sur ~100. On ramène à une échelle de 1-8 duels gagnés.
+            df['Ground_Duels_Won'] = (df['kpi_work_rate'] / 25) + (df.get('Tackles', 0) * 0.5)
 
     per90_cols = {
         'Goals_P90': 'Goals',
@@ -162,16 +177,19 @@ def calculer_features_match(df):
         'Defensive_Actions_P90': 'Defensive_Actions',
         'Touches_P90': 'Touches',
         'Dribbles_P90': 'Successful_Dribbles',
+        'Ground_Duels_Won_P90': 'Ground_Duels_Won',
     }
 
     for new_col, source_col in per90_cols.items():
         if source_col in df.columns:
             df[new_col] = df[source_col] * df['P90_Factor']
 
-    # Sécurité : Assurer que les colonnes de duels existent (parfois absentes selon le scraper)
+    # Sécurité : Assurer que les colonnes de duels existent
     for col in ['Ground_Duels_Lost', 'Aerial_Duels_Lost', 'Ground_Duels_Won', 'Aerial_Duels_Won', 'Was_Fouled']:
         if col not in df.columns:
             df[col] = 0
+        else:
+            df[col] = df[col].fillna(0)
 
     df = df.drop(columns=['P90_Factor'])
 

@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT))
 
 from LM.models.injury_predictor import InjuryPredictor
 from LM.models.feature_engineering import run_feature_engineering
+from LM2.similarity_engine import SimilarityEngine
 
 app = FastAPI(title="AthltyQ API")
 
@@ -420,6 +421,28 @@ def get_player_history(player_name: str):
         "history": history_list[::-1],
         "squad_avg": [round(team_averages.get(d, 50.0), 1) for d in history['Match_Date'].tolist()][::-1],
         "clinical_insight": insight
+    }
+
+@app.get("/api/similarity")
+def get_player_similarity(player_name: str, alpha: float = 0.5):
+    results, features = get_data()
+    if features is None:
+        return {"error": "Data not found"}
+    
+    engine = SimilarityEngine(features)
+    results = engine.get_similar_players(player_name, alpha=alpha)
+    
+    if isinstance(results, dict) and "error" in results:
+        return {
+            "target_player": player_name,
+            "error": results["error"],
+            "candidates": []
+        }
+
+    return {
+        "target_player": player_name,
+        "alpha": alpha,
+        "candidates": results
     }
 
 if __name__ == "__main__":
