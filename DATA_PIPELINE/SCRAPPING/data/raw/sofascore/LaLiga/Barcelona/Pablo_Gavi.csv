@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pablo Gavi,21,2025-08-04,Daegu FC,FC Barcelona,8.6,45,4860.0,9.0,108.0,2,0,0.0,0.0,37,39,0,0,0,0,3,47,0.0,1.85
+Pablo Gavi,21,2025-08-16,Mallorca,FC Barcelona,7.1,21,2268.0,4.0,108.0,0,0,0.0,0.05,19,20,2,0,0,0,2,20,0.0,1.76
+Pablo Gavi,21,2025-08-23,Levante UD,FC Barcelona,7.0,45,4860.0,9.0,108.0,0,0,0.0,0.04,44,47,1,0,0,0,3,55,0.0,1.85
+Pablo Gavi,21,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pablo Gavi,21,2026-03-15,FC Barcelona,Sevilla,6.4,8,864.0,2.0,108.0,0,0,0.0,0.0,14,16,0,0,1,0,2,18,0.0,2.31
+Pablo Gavi,21,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pablo Gavi,21,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pablo Gavi,21,2026-04-04,Atlético Madrid,FC Barcelona,6.8,12,1296.0,2.0,108.0,0,0,0.0,0.02,10,11,0,0,0,0,0,14,0.0,1.54
+Pablo Gavi,21,2026-04-08,FC Barcelona,Atlético Madrid,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.01,32,34,2,0,0,0,1,40,0.0,1.85
+Pablo Gavi,21,2026-04-11,FC Barcelona,Espanyol,7.1,64,6912.0,13.0,108.0,0,0,0.0,0.02,40,41,1,0,0,0,3,53,0.0,1.88
+Pablo Gavi,21,2026-04-14,Atlético Madrid,FC Barcelona,7.1,81,8748.0,16.0,108.0,0,0,0.15,0.02,44,47,1,0,3,0,2,68,0.0,1.83
+Pablo Gavi,21,2026-04-22,FC Barcelona,Celta Vigo,6.6,45,4860.0,9.0,108.0,0,0,0.0,0.01,12,12,0,0,0,0,1,17,0.0,1.85
+Pablo Gavi,21,2026-04-25,Getafe,FC Barcelona,6.8,60,6480.0,12.0,108.0,0,0,0.0,0.02,37,42,0,0,0,0,2,49,0.0,1.85
+Pablo Gavi,21,2026-05-02,Osasuna,FC Barcelona,7.3,62,6696.0,12.0,108.0,0,0,0.0,0.04,56,59,1,0,1,0,2,69,0.0,1.79
+Pablo Gavi,21,2026-05-10,FC Barcelona,Real Madrid,6.6,77,8316.0,15.0,108.0,0,0,0.0,0.01,44,48,0,0,0,0,6,55,0.0,1.8

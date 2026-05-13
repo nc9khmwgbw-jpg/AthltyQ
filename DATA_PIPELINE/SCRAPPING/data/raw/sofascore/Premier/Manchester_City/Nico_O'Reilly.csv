@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Nico O'Reilly,2026-02-11,Manchester City,Fulham,7.5,90,9720.0,18.0,108.0,1,0,0.48,0.01,36,41,0,0,0,0,2,56,0,1.85,21
+Nico O'Reilly,2026-02-14,Manchester City,Salford City,6.5,26,2808.0,5.0,108.0,0,0,0.0,0.0,14,16,0,0,0,0,2,24,0,1.78,21
+Nico O'Reilly,2026-02-21,Manchester City,Newcastle United,8.7,90,9720.0,18.0,108.0,2,0,0.32,0.11,13,20,0,0,0,0,3,29,0,1.85,21
+Nico O'Reilly,2026-02-28,Leeds United,Manchester City,7.4,70,7560.0,14.0,108.0,0,0,0.41,0.02,27,30,0,0,0,0,1,51,0,1.85,21
+Nico O'Reilly,2026-03-07,Newcastle United,Manchester City,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,25,0,0,0,0,3,42,0,1.85,21
+Nico O'Reilly,2026-03-11,Real Madrid,Manchester City,5.6,90,9720.0,18.0,108.0,0,0,0.12,0.02,25,28,0,0,0,0,1,41,0,1.85,21
+Nico O'Reilly,2026-03-14,West Ham United,Manchester City,6.2,90,9720.0,18.0,108.0,0,0,0.62,0.04,59,68,1,0,2,0,2,91,0,1.85,21
+Nico O'Reilly,2026-03-17,Manchester City,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
+Nico O'Reilly,2026-03-22,Arsenal,Manchester City,9.1,90,9720.0,18.0,108.0,2,0,0.0,0.0,43,50,0,0,0,0,4,83,0,1.85,21
+Nico O'Reilly,2026-03-31,England,Japan,6.3,59,6372.0,12.0,108.0,0,0,0.0,0.0,40,43,1,0,0,0,1,52,0,1.88,21
+Nico O'Reilly,2026-04-04,Manchester City,Liverpool,8.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,33,39,2,0,1,0,4,66,0,1.85,21
+Nico O'Reilly,2026-04-12,Chelsea,Manchester City,8.1,64,6912.0,13.0,108.0,1,0,0.43,0.33,41,44,2,0,0,0,1,61,0,1.88,21
+Nico O'Reilly,2026-04-19,Manchester City,Arsenal,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.35,36,46,1,0,2,0,5,72,0,1.85,21
+Nico O'Reilly,2026-04-22,Burnley,Manchester City,7.0,90,9720.0,18.0,108.0,0,0,0.71,0.01,48,55,0,0,1,0,5,79,0,1.85,21
+Nico O'Reilly,2026-04-25,Manchester City,Southampton,6.6,19,2052.0,4.0,108.0,0,0,0.0,0.0,6,8,1,0,0,0,3,14,0,1.95,21

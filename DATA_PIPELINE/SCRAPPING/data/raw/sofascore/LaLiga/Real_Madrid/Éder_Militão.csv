@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Éder Militão,2025-10-22,Real Madrid,Juventus,7.7,90,9720.0,18.0,108.0,0,0,0.28,0.02,52,56,1,0,4,0,3,79,0,1.85,28
+Éder Militão,2025-10-26,Real Madrid,FC Barcelona,8.2,90,9720.0,18.0,108.0,0,0,0.12,0.49,23,25,1,0,0,0,2,40,0,1.85,28
+Éder Militão,2025-11-01,Real Madrid,Valencia,7.5,90,9720.0,18.0,108.0,0,0,0.04,0.02,52,58,1,0,1,0,7,68,0,1.85,28
+Éder Militão,2025-11-04,Liverpool,Real Madrid,7.3,90,9720.0,18.0,108.0,0,0,0.02,0.04,51,53,1,0,1,0,0,75,0,1.85,28
+Éder Militão,2025-11-09,Rayo Vallecano,Real Madrid,6.8,45,4860.0,9.0,108.0,0,0,0.07,0.0,15,19,0,0,0,0,2,25,0,1.85,28
+Éder Militão,2025-11-15,Brazil,Senegal,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,33,0,0,2,0,8,55,0,1.85,28
+Éder Militão,2025-11-18,Brazil,Tunisia,6.7,60,6480.0,12.0,108.0,0,0,0.0,0.0,55,57,0,0,0,0,2,60,0,1.85,28
+Éder Militão,2025-11-30,Girona FC,Real Madrid,6.6,90,9720.0,18.0,108.0,0,0,0.5,0.05,66,70,1,0,1,0,8,83,0,1.85,28
+Éder Militão,2025-12-03,Athletic Club,Real Madrid,7.5,78,8424.0,16.0,108.0,0,0,0.17,0.01,52,55,1,0,3,0,4,75,0,1.9,28
+Éder Militão,2025-12-07,Real Madrid,Celta Vigo,7.1,24,2592.0,5.0,108.0,0,0,0.0,0.0,19,21,0,0,0,0,0,23,0,1.93,28
+Éder Militão,2026-04-04,Mallorca,Real Madrid,7.4,31,3348.0,6.0,108.0,1,0,0.16,0.0,19,20,0,0,0,0,1,27,0,1.79,28
+Éder Militão,2026-04-07,Real Madrid,FC Bayern München,6.6,28,3024.0,6.0,108.0,0,0,0.13,0.0,17,22,0,0,1,0,1,26,0,1.98,28
+Éder Militão,2026-04-10,Real Madrid,Girona FC,6.6,64,6912.0,13.0,108.0,0,0,0.16,0.01,46,49,0,0,1,0,2,60,0,1.88,28
+Éder Militão,2026-04-15,FC Bayern München,Real Madrid,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,31,0,0,1,0,5,50,0,1.85,28
+Éder Militão,2026-04-21,Real Madrid,Deportivo Alavés,7.0,44,4752.0,9.0,108.0,0,0,0.1,0.01,19,23,1,0,0,0,1,34,0,1.89,28

@@ -1,0 +1,13 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.12",
+  "extraPaths": [
+    "DATA_PIPELINE/SCRAPPING/scripts",
+    "DATA_PIPELINE/NETTOYAGE/scripts",
+    "LM/models",
+    "LM2"
+  ],
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none"
+}

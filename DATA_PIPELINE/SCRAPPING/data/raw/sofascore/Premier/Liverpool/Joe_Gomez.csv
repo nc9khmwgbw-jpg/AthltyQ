@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Joe Gomez,2026-02-11,Sunderland,Liverpool,7.0,21,2268.0,4.0,108.0,0,0,0.0,0.0,12,13,0,0,0,0,0,21,0,1.76,28
+Joe Gomez,2026-02-14,Liverpool,Brighton & Hove Albion,6.7,19,2052.0,4.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,1.95,28
+Joe Gomez,2026-02-22,Nottingham Forest,Liverpool,6.9,17,1836.0,3.0,108.0,0,0,0.0,0.01,3,4,0,0,0,0,0,15,0,1.63,28
+Joe Gomez,2026-02-28,Liverpool,West Ham United,6.2,77,8316.0,15.0,108.0,0,0,0.05,0.05,21,27,1,0,1,0,3,58,0,1.8,28
+Joe Gomez,2026-03-03,Wolverhampton,Liverpool,6.0,18,1944.0,4.0,108.0,0,0,0.0,0.0,10,13,0,0,0,0,1,19,0,2.06,28
+Joe Gomez,2026-03-06,Wolverhampton,Liverpool,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,64,70,0,0,1,0,4,80,0,1.85,28
+Joe Gomez,2026-03-10,Galatasaray,Liverpool,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.02,28,39,0,0,1,0,6,64,0,1.85,28
+Joe Gomez,2026-03-15,Liverpool,Tottenham Hotspur,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.02,53,64,0,0,1,0,3,72,0,1.85,28
+Joe Gomez,2026-03-18,Liverpool,Galatasaray,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
+Joe Gomez,2026-03-21,Brighton & Hove Albion,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
+Joe Gomez,2026-04-04,Manchester City,Liverpool,6.2,62,6696.0,12.0,108.0,0,0,0.0,0.0,22,26,0,0,0,0,3,46,0,1.79,28
+Joe Gomez,2026-04-08,Paris Saint-Germain,Liverpool,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.03,18,25,0,0,1,0,5,38,0,1.85,28
+Joe Gomez,2026-04-11,Liverpool,Fulham,7.0,21,2268.0,4.0,108.0,0,0,0.0,0.0,5,10,0,0,0,0,2,17,0,1.76,28
+Joe Gomez,2026-04-14,Liverpool,Paris Saint-Germain,6.5,22,2376.0,4.0,108.0,0,0,0.14,0.01,9,10,0,0,0,0,1,16,0,1.68,28
+Joe Gomez,2026-04-25,Liverpool,Crystal Palace,6.8,11,1188.0,2.0,108.0,0,0,0.0,0.0,0,1,1,0,0,0,0,5,0,1.68,28

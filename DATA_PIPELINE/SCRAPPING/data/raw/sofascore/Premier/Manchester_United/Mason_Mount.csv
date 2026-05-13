@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Mason Mount,2025-11-30,Crystal Palace,Manchester United,7.8,90,9720.0,18.0,108.0,1,0,0.09,0.01,30,38,1,0,0,0,6,51,0,1.85,27
+Mason Mount,2025-12-04,Manchester United,West Ham United,6.4,12,1296.0,2.0,108.0,0,0,0.0,0.0,7,7,0,0,0,0,2,9,0,1.54,27
+Mason Mount,2025-12-08,Wolverhampton,Manchester United,8.0,85,9180.0,17.0,108.0,1,0,0.58,0.12,27,30,0,0,0,0,5,46,0,1.85,27
+Mason Mount,2025-12-15,Manchester United,Bournemouth,7.0,69,7452.0,14.0,108.0,0,0,0.07,0.07,17,20,2,0,0,0,3,28,0,1.88,27
+Mason Mount,2025-12-21,Aston Villa,Manchester United,6.1,90,9720.0,18.0,108.0,0,0,0.14,0.07,34,45,1,0,1,0,5,63,0,1.85,27
+Mason Mount,2025-12-26,Manchester United,Newcastle United,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.16,14,21,1,0,0,0,4,27,0,1.85,27
+Mason Mount,2026-01-07,Burnley,Manchester United,6.6,29,3132.0,6.0,108.0,0,0,0.0,0.05,12,13,1,0,1,0,1,17,0,1.92,27
+Mason Mount,2026-01-11,Manchester United,Brighton & Hove Albion,6.5,62,6696.0,12.0,108.0,0,0,0.0,0.0,14,16,0,0,0,0,2,24,0,1.79,27
+Mason Mount,2026-01-17,Manchester United,Manchester City,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+Mason Mount,2026-01-25,Arsenal,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+Mason Mount,2026-03-15,Manchester United,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+Mason Mount,2026-03-20,Bournemouth,Manchester United,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,1,2,0,0.0,27
+Mason Mount,2026-04-13,Manchester United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+Mason Mount,2026-04-18,Chelsea,Manchester United,6.6,9,972.0,2.0,108.0,0,0,0.0,0.01,9,9,0,0,0,0,1,13,0,2.06,27
+Mason Mount,2026-04-27,Manchester United,Brentford,6.6,16,1728.0,3.0,108.0,0,0,0.0,0.03,9,9,0,0,1,0,1,14,0,1.74,27

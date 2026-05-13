@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Rubén García,32,2026-01-17,Osasuna,Real Oviedo,7.5,90,9720.0,18.0,108.0,0,0,0.17,0.77,23,34,1,0,1,0,6,54,0.0,1.85
+Rubén García,32,2026-01-24,Rayo Vallecano,Osasuna,6.2,90,9720.0,18.0,108.0,0,0,0.13,0.16,16,23,2,0,0,0,1,37,0.0,1.85
+Rubén García,32,2026-01-31,Osasuna,Villarreal,7.1,76,8208.0,15.0,108.0,0,0,0.06,0.4,21,27,3,0,0,0,3,47,0.0,1.83
+Rubén García,32,2026-02-06,Celta Vigo,Osasuna,6.1,70,7560.0,14.0,108.0,0,0,0.05,0.01,25,31,0,0,0,0,0,42,0.0,1.85
+Rubén García,32,2026-02-13,Elche,Osasuna,6.6,85,9180.0,17.0,108.0,0,0,0.0,0.01,16,22,0,0,3,0,5,43,0.0,1.85
+Rubén García,32,2026-02-21,Osasuna,Real Madrid,7.1,66,7128.0,13.0,108.0,0,0,0.0,0.41,23,27,2,0,0,0,2,33,0.0,1.82
+Rubén García,32,2026-03-01,Valencia,Osasuna,6.7,74,7992.0,15.0,108.0,0,0,0.0,0.06,25,31,1,0,0,0,6,51,0.0,1.88
+Rubén García,32,2026-03-07,Osasuna,Mallorca,6.7,56,6048.0,11.0,108.0,0,0,0.03,0.01,17,18,0,0,1,0,3,29,0.0,1.82
+Rubén García,32,2026-03-21,Osasuna,Girona FC,6.8,83,8964.0,17.0,108.0,0,0,0.0,0.16,26,31,2,0,1,0,5,43,0.0,1.9
+Rubén García,32,2026-04-05,Deportivo Alavés,Osasuna,6.3,77,8316.0,15.0,108.0,0,0,0.23,0.03,24,26,2,0,0,0,1,36,0.0,1.8
+Rubén García,32,2026-04-12,Osasuna,Real Betis,6.6,72,7776.0,14.0,108.0,0,0,0.0,0.08,22,29,1,0,0,0,4,48,0.0,1.8
+Rubén García,32,2026-04-21,Athletic Club,Osasuna,6.2,71,7668.0,14.0,108.0,0,0,0.0,0.09,16,21,2,0,0,0,2,30,0.0,1.83
+Rubén García,32,2026-04-26,Osasuna,Sevilla,6.6,71,7668.0,14.0,108.0,0,0,0.0,0.01,21,27,0,0,0,0,3,39,0.0,1.83
+Rubén García,32,2026-05-02,Osasuna,FC Barcelona,6.8,86,9288.0,17.0,108.0,0,0,0.13,0.08,13,16,1,0,2,0,2,33,0.0,1.83
+Rubén García,32,2026-05-08,Levante UD,Osasuna,6.8,82,8856.0,16.0,108.0,0,0,0.08,0.04,11,17,1,0,0,0,3,40,0.0,1.81

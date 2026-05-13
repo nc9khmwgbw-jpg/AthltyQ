@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Juan Jesus,34,2026-05-11,SSC Napoli,Bologna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Juan Jesus,34,2026-04-24,SSC Napoli,Cremonese,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Juan Jesus,34,2026-04-18,SSC Napoli,Lazio,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Juan Jesus,34,2026-04-12,Parma,SSC Napoli,6.5,45,,,0.0,0,0,0.0,0.02,43,43,0,0,0,0,4,47
+Juan Jesus,34,2026-04-06,SSC Napoli,Milan,7.1,85,,,0.0,0,0,0.0,0.0,64,67,0,0,1,0,3,75
+Juan Jesus,34,2026-03-20,Cagliari,SSC Napoli,6.6,12,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,0,4
+Juan Jesus,34,2026-03-14,SSC Napoli,Lecce,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Juan Jesus,34,2026-03-06,SSC Napoli,Torino,6.7,90,,,0.0,0,0,0.0,0.01,68,73,0,0,0,0,6,81
+Juan Jesus,34,2026-02-28,Hellas Verona,SSC Napoli,6.9,90,,,0.0,0,0,0.0,0.12,89,95,0,0,2,0,6,107
+Juan Jesus,34,2026-02-22,Atalanta,SSC Napoli,6.6,70,,,0.0,0,0,0.0,0.0,22,29,1,0,4,0,1,41
+Juan Jesus,34,2026-02-10,SSC Napoli,Como,6.5,90,,,0.0,0,0,0.0,0.0,73,80,0,0,1,0,2,85
+Juan Jesus,34,2026-02-07,Genoa,SSC Napoli,5.9,76,,,0.0,0,0,0.0,0.01,49,53,0,0,2,0,6,68
+Juan Jesus,34,2026-01-31,SSC Napoli,Fiorentina,6.6,90,,,0.0,0,0,0.0,0.0,53,59,1,0,0,0,6,67
+Juan Jesus,34,2026-01-28,SSC Napoli,Chelsea,5.9,67,,,0.0,0,0,0.0,0.0,43,47,0,0,3,0,4,58
+Juan Jesus,34,2026-01-25,Juventus,SSC Napoli,6.2,90,,,0.0,0,0,0.0,0.02,111,120,0,0,3,0,3,131

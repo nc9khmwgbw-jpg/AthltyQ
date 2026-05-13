@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ricardo Rodríguez,33,2026-03-08,Getafe,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ricardo Rodríguez,33,2026-03-12,Panathinaikos FC,Real Betis,6.9,68,7344.0,14.0,108.0,0,0,0.0,0.02,31,36,0,0,2,0,1,50,0.0,1.91
+Ricardo Rodríguez,33,2026-03-15,Real Betis,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ricardo Rodríguez,33,2026-03-19,Real Betis,Panathinaikos FC,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.06,46,51,0,0,1,0,5,65,0.0,1.85
+Ricardo Rodríguez,33,2026-03-22,Athletic Club,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ricardo Rodríguez,33,2026-03-27,Switzerland,Germany,6.2,45,4860.0,9.0,108.0,0,0,0.0,0.0,13,18,0,0,0,0,0,26,0.0,1.85
+Ricardo Rodríguez,33,2026-03-31,Norway,Switzerland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ricardo Rodríguez,33,2026-04-04,Real Betis,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ricardo Rodríguez,33,2026-04-08,Sporting Braga,Real Betis,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,32,0,0,0,0,6,42,0.0,1.85
+Ricardo Rodríguez,33,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ricardo Rodríguez,33,2026-04-16,Real Betis,Sporting Braga,5.8,78,8424.0,16.0,108.0,0,0,0.0,0.08,27,32,0,0,0,0,2,41,0.0,1.9
+Ricardo Rodríguez,33,2026-04-21,Girona FC,Real Betis,6.7,9,972.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0.0,2.06
+Ricardo Rodríguez,33,2026-04-24,Real Betis,Real Madrid,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.03,51,55,2,0,2,0,2,67,0.0,1.85
+Ricardo Rodríguez,33,2026-05-03,Real Betis,Real Oviedo,7.6,90,9720.0,18.0,108.0,0,0,0.02,0.09,30,34,0,0,0,0,6,50,0.0,1.85
+Ricardo Rodríguez,33,2026-05-09,Real Sociedad,Real Betis,7.0,69,7452.0,14.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,2,30,0.0,1.88

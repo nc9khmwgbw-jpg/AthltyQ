@@ -1,0 +1,23 @@
+
+══════════════════════════════════════════════════════════════════════
+🚀 LANCEMENT DE L'ENTRAÎNEMENT HAUTE PERFORMANCE — AthlytIQ ELITE
+══════════════════════════════════════════════════════════════════════
+📊 Dataset chargé : (15411, 224)
+💾 Listes joueurs sauvegardées : 1280 train / 320 test
+   Joueurs train : 1280 (12356 matchs)
+   Joueurs test  : 320 (3055 matchs)
+   Fuite de données : 0 joueurs communs ✅
+🧠 Phase d'optimisation des réglages (Grid Search) sur données normalisées...
+🏋️  Entraînement en cours sur 12356 matchs...
+Fitting 5 folds for each of 24 candidates, totalling 120 fits
+✅ Meilleurs réglages trouvés : {'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 100}
+
+📈 RÉSULTATS DU CENTRE D'ENTRAÎNEMENT :
+   - Précision Finale : 87.44%
+   - Marge d'erreur (MAE) : 12.56 %
+   - Score de fiabilité (R²) : 0.21
+
+💾 Cerveau ELITE sauvegardé intégralement (Modèle + Scaler + Features)
+   📁 Emplacement : /Users/fahamayoub/Desktop/AthlytIQ/LM/models/saved
+══════════════════════════════════════════════════════════════════════
+

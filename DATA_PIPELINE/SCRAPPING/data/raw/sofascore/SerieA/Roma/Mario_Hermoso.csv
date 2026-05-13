@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Mario Hermoso,30,2026-05-10,Parma,AS Roma,6.4,53,,,0.0,0,0,0.0,0.04,56,62,0,0,0,0,3,68
+Mario Hermoso,30,2026-05-04,AS Roma,Fiorentina,7.9,83,,,0.0,1,0,0.8,0.08,50,54,1,0,1,0,4,67
+Mario Hermoso,30,2026-04-25,Bologna,AS Roma,6.5,61,,,0.0,0,0,0.09,0.0,15,22,0,0,0,0,3,37
+Mario Hermoso,30,2026-04-18,AS Roma,Atalanta,8.1,90,,,0.0,1,0,0.24,0.01,62,68,0,0,0,0,7,92
+Mario Hermoso,30,2026-04-10,AS Roma,Pisa,7.2,90,,,0.0,0,0,0.0,0.01,53,60,0,0,1,0,3,81
+Mario Hermoso,30,2026-04-05,Inter,AS Roma,5.1,81,,,0.0,0,0,0.0,0.01,37,42,0,0,2,0,5,56
+Mario Hermoso,30,2026-03-22,AS Roma,Lecce,9.0,90,,,0.0,0,0,0.04,0.19,71,82,1,0,0,0,2,101
+Mario Hermoso,30,2026-03-19,AS Roma,Bologna,6.3,120,,,0.0,0,0,0.05,0.03,77,86,1,0,2,0,5,102
+Mario Hermoso,30,2026-03-15,Como,AS Roma,6.9,70,,,0.0,0,0,0.0,0.0,32,40,0,0,0,0,3,56
+Mario Hermoso,30,2026-03-12,Bologna,AS Roma,6.4,25,,,0.0,0,0,0.05,0.0,11,15,0,0,0,0,3,18
+Mario Hermoso,30,2026-02-02,Udinese,AS Roma,6.3,70,,,0.0,0,0,0.0,0.01,47,51,0,0,3,0,5,63
+Mario Hermoso,30,2026-01-18,Torino,AS Roma,6.9,23,,,0.0,0,0,0.0,0.01,17,22,1,0,0,0,1,25
+Mario Hermoso,30,2026-01-13,AS Roma,Torino,7.3,45,,,0.0,1,0,0.0,0.0,31,35,0,0,0,0,1,43
+Mario Hermoso,30,2026-01-10,AS Roma,Sassuolo,7.3,90,,,0.0,0,0,0.19,0.08,66,71,2,0,2,0,3,84
+Mario Hermoso,30,2026-01-03,Atalanta,AS Roma,6.5,90,,,0.0,0,0,0.0,0.01,49,59,0,0,2,0,4,76

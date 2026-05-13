@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Marc Roca,29,2026-02-21,Real Betis,Rayo Vallecano,6.7,90,9720.0,18.0,108.0,0,0,0.03,0.04,40,44,0,0,2,0,2,53,0.0,1.85
+Marc Roca,29,2026-03-01,Real Betis,Sevilla,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.06,37,41,1,0,1,0,3,54,0.0,1.85
+Marc Roca,29,2026-03-08,Getafe,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marc Roca,29,2026-03-12,Panathinaikos FC,Real Betis,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.08,56,65,0,0,1,0,5,78,0.0,1.85
+Marc Roca,29,2026-03-15,Real Betis,Celta Vigo,7.6,90,9720.0,18.0,108.0,0,0,0.03,0.13,52,56,3,0,3,0,6,73,0.0,1.85
+Marc Roca,29,2026-03-19,Real Betis,Panathinaikos FC,7.1,27,2916.0,5.0,108.0,0,0,0.02,0.01,28,30,1,0,0,0,3,34,0.0,1.71
+Marc Roca,29,2026-03-22,Athletic Club,Real Betis,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.01,30,34,0,0,0,0,0,41,0.0,1.85
+Marc Roca,29,2026-04-04,Real Betis,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marc Roca,29,2026-04-08,Sporting Braga,Real Betis,6.8,63,6804.0,13.0,108.0,0,0,0.0,0.09,28,29,1,0,0,0,4,33,0.0,1.91
+Marc Roca,29,2026-04-12,Osasuna,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marc Roca,29,2026-04-16,Real Betis,Sporting Braga,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marc Roca,29,2026-04-21,Girona FC,Real Betis,7.1,90,9720.0,18.0,108.0,1,0,0.08,0.17,34,37,1,0,2,0,3,52,0.0,1.85
+Marc Roca,29,2026-04-24,Real Betis,Real Madrid,6.5,45,4860.0,9.0,108.0,0,0,0.07,0.01,33,37,1,0,1,0,4,46,0.0,1.85
+Marc Roca,29,2026-05-03,Real Betis,Real Oviedo,7.0,28,3024.0,6.0,108.0,0,0,0.0,0.01,24,26,1,0,0,0,5,30,0.0,1.98
+Marc Roca,29,2026-05-09,Real Sociedad,Real Betis,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,25,30,1,0,2,0,4,38,0.0,1.85

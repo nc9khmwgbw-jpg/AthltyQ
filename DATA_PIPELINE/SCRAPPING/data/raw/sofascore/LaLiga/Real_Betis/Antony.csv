@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Antony,26,2026-02-15,Mallorca,Real Betis,7.2,90,9720.0,18.0,108.0,0,0,0.55,0.37,36,42,6,0,2,0,2,60,0.0,1.85
+Antony,26,2026-02-21,Real Betis,Rayo Vallecano,7.4,90,9720.0,18.0,108.0,0,0,1.01,0.1,28,35,1,0,0,0,2,52,0.0,1.85
+Antony,26,2026-03-01,Real Betis,Sevilla,7.9,90,9720.0,18.0,108.0,1,0,0.4,0.02,24,34,1,0,2,0,12,59,0.0,1.85
+Antony,26,2026-03-08,Getafe,Real Betis,6.5,29,3132.0,6.0,108.0,0,0,0.02,0.56,11,14,1,0,0,0,0,19,0.0,1.92
+Antony,26,2026-03-12,Panathinaikos FC,Real Betis,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.13,42,52,2,0,1,0,5,70,0.0,1.85
+Antony,26,2026-03-15,Real Betis,Celta Vigo,6.9,23,2484.0,5.0,108.0,0,0,0.02,0.08,15,16,0,0,0,0,1,23,0.0,2.01
+Antony,26,2026-03-19,Real Betis,Panathinaikos FC,9.1,90,9720.0,18.0,108.0,1,0,0.92,0.26,49,57,4,0,1,0,5,78,0.0,1.85
+Antony,26,2026-03-22,Athletic Club,Real Betis,6.4,45,4860.0,9.0,108.0,0,0,0.03,0.12,14,18,1,0,0,0,1,21,0.0,1.85
+Antony,26,2026-04-04,Real Betis,Espanyol,6.4,66,7128.0,13.0,108.0,0,0,0.22,0.05,23,31,0,0,0,0,1,41,0.0,1.82
+Antony,26,2026-04-08,Sporting Braga,Real Betis,6.8,45,4860.0,9.0,108.0,0,0,0.07,0.02,14,18,1,0,0,0,1,27,0.0,1.85
+Antony,26,2026-04-12,Osasuna,Real Betis,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,14,20,0,0,0,0,4,26,0.0,1.85
+Antony,26,2026-04-16,Real Betis,Sporting Braga,7.6,83,8964.0,17.0,108.0,1,0,0.59,0.05,27,36,1,0,1,0,5,61,0.0,1.9
+Antony,26,2026-04-24,Real Betis,Real Madrid,7.0,90,9720.0,18.0,108.0,0,0,0.3,0.17,39,47,1,0,2,0,1,75,0.0,1.85
+Antony,26,2026-05-03,Real Betis,Real Oviedo,7.8,62,6696.0,12.0,108.0,0,0,0.11,0.6,37,48,2,0,0,0,3,56,0.0,1.79
+Antony,26,2026-05-09,Real Sociedad,Real Betis,8.0,59,6372.0,12.0,108.0,1,0,1.33,0.07,14,16,2,0,2,0,4,26,0.0,1.88

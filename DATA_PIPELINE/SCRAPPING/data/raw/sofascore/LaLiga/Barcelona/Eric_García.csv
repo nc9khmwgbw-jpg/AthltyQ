@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Eric García,25,2026-02-16,Girona FC,FC Barcelona,6.4,73,7884.0,15.0,108.0,0,0,0.22,0.05,71,75,0,0,0,0,5,80,0.0,1.9
+Eric García,25,2026-02-22,FC Barcelona,Levante UD,8.4,90,9720.0,18.0,108.0,0,0,0.05,0.39,118,120,1,0,0,0,5,132,0.0,1.85
+Eric García,25,2026-02-28,FC Barcelona,Villarreal,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.06,98,103,1,0,3,0,5,112,0.0,1.85
+Eric García,25,2026-03-07,Athletic Club,FC Barcelona,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,62,68,0,0,3,0,2,96,0.0,1.85
+Eric García,25,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Eric García,25,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Eric García,25,2026-03-18,FC Barcelona,Newcastle United,6.2,22,2376.0,4.0,108.0,0,0,0.0,0.0,5,7,0,0,0,0,1,8,0.0,1.68
+Eric García,25,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Eric García,25,2026-04-04,Atlético Madrid,FC Barcelona,6.8,78,8424.0,16.0,108.0,0,0,0.0,0.05,42,42,0,0,0,0,4,48,0.0,1.9
+Eric García,25,2026-04-08,FC Barcelona,Atlético Madrid,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.08,78,85,2,0,1,0,5,93,0.0,1.85
+Eric García,25,2026-04-11,FC Barcelona,Espanyol,7.6,90,9720.0,18.0,108.0,0,0,0.03,0.29,68,72,2,0,1,0,1,89,0.0,1.85
+Eric García,25,2026-04-14,Atlético Madrid,FC Barcelona,6.5,79,8532.0,16.0,108.0,0,0,0.0,0.02,82,87,0,0,2,0,2,99,0.0,1.88
+Eric García,25,2026-04-22,FC Barcelona,Celta Vigo,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.04,60,67,1,0,2,0,2,77,0.0,1.85
+Eric García,25,2026-05-02,Osasuna,FC Barcelona,7.0,82,8856.0,16.0,108.0,0,0,0.0,0.19,67,77,1,0,2,0,3,97,0.0,1.81
+Eric García,25,2026-05-10,FC Barcelona,Real Madrid,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,65,69,0,0,2,0,5,86,0.0,1.85

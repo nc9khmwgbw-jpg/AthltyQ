@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Ciro Immobile,2026-01-10,Como,Bologna,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,5,0,1.98,36
+Ciro Immobile,2026-01-15,Hellas Verona,Bologna,6.6,24,2592.0,5.0,108.0,0,0,0.0,0.0,7,9,0,0,0,0,2,14,0,1.93,36
+Ciro Immobile,2026-01-18,Bologna,Fiorentina,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
+Ciro Immobile,2026-01-25,Genoa,Bologna,5.7,73,7884.0,15.0,108.0,0,0,0.04,0.01,14,17,1,0,0,0,1,26,0,1.9,36
+Ciro Immobile,2026-02-04,Lorient,Paris FC,6.3,32,3456.0,6.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,2,14,0,1.74,36
+Ciro Immobile,2026-02-08,Auxerre,Paris FC,6.2,79,8532.0,16.0,108.0,0,0,0.23,0.02,14,18,1,0,0,0,1,27,0,1.88,36
+Ciro Immobile,2026-02-14,Paris FC,RC Lens,6.2,73,7884.0,15.0,108.0,0,0,0.11,0.09,10,13,1,0,0,0,1,23,0,1.9,36
+Ciro Immobile,2026-02-21,Toulouse,Paris FC,6.6,81,8748.0,16.0,108.0,0,0,0.0,0.42,10,13,0,0,0,0,1,20,0,1.83,36
+Ciro Immobile,2026-03-01,Paris FC,Nice,6.0,70,7560.0,14.0,108.0,0,0,0.04,0.03,4,12,1,0,0,0,1,22,0,1.85,36
+Ciro Immobile,2026-03-08,Olympique Lyonnais,Paris FC,6.5,17,1836.0,3.0,108.0,0,0,0.0,0.01,6,6,0,0,0,0,0,8,0,1.63,36
+Ciro Immobile,2026-03-15,RC Strasbourg,Paris FC,6.1,64,6912.0,13.0,108.0,0,0,0.03,0.0,7,9,0,0,0,0,3,22,0,1.88,36
+Ciro Immobile,2026-03-22,Paris FC,Le Havre,8.0,73,7884.0,15.0,108.0,1,0,0.55,0.05,9,15,1,0,0,0,4,28,0,1.9,36
+Ciro Immobile,2026-04-10,Paris FC,AS Monaco,9.0,75,8100.0,15.0,108.0,1,0,0.39,0.49,17,21,2,0,0,0,4,35,0,1.85,36
+Ciro Immobile,2026-04-19,Metz,Paris FC,6.3,78,8424.0,16.0,108.0,0,0,0.19,0.31,19,29,3,0,1,0,3,34,0,1.9,36
+Ciro Immobile,2026-04-26,Paris FC,Lille,6.4,69,7452.0,14.0,108.0,0,0,0.08,0.01,6,10,0,0,0,0,3,17,0,1.88,36

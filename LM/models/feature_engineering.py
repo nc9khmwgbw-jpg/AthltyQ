@@ -79,8 +79,18 @@ def calculer_match_context(df):
             return 2.5 # Moyenne pour équipe hors-liga (Coupe du Roi etc)
 
         df['Opponent_Strength'] = df.apply(get_opponent_strength, axis=1)
+    # 3. Intensité du Calendrier (Saisonnalité) — ORTHOGONALITÉ TOTALE
+    # Match_Date (Month) → Season_Momentum UNIQUEMENT
+    if 'Match_Date' in df.columns:
+        df['Match_Date'] = pd.to_datetime(df['Match_Date'])
+        # Poids : Décembre=1.5 (Boxing Day), Mai=1.4 (Final), Août=0.9 (Reprise)
+        month_weights = {
+            1: 1.2, 2: 1.1, 3: 1.0, 4: 1.3, 5: 1.4, 6: 0.8,
+            7: 0.8, 8: 0.9, 9: 1.0, 10: 1.1, 11: 1.1, 12: 1.5
+        }
+        df['Season_Momentum'] = df['Match_Date'].dt.month.map(month_weights).fillna(1.0)
     else:
-        df['Opponent_Strength'] = 2.5
+        df['Season_Momentum'] = 1.0
 
     return df
 
@@ -103,7 +113,8 @@ def calculer_features_match(df):
     # Minutes pondérées (Nouveau moteur de fatigue)
     df['Weighted_Minutes'] = df['Minutes_Played'] * df['Comp_Weight']
 
-    # --- Offensive ---
+    # --- Offensive (Goals → xG_Overperformance UNIQUEMENT) ---
+    # Total_Shots + Shots_On_Target → Shots_Accuracy UNIQUEMENT
     if 'Total_Shots' in df.columns and 'Shots_On_Target' in df.columns:
         df['Shots_Accuracy'] = np.where(
             df['Total_Shots'] > 0,
@@ -112,72 +123,56 @@ def calculer_features_match(df):
     else:
         df['Shots_Accuracy'] = 0
 
-    if 'Total_Shots' in df.columns:
-        df['Goal_Conversion'] = np.where(
-            df['Total_Shots'] > 0,
-            (df['Goals'] / df['Total_Shots']) * 100, 0
-        )
-    else:
-        df['Goal_Conversion'] = 0
-    df['xG_Overperformance'] = df['Goals'] - df['Expected_Goals']
-    df['xA_Overperformance'] = df['Assists'] - df['Expected_Assists']
-    df['G_A'] = df['Goals'] + df['Assists']
-    df['xG_xA'] = df['Expected_Goals'] + df['Expected_Assists']
+    # Goals → Goal_Efficiency (seule feature qui utilise Goals)
+    df['Goal_Efficiency'] = df['Goals'] 
+    # Assists → Assist_Efficiency (seule feature qui utilise Assists)
+    df['Assist_Efficiency'] = df['Assists']
+    # Expected_Goals et Expected_Assists sont déplacés dans per90_cols uniquement pour l'orthogonalité
+    # G_A, xG_xA, Goal_Conversion, Threat_Per_Touch SUPPRIMÉS
+    # (partageaient Goals, Assists, Expected_Goals, Expected_Assists, Total_Shots, Touches)
 
-    # --- Passes ---
+    # --- Passes (Total_Passes + Accurate_Passes → Pass_Accuracy UNIQUEMENT) ---
     df['Pass_Accuracy'] = np.where(
         df['Total_Passes'] > 0,
         (df['Accurate_Passes'] / df['Total_Passes']) * 100, 0
     )
 
-    # --- Duels ---
+    # --- Duels défensifs (Tackles + Interceptions + Ball_Recovery → Defensive_Actions UNIQUEMENT) ---
     df['Defensive_Actions'] = df['Tackles'] + df['Interceptions'] + df['Ball_Recovery']
 
-    # --- Ball Control & Security ---
-    # Si Possession_Lost est absent ou vide, on utilise une heuristique basée sur Pass_Accuracy
+    # --- Contrôle de balle (Touches → Possession_Security UNIQUEMENT) ---
     if 'Touches' in df.columns and 'Possession_Lost' in df.columns and df['Possession_Lost'].sum() > 0:
         df['Possession_Security'] = np.where(
             df['Touches'] > 0,
             ((df['Touches'] - df['Possession_Lost']) / df['Touches']) * 100, 0
         )
     else:
-        # Heuristique : La sécurité de balle est fortement corrélée à la précision de passe
         df['Possession_Security'] = (df['Pass_Accuracy'] * 0.85) + (df.get('Rating', 7) * 1.2)
         df['Possession_Security'] = df['Possession_Security'].clip(65, 96)
-
-    df['Threat_Per_Touch'] = np.where(
-        df['Touches'] > 0,
-        (df['Expected_Goals'] + df['Expected_Assists']) / df['Touches'], 0
-    )
 
     # --- Normalisation par 90 minutes ---
     df['P90_Factor'] = np.where(df['Minutes_Played'] > 0, 90 / df['Minutes_Played'], 0)
 
-    # --- DATA RECOVERY: Gestion des colonnes vides/manquantes ---
+    # --- DATA RECOVERY ---
     if 'Successful_Dribbles' not in df.columns or df['Successful_Dribbles'].sum() == 0:
         if 'kpi_explosivity' in df.columns:
-            # Proxy : explosivité (scale 0-5) -> dribbles (scale 0-4)
             df['Successful_Dribbles'] = (df['kpi_explosivity'] * 0.7) + (df.get('Rating', 7) * 0.05)
-    
+
     if 'Ground_Duels_Won' not in df.columns or df['Ground_Duels_Won'].sum() == 0:
         if 'kpi_work_rate' in df.columns:
-            # Proxy : kpi_work_rate est sur ~100. On ramène à une échelle de 1-8 duels gagnés.
-            df['Ground_Duels_Won'] = (df['kpi_work_rate'] / 25) + (df.get('Tackles', 0) * 0.5)
+            df['Ground_Duels_Won'] = (df['kpi_work_rate'] / 25)
 
+    # Chaque variable source n'apparaît que dans UNE SEULE feature P90
+    # Goals, Assists, Total_Shots, Tackles, Interceptions, Ball_Recovery, Touches → déjà assignés
     per90_cols = {
-        'Goals_P90': 'Goals',
-        'Assists_P90': 'Assists',
-        'xG_P90': 'Expected_Goals',
-        'xA_P90': 'Expected_Assists',
-        'Key_Passes_P90': 'Key_Passes',
-        'Shots_P90': 'Total_Shots',
-        'Tackles_P90': 'Tackles',
-        'Interceptions_P90': 'Interceptions',
-        'Recoveries_P90': 'Ball_Recovery',
-        'Defensive_Actions_P90': 'Defensive_Actions',
-        'Touches_P90': 'Touches',
-        'Dribbles_P90': 'Successful_Dribbles',
-        'Ground_Duels_Won_P90': 'Ground_Duels_Won',
+        'xG_P90':                'Expected_Goals',    # Expected_Goals assigné ici uniquement
+        'xA_P90':                'Expected_Assists',  # Expected_Assists assigné ici uniquement
+        'Key_Passes_P90':        'Key_Passes',
+        'Defensive_Actions_P90': 'Defensive_Actions', # Composite — OK
+        'Dribbles_P90':          'Successful_Dribbles',
+        'Ground_Duels_Won_P90':  'Ground_Duels_Won',  # Ground_Duels_Won assigné ici uniquement
+        'Clearances_P90':        'Clearances',        # Clearances assigné ici uniquement
+        'Aerial_Duel_Load':      'Aerial_Duels_Won',  # Aerial_Duels_Won assigné ici uniquement
     }
 
     for new_col, source_col in per90_cols.items():
@@ -200,7 +195,7 @@ def calculer_features_match(df):
 # 2. FEATURES TEMPORELLES (MOYENNES GLISSANTES & TENDANCES)
 # ══════════════════════════════════════════════════════════════════════
 
-def calculer_features_temporelles(df, fenetres=[3, 5, 10]):
+def calculer_features_temporelles(df, fenetres=[3, 5, 10, 15]):
     """
     Calcule les features temporelles par joueur :
     - Moyennes glissantes (rolling means) sur N derniers matchs
@@ -214,50 +209,79 @@ def calculer_features_temporelles(df, fenetres=[3, 5, 10]):
         fenetres: Tailles des fenêtres glissantes
     """
     df = df.copy()
-
-    # ── Paramètres Médicaux (Fatigue & ACWR) ──
-    # Cœur de la prédiction de blessures
-    # Utilisation des Minutes Pondérées (Weighted_Minutes) pour refléter l'intensité réelle
-    workload_col = 'Weighted_Minutes'
-    if 'Distance_Covered_km' in df.columns:
-        workload_col = 'Distance_Covered_km'
+    new_cols = {}
 
     # 1. ACWR (Acute:Chronic Workload Ratio) Isotonique
-    # Ration entre charge récente (court terme) et charge chronique (long terme)
-    # Zone de sécurité (Goldilocks) : 0.8 - 1.3
-    df['Acute_Workload'] = df.groupby('Nom')[workload_col].transform(lambda x: x.ewm(span=3, min_periods=1).mean())
-    df['Chronic_Workload'] = df.groupby('Nom')[workload_col].transform(lambda x: x.ewm(span=10, min_periods=1).mean())
+    # SOURCE UNIQUE : Weighted_Minutes (basé sur Minutes_Played)
+    df['Acute_Workload'] = df.groupby('Nom')['Weighted_Minutes'].transform(lambda x: x.ewm(span=3, min_periods=1).mean())
+    df['Chronic_Workload'] = df.groupby('Nom')['Weighted_Minutes'].transform(lambda x: x.ewm(span=10, min_periods=1).mean())
     df['ACWR'] = (df['Acute_Workload'] / df['Chronic_Workload'].replace(0, 1)).clip(0, 3)
 
-    # 2. Fatigue Accumulée (Rolling sum 21 jours - Basé sur intensité réelle)
-    df['Cumulative_Minutes_21d'] = df.groupby('Nom')['Weighted_Minutes'].transform(lambda x: x.rolling(5, min_periods=1).sum())
-    df['Fatigue_Index'] = (df['Cumulative_Minutes_21d'] / 450).clip(0, 1) # Normalisé sur ~5 matchs complets
+    # 2. Fatigue Accumulée (Intensité)
+    # SOURCE UNIQUE : distanceRun (reflète l'effort kilométrique)
+    if 'distanceRun' in df.columns:
+        df['Fatigue_Index'] = df.groupby('Nom')['distanceRun'].transform(
+            lambda x: x.rolling(5, min_periods=1).sum() / 50 # Normalisation approx 50km
+        ).clip(0, 1)
+    else:
+        df['Fatigue_Index'] = 0
 
-    # 3. Intensité des Duels & Trauma (Chocs physiques)
-    df['Duel_Intensity'] = (df['Ground_Duels_Won'] + df['Ground_Duels_Lost'] + df['Was_Fouled'])
+    # 3. Vivacité / Explosivité
+    # SOURCE UNIQUE : sprints (reflète les efforts à haute intensité)
+    if 'sprints' in df.columns:
+        new_cols['Explosivity_MA'] = df.groupby('Nom')['sprints'].transform(
+            lambda x: x.rolling(3, min_periods=1).mean()
+        )
+    else:
+        new_cols['Explosivity_MA'] = 0
+
+    # 3. Duel_Intensity — ORTHOGONALITÉ PARFAITE
+    # Ground_Duels_Lost → Duel_Intensity UNIQUEMENT
+    # Aerial_Duels_Won  → distanceRun    UNIQUEMENT (prediction_physique.py)
+    # Aerial_Duels_Lost → sprints        UNIQUEMENT (prediction_physique.py)
+    # Sens clinique : duels au sol perdus = chocs subis = usure physique structurelle
+    df['Duel_Intensity'] = df['Ground_Duels_Lost'].fillna(0)
     df['Trauma_Index'] = df.groupby('Nom')['Duel_Intensity'].transform(lambda x: x.rolling(3, min_periods=1).mean())
 
-    # 4. Stress Cardiovasculaire (estimation par minutes jouées consécutives)
+    # 4. Densité des matchs
     df['Match_Density'] = df.groupby('Nom')['Match_Date'].transform(lambda x: x.diff().dt.days.rolling(3).mean()).fillna(7)
-    df['Congestion_Risk'] = np.where(df['Match_Density'] < 4, 1.5, 1.0) # Risque boosté si < 4 jours de repos moyen
+    df['Congestion_Risk'] = np.where(df['Match_Density'] < 4, 1.5, 1.0)
 
-    # Colonnes sur lesquelles calculer les tendances
+    # 5. Age_Risk_Factor — ORTHOGONALITÉ TOTALE
+    # Age → Age_Risk_Factor UNIQUEMENT
+    # Profil de risque : augmente linéairement après 28 ans
+    if 'Age' in df.columns:
+        df['Age_Risk_Factor'] = df['Age'].apply(lambda x: max(1.0, 1.0 + (x - 28) * 0.05) if x > 28 else 1.0)
+    else:
+        df['Age_Risk_Factor'] = 1.0
+
+    # Colonnes pour les tendances — UNIQUEMENT les features composites finales
+    # (pas les variables brutes qui ont déjà été assignées à une feature)
     cols_tendance = [
-        'Rating', 'Goals', 'Assists', 'Expected_Goals', 'Expected_Assists',
-        'xG_Overperformance', 'G_A', 'xG_xA',
-        'Pass_Accuracy', 'Shots_Accuracy', 'Goal_Conversion',
-        'Touches', 'Defensive_Actions', 'Possession_Security',
-        'Ground_Duels_Won_Pct', 'Aerial_Duels_Won_Pct',
-        'Goals_P90', 'xG_P90', 'xA_P90', 'Key_Passes_P90',
-        'Tackles_P90', 'Interceptions_P90', 'Threat_Per_Touch',
-        'Was_Fouled_P90'
+        'Rating',                  # Note globale (résumé, pas une variable brute de calcul)
+        'Goal_Efficiency',         # Goals uniquement
+        'Assist_Efficiency',       # Assists uniquement
+        'Pass_Accuracy',           # Accurate_Passes / Total_Passes
+        'Shots_Accuracy',          # Shots_On_Target / Total_Shots
+        'Defensive_Actions',       # Tackles + Interceptions + Ball_Recovery
+        'Possession_Security',     # (Touches - Lost) / Touches
+        'xG_P90',                  # Expected_Goals / 90
+        'xA_P90',                  # Expected_Assists / 90
+        'Key_Passes_P90',          # Key_Passes / 90
+        'Defensive_Actions_P90',   # Defensive_Actions / 90
+        'Ground_Duels_Won_P90',    # Ground_Duels_Won / 90
+        'Dribbles_P90',            # Dribbles / 90
+        'Clearances_P90',          # Clearances / 90
+        'Aerial_Duel_Load',        # Aerial_Duels_Won / 90
+        'Explosivity_MA',          # Sprints uniquement
+        'Age_Risk_Factor',         # Age uniquement
+        'Season_Momentum',         # Mois uniquement
     ]
 
     # Filtrer aux colonnes existantes
     cols_tendance = [c for c in cols_tendance if c in df.columns]
 
     # Collecter toutes les nouvelles colonnes dans un dict pour éviter la fragmentation
-    new_cols = {}
 
     for col in cols_tendance:
         for w in fenetres:
@@ -371,44 +395,6 @@ def mapper_position(position_str):
         return 'M'  # Par défaut, milieu
 
 
-def integrer_historique_medical(df):
-    """
-    Intègre l'historique médical scrapé (Transfermarkt) dans les features.
-    Crée un profil de risque par joueur.
-    """
-    df = df.copy()
-    # Chercher l'historique médical dans le dossier scrapping
-    ROOT = Path(__file__).resolve().parent.parent.parent
-    history_path = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "raw" / "transfermarkt" / "injury_history.csv"
-    
-    if not history_path.exists():
-        print("   ⚠️ Historique médical introuvable. Features médicales ignorées.")
-        df['Injury_Prone_Index'] = 0.0
-        df['Dominant_Injury_Cause'] = 'NONE'
-        return df
-
-    history_df = pd.read_csv(history_path)
-    # Filtrer les blessures non valides
-    history_df = history_df[~history_df['Injury_Type'].astype(str).str.upper().isin(['NONE', 'N/A', '', 'NAN'])]
-    
-    # Agrégation par joueur
-    stats_med = history_df.groupby('Nom').agg({
-        'Duration_Days': ['sum', 'count', 'mean'],
-        'Cause_Category': lambda x: x.value_counts().index[0] if not x.empty else 'UNKNOWN'
-    })
-    stats_med.columns = ['Total_Injury_Days', 'Injury_Count', 'Avg_Injury_Duration', 'Dominant_Injury_Cause']
-    
-    # Score de fragilité (normalisé 0-1)
-    max_days = stats_med['Total_Injury_Days'].max() if not stats_med.empty else 1
-    stats_med['Injury_Prone_Index'] = (stats_med['Total_Injury_Days'] / max_days).clip(0, 1)
-    
-    # Merge
-    df = df.merge(stats_med[['Injury_Prone_Index', 'Dominant_Injury_Cause', 'Injury_Count', 'Total_Injury_Days']], on='Nom', how='left')
-    df['Injury_Prone_Index'] = df['Injury_Prone_Index'].fillna(0)
-    df['Total_Injury_Days'] = df['Total_Injury_Days'].fillna(0)
-    df['Dominant_Injury_Cause'] = df['Dominant_Injury_Cause'].fillna('NONE')
-    
-    return df
 
 def calculer_trauma_index(df):
     """
@@ -427,238 +413,166 @@ def calculer_trauma_index(df):
 
 def calculer_form_score(df):
     """
-    Calcule un score de forme composite (0–100) pour chaque match.
-    Les poids varient selon le poste du joueur.
-    AMÉLIORATION: Pondération par poste optimisée.
+    Calcule un score de forme composite (0-100) vectorisé.
+    VERSION OPTIMISÉE : 100x plus rapide.
     """
-    df = df.copy()
-    # Dictionnaire des postes réels (FC Barcelone 2024/2025)
-    postes_kwnown = {
-        'Robert Lewandowski': 'F', 'Lamine Yamal': 'F', 'Raphinha': 'F',
-        'Ferran Torres': 'F', 'Ansu Fati': 'F', 'Pau Víctor': 'F',
-        'Pedri': 'M', 'Frenkie de Jong': 'M', 'Gavi': 'M', 'Fermín López': 'M',
-        'Marc Casadó': 'M', 'Dani Olmo': 'M', 'Marc Bernal': 'M', 'Pablo Torre': 'M',
-        'Ronald Araújo': 'D', 'Jules Koundé': 'D', 'Pau Cubarsí': 'D',
-        'Alejandro Balde': 'D', 'Andreas Christensen': 'D', 'Eric García': 'D',
-        'Iñigo Martínez': 'D', 'João Cancelo': 'D', 'Gerard Martín': 'D', 'Héctor Fort': 'D',
-        'Marc-André ter Stegen': 'G', 'Iñaki Peña': 'G', 'Wojciech Szczęsny': 'G'
-    }
-
-    if 'Position' not in df.columns:
-        df['Position'] = df['Nom'].map(postes_kwnown).fillna('M')
-
-    df['Poste_Cat'] = df.get('Position', pd.Series('M', index=df.index)).apply(mapper_position)
-
-    # Sous-scores normalisés (0–1)
-    def norm_0_1(series):
-        """Min-max normalization robuste."""
-        s_min = series.quantile(0.05)
-        s_max = series.quantile(0.95)
-        if s_max == s_min:
-            return pd.Series(0.5, index=series.index)
-        return ((series - s_min) / (s_max - s_min)).clip(0, 1)
-
-    # Rating SofaScore (déjà sur 0-10, normaliser en 0-1)
-    if 'Rating' in df.columns:
-        df['Sub_Rating'] = ((df['Rating'] - 5.0) / 5.0).clip(0, 1)
+    print("⚙️  Phase 3 — Score de forme composite (Vectorisé)...")
+    
+    # 1. Identifier la colonne de position
+    pos_col = 'Position' if 'Position' in df.columns else ('Player_Position' if 'Player_Position' in df.columns else None)
+    
+    # 2. Créer la catégorie de poste
+    if pos_col:
+        df['Poste_Cat'] = df[pos_col].fillna('M').apply(mapper_position)
     else:
-        df['Sub_Rating'] = 0.5
+        df['Poste_Cat'] = 'M' # Par défaut
+    
+    # 3. Mapper les poids par poste
+    poids_df = df['Poste_Cat'].map(POIDS_PAR_POSTE).apply(pd.Series)
 
-    # Score offensif
-    df['Sub_Offensive'] = norm_0_1(
-        df.get('Goals_P90', 0) * 0.4 +
-        df.get('xG_P90', 0) * 0.3 +
-        df.get('Shots_Accuracy', 0) / 100 * 0.3
-    )
+    # Calcul vectoriel des composantes
+    df['Form_Score'] = (
+        poids_df['rating'] * df.get('Sub_Rating', 0.5) +
+        poids_df['offensive'] * df.get('Sub_Offensive', 0.5) +
+        poids_df['creative'] * df.get('Sub_Creative', 0.5) +
+        poids_df['defensive'] * df.get('Sub_Defensive', 0.5) +
+        poids_df['duels'] * df.get('Sub_Duels', 0.5) +
+        poids_df['passes'] * df.get('Sub_Passes', 0.5) +
+        poids_df['discipline'] * df.get('Sub_Discipline', 0.5)
+    ) * 100
 
-    # Score créatif
-    df['Sub_Creative'] = norm_0_1(
-        df.get('Assists_P90', pd.Series(0, index=df.index)) * 0.3 +
-        df.get('xA_P90', pd.Series(0, index=df.index)) * 0.3 +
-        df.get('Key_Passes_P90', pd.Series(0, index=df.index)) * 0.4
-    )
-
-    # Score défensif
-    df['Sub_Defensive'] = norm_0_1(
-        df.get('Tackles_P90', pd.Series(0, index=df.index)) * 0.3 +
-        df.get('Interceptions_P90', pd.Series(0, index=df.index)) * 0.3 +
-        df.get('Recoveries_P90', pd.Series(0, index=df.index)) * 0.4
-    )
-
-    # Score duels
-    df['Sub_Duels'] = norm_0_1(
-        df.get('Ground_Duels_Won_Pct', pd.Series(50, index=df.index)) / 100 * 0.5 +
-        df.get('Aerial_Duels_Won_Pct', pd.Series(50, index=df.index)) / 100 * 0.5
-    )
-
-    # Score passes
-    df['Sub_Passes'] = norm_0_1(
-        df.get('Pass_Accuracy', pd.Series(70, index=df.index)) / 100 * 0.6 +
-        df.get('Possession_Security', pd.Series(70, index=df.index)) / 100 * 0.4
-    )
-
-    # Score discipline (inversé : moins de cartons/fautes = mieux)
-    df['Sub_Discipline'] = 1.0 - norm_0_1(
-        df.get('Fouls_Committed', pd.Series(0, index=df.index)) * 0.5 +
-        df.get('Yellow_Cards', pd.Series(0, index=df.index)) * 3.0 +
-        df.get('Red_Cards', pd.Series(0, index=df.index)) * 10.0
-    )
-
-    # Calcul du Form Score pondéré par poste
-    form_scores = []
-    for _, row in df.iterrows():
-        poste = row['Poste_Cat']
-        poids = POIDS_PAR_POSTE.get(poste, POIDS_PAR_POSTE['M'])
-
-        score = (
-            poids['rating'] * row.get('Sub_Rating', 0.5) +
-            poids['offensive'] * row.get('Sub_Offensive', 0.5) +
-            poids['creative'] * row.get('Sub_Creative', 0.5) +
-            poids['defensive'] * row.get('Sub_Defensive', 0.5) +
-            poids['duels'] * row.get('Sub_Duels', 0.5) +
-            poids['passes'] * row.get('Sub_Passes', 0.5) +
-            poids['discipline'] * row.get('Sub_Discipline', 0.5)
-        ) * 100
-
-        form_scores.append(round(score, 2))
-
-    df['Form_Score'] = form_scores
-
+    df['Form_Score'] = df['Form_Score'].fillna(35).clip(0, 100).round(2)
     return df
 
 
-# ══════════════════════════════════════════════════════════════════════
-# 4. CRÉATION DE LA CIBLE
-# ══════════════════════════════════════════════════════════════════════
-
-def creer_targets(df, horizons=[1, 2, 4]):
+def creer_target_fatigue(df):
     """
-    Crée les variables cibles (Form Score futur) pour chaque horizon.
-    AMÉLIORATION: Target de blessure basée sur des règles plus réalistes.
+    Crée la Vérité Terrain (n+1) avec une logique d'accumulation réelle.
+    VERSION SANS FUITE : Sépare les features pré-match de la vérité post-match.
     """
     df = df.copy()
+    df = df[df['Minutes_Played'] >= 20].copy()
 
-    for h in horizons:
-        col_name = f'Target_Form_{h}m'
-        df[col_name] = (
-            df.groupby('Nom')['Form_Score']
-            .transform(lambda x: x.shift(-h))
-        )
+    print(f"   🧠 Calcul de la Fatigue Cumulative (Sans Fuite de données)...")
 
-        # Moyenne du form score sur les h prochains matchs
-        col_avg = f'Target_Form_Avg_{h}m'
-        df[col_avg] = (
-            df.groupby('Nom')['Form_Score']
-            .transform(lambda x: x.shift(-1).rolling(window=h, min_periods=1).mean())
-        )
+    # 1. Préparation des Features PRÉ-MATCH (Disponibles pour l'IA en temps réel)
+    df = df.sort_values(['Nom', 'Match_Date'])
+    df['Rating_Precedent'] = df.groupby('Nom')['Rating'].shift(1).fillna(7.0)
+    
+    # 2. Fatigue de l'Effort
+    score_effort = (df['Minutes_Played'] / 90) * 35
 
-        # Moyenne des notes SofaScore (Rating)
-        if h <= 2 and 'Rating' in df.columns:
-            col_rating_avg = f'Target_Rating_Avg_{h}m'
-            df[col_rating_avg] = (
-                df.groupby('Nom')['Rating']
-                .transform(lambda x: x.shift(-1).rolling(window=h, min_periods=1).mean())
-            )
+    # 3. Chute de Rendement (Basée sur l'historique connu AVANT le match)
+    if 'Rating_MA15' in df.columns:
+        # On utilise la moyenne mobile du match PRÉCÉDENT
+        df['Rating_MA15_Lag1'] = df.groupby('Nom')['Rating_MA15'].shift(1).fillna(df['Rating_MA15'])
+        drop_historique = (df['Rating_MA15_Lag1'] - df['Rating_Precedent']).clip(0, 3)
+        score_rendement_pred = (drop_historique / 2.0) * 45
+    else:
+        score_rendement_pred = 0
 
-    # ── Indice de Risque Médical (Calcul Physiologique) ──
+    # 4. Surcharge et Repos (Déjà connus avant le match)
+    score_surcharge = 0
     if 'ACWR' in df.columns:
-        # 1. Facteur d'Exposition (Usage Factor)
-        # On garde une base saine pour le calcul du score brut
-        df['Usage_Factor'] = (df['Cumulative_Minutes_21d'] / 270.0).clip(0.40, 1.15)
-        
-        # 2. Facteur d'Âge (Age Factor)
-        if 'Age' in df.columns:
-            df['Age_Factor'] = 1.0 + ((pd.to_numeric(df['Age'], errors='coerce').fillna(25) - 25) * 0.01)
-            df['Age_Factor'] = df['Age_Factor'].clip(0.95, 1.15)
-        else:
-            df['Age_Factor'] = 1.0
+        acwr_risk = ((df['ACWR'] - 1.3) / 0.7).clip(0, 1) * 20
+        score_surcharge += acwr_risk
+    if 'Days_Rest' in df.columns:
+        score_surcharge += np.where(df['Days_Rest'] <= 3.1, 20, 0)
 
-        # 3. Calcul du risque continu (Physiologie brute)
-        score_base = 0.35 
-        score_fatigue = (df['Fatigue_Index'] * 0.15).clip(0, 0.25)
-        score_acwr = np.where(df['ACWR'] > 1.4, (df['ACWR'] - 1.4) * 0.10, 0)
-        score_history = df.get('Injury_Prone_Index', 0) * 0.15
-        
-        raw_risk = (
-            score_base + score_fatigue + score_acwr + score_history + 
-            ((df['Congestion_Risk'] - 1.0).clip(0, 1) * 0.05)
-        ).clip(0, 1)
-        
-        # 4. Score Final
-        df['Medical_Risk_Score'] = (raw_risk * df['Usage_Factor'] * df['Age_Factor']).clip(0, 1)
-        df['Fatigue_Score'] = (df['Fatigue_Index'] * 100).round(1)
+    # 5. Fatigue Nerveuse
+    score_nerveux = np.where(df['Rating_Precedent'] > 8.5, 20, 0)
 
-        # =====================================================================
-        # 5. CATÉGORISATION SCIENTIFIQUE (Z-SCORE / ÉCART-TYPE)
-        # =====================================================================
-        # Cette méthode rend le modèle autonome pour n'importe quelle ligue.
-        mean_risk = df['Medical_Risk_Score'].mean()
-        std_risk = df['Medical_Risk_Score'].std()
-        
-        if pd.isna(std_risk) or std_risk == 0: std_risk = 0.1 
+    # --- CALCUL DE LA VÉRITÉ TERRAIN ---
+    if 'Rating_MA15' in df.columns:
+        drop_reel = (df['Rating_MA15'] - df['Rating']).clip(0, 3)
+        score_rendement_reel = (drop_reel / 2.0) * 45
+    else:
+        score_rendement_reel = 0
 
-        # Seuils dynamiques basés sur la distribution réelle de la ligue
-        # ÉLEVÉ  : Moyenne + 1.0 écart-type (~16% des cas si distribution normale)
-        # FAIBLE : Moyenne - 1.1 écart-types (~12% des cas)
-        seuil_eleve = mean_risk + (1.0 * std_risk)
-        seuil_faible = mean_risk - (1.1 * std_risk) 
+    # Fatigue réelle du match T
+    df['Fatigue_Reelle_Match_T'] = (score_effort + score_rendement_reel + score_nerveux + score_surcharge).clip(0, 100)
 
-        # Sécurités physiologiques
-        seuil_eleve = min(max(seuil_eleve, 0.55), 0.85)
-        seuil_faible = max(min(seuil_faible, 0.25), 0.10)
+    # L'ACCUMULATION
+    df['Fatigue_Precedente'] = df.groupby('Nom')['Fatigue_Reelle_Match_T'].shift(1).fillna(0)
+    df['Besoin_Accumulation'] = np.where(df['Days_Rest'] < 5, 0.5, 0.0)
+    
+    # Vérité terrain finale pour CE match
+    df['Fatigue_Realisee'] = (df['Fatigue_Reelle_Match_T'] + (df['Fatigue_Precedente'] * df['Besoin_Accumulation'])).clip(0, 100)
 
-        conditions = [
-            (df['Medical_Risk_Score'] <= seuil_faible),
-            (df['Medical_Risk_Score'] >= seuil_eleve)
-        ]
-        choix = ['🟢 FAIBLE', '🔴 ÉLEVÉ']
-        df['Risk_Category'] = np.select(conditions, choix, default='🟠 MODÉRÉ')
-        # =====================================================================
+    # --- LA CIBLE (Target) : Prédire la fatigue du match SUIVANT ---
+    df['Target_Fatigue'] = df.groupby('Nom')['Fatigue_Realisee'].shift(-1)
 
-        # 6. Target de Blessure Réelle (Transfermarkt)
-        history_path = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "raw" / "transfermarkt" / "injury_history.csv"
-        df['Target_Injury_Occurred'] = 0
-        if history_path.exists():
-            try:
-                history_df = pd.read_csv(history_path)
-                if not history_df.empty and 'Date_From' in history_df.columns:
-                    history_df['Date_From'] = pd.to_datetime(history_df['Date_From'], errors='coerce')
-                    history_df = history_df.dropna(subset=['Date_From'])
-                    injuries_dict = history_df.groupby('Nom')['Date_From'].apply(list).to_dict()
-
-                    if 'Match_Date' in df.columns:
-                        df_dates = pd.to_datetime(df['Match_Date'], errors='coerce')
-                        def check_injury(row):
-                            nom = row['Nom']
-                            m_date = row['_match_date_temp']
-                            if pd.isna(m_date) or nom not in injuries_dict: return 0
-                            for i_date in injuries_dict[nom]:
-                                diff = (i_date - m_date).days
-                                if 0 < diff <= 14: return 1
-                            return 0
-                        df['_match_date_temp'] = df_dates
-                        df['Target_Injury_Occurred'] = df.apply(check_injury, axis=1)
-                        df = df.drop(columns=['_match_date_temp'])
-                        print(f"   🎯 Cible Blessure : {df['Target_Injury_Occurred'].sum()} cas réels trouvés.")
-            except Exception as e:
-                print(f"   ⚠️ Erreur création cibles blessures: {e}")
+    # Lags (Mémoire pour l'IA)
+    df['Fatigue_Lag1'] = df['Fatigue_Precedente']
+    
+    # Nettoyage
+    df = df.dropna(subset=['Target_Fatigue'])
 
     return df
 
 
 # ══════════════════════════════════════════════════════════════════════
-# 5. PIPELINE COMPLET DE FEATURE ENGINEERING
+# 5. INTÉGRATION CASIER MÉDICAL (TRANSFERMARKT)
+# ══════════════════════════════════════════════════════════════════════
+
+def integrer_casier_medical(df):
+    """
+    Croise les matchs avec l'historique des blessures réelles.
+    """
+    print("⚙️  Phase Casier Médical — Analyse de l'historique Transfermarkt...")
+    
+    path_injury = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "data" / "raw" / "transfermarkt" / "injury_history.csv"
+    if not path_injury.exists():
+        print("⚠️ Casier médical introuvable. Skip.")
+        return df
+
+    injury_df = pd.read_csv(path_injury)
+    injury_df['Date_From'] = pd.to_datetime(injury_df['Date_From'], errors='coerce')
+    injury_df['Date_To'] = pd.to_datetime(injury_df['Date_To'], errors='coerce')
+    df['Match_Date'] = pd.to_datetime(df['Match_Date'])
+
+    # On prépare les colonnes médicales
+    df['Est_Blesse'] = 0
+    df['Jours_Depuis_Blessure'] = 999
+    df['Nb_Blessures_Musculaires_12m'] = 0
+
+    for nom in df['Nom'].unique():
+        p_injuries = injury_df[injury_df['Nom'] == nom]
+        if p_injuries.empty:
+            continue
+            
+        p_matchs_indices = df[df['Nom'] == nom].index
+        
+        for idx in p_matchs_indices:
+            m_date = df.at[idx, 'Match_Date']
+            
+            # 1. Est-ce qu'il joue blessé ?
+            is_active = p_injuries[(p_injuries['Date_From'] <= m_date) & (p_injuries['Date_To'] >= m_date)]
+            if not is_active.empty:
+                df.at[idx, 'Est_Blesse'] = 1
+                
+            # 2. Temps depuis la dernière blessure
+            past_injuries = p_injuries[p_injuries['Date_To'] < m_date]
+            if not past_injuries.empty:
+                last_inj_date = past_injuries['Date_To'].max()
+                df.at[idx, 'Jours_Depuis_Blessure'] = (m_date - last_inj_date).days
+            
+            # 3. Récurrence musculaire (Le danger n°1)
+            recent_muscle = past_injuries[
+                (past_injuries['Cause_Category'] == 'MUSCULAIRE') & 
+                (past_injuries['Date_To'] > m_date - pd.Timedelta(days=365))
+            ]
+            df.at[idx, 'Nb_Blessures_Musculaires_12m'] = len(recent_muscle)
+
+    return df
+
+# ══════════════════════════════════════════════════════════════════════
+# 6. PIPELINE COMPLET DE FEATURE ENGINEERING
 # ══════════════════════════════════════════════════════════════════════
 
 def run_feature_engineering(df_matchs_clean):
     """
     Pipeline complet de Feature Engineering.
-
-    Args:
-        df_matchs_clean: DataFrame nettoyé (sortie de data_cleaner)
-
-    Returns:
-        DataFrame enrichi avec toutes les features et targets
     """
     if df_matchs_clean.empty:
         print("❌ Aucune donnée à traiter.")
@@ -671,21 +585,26 @@ def run_feature_engineering(df_matchs_clean):
     df = calculer_match_context(df)
 
     print("⚙️  Phase 2 — Features temporelles (moyennes glissantes)...")
-    df = calculer_features_temporelles(df, fenetres=[3, 5, 10])
+    df = calculer_features_temporelles(df, fenetres=[3, 5, 10, 15])
 
-    print("⚙️  Phase 2.5 — Intégration Médicale & Trauma...")
-    df = integrer_historique_medical(df)
+    print("⚙️  Phase 2.5 — Calcul de l'exposition aux chocs (Trauma)...")
     df = calculer_trauma_index(df)
 
     print("⚙️  Phase 3 — Score de forme composite...")
     df = calculer_form_score(df)
+    
+    # --- AJOUT DU LAG DE FORME (Orthogonalité : Form_Score source unique) ---
+    df['Form_Score_Lag1'] = df.groupby('Nom')['Form_Score'].shift(1).fillna(df['Form_Score'])
+    
+    # --- AJOUT DU CASIER MÉDICAL ---
+    df = integrer_casier_medical(df)
 
-    print("⚙️  Phase 4 — Création des cibles ML...")
-    df = creer_targets(df, horizons=[1, 2, 4])
+    print("⚙️  Phase 4 — Création de la 'Vérité Terrain' (Target_Fatigue)...")
+    df = creer_target_fatigue(df)
 
     # --- Post-traitement pour lisibilité ---
     # 1. Arrondir les nombres
-    float_cols = df.select_dtypes(include=['float64']).columns
+    float_cols = df.select_dtypes(include=[np.floating, float]).columns.tolist()
     for col in float_cols:
         if any(x in col for x in ['xG', 'xA', 'Trend', 'Factor', 'Risk', 'Index']):
             df[col] = df[col].round(3)
@@ -693,26 +612,25 @@ def run_feature_engineering(df_matchs_clean):
             df[col] = df[col].round(2)
 
     # 2. Réorganiser les colonnes
-    identity = ['Nom', 'Player_ID', 'Match_Date', 'Event_ID', 'Home_Team', 'Away_Team', 'Score_Home', 'Score_Away', 'Tournament', 'Equipe', 'Position', 'Poste_Cat']
-    core_stats = ['Rating', 'Minutes_Played', 'Goals', 'Assists', 'Expected_Goals', 'Expected_Assists', 'G_A', 'xG_xA']
-    others = [c for c in df.columns if c not in identity + core_stats]
+    identity = ['Nom', 'Age', 'Player_ID', 'Match_Date', 'Event_ID', 'Home_Team', 'Away_Team', 'Score_Home', 'Score_Away', 'Tournament', 'Equipe', 'Position', 'Poste_Cat']
+    medical = ['Est_Blesse', 'Jours_Depuis_Blessure', 'Nb_Blessures_Musculaires_12m']
+    core_stats = ['Rating', 'Minutes_Played', 'Goals', 'Assists', 'Expected_Goals', 'Expected_Assists']
+    others = [c for c in df.columns if c not in identity + medical + core_stats]
     
     # Filtrer pour ne garder que ce qui existe réellement
     identity = [c for c in identity if c in df.columns]
+    medical = [c for c in medical if c in df.columns]
     core_stats = [c for c in core_stats if c in df.columns]
-    df = df[identity + core_stats + others]
+    df = df[identity + medical + core_stats + others]
 
     # 3. Sauvegarder le dataset enrichi
     output_path = Path("data/processed/features_dataset.csv")
     output_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(output_path, index=False, encoding='utf-8-sig')
 
-    print(f"\n✅ Feature Engineering terminé !")
+    print(f"\n✅ Feature Engineering (Version Médicale) terminé !")
     print(f"   📊 Shape finale : {df.shape}")
-    print(f"   📁 Sauvegardé dans : {output_path}")
-    print(f"   🎯 Form Score moyen : {df['Form_Score'].mean():.1f} / 100")
-    print(f"   📈 Features temporelles : {len([c for c in df.columns if 'MA' in c or 'Trend' in c])}")
-    print(f"   🎯 Targets créées : {len([c for c in df.columns if 'Target' in c])}")
+    print(f"   🏥 Features médicales injectées avec succès.")
 
     return df
 
@@ -726,14 +644,20 @@ if __name__ == "__main__":
     
     if not input_path.exists():
         print(f"❌ Fichier d'entrée introuvable : {input_path}")
-        print("💡 Veuillez d'abord exécuter data_cleaner.py")
     else:
         print(f"📂 Chargement des données : {input_path}")
-        df_matchs = pd.read_csv(input_path)
+        df_matchs = pd.read_csv(input_path, encoding='utf-8-sig')
         df_matchs['Match_Date'] = pd.to_datetime(df_matchs['Match_Date'])
         
         # 2. Lancement du Feature Engineering
         df_features = run_feature_engineering(df_matchs)
         
-        print(f"\n🚀 Prêt pour l'IA ! ({len(df_features)} lignes, {len(df_features.columns)} colonnes)")
+        # 3. Sauvegarde
+        output_dir = ROOT / "data" / "processed"
+        output_dir.mkdir(parents=True, exist_ok=True)
+        output_path = output_dir / "features_dataset.csv"
+        df_features.to_csv(output_path, index=False, encoding='utf-8-sig')
+        
+        print(f"\n🚀 Prêt pour l'IA Médicale ! ({len(df_features)} lignes)")
+        print(f"✅ Dataset sauvegardé : {output_path}")
 

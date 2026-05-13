@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Antoine Griezmann,35,2026-03-10,Atlético Madrid,Tottenham Hotspur,8.2,81,8748.0,16.0,108.0,1,0,0.56,0.03,34,41,1,0,1,0,4,58,0.0,1.83
+Antoine Griezmann,35,2026-03-14,Atlético Madrid,Getafe,6.5,17,1836.0,3.0,108.0,0,0,0.64,0.02,13,16,1,0,0,0,2,21,0.0,1.63
+Antoine Griezmann,35,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.8,84,9072.0,17.0,108.0,0,0,0.04,0.03,36,40,1,0,0,0,5,46,0.0,1.87
+Antoine Griezmann,35,2026-03-22,Real Madrid,Atlético Madrid,6.8,57,6156.0,11.0,108.0,0,0,0.07,0.14,27,31,2,0,0,0,0,42,0.0,1.79
+Antoine Griezmann,35,2026-04-04,Atlético Madrid,FC Barcelona,6.6,61,6588.0,12.0,108.0,0,0,0.45,0.02,15,17,0,0,0,0,1,26,0.0,1.82
+Antoine Griezmann,35,2026-04-08,FC Barcelona,Atlético Madrid,6.8,80,8640.0,16.0,108.0,0,0,0.0,0.01,25,30,0,0,1,0,4,40,0.0,1.85
+Antoine Griezmann,35,2026-04-11,Sevilla,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Antoine Griezmann,35,2026-04-14,Atlético Madrid,FC Barcelona,6.9,76,8208.0,15.0,108.0,0,0,0.16,0.28,17,24,3,0,0,0,0,44,0.0,1.83
+Antoine Griezmann,35,2026-04-18,Atlético Madrid,Real Sociedad,6.8,70,7560.0,14.0,108.0,0,0,0.0,0.0,30,31,2,0,0,0,1,47,0.0,1.85
+Antoine Griezmann,35,2026-04-22,Elche,Atlético Madrid,6.8,28,3024.0,6.0,108.0,0,0,0.06,0.0,14,18,0,0,0,0,1,28,0.0,1.98
+Antoine Griezmann,35,2026-04-25,Atlético Madrid,Athletic Club,7.3,63,6804.0,13.0,108.0,1,0,0.62,0.11,19,27,0,0,1,0,0,34,0.0,1.91
+Antoine Griezmann,35,2026-04-29,Atlético Madrid,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.31,0.14,39,48,2,0,0,0,0,62,0.0,1.85
+Antoine Griezmann,35,2026-05-02,Valencia,Atlético Madrid,6.5,17,1836.0,3.0,108.0,0,0,0.0,0.07,4,6,2,0,1,0,2,13,0.0,1.63
+Antoine Griezmann,35,2026-05-05,Arsenal,Atlético Madrid,6.8,66,7128.0,13.0,108.0,0,0,0.07,0.01,11,20,0,0,0,0,2,34,0.0,1.82
+Antoine Griezmann,35,2026-05-09,Atlético Madrid,Celta Vigo,6.6,61,6588.0,12.0,108.0,0,0,0.16,0.17,21,27,1,0,0,0,3,44,0.0,1.82

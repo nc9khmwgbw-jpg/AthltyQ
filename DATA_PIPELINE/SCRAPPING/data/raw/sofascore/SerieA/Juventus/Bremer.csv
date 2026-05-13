@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Bremer,29,2026-05-09,Lecce,Juventus,7.3,90,,,0.0,0,0,0.36,0.02,45,52,0,0,1,0,2,65
+Bremer,29,2026-05-03,Juventus,Hellas Verona,6.6,90,,,0.0,0,0,0.25,0.04,74,86,0,0,5,0,5,100
+Bremer,29,2026-04-26,Milan,Juventus,7.4,90,,,0.0,0,0,0.02,0.01,50,50,0,0,1,0,5,60
+Bremer,29,2026-04-19,Juventus,Bologna,6.9,90,,,0.0,0,0,0.08,0.0,38,41,0,0,2,0,8,54
+Bremer,29,2026-04-11,Atalanta,Juventus,7.2,90,,,0.0,0,0,0.0,0.0,40,44,0,0,1,0,6,58
+Bremer,29,2026-04-06,Juventus,Genoa,7.8,90,,,0.0,1,0,0.11,0.0,55,58,0,0,2,0,1,76
+Bremer,29,2026-04-01,Croatia,Brazil,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Bremer,29,2026-03-26,Brazil,France,6.9,90,,,0.0,1,0,0.0,0.0,50,54,1,0,2,0,5,65
+Bremer,29,2026-03-21,Juventus,Sassuolo,6.4,90,,,0.0,0,0,0.0,0.06,77,80,0,0,1,0,5,87
+Bremer,29,2026-03-14,Udinese,Juventus,7.0,90,,,0.0,0,0,0.17,0.0,43,49,0,0,3,0,3,59
+Bremer,29,2026-03-07,Juventus,Pisa,7.3,90,,,0.0,0,0,0.0,0.1,61,67,1,0,1,0,7,76
+Bremer,29,2026-03-01,AS Roma,Juventus,6.5,88,,,0.0,0,0,0.0,0.01,49,57,1,0,2,0,6,74
+Bremer,29,2026-02-25,Juventus,Galatasaray,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Bremer,29,2026-02-17,Galatasaray,Juventus,6.6,34,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,1,12
+Bremer,29,2026-02-14,Inter,Juventus,6.8,90,,,0.0,0,0,0.0,0.02,42,48,1,0,3,0,8,66

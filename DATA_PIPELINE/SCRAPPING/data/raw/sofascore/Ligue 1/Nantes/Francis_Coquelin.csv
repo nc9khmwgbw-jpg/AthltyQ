@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Francis Coquelin,2025-08-30,Nantes,Auxerre,6.9,72,7776.0,14.0,108.0,0,0,0.01,0.0,22,24,0,0,2,0,3,38,0,1.8,34
+Francis Coquelin,2025-09-20,Nantes,Stade Rennais,6.5,11,1188.0,2.0,108.0,0,0,0.02,0.0,4,4,0,0,0,0,1,5,0,1.68,34
+Francis Coquelin,2025-12-12,Angers,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,34
+Francis Coquelin,2025-12-21,US Concarneau,Nantes,6.7,9,972.0,2.0,108.0,0,0,0.0,0.0,9,11,0,0,0,0,1,12,0,2.06,34
+Francis Coquelin,2026-01-04,Olympique de Marseille,Nantes,6.9,58,6264.0,12.0,108.0,0,0,0.0,0.03,24,26,0,0,0,0,3,31,0,1.92,34
+Francis Coquelin,2026-01-18,Nantes,Paris FC,6.1,65,7020.0,13.0,108.0,0,0,0.0,0.01,30,33,0,0,0,0,1,43,0,1.85,34
+Francis Coquelin,2026-01-31,Lorient,Nantes,6.6,12,1296.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,1,0,0,8,0,1.54,34
+Francis Coquelin,2026-02-07,Nantes,Olympique Lyonnais,6.7,19,2052.0,4.0,108.0,0,0,0.04,0.01,18,19,0,0,0,0,0,22,0,1.95,34
+Francis Coquelin,2026-02-13,AS Monaco,Nantes,6.6,66,7128.0,13.0,108.0,0,0,0.0,0.06,21,27,0,0,1,0,2,38,0,1.82,34
+Francis Coquelin,2026-02-22,Nantes,Le Havre,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,1,1,1,0,0,0,0,3,0,2.06,34
+Francis Coquelin,2026-03-01,Lille,Nantes,6.7,28,3024.0,6.0,108.0,0,0,0.0,0.03,4,5,1,0,0,0,1,13,0,1.98,34
+Francis Coquelin,2026-03-07,Nantes,Angers,7.1,25,2700.0,5.0,108.0,0,0,0.0,0.0,15,17,0,0,0,0,1,21,0,1.85,34
+Francis Coquelin,2026-04-05,Metz,Nantes,6.7,84,9072.0,17.0,108.0,0,0,0.03,0.0,23,27,0,0,0,0,7,38,0,1.87,34
+Francis Coquelin,2026-04-11,Auxerre,Nantes,6.8,73,7884.0,15.0,108.0,0,0,0.0,0.01,32,34,0,0,0,0,3,46,0,1.9,34
+Francis Coquelin,2026-04-19,Nantes,Stade Brestois,6.6,45,4860.0,9.0,108.0,0,0,0.01,0.0,18,21,1,0,1,0,1,27,0,1.85,34

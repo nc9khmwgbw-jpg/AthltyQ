@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Alexander Sørloth,30,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.5,21,2268.0,4.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,0,7,0.0,1.76
+Alexander Sørloth,30,2026-03-14,Atlético Madrid,Getafe,6.6,66,7128.0,13.0,108.0,0,0,0.24,0.01,7,10,0,0,0,0,3,29,0.0,1.82
+Alexander Sørloth,30,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.2,27,2916.0,5.0,108.0,0,0,0.1,0.03,5,7,0,0,0,0,1,16,0.0,1.71
+Alexander Sørloth,30,2026-03-22,Real Madrid,Atlético Madrid,6.4,33,3564.0,7.0,108.0,0,0,0.07,0.01,4,5,0,0,0,0,0,6,0.0,1.96
+Alexander Sørloth,30,2026-03-27,Netherlands,Norway,6.4,64,6912.0,13.0,108.0,0,0,0.0,0.0,16,16,0,0,0,0,1,25,0.0,1.88
+Alexander Sørloth,30,2026-03-31,Norway,Switzerland,6.5,70,7560.0,14.0,108.0,0,0,0.0,0.0,15,20,1,0,0,0,1,35,0.0,1.85
+Alexander Sørloth,30,2026-04-04,Atlético Madrid,FC Barcelona,6.3,29,3132.0,6.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,9,0.0,1.92
+Alexander Sørloth,30,2026-04-08,FC Barcelona,Atlético Madrid,7.2,30,3240.0,6.0,108.0,1,0,0.09,0.0,4,8,0,0,0,0,0,17,0.0,1.85
+Alexander Sørloth,30,2026-04-11,Sevilla,Atlético Madrid,6.4,90,9720.0,18.0,108.0,0,0,0.05,0.0,8,12,0,0,0,0,1,19,0.0,1.85
+Alexander Sørloth,30,2026-04-14,Atlético Madrid,FC Barcelona,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,5,2,0,0,0,1,14,0.0,1.98
+Alexander Sørloth,30,2026-04-18,Atlético Madrid,Real Sociedad,5.5,58,6264.0,12.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,2,29,0.0,1.92
+Alexander Sørloth,30,2026-04-25,Atlético Madrid,Athletic Club,9.2,90,9720.0,18.0,108.0,2,0,1.47,0.02,11,17,0,0,0,0,3,37,0.0,1.85
+Alexander Sørloth,30,2026-04-29,Atlético Madrid,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Alexander Sørloth,30,2026-05-05,Arsenal,Atlético Madrid,6.0,33,3564.0,7.0,108.0,0,0,0.0,0.03,6,10,1,0,0,0,1,22,0.0,1.96
+Alexander Sørloth,30,2026-05-09,Atlético Madrid,Celta Vigo,5.8,90,9720.0,18.0,108.0,0,0,0.67,0.06,13,13,0,0,0,0,2,24,0.0,1.85

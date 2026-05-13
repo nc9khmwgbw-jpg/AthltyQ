@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Rayan,2025-12-21,Vasco da Gama,Corinthians,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,25,0,0,1,0,0,42,0,1.85,19
+Rayan,2026-01-16,Vasco da Gama,Maricá FC,8.7,90,9720.0,18.0,108.0,2,0,1.08,0.0,12,14,0,0,0,0,2,32,0,1.85,19
+Rayan,2026-01-31,Wolverhampton,Bournemouth,7.5,22,2376.0,4.0,108.0,0,0,0.0,0.6,9,10,2,0,0,0,1,15,0,1.68,19
+Rayan,2026-02-07,Bournemouth,Aston Villa,7.9,87,9396.0,17.0,108.0,1,0,0.16,0.02,21,26,1,0,0,0,2,43,0,1.81,19
+Rayan,2026-02-10,Everton,Bournemouth,6.5,89,9612.0,18.0,108.0,1,0,0.34,0.1,17,18,2,0,0,0,5,31,0,1.87,19
+Rayan,2026-02-21,West Ham United,Bournemouth,6.6,90,9720.0,18.0,108.0,0,0,0.3,0.09,17,23,1,0,0,0,2,41,0,1.85,19
+Rayan,2026-02-28,Bournemouth,Sunderland,7.2,90,9720.0,18.0,108.0,0,0,0.07,0.18,27,34,3,0,1,0,3,53,0,1.85,19
+Rayan,2026-03-03,Bournemouth,Brentford,7.0,74,7992.0,15.0,108.0,0,0,0.0,0.04,15,20,0,0,0,0,3,36,0,1.88,19
+Rayan,2026-03-14,Burnley,Bournemouth,6.5,87,9396.0,17.0,108.0,0,0,0.02,0.04,22,30,0,0,0,0,4,41,0,1.81,19
+Rayan,2026-03-20,Bournemouth,Manchester United,6.6,87,9396.0,17.0,108.0,0,0,0.41,0.15,22,27,1,0,1,0,3,42,0,1.81,19
+Rayan,2026-03-26,Brazil,France,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
+Rayan,2026-04-01,Croatia,Brazil,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,7,0,0,0,0,0,11,0,1.98,19
+Rayan,2026-04-11,Arsenal,Bournemouth,6.5,70,7560.0,14.0,108.0,0,0,0.0,0.06,13,17,1,0,1,0,1,27,0,1.85,19
+Rayan,2026-04-18,Newcastle United,Bournemouth,7.5,78,8424.0,16.0,108.0,0,0,0.03,0.27,20,30,1,0,1,0,5,46,0,1.9,19
+Rayan,2026-04-22,Bournemouth,Leeds United,7.0,23,2484.0,5.0,108.0,1,0,0.28,0.0,3,4,0,0,0,0,0,14,0,2.01,19

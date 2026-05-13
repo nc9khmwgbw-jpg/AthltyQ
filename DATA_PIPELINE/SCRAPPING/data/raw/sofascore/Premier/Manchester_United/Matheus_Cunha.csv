@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Matheus Cunha,2026-01-11,Manchester United,Brighton & Hove Albion,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,36,2,0,0,0,5,63,0,1.85,26
+Matheus Cunha,2026-01-17,Manchester United,Manchester City,7.3,19,2052.0,4.0,108.0,0,0,0.0,0.17,10,12,1,0,0,0,1,22,0,1.95,26
+Matheus Cunha,2026-01-25,Arsenal,Manchester United,8.1,21,2268.0,4.0,108.0,1,0,0.03,0.01,5,7,0,0,0,0,2,14,0,1.76,26
+Matheus Cunha,2026-02-01,Manchester United,Fulham,8.2,74,7992.0,15.0,108.0,1,0,0.19,0.07,16,20,1,0,0,0,3,32,0,1.88,26
+Matheus Cunha,2026-02-07,Manchester United,Tottenham Hotspur,6.5,75,8100.0,15.0,108.0,0,0,0.03,0.06,20,26,1,0,0,0,1,36,0,1.85,26
+Matheus Cunha,2026-02-10,West Ham United,Manchester United,6.4,69,7452.0,14.0,108.0,0,0,0.0,0.01,24,29,0,0,0,0,2,36,0,1.88,26
+Matheus Cunha,2026-02-23,Everton,Manchester United,6.6,89,9612.0,18.0,108.0,0,0,0.15,0.01,16,22,0,0,1,0,7,46,0,1.87,26
+Matheus Cunha,2026-03-01,Manchester United,Crystal Palace,6.9,90,9720.0,18.0,108.0,0,0,0.05,0.06,22,25,0,0,0,0,3,51,0,1.85,26
+Matheus Cunha,2026-03-04,Newcastle United,Manchester United,6.6,90,9720.0,18.0,108.0,0,0,0.18,0.06,25,39,1,0,2,0,4,68,0,1.85,26
+Matheus Cunha,2026-03-15,Manchester United,Aston Villa,7.6,90,9720.0,18.0,108.0,1,0,0.22,0.01,27,37,1,0,0,0,4,52,0,1.85,26
+Matheus Cunha,2026-03-20,Bournemouth,Manchester United,7.4,82,8856.0,16.0,108.0,0,0,0.07,0.21,29,36,1,0,1,0,7,54,0,1.81,26
+Matheus Cunha,2026-03-26,Brazil,France,7.2,71,7668.0,14.0,108.0,0,0,0.0,0.0,20,21,2,0,0,0,5,34,0,1.83,26
+Matheus Cunha,2026-04-01,Croatia,Brazil,6.9,76,8208.0,15.0,108.0,0,0,0.0,0.0,23,24,1,0,0,0,4,38,0,1.83,26
+Matheus Cunha,2026-04-13,Manchester United,Leeds United,6.5,90,9720.0,18.0,108.0,0,0,0.13,0.06,25,29,2,0,1,0,3,48,0,1.85,26
+Matheus Cunha,2026-04-18,Chelsea,Manchester United,7.4,81,8748.0,16.0,108.0,1,0,0.22,0.02,20,21,1,0,1,0,4,37,0,1.83,26

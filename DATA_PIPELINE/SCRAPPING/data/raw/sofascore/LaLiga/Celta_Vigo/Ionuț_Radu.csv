@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ionuț Radu,28,2026-03-01,Girona FC,Celta Vigo,8.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,22,0,0,0,0,6,34,0.0,1.85
+Ionuț Radu,28,2026-03-06,Celta Vigo,Real Madrid,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,16,0,0,0,0,5,22,0.0,1.85
+Ionuț Radu,28,2026-03-12,Celta Vigo,Olympique Lyonnais,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,31,0,0,0,0,15,49,0.0,1.85
+Ionuț Radu,28,2026-03-15,Real Betis,Celta Vigo,7.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,21,26,1,0,0,0,12,44,0.0,1.85
+Ionuț Radu,28,2026-03-19,Olympique Lyonnais,Celta Vigo,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,18,0,0,0,0,7,26,0.0,1.85
+Ionuț Radu,28,2026-03-22,Celta Vigo,Deportivo Alavés,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,33,0,0,0,0,16,48,0.0,1.85
+Ionuț Radu,28,2026-03-26,Türkiye,Romania,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,39,0,0,0,0,8,49,0.0,1.85
+Ionuț Radu,28,2026-04-05,Valencia,Celta Vigo,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,25,0,0,0,0,8,29,0.0,1.85
+Ionuț Radu,28,2026-04-09,SC Freiburg,Celta Vigo,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,22,0,0,0,0,13,39,0.0,1.85
+Ionuț Radu,28,2026-04-12,Celta Vigo,Real Oviedo,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,26,0,0,0,0,11,33,0.0,1.85
+Ionuț Radu,28,2026-04-16,Celta Vigo,SC Freiburg,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,23,0,0,0,0,8,30,0.0,1.85
+Ionuț Radu,28,2026-04-22,FC Barcelona,Celta Vigo,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,20,28,0,0,0,0,3,34,0.0,1.85
+Ionuț Radu,28,2026-04-26,Villarreal,Celta Vigo,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,29,0,0,1,0,14,40,0.0,1.85
+Ionuț Radu,28,2026-05-03,Celta Vigo,Elche,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,40,0,0,0,0,9,44,0.0,1.85
+Ionuț Radu,28,2026-05-09,Atlético Madrid,Celta Vigo,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,40,0,0,0,0,9,50,0.0,1.85

@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Jonathan Ikoné,2026-01-12,Paris Saint-Germain,Paris FC,7.1,50,5400.0,10.0,108.0,1,0,0.0,0.0,8,10,0,0,0,0,1,21,0,1.85,28
+Jonathan Ikoné,2026-01-25,Paris FC,Angers,6.7,16,1728.0,3.0,108.0,0,0,0.03,0.0,4,5,0,0,0,0,0,10,0,1.74,28
+Jonathan Ikoné,2026-01-31,Paris FC,Olympique de Marseille,7.6,26,2808.0,5.0,108.0,1,0,0.28,0.02,11,12,0,0,0,0,0,16,0,1.78,28
+Jonathan Ikoné,2026-02-04,Lorient,Paris FC,6.2,74,7992.0,15.0,108.0,0,0,0.0,0.0,18,21,0,0,0,0,1,24,0,1.88,28
+Jonathan Ikoné,2026-02-08,Auxerre,Paris FC,6.7,27,2916.0,5.0,108.0,0,0,0.16,0.0,6,6,0,0,0,0,1,7,0,1.71,28
+Jonathan Ikoné,2026-02-14,Paris FC,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
+Jonathan Ikoné,2026-02-21,Toulouse,Paris FC,6.4,67,7236.0,13.0,108.0,0,0,0.0,0.0,11,14,0,0,1,0,4,29,0,1.8,28
+Jonathan Ikoné,2026-03-01,Paris FC,Nice,6.6,80,8640.0,16.0,108.0,0,0,0.07,0.05,16,26,0,0,0,0,2,36,0,1.85,28
+Jonathan Ikoné,2026-03-08,Olympique Lyonnais,Paris FC,6.5,73,7884.0,15.0,108.0,0,0,0.1,0.02,20,22,1,0,0,0,6,31,0,1.9,28
+Jonathan Ikoné,2026-03-15,RC Strasbourg,Paris FC,7.0,64,6912.0,13.0,108.0,0,0,0.0,0.03,24,30,1,0,0,0,4,44,0,1.88,28
+Jonathan Ikoné,2026-03-22,Paris FC,Le Havre,6.8,72,7776.0,14.0,108.0,0,0,0.31,0.02,13,16,0,0,1,0,2,30,0,1.8,28
+Jonathan Ikoné,2026-04-05,Lorient,Paris FC,6.3,71,7668.0,14.0,108.0,0,0,0.48,0.03,35,40,0,0,0,0,4,50,0,1.83,28
+Jonathan Ikoné,2026-04-10,Paris FC,AS Monaco,9.3,65,7020.0,13.0,108.0,2,0,1.08,0.23,22,25,2,0,1,0,4,45,0,1.85,28
+Jonathan Ikoné,2026-04-19,Metz,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
+Jonathan Ikoné,2026-04-26,Paris FC,Lille,6.8,90,9720.0,18.0,108.0,0,0,0.02,0.04,32,38,0,0,1,0,3,52,0,1.85,28

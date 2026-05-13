@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Pablo Felipe,2025-12-28,FC Arouca,Gil Vicente,7.5,75,8100.0,15.0,108.0,1,0,0.22,0.0,6,8,0,0,0,0,1,20,0,1.85,22
+Pablo Felipe,2026-01-03,Wolverhampton,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
+Pablo Felipe,2026-01-06,West Ham United,Nottingham Forest,6.6,27,2916.0,5.0,108.0,0,0,0.04,0.02,11,12,1,0,0,0,1,20,0,1.71,22
+Pablo Felipe,2026-01-11,West Ham United,Queens Park Rangers,5.8,76,8208.0,15.0,108.0,0,0,0.0,0.0,20,27,2,0,0,0,5,37,0,1.83,22
+Pablo Felipe,2026-01-17,Tottenham Hotspur,West Ham United,6.2,79,8532.0,16.0,108.0,0,0,0.18,0.0,12,23,1,0,1,0,3,40,0,1.88,22
+Pablo Felipe,2026-01-24,West Ham United,Sunderland,5.8,70,7560.0,14.0,108.0,0,0,0.12,0.01,15,20,0,0,0,0,1,36,0,1.85,22
+Pablo Felipe,2026-01-31,Chelsea,West Ham United,6.6,66,7128.0,13.0,108.0,0,0,0.0,0.04,9,12,1,0,1,0,5,23,0,1.82,22
+Pablo Felipe,2026-02-07,Burnley,West Ham United,6.5,11,1188.0,2.0,108.0,0,0,0.0,0.0,7,8,1,0,0,0,1,13,0,1.68,22
+Pablo Felipe,2026-03-09,West Ham United,Brentford,6.2,60,6480.0,12.0,108.0,0,0,0.0,0.0,14,19,0,0,1,0,3,31,0,1.85,22
+Pablo Felipe,2026-03-14,West Ham United,Manchester City,6.6,64,6912.0,13.0,108.0,0,0,0.0,0.0,14,18,0,0,0,0,2,23,0,1.88,22
+Pablo Felipe,2026-03-22,Aston Villa,West Ham United,6.5,90,9720.0,18.0,108.0,0,0,0.21,0.01,10,11,1,0,2,0,4,27,0,1.85,22
+Pablo Felipe,2026-04-05,West Ham United,Leeds United,5.1,75,8100.0,15.0,108.0,0,0,0.0,0.0,18,22,0,0,0,0,2,40,0,1.85,22
+Pablo Felipe,2026-04-10,West Ham United,Wolverhampton,6.8,78,8424.0,16.0,108.0,0,0,0.1,0.28,14,18,2,0,0,0,3,34,0,1.9,22
+Pablo Felipe,2026-04-20,Crystal Palace,West Ham United,6.4,75,8100.0,15.0,108.0,0,0,0.02,0.01,14,23,0,0,0,0,1,34,0,1.85,22
+Pablo Felipe,2026-04-25,West Ham United,Everton,6.1,81,8748.0,16.0,108.0,0,0,0.0,0.01,12,14,0,0,0,0,1,25,0,1.83,22

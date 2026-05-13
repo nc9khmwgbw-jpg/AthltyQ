@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Marshall Munetsi,2026-01-18,Nantes,Paris FC,6.7,9,972.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,2,7,0,2.06,29
+Marshall Munetsi,2026-01-25,Paris FC,Angers,6.6,12,1296.0,2.0,108.0,0,0,0.0,0.0,4,7,0,0,0,0,0,10,0,1.54,29
+Marshall Munetsi,2026-01-31,Paris FC,Olympique de Marseille,7.1,45,4860.0,9.0,108.0,0,0,0.22,0.01,14,16,0,0,1,0,3,27,0,1.85,29
+Marshall Munetsi,2026-02-04,Lorient,Paris FC,6.8,79,8532.0,16.0,108.0,0,0,0.0,0.0,17,26,0,0,1,0,3,44,0,1.88,29
+Marshall Munetsi,2026-02-08,Auxerre,Paris FC,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,6,11,0,0,0,0,1,16,0,1.85,29
+Marshall Munetsi,2026-02-14,Paris FC,RC Lens,5.9,73,7884.0,15.0,108.0,0,0,0.07,0.01,16,18,0,0,0,0,3,30,0,1.9,29
+Marshall Munetsi,2026-02-21,Toulouse,Paris FC,7.6,67,7236.0,13.0,108.0,1,0,0.65,0.0,11,16,1,0,0,0,6,28,0,1.8,29
+Marshall Munetsi,2026-03-01,Paris FC,Nice,7.5,89,9612.0,18.0,108.0,1,0,0.62,0.05,20,25,1,0,0,0,3,34,0,1.87,29
+Marshall Munetsi,2026-03-08,Olympique Lyonnais,Paris FC,6.7,89,9612.0,18.0,108.0,1,0,1.24,0.02,11,15,0,0,0,0,1,31,0,1.87,29
+Marshall Munetsi,2026-03-15,RC Strasbourg,Paris FC,6.9,90,9720.0,18.0,108.0,0,0,0.24,0.01,13,18,1,0,1,0,2,33,0,1.85,29
+Marshall Munetsi,2026-03-22,Paris FC,Le Havre,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.01,11,18,0,0,0,0,1,33,0,1.85,29
+Marshall Munetsi,2026-04-05,Lorient,Paris FC,7.5,90,9720.0,18.0,108.0,1,0,0.22,0.01,5,8,1,0,0,0,1,17,0,1.85,29
+Marshall Munetsi,2026-04-10,Paris FC,AS Monaco,7.0,90,9720.0,18.0,108.0,0,0,0.11,0.22,16,22,2,0,1,0,3,39,0,1.85,29
+Marshall Munetsi,2026-04-19,Metz,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
+Marshall Munetsi,2026-04-26,Paris FC,Lille,5.7,45,4860.0,9.0,108.0,0,0,0.0,0.01,6,7,0,0,0,0,3,10,0,1.85,29

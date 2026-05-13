@@ -56,7 +56,8 @@
 
         .similarity-card-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr); /* Force 3 colonnes */
+            grid-template-columns: repeat(3, 1fr);
+            /* Force 3 colonnes */
             gap: 2rem;
             width: 100% !important;
             margin-top: 2rem;
@@ -68,6 +69,7 @@
                 grid-template-columns: repeat(2, 1fr);
             }
         }
+
         @media (max-width: 768px) {
             .similarity-card-grid {
                 grid-template-columns: 1fr;
@@ -142,40 +144,58 @@
             width: 100%;
             aspect-ratio: 2/3;
             background: #111;
-            border: 1px solid rgba(255,255,255,0.1);
+            border: 1px solid rgba(255, 255, 255, 0.1);
             border-radius: 12px;
             position: relative;
             overflow: hidden;
         }
+
         .pitch-line {
             position: absolute;
-            border: 1px solid rgba(255,255,255,0.05);
+            border: 1px solid rgba(255, 255, 255, 0.05);
         }
+
         .pitch-center-circle {
             position: absolute;
-            top: 50%; left: 50%;
+            top: 50%;
+            left: 50%;
             transform: translate(-50%, -50%);
-            width: 30%; height: 20%;
-            border: 1px solid rgba(255,255,255,0.05);
+            width: 30%;
+            height: 20%;
+            border: 1px solid rgba(255, 255, 255, 0.05);
             border-radius: 50%;
         }
+
         .pitch-area {
             position: absolute;
-            width: 50%; height: 15%;
-            border: 1px solid rgba(255,255,255,0.05);
+            width: 50%;
+            height: 15%;
+            border: 1px solid rgba(255, 255, 255, 0.05);
             left: 25%;
         }
+
         .heatmap-glow {
             position: absolute;
-            width: 40px; height: 40px;
+            width: 40px;
+            height: 40px;
             background: radial-gradient(circle, rgba(234, 179, 8, 0.6) 0%, rgba(234, 179, 8, 0) 70%);
             filter: blur(8px);
             border-radius: 50%;
             animation: pulse-glow 2s infinite ease-in-out;
         }
+
         @keyframes pulse-glow {
-            0%, 100% { transform: scale(1); opacity: 0.5; }
-            50% { transform: scale(1.5); opacity: 0.8; }
+
+            0%,
+            100% {
+                transform: scale(1);
+                opacity: 0.5;
+            }
+
+            50% {
+                transform: scale(1.5);
+                opacity: 0.8;
+            }
         }
 
         .card-scout-premium:hover .scout-stat-pill {
@@ -6788,24 +6808,27 @@
                     </div>
 
                     <div class="w-full xl:w-80">
-                            <div class="flex flex-col gap-4">
-                                <div class="flex items-center justify-between px-1">
-                                    <span class="font-mono text-[9px] text-white/30 uppercase tracking-[0.2em]">Sélecteur Stratégique</span>
-                                    <span id="alphaValueDisplay" class="font-mono text-[9px] text-yellow-500/50 uppercase tracking-widest font-black">Mode: Équilibré</span>
-                                </div>
-                                <div class="flex p-1 bg-white/5 border border-white/10 rounded-xl gap-1">
-                                    <button onclick="setAlphaMode(0.2, 'Potentiel')" 
-                                        class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all text-white/40 hover:text-white"
-                                        id="btn-alpha-0.2">Potentiel</button>
-                                    <button onclick="setAlphaMode(0.5, 'Équilibré')" 
-                                        class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all bg-yellow-500 text-black shadow-[0_0_15px_rgba(234,179,8,0.3)]"
-                                        id="btn-alpha-0.5">Équilibré</button>
-                                    <button onclick="setAlphaMode(0.8, 'Performance')" 
-                                        class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all text-white/40 hover:text-white"
-                                        id="btn-alpha-0.8">Performance</button>
-                                </div>
-                                <input type="hidden" id="alphaSlider" value="0.5">
+                        <div class="flex flex-col gap-4">
+                            <div class="flex items-center justify-between px-1">
+                                <span class="font-mono text-[9px] text-white/30 uppercase tracking-[0.2em]">Sélecteur
+                                    Stratégique</span>
+                                <span id="alphaValueDisplay"
+                                    class="font-mono text-[9px] text-yellow-500/50 uppercase tracking-widest font-black">Mode:
+                                    Équilibré</span>
                             </div>
+                            <div class="flex p-1 bg-white/5 border border-white/10 rounded-xl gap-1">
+                                <button onclick="setAlphaMode(0.2, 'Potentiel')"
+                                    class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all text-white/40 hover:text-white"
+                                    id="btn-alpha-0.2">Potentiel</button>
+                                <button onclick="setAlphaMode(0.5, 'Équilibré')"
+                                    class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all bg-yellow-500 text-black shadow-[0_0_15px_rgba(234,179,8,0.3)]"
+                                    id="btn-alpha-0.5">Équilibré</button>
+                                <button onclick="setAlphaMode(0.8, 'Performance')"
+                                    class="alpha-btn flex-1 py-2 rounded-lg font-outfit font-black text-[9px] uppercase tracking-widest transition-all text-white/40 hover:text-white"
+                                    id="btn-alpha-0.8">Performance</button>
+                            </div>
+                            <input type="hidden" id="alphaSlider" value="0.5">
+                        </div>
                     </div>
                 </div>
 
@@ -7576,14 +7599,13 @@
                     riskLabel = 'Vigilance';
                 }
 
-                // OPTION 3: Statut Clinique Avancé (Style Éditorial)
-                let statusLabel = "Full Training";
+                // Statut Clinique Avancé (Style Éditorial) - Synchronisé avec le backend
+                let statusLabel = p.status || "Full Training";
                 let statusColor = "text-emerald-500";
-                if (p.injury_risk_score > 70) {
-                    statusLabel = "Rest Force";
+                
+                if (p.injury_risk_score > 50) {
                     statusColor = "text-rose-600";
-                } else if (p.injury_risk_score > 40) {
-                    statusLabel = "Modified";
+                } else if (p.injury_risk_score > 15) {
                     statusColor = "text-amber-500";
                 }
 
@@ -7868,6 +7890,7 @@
             document.body.style.overflow = 'hidden';
 
             let history = [];
+            let medHistory = [];
 
             // 1. ISOLATION DE L'APPEL API
             try {
@@ -7875,6 +7898,7 @@
                 if (res.ok) {
                     const historyData = await res.json();
                     history = (historyData.history || []).slice(0, 15);
+                    medHistory = historyData.medical_history || [];
                 }
             } catch (apiErr) {
                 console.warn("Erreur réseau API Historique:", apiErr);
@@ -7903,9 +7927,9 @@
                 const initials = (p.name || "XX").split(' ').map(n => n[0]).join('').substring(0, 2).toUpperCase();
 
                 // Variables pour la typographie et les couleurs de risque
-                const riskColor = p.injury_risk_score > 70 ? '#f43f5e' : (p.injury_risk_score > 40 ? '#f59e0b' : '#10b981');
-                const riskBg = p.injury_risk_score > 70 ? 'rgba(244,63,94,0.1)' : (p.injury_risk_score > 40 ? 'rgba(245,158,11,0.1)' : 'rgba(16,185,129,0.1)');
-                const riskBorder = p.injury_risk_score > 70 ? 'rgba(244,63,94,0.4)' : (p.injury_risk_score > 40 ? 'rgba(245,158,11,0.4)' : 'rgba(16,185,129,0.4)');
+                const riskColor = p.injury_risk_score > 50 ? '#f43f5e' : (p.injury_risk_score > 15 ? '#f59e0b' : '#10b981');
+                const riskBg = p.injury_risk_score > 50 ? 'rgba(244,63,94,0.1)' : (p.injury_risk_score > 15 ? 'rgba(245,158,11,0.1)' : 'rgba(16,185,129,0.1)');
+                const riskBorder = p.injury_risk_score > 50 ? 'rgba(244,63,94,0.4)' : (p.injury_risk_score > 15 ? 'rgba(245,158,11,0.4)' : 'rgba(16,185,129,0.4)');
 
                 // 2. INJECTION DU TEMPLATE COMPLET (AVEC LE SVG COMPLET DE LA VUE DE DOS)
                 modal.innerHTML = `
@@ -7946,7 +7970,7 @@
     <div class="qsi-elite"><div class="qs-lbl-elite">Max Speed</div><div class="qs-val-elite" style="color:var(--cyan)">${maxSpeed}<span class="qs-u-elite">km/h</span></div></div>
     <div class="qsi-elite"><div class="qs-lbl-elite">Avg Dist</div><div class="qs-val-elite" style="color:#34d399">${avgDist}<span class="qs-u-elite">km</span></div></div>
     <div class="qsi-elite"><div class="qs-lbl-elite">Sprints</div><div class="qs-val-elite" style="color:#fbbf24">${avgSprints}</div></div>
-    <div class="qsi-elite"><div class="qs-lbl-elite">Risque</div><div class="qs-val-elite" style="color:${p.injury_risk_score > 70 ? '#f43f5e' : '#fbbf24'}">${p.injury_risk_score}<span class="qs-u-elite">%</span></div></div>
+    <div class="qsi-elite"><div class="qs-lbl-elite">Risque</div><div class="qs-val-elite" style="color:${p.injury_risk_score > 50 ? '#f43f5e' : '#fbbf24'}">${p.injury_risk_score}<span class="qs-u-elite">%</span></div></div>
     <div class="qsi-elite"><div class="qs-lbl-elite">Fatigue</div><div class="qs-val-elite" style="color:#f87171">${p.fatigue_score}<span class="qs-u-elite">%</span></div></div>
   </div>
 
@@ -7979,10 +8003,51 @@
             </div>
           </div>
 
-          <div class="slbl-elite" style="margin-top: 10px;">Safe minutes</div>
-          <div class="brow-elite">
-            <div><div class="br-top-elite"><span class="br-key-elite">Limite surcharge</span><span class="br-val-elite" style="color:#34d399">74 MIN</span></div><div class="br-track-elite"><div class="br-fill-elite" style="width:82%;background:#10b981"></div></div></div>
-            <div><div class="br-top-elite"><span class="br-key-elite">Fatigue globale</span><span class="br-val-elite" style="color:#fbbf24">${p.fatigue_score}%</span></div><div class="br-track-elite"><div class="br-fill-elite" style="width:${p.fatigue_score}%;background:#f59e0b"></div></div></div>
+          <!-- PLANIFICATEUR DE ROTATION TACTIQUE -->
+          <div class="slbl-elite" style="margin-top: 25px; margin-bottom: 15px; color: var(--yellow-athletic); display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-weight: 900; letter-spacing: 0.05em;">PLANIFICATEUR DE ROTATION (PROCHAIN MATCH)</span>
+            <span id="simRestValue" style="font-family:var(--font-mono); font-size: 11px; background: rgba(234,179,8,0.1); padding: 2px 8px; border-radius: 4px;">J + 4.0 JOURS</span>
+          </div>
+          
+          <div style="background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.05); border-radius: 20px; padding: 25px;">
+            <input type="range" min="1" max="10" value="4" step="0.5" class="athletic-slider" id="simRestSlider" style="width: 100%; margin-bottom: 25px;" oninput="updateFutureSim('${p.name}')">
+            
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 25px;">
+                <!-- JAUGE A : REPOS SEUL -->
+                <div style="background: rgba(14, 165, 233, 0.05); border: 1px solid rgba(14, 165, 233, 0.1); border-radius: 16px; padding: 15px; text-align: center;">
+                    <div style="font-family: var(--font-mono); font-size: 8px; color: var(--cyan); text-transform: uppercase; margin-bottom: 10px; letter-spacing: 0.1em;">📊 État si REPOS SEUL</div>
+                    <div id="simFutureLevel" style="font-size: 24px; font-family: var(--font-main); font-weight: 900; color: var(--cyan);">-- %</div>
+                </div>
+                
+                <!-- JAUGE B : SI JOUE LE MATCH -->
+                <div style="background: rgba(244, 63, 94, 0.05); border: 1px solid rgba(244, 63, 94, 0.1); border-radius: 16px; padding: 15px; text-align: center;">
+                    <div style="font-family: var(--font-mono); font-size: 8px; color: #f43f5e; text-transform: uppercase; margin-bottom: 10px; letter-spacing: 0.1em;">⚽ État SI JOUE (90')</div>
+                    <div id="simPostMatchLevel" style="font-size: 24px; font-family: var(--font-main); font-weight: 900; color: #f43f5e;">-- %</div>
+                </div>
+            </div>
+
+            <!-- TABLEAU DE PROJECTION TACTIQUE (J+3, J+6...) -->
+            <div id="projectionTable" style="border-top: 1px solid rgba(255,255,255,0.05); padding-top: 15px;">
+                <div style="font-family: var(--font-mono); font-size: 9px; color: rgba(255,255,255,0.4); text-transform: uppercase; margin-bottom: 10px; text-align: center;">Disponibilité Projetée par Échéance</div>
+                <div id="simTimeline" style="display: flex; justify-content: space-between; gap: 8px;">
+                    <!-- Rempli par JS -->
+                </div>
+            </div>
+          </div>
+          <!-- ÉVIDENCE MÉDICALE (Transfermarkt) -->
+          <div style="margin-top: 20px; padding: 15px; background: rgba(255,255,255,0.02); border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); display: flex; gap: 15px; align-items: center;">
+            <div style="font-size: 24px;">📁</div>
+            <div>
+                <div style="font-family:var(--font-mono); font-size: 9px; color: rgba(255,255,255,0.4); text-transform: uppercase; letter-spacing: 0.1em;">Évidence Médicale (Transfermarkt)</div>
+                <div style="display: flex; gap: 15px; margin-top: 5px;">
+                    <div style="font-family:var(--font-main); font-size: 11px; color: ${p.medical_history.recent_muscle_injuries > 0 ? '#f43f5e' : '#34d399'}; font-weight: 800;">
+                        ${p.medical_history.recent_muscle_injuries} Blessures (12m)
+                    </div>
+                    <div style="font-family:var(--font-main); font-size: 11px; color: #fff; opacity: 0.8; font-weight: 800;">
+                        Dernière : ${p.medical_history.days_since_last > 365 ? '> 1 an' : p.medical_history.days_since_last + ' jours'}
+                    </div>
+                </div>
+            </div>
           </div>
         </div>
       </div>
@@ -7996,6 +8061,11 @@
             <div><div class="br-top-elite"><span class="br-key-elite">Charge totale sem.</span><span class="br-val-elite" style="color:var(--cyan)">1840 UA</span></div><div class="br-track-elite"><div class="br-fill-elite" style="width:65%;background:var(--cyan)"></div></div></div>
           </div>
 
+          <div class="slbl-elite" style="margin-top: 25px;">Safe minutes (Capacité de jeu)</div>
+          <div class="brow-elite" style="background: rgba(255,255,255,0.02); padding: 15px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.05);">
+            <div><div class="br-top-elite"><span class="br-key-elite">Limite surcharge</span><span class="br-val-elite" style="color:#34d399">74 MIN</span></div><div class="br-track-elite"><div class="br-fill-elite" style="width:82%;background:#10b981"></div></div></div>
+            <div style="margin-top: 10px;"><div class="br-top-elite"><span class="br-key-elite">Fatigue globale</span><span class="br-val-elite" style="color:#fbbf24">${p.fatigue_score}%</span></div><div class="br-track-elite"><div class="br-fill-elite" style="width:${p.fatigue_score}%;background:#f59e0b"></div></div></div>
+          </div>
         </div>
       </div>
 
@@ -8172,6 +8242,39 @@
   </div>
 
   <div class="panel-elite" id="panel-hist">
+    <div class="slbl-elite" style="margin-bottom: 15px; color: #f43f5e; font-size: 11px;">Historique Lésionnel (Transfermarkt)</div>
+    <div id="medicalTimeline" style="display: flex; gap: 15px; overflow-x: auto; padding-bottom: 20px; margin-bottom: 25px; border-bottom: 1px solid rgba(255,255,255,0.05); scrollbar-width: none; -ms-overflow-style: none;">
+        ${medHistory.length > 0 ? medHistory.map(h => {
+                    const isCritical = h.duration > 30;
+                    const color = h.category === 'MUSCULAIRE' ? '#f43f5e' : (h.category === 'TRAUMA' ? '#fbbf24' : '#a78bfa');
+                    const bgGlow = isCritical ? `box-shadow: 0 0 20px rgba(244, 63, 94, 0.15);` : '';
+
+                    return `
+            <div style="flex-shrink:0; width:220px; background:rgba(255,255,255,0.02); border:1px solid rgba(255,255,255,0.05); padding:16px; border-radius:20px; position:relative; overflow:hidden; ${bgGlow} transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+                <!-- Accent Line -->
+                <div style="position:absolute; top:0; left:0; width:100%; height:3px; background:linear-gradient(90deg, ${color}, transparent);"></div>
+                
+                <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:12px;">
+                    <div style="font-family:var(--font-mono); font-size:9px; color:rgba(255,255,255,0.4); text-transform:uppercase; letter-spacing:0.1em;">${h.date}</div>
+                    <div style="font-size:14px;">${h.category === 'MUSCULAIRE' ? '⚡' : '🩹'}</div>
+                </div>
+
+                <div style="font-family:var(--font-main); font-size:14px; font-weight:800; color:#fff; line-height:1.2; margin-bottom:15px; min-height:34px;">${h.type}</div>
+                
+                <div style="display:flex; align-items:flex-end; justify-content:space-between;">
+                    <div>
+                        <div style="font-family:var(--font-mono); font-size:8px; color:rgba(255,255,255,0.3); text-transform:uppercase; margin-bottom:2px;">Indisponibilité</div>
+                        <div style="font-family:var(--font-main); font-size:18px; font-weight:900; color:${color}; line-height:1;">${h.duration}<span style="font-size:10px; margin-left:3px; color:rgba(255,255,255,0.5);">JRS</span></div>
+                    </div>
+                    <div style="background:rgba(255,255,255,0.05); padding:4px 8px; border-radius:6px; font-family:var(--font-mono); font-size:8px; font-weight:700; color:rgba(255,255,255,0.6); border:1px solid rgba(255,255,255,0.1); text-transform:uppercase;">
+                        ${h.category}
+                    </div>
+                </div>
+            </div>
+            `;
+                }).join('') : '<div style="color:rgba(255,255,255,0.2); font-size:11px; font-style:italic; padding:10px;">Aucun incident majeur répertorié.</div>'}
+    </div>
+
     <div class="hist-panel-elite">
         <div class="hist-top-elite">
             <div class="hist-chart-block-elite"><div class="hist-chart-title-elite">Distance</div><div class="chart-wrap-elite"><canvas id="lineChartElite"></canvas></div></div>
@@ -8187,6 +8290,9 @@
   </div>
 
 </div>`;
+
+                // On lance la première simulation IA (repos par défaut : 4j)
+                setTimeout(() => updateFutureSim(p.name), 100);
 
                 window.toggleSilhElite = (view) => {
                     const frontSvg = document.getElementById('athleteSilhouette');
@@ -10082,11 +10188,12 @@
         let detailsChart = null;
 
         // --- GESTION DU SÉLECTEUR ALPHA (BOUTONS) ---
-        window.setAlphaMode = function(value, label) {
+        window.setAlphaMode = function (value, label) {
             const alphaInput = document.getElementById('alphaSlider');
             const alphaDisplay = document.getElementById('alphaValueDisplay');
             if (alphaInput) alphaInput.value = value;
             if (alphaDisplay) alphaDisplay.textContent = `Mode: ${label}`;
+
 
             // Mise à jour visuelle des boutons
             document.querySelectorAll('.alpha-btn').forEach(btn => {
@@ -10112,9 +10219,9 @@
             const playerNameText = document.getElementById('detailsName').innerText.split(' — ')[0];
             const btn = document.querySelector('.export-btn');
             const closeBtn = document.querySelector('.close-modal-btn');
-            
-            if(btn) btn.style.opacity = '0';
-            if(closeBtn) closeBtn.style.opacity = '0';
+
+            if (btn) btn.style.opacity = '0';
+            if (closeBtn) closeBtn.style.opacity = '0';
 
             try {
                 const canvas = await html2canvas(modalContent, {
@@ -10133,8 +10240,8 @@
             } catch (err) {
                 console.error("Erreur PDF:", err);
             } finally {
-                if(btn) btn.style.opacity = '1';
-                if(closeBtn) closeBtn.style.opacity = '1';
+                if (btn) btn.style.opacity = '1';
+                if (closeBtn) closeBtn.style.opacity = '1';
             }
         }
 
@@ -10257,6 +10364,57 @@
             }
         };
 
+        // --- PLANIFICATEUR DE ROTATION TACTIQUE ---
+        window.updateFutureSim = async function(playerName) {
+            const slider = document.getElementById('simRestSlider');
+            const restValue = document.getElementById('simRestValue');
+            const futureLevel = document.getElementById('simFutureLevel');
+            const postMatchLevel = document.getElementById('simPostMatchLevel');
+            const simTimeline = document.getElementById('simTimeline');
+            
+            if (!slider || !futureLevel) return;
+            
+            const days = slider.value;
+            restValue.textContent = `J + ${days} JOURS`;
+            
+            try {
+                // 1. Appel API principal
+                const res = await fetch(`/api/predict-future?player_name=${encodeURIComponent(playerName)}&rest_days=${days}`);
+                if (res.ok) {
+                    const data = await res.json();
+                    
+                    // Rendu des jauges (Glassmorphism style)
+                    futureLevel.textContent = `${data.future_fatigue.toFixed(1)}%`;
+                    futureLevel.style.color = data.future_fatigue > 70 ? '#f43f5e' : (data.future_fatigue > 45 ? '#fbbf24' : '#0ea5e9');
+                    
+                    postMatchLevel.textContent = `${data.post_match_fatigue.toFixed(1)}%`;
+                    postMatchLevel.style.color = data.post_match_fatigue > 85 ? '#f43f5e' : (data.post_match_fatigue > 60 ? '#fbbf24' : '#10b981');
+                    
+                    // 2. Génération de la Timeline de Projection (J+3, J+5, J+7)
+                    const checks = [3, 5, 7];
+                    let timelineHtml = '';
+                    
+                    for (let d of checks) {
+                        const r = await fetch(`/api/predict-future?player_name=${encodeURIComponent(playerName)}&rest_days=${d}`);
+                        const dData = await r.json();
+                        const color = dData.post_match_fatigue > 85 ? '#f43f5e' : (dData.post_match_fatigue > 60 ? '#fbbf24' : '#10b981');
+                        
+                        timelineHtml += `
+                            <div style="flex:1; background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.05); padding:8px; border-radius:10px; text-align:center;">
+                                <div style="font-size:8px; font-family:var(--font-mono); color:rgba(255,255,255,0.3); margin-bottom:4px;">J+${d}</div>
+                                <div style="font-size:12px; font-family:var(--font-main); font-weight:900; color:${color};">${dData.post_match_fatigue.toFixed(0)}%</div>
+                            </div>
+                        `;
+                    }
+                    simTimeline.innerHTML = timelineHtml;
+                    
+                    gsap.fromTo([futureLevel, postMatchLevel], { scale: 0.8 }, { scale: 1, duration: 0.4, ease: "back.out(2)", stagger: 0.1 });
+                }
+            } catch (err) {
+                console.error("Erreur Simulation:", err);
+            }
+        };
+
         function renderSimilarityCards(candidates) {
             const container = document.getElementById('similarityResults');
             if (!container) return;
@@ -10351,8 +10509,8 @@
 
             // --- 3. ARCHÉTYPE & VERDICT ---
             const archMap = {
-                'GK': 'Gardien Moderne', 'DEF': 'Défenseur de Rupture', 'DC': 'Relanceur Propre', 
-                'MDF': 'Sentinelle Tactique', 'MOF': 'Meneur Créatif', 'ATT': 'Finisseur Clinique', 
+                'GK': 'Gardien Moderne', 'DEF': 'Défenseur de Rupture', 'DC': 'Relanceur Propre',
+                'MDF': 'Sentinelle Tactique', 'MOF': 'Meneur Créatif', 'ATT': 'Finisseur Clinique',
                 'F': 'Attaquant de Soutien'
             };
             const archBadge = document.getElementById('detailsArchetypeBadge');
@@ -10361,7 +10519,7 @@
             const score = player.final_score || 0;
             const verdictEl = document.getElementById('detailsVerdict');
             const verdictDescEl = document.getElementById('detailsVerdictDesc');
-            
+
             if (score > 85) {
                 verdictEl.textContent = "Signature Immédiate";
                 if (verdictDescEl) verdictDescEl.textContent = `Compatibilité tactique de ${score}%. Clone quasi-parfait. Opportunité de marché rare.`;
@@ -10379,20 +10537,20 @@
             const heatmap = document.getElementById('heatmapPoint');
             const heatmapLabel = document.getElementById('detailsHeatmapLabel');
             const tacticalNoteEl = document.getElementById('detailsTacticalNote');
-            
+
             // On récupère les stats P90 pour le calcul
             const xG = parseFloat(player.raw_stats['xG_P90'] || 0);
             const xA = parseFloat(player.raw_stats['xA_P90'] || 0);
             const def = parseFloat(player.raw_stats['Tackles_P90'] || 0) + parseFloat(player.raw_stats['Interceptions_P90'] || 0);
             const dribbles = parseFloat(player.raw_stats['Dribbles_P90'] || 0);
             const passes = parseFloat(player.raw_stats['Pass_Accuracy'] || 80);
-            
+
             // Calcul de la Profondeur (Y) : 0% (Haut) à 100% (Bas)
             // Plus le joueur est offensif (xG/xA), plus il monte. Plus il défend, plus il descend.
             let offScore = (xG * 3) + (xA * 2);
             let defScore = def * 0.8;
             let totalActivity = offScore + defScore + 0.1;
-            
+
             // Position de base par poste pour le réalisme
             let baseY = 50;
             if (player.native_pos === 'ATT') baseY = 15;
@@ -10406,7 +10564,7 @@
 
             // Calcul de la Largeur (X) : 10% (Gauche) à 90% (Droite)
             // Les dribbleurs sont souvent excentrés.
-            let lateralBias = (dribbles > 1.5) ? (seed % 2 === 0 ? 25 : 75) : 50; 
+            let lateralBias = (dribbles > 1.5) ? (seed % 2 === 0 ? 25 : 75) : 50;
             let finalX = lateralBias + (seed % 10 - 5); // Petit jitter pour l'unicité
 
             if (heatmap) {
@@ -10419,7 +10577,7 @@
             if (finalY < 25) note = "Attaquant de pointe opérant principalement dans la zone de vérité.";
             else if (finalY < 45) note = "Profil créatif opérant dans les demi-espaces et le dernier tiers.";
             else if (finalY > 65) note = "Sentinelle ou défenseur assurant la sécurité du bloc et la première relance.";
-            
+
             if (heatmapLabel) heatmapLabel.textContent = `${player.native_pos} - POSITIONNEMENT RÉEL`;
             if (tacticalNoteEl) tacticalNoteEl.textContent = `"${note}"`;
 
@@ -10452,7 +10610,7 @@
             for (const [key, label] of Object.entries(labels)) {
                 let valB = player.raw_stats[key] || 0;
                 let valA = player.target_stats[key] || 0;
-                
+
                 if (key === 'distanceRun' && valB > 1000) valB /= 1000;
                 if (key === 'distanceRun' && valA > 1000) valA /= 1000;
 
@@ -10479,7 +10637,7 @@
             if (detailsChart) detailsChart.destroy();
             const ctx = document.getElementById('radarChart').getContext('2d');
             const featKeys = Object.keys(labels);
-            
+
             // On utilise les stats normalisées (radar_stats) pour le graphique
             // et les stats brutes (raw_stats) pour le tableau.
             detailsChart = new Chart(ctx, {
@@ -10518,18 +10676,18 @@
                         r: {
                             angleLines: { color: 'rgba(255, 255, 255, 0.1)' },
                             grid: { color: 'rgba(255, 255, 255, 0.05)' },
-                            pointLabels: { 
-                                color: 'rgba(255, 255, 255, 0.4)', 
+                            pointLabels: {
+                                color: 'rgba(255, 255, 255, 0.4)',
                                 font: { size: 10, family: 'Outfit', weight: '900' },
                                 padding: 20
                             },
                             ticks: { display: false },
-                            suggestedMin: 0, 
+                            suggestedMin: 0,
                             suggestedMax: 100
                         }
                     },
-                    plugins: { 
-                        legend: { 
+                    plugins: {
+                        legend: {
                             display: true,
                             position: 'bottom',
                             labels: {
@@ -10571,23 +10729,32 @@
             <!-- Header Elite -->
             <div class="py-6 px-8 border-b border-white/5 flex items-center justify-between bg-white/[0.02]">
                 <div class="flex items-center gap-6">
-                    <div id="detailsRank" class="w-14 h-14 rounded-2xl bg-yellow-500 flex items-center justify-center font-outfit font-black text-2xl text-black shadow-[0_0_20px_rgba(234,179,8,0.3)]">01</div>
+                    <div id="detailsRank"
+                        class="w-14 h-14 rounded-2xl bg-yellow-500 flex items-center justify-center font-outfit font-black text-2xl text-black shadow-[0_0_20px_rgba(234,179,8,0.3)]">
+                        01</div>
                     <div>
-                        <h2 id="detailsName" class="font-outfit font-black text-4xl text-white uppercase tracking-tighter leading-none mb-1">NOM DU JOUEUR</h2>
+                        <h2 id="detailsName"
+                            class="font-outfit font-black text-4xl text-white uppercase tracking-tighter leading-none mb-1">
+                            NOM DU JOUEUR</h2>
                         <div class="flex items-center gap-3">
-                            <span id="detailsClub" class="font-mono text-[10px] text-white/40 uppercase tracking-[0.2em] font-bold">CLUB ACTUEL</span>
+                            <span id="detailsClub"
+                                class="font-mono text-[10px] text-white/40 uppercase tracking-[0.2em] font-bold">CLUB
+                                ACTUEL</span>
                             <span class="w-1.5 h-1.5 rounded-full bg-yellow-500/30"></span>
-                            <span id="detailsArchetypeBadge" class="font-mono text-[9px] text-yellow-500 font-black uppercase tracking-widest">ARCHÉTYPE</span>
+                            <span id="detailsArchetypeBadge"
+                                class="font-mono text-[9px] text-yellow-500 font-black uppercase tracking-widest">ARCHÉTYPE</span>
                         </div>
                     </div>
                 </div>
 
                 <div class="flex items-center gap-6">
                     <div class="text-right pr-6 border-r border-white/5">
-                        <span class="block font-mono text-[8px] text-white/30 uppercase tracking-widest mb-1">SCORE SIMILARITÉ</span>
-                        <span id="detailsSimilarityScore" class="font-outfit font-black text-2xl text-yellow-500 leading-none">0%</span>
+                        <span class="block font-mono text-[8px] text-white/30 uppercase tracking-widest mb-1">SCORE
+                            SIMILARITÉ</span>
+                        <span id="detailsSimilarityScore"
+                            class="font-outfit font-black text-2xl text-yellow-500 leading-none">0%</span>
                     </div>
-                    
+
                     <div class="flex items-center gap-3">
                         <button onclick="exportToPDF()"
                             class="export-btn flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/70 font-outfit font-black text-[10px] uppercase tracking-widest hover:bg-yellow-500 hover:text-black hover:border-yellow-500 transition-all">
@@ -10596,7 +10763,8 @@
 
                         <button onclick="closeDetailsModal()"
                             class="close-modal-btn w-11 h-11 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-red-500/20 hover:border-red-500/30 transition-all group">
-                            <i data-lucide="x" class="w-5 h-5 text-white/30 group-hover:text-red-500 transition-colors"></i>
+                            <i data-lucide="x"
+                                class="w-5 h-5 text-white/30 group-hover:text-red-500 transition-colors"></i>
                         </button>
                     </div>
                 </div>
@@ -10609,23 +10777,27 @@
                         <div class="flex items-center justify-between mb-6">
                             <div class="flex items-center gap-3">
                                 <i data-lucide="radar" class="w-5 h-5 text-yellow-500"></i>
-                                <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">Profil Comparatif Multivarié</h3>
+                                <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">
+                                    Profil Comparatif Multivarié</h3>
                             </div>
                         </div>
-                        
-                        <div class="w-full max-w-[450px] aspect-square relative mx-auto bg-white/5 rounded-full p-4 border border-white/5 shadow-inner">
+
+                        <div
+                            class="w-full max-w-[450px] aspect-square relative mx-auto bg-white/5 rounded-full p-4 border border-white/5 shadow-inner">
                             <canvas id="radarChart"></canvas>
                         </div>
 
                         <div class="mt-8 grid grid-cols-2 gap-6">
                             <div class="bg-emerald-500/5 border border-emerald-500/10 rounded-2xl p-6">
-                                <h4 class="font-mono text-[10px] text-emerald-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
+                                <h4
+                                    class="font-mono text-[10px] text-emerald-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
                                     <i data-lucide="trending-up" class="w-3 h-3"></i> Points Forts
                                 </h4>
                                 <ul id="detailsPros" class="space-y-3"></ul>
                             </div>
                             <div class="bg-red-500/5 border border-red-500/10 rounded-2xl p-6">
-                                <h4 class="font-mono text-[10px] text-red-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
+                                <h4
+                                    class="font-mono text-[10px] text-red-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
                                     <i data-lucide="trending-down" class="w-3 h-3"></i> Limites
                                 </h4>
                                 <ul id="detailsCons" class="space-y-3"></ul>
@@ -10639,11 +10811,15 @@
                             <div class="flex items-center justify-between mb-6">
                                 <div class="flex items-center gap-3">
                                     <i data-lucide="map" class="w-4 h-4 text-yellow-500"></i>
-                                    <h3 class="font-outfit font-black text-[10px] text-white/40 uppercase tracking-[0.2em]">Positionnement Tactique & Influence</h3>
+                                    <h3
+                                        class="font-outfit font-black text-[10px] text-white/40 uppercase tracking-[0.2em]">
+                                        Positionnement Tactique & Influence</h3>
                                 </div>
-                                <span id="detailsHeatmapLabel" class="font-mono text-[9px] text-yellow-500 font-bold uppercase tracking-widest text-right">ZONE ACTIVE</span>
+                                <span id="detailsHeatmapLabel"
+                                    class="font-mono text-[9px] text-yellow-500 font-bold uppercase tracking-widest text-right">ZONE
+                                    ACTIVE</span>
                             </div>
-                            
+
                             <div class="flex gap-8 items-center">
                                 <div class="w-32 h-48 pitch-container flex-shrink-0">
                                     <div class="pitch-line w-full h-[1px] top-1/2"></div>
@@ -10653,17 +10829,24 @@
                                     <div class="pitch-area bottom-0 border-b-0"></div>
                                     <div id="heatmapPoint" class="heatmap-glow"></div>
                                 </div>
-                                
+
                                 <div class="flex-1 space-y-4">
                                     <div class="p-4 bg-white/5 rounded-xl border border-white/5">
-                                        <p id="detailsTacticalNote" class="text-[11px] text-white/60 font-inter leading-relaxed italic">--</p>
+                                        <p id="detailsTacticalNote"
+                                            class="text-[11px] text-white/60 font-inter leading-relaxed italic">--</p>
                                     </div>
                                     <div class="flex items-center gap-2">
                                         <div class="flex -space-x-2">
-                                            <div class="w-6 h-6 rounded-full bg-yellow-500/20 border border-yellow-500/30 flex items-center justify-center font-mono text-[8px] text-yellow-500 font-black">1</div>
-                                            <div class="w-6 h-6 rounded-full bg-white/5 border border-white/10 flex items-center justify-center font-mono text-[8px] text-white/30 font-black">2</div>
+                                            <div
+                                                class="w-6 h-6 rounded-full bg-yellow-500/20 border border-yellow-500/30 flex items-center justify-center font-mono text-[8px] text-yellow-500 font-black">
+                                                1</div>
+                                            <div
+                                                class="w-6 h-6 rounded-full bg-white/5 border border-white/10 flex items-center justify-center font-mono text-[8px] text-white/30 font-black">
+                                                2</div>
                                         </div>
-                                        <span class="font-mono text-[8px] text-white/30 uppercase tracking-widest">Capacité Multi-Poste Détectée</span>
+                                        <span
+                                            class="font-mono text-[8px] text-white/30 uppercase tracking-widest">Capacité
+                                            Multi-Poste Détectée</span>
                                     </div>
                                 </div>
                             </div>
@@ -10673,9 +10856,11 @@
                             <div class="flex items-center justify-between mb-6">
                                 <div class="flex items-center gap-3">
                                     <i data-lucide="bar-chart-3" class="w-5 h-5 text-yellow-500"></i>
-                                    <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">Face-à-Face Statistique (P90)</h3>
+                                    <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">
+                                        Face-à-Face Statistique (P90)</h3>
                                 </div>
-                                <div class="flex gap-6 font-mono text-[8px] text-white/30 uppercase tracking-widest font-black">
+                                <div
+                                    class="flex gap-6 font-mono text-[8px] text-white/30 uppercase tracking-widest font-black">
                                     <span>Joueur</span>
                                     <span>Ecart</span>
                                     <span>Cible</span>
@@ -10684,15 +10869,21 @@
                             <div id="detailsStatsTable" class="grid grid-cols-1 gap-2"></div>
                         </div>
 
-                        <div class="bg-gradient-to-br from-yellow-500 to-yellow-600 p-6 rounded-3xl relative overflow-hidden group">
-                            <i data-lucide="shield-check" class="absolute -right-4 -bottom-4 w-32 h-32 text-black/10 -rotate-12 group-hover:rotate-0 transition-transform duration-700"></i>
+                        <div
+                            class="bg-gradient-to-br from-yellow-500 to-yellow-600 p-6 rounded-3xl relative overflow-hidden group">
+                            <i data-lucide="shield-check"
+                                class="absolute -right-4 -bottom-4 w-32 h-32 text-black/10 -rotate-12 group-hover:rotate-0 transition-transform duration-700"></i>
                             <div class="relative z-10 text-black">
-                                <h4 class="font-outfit font-black text-xs uppercase tracking-[0.3em] mb-4 flex items-center gap-2 opacity-60">
+                                <h4
+                                    class="font-outfit font-black text-xs uppercase tracking-[0.3em] mb-4 flex items-center gap-2 opacity-60">
                                     <i data-lucide="award" class="w-4 h-4"></i> Verdict Analyste
                                 </h4>
                                 <div class="flex items-end justify-between gap-6">
-                                    <p id="detailsVerdict" class="font-outfit font-black text-3xl leading-tight uppercase italic shrink-0">Signature Recommandée</p>
-                                    <p id="detailsVerdictDesc" class="text-[10px] opacity-80 font-medium leading-relaxed text-right font-inter">
+                                    <p id="detailsVerdict"
+                                        class="font-outfit font-black text-3xl leading-tight uppercase italic shrink-0">
+                                        Signature Recommandée</p>
+                                    <p id="detailsVerdictDesc"
+                                        class="text-[10px] opacity-80 font-medium leading-relaxed text-right font-inter">
                                         Analyse tactique en cours...
                                     </p>
                                 </div>
@@ -10704,9 +10895,10 @@
         </div>
     </div>
 </body>
+
 </html>
-        </div>
-    </div>
+</div>
+</div>
 </body>
 
 </html>

@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pablo Fornals,30,2026-03-08,Getafe,Real Betis,6.8,29,3132.0,6.0,108.0,0,0,0.0,0.13,28,31,2,0,0,0,1,36,0.0,1.92
+Pablo Fornals,30,2026-03-12,Panathinaikos FC,Real Betis,6.6,89,9612.0,18.0,108.0,0,0,0.0,0.1,44,55,3,0,1,0,6,69,0.0,1.87
+Pablo Fornals,30,2026-03-15,Real Betis,Celta Vigo,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.32,66,70,4,0,0,0,1,92,0.0,1.85
+Pablo Fornals,30,2026-03-19,Real Betis,Panathinaikos FC,7.5,74,7992.0,15.0,108.0,0,0,0.22,0.03,63,72,1,0,0,0,4,86,0.0,1.88
+Pablo Fornals,30,2026-03-22,Athletic Club,Real Betis,8.0,45,4860.0,9.0,108.0,1,0,0.07,0.05,30,37,1,0,2,0,1,54,0.0,1.85
+Pablo Fornals,30,2026-03-27,Spain,Serbia,6.6,45,4860.0,9.0,108.0,0,0,0.0,0.0,37,41,2,0,0,0,2,45,0.0,1.85
+Pablo Fornals,30,2026-03-31,Spain,Egypt,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,30,34,0,0,1,0,1,39,0.0,1.85
+Pablo Fornals,30,2026-04-04,Real Betis,Espanyol,8.1,90,9720.0,18.0,108.0,0,0,0.02,0.48,74,84,9,0,0,0,3,101,0.0,1.85
+Pablo Fornals,30,2026-04-08,Sporting Braga,Real Betis,6.9,90,9720.0,18.0,108.0,0,0,0.04,0.08,33,35,3,0,2,0,5,50,0.0,1.85
+Pablo Fornals,30,2026-04-12,Osasuna,Real Betis,6.4,74,7992.0,15.0,108.0,0,0,0.04,0.01,35,38,0,0,0,0,4,50,0.0,1.88
+Pablo Fornals,30,2026-04-16,Real Betis,Sporting Braga,7.0,77,8316.0,15.0,108.0,0,0,0.01,0.21,36,40,1,0,3,0,3,58,0.0,1.8
+Pablo Fornals,30,2026-04-21,Girona FC,Real Betis,7.2,75,8100.0,15.0,108.0,0,0,0.0,0.25,37,45,2,0,1,0,5,57,0.0,1.85
+Pablo Fornals,30,2026-04-24,Real Betis,Real Madrid,6.6,68,7344.0,14.0,108.0,0,0,0.05,0.14,54,61,3,0,3,0,8,76,0.0,1.91
+Pablo Fornals,30,2026-05-03,Real Betis,Real Oviedo,6.4,63,6804.0,13.0,108.0,0,0,0.0,0.03,34,43,2,0,0,0,2,53,0.0,1.91
+Pablo Fornals,30,2026-05-09,Real Sociedad,Real Betis,6.7,69,7452.0,14.0,108.0,0,0,0.05,0.02,29,37,2,0,2,0,9,51,0.0,1.88

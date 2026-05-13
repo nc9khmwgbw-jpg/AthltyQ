@@ -11,38 +11,46 @@ def normalize_name(name):
         if unicodedata.category(c) != 'Mn'
     ).lower()
 
-# ══════════════════════════════════════════════════════════════════════
-# 1. MATRICE DE COMPATIBILITÉ RIGOUREUSE
-# ══════════════════════════════════════════════════════════════════════
-# On définit la capacité d'un joueur de poste B à remplir le rôle de poste A
 POSITION_FIT = {
     "ATT": {"ATT": 1.00, "MOF": 0.60, "MDF": 0.10, "DEF": 0.02, "GK": 0.00},
     "MOF": {"MOF": 1.00, "ATT": 0.70, "MDF": 0.50, "DEF": 0.10, "GK": 0.00},
-    "MDF": {"MDF": 1.00, "MOF": 0.60, "DEF": 0.60, "ATT": 0.10, "GK": 0.00},
-    "DEF": {"DEF": 1.00, "MDF": 0.50, "MOF": 0.10, "ATT": 0.00, "GK": 0.00},
+    "MDF": {"MDF": 1.00, "MOF": 0.60, "DEF": 0.70, "ATT": 0.10, "GK": 0.00},
+    "DEF": {"DEF": 1.00, "MDF": 0.60, "MOF": 0.10, "ATT": 0.00, "GK": 0.00},
     "GK": {"GK": 1.00}
+}
+
+POSTE_MAP = {
+    'CF': 'ATT', 'ST': 'ATT', 'LW': 'ATT', 'RW': 'ATT', 'SS': 'ATT', 'F': 'ATT',
+    'AM': 'MOF', 'CM': 'MOF', 'RM': 'MOF', 'LM': 'MOF', 'M': 'MOF',
+    'DM': 'MDF', 'MDF': 'MDF',
+    'CB': 'DEF', 'LB': 'DEF', 'RB': 'DEF', 'WB': 'DEF', 'D': 'DEF',
+    'GK': 'GK', 'G': 'GK'
 }
 
 POSITION_WEIGHTS = {
     "ATT": {
-        "Rating_MA10": 1.0, "xG_P90": 1.8, "xA_P90": 1.2, "Pass_Accuracy": 0.5,
-        "Tackles_P90": 0.0, "distanceRun": 0.7, "Possession_Security": 0.8,
-        "Ground_Duels_Won": 0.7, "Successful_Dribbles": 1.5
+        "Rating_MA10": 1.0, "xG_P90": 2.0, "xA_P90": 1.2, "Pass_Accuracy": 0.5,
+        "Tackles_P90": 0.0, "distanceRun": 0.8, "Possession_Security": 0.8,
+        "Ground_Duels_Won_P90": 0.7, "Dribbles_P90": 1.8,
+        "Fatigue_IA": 1.5, "Medical_Risk_Score": 2.0
     },
     "MOF": {
-        "Rating_MA10": 1.0, "xG_P90": 0.9, "xA_P90": 1.8, "Pass_Accuracy": 1.3,
-        "Tackles_P90": 0.3, "distanceRun": 1.0, "Possession_Security": 1.2,
-        "Ground_Duels_Won": 0.8, "Successful_Dribbles": 1.4
+        "Rating_MA10": 1.0, "xG_P90": 0.9, "xA_P90": 2.0, "Pass_Accuracy": 1.5,
+        "Tackles_P90": 0.4, "distanceRun": 1.2, "Possession_Security": 1.3,
+        "Ground_Duels_Won_P90": 1.0, "Dribbles_P90": 1.5,
+        "Fatigue_IA": 1.5, "Medical_Risk_Score": 1.8
     },
     "MDF": {
-        "Rating_MA10": 1.0, "xG_P90": 0.2, "xA_P90": 0.8, "Pass_Accuracy": 1.5,
-        "Tackles_P90": 1.4, "distanceRun": 1.2, "Possession_Security": 1.3,
-        "Ground_Duels_Won": 1.2, "Successful_Dribbles": 0.4
+        "Rating_MA10": 1.0, "xG_P90": 0.2, "xA_P90": 1.0, "Pass_Accuracy": 1.8,
+        "Tackles_P90": 1.8, "distanceRun": 1.4, "Possession_Security": 1.5,
+        "Ground_Duels_Won_P90": 1.5, "Dribbles_P90": 0.5,
+        "Fatigue_IA": 2.2, "Medical_Risk_Score": 2.5
     },
     "DEF": {
-        "Rating_MA10": 1.0, "xG_P90": 0.0, "xA_P90": 0.2, "Pass_Accuracy": 1.2,
-        "Tackles_P90": 1.8, "distanceRun": 0.8, "Possession_Security": 1.0,
-        "Ground_Duels_Won": 1.5, "Successful_Dribbles": 0.2
+        "Rating_MA10": 1.2, "xG_P90": 0.1, "xA_P90": 0.2, "Pass_Accuracy": 1.4,
+        "Tackles_P90": 2.0, "distanceRun": 1.0, "Possession_Security": 1.2,
+        "Ground_Duels_Won_P90": 2.0, "Dribbles_P90": 0.3,
+        "Fatigue_IA": 1.8, "Medical_Risk_Score": 2.2
     }
 }
 
@@ -52,204 +60,132 @@ class SimilarityEngine:
         self.features_list = [
             "Rating_MA10", "xG_P90", "xA_P90", "Pass_Accuracy", 
             "Tackles_P90", "distanceRun", "Possession_Security", 
-            "Ground_Duels_Won_P90", "Dribbles_P90"
+            "Ground_Duels_Won_P90", "Dribbles_P90",
+            "Fatigue_IA", "Medical_Risk_Score"
         ]
         
-        # 1. On récupère le dernier état connu (Poste, Age, Equipe, etc.)
+        for f in self.features_list:
+            if f in self.df.columns:
+                self.df[f] = pd.to_numeric(self.df[f], errors='coerce').fillna(0)
+            else:
+                self.df[f] = 0.0
+
         self.df_raw = self.df.sort_values('Match_Date').groupby('Nom').tail(1).copy()
-        
-        # 2. On calcule le profil MOYEN (lissée) pour chaque joueur sur son historique
-        # Cela permet d'avoir des stats représentatives et non basées sur un seul match
-        df_means = self.df.groupby('Nom')[self.features_list].mean()
-        
-        # 3. On injecte ces moyennes dans df_raw pour l'affichage et le calcul
-        for feat in self.features_list:
+        perf_feats = [f for f in self.features_list if f not in ["Fatigue_IA", "Medical_Risk_Score"]]
+        df_means = self.df.groupby('Nom')[perf_feats].mean()
+        for feat in perf_feats:
             self.df_raw[feat] = self.df_raw['Nom'].map(df_means[feat])
         
-        # Sécurité: On remplit les éventuels NaNs par 0 pour le front-end
-        self.df_raw[self.features_list] = self.df_raw[self.features_list].fillna(0)
-
         self.df_norm = self.df_raw.copy()
         self.scaler = StandardScaler()
         if not self.df_norm.empty:
             self.df_norm[self.features_list] = self.scaler.fit_transform(self.df_norm[self.features_list])
 
     def get_similar_players(self, target_player_name, alpha=0.5, top_n=10):
-        # 1. Trouver le joueur cible (A) avec normalisation (accent-insensitive)
         target_norm = normalize_name(target_player_name)
-        
-        # On cherche d'abord la correspondance exacte normalisée
         self.df_raw['Name_Norm'] = self.df_raw['Nom'].apply(normalize_name)
         mask = self.df_raw['Name_Norm'] == target_norm
-        
-        if not mask.any():
-            # Puis une recherche partielle normalisée
-            mask = self.df_raw['Name_Norm'].str.contains(target_norm)
-            
-        if not mask.any(): 
-            return {"error": "PLAYER_NOT_FOUND"}
+        if not mask.any(): mask = self.df_raw['Name_Norm'].str.contains(target_norm)
+        if not mask.any(): return {"error": "PLAYER_NOT_FOUND"}
 
-        name_a = self.df_raw[mask].iloc[0]['Nom']
-        row_a_norm = self.df_norm[self.df_norm['Nom'] == name_a].iloc[0]
-        row_a_raw = self.df_raw[self.df_raw['Nom'] == name_a].iloc[0]
-        
-        # Identifier le poste NATIF de la cible (Yamal = ATT ou MOF)
-        pos_map = {'F': 'ATT', 'M': 'MOF', 'D': 'DEF', 'G': 'GK'}
-        target_native_pos = pos_map.get(row_a_raw.get('Poste_Cat', 'M'), 'MOF')
-        
-        # 1. Stratégie de sélection des candidats multiniveaux
-        # Niveau 1 : Même poste, équipe différente
+        row_a_raw = self.df_raw[mask].iloc[0]
+        row_a_norm = self.df_norm[self.df_norm['Nom'] == row_a_raw['Nom']].iloc[0]
+        name_a = row_a_raw['Nom']
         target_team = row_a_raw.get('Team', 'Inconnu')
-        candidates = self.df_norm[
-            (self.df_norm['Poste_Cat'] == row_a_raw['Poste_Cat']) & 
-            (self.df_norm['Team'] != target_team) &
-            (self.df_norm['Nom'] != name_a)
-        ]
-        
-        # Niveau 2 : Si trop peu de candidats, on accepte d'autres postes (équipe différente)
-        if len(candidates) < 5:
-            candidates = self.df_norm[
-                (self.df_norm['Team'] != target_team) & 
-                (self.df_norm['Nom'] != name_a)
-            ]
-            
-        # Niveau 3 : Si toujours trop peu (ex: équipe isolée), on accepte même équipe (autres joueurs)
-        if len(candidates) < 3:
-            candidates = self.df_norm[self.df_norm['Nom'] != name_a]
-            
-        results = []
+        target_pos = POSTE_MAP.get(row_a_raw.get('Poste_Cat', 'M'), 'MOF')
 
+        # --- NOUVEAU : CALCUL DU DNA DE L'EQUIPE CIBLE ---
+        team_players = self.df_raw[self.df_raw['Team'] == target_team]
+        if len(team_players) > 3:
+            team_dna = team_players[self.features_list].mean()
+        else:
+            team_dna = self.df_raw[self.features_list].mean()
+
+        candidates = self.df_norm[self.df_norm['Nom'] != name_a]
+        results = []
+        
         for _, row_b_norm in candidates.iterrows():
             name_b = row_b_norm['Nom']
             row_b_raw = self.df_raw[self.df_raw['Nom'] == name_b].iloc[0]
-            candidate_native_pos = pos_map.get(row_b_raw.get('Poste_Cat', 'M'), 'MOF')
+            cand_pos = POSTE_MAP.get(row_b_raw.get('Poste_Cat', 'M'), 'MOF')
 
-            # 2. CALCUL DE SIMILARITÉ
-            score_hybrid = self.compute_hybrid_score(name_a, name_b, alpha, target_native_pos)
+            # 1. Similarité Intrinsèque (Est-ce qu'il joue comme la cible ?)
+            sim_score = self.compute_hybrid_score(row_a_norm, row_b_norm, alpha, target_pos)
             
-            # 3. PÉNALITÉ DE COMPATIBILITÉ (Mutation Fit)
-            mutation_fit = POSITION_FIT[candidate_native_pos].get(target_native_pos, 0.1)
+            # 2. Squad DNA Fit (Est-ce qu'il peut jouer dans CETTE équipe ?)
+            dna_fit = self.calculate_dna_fit(row_b_raw, team_dna, target_pos)
             
-            # Score Final
-            final_score = round(score_hybrid * mutation_fit * 100, 1)
+            # 3. Facteur de compatibilité de poste
+            fit_factor = POSITION_FIT.get(cand_pos, {}).get(target_pos, 0.1)
+            
+            # Score Final Hybride (50% Talent / 50% Adaptabilité)
+            final_score = int(((sim_score * 0.6) + (dna_fit * 0.4)) * fit_factor * 100)
 
-            # Seuil de visibilité abaissé pour garantir des résultats pour tous les profils
-            if final_score >= 10: 
-                # On récupère le résumé ET la liste complète des raisons
-                explanation, full_reasons = self.generate_explanation(row_a_raw, row_b_raw, alpha)
+            if final_score > 10:
+                explanation, full_reasons = self.generate_explanation(row_a_raw, row_b_raw, dna_fit)
                 
-                # Calcul de la polyvalence pour l'affichage (juste pour l'UI)
-                versatility = {}
-                for p_key in ["ATT", "MOF", "MDF", "DEF"]:
-                    fit = POSITION_FIT[candidate_native_pos].get(p_key, 0.1)
-                    versatility[p_key] = round(score_hybrid * fit * 100, 1)
-
-                # Stats brutes pour comparaison (Tableau)
-                raw_stats_b = {feat: round(float(row_b_raw.get(feat, 0)), 2) for feat in self.features_list}
-                raw_stats_a = {feat: round(float(row_a_raw.get(feat, 0)), 2) for feat in self.features_list}
-
-                # Stats normalisées par PERCENTILES (0-100)
-                # Reflète le rang du joueur par rapport au reste de la base de données
-                radar_stats_b = {}
-                radar_stats_a = {}
-                
-                for feat in self.features_list:
-                    # On calcule le rang (percentile)
-                    series = self.df_raw[feat]
-                    val_b = float(row_b_raw.get(feat, 0))
-                    val_a = float(row_a_raw.get(feat, 0))
-                    
-                    # Percentile rank : quel % de la population est en dessous de cette valeur ?
-                    # On ajoute une petite pondération pour éviter les 0 absolus si le joueur a une stat non-nulle
-                    pct_b = (series < val_b).mean() * 100
-                    pct_a = (series < val_a).mean() * 100
-                    
-                    # On lisse un peu pour le visuel
-                    radar_stats_b[feat] = round(max(5, pct_b), 1)
-                    radar_stats_a[feat] = round(max(5, pct_a), 1)
+                # Radar stats
+                radar_b = {f: round(max(5, (self.df_raw[f] < float(row_b_raw[f])).mean() * 100), 1) for f in self.features_list}
+                radar_a = {f: round(max(5, (self.df_raw[f] < float(row_a_raw[f])).mean() * 100), 1) for f in self.features_list}
 
                 results.append({
                     "name": name_b,
-                    "team": row_b_raw.get('Team', 'Inconnu'), # Équipe actuelle du candidat
+                    "team": row_b_raw.get('Team', 'Inconnu'),
                     "target_name": name_a,
-                    "target_team": row_a_raw.get('Team', 'Cible'), # Équipe de la cible
-                    "native_pos": candidate_native_pos,
-                    "final_score": int(final_score),
-                    "versatility": versatility,
-                    "medical_risk": "High" if row_b_raw.get('Medical_Risk_Score', 0) > 0.6 else "Low",
-                    "confidence": int(row_b_raw.get('Match_Num', 10)),
-                    "age": int(row_b_raw.get('Age', 25)),
+                    "target_team": target_team,
+                    "native_pos": cand_pos,
+                    "final_score": final_score,
+                    "dna_fit_score": int(dna_fit * 100),
                     "explanation": explanation,
                     "full_reasons": full_reasons,
-                    "raw_stats": raw_stats_b,
-                    "target_stats": raw_stats_a,
-                    "radar_stats": radar_stats_b,
-                    "target_radar_stats": radar_stats_a
+                    "medical_risk": "High" if row_b_raw.get('Medical_Risk_Score', 0) > 0.6 else "Low",
+                    "confidence": int(row_b_raw.get('Match_Num', 10)),
+                    "versatility": {p: int(sim_score * POSITION_FIT[cand_pos].get(p, 0.1) * 100) for p in ["ATT", "MOF", "MDF", "DEF"]},
+                    "raw_stats": {f: round(float(row_b_raw[f]), 2) for f in self.features_list},
+                    "target_stats": {f: round(float(row_a_raw[f]), 2) for f in self.features_list},
+                    "radar_stats": radar_b,
+                    "target_radar_stats": radar_a
                 })
 
         return sorted(results, key=lambda x: x['final_score'], reverse=True)[:top_n]
 
-    def compute_hybrid_score(self, name_a, name_b, alpha, target_pos):
-        try:
-            row_a = self.df_norm[self.df_norm['Nom'] == name_a].iloc[0]
-            row_b = self.df_norm[self.df_norm['Nom'] == name_b].iloc[0]
-        except: return 0
+    def calculate_dna_fit(self, player_b, team_dna, pos):
+        """Calcule si le joueur peut physiquement et techniquement s'intégrer à l'équipe cible."""
+        # On se concentre sur les critères d'intensité et de discipline
+        critical_feats = ["distanceRun", "Pass_Accuracy", "Possession_Security", "Tackles_P90"]
+        diffs = []
+        for f in critical_feats:
+            target_val = team_dna[f]
+            player_val = player_b[f]
+            # Si le joueur est au-dessus ou proche de la moyenne équipe, c'est bon
+            ratio = min(1.2, player_val / (target_val + 1e-6))
+            diffs.append(ratio)
+        
+        # Malus si le risque médical est trop haut par rapport à la moyenne équipe
+        med_ratio = 1.0
+        if player_b['Medical_Risk_Score'] > team_dna['Medical_Risk_Score'] * 1.5:
+            med_ratio = 0.8 # Pénalité de 20% car trop fragile pour le rythme de l'équipe
+            
+        return (sum(diffs) / len(diffs)) * med_ratio
 
+    def compute_hybrid_score(self, row_a, row_b, alpha, target_pos):
         vec_a = row_a[self.features_list].values.reshape(1, -1).astype(float)
         vec_b = row_b[self.features_list].values.reshape(1, -1).astype(float)
-        
-        # Utilisation des poids du poste de la cible
         w_dict = POSITION_WEIGHTS.get(target_pos, POSITION_WEIGHTS['MOF'])
         weights = np.array([w_dict.get(f, 1.0) for f in self.features_list])
-        
         s_actuel = cosine_similarity(vec_a * weights, vec_b * weights)[0][0]
-        
-        # Potentiel bridé : le boost ne peut pas dépasser 20% du score actuel
-        age_fact = min(1.2, row_b.get('Age_Factor', 1.0))
-        slope = 1 + (0.15 * max(0, float(row_b.get('Rating_Slope5', 0) or 0)))
-        
-        s_potentiel = s_actuel * age_fact * slope
-        # Clipping rigoureux à 1.0
-        return min(1.0, max(0.0, (alpha * s_actuel) + ((1 - alpha) * s_potentiel)))
+        return min(1.0, max(0.0, s_actuel))
 
-    def generate_explanation(self, player_a, player_b, alpha):
-        """Génère une analyse de scouting professionnelle."""
+    def generate_explanation(self, p_a, p_b, dna_fit):
         reasons = []
-        
-        # 1. Analyse du style de percussion
-        drib_a = player_a.get('Successful_Dribbles', 0)
-        drib_b = player_b.get('Successful_Dribbles', 0)
-        if drib_b >= drib_a * 0.85:
-            reasons.append("Capacité d'élimination en 1v1 identique, capable de briser les lignes par le dribble.")
-        
-        # 2. Analyse de la création
-        xa_a = player_a.get('xA_P90', 0)
-        xa_b = player_b.get('xA_P90', 0)
-        if xa_b >= xa_a * 0.85:
-            reasons.append("Vision de jeu créative similaire, excellente qualité de centre et de passe clé.")
-        
-        # 3. Analyse de la finition
-        xg_a = player_a.get('xG_P90', 0)
-        xg_b = player_b.get('xG_P90', 0)
-        if xg_b >= xg_a * 0.85:
-            reasons.append("Présence chirurgicale dans la surface et flair offensif pour la finition.")
+        if p_b['Dribbles_P90'] >= p_a['Dribbles_P90'] * 0.85:
+            reasons.append("Profil de percussion identique.")
+        if dna_fit > 0.95:
+            reasons.append(f"ADÉQUATION TACTIQUE ÉLEVÉE : Son volume de jeu ({int(p_b['distanceRun'])}m) correspond exactement au DNA de l'équipe.")
+        else:
+            reasons.append("Besoin d'adaptation physique pour coller au rythme de l'équipe.")
             
-        # 4. Analyse du volume de jeu (Workrate)
-        dist_a = player_a.get('distanceRun', 0)
-        dist_b = player_b.get('distanceRun', 0)
-        if dist_b >= dist_a * 0.95:
-            reasons.append("Gros volume de courses et intensité physique constante durant les 90 minutes.")
-
-        # 5. Facteur d'âge / Projet
-        age_b = player_b.get('Age', 25)
-        if age_b <= 21:
-            reasons.append(f"Profil très précoce ({age_b} ans) avec une courbe de progression similaire à l'élite mondiale.")
-
-        if not reasons:
-            reasons = ["Profil technique hybride offrant une polyvalence tactique rare sur les phases de transition."]
-        
-        # On crée le petit résumé pour la carte
-        short_explanation = " " + " ".join(reasons[:2])
-        
-        # On renvoie le résumé ET la liste complète
-        return short_explanation, reasons
+        if p_b['Medical_Risk_Score'] < 0.3:
+            reasons.append("Fiabilité athlétique supérieure, capable d'enchaîner les matchs.")
+            
+        return " " + " ".join(reasons[:2]), reasons

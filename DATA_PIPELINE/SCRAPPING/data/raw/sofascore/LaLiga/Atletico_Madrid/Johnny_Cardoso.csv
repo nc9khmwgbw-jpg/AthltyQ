@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Johnny Cardoso,24,2026-02-28,Real Oviedo,Atlético Madrid,6.9,61,6588.0,12.0,108.0,0,0,0.0,0.03,42,47,0,0,0,0,5,61,0.0,1.82
+Johnny Cardoso,24,2026-03-03,FC Barcelona,Atlético Madrid,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,22,0,0,4,0,2,42,0.0,1.85
+Johnny Cardoso,24,2026-03-07,Atlético Madrid,Real Sociedad,6.7,29,3132.0,6.0,108.0,0,0,0.0,0.09,12,13,1,0,1,0,1,22,0.0,1.92
+Johnny Cardoso,24,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.03,47,51,1,0,0,0,2,63,0.0,1.85
+Johnny Cardoso,24,2026-03-14,Atlético Madrid,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Johnny Cardoso,24,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,38,45,0,0,0,0,6,61,0.0,1.85
+Johnny Cardoso,24,2026-03-22,Real Madrid,Atlético Madrid,6.2,57,6156.0,11.0,108.0,0,0,0.0,0.01,26,28,0,0,1,0,2,35,0.0,1.79
+Johnny Cardoso,24,2026-03-28,USA,Belgium,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,13,13,0,0,0,0,3,18,0.0,1.85
+Johnny Cardoso,24,2026-04-14,Atlético Madrid,FC Barcelona,6.7,10,1080.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0.0,1.85
+Johnny Cardoso,24,2026-04-18,Atlético Madrid,Real Sociedad,6.9,42,4536.0,8.0,108.0,0,0,0.0,0.0,16,18,0,0,0,0,2,32,0.0,1.76
+Johnny Cardoso,24,2026-04-22,Elche,Atlético Madrid,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,21,25,0,0,1,0,2,46,0.0,1.85
+Johnny Cardoso,24,2026-04-25,Atlético Madrid,Athletic Club,7.0,32,3456.0,6.0,108.0,0,0,0.0,0.0,13,14,0,0,3,0,2,33,0.0,1.74
+Johnny Cardoso,24,2026-04-29,Atlético Madrid,Arsenal,7.0,88,9504.0,18.0,108.0,0,0,0.04,0.02,42,49,0,0,1,0,4,60,0.0,1.89
+Johnny Cardoso,24,2026-05-02,Valencia,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Johnny Cardoso,24,2026-05-05,Arsenal,Atlético Madrid,6.7,33,3564.0,7.0,108.0,0,0,0.0,0.0,10,10,0,0,0,0,0,14,0.0,1.96

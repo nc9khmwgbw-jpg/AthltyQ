@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Thomas Partey,32,2026-01-20,Villarreal,AFC Ajax,6.5,74,7992.0,15.0,108.0,0,0,0.03,0.01,25,29,0,0,1,0,0,34,0.0,1.88
+Thomas Partey,32,2026-01-24,Villarreal,Real Madrid,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.0,8,9,0,0,0,0,3,11,0.0,2.14
+Thomas Partey,32,2026-01-28,Bayer 04 Leverkusen,Villarreal,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,17,22,0,0,0,0,2,26,0.0,1.85
+Thomas Partey,32,2026-02-18,Levante UD,Villarreal,7.0,11,1188.0,2.0,108.0,0,0,0.0,0.0,5,5,0,0,0,0,1,9,0.0,1.68
+Thomas Partey,32,2026-02-22,Villarreal,Valencia,6.8,32,3456.0,6.0,108.0,0,0,0.0,0.0,7,8,0,0,0,0,2,11,0.0,1.74
+Thomas Partey,32,2026-02-28,FC Barcelona,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Thomas Partey,32,2026-03-08,Villarreal,Elche,6.4,15,1620.0,3.0,108.0,0,0,0.0,0.0,6,8,0,0,1,0,1,10,0.0,1.85
+Thomas Partey,32,2026-03-13,Deportivo Alavés,Villarreal,6.7,23,2484.0,5.0,108.0,0,0,0.0,0.02,21,25,0,0,0,0,0,27,0.0,2.01
+Thomas Partey,32,2026-03-20,Villarreal,Real Sociedad,,1,108.0,0.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,0,3,0.0,0.0
+Thomas Partey,32,2026-03-27,Austria,Ghana,6.8,86,9288.0,17.0,108.0,0,0,0.0,0.0,28,33,1,0,1,0,6,51,0.0,1.83
+Thomas Partey,32,2026-03-30,Germany,Ghana,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,39,0,0,0,0,4,49,0.0,1.85
+Thomas Partey,32,2026-04-23,Real Oviedo,Villarreal,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.01,13,16,0,0,0,0,1,18,0.0,1.54
+Thomas Partey,32,2026-04-26,Villarreal,Celta Vigo,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Thomas Partey,32,2026-05-02,Villarreal,Levante UD,6.8,16,1728.0,3.0,108.0,0,0,0.0,0.0,10,11,0,0,0,0,1,15,0.0,1.74
+Thomas Partey,32,2026-05-10,Mallorca,Villarreal,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.06,36,41,3,0,1,0,8,53,0.0,1.85

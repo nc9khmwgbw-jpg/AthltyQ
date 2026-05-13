@@ -1,0 +1,16 @@
+﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
+Anton Stach,2026-01-04,Leeds United,Manchester United,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.19,38,50,4,0,1,0,6,75,0,1.85,27
+Anton Stach,2026-01-07,Newcastle United,Leeds United,7.2,80,8640.0,16.0,108.0,0,0,0.1,0.31,18,26,4,0,0,0,4,42,0,1.85,27
+Anton Stach,2026-01-11,Derby County,Leeds United,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,5,0,0.0,27
+Anton Stach,2026-01-26,Everton,Leeds United,7.5,85,9180.0,17.0,108.0,0,0,0.09,0.38,13,19,2,0,1,0,5,44,0,1.85,27
+Anton Stach,2026-01-31,Leeds United,Arsenal,7.4,81,8748.0,16.0,108.0,0,0,0.0,0.07,25,29,1,0,0,0,5,52,0,1.83,27
+Anton Stach,2026-02-21,Aston Villa,Leeds United,8.2,83,8964.0,17.0,108.0,1,0,0.07,0.34,9,13,2,0,2,0,6,36,0,1.9,27
+Anton Stach,2026-02-28,Leeds United,Manchester City,6.8,90,9720.0,18.0,108.0,0,0,0.02,0.16,21,29,4,0,1,0,6,50,0,1.85,27
+Anton Stach,2026-03-03,Leeds United,Sunderland,7.5,90,9720.0,18.0,108.0,0,0,0.16,0.2,33,41,2,0,1,0,4,75,0,1.85,27
+Anton Stach,2026-03-08,Leeds United,Norwich City,7.0,20,2160.0,4.0,108.0,0,0,0.0,0.0,6,7,2,0,0,0,2,16,0,1.85,27
+Anton Stach,2026-03-15,Crystal Palace,Leeds United,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.19,10,23,3,0,1,0,4,44,0,1.85,27
+Anton Stach,2026-03-21,Leeds United,Brentford,6.9,90,9720.0,18.0,108.0,0,0,0.1,0.11,42,49,3,0,1,0,4,77,0,1.85,27
+Anton Stach,2026-03-27,Switzerland,Germany,6.5,10,1080.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,1,6,0,1.85,27
+Anton Stach,2026-03-30,Germany,Ghana,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+Anton Stach,2026-04-05,West Ham United,Leeds United,6.4,38,4104.0,8.0,108.0,0,0,0.0,0.0,8,10,0,0,0,0,2,20,0,1.95,27
+Anton Stach,2026-04-26,Chelsea,Leeds United,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,16,21,0,0,0,0,2,32,0,1.85,27

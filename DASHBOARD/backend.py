@@ -9,6 +9,7 @@ import pandas as pd
 import numpy as np
 import json
 import time
+import joblib
 
 from fastapi.responses import HTMLResponse, FileResponse
 
@@ -16,7 +17,7 @@ from fastapi.responses import HTMLResponse, FileResponse
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from LM.models.injury_predictor import InjuryPredictor
+from LM.models.fatigue_predictor import FatiguePredictor
 from LM.models.feature_engineering import run_feature_engineering
 from LM2.similarity_engine import SimilarityEngine
 
@@ -30,15 +31,15 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Global Cache
 CACHE = {
     "results": None,
     "features": None,
+    "similarity_engine": None,
     "last_update": 0,
     "ttl": 300  # 5 minutes
 }
 
-predictor = InjuryPredictor()
+predictor = FatiguePredictor()
 
 # Mock data for physiological markers
 MOCK_PHYSIO = {
@@ -60,23 +61,124 @@ def get_data():
     PROCESSED_PATH = ROOT / "data" / "processed" / "features_dataset.csv"
     RAW_PATH = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
     
+    # LOGIQUE AUTO-UPDATE : On vérifie si le fichier RAW est plus récent que le PROCESSED
+    should_reprocess = False
+    if RAW_PATH.exists():
+        if not PROCESSED_PATH.exists():
+            should_reprocess = True
+        else:
+            raw_mtime = os.path.getmtime(RAW_PATH)
+            proc_mtime = os.path.getmtime(PROCESSED_PATH)
+            if raw_mtime > proc_mtime:
+                print(f"🔄 Dashboard: Nouvelles données détectées ({RAW_PATH}). Mise à jour du cache...")
+                should_reprocess = True
+
     print(f"Dashboard: Tentative de chargement des données...")
     
-    if PROCESSED_PATH.exists():
+    if PROCESSED_PATH.exists() and not should_reprocess:
         print(f"Dashboard: Chargement des features pré-traitées ({PROCESSED_PATH})")
         df_features = pd.read_csv(PROCESSED_PATH, low_memory=False)
         df_features['Match_Date'] = pd.to_datetime(df_features['Match_Date'], errors='coerce')
-        results = predictor.predict(df_features)
+        
+        # Prédiction de la fatigue (Le nouveau Cerveau)
+        predictions = predictor.predict(df_features)
+        # 1. Calcul de la Fatigue IA (0-100)
+        df_features = df_features.copy() # Évite la fragmentation
+        df_features['Fatigue_IA'] = pd.Series(predictions).fillna(0).clip(0, 100)
+        df_features['Fatigue_Score'] = df_features['Fatigue_IA'] # Pour compatibilité frontend
+        
+        # 2. Calcul du Trauma Index (Historique médical)
+        # On cherche les colonnes générées par le Feature Engineering médical
+        trauma_cols = ['Nb_Blessures_Musculaires_12m', 'Jours_Depuis_Blessure', 'Trauma_Index']
+        trauma_score = df_features[trauma_cols].sum(axis=1).fillna(0) if any(c in df_features.columns for c in trauma_cols) else pd.Series(0, index=df_features.index)
+
+        # 3. Calcul de l'Anomalie ACWR (Stress de charge)
+        # On pénalise si l'ACWR sort de la zone de sécurité (0.8 - 1.3)
+        acwr_val = pd.to_numeric(df_features['ACWR'] if 'ACWR' in df_features.columns else 1.0, errors='coerce')
+        # On force la conversion en Série pour pouvoir utiliser .abs() et .clip()
+        if not isinstance(acwr_val, pd.Series):
+            acwr_val = pd.Series(acwr_val, index=df_features.index)
+        
+        acwr_val = acwr_val.fillna(1.0)
+        acwr_stress = ((acwr_val - 1.0).abs() * 50.0).clip(0, 30)
+
+        # 4. Score de Risque Médical Composite (0.0 à 1.0)
+        fatigue_part = pd.to_numeric(df_features['Fatigue_IA'], errors='coerce').fillna(0) * 0.50
+        trauma_part  = pd.to_numeric(trauma_score, errors='coerce').fillna(0) * 0.30
+        acwr_part    = pd.to_numeric(acwr_stress, errors='coerce').fillna(0) * 0.20
+
+        df_features['Medical_Risk_Score'] = (fatigue_part + trauma_part + acwr_part) / 100.0
+        
+        # Normalisation finale
+        df_features['Medical_Risk_Score'] = np.clip(df_features['Medical_Risk_Score'].to_numpy(), 0, 1).tolist()
+        df_features['Injury_Risk'] = df_features['Medical_Risk_Score']
+
+        # 5. Classification des niveaux et Statuts (Paliers Utilisateur)
+        df_features['Risk_Level'] = 'FAIBLE'
+        df_features['Status'] = 'FULL TRAINING'
+        
+        # Modéré (16% à 50%)
+        mask_mod = (df_features['Medical_Risk_Score'] >= 0.16) & (df_features['Medical_Risk_Score'] <= 0.50)
+        df_features.loc[mask_mod, 'Risk_Level'] = 'MODÉRÉ'
+        df_features.loc[mask_mod, 'Status'] = 'VIGILANCE'
+        
+        # Élevé (51% à 85%)
+        mask_high = (df_features['Medical_Risk_Score'] > 0.50) & (df_features['Medical_Risk_Score'] <= 0.85)
+        df_features.loc[mask_high, 'Risk_Level'] = 'ÉLEVÉ'
+        df_features.loc[mask_high, 'Status'] = 'REST FORCE'
+        
+        # Critique / Alerte Blessure ( > 85%)
+        mask_crit = (df_features['Medical_Risk_Score'] > 0.85)
+        df_features.loc[mask_crit, 'Risk_Level'] = 'ÉLEVÉ' # On garde ÉLEVÉ pour que le frontend mette du ROUGE
+        df_features.loc[mask_crit, 'Status'] = 'ALERTE BLESSURE'
+
+        # Pour le dashboard, on groupe par joueur (dernier match)
+        results = df_features.sort_values(['Nom', 'Match_Date'], ascending=[True, False]).groupby('Nom').first().reset_index()
+        
     elif RAW_PATH.exists():
         print(f"Dashboard: Fichier pré-traité absent. Lancement du Feature Engineering sur {RAW_PATH}")
         df = pd.read_csv(RAW_PATH, low_memory=False)
         df['Match_Date'] = pd.to_datetime(df['Match_Date'], errors='coerce')
         df_features = run_feature_engineering(df)
-        results = predictor.predict(df_features)
+        
+        # Sauvegarde automatique pour éviter de recalculer
+        PROCESSED_PATH.parent.mkdir(parents=True, exist_ok=True)
+        df_features.to_csv(PROCESSED_PATH, index=False, encoding='utf-8-sig')
+        print(f"✅ Dashboard: Cache mis à jour avec succès : {PROCESSED_PATH}")
+        
+        predictions = predictor.predict(df_features)
+        df_features['Fatigue_IA'] = pd.Series(predictions).fillna(0)
+        df_features['Fatigue_Score'] = df_features['Fatigue_IA']
+        
+        # Création des catégories de risque (Méthode 100% Pandas pour éviter les erreurs de type)
+        df_features['Risk_Level'] = '🟢 FAIBLE'
+        df_features.loc[df_features['Fatigue_IA'] >= 45, 'Risk_Level'] = '🟠 MODÉRÉ'
+        df_features.loc[df_features['Fatigue_IA'] >= 75, 'Risk_Level'] = '🔴 ÉLEVÉ'
+        
+        df_features['Injury_Risk'] = df_features['Fatigue_IA'] / 100.0
+        
+        # NOUVEAU : Medical_Risk_Score (0.0 à 1.0)
+        df_features['Medical_Risk_Score'] = (df_features['Fatigue_IA'] * 0.7 + df_features.get('recent_muscle_injuries', 0) * 15.0) / 100.0
+        df_features['Medical_Risk_Score'] = np.clip(df_features['Medical_Risk_Score'].to_numpy(), 0, 1).tolist()
+        
+        results = df_features.sort_values(['Nom', 'Match_Date'], ascending=[True, False]).groupby('Nom').first().reset_index()
     else:
         print(f"Dashboard: ERREUR - Aucun fichier de données trouvé !")
         return None, None
     
+    # 3. Traitement global des données pour éviter les calculs répétitifs
+    # On remplace les NaN par None pour la sécurité JSON
+    df_features = df_features.replace({np.nan: None})
+    results = results.replace({np.nan: None})
+    
+    # 4. Initialisation du Similarity Engine (Caché globalement)
+    try:
+        from LM2.similarity_engine import SimilarityEngine
+        CACHE["similarity_engine"] = SimilarityEngine(df_features)
+        print("✅ Dashboard: Moteur de similarité initialisé.")
+    except Exception as e:
+        print(f"⚠️ Dashboard: Erreur moteur similarité : {e}")
+
     # Cache it
     CACHE["results"] = results
     CACHE["features"] = df_features
@@ -110,32 +212,55 @@ def get_dashboard():
 @app.get("/api/dashboard-data")
 def get_dashboard_data():
     results, features = get_data()
-    if results is None:
-        return {"error": "Data not found"}
+    if results is None or features is None:
+        return {"error": "Data not found or corrupted"}
     
     # 1. Team Summary
     total_players = len(results)
-    available_players = len(results[results['Current_Injury'] == 0])
-    injured_count = total_players - available_players
+    
+    # Sécurité si les données médicales sont absentes
+    if 'Current_Injury' in results.columns:
+        available_players = len(results[results['Current_Injury'] == 0])
+        injured_count = total_players - available_players
+    else:
+        available_players = total_players
+        injured_count = 0
+        
     avg_acr = results['ACWR'].mean()
-    risk_dist = results['Risk_Level'].value_counts().to_dict()
+    
+    # Agrégation des risques pour le graphique du haut (3 catégories)
+    raw_dist = results['Risk_Level'].value_counts().to_dict()
+    risk_dist = {
+        "ÉLEVÉ": raw_dist.get('ÉLEVÉ', 0) + raw_dist.get('CRITIQUE', 0),
+        "MODÉRÉ": raw_dist.get('MODÉRÉ', 0),
+        "FAIBLE": raw_dist.get('FAIBLE', 0)
+    }
     
     # 2. Top At-Risk Players (Critiques)
-    # We take players with high risk score, excluding those already injured
-    at_risk = results[(results['Injury_Risk'] >= 0.60) & (results['Current_Injury'] == 0)]
-    at_risk = at_risk.sort_values('Injury_Risk', ascending=False).head(5)
+    # On prend les joueurs avec la plus haute fatigue prédite par l'IA
+    at_risk = results[results['Fatigue_IA'] >= 60]
+    at_risk = at_risk.sort_values('Fatigue_IA', ascending=False).head(5)
     
     top_risks = []
-    from LM.models.injury_predictor import _identifier_facteur_majeur
     for _, row in at_risk.iterrows():
-        facteur_titre, facteur_expl = _identifier_facteur_majeur(row)
+        fatigue = row['Fatigue_IA']
+        if fatigue >= 80:
+            title = "SURCHARGE CRITIQUE"
+            expl = "Le modèle détecte un épuisement sévère. Risque de rupture neuromusculaire immédiat."
+        elif fatigue >= 65:
+            title = "ALERTE FATIGUE"
+            expl = "Accumulation de charge excessive détectée par l'IA. Rotation fortement conseillée."
+        else:
+            title = "VIGILANCE"
+            expl = "Signaux faibles de baisse de performance couplés à une charge élevée."
+
         top_risks.append({
             "name": row['Nom'],
             "player_id": row['Nom'].lower().replace(" ", "_"),
-            "risk_score": int(row['Injury_Risk'] * 100),
+            "risk_score": int(fatigue),
             "position": row.get('Position', 'M'),
-            "recommendation_title": facteur_titre if facteur_titre else "Risque Élevé",
-            "recommendation_details": facteur_expl if facteur_expl else "Le joueur présente des signes de fatigue critique."
+            "recommendation_title": title,
+            "recommendation_details": expl
         })
 
     # 3. Training Load Trend (Last 28 days)
@@ -175,8 +300,8 @@ def get_dashboard_data():
 @app.get("/api/player-data")
 def get_player_data():
     results, features = get_data()
-    if results is None:
-        return {"error": "Data not found"}
+    if results is None or features is None:
+        return {"error": "Data not found or corrupted"}
     
     # NOUVEAU : On extrait les 15 derniers matchs individuels de chaque joueur (100% RÉEL)
     features['Match_Date'] = pd.to_datetime(features['Match_Date'])
@@ -237,36 +362,26 @@ def get_player_data():
     players_list = []
     def generate_clinical_insight(row):
         """Génère un diagnostic médical et sportif 100% dynamique et personnalisé."""
-        risk = row['Injury_Risk']
-        acr = row['ACWR']
-        fatigue = row.get('Fatigue_Score', 0)
-        hrv = int(75 - (fatigue / 3)) # Re-calcul pour cohérence
+        acr = row.get('ACWR', 1.0)
+        fatigue = row.get('Fatigue_IA', 0)
+        risk_score = row.get('Medical_Risk_Score', 0) # Définition de la variable manquante
+        hrv = int(75 - (fatigue / 3))
         
-        if row.get('Current_Injury', 0) == 1:
-            return f"PHASE DE RÉÉDUCATION : Le joueur est actuellement indisponible ({row.get('Injury_Type_Text', 'Lésion')}). Focus sur la cicatrisation et le renforcement isométrique sans impact."
+        if risk_score > 0.85:
+            return f"URGENCE MÉDICALE : Le score de risque combiné est critique ({risk_score*100:.0f}%). Risque de blessure musculaire imminente. Mise au repos totale indispensable."
 
-        if risk >= 0.60:
-            from LM.models.injury_predictor import _identifier_facteur_majeur
-            _, detail = _identifier_facteur_majeur(row)
-            return detail if detail else "ALERTE ROUGE : Paramètres physiologiques critiques. Risque de lésion imminent. Repos total préconisé."
+        if fatigue >= 80:
+            return f"DIAGNOSTIC CRITIQUE : L'IA détecte un épuisement total ({fatigue}%). La chute de rendement sur le dernier match corrélée à la charge ACWR ({acr:.2f}) impose un repos immédiat."
 
-        if risk >= 0.16:
-            if acr > 1.3:
-                return f"ZONE DE DANGER : Surcharge brutale détectée (ACR: {acr:.2f}). Les tissus sont en état de stress mécanique. Réduire la charge de 30% pour éviter la lésion."
-            if fatigue > 50:
-                return f"FATIGUE ACCUMULÉE : Score de fatigue de {fatigue:.1f}/100. Le système nerveux central montre des signes de saturation. Sommeil et hydratation à surveiller."
-            return "VIGILANCE MODÉRÉE : Légère instabilité des marqueurs de charge. Maintenir l'intensité mais limiter les sprints à haute vitesse."
+        if fatigue >= 60:
+            if acr > 1.4:
+                return f"ALERTE SURCHARGE : Pic de charge détecté. Le système neuromusculaire est en état de stress. Réduire le volume d'entraînement de 40%."
+            return f"FATIGUE IMPORTANTE : Score IA de {fatigue}%. Baisse de lucidité détectée dans les duels et la précision. Risque de blessure indirecte accru."
 
-        # Diagnostic pour les joueurs "Fit" (100% dynamique)
-        if acr >= 0.8 and acr <= 1.2:
-            if hrv > 65:
-                return f"ÉTAT OPTIMAL : Équilibre parfait entre charge ({acr:.2f}) et récupération (HRV: {hrv}ms). Le joueur est dans son 'Sweet Spot' de performance."
-            return f"FORME STABLE : Capacité de travail maintenue. Le ratio de charge ({acr:.2f}) est sécurisé, permettant une séance d'intensité maximale sans risque majeur."
-        
-        if acr < 0.8:
-            return f"SOUS-ENTRAÎNEMENT : Le volume de travail est trop bas ({acr:.2f}). Risque de désadaptation. Augmenter progressivement la charge pour retrouver le rythme de compétition."
+        if acr >= 0.8 and acr <= 1.25:
+            return f"ÉTAT OPTIMAL : Équilibre parfait entre charge et récupération. Le joueur est dans sa zone de performance maximale (Fatigue IA: {fatigue}%)."
             
-        return "STABILITÉ PHYSIOLOGIQUE : Aucun signal d'alerte. Le joueur répond positivement aux charges imposées."
+        return "STABILITÉ PHYSIOLOGIQUE : Aucun signal d'alerte majeur. Le joueur répond normalement aux sollicitations."
 
     for _, row in results.iterrows():
         insight = generate_clinical_insight(row)
@@ -288,9 +403,14 @@ def get_player_data():
             "hrv_rmssd": int(75 - (row['Fatigue_Score'] / 3)),
             "injury_risk_level": risk_level,
             "injury_risk_score": int(row['Injury_Risk'] * 100),
+            "status": row['Status'], # Nouveau : REST FORCE, RISQUE BLESSURE, etc.
             "current_injury": int(row.get('Current_Injury', 0)),
             "injury_type": row.get('Injury_Type_Text', ''),
             "dominant_cause": row.get('Dominant_Injury_Cause', 'NONE'),
+            "medical_history": {
+                "recent_muscle_injuries": int(row.get('Nb_Blessures_Musculaires_12m', 0)),
+                "days_since_last": int(row.get('Jours_Depuis_Blessure', 999))
+            },
             "recommendation_title": "Diagnostic Clinique",
             "recommendation_details": insight,
             "historique_jours": player_hist_dict.get(name_val, {}) # Données 100% réelles injectées ici
@@ -358,12 +478,17 @@ def get_player_history(player_name: str):
             intensity = round((mins / 90.0) * rating * 1.2, 1)
             recovery = round(100.0 - fatigue * 0.8 + (hrv / 10.0), 1)
             
-            # Physical metrics
-            distance = float(row.get('distanceRun', row.get('Distance_Covered_km', 10.2)))
+            # Physical metrics avec sécurité sur les nuls
+            dist_val = row.get('distanceRun')
+            if pd.isna(dist_val): dist_val = row.get('Distance_Covered_km', 10.2)
+            distance = float(dist_val if pd.notnull(dist_val) else 10.2)
             if distance > 30: distance /= 1000.0 # Convert meters to km (threshold lowered for accuracy)
             
-            sprints = int(row.get('sprints', 18))
-            trauma = float(row.get('Trauma_Index', 0.5))
+            s_val = row.get('sprints')
+            sprints = int(s_val if pd.notnull(s_val) else 18)
+            
+            t_val = row.get('Trauma_Index')
+            trauma = float(t_val if pd.notnull(t_val) else 0.5)
             
             # Per-match risk based on multiple factors for variation
             # Use intensity and sprints if fatigue/trauma are flat
@@ -417,10 +542,118 @@ def get_player_history(player_name: str):
 
     insight = f"Tendance : {trend} Le joueur est à {round(avg_recovery)}% de sa capacité de récupération moyenne."
 
+    # 5. Extraction de l'historique Médical (Transfermarkt)
+    path_injury = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "data" / "raw" / "transfermarkt" / "injury_history.csv"
+    medical_history_list = []
+    if path_injury.exists():
+        injury_df = pd.read_csv(path_injury)
+        p_injuries = injury_df[injury_df['Nom'].str.lower() == player_name.lower()]
+        if p_injuries.empty:
+            p_injuries = injury_df[injury_df['Nom'].str.lower().str.replace(" ", "_") == player_name.lower()]
+        
+        if not p_injuries.empty:
+            p_injuries = p_injuries.sort_values('Date_From', ascending=False)
+            for _, i_row in p_injuries.iterrows():
+                if str(i_row['Injury_Type']).upper() == 'NONE': continue
+                medical_history_list.append({
+                    "type": i_row['Injury_Type'],
+                    "date": str(i_row['Date_From']),
+                    "duration": int(i_row['Duration_Days']),
+                    "category": i_row['Cause_Category']
+                })
+
     return {
         "history": history_list[::-1],
         "squad_avg": [round(team_averages.get(d, 50.0), 1) for d in history['Match_Date'].tolist()][::-1],
-        "clinical_insight": insight
+        "clinical_insight": insight,
+        "medical_history": medical_history_list # Nouvelles données envoyées au Dashboard
+    }
+
+@app.get("/api/predict-future")
+def predict_future(player_name: str, rest_days: float = 4.0):
+    results, features = get_data()
+    if features is None:
+        return {"error": "Data not found"}
+    
+    # 1. Trouver le dernier match du joueur
+    player_data = features[features['Nom'].str.lower() == player_name.lower()].copy()
+    if player_data.empty:
+        # Essayer avec le slug
+        player_data = features[features['Nom'].str.lower().str.replace(" ", "_") == player_name.lower()].copy()
+        
+    if player_data.empty:
+        return {"error": "Player not found"}
+        
+    last_match = player_data.sort_values('Match_Date', ascending=False).iloc[0].copy()
+    
+    # 2. Préparer le scénario futur
+    # LOGIQUE CLINIQUE : Courbe Sigmoïde de Récupération Biologique
+    current_pred = last_match.get('Fatigue_IA', 50.0)
+    current_acr = float(last_match.get('ACWR', 1.0))
+    
+    # Equation Sigmoïde : Centrée sur 3 jours (le pivot du foot pro)
+    # k=0.8 définit la vitesse de récupération
+    k = 0.8
+    center = 3.0
+    # Le facteur va de ~1.5 (surcharge à 0j) à ~0.3 (repos total à 10j)
+    recovery_factor = 1.4 / (1 + np.exp(k * (float(rest_days) - center))) + 0.25
+    
+    # Application de la logique de surcharge cumulée
+    # Si rest_days < 3, adjusted_lag sera > current_pred (Accumulation de stress)
+    adjusted_lag = current_pred * recovery_factor
+    adjusted_acr = 0.8 + (current_acr - 0.8) * recovery_factor
+    
+    future_scenario = last_match.copy()
+    future_scenario['Days_Rest'] = float(rest_days)
+    future_scenario['Rating'] = 7.0 
+    future_scenario['Minutes_Played'] = 90
+    future_scenario['Fatigue_Lag1'] = adjusted_lag
+    future_scenario['ACWR'] = adjusted_acr
+    
+    # 3. Inférence IA avec sécurité sur le retour
+    prediction_result = predictor.predict(pd.DataFrame([future_scenario]))
+    if prediction_result is not None and len(prediction_result) > 0:
+        raw_pred = prediction_result[0]
+    else:
+        # Fallback sur la fatigue actuelle si l'IA échoue
+        raw_pred = current_pred
+    
+    # 4. Calibration de sortie pour cohérence clinique
+    # On assure que si recovery_factor > 1, le risque est obligatoirement CRITIQUE
+    future_pred = raw_pred * recovery_factor
+    
+    # Sécurités biostats
+    if float(rest_days) < 2.0:
+        future_pred = max(future_pred, 82.0) # Zone de danger immédiat
+    elif float(rest_days) > 7.0:
+        future_pred = min(future_pred, 30.0) # Zone de fraîcheur totale
+    
+    # --- NOUVELLE LOGIQUE CLINIQUE ---
+    
+    # 1. Fatigue de Base (Celle qui descend avec le repos)
+    # Modèle conservateur : ~8% de baisse le premier jour, accélération ensuite
+    # Coefficient -0.12 au lieu de -0.20
+    base_fatigue = current_pred * np.exp(-0.12 * float(rest_days))
+    # Sécurité : la fatigue ne tombe pas à 0 instantanément
+    base_fatigue = max(15.0, min(95.0, base_fatigue))
+
+    # 2. Risque de Match (L'effort supplémentaire de 90 mins)
+    # Jouer un match rajoute une charge de stress fixe + un multiplicateur de fatigue
+    match_load = 30.0 + (base_fatigue * 0.1)
+    match_risk = min(99.9, base_fatigue + match_load)
+
+    # 3. Ajustement si repos trop court (< 48h)
+    # Si le joueur n'a qu'un jour de repos, le risque de match explose
+    if float(rest_days) < 2.0:
+        match_risk = max(match_risk, 85.0)
+
+    return {
+        "player": player_name,
+        "rest_days": float(rest_days),
+        "future_fatigue": round(base_fatigue, 1), # Jauge BLEUE
+        "post_match_fatigue": round(match_risk, 1), # Jauge ROUGE
+        "risk_level": "CRITIQUE" if match_risk > 80 else ("MODÉRÉ" if match_risk > 50 else "OPTIMAL"),
+        "recommendation": "DANGER : Risque de blessure élevé" if match_risk > 80 else "Apte pour 90 minutes"
     }
 
 @app.get("/api/similarity")
@@ -429,7 +662,12 @@ def get_player_similarity(player_name: str, alpha: float = 0.5):
     if features is None:
         return {"error": "Data not found"}
     
-    engine = SimilarityEngine(features)
+    engine = CACHE["similarity_engine"]
+    if engine is None:
+        from LM2.similarity_engine import SimilarityEngine
+        engine = SimilarityEngine(features)
+        CACHE["similarity_engine"] = engine
+        
     results = engine.get_similar_players(player_name, alpha=alpha)
     
     if isinstance(results, dict) and "error" in results:
