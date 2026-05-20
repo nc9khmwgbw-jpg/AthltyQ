@@ -26,3 +26,15 @@ env/
 
 # Sous-dépôts Git (opendata a son propre .git)
 
+# Modèles ML sauvegardés (trop lourds pour GitHub > 100MB)
+# Ces fichiers sont régénérés via : python LM/models/train.py
+LM/models/saved/*.joblib
+LM/models/benchmark/**/*.joblib
+
+# Dataset traité (régénéré via run_all.sh)
+data/processed/features_dataset.csv
+
+# Scripts de debug/test temporaires
+scratch/test_*.py
+scratch/check_*.py
+scratch/audit_*.py
