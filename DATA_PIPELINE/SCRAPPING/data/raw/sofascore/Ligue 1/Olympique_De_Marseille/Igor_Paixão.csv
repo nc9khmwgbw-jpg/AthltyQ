@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Igor Paixão,2026-01-24,Olympique de Marseille,RC Lens,6.7,90,9720.0,18.0,108.0,0,0,0.01,0.03,14,17,1,0,3,0,2,36,0,1.85,25
-Igor Paixão,2026-01-28,Club Brugge KV,Olympique de Marseille,6.8,45,4860.0,9.0,108.0,0,0,0.02,0.03,16,18,1,0,0,0,2,30,0,1.85,25
-Igor Paixão,2026-01-31,Paris FC,Olympique de Marseille,6.9,79,8532.0,16.0,108.0,0,0,0.02,0.11,17,22,1,0,0,0,3,32,0,1.88,25
-Igor Paixão,2026-02-03,Olympique de Marseille,Stade Rennais,7.0,78,8424.0,16.0,108.0,0,0,0.0,0.0,12,15,0,0,0,0,1,35,0,1.9,25
-Igor Paixão,2026-02-08,Paris Saint-Germain,Olympique de Marseille,6.7,45,4860.0,9.0,108.0,0,0,0.03,0.01,5,8,0,0,0,0,2,21,0,1.85,25
-Igor Paixão,2026-02-14,Olympique de Marseille,RC Strasbourg,6.4,19,2052.0,4.0,108.0,0,0,0.11,0.08,5,7,0,0,0,0,0,9,0,1.95,25
-Igor Paixão,2026-02-20,Stade Brestois,Olympique de Marseille,6.2,71,7668.0,14.0,108.0,0,0,0.0,0.17,17,22,1,0,0,0,1,33,0,1.83,25
-Igor Paixão,2026-03-01,Olympique de Marseille,Olympique Lyonnais,8.6,45,4860.0,9.0,108.0,1,0,0.03,0.34,14,17,1,0,0,0,2,24,0,1.85,25
-Igor Paixão,2026-03-04,Olympique de Marseille,Toulouse,7.6,89,9612.0,18.0,108.0,1,0,0.0,0.0,13,16,1,0,1,0,3,44,0,1.87,25
-Igor Paixão,2026-03-07,Toulouse,Olympique de Marseille,6.7,90,9720.0,18.0,108.0,0,0,0.72,0.14,12,18,3,0,0,0,4,40,0,1.85,25
-Igor Paixão,2026-03-13,Olympique de Marseille,Auxerre,6.8,89,9612.0,18.0,108.0,0,0,0.04,0.07,28,32,3,0,1,0,5,56,0,1.87,25
-Igor Paixão,2026-03-22,Olympique de Marseille,Lille,7.8,90,9720.0,18.0,108.0,0,0,0.06,0.32,43,52,6,0,0,0,9,74,0,1.85,25
-Igor Paixão,2026-04-05,AS Monaco,Olympique de Marseille,6.7,90,9720.0,18.0,108.0,0,0,0.54,0.03,24,30,1,0,0,0,4,58,0,1.85,25
-Igor Paixão,2026-04-10,Olympique de Marseille,Metz,8.0,89,9612.0,18.0,108.0,1,0,0.89,0.32,33,37,0,0,1,0,3,55,0,1.87,25
-Igor Paixão,2026-04-18,Lorient,Olympique de Marseille,6.6,45,4860.0,9.0,108.0,0,0,0.0,0.01,14,16,0,0,1,0,4,30,0,1.85,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Igor Paixão,25,2026-01-24,Olympique de Marseille,RC Lens,6.7,90,9720.0,18.0,108.0,0,0,0.01,0.03,14,17,1,0,3,0,2,36,0.0,1.85
+Igor Paixão,25,2026-01-28,Club Brugge KV,Olympique de Marseille,6.8,45,4860.0,9.0,108.0,0,0,0.02,0.03,16,18,1,0,0,0,2,30,0.0,1.85
+Igor Paixão,25,2026-01-31,Paris FC,Olympique de Marseille,6.9,79,8532.0,16.0,108.0,0,0,0.02,0.11,17,22,1,0,0,0,3,32,0.0,1.88
+Igor Paixão,25,2026-02-03,Olympique de Marseille,Stade Rennais,7.0,78,8424.0,16.0,108.0,0,0,0.0,0.0,12,15,0,0,0,0,1,35,0.0,1.9
+Igor Paixão,25,2026-02-08,Paris Saint-Germain,Olympique de Marseille,6.7,45,4860.0,9.0,108.0,0,0,0.03,0.01,5,8,0,0,0,0,2,21,0.0,1.85
+Igor Paixão,25,2026-02-14,Olympique de Marseille,RC Strasbourg,6.4,19,2052.0,4.0,108.0,0,0,0.11,0.08,5,7,0,0,0,0,0,9,0.0,1.95
+Igor Paixão,25,2026-02-20,Stade Brestois,Olympique de Marseille,6.2,71,7668.0,14.0,108.0,0,0,0.0,0.17,17,22,1,0,0,0,1,33,0.0,1.83
+Igor Paixão,25,2026-03-01,Olympique de Marseille,Olympique Lyonnais,8.6,45,4860.0,9.0,108.0,1,0,0.03,0.34,14,17,1,0,0,0,2,24,0.0,1.85
+Igor Paixão,25,2026-03-04,Olympique de Marseille,Toulouse,7.6,89,9612.0,18.0,108.0,1,0,0.0,0.0,13,16,1,0,1,0,3,44,0.0,1.87
+Igor Paixão,25,2026-03-07,Toulouse,Olympique de Marseille,6.7,90,9720.0,18.0,108.0,0,0,0.72,0.14,12,18,3,0,0,0,4,40,0.0,1.85
+Igor Paixão,25,2026-03-13,Olympique de Marseille,Auxerre,6.8,89,9612.0,18.0,108.0,0,0,0.04,0.07,28,32,3,0,1,0,5,56,0.0,1.87
+Igor Paixão,25,2026-03-22,Olympique de Marseille,Lille,7.8,90,9720.0,18.0,108.0,0,0,0.06,0.32,43,52,6,0,0,0,9,74,0.0,1.85
+Igor Paixão,25,2026-04-05,AS Monaco,Olympique de Marseille,6.7,90,9720.0,18.0,108.0,0,0,0.54,0.03,24,30,1,0,0,0,4,58,0.0,1.85
+Igor Paixão,25,2026-04-10,Olympique de Marseille,Metz,8.0,89,9612.0,18.0,108.0,1,0,0.89,0.32,33,37,0,0,1,0,3,55,0.0,1.87
+Igor Paixão,25,2026-04-18,Lorient,Olympique de Marseille,6.6,45,4860.0,9.0,108.0,0,0,0.0,0.01,14,16,0,0,1,0,4,30,0.0,1.85
+Igor Paixão,25,2026-05-02,Nantes,Olympique de Marseille,6.2,45,,,0.0,0,0,0.09,0.07,12,15,1,0,0,0,3,34,,
+Igor Paixão,25,2026-05-10,Le Havre,Olympique de Marseille,7.0,90,,,0.0,0,0,0.05,0.02,16,24,0,0,0,0,4,44,,

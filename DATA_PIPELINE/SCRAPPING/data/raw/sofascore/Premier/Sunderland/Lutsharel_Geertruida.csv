@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Lutsharel Geertruida,2026-02-02,Sunderland,Burnley,7.2,11,1188.0,2.0,108.0,0,0,0.0,0.09,10,10,1,0,0,0,0,11,0,1.68,25
-Lutsharel Geertruida,2026-02-07,Arsenal,Sunderland,6.3,19,2052.0,4.0,108.0,0,0,0.0,0.0,17,18,0,0,0,0,1,18,0,1.95,25
-Lutsharel Geertruida,2026-02-11,Sunderland,Liverpool,7.5,10,1080.0,2.0,108.0,0,0,0.0,0.08,16,17,1,0,0,0,0,21,0,1.85,25
-Lutsharel Geertruida,2026-02-15,Oxford United,Sunderland,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,43,0,0,2,0,2,53,0,1.85,25
-Lutsharel Geertruida,2026-02-22,Sunderland,Fulham,6.3,78,8424.0,16.0,108.0,0,0,0.07,0.07,27,34,1,0,1,0,7,52,0,1.9,25
-Lutsharel Geertruida,2026-02-28,Bournemouth,Sunderland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,21,28,0,0,2,0,1,62,0,1.85,25
-Lutsharel Geertruida,2026-03-03,Leeds United,Sunderland,6.4,55,5940.0,11.0,108.0,0,0,0.0,0.01,10,13,0,0,1,0,0,17,0,1.85,25
-Lutsharel Geertruida,2026-03-08,Port Vale,Sunderland,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,40,0,0,0,0,3,55,0,1.85,25
-Lutsharel Geertruida,2026-03-14,Sunderland,Brighton & Hove Albion,6.6,90,9720.0,18.0,108.0,0,0,0.06,0.02,33,38,0,0,0,0,6,53,0,1.85,25
-Lutsharel Geertruida,2026-03-22,Newcastle United,Sunderland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,22,30,0,0,0,0,4,52,0,1.85,25
-Lutsharel Geertruida,2026-03-27,Netherlands,Norway,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Lutsharel Geertruida,2026-03-31,Netherlands,Ecuador,6.5,73,7884.0,15.0,108.0,0,0,0.0,0.0,18,19,0,0,1,0,2,33,0,1.9,25
-Lutsharel Geertruida,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Lutsharel Geertruida,2026-04-19,Aston Villa,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Lutsharel Geertruida,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lutsharel Geertruida,25,2026-02-02,Sunderland,Burnley,7.2,11,1188.0,2.0,108.0,0,0,0.0,0.09,10,10,1,0,0,0,0,11,0.0,1.68
+Lutsharel Geertruida,25,2026-02-07,Arsenal,Sunderland,6.3,19,2052.0,4.0,108.0,0,0,0.0,0.0,17,18,0,0,0,0,1,18,0.0,1.95
+Lutsharel Geertruida,25,2026-02-11,Sunderland,Liverpool,7.5,10,1080.0,2.0,108.0,0,0,0.0,0.08,16,17,1,0,0,0,0,21,0.0,1.85
+Lutsharel Geertruida,25,2026-02-15,Oxford United,Sunderland,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,43,0,0,2,0,2,53,0.0,1.85
+Lutsharel Geertruida,25,2026-02-22,Sunderland,Fulham,6.3,78,8424.0,16.0,108.0,0,0,0.07,0.07,27,34,1,0,1,0,7,52,0.0,1.9
+Lutsharel Geertruida,25,2026-02-28,Bournemouth,Sunderland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,21,28,0,0,2,0,1,62,0.0,1.85
+Lutsharel Geertruida,25,2026-03-03,Leeds United,Sunderland,6.4,55,5940.0,11.0,108.0,0,0,0.0,0.01,10,13,0,0,1,0,0,17,0.0,1.85
+Lutsharel Geertruida,25,2026-03-08,Port Vale,Sunderland,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,40,0,0,0,0,3,55,0.0,1.85
+Lutsharel Geertruida,25,2026-03-14,Sunderland,Brighton & Hove Albion,6.6,90,9720.0,18.0,108.0,0,0,0.06,0.02,33,38,0,0,0,0,6,53,0.0,1.85
+Lutsharel Geertruida,25,2026-03-22,Newcastle United,Sunderland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,22,30,0,0,0,0,4,52,0.0,1.85
+Lutsharel Geertruida,25,2026-03-27,Netherlands,Norway,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lutsharel Geertruida,25,2026-03-31,Netherlands,Ecuador,6.5,73,7884.0,15.0,108.0,0,0,0.0,0.0,18,19,0,0,1,0,2,33,0.0,1.9
+Lutsharel Geertruida,25,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lutsharel Geertruida,25,2026-04-19,Aston Villa,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lutsharel Geertruida,25,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lutsharel Geertruida,25,2026-05-02,Wolverhampton,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Lutsharel Geertruida,25,2026-05-09,Sunderland,Manchester United,7.0,90,,,0.0,0,0,0.24,0.06,46,53,1,0,2,0,2,68,,

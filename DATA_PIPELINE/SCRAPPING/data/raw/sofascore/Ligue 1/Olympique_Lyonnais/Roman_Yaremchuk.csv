@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Roman Yaremchuk,2026-01-24,Olympiacos FC,NPS Volos,6.4,26,2808.0,5.0,108.0,0,0,0.09,0.04,4,5,0,0,0,0,0,7,0,1.78,30
-Roman Yaremchuk,2026-02-15,Olympique Lyonnais,Nice,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,0,8,0,2.06,30
-Roman Yaremchuk,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.7,32,3456.0,6.0,108.0,0,0,0.0,0.04,6,9,1,0,0,0,1,10,0,1.74,30
-Roman Yaremchuk,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.6,60,6480.0,12.0,108.0,0,0,0.14,0.11,12,15,1,0,0,0,2,23,0,1.85,30
-Roman Yaremchuk,2026-03-05,Olympique Lyonnais,RC Lens,7.1,90,9720.0,18.0,108.0,1,0,0.0,0.0,15,20,1,0,0,0,5,34,0,1.85,30
-Roman Yaremchuk,2026-03-08,Olympique Lyonnais,Paris FC,6.2,32,3456.0,6.0,108.0,0,0,0.0,0.01,4,6,0,0,0,0,1,11,0,1.74,30
-Roman Yaremchuk,2026-03-12,Celta Vigo,Olympique Lyonnais,6.5,90,9720.0,18.0,108.0,0,0,0.28,0.03,17,17,1,0,0,0,0,23,0,1.85,30
-Roman Yaremchuk,2026-03-15,Le Havre,Olympique Lyonnais,6.4,32,3456.0,6.0,108.0,0,0,0.16,0.0,2,3,0,0,0,0,0,7,0,1.74,30
-Roman Yaremchuk,2026-03-19,Olympique Lyonnais,Celta Vigo,7.0,45,4860.0,9.0,108.0,0,0,0.0,0.01,5,7,1,0,0,0,0,15,0,1.85,30
-Roman Yaremchuk,2026-03-26,Ukraine,Sweden,6.5,30,3240.0,6.0,108.0,0,0,0.0,0.0,8,11,0,0,0,0,1,11,0,1.85,30
-Roman Yaremchuk,2026-04-05,Angers,Olympique Lyonnais,6.6,35,3780.0,7.0,108.0,0,0,0.0,0.26,7,11,1,0,0,0,0,14,0,1.85,30
-Roman Yaremchuk,2026-04-12,Olympique Lyonnais,Lorient,6.5,86,9288.0,17.0,108.0,1,0,0.47,0.0,8,13,0,0,0,0,3,26,0,1.83,30
-Roman Yaremchuk,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,30
-Roman Yaremchuk,2026-04-25,Olympique Lyonnais,Auxerre,8.8,77,8316.0,15.0,108.0,2,0,0.9,0.06,13,16,2,0,0,0,5,28,0,1.8,30
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Roman Yaremchuk,30,2026-01-24,Olympiacos FC,NPS Volos,6.4,26,2808.0,5.0,108.0,0,0,0.09,0.04,4,5,0,0,0,0,0,7,0.0,1.78
+Roman Yaremchuk,30,2026-02-15,Olympique Lyonnais,Nice,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,0,8,0.0,2.06
+Roman Yaremchuk,30,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.7,32,3456.0,6.0,108.0,0,0,0.0,0.04,6,9,1,0,0,0,1,10,0.0,1.74
+Roman Yaremchuk,30,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.6,60,6480.0,12.0,108.0,0,0,0.14,0.11,12,15,1,0,0,0,2,23,0.0,1.85
+Roman Yaremchuk,30,2026-03-05,Olympique Lyonnais,RC Lens,7.1,90,9720.0,18.0,108.0,1,0,0.0,0.0,15,20,1,0,0,0,5,34,0.0,1.85
+Roman Yaremchuk,30,2026-03-08,Olympique Lyonnais,Paris FC,6.2,32,3456.0,6.0,108.0,0,0,0.0,0.01,4,6,0,0,0,0,1,11,0.0,1.74
+Roman Yaremchuk,30,2026-03-12,Celta Vigo,Olympique Lyonnais,6.5,90,9720.0,18.0,108.0,0,0,0.28,0.03,17,17,1,0,0,0,0,23,0.0,1.85
+Roman Yaremchuk,30,2026-03-15,Le Havre,Olympique Lyonnais,6.4,32,3456.0,6.0,108.0,0,0,0.16,0.0,2,3,0,0,0,0,0,7,0.0,1.74
+Roman Yaremchuk,30,2026-03-19,Olympique Lyonnais,Celta Vigo,7.0,45,4860.0,9.0,108.0,0,0,0.0,0.01,5,7,1,0,0,0,0,15,0.0,1.85
+Roman Yaremchuk,30,2026-03-26,Ukraine,Sweden,6.5,30,3240.0,6.0,108.0,0,0,0.0,0.0,8,11,0,0,0,0,1,11,0.0,1.85
+Roman Yaremchuk,30,2026-04-05,Angers,Olympique Lyonnais,6.6,35,3780.0,7.0,108.0,0,0,0.0,0.26,7,11,1,0,0,0,0,14,0.0,1.85
+Roman Yaremchuk,30,2026-04-12,Olympique Lyonnais,Lorient,6.5,86,9288.0,17.0,108.0,1,0,0.47,0.0,8,13,0,0,0,0,3,26,0.0,1.83
+Roman Yaremchuk,30,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Roman Yaremchuk,30,2026-04-25,Olympique Lyonnais,Auxerre,8.8,77,8316.0,15.0,108.0,2,0,0.9,0.06,13,16,2,0,0,0,5,28,0.0,1.8
+Roman Yaremchuk,30,2026-05-03,Olympique Lyonnais,Stade Rennais,7.8,70,,,0.0,1,0,0.26,0.02,10,12,1,0,0,0,1,21,,
+Roman Yaremchuk,30,2026-05-10,Toulouse,Olympique Lyonnais,6.3,83,,,0.0,0,0,0.1,0.01,8,8,0,0,0,0,0,13,,

@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-William Saliba,2026-02-15,Arsenal,Wigan Athletic,7.5,61,6588.0,12.0,108.0,0,0,0.0,0.0,78,83,0,0,0,0,6,87,0.0,1.82,25
-William Saliba,2026-02-18,Wolverhampton,Arsenal,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,59,66,0,0,0,0,5,77,0.0,1.85,25
-William Saliba,2026-02-22,Tottenham Hotspur,Arsenal,6.6,90,9720.0,18.0,108.0,0,0,0.24,0.01,64,72,0,0,3,0,4,82,0.0,1.85,25
-William Saliba,2026-03-01,Arsenal,Chelsea,7.5,90,9720.0,18.0,108.0,1,0,0.26,0.0,43,47,0,0,0,0,3,57,0.0,1.85,25
-William Saliba,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.03,77,86,0,0,0,0,6,93,0.0,1.85,25
-William Saliba,2026-03-14,Arsenal,Everton,7.9,90,9720.0,18.0,108.0,0,0,0.0,0.09,104,110,2,0,1,0,7,127,0.0,1.85,25
-William Saliba,2026-03-17,Arsenal,Bayer 04 Leverkusen,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.04,52,58,0,0,1,0,3,67,0.0,1.85,25
-William Saliba,2026-03-22,Arsenal,Manchester City,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,46,48,0,0,0,0,7,60,0.0,1.85,25
-William Saliba,2026-04-04,Southampton,Arsenal,6.3,18,1944.0,4.0,108.0,0,0,0.0,0.0,21,23,0,0,0,0,3,23,0.0,2.06,25
-William Saliba,2026-04-07,Sporting CP,Arsenal,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.02,88,92,0,0,1,0,1,99,0.0,1.85,25
-William Saliba,2026-04-11,Arsenal,Bournemouth,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,40,1,0,1,0,2,50,0.0,1.85,25
-William Saliba,2026-04-15,Arsenal,Sporting CP,7.0,90,9720.0,18.0,108.0,0,0,0.09,0.02,51,55,0,0,0,0,4,67,0.0,1.85,25
-William Saliba,2026-04-19,Manchester City,Arsenal,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,41,45,0,0,1,0,2,58,0.0,1.85,25
-William Saliba,2026-04-25,Arsenal,Newcastle United,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,45,50,0,0,1,0,3,60,0.0,1.85,25
-William Saliba,2026-04-29,Atlético Madrid,Arsenal,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,59,62,0,0,1,0,6,76,0.0,1.85,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+William Saliba,25,2026-02-15,Arsenal,Wigan Athletic,7.5,61,6588.0,12.0,108.0,0,0,0.0,0.0,78,83,0,0,0,0,6,87,0.0,1.82
+William Saliba,25,2026-02-18,Wolverhampton,Arsenal,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,59,66,0,0,0,0,5,77,0.0,1.85
+William Saliba,25,2026-02-22,Tottenham Hotspur,Arsenal,6.6,90,9720.0,18.0,108.0,0,0,0.24,0.01,64,72,0,0,3,0,4,82,0.0,1.85
+William Saliba,25,2026-03-01,Arsenal,Chelsea,7.5,90,9720.0,18.0,108.0,1,0,0.26,0.0,43,47,0,0,0,0,3,57,0.0,1.85
+William Saliba,25,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.03,77,86,0,0,0,0,6,93,0.0,1.85
+William Saliba,25,2026-03-14,Arsenal,Everton,7.9,90,9720.0,18.0,108.0,0,0,0.0,0.09,104,110,2,0,1,0,7,127,0.0,1.85
+William Saliba,25,2026-03-17,Arsenal,Bayer 04 Leverkusen,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.04,52,58,0,0,1,0,3,67,0.0,1.85
+William Saliba,25,2026-03-22,Arsenal,Manchester City,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,46,48,0,0,0,0,7,60,0.0,1.85
+William Saliba,25,2026-04-04,Southampton,Arsenal,6.3,18,1944.0,4.0,108.0,0,0,0.0,0.0,21,23,0,0,0,0,3,23,0.0,2.06
+William Saliba,25,2026-04-07,Sporting CP,Arsenal,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.02,88,92,0,0,1,0,1,99,0.0,1.85
+William Saliba,25,2026-04-11,Arsenal,Bournemouth,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,40,1,0,1,0,2,50,0.0,1.85
+William Saliba,25,2026-04-15,Arsenal,Sporting CP,7.0,90,9720.0,18.0,108.0,0,0,0.09,0.02,51,55,0,0,0,0,4,67,0.0,1.85
+William Saliba,25,2026-04-19,Manchester City,Arsenal,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,41,45,0,0,1,0,2,58,0.0,1.85
+William Saliba,25,2026-04-25,Arsenal,Newcastle United,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,45,50,0,0,1,0,3,60,0.0,1.85
+William Saliba,25,2026-04-29,Atlético Madrid,Arsenal,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,59,62,0,0,1,0,6,76,0.0,1.85
+William Saliba,25,2026-05-02,Arsenal,Fulham,7.7,90,,,0.0,0,0,0.0,0.31,71,75,2,0,0,0,3,85,,
+William Saliba,25,2026-05-05,Arsenal,Atlético Madrid,7.1,90,,,0.0,0,0,0.07,0.02,55,63,0,0,1,0,2,77,,
+William Saliba,25,2026-05-10,West Ham United,Arsenal,7.6,90,,,0.0,0,0,0.0,0.16,79,80,0,0,0,0,5,97,,

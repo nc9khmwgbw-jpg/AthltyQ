@@ -1,0 +1,14 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Paul Digby,31,2026-05-12,Kilmarnock,Dundee FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-03-07,Dundee FC,Motherwell,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-02-28,Dundee FC,Hibernian,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-02-21,Aberdeen,Dundee FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-02-14,Dundee FC,Livingston,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-02-11,Falkirk FC,Dundee FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-01-31,St. Mirren,Dundee FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-01-25,Rangers,Dundee FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-01-11,Dundee FC,Heart of Midlothian,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2026-01-03,Dundee United,Dundee FC,,1,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3
+Paul Digby,31,2025-12-30,Dundee FC,Kilmarnock,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Paul Digby,31,2025-12-27,Dundee FC,Falkirk FC,6.6,8,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,3
+Paul Digby,31,2025-12-20,Motherwell,Dundee FC,6.5,45,,,0.0,0,0,0.0,0.02,22,22,0,0,0,0,3,28

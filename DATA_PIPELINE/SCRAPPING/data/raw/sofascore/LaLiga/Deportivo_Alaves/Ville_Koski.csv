@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ville Koski,2025-11-17,Finland,Andorra,7.3,62,6696.0,12.0,108.0,0,0,0.0,0.0,75,80,0,0,1,0,3,87,0,1.79,24
-Ville Koski,2025-11-23,HNK Gorica,NK Istra 1961,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.02,69,77,0,0,1,0,12,93,0,1.85,24
-Ville Koski,2025-11-29,NK Istra 1961,NK Slaven Belupo,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,55,60,0,0,2,0,6,74,0,1.85,24
-Ville Koski,2025-12-07,NK Osijek,NK Istra 1961,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,50,0,0,1,0,3,63,0,1.85,24
-Ville Koski,2025-12-19,NK Varaždin,NK Istra 1961,7.4,55,5940.0,11.0,108.0,0,0,0.0,0.02,48,54,0,0,1,0,1,66,0,1.85,24
-Ville Koski,2026-01-20,NK Istra 1961,HNK Rijeka,6.3,16,1728.0,3.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,1.74,24
-Ville Koski,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Ville Koski,2026-03-13,Deportivo Alavés,Villarreal,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,3,0,1.85,24
-Ville Koski,2026-03-22,Celta Vigo,Deportivo Alavés,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,1,0,0,3,0,0.0,24
-Ville Koski,2026-03-27,New Zealand,Finland,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,33,36,0,0,0,0,3,37,0,1.85,24
-Ville Koski,2026-03-30,Cabo Verde,Finland,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,28,29,0,0,0,0,0,34,0,1.85,24
-Ville Koski,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Ville Koski,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Ville Koski,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Ville Koski,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ville Koski,24,2025-11-17,Finland,Andorra,7.3,62,6696.0,12.0,108.0,0,0,0.0,0.0,75,80,0,0,1,0,3,87,0.0,1.79
+Ville Koski,24,2025-11-23,HNK Gorica,NK Istra 1961,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.02,69,77,0,0,1,0,12,93,0.0,1.85
+Ville Koski,24,2025-11-29,NK Istra 1961,NK Slaven Belupo,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,55,60,0,0,2,0,6,74,0.0,1.85
+Ville Koski,24,2025-12-07,NK Osijek,NK Istra 1961,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,50,0,0,1,0,3,63,0.0,1.85
+Ville Koski,24,2025-12-19,NK Varaždin,NK Istra 1961,7.4,55,5940.0,11.0,108.0,0,0,0.0,0.02,48,54,0,0,1,0,1,66,0.0,1.85
+Ville Koski,24,2026-01-20,NK Istra 1961,HNK Rijeka,6.3,16,1728.0,3.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0.0,1.74
+Ville Koski,24,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ville Koski,24,2026-03-13,Deportivo Alavés,Villarreal,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,3,0.0,1.85
+Ville Koski,24,2026-03-22,Celta Vigo,Deportivo Alavés,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,1,0,0,3,0.0,0.0
+Ville Koski,24,2026-03-27,New Zealand,Finland,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,33,36,0,0,0,0,3,37,0.0,1.85
+Ville Koski,24,2026-03-30,Cabo Verde,Finland,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,28,29,0,0,0,0,0,34,0.0,1.85
+Ville Koski,24,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ville Koski,24,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ville Koski,24,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ville Koski,24,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ville Koski,24,2026-05-02,Deportivo Alavés,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Ville Koski,24,2026-05-09,Elche,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Ville Koski,24,2026-05-13,Deportivo Alavés,FC Barcelona,7.2,90,,,0.0,0,0,0.0,0.0,6,10,0,0,2,0,2,22,,

@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Rebocho,31,2026-05-09,Al-Khaleej,Al-Ettifaq,6.3,90,,,0.0,0,0,0.0,0.04,40,47,0,0,1,0,3,68
+Rebocho,31,2026-05-05,Al-Khaleej,Al-Hilal,5.9,90,,,0.0,0,0,0.0,0.03,20,25,2,0,0,0,1,49
+Rebocho,31,2026-05-02,Damac FC,Al-Khaleej,7.8,90,,,0.0,0,0,0.04,0.59,36,45,1,0,1,0,4,64
+Rebocho,31,2026-04-28,Al-Khaleej,Al-Najma SC,7.4,90,,,0.0,0,0,0.01,0.05,55,61,1,0,0,0,8,75
+Rebocho,31,2026-04-24,Al-Fateh,Al-Khaleej,6.6,90,,,0.0,0,0,0.0,0.07,26,28,2,0,0,0,3,47
+Rebocho,31,2026-04-03,Al-Kholood,Al-Khaleej,6.5,90,,,0.0,0,0,0.02,0.03,43,46,0,0,0,0,5,55
+Rebocho,31,2026-03-14,Al-Khaleej,Al-Nassr,5.8,90,,,0.0,0,0,0.0,0.01,26,30,0,0,3,0,4,51
+Rebocho,31,2026-02-27,Al-Ittihad,Al-Khaleej,6.7,90,,,0.0,0,0,0.03,0.05,43,50,1,0,1,0,4,69
+Rebocho,31,2026-02-24,Al-Khaleej,Al-Kholood,6.7,90,,,0.0,0,0,0.0,0.08,45,53,1,0,1,0,8,73
+Rebocho,31,2026-02-21,Al-Khaleej,Neom SC,6.6,89,,,0.0,0,0,0.0,0.03,24,30,0,0,0,0,4,43
+Rebocho,31,2026-02-14,Al-Riyadh,Al-Khaleej,7.1,90,,,0.0,0,0,0.0,0.16,41,48,0,0,2,0,6,70
+Rebocho,31,2026-02-07,Al-Taawoun,Al-Khaleej,7.0,90,,,0.0,0,0,0.0,0.01,22,26,0,0,4,0,8,52
+Rebocho,31,2026-02-03,Al-Khaleej,Al-Qadsiah,6.7,90,,,0.0,0,0,0.0,0.02,30,35,0,0,2,0,4,59
+Rebocho,31,2026-01-28,Al-Fayha,Al-Khaleej,6.2,89,,,0.0,0,0,0.01,0.1,61,68,4,0,1,0,10,90
+Rebocho,31,2026-01-24,Al-Khaleej,Al-Shabab,7.2,90,,,0.0,0,0,0.0,0.05,46,55,1,0,2,0,7,75

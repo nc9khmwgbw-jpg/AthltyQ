@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Mariano Díaz,2025-10-26,Rayo Vallecano,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2025-10-30,CD Getxo,Deportivo Alavés,10.0,75,8100.0,15.0,108.0,3,0,0.0,0.0,5,6,2,0,0,0,2,23,0.0,1.85,32
-Mariano Díaz,2025-11-02,Deportivo Alavés,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2025-11-08,Girona FC,Deportivo Alavés,6.2,45,4860.0,9.0,108.0,0,0,0.0,0.04,3,4,1,0,0,0,0,6,0.0,1.85,32
-Mariano Díaz,2025-11-22,Deportivo Alavés,Celta Vigo,6.3,9,972.0,2.0,108.0,0,0,0.01,0.0,0,0,0,0,0,0,1,4,0.0,2.06,32
-Mariano Díaz,2025-11-29,FC Barcelona,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2025-12-02,Club Portugalete,Deportivo Alavés,6.3,63,6804.0,13.0,108.0,0,0,0.0,0.0,4,9,1,0,0,0,1,10,0.0,1.91,32
-Mariano Díaz,2025-12-06,Deportivo Alavés,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2025-12-14,Deportivo Alavés,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2026-03-08,Valencia,Deportivo Alavés,6.3,19,2052.0,4.0,108.0,0,0,0.08,0.0,3,4,0,0,0,0,2,11,0.0,1.95,32
-Mariano Díaz,2026-03-13,Deportivo Alavés,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
-Mariano Díaz,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,32
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mariano Díaz,32,2025-10-26,Rayo Vallecano,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2025-10-30,CD Getxo,Deportivo Alavés,10.0,75,8100.0,15.0,108.0,3,0,0.0,0.0,5,6,2,0,0,0,2,23,0.0,1.85
+Mariano Díaz,32,2025-11-02,Deportivo Alavés,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2025-11-08,Girona FC,Deportivo Alavés,6.2,45,4860.0,9.0,108.0,0,0,0.0,0.04,3,4,1,0,0,0,0,6,0.0,1.85
+Mariano Díaz,32,2025-11-22,Deportivo Alavés,Celta Vigo,6.3,9,972.0,2.0,108.0,0,0,0.01,0.0,0,0,0,0,0,0,1,4,0.0,2.06
+Mariano Díaz,32,2025-11-29,FC Barcelona,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2025-12-02,Club Portugalete,Deportivo Alavés,6.3,63,6804.0,13.0,108.0,0,0,0.0,0.0,4,9,1,0,0,0,1,10,0.0,1.91
+Mariano Díaz,32,2025-12-06,Deportivo Alavés,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2025-12-14,Deportivo Alavés,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2026-03-08,Valencia,Deportivo Alavés,6.3,19,2052.0,4.0,108.0,0,0,0.08,0.0,3,4,0,0,0,0,2,11,0.0,1.95
+Mariano Díaz,32,2026-03-13,Deportivo Alavés,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mariano Díaz,32,2026-05-02,Deportivo Alavés,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Mariano Díaz,32,2026-05-09,Elche,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Mariano Díaz,32,2026-05-13,Deportivo Alavés,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

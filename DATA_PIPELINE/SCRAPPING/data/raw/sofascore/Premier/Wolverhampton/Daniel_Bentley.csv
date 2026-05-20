@@ -1,12 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Daniel Bentley,2025-08-26,Wolverhampton,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2025-09-13,Newcastle United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2025-09-23,Wolverhampton,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2025-10-29,Wolverhampton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2026-01-10,Wolverhampton,Shrewsbury Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2026-02-15,Grimsby Town,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2026-03-06,Wolverhampton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2026-04-10,West Ham United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Daniel Bentley,2026-04-18,Leeds United,Wolverhampton,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,31,0,0,0,0,5,42,0,1.85,32
-Daniel Bentley,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Daniel Bentley,32,2025-08-26,Wolverhampton,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2025-09-13,Newcastle United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2025-09-23,Wolverhampton,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2025-10-29,Wolverhampton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2026-01-10,Wolverhampton,Shrewsbury Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2026-02-15,Grimsby Town,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2026-03-06,Wolverhampton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2026-04-10,West Ham United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2026-04-18,Leeds United,Wolverhampton,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,31,0,0,0,0,5,42,0.0,1.85
+Daniel Bentley,32,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Daniel Bentley,32,2026-05-02,Wolverhampton,Sunderland,7.3,90,,,0.0,0,0,0.0,0.0,24,31,0,0,0,0,11,39,,
+Daniel Bentley,32,2026-05-09,Brighton & Hove Albion,Wolverhampton,7.2,90,,,0.0,0,0,0.0,0.0,5,26,0,0,0,0,10,41,,

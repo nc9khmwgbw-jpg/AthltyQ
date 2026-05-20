@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Sofiane Boufal,2025-12-14,RC Sporting Charleroi,Royale Union Saint-Gilloise,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Sofiane Boufal,2026-01-18,Stade Rennais,Le Havre,6.5,11,1188.0,2.0,108.0,0,0,0.03,0.01,6,7,0,0,0,0,1,10,0,1.68,32
-Sofiane Boufal,2026-01-24,Le Havre,AS Monaco,6.5,25,2700.0,5.0,108.0,0,0,0.0,0.01,5,9,1,0,0,0,0,20,0,1.85,32
-Sofiane Boufal,2026-01-30,RC Lens,Le Havre,6.3,69,7452.0,14.0,108.0,0,0,0.0,0.12,18,25,2,0,0,0,6,41,0,1.88,32
-Sofiane Boufal,2026-02-08,Le Havre,RC Strasbourg,7.0,79,8532.0,16.0,108.0,0,0,0.07,0.26,27,37,4,0,0,0,8,73,0,1.88,32
-Sofiane Boufal,2026-02-15,Le Havre,Toulouse,7.5,65,7020.0,13.0,108.0,0,0,0.01,0.05,19,24,1,0,0,0,7,45,0,1.85,32
-Sofiane Boufal,2026-02-22,Nantes,Le Havre,6.3,63,6804.0,13.0,108.0,0,0,0.0,0.04,21,27,1,0,0,0,3,47,0,1.91,32
-Sofiane Boufal,2026-02-28,Le Havre,Paris Saint-Germain,6.5,71,7668.0,14.0,108.0,0,0,0.05,0.06,15,22,2,0,1,0,2,40,0,1.83,32
-Sofiane Boufal,2026-03-08,Stade Brestois,Le Havre,6.4,81,8748.0,16.0,108.0,0,0,0.11,0.06,25,34,2,0,0,0,3,53,0,1.83,32
-Sofiane Boufal,2026-03-15,Le Havre,Olympique Lyonnais,6.9,85,9180.0,17.0,108.0,0,0,0.03,0.17,15,20,2,0,1,0,6,42,0,1.85,32
-Sofiane Boufal,2026-03-22,Paris FC,Le Havre,6.7,75,8100.0,15.0,108.0,0,0,0.04,0.39,18,20,3,0,0,0,4,46,0,1.85,32
-Sofiane Boufal,2026-04-05,Le Havre,Auxerre,7.0,71,7668.0,14.0,108.0,0,0,0.05,0.03,8,14,1,0,0,0,3,43,0,1.83,32
-Sofiane Boufal,2026-04-12,Nice,Le Havre,6.9,20,2160.0,4.0,108.0,0,0,0.0,0.01,5,6,1,0,0,0,3,13,0,1.85,32
-Sofiane Boufal,2026-04-18,Angers,Le Havre,7.3,80,8640.0,16.0,108.0,1,0,0.11,0.21,24,29,3,0,0,0,4,45,0,1.85,32
-Sofiane Boufal,2026-04-26,Le Havre,Metz,6.8,11,1188.0,2.0,108.0,0,0,0.08,0.02,4,6,0,0,0,0,0,14,0,1.68,32
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Sofiane Boufal,32,2025-12-14,RC Sporting Charleroi,Royale Union Saint-Gilloise,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Sofiane Boufal,32,2026-01-18,Stade Rennais,Le Havre,6.5,11,1188.0,2.0,108.0,0,0,0.03,0.01,6,7,0,0,0,0,1,10,0.0,1.68
+Sofiane Boufal,32,2026-01-24,Le Havre,AS Monaco,6.5,25,2700.0,5.0,108.0,0,0,0.0,0.01,5,9,1,0,0,0,0,20,0.0,1.85
+Sofiane Boufal,32,2026-01-30,RC Lens,Le Havre,6.3,69,7452.0,14.0,108.0,0,0,0.0,0.12,18,25,2,0,0,0,6,41,0.0,1.88
+Sofiane Boufal,32,2026-02-08,Le Havre,RC Strasbourg,7.0,79,8532.0,16.0,108.0,0,0,0.07,0.26,27,37,4,0,0,0,8,73,0.0,1.88
+Sofiane Boufal,32,2026-02-15,Le Havre,Toulouse,7.5,65,7020.0,13.0,108.0,0,0,0.01,0.05,19,24,1,0,0,0,7,45,0.0,1.85
+Sofiane Boufal,32,2026-02-22,Nantes,Le Havre,6.3,63,6804.0,13.0,108.0,0,0,0.0,0.04,21,27,1,0,0,0,3,47,0.0,1.91
+Sofiane Boufal,32,2026-02-28,Le Havre,Paris Saint-Germain,6.5,71,7668.0,14.0,108.0,0,0,0.05,0.06,15,22,2,0,1,0,2,40,0.0,1.83
+Sofiane Boufal,32,2026-03-08,Stade Brestois,Le Havre,6.4,81,8748.0,16.0,108.0,0,0,0.11,0.06,25,34,2,0,0,0,3,53,0.0,1.83
+Sofiane Boufal,32,2026-03-15,Le Havre,Olympique Lyonnais,6.9,85,9180.0,17.0,108.0,0,0,0.03,0.17,15,20,2,0,1,0,6,42,0.0,1.85
+Sofiane Boufal,32,2026-03-22,Paris FC,Le Havre,6.7,75,8100.0,15.0,108.0,0,0,0.04,0.39,18,20,3,0,0,0,4,46,0.0,1.85
+Sofiane Boufal,32,2026-04-05,Le Havre,Auxerre,7.0,71,7668.0,14.0,108.0,0,0,0.05,0.03,8,14,1,0,0,0,3,43,0.0,1.83
+Sofiane Boufal,32,2026-04-12,Nice,Le Havre,6.9,20,2160.0,4.0,108.0,0,0,0.0,0.01,5,6,1,0,0,0,3,13,0.0,1.85
+Sofiane Boufal,32,2026-04-18,Angers,Le Havre,7.3,80,8640.0,16.0,108.0,1,0,0.11,0.21,24,29,3,0,0,0,4,45,0.0,1.85
+Sofiane Boufal,32,2026-04-26,Le Havre,Metz,6.8,11,1188.0,2.0,108.0,0,0,0.08,0.02,4,6,0,0,0,0,0,14,0.0,1.68
+Sofiane Boufal,32,2026-05-03,Lille,Le Havre,7.0,65,,,0.0,0,0,0.0,0.15,20,23,0,0,1,0,7,42,,
+Sofiane Boufal,32,2026-05-10,Le Havre,Olympique de Marseille,6.9,72,,,0.0,0,0,0.84,0.05,15,17,2,0,0,0,1,37,,

@@ -1,13 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Marius Courcoul,2026-01-04,Le Havre,Angers,6.6,89,9612.0,18.0,108.0,0,0,0.07,0.01,29,37,0,0,0,0,3,54,0,1.87,19
-Marius Courcoul,2026-01-10,Angers,Toulouse,5.9,15,1620.0,3.0,108.0,0,0,0.0,0.0,11,13,0,0,2,0,2,20,0,1.85,19
-Marius Courcoul,2026-01-17,Angers,Olympique de Marseille,6.3,62,6696.0,12.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,1,21,0,1.79,19
-Marius Courcoul,2026-01-25,Paris FC,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Marius Courcoul,2026-02-01,Angers,Metz,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.01,17,19,0,0,0,0,1,22,0,1.76,19
-Marius Courcoul,2026-02-08,Angers,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Marius Courcoul,2026-02-15,Lorient,Angers,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,4,5,0,0,0,0,0,5,0,2.06,19
-Marius Courcoul,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Marius Courcoul,2026-02-28,AS Monaco,Angers,6.8,9,972.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,1,0,3,8,0,2.06,19
-Marius Courcoul,2026-03-07,Nantes,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Marius Courcoul,2026-03-14,Angers,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Marius Courcoul,2026-03-20,RC Lens,Angers,5.9,20,2160.0,4.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,14,0,1.85,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Marius Courcoul,19,2026-01-04,Le Havre,Angers,6.6,89,9612.0,18.0,108.0,0,0,0.07,0.01,29,37,0,0,0,0,3,54,0.0,1.87
+Marius Courcoul,19,2026-01-10,Angers,Toulouse,5.9,15,1620.0,3.0,108.0,0,0,0.0,0.0,11,13,0,0,2,0,2,20,0.0,1.85
+Marius Courcoul,19,2026-01-17,Angers,Olympique de Marseille,6.3,62,6696.0,12.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,1,21,0.0,1.79
+Marius Courcoul,19,2026-01-25,Paris FC,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marius Courcoul,19,2026-02-01,Angers,Metz,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.01,17,19,0,0,0,0,1,22,0.0,1.76
+Marius Courcoul,19,2026-02-08,Angers,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marius Courcoul,19,2026-02-15,Lorient,Angers,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,4,5,0,0,0,0,0,5,0.0,2.06
+Marius Courcoul,19,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marius Courcoul,19,2026-02-28,AS Monaco,Angers,6.8,9,972.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,1,0,3,8,0.0,2.06
+Marius Courcoul,19,2026-03-07,Nantes,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marius Courcoul,19,2026-03-14,Angers,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Marius Courcoul,19,2026-03-20,RC Lens,Angers,5.9,20,2160.0,4.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,14,0.0,1.85
+Marius Courcoul,19,2026-03-25,Norway U19,France U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Marius Courcoul,19,2026-03-28,France U19,Switzerland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Marius Courcoul,19,2026-03-31,France U19,Croatia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

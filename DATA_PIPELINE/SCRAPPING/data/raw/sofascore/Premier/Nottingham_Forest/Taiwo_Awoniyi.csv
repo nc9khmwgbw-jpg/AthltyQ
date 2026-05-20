@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Taiwo Awoniyi,2025-12-30,Nottingham Forest,Everton,6.6,28,3024.0,6.0,108.0,0,0,0.27,0.36,6,6,1,0,0,0,0,12,0,1.98,28
-Taiwo Awoniyi,2026-01-03,Aston Villa,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Taiwo Awoniyi,2026-01-06,West Ham United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Taiwo Awoniyi,2026-01-09,Wrexham,Nottingham Forest,5.9,32,3456.0,6.0,108.0,0,0,0.0,0.0,9,10,2,0,0,0,0,13,0,1.74,28
-Taiwo Awoniyi,2026-01-17,Nottingham Forest,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Taiwo Awoniyi,2026-01-25,Brentford,Nottingham Forest,7.7,22,2376.0,4.0,108.0,1,0,0.39,0.0,4,4,0,0,0,0,1,13,0,1.68,28
-Taiwo Awoniyi,2026-02-01,Nottingham Forest,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Taiwo Awoniyi,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Taiwo Awoniyi,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Taiwo Awoniyi,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.4,14,1512.0,3.0,108.0,0,0,0.06,0.0,0,0,0,0,0,0,1,2,0,1.98,28
-Taiwo Awoniyi,2026-03-04,Manchester City,Nottingham Forest,6.4,11,1188.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,4,0,1.68,28
-Taiwo Awoniyi,2026-03-15,Nottingham Forest,Fulham,6.1,27,2916.0,5.0,108.0,0,0,0.54,0.0,2,3,0,0,0,0,1,11,0,1.71,28
-Taiwo Awoniyi,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.0,19,2052.0,4.0,108.0,1,0,0.52,0.0,0,2,0,0,0,0,0,6,0,1.95,28
-Taiwo Awoniyi,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Taiwo Awoniyi,2026-04-24,Sunderland,Nottingham Forest,6.7,10,1080.0,2.0,108.0,0,0,0.0,0.01,2,3,1,0,0,0,1,5,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Taiwo Awoniyi,28,2025-12-30,Nottingham Forest,Everton,6.6,28,3024.0,6.0,108.0,0,0,0.27,0.36,6,6,1,0,0,0,0,12,0.0,1.98
+Taiwo Awoniyi,28,2026-01-03,Aston Villa,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Taiwo Awoniyi,28,2026-01-06,West Ham United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Taiwo Awoniyi,28,2026-01-09,Wrexham,Nottingham Forest,5.9,32,3456.0,6.0,108.0,0,0,0.0,0.0,9,10,2,0,0,0,0,13,0.0,1.74
+Taiwo Awoniyi,28,2026-01-17,Nottingham Forest,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Taiwo Awoniyi,28,2026-01-25,Brentford,Nottingham Forest,7.7,22,2376.0,4.0,108.0,1,0,0.39,0.0,4,4,0,0,0,0,1,13,0.0,1.68
+Taiwo Awoniyi,28,2026-02-01,Nottingham Forest,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Taiwo Awoniyi,28,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Taiwo Awoniyi,28,2026-02-11,Nottingham Forest,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Taiwo Awoniyi,28,2026-03-01,Brighton & Hove Albion,Nottingham Forest,6.4,14,1512.0,3.0,108.0,0,0,0.06,0.0,0,0,0,0,0,0,1,2,0.0,1.98
+Taiwo Awoniyi,28,2026-03-04,Manchester City,Nottingham Forest,6.4,11,1188.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,4,0.0,1.68
+Taiwo Awoniyi,28,2026-03-15,Nottingham Forest,Fulham,6.1,27,2916.0,5.0,108.0,0,0,0.54,0.0,2,3,0,0,0,0,1,11,0.0,1.71
+Taiwo Awoniyi,28,2026-03-22,Tottenham Hotspur,Nottingham Forest,7.0,19,2052.0,4.0,108.0,1,0,0.52,0.0,0,2,0,0,0,0,0,6,0.0,1.95
+Taiwo Awoniyi,28,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Taiwo Awoniyi,28,2026-04-24,Sunderland,Nottingham Forest,6.7,10,1080.0,2.0,108.0,0,0,0.0,0.01,2,3,1,0,0,0,1,5,0.0,1.85
+Taiwo Awoniyi,28,2026-05-04,Chelsea,Nottingham Forest,8.6,90,,,0.0,2,0,1.11,0.0,5,7,0,0,0,0,3,17,,
+Taiwo Awoniyi,28,2026-05-10,Nottingham Forest,Newcastle United,6.4,73,,,0.0,0,0,0.15,0.02,11,14,1,0,0,0,3,20,,

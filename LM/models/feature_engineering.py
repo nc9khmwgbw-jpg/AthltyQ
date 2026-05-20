@@ -623,11 +623,6 @@ def run_feature_engineering(df_matchs_clean):
     core_stats = [c for c in core_stats if c in df.columns]
     df = df[identity + medical + core_stats + others]
 
-    # 3. Sauvegarder le dataset enrichi
-    output_path = Path("data/processed/features_dataset.csv")
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    df.to_csv(output_path, index=False, encoding='utf-8-sig')
-
     print(f"\n✅ Feature Engineering (Version Médicale) terminé !")
     print(f"   📊 Shape finale : {df.shape}")
     print(f"   🏥 Features médicales injectées avec succès.")

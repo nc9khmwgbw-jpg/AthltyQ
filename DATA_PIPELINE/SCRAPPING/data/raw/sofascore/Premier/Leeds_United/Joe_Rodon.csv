@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Joe Rodon,2026-01-31,Leeds United,Arsenal,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,47,53,0,0,4,0,1,70,0,1.85,28
-Joe Rodon,2026-02-06,Leeds United,Nottingham Forest,6.9,90,9720.0,18.0,108.0,0,0,0.03,0.08,66,74,0,0,0,0,3,89,0,1.85,28
-Joe Rodon,2026-02-10,Chelsea,Leeds United,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,47,50,0,0,3,0,2,64,0,1.85,28
-Joe Rodon,2026-02-15,Birmingham City,Leeds United,6.9,30,3240.0,6.0,108.0,0,0,0.0,0.0,10,12,0,0,0,0,0,16,0,1.85,28
-Joe Rodon,2026-02-21,Aston Villa,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.24,0.0,20,23,0,0,0,0,2,43,0,1.85,28
-Joe Rodon,2026-02-28,Leeds United,Manchester City,6.5,87,9396.0,17.0,108.0,0,0,0.0,0.02,30,33,0,0,1,0,1,39,0,1.81,28
-Joe Rodon,2026-03-03,Leeds United,Sunderland,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,64,71,0,0,0,0,6,82,0,1.85,28
-Joe Rodon,2026-03-15,Crystal Palace,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.03,14,20,1,0,0,0,1,40,0,1.85,28
-Joe Rodon,2026-03-21,Leeds United,Brentford,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.09,37,45,0,0,1,0,2,61,0,1.85,28
-Joe Rodon,2026-03-26,Wales,Bosnia & Herzegovina,7.2,120,12960.0,24.0,108.0,0,0,0.0,0.0,99,108,0,0,0,0,3,127,0,1.85,28
-Joe Rodon,2026-03-31,Wales,Northern Ireland,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,100,109,0,0,0,0,5,119,0,1.85,28
-Joe Rodon,2026-04-05,West Ham United,Leeds United,6.7,52,5616.0,10.0,108.0,0,0,0.0,0.0,30,37,0,0,1,0,1,42,0,1.78,28
-Joe Rodon,2026-04-18,Leeds United,Wolverhampton,,1,108.0,0.0,108.0,0,0,0.0,0.0,4,7,0,0,0,0,0,8,0,0.0,28
-Joe Rodon,2026-04-22,Bournemouth,Leeds United,6.1,45,4860.0,9.0,108.0,0,0,0.02,0.08,11,18,0,0,0,0,0,30,0,1.85,28
-Joe Rodon,2026-04-26,Chelsea,Leeds United,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,35,35,1,0,0,0,2,39,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Joe Rodon,28,2026-01-31,Leeds United,Arsenal,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,47,53,0,0,4,0,1,70,0.0,1.85
+Joe Rodon,28,2026-02-06,Leeds United,Nottingham Forest,6.9,90,9720.0,18.0,108.0,0,0,0.03,0.08,66,74,0,0,0,0,3,89,0.0,1.85
+Joe Rodon,28,2026-02-10,Chelsea,Leeds United,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,47,50,0,0,3,0,2,64,0.0,1.85
+Joe Rodon,28,2026-02-15,Birmingham City,Leeds United,6.9,30,3240.0,6.0,108.0,0,0,0.0,0.0,10,12,0,0,0,0,0,16,0.0,1.85
+Joe Rodon,28,2026-02-21,Aston Villa,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.24,0.0,20,23,0,0,0,0,2,43,0.0,1.85
+Joe Rodon,28,2026-02-28,Leeds United,Manchester City,6.5,87,9396.0,17.0,108.0,0,0,0.0,0.02,30,33,0,0,1,0,1,39,0.0,1.81
+Joe Rodon,28,2026-03-03,Leeds United,Sunderland,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,64,71,0,0,0,0,6,82,0.0,1.85
+Joe Rodon,28,2026-03-15,Crystal Palace,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.03,14,20,1,0,0,0,1,40,0.0,1.85
+Joe Rodon,28,2026-03-21,Leeds United,Brentford,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.09,37,45,0,0,1,0,2,61,0.0,1.85
+Joe Rodon,28,2026-03-26,Wales,Bosnia & Herzegovina,7.2,120,12960.0,24.0,108.0,0,0,0.0,0.0,99,108,0,0,0,0,3,127,0.0,1.85
+Joe Rodon,28,2026-03-31,Wales,Northern Ireland,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,100,109,0,0,0,0,5,119,0.0,1.85
+Joe Rodon,28,2026-04-05,West Ham United,Leeds United,6.7,52,5616.0,10.0,108.0,0,0,0.0,0.0,30,37,0,0,1,0,1,42,0.0,1.78
+Joe Rodon,28,2026-04-18,Leeds United,Wolverhampton,,1,108.0,0.0,108.0,0,0,0.0,0.0,4,7,0,0,0,0,0,8,0.0,0.0
+Joe Rodon,28,2026-04-22,Bournemouth,Leeds United,6.1,45,4860.0,9.0,108.0,0,0,0.02,0.08,11,18,0,0,0,0,0,30,0.0,1.85
+Joe Rodon,28,2026-04-26,Chelsea,Leeds United,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,35,35,1,0,0,0,2,39,0.0,1.85
+Joe Rodon,28,2026-05-01,Leeds United,Burnley,6.2,90,,,0.0,0,0,0.12,0.01,32,39,1,0,0,0,3,53,,
+Joe Rodon,28,2026-05-11,Tottenham Hotspur,Leeds United,6.6,90,,,0.0,0,0,0.06,0.06,17,20,1,0,1,0,1,39,,

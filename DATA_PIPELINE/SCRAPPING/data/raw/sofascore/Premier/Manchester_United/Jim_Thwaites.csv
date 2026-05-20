@@ -1,2 +1,5 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jim Thwaites,2026-04-18,Chelsea,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jim Thwaites,18,2026-04-18,Chelsea,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jim Thwaites,18,2026-04-26,Manchester United U21,Sunderland U21,,23,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jim Thwaites,18,2026-05-04,Crystal Palace U21,Manchester United U21,,66,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jim Thwaites,18,2026-05-08,Manchester City U21,Manchester United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

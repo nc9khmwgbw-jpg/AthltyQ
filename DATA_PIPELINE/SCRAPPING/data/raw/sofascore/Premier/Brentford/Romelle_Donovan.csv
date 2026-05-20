@@ -1,16 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Romelle Donovan,2026-01-17,Chelsea,Brentford,,1,108.0,0.0,108.0,0,0,0.05,0.01,2,3,1,0,0,0,1,6,0,0.0,19
-Romelle Donovan,2026-01-25,Brentford,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-02-01,Aston Villa,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-02-07,Newcastle United,Brentford,6.4,10,1080.0,2.0,108.0,0,0,0.02,0.0,3,6,0,0,0,0,1,11,0,1.85,19
-Romelle Donovan,2026-02-12,Brentford,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-02-16,Macclesfield FC,Brentford,5.8,89,9612.0,18.0,108.0,0,0,0.0,0.0,28,37,0,0,0,0,2,68,0,1.87,19
-Romelle Donovan,2026-02-21,Brentford,Brighton & Hove Albion,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,0,6,0,2.06,19
-Romelle Donovan,2026-02-28,Burnley,Brentford,6.8,18,1944.0,4.0,108.0,0,0,0.02,0.0,2,5,0,0,0,0,3,11,0,2.06,19
-Romelle Donovan,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-03-09,West Ham United,Brentford,6.5,33,3564.0,7.0,108.0,0,0,0.0,0.0,8,9,0,0,1,0,1,17,0,1.96,19
-Romelle Donovan,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-04-11,Brentford,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Romelle Donovan,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Romelle Donovan,19,2026-01-17,Chelsea,Brentford,,1,108.0,0.0,108.0,0,0,0.05,0.01,2,3,1,0,0,0,1,6,0.0,0.0
+Romelle Donovan,19,2026-01-25,Brentford,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-02-01,Aston Villa,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-02-07,Newcastle United,Brentford,6.4,10,1080.0,2.0,108.0,0,0,0.02,0.0,3,6,0,0,0,0,1,11,0.0,1.85
+Romelle Donovan,19,2026-02-12,Brentford,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-02-16,Macclesfield FC,Brentford,5.8,89,9612.0,18.0,108.0,0,0,0.0,0.0,28,37,0,0,0,0,2,68,0.0,1.87
+Romelle Donovan,19,2026-02-21,Brentford,Brighton & Hove Albion,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,0,6,0.0,2.06
+Romelle Donovan,19,2026-02-28,Burnley,Brentford,6.8,18,1944.0,4.0,108.0,0,0,0.02,0.0,2,5,0,0,0,0,3,11,0.0,2.06
+Romelle Donovan,19,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-03-09,West Ham United,Brentford,6.5,33,3564.0,7.0,108.0,0,0,0.0,0.0,8,9,0,0,1,0,1,17,0.0,1.96
+Romelle Donovan,19,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-04-11,Brentford,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Romelle Donovan,19,2026-05-02,Brentford,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

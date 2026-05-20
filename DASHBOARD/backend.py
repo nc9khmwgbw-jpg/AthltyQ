@@ -4,7 +4,6 @@ from fastapi.staticfiles import StaticFiles
 from pathlib import Path
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
 import pandas as pd
 import numpy as np
 import json
@@ -31,13 +30,15 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-CACHE = {
-    "results": None,
-    "features": None,
-    "similarity_engine": None,
-    "last_update": 0,
-    "ttl": 300  # 5 minutes
+from typing import Tuple, Optional, Dict, Any, cast
+
+CACHE_MODELS: Dict[str, Dict[str, Any]] = {
+    "poly": {"results": None, "features": None, "last_update": 0.0},
+    "rf": {"results": None, "features": None, "last_update": 0.0},
+    "lgbm": {"results": None, "features": None, "last_update": 0.0},
 }
+CACHE_SIM_ENGINE = None
+CACHE_TTL = 300
 
 predictor = FatiguePredictor()
 
@@ -50,13 +51,13 @@ MOCK_PHYSIO = {
     "sleep_quality": 85
 }
 
-def get_data():
+def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame]]:
     """Fetch and process data with caching to prevent OOM/Killed errors."""
-    global CACHE
+    global CACHE_MODELS, CACHE_SIM_ENGINE
     now = time.time()
     
-    if CACHE["results"] is not None and (now - CACHE["last_update"]) < CACHE["ttl"]:
-        return CACHE["results"], CACHE["features"]
+    if CACHE_MODELS[model_type]["results"] is not None and (now - CACHE_MODELS[model_type]["last_update"]) < CACHE_TTL:
+        return CACHE_MODELS[model_type]["results"], CACHE_MODELS[model_type]["features"]
     
     PROCESSED_PATH = ROOT / "data" / "processed" / "features_dataset.csv"
     RAW_PATH = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
@@ -80,56 +81,77 @@ def get_data():
         df_features = pd.read_csv(PROCESSED_PATH, low_memory=False)
         df_features['Match_Date'] = pd.to_datetime(df_features['Match_Date'], errors='coerce')
         
-        # Prédiction de la fatigue (Le nouveau Cerveau)
-        predictions = predictor.predict(df_features)
         # 1. Calcul de la Fatigue IA (0-100)
-        df_features = df_features.copy() # Évite la fragmentation
-        df_features['Fatigue_IA'] = pd.Series(predictions).fillna(0).clip(0, 100)
-        df_features['Fatigue_Score'] = df_features['Fatigue_IA'] # Pour compatibilité frontend
+        df_features = df_features.copy()
+        predictions = predictor.predict(df_features, model_type=model_type)
+        if predictions is None:
+            df_features['Fatigue_IA'] = 0.0
+        else:
+            df_features['Fatigue_IA'] = pd.Series(predictions).fillna(0).values
+        
+        # Cast explicite et conversion en liste pour satisfaire l'IDE
+        fatigue_vals = np.array(df_features['Fatigue_IA'], dtype=float)
+        fatigue_final = np.clip(fatigue_vals, 0, 100).tolist()
+        df_features['Fatigue_IA'] = fatigue_final
+        df_features['Fatigue_Score'] = fatigue_final
         
         # 2. Calcul du Trauma Index (Historique médical)
-        # On cherche les colonnes générées par le Feature Engineering médical
-        trauma_cols = ['Nb_Blessures_Musculaires_12m', 'Jours_Depuis_Blessure', 'Trauma_Index']
-        trauma_score = df_features[trauma_cols].sum(axis=1).fillna(0) if any(c in df_features.columns for c in trauma_cols) else pd.Series(0, index=df_features.index)
-
-        # 3. Calcul de l'Anomalie ACWR (Stress de charge)
-        # On pénalise si l'ACWR sort de la zone de sécurité (0.8 - 1.3)
-        acwr_val = pd.to_numeric(df_features['ACWR'] if 'ACWR' in df_features.columns else 1.0, errors='coerce')
-        # On force la conversion en Série pour pouvoir utiliser .abs() et .clip()
-        if not isinstance(acwr_val, pd.Series):
-            acwr_val = pd.Series(acwr_val, index=df_features.index)
+        trauma_cols = ['Nb_Blessures_Musculaires_12m', 'Trauma_Index']
+        present_trauma_cols = [c for c in trauma_cols if c in df_features.columns]
         
-        acwr_val = acwr_val.fillna(1.0)
-        acwr_stress = ((acwr_val - 1.0).abs() * 50.0).clip(0, 30)
+        if 'Jours_Depuis_Blessure' in df_features.columns:
+            days_since = pd.to_numeric(df_features['Jours_Depuis_Blessure'], errors='coerce').fillna(365)
+            # Cast float pour np.exp
+            days_vals = np.array(days_since, dtype=float)
+            injury_recency_score = 100 * np.exp(-days_vals / 30.0)
+        else:
+            injury_recency_score = 0.0
 
-        # 4. Score de Risque Médical Composite (0.0 à 1.0)
-        fatigue_part = pd.to_numeric(df_features['Fatigue_IA'], errors='coerce').fillna(0) * 0.50
-        trauma_part  = pd.to_numeric(trauma_score, errors='coerce').fillna(0) * 0.30
-        acwr_part    = pd.to_numeric(acwr_stress, errors='coerce').fillna(0) * 0.20
+        if present_trauma_cols:
+            trauma_sum = df_features[present_trauma_cols].sum(axis=1).fillna(0)
+            trauma_vals = np.array(trauma_sum, dtype=float)
+            trauma_score = (trauma_vals * 20) + injury_recency_score
+        else:
+            # Remplacement de pd.Series par np.full pour satisfaire le linter
+            trauma_score = np.full(len(df_features), injury_recency_score, dtype=float)
 
-        df_features['Medical_Risk_Score'] = (fatigue_part + trauma_part + acwr_part) / 100.0
+        # 3. Calcul de l'Anomalie ACWR
+        if 'ACWR' in df_features.columns:
+            acwr_val = pd.to_numeric(df_features['ACWR'], errors='coerce').fillna(1.0)
+        else:
+            acwr_val = np.full(len(df_features), 1.0, dtype=float)
         
+        acwr_vals = np.array(acwr_val, dtype=float)
+        acwr_stress = np.clip((np.abs(acwr_vals - 1.0) * 50.0), 0, 30)
+
+        # 4. Score de Risque Médical Composite
+        fatigue_part = np.array(df_features['Fatigue_IA'], dtype=float) * 0.50
+        trauma_part  = np.array(trauma_score, dtype=float) * 0.30
+        acwr_part    = np.array(acwr_stress, dtype=float) * 0.20
+
         # Normalisation finale
-        df_features['Medical_Risk_Score'] = np.clip(df_features['Medical_Risk_Score'].to_numpy(), 0, 1).tolist()
+        medical_risk = (fatigue_part + trauma_part + acwr_part) / 100.0
+        df_features['Medical_Risk_Score'] = np.clip(medical_risk, 0, 1).tolist()
         df_features['Injury_Risk'] = df_features['Medical_Risk_Score']
 
-        # 5. Classification des niveaux et Statuts (Paliers Utilisateur)
+        # 5. Classification des niveaux et Statuts (25% / 60% / 85%)
         df_features['Risk_Level'] = 'FAIBLE'
         df_features['Status'] = 'FULL TRAINING'
         
-        # Modéré (16% à 50%)
-        mask_mod = (df_features['Medical_Risk_Score'] >= 0.16) & (df_features['Medical_Risk_Score'] <= 0.50)
+        risk_vals = np.array(df_features['Medical_Risk_Score'], dtype=float)
+        
+        # Conversion en listes pour satisfaire le linter de .loc
+        mask_mod  = ((risk_vals > 0.25) & (risk_vals <= 0.60)).tolist()
+        mask_high = ((risk_vals > 0.60) & (risk_vals <= 0.85)).tolist()
+        mask_crit = (risk_vals > 0.85).tolist()
+        
         df_features.loc[mask_mod, 'Risk_Level'] = 'MODÉRÉ'
         df_features.loc[mask_mod, 'Status'] = 'VIGILANCE'
         
-        # Élevé (51% à 85%)
-        mask_high = (df_features['Medical_Risk_Score'] > 0.50) & (df_features['Medical_Risk_Score'] <= 0.85)
         df_features.loc[mask_high, 'Risk_Level'] = 'ÉLEVÉ'
         df_features.loc[mask_high, 'Status'] = 'REST FORCE'
         
-        # Critique / Alerte Blessure ( > 85%)
-        mask_crit = (df_features['Medical_Risk_Score'] > 0.85)
-        df_features.loc[mask_crit, 'Risk_Level'] = 'ÉLEVÉ' # On garde ÉLEVÉ pour que le frontend mette du ROUGE
+        df_features.loc[mask_crit, 'Risk_Level'] = 'ÉLEVÉ'
         df_features.loc[mask_crit, 'Status'] = 'ALERTE BLESSURE'
 
         # Pour le dashboard, on groupe par joueur (dernier match)
@@ -139,27 +161,82 @@ def get_data():
         print(f"Dashboard: Fichier pré-traité absent. Lancement du Feature Engineering sur {RAW_PATH}")
         df = pd.read_csv(RAW_PATH, low_memory=False)
         df['Match_Date'] = pd.to_datetime(df['Match_Date'], errors='coerce')
+        # Feature Engineering (Version Médicale)
         df_features = run_feature_engineering(df)
         
-        # Sauvegarde automatique pour éviter de recalculer
+        # Sauvegarde au chemin ABSOLU défini par ROOT
         PROCESSED_PATH.parent.mkdir(parents=True, exist_ok=True)
         df_features.to_csv(PROCESSED_PATH, index=False, encoding='utf-8-sig')
-        print(f"✅ Dashboard: Cache mis à jour avec succès : {PROCESSED_PATH}")
+        print(f"✅ Dashboard: Dataset mis à jour et sauvegardé à : {PROCESSED_PATH}")
         
-        predictions = predictor.predict(df_features)
-        df_features['Fatigue_IA'] = pd.Series(predictions).fillna(0)
-        df_features['Fatigue_Score'] = df_features['Fatigue_IA']
+        # 1. Calcul de la Fatigue IA (0-100)
+        predictions = predictor.predict(df_features, model_type=model_type)
+        df_features = df_features.copy()
+        if predictions is None:
+            df_features['Fatigue_IA'] = 0.0
+        else:
+            df_features['Fatigue_IA'] = pd.Series(predictions).fillna(0).values
         
-        # Création des catégories de risque (Méthode 100% Pandas pour éviter les erreurs de type)
-        df_features['Risk_Level'] = '🟢 FAIBLE'
-        df_features.loc[df_features['Fatigue_IA'] >= 45, 'Risk_Level'] = '🟠 MODÉRÉ'
-        df_features.loc[df_features['Fatigue_IA'] >= 75, 'Risk_Level'] = '🔴 ÉLEVÉ'
+        fatigue_vals_upd = np.array(df_features['Fatigue_IA'], dtype=float)
+        fatigue_final_upd = np.clip(fatigue_vals_upd, 0, 100).tolist()
+        df_features['Fatigue_IA'] = fatigue_final_upd
+        df_features['Fatigue_Score'] = fatigue_final_upd
+
+        # 2. Calcul du Trauma Index (Historique médical)
+        trauma_cols = ['Nb_Blessures_Musculaires_12m', 'Trauma_Index']
+        present_trauma_cols = [c for c in trauma_cols if c in df_features.columns]
         
-        df_features['Injury_Risk'] = df_features['Fatigue_IA'] / 100.0
+        if 'Jours_Depuis_Blessure' in df_features.columns:
+            days_since = pd.to_numeric(df_features['Jours_Depuis_Blessure'], errors='coerce').fillna(365)
+            days_vals_upd = np.array(days_since, dtype=float)
+            injury_recency_score = 100 * np.exp(-days_vals_upd / 30.0)
+        else:
+            injury_recency_score = 0.0
+
+        if present_trauma_cols:
+            trauma_sum_upd = df_features[present_trauma_cols].sum(axis=1).fillna(0)
+            trauma_vals_upd = np.array(trauma_sum_upd, dtype=float)
+            trauma_score = (trauma_vals_upd * 20) + injury_recency_score
+        else:
+            # Remplacement de pd.Series par np.full pour satisfaire le linter
+            trauma_score = np.full(len(df_features), injury_recency_score, dtype=float)
+
+        # 3. Calcul de l'Anomalie ACWR
+        if 'ACWR' in df_features.columns:
+            acwr_val = pd.to_numeric(df_features['ACWR'], errors='coerce').fillna(1.0)
+        else:
+            acwr_val = np.full(len(df_features), 1.0, dtype=float)
         
-        # NOUVEAU : Medical_Risk_Score (0.0 à 1.0)
-        df_features['Medical_Risk_Score'] = (df_features['Fatigue_IA'] * 0.7 + df_features.get('recent_muscle_injuries', 0) * 15.0) / 100.0
-        df_features['Medical_Risk_Score'] = np.clip(df_features['Medical_Risk_Score'].to_numpy(), 0, 1).tolist()
+        acwr_vals_upd = np.array(acwr_val, dtype=float)
+        acwr_stress = np.clip((np.abs(acwr_vals_upd - 1.0) * 50.0), 0, 30)
+
+        # 4. Score de Risque Médical Composite
+        fatigue_part_upd = np.array(df_features['Fatigue_IA'], dtype=float) * 0.50
+        trauma_part_upd  = np.array(trauma_score, dtype=float) * 0.30
+        acwr_part_upd    = np.array(acwr_stress, dtype=float) * 0.20
+
+        medical_risk_upd = (fatigue_part_upd + trauma_part_upd + acwr_part_upd) / 100.0
+        df_features['Medical_Risk_Score'] = np.clip(medical_risk_upd, 0, 1).tolist()
+        df_features['Injury_Risk'] = df_features['Medical_Risk_Score']
+
+        # 5. Classification des niveaux et Statuts
+        df_features['Risk_Level'] = 'FAIBLE'
+        df_features['Status'] = 'FULL TRAINING'
+        
+        risk_vals_upd = np.array(df_features['Medical_Risk_Score'], dtype=float)
+        
+        mask_mod_upd  = ((risk_vals_upd > 0.25) & (risk_vals_upd <= 0.60)).tolist()
+        mask_high_upd = ((risk_vals_upd > 0.60) & (risk_vals_upd <= 0.85)).tolist()
+        mask_crit_upd = (risk_vals_upd > 0.85).tolist()
+        
+        df_features.loc[mask_mod_upd, 'Risk_Level'] = 'MODÉRÉ'
+        df_features.loc[mask_mod_upd, 'Status'] = 'VIGILANCE'
+        
+        df_features.loc[mask_high_upd, 'Risk_Level'] = 'ÉLEVÉ'
+        df_features.loc[mask_high_upd, 'Status'] = 'REST FORCE'
+        
+        df_features.loc[mask_crit_upd, 'Risk_Level'] = 'ÉLEVÉ'
+        df_features.loc[mask_crit_upd, 'Status'] = 'ALERTE BLESSURE'
         
         results = df_features.sort_values(['Nom', 'Match_Date'], ascending=[True, False]).groupby('Nom').first().reset_index()
     else:
@@ -173,16 +250,15 @@ def get_data():
     
     # 4. Initialisation du Similarity Engine (Caché globalement)
     try:
-        from LM2.similarity_engine import SimilarityEngine
-        CACHE["similarity_engine"] = SimilarityEngine(df_features)
+        CACHE_SIM_ENGINE = SimilarityEngine(df_features)
         print("✅ Dashboard: Moteur de similarité initialisé.")
     except Exception as e:
         print(f"⚠️ Dashboard: Erreur moteur similarité : {e}")
 
     # Cache it
-    CACHE["results"] = results
-    CACHE["features"] = df_features
-    CACHE["last_update"] = now
+    CACHE_MODELS[model_type]["results"] = results
+    CACHE_MODELS[model_type]["features"] = df_features
+    CACHE_MODELS[model_type]["last_update"] = float(now)
     
     print(f"Dashboard: Données chargées avec succès. {len(results)} joueurs identifiés.")
     return results, df_features
@@ -210,10 +286,13 @@ def get_dashboard():
     return FileResponse(index_path)
 
 @app.get("/api/dashboard-data")
-def get_dashboard_data():
-    results, features = get_data()
-    if results is None or features is None:
+def get_dashboard_data(model: str = 'lgbm'):
+    _res, _feat = get_data(model_type=model)
+    if _res is None or _feat is None:
         return {"error": "Data not found or corrupted"}
+    
+    results = cast(pd.DataFrame, _res)
+    features = cast(pd.DataFrame, _feat)
     
     # 1. Team Summary
     total_players = len(results)
@@ -226,8 +305,6 @@ def get_dashboard_data():
         available_players = total_players
         injured_count = 0
         
-    avg_acr = results['ACWR'].mean()
-    
     # Agrégation des risques pour le graphique du haut (3 catégories)
     raw_dist = results['Risk_Level'].value_counts().to_dict()
     risk_dist = {
@@ -282,9 +359,9 @@ def get_dashboard_data():
         "avg_sleep_hours": round(8.2 - (results['Fatigue_Score'].mean() / 50), 1),
         "avg_hrv": int(72 - (results['Fatigue_Score'].mean() / 4)),
         "risk_distribution": {
-            "high": int(risk_dist.get('🔴 ÉLEVÉ', 0)),
-            "medium": int(risk_dist.get('🟠 MODÉRÉ', 0)),
-            "low": int(risk_dist.get('🟢 FAIBLE', 0))
+            "high": int(risk_dist.get('ÉLEVÉ', 0)),
+            "medium": int(risk_dist.get('MODÉRÉ', 0)),
+            "low": int(risk_dist.get('FAIBLE', 0))
         }
     }
 
@@ -298,10 +375,13 @@ def get_dashboard_data():
     }
 
 @app.get("/api/player-data")
-def get_player_data():
-    results, features = get_data()
-    if results is None or features is None:
+def get_player_data(model: str = 'lgbm'):
+    _res, _feat = get_data(model_type=model)
+    if _res is None or _feat is None:
         return {"error": "Data not found or corrupted"}
+        
+    results = cast(pd.DataFrame, _res)
+    features = cast(pd.DataFrame, _feat)
     
     # NOUVEAU : On extrait les 15 derniers matchs individuels de chaque joueur (100% RÉEL)
     features['Match_Date'] = pd.to_datetime(features['Match_Date'])
@@ -365,8 +445,6 @@ def get_player_data():
         acr = row.get('ACWR', 1.0)
         fatigue = row.get('Fatigue_IA', 0)
         risk_score = row.get('Medical_Risk_Score', 0) # Définition de la variable manquante
-        hrv = int(75 - (fatigue / 3))
-        
         if risk_score > 0.85:
             return f"URGENCE MÉDICALE : Le score de risque combiné est critique ({risk_score*100:.0f}%). Risque de blessure musculaire imminente. Mise au repos totale indispensable."
 
@@ -403,7 +481,10 @@ def get_player_data():
             "hrv_rmssd": int(75 - (row['Fatigue_Score'] / 3)),
             "injury_risk_level": risk_level,
             "injury_risk_score": int(row['Injury_Risk'] * 100),
-            "status": row['Status'], # Nouveau : REST FORCE, RISQUE BLESSURE, etc.
+        }
+        
+        player.update({
+            "status": row['Status'],
             "current_injury": int(row.get('Current_Injury', 0)),
             "injury_type": row.get('Injury_Type_Text', ''),
             "dominant_cause": row.get('Dominant_Injury_Cause', 'NONE'),
@@ -413,8 +494,8 @@ def get_player_data():
             },
             "recommendation_title": "Diagnostic Clinique",
             "recommendation_details": insight,
-            "historique_jours": player_hist_dict.get(name_val, {}) # Données 100% réelles injectées ici
-        }
+            "historique_jours": player_hist_dict.get(name_val, {})
+        })
         players_list.append(player)
     
     if players_list:
@@ -423,10 +504,12 @@ def get_player_data():
     return {"version": "1.3", "players": players_list}
 
 @app.get("/api/player-history/{player_name}")
-def get_player_history(player_name: str):
-    _, features = get_data()
-    if features is None:
+def get_player_history(player_name: str, model: str = 'lgbm'):
+    _, _feat = get_data(model_type=model)
+    if _feat is None:
         return {"error": "Data not found"}
+        
+    features = cast(pd.DataFrame, _feat)
     
     # Simple name matching (case insensitive)
     # The frontend sends slugified IDs, we need to match them or use the original name
@@ -453,7 +536,6 @@ def get_player_history(player_name: str):
         # Determine opponent and result
         current_team = str(row.get('Team', '')).lower()
         h_team = str(row.get('Home_Team', '')).lower()
-        a_team = str(row.get('Away_Team', '')).lower()
         
         is_home = current_team in h_team or h_team in current_team
         opponent = row['Away_Team'] if is_home else row['Home_Team']
@@ -570,10 +652,12 @@ def get_player_history(player_name: str):
     }
 
 @app.get("/api/predict-future")
-def predict_future(player_name: str, rest_days: float = 4.0):
-    results, features = get_data()
-    if features is None:
+def predict_future(player_name: str, rest_days: float = 4.0, model: str = 'lgbm'):
+    _res, _feat = get_data(model_type=model)
+    if _feat is None:
         return {"error": "Data not found"}
+        
+    features = cast(pd.DataFrame, _feat)
     
     # 1. Trouver le dernier match du joueur
     player_data = features[features['Nom'].str.lower() == player_name.lower()].copy()
@@ -611,7 +695,7 @@ def predict_future(player_name: str, rest_days: float = 4.0):
     future_scenario['ACWR'] = adjusted_acr
     
     # 3. Inférence IA avec sécurité sur le retour
-    prediction_result = predictor.predict(pd.DataFrame([future_scenario]))
+    prediction_result = predictor.predict(pd.DataFrame([future_scenario]), model_type=model)
     if prediction_result is not None and len(prediction_result) > 0:
         raw_pred = prediction_result[0]
     else:
@@ -657,16 +741,18 @@ def predict_future(player_name: str, rest_days: float = 4.0):
     }
 
 @app.get("/api/similarity")
-def get_player_similarity(player_name: str, alpha: float = 0.5):
-    results, features = get_data()
-    if features is None:
+def get_player_similarity(player_name: str, alpha: float = 0.5, model: str = 'lgbm'):
+    _res, _feat = get_data(model_type=model)
+    if _feat is None:
         return {"error": "Data not found"}
+        
+    features = cast(pd.DataFrame, _feat)
     
-    engine = CACHE["similarity_engine"]
+    global CACHE_SIM_ENGINE
+    engine = CACHE_SIM_ENGINE
     if engine is None:
-        from LM2.similarity_engine import SimilarityEngine
         engine = SimilarityEngine(features)
-        CACHE["similarity_engine"] = engine
+        CACHE_SIM_ENGINE = engine
         
     results = engine.get_similar_players(player_name, alpha=alpha)
     

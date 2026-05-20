@@ -1,15 +1,20 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Emiliano Buendía,2026-02-11,Aston Villa,Brighton & Hove Albion,7.1,60,6480.0,12.0,108.0,0,0,0.05,0.01,7,9,1,0,0,0,4,18,0,1.85,29
-Emiliano Buendía,2026-02-14,Aston Villa,Newcastle United,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,8,9,0,0,0,0,1,17,0,1.85,29
-Emiliano Buendía,2026-02-21,Aston Villa,Leeds United,6.3,75,8100.0,15.0,108.0,0,0,0.14,0.03,22,26,0,0,0,0,3,46,0,1.85,29
-Emiliano Buendía,2026-02-27,Wolverhampton,Aston Villa,6.1,70,7560.0,14.0,108.0,0,0,0.0,0.03,25,30,0,0,0,0,4,42,0,1.85,29
-Emiliano Buendía,2026-03-04,Aston Villa,Chelsea,7.0,63,6804.0,13.0,108.0,0,0,0.0,0.19,15,19,1,0,1,0,2,27,0,1.91,29
-Emiliano Buendía,2026-03-12,Lille,Aston Villa,6.4,83,8964.0,17.0,108.0,0,0,0.18,0.02,21,26,2,0,0,0,2,41,0,1.9,29
-Emiliano Buendía,2026-03-15,Manchester United,Aston Villa,6.8,86,9288.0,17.0,108.0,0,0,0.19,0.18,25,29,0,0,3,0,5,50,0,1.83,29
-Emiliano Buendía,2026-03-19,Aston Villa,Lille,7.0,16,1728.0,3.0,108.0,0,0,0.0,0.42,7,9,1,0,0,0,1,11,0,1.74,29
-Emiliano Buendía,2026-03-22,Aston Villa,West Ham United,6.7,13,1404.0,3.0,108.0,0,0,0.0,0.01,5,6,0,0,0,0,1,11,0,2.14,29
-Emiliano Buendía,2026-04-09,Bologna,Aston Villa,7.1,88,9504.0,18.0,108.0,0,0,0.12,0.24,18,26,2,0,0,0,2,45,0,1.89,29
-Emiliano Buendía,2026-04-12,Nottingham Forest,Aston Villa,6.5,12,1296.0,2.0,108.0,0,0,0.0,0.06,6,6,2,0,0,0,1,7,0,1.54,29
-Emiliano Buendía,2026-04-16,Aston Villa,Bologna,8.0,90,9720.0,18.0,108.0,1,0,0.23,0.13,15,22,1,0,1,0,2,34,0,1.85,29
-Emiliano Buendía,2026-04-19,Aston Villa,Sunderland,6.4,20,2160.0,4.0,108.0,0,0,0.21,0.0,4,6,0,0,0,0,2,12,0,1.85,29
-Emiliano Buendía,2026-04-25,Fulham,Aston Villa,6.4,74,7992.0,15.0,108.0,0,0,0.04,0.02,24,29,0,0,1,0,4,43,0,1.88,29
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Emiliano Buendía,29,2026-02-11,Aston Villa,Brighton & Hove Albion,7.1,60,6480.0,12.0,108.0,0,0,0.05,0.01,7,9,1,0,0,0,4,18,0.0,1.85
+Emiliano Buendía,29,2026-02-14,Aston Villa,Newcastle United,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,8,9,0,0,0,0,1,17,0.0,1.85
+Emiliano Buendía,29,2026-02-21,Aston Villa,Leeds United,6.3,75,8100.0,15.0,108.0,0,0,0.14,0.03,22,26,0,0,0,0,3,46,0.0,1.85
+Emiliano Buendía,29,2026-02-27,Wolverhampton,Aston Villa,6.1,70,7560.0,14.0,108.0,0,0,0.0,0.03,25,30,0,0,0,0,4,42,0.0,1.85
+Emiliano Buendía,29,2026-03-04,Aston Villa,Chelsea,7.0,63,6804.0,13.0,108.0,0,0,0.0,0.19,15,19,1,0,1,0,2,27,0.0,1.91
+Emiliano Buendía,29,2026-03-12,Lille,Aston Villa,6.4,83,8964.0,17.0,108.0,0,0,0.18,0.02,21,26,2,0,0,0,2,41,0.0,1.9
+Emiliano Buendía,29,2026-03-15,Manchester United,Aston Villa,6.8,86,9288.0,17.0,108.0,0,0,0.19,0.18,25,29,0,0,3,0,5,50,0.0,1.83
+Emiliano Buendía,29,2026-03-19,Aston Villa,Lille,7.0,16,1728.0,3.0,108.0,0,0,0.0,0.42,7,9,1,0,0,0,1,11,0.0,1.74
+Emiliano Buendía,29,2026-03-22,Aston Villa,West Ham United,6.7,13,1404.0,3.0,108.0,0,0,0.0,0.01,5,6,0,0,0,0,1,11,0.0,2.14
+Emiliano Buendía,29,2026-04-09,Bologna,Aston Villa,7.1,88,9504.0,18.0,108.0,0,0,0.12,0.24,18,26,2,0,0,0,2,45,0.0,1.89
+Emiliano Buendía,29,2026-04-12,Nottingham Forest,Aston Villa,6.5,12,1296.0,2.0,108.0,0,0,0.0,0.06,6,6,2,0,0,0,1,7,0.0,1.54
+Emiliano Buendía,29,2026-04-16,Aston Villa,Bologna,8.0,90,9720.0,18.0,108.0,1,0,0.23,0.13,15,22,1,0,1,0,2,34,0.0,1.85
+Emiliano Buendía,29,2026-04-19,Aston Villa,Sunderland,6.4,20,2160.0,4.0,108.0,0,0,0.21,0.0,4,6,0,0,0,0,2,12,0.0,1.85
+Emiliano Buendía,29,2026-04-25,Fulham,Aston Villa,6.4,74,7992.0,15.0,108.0,0,0,0.04,0.02,24,29,0,0,1,0,4,43,0.0,1.88
+Emiliano Buendía,29,2026-04-30,Nottingham Forest,Aston Villa,6.5,79,,,0.0,0,0,0.0,0.06,22,28,0,0,0,0,3,42,,
+Emiliano Buendía,29,2026-05-03,Aston Villa,Tottenham Hotspur,7.6,12,,,0.0,1,0,0.06,0.0,0,1,0,0,0,0,0,6,,
+Emiliano Buendía,29,2026-05-07,Aston Villa,Nottingham Forest,9.4,86,,,0.0,1,0,0.99,0.96,27,31,4,0,0,0,6,53,,
+Emiliano Buendía,29,2026-05-10,Burnley,Aston Villa,7.0,16,,,0.0,0,0,0.07,0.01,8,8,0,0,0,0,2,13,,
+Emiliano Buendía,29,2026-05-15,Aston Villa,Liverpool FC,6.6,85,,,0.0,0,0,0.02,0.23,11,17,2,0,2,0,5,32,,

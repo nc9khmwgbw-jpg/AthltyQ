@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ethan Pinnock,2026-02-01,Aston Villa,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-02-12,Brentford,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-02-16,Macclesfield FC,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,59,69,1,0,0,0,7,81,0,1.85,32
-Ethan Pinnock,2026-02-21,Brentford,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-03-09,West Ham United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-03-21,Leeds United,Brentford,7.5,90,9720.0,18.0,108.0,0,0,0.01,0.0,29,33,0,0,1,0,2,51,0,1.85,32
-Ethan Pinnock,2026-03-27,New Caledonia,Jamaica,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,51,60,0,0,1,0,5,74,0,1.85,32
-Ethan Pinnock,2026-03-31,DR Congo,Jamaica,7.5,120,12960.0,24.0,108.0,0,0,0.0,0.0,70,83,1,0,1,0,2,102,0,1.85,32
-Ethan Pinnock,2026-04-11,Brentford,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ethan Pinnock,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ethan Pinnock,32,2026-02-01,Aston Villa,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-02-12,Brentford,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-02-16,Macclesfield FC,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,59,69,1,0,0,0,7,81,0.0,1.85
+Ethan Pinnock,32,2026-02-21,Brentford,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-03-09,West Ham United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-03-21,Leeds United,Brentford,7.5,90,9720.0,18.0,108.0,0,0,0.01,0.0,29,33,0,0,1,0,2,51,0.0,1.85
+Ethan Pinnock,32,2026-03-27,New Caledonia,Jamaica,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,51,60,0,0,1,0,5,74,0.0,1.85
+Ethan Pinnock,32,2026-03-31,DR Congo,Jamaica,7.5,120,12960.0,24.0,108.0,0,0,0.0,0.0,70,83,1,0,1,0,2,102,0.0,1.85
+Ethan Pinnock,32,2026-04-11,Brentford,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-04-18,Brentford,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ethan Pinnock,32,2026-05-02,Brentford,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Ethan Pinnock,32,2026-05-09,Manchester City,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

@@ -1,12 +1,13 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Abu Francis,2025-07-26,FCV Dender,Cercle Brugge,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Abu Francis,2025-09-14,Lille,Toulouse,7.4,72,7776.0,14.0,108.0,0,0,0.0,0.01,17,22,0,0,2,0,4,38,0,1.8,25
-Abu Francis,2025-09-21,Auxerre,Toulouse,7.0,70,7560.0,14.0,108.0,0,0,0.0,0.01,32,38,0,0,1,0,5,49,0,1.85,25
-Abu Francis,2025-09-27,Toulouse,Nantes,6.6,62,6696.0,12.0,108.0,0,0,0.05,0.01,29,33,0,0,1,0,5,42,0,1.79,25
-Abu Francis,2025-10-05,Olympique Lyonnais,Toulouse,6.8,45,4860.0,9.0,108.0,0,0,0.0,0.05,12,17,0,0,0,0,2,25,0,1.85,25
-Abu Francis,2025-10-19,Toulouse,Metz,6.8,90,9720.0,18.0,108.0,0,0,0.05,0.02,33,37,0,0,0,0,3,47,0,1.85,25
-Abu Francis,2025-10-25,AS Monaco,Toulouse,6.3,66,7128.0,13.0,108.0,0,0,0.0,0.01,16,25,0,0,2,0,4,31,0,1.82,25
-Abu Francis,2025-10-29,Toulouse,Stade Rennais,6.0,61,6588.0,12.0,108.0,0,0,0.03,0.03,22,26,1,0,1,0,2,36,0,1.82,25
-Abu Francis,2025-11-02,Toulouse,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Abu Francis,2025-11-09,Lorient,Toulouse,6.7,66,7128.0,13.0,108.0,0,0,0.0,0.02,36,40,0,0,1,0,8,46,0,1.82,25
-Abu Francis,2025-11-14,Japan,Ghana,6.6,56,6048.0,11.0,108.0,0,0,0.0,0.0,25,30,0,0,2,0,6,36,0,1.82,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abu Francis,25,2025-07-26,FCV Dender,Cercle Brugge,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abu Francis,25,2025-09-14,Lille,Toulouse,7.4,72,7776.0,14.0,108.0,0,0,0.0,0.01,17,22,0,0,2,0,4,38,0.0,1.8
+Abu Francis,25,2025-09-21,Auxerre,Toulouse,7.0,70,7560.0,14.0,108.0,0,0,0.0,0.01,32,38,0,0,1,0,5,49,0.0,1.85
+Abu Francis,25,2025-09-27,Toulouse,Nantes,6.6,62,6696.0,12.0,108.0,0,0,0.05,0.01,29,33,0,0,1,0,5,42,0.0,1.79
+Abu Francis,25,2025-10-05,Olympique Lyonnais,Toulouse,6.8,45,4860.0,9.0,108.0,0,0,0.0,0.05,12,17,0,0,0,0,2,25,0.0,1.85
+Abu Francis,25,2025-10-19,Toulouse,Metz,6.8,90,9720.0,18.0,108.0,0,0,0.05,0.02,33,37,0,0,0,0,3,47,0.0,1.85
+Abu Francis,25,2025-10-25,AS Monaco,Toulouse,6.3,66,7128.0,13.0,108.0,0,0,0.0,0.01,16,25,0,0,2,0,4,31,0.0,1.82
+Abu Francis,25,2025-10-29,Toulouse,Stade Rennais,6.0,61,6588.0,12.0,108.0,0,0,0.03,0.03,22,26,1,0,1,0,2,36,0.0,1.82
+Abu Francis,25,2025-11-02,Toulouse,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abu Francis,25,2025-11-09,Lorient,Toulouse,6.7,66,7128.0,13.0,108.0,0,0,0.0,0.02,36,40,0,0,1,0,8,46,0.0,1.82
+Abu Francis,25,2025-11-14,Japan,Ghana,6.6,56,6048.0,11.0,108.0,0,0,0.0,0.0,25,30,0,0,2,0,6,36,0.0,1.82
+Abu Francis,25,2026-05-10,Toulouse,Olympique Lyonnais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

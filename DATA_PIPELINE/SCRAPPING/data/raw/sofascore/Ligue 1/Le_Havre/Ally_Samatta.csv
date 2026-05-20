@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ally Samatta,2025-12-30,Tanzania,Tunisia,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,5,9,0,0,0,0,3,19,0,1.85,33
-Ally Samatta,2026-01-04,Morocco,Tanzania,6.3,24,2592.0,5.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,4,0,1.93,33
-Ally Samatta,2026-01-18,Stade Rennais,Le Havre,6.3,66,7128.0,13.0,108.0,0,0,0.04,0.03,13,24,1,0,0,0,2,38,0,1.82,33
-Ally Samatta,2026-01-24,Le Havre,AS Monaco,6.7,45,4860.0,9.0,108.0,0,0,0.03,0.01,5,8,0,0,1,0,0,19,0,1.85,33
-Ally Samatta,2026-02-08,Le Havre,RC Strasbourg,6.7,26,2808.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,1,8,0,1.78,33
-Ally Samatta,2026-02-15,Le Havre,Toulouse,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,4,5,1,0,0,0,3,12,0,1.85,33
-Ally Samatta,2026-02-22,Nantes,Le Havre,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.11,5,7,1,0,0,0,0,13,0,1.85,33
-Ally Samatta,2026-02-28,Le Havre,Paris Saint-Germain,6.5,12,1296.0,2.0,108.0,0,0,0.02,0.0,3,3,0,0,0,0,0,4,0,1.54,33
-Ally Samatta,2026-03-08,Stade Brestois,Le Havre,6.7,26,2808.0,5.0,108.0,0,0,0.49,0.01,7,7,0,0,0,0,2,14,0,1.78,33
-Ally Samatta,2026-03-15,Le Havre,Olympique Lyonnais,6.6,63,6804.0,13.0,108.0,0,0,0.13,0.02,7,8,1,0,0,0,3,18,0,1.91,33
-Ally Samatta,2026-03-22,Paris FC,Le Havre,6.8,15,1620.0,3.0,108.0,0,0,0.29,0.0,0,0,1,0,0,0,0,7,0,1.85,33
-Ally Samatta,2026-04-05,Le Havre,Auxerre,6.3,19,2052.0,4.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,7,0,1.95,33
-Ally Samatta,2026-04-12,Nice,Le Havre,7.1,87,9396.0,17.0,108.0,1,0,0.54,0.02,14,18,0,0,0,0,1,30,0,1.81,33
-Ally Samatta,2026-04-18,Angers,Le Havre,6.3,68,7344.0,14.0,108.0,0,0,0.21,0.15,6,7,3,0,0,0,0,13,0,1.91,33
-Ally Samatta,2026-04-26,Le Havre,Metz,8.4,90,9720.0,18.0,108.0,1,0,0.16,0.06,13,18,1,0,0,0,1,29,0,1.85,33
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ally Samatta,33,2025-12-30,Tanzania,Tunisia,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,5,9,0,0,0,0,3,19,0.0,1.85
+Ally Samatta,33,2026-01-04,Morocco,Tanzania,6.3,24,2592.0,5.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,4,0.0,1.93
+Ally Samatta,33,2026-01-18,Stade Rennais,Le Havre,6.3,66,7128.0,13.0,108.0,0,0,0.04,0.03,13,24,1,0,0,0,2,38,0.0,1.82
+Ally Samatta,33,2026-01-24,Le Havre,AS Monaco,6.7,45,4860.0,9.0,108.0,0,0,0.03,0.01,5,8,0,0,1,0,0,19,0.0,1.85
+Ally Samatta,33,2026-02-08,Le Havre,RC Strasbourg,6.7,26,2808.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,1,8,0.0,1.78
+Ally Samatta,33,2026-02-15,Le Havre,Toulouse,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,4,5,1,0,0,0,3,12,0.0,1.85
+Ally Samatta,33,2026-02-22,Nantes,Le Havre,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.11,5,7,1,0,0,0,0,13,0.0,1.85
+Ally Samatta,33,2026-02-28,Le Havre,Paris Saint-Germain,6.5,12,1296.0,2.0,108.0,0,0,0.02,0.0,3,3,0,0,0,0,0,4,0.0,1.54
+Ally Samatta,33,2026-03-08,Stade Brestois,Le Havre,6.7,26,2808.0,5.0,108.0,0,0,0.49,0.01,7,7,0,0,0,0,2,14,0.0,1.78
+Ally Samatta,33,2026-03-15,Le Havre,Olympique Lyonnais,6.6,63,6804.0,13.0,108.0,0,0,0.13,0.02,7,8,1,0,0,0,3,18,0.0,1.91
+Ally Samatta,33,2026-03-22,Paris FC,Le Havre,6.8,15,1620.0,3.0,108.0,0,0,0.29,0.0,0,0,1,0,0,0,0,7,0.0,1.85
+Ally Samatta,33,2026-04-05,Le Havre,Auxerre,6.3,19,2052.0,4.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,7,0.0,1.95
+Ally Samatta,33,2026-04-12,Nice,Le Havre,7.1,87,9396.0,17.0,108.0,1,0,0.54,0.02,14,18,0,0,0,0,1,30,0.0,1.81
+Ally Samatta,33,2026-04-18,Angers,Le Havre,6.3,68,7344.0,14.0,108.0,0,0,0.21,0.15,6,7,3,0,0,0,0,13,0.0,1.91
+Ally Samatta,33,2026-04-26,Le Havre,Metz,8.4,90,9720.0,18.0,108.0,1,0,0.16,0.06,13,18,1,0,0,0,1,29,0.0,1.85
+Ally Samatta,33,2026-05-03,Lille,Le Havre,6.9,88,,,0.0,0,0,0.05,0.0,9,12,0,0,0,0,2,26,,
+Ally Samatta,33,2026-05-10,Le Havre,Olympique de Marseille,6.8,90,,,0.0,0,0,0.19,0.02,8,13,0,0,1,0,2,27,,

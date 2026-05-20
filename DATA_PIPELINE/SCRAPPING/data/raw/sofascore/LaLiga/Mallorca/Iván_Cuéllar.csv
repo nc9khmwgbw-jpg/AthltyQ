@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Iván Cuéllar,2025-12-02,Numancia,Mallorca,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,32,0,0,0,0,10,44,0,1.85,41
-Iván Cuéllar,2025-12-05,Real Oviedo,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-01-17,Mallorca,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-01-25,Atlético Madrid,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-02-07,FC Barcelona,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-02-15,Mallorca,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-02-22,Celta Vigo,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-02-28,Mallorca,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-03-15,Mallorca,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-03-21,Elche,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-04-04,Mallorca,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-04-21,Mallorca,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
-Iván Cuéllar,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,41
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Iván Cuéllar,41,2025-12-02,Numancia,Mallorca,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,32,0,0,0,0,10,44,0.0,1.85
+Iván Cuéllar,41,2025-12-05,Real Oviedo,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-01-17,Mallorca,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-01-25,Atlético Madrid,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-02-07,FC Barcelona,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-02-15,Mallorca,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-02-22,Celta Vigo,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-02-28,Mallorca,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-03-07,Osasuna,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-03-15,Mallorca,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-03-21,Elche,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-04-04,Mallorca,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-04-21,Mallorca,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Cuéllar,41,2026-05-01,Girona FC,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Iván Cuéllar,41,2026-05-10,Mallorca,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Iván Cuéllar,41,2026-05-13,Getafe,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

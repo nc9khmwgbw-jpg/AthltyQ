@@ -1,16 +1,21 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ezri Konsa,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,9720.0,18.0,108.0,0,0,0.16,0.02,49,49,0,0,1,0,4,59,0,1.85,28
-Ezri Konsa,2026-02-14,Aston Villa,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Ezri Konsa,2026-02-21,Aston Villa,Leeds United,7.5,90,9720.0,18.0,108.0,0,0,0.13,0.01,59,64,0,0,3,0,4,79,0,1.85,28
-Ezri Konsa,2026-02-27,Wolverhampton,Aston Villa,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,78,79,0,0,4,0,5,92,0,1.85,28
-Ezri Konsa,2026-03-04,Aston Villa,Chelsea,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,49,50,0,0,0,0,2,62,0,1.85,28
-Ezri Konsa,2026-03-12,Lille,Aston Villa,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,61,64,0,0,0,0,3,75,0,1.85,28
-Ezri Konsa,2026-03-15,Manchester United,Aston Villa,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.02,45,48,0,0,0,0,1,56,0,1.85,28
-Ezri Konsa,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Ezri Konsa,2026-03-22,Aston Villa,West Ham United,7.7,90,9720.0,18.0,108.0,0,0,0.23,0.01,66,67,1,0,0,0,1,73,0,1.85,28
-Ezri Konsa,2026-03-31,England,Japan,6.9,83,8964.0,17.0,108.0,0,0,0.0,0.0,66,68,0,0,2,0,2,75,0,1.9,28
-Ezri Konsa,2026-04-09,Bologna,Aston Villa,7.4,90,9720.0,18.0,108.0,1,0,0.38,0.0,38,40,0,0,1,0,3,48,0,1.85,28
-Ezri Konsa,2026-04-12,Nottingham Forest,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Ezri Konsa,2026-04-16,Aston Villa,Bologna,8.2,90,9720.0,18.0,108.0,1,0,0.15,0.02,31,34,0,0,0,0,2,43,0,1.85,28
-Ezri Konsa,2026-04-19,Aston Villa,Sunderland,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,41,0,0,0,0,6,46,0,1.85,28
-Ezri Konsa,2026-04-25,Fulham,Aston Villa,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,99,102,0,0,0,0,4,113,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ezri Konsa,28,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,9720.0,18.0,108.0,0,0,0.16,0.02,49,49,0,0,1,0,4,59,0.0,1.85
+Ezri Konsa,28,2026-02-14,Aston Villa,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ezri Konsa,28,2026-02-21,Aston Villa,Leeds United,7.5,90,9720.0,18.0,108.0,0,0,0.13,0.01,59,64,0,0,3,0,4,79,0.0,1.85
+Ezri Konsa,28,2026-02-27,Wolverhampton,Aston Villa,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,78,79,0,0,4,0,5,92,0.0,1.85
+Ezri Konsa,28,2026-03-04,Aston Villa,Chelsea,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,49,50,0,0,0,0,2,62,0.0,1.85
+Ezri Konsa,28,2026-03-12,Lille,Aston Villa,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,61,64,0,0,0,0,3,75,0.0,1.85
+Ezri Konsa,28,2026-03-15,Manchester United,Aston Villa,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.02,45,48,0,0,0,0,1,56,0.0,1.85
+Ezri Konsa,28,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ezri Konsa,28,2026-03-22,Aston Villa,West Ham United,7.7,90,9720.0,18.0,108.0,0,0,0.23,0.01,66,67,1,0,0,0,1,73,0.0,1.85
+Ezri Konsa,28,2026-03-31,England,Japan,6.9,83,8964.0,17.0,108.0,0,0,0.0,0.0,66,68,0,0,2,0,2,75,0.0,1.9
+Ezri Konsa,28,2026-04-09,Bologna,Aston Villa,7.4,90,9720.0,18.0,108.0,1,0,0.38,0.0,38,40,0,0,1,0,3,48,0.0,1.85
+Ezri Konsa,28,2026-04-12,Nottingham Forest,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ezri Konsa,28,2026-04-16,Aston Villa,Bologna,8.2,90,9720.0,18.0,108.0,1,0,0.15,0.02,31,34,0,0,0,0,2,43,0.0,1.85
+Ezri Konsa,28,2026-04-19,Aston Villa,Sunderland,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,41,0,0,0,0,6,46,0.0,1.85
+Ezri Konsa,28,2026-04-25,Fulham,Aston Villa,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,99,102,0,0,0,0,4,113,0.0,1.85
+Ezri Konsa,28,2026-04-30,Nottingham Forest,Aston Villa,6.7,90,,,0.0,0,0,0.0,0.0,53,57,0,0,0,0,5,67,,
+Ezri Konsa,28,2026-05-03,Aston Villa,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Ezri Konsa,28,2026-05-07,Aston Villa,Nottingham Forest,7.3,90,,,0.0,0,0,0.0,0.0,58,59,1,0,0,0,7,65,,
+Ezri Konsa,28,2026-05-10,Burnley,Aston Villa,7.2,90,,,0.0,0,0,0.0,0.01,82,82,0,0,0,0,4,92,,
+Ezri Konsa,28,2026-05-15,Aston Villa,Liverpool FC,6.9,90,,,0.0,0,0,0.0,0.01,42,44,0,0,0,0,4,54,,

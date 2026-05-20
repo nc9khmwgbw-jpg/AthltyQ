@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Leandro Trossard,2026-02-12,Brentford,Arsenal,6.5,81,8748.0,16.0,108.0,0,0,0.17,0.11,37,47,1,0,0,0,1,61,0.0,1.83,31
-Leandro Trossard,2026-02-15,Arsenal,Wigan Athletic,6.9,28,3024.0,6.0,108.0,0,0,0.0,0.0,17,17,2,0,0,0,1,26,0.0,1.98,31
-Leandro Trossard,2026-02-18,Wolverhampton,Arsenal,6.3,16,1728.0,3.0,108.0,0,0,0.02,0.0,2,4,0,0,0,0,2,11,0.0,1.74,31
-Leandro Trossard,2026-02-22,Tottenham Hotspur,Arsenal,6.0,76,8208.0,15.0,108.0,0,0,0.22,0.06,28,34,0,0,1,0,4,55,0.0,1.83,31
-Leandro Trossard,2026-03-01,Arsenal,Chelsea,6.6,56,6048.0,11.0,108.0,0,0,0.03,0.06,16,19,1,0,0,0,4,33,0.0,1.82,31
-Leandro Trossard,2026-03-04,Brighton & Hove Albion,Arsenal,6.4,30,3240.0,6.0,108.0,0,0,0.14,0.07,5,10,1,0,0,0,2,23,0.0,1.85,31
-Leandro Trossard,2026-03-07,Mansfield Town,Arsenal,6.7,38,4104.0,8.0,108.0,0,0,0.0,0.0,26,30,2,0,0,0,0,35,0.0,1.95,31
-Leandro Trossard,2026-03-17,Arsenal,Bayer 04 Leverkusen,6.5,69,7452.0,14.0,108.0,0,0,0.35,0.03,22,25,2,0,0,0,6,45,0.0,1.88,31
-Leandro Trossard,2026-03-22,Arsenal,Manchester City,6.6,82,8856.0,16.0,108.0,0,0,0.0,0.0,8,13,1,0,0,0,6,26,0.0,1.81,31
-Leandro Trossard,2026-04-07,Sporting CP,Arsenal,6.8,76,8208.0,15.0,108.0,0,0,0.06,0.03,17,20,0,0,0,0,3,36,0.0,1.83,31
-Leandro Trossard,2026-04-11,Arsenal,Bournemouth,6.5,36,3888.0,7.0,108.0,0,0,0.0,0.01,5,8,1,0,0,0,0,25,0.0,1.8,31
-Leandro Trossard,2026-04-15,Arsenal,Sporting CP,6.5,11,1188.0,2.0,108.0,0,0,0.01,0.01,10,12,0,0,0,0,1,18,0.0,1.68,31
-Leandro Trossard,2026-04-19,Manchester City,Arsenal,7.0,16,1728.0,3.0,108.0,0,0,0.0,0.09,8,10,1,0,1,0,1,15,0.0,1.74,31
-Leandro Trossard,2026-04-25,Arsenal,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,31
-Leandro Trossard,2026-04-29,Atlético Madrid,Arsenal,6.2,22,2376.0,4.0,108.0,0,0,0.13,0.02,12,12,0,0,0,0,1,20,0.0,1.68,31
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Leandro Trossard,31,2026-02-12,Brentford,Arsenal,6.5,81,8748.0,16.0,108.0,0,0,0.17,0.11,37,47,1,0,0,0,1,61,0.0,1.83
+Leandro Trossard,31,2026-02-15,Arsenal,Wigan Athletic,6.9,28,3024.0,6.0,108.0,0,0,0.0,0.0,17,17,2,0,0,0,1,26,0.0,1.98
+Leandro Trossard,31,2026-02-18,Wolverhampton,Arsenal,6.3,16,1728.0,3.0,108.0,0,0,0.02,0.0,2,4,0,0,0,0,2,11,0.0,1.74
+Leandro Trossard,31,2026-02-22,Tottenham Hotspur,Arsenal,6.0,76,8208.0,15.0,108.0,0,0,0.22,0.06,28,34,0,0,1,0,4,55,0.0,1.83
+Leandro Trossard,31,2026-03-01,Arsenal,Chelsea,6.6,56,6048.0,11.0,108.0,0,0,0.03,0.06,16,19,1,0,0,0,4,33,0.0,1.82
+Leandro Trossard,31,2026-03-04,Brighton & Hove Albion,Arsenal,6.4,30,3240.0,6.0,108.0,0,0,0.14,0.07,5,10,1,0,0,0,2,23,0.0,1.85
+Leandro Trossard,31,2026-03-07,Mansfield Town,Arsenal,6.7,38,4104.0,8.0,108.0,0,0,0.0,0.0,26,30,2,0,0,0,0,35,0.0,1.95
+Leandro Trossard,31,2026-03-17,Arsenal,Bayer 04 Leverkusen,6.5,69,7452.0,14.0,108.0,0,0,0.35,0.03,22,25,2,0,0,0,6,45,0.0,1.88
+Leandro Trossard,31,2026-03-22,Arsenal,Manchester City,6.6,82,8856.0,16.0,108.0,0,0,0.0,0.0,8,13,1,0,0,0,6,26,0.0,1.81
+Leandro Trossard,31,2026-04-07,Sporting CP,Arsenal,6.8,76,8208.0,15.0,108.0,0,0,0.06,0.03,17,20,0,0,0,0,3,36,0.0,1.83
+Leandro Trossard,31,2026-04-11,Arsenal,Bournemouth,6.5,36,3888.0,7.0,108.0,0,0,0.0,0.01,5,8,1,0,0,0,0,25,0.0,1.8
+Leandro Trossard,31,2026-04-15,Arsenal,Sporting CP,6.5,11,1188.0,2.0,108.0,0,0,0.01,0.01,10,12,0,0,0,0,1,18,0.0,1.68
+Leandro Trossard,31,2026-04-19,Manchester City,Arsenal,7.0,16,1728.0,3.0,108.0,0,0,0.0,0.09,8,10,1,0,1,0,1,15,0.0,1.74
+Leandro Trossard,31,2026-04-25,Arsenal,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Leandro Trossard,31,2026-04-29,Atlético Madrid,Arsenal,6.2,22,2376.0,4.0,108.0,0,0,0.13,0.02,12,12,0,0,0,0,1,20,0.0,1.68
+Leandro Trossard,31,2026-05-02,Arsenal,Fulham,8.3,90,,,0.0,0,0,0.11,0.64,35,38,2,0,0,0,5,58,,
+Leandro Trossard,31,2026-05-05,Arsenal,Atlético Madrid,7.5,83,,,0.0,0,0,0.05,0.04,29,31,0,0,0,0,10,47,,
+Leandro Trossard,31,2026-05-10,West Ham United,Arsenal,7.9,90,,,0.0,1,0,0.45,0.04,22,32,1,0,0,0,2,46,,

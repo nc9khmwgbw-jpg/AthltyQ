@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Nicolas Cozza,2026-01-11,Nantes,Nice,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,35,42,0,0,5,0,4,71,0,1.85,27
-Nicolas Cozza,2026-01-18,Nantes,Paris FC,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,38,0,0,1,0,6,54,0,1.85,27
-Nicolas Cozza,2026-01-25,Nantes,Nice,5.6,90,9720.0,18.0,108.0,0,0,0.01,0.1,15,25,1,0,1,0,5,48,0,1.85,27
-Nicolas Cozza,2026-01-31,Lorient,Nantes,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,57,64,0,0,0,0,7,79,0,1.85,27
-Nicolas Cozza,2026-02-07,Nantes,Olympique Lyonnais,6.3,71,7668.0,14.0,108.0,0,0,0.0,0.0,20,27,0,0,0,0,2,34,0,1.83,27
-Nicolas Cozza,2026-02-13,AS Monaco,Nantes,7.1,45,4860.0,9.0,108.0,0,0,0.0,0.12,38,40,2,0,1,0,4,46,0,1.85,27
-Nicolas Cozza,2026-02-22,Nantes,Le Havre,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,10,15,0,0,0,0,2,27,0,1.85,27
-Nicolas Cozza,2026-03-01,Lille,Nantes,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,20,0,0,0,0,2,34,0,1.85,27
-Nicolas Cozza,2026-03-07,Nantes,Angers,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.12,41,50,0,0,0,0,3,65,0,1.85,27
-Nicolas Cozza,2026-03-22,Nantes,RC Strasbourg,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,18,24,0,0,1,0,2,48,0,1.85,27
-Nicolas Cozza,2026-04-05,Metz,Nantes,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.05,12,18,2,0,1,0,1,50,0,1.85,27
-Nicolas Cozza,2026-04-11,Auxerre,Nantes,7.4,90,9720.0,18.0,108.0,0,0,0.52,0.01,28,37,0,0,2,0,6,51,0,1.85,27
-Nicolas Cozza,2026-04-19,Nantes,Stade Brestois,6.6,90,9720.0,18.0,108.0,0,0,0.15,0.01,28,32,0,0,0,0,2,41,0,1.85,27
-Nicolas Cozza,2026-04-22,Paris Saint-Germain,Nantes,6.1,90,9720.0,18.0,108.0,0,0,0.3,0.0,23,26,0,0,1,0,5,38,0,1.85,27
-Nicolas Cozza,2026-04-26,Stade Rennais,Nantes,8.1,90,9720.0,18.0,108.0,0,0,0.66,0.04,18,24,1,0,0,0,3,43,0,1.85,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nicolas Cozza,27,2026-01-11,Nantes,Nice,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,35,42,0,0,5,0,4,71,0.0,1.85
+Nicolas Cozza,27,2026-01-18,Nantes,Paris FC,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,38,0,0,1,0,6,54,0.0,1.85
+Nicolas Cozza,27,2026-01-25,Nantes,Nice,5.6,90,9720.0,18.0,108.0,0,0,0.01,0.1,15,25,1,0,1,0,5,48,0.0,1.85
+Nicolas Cozza,27,2026-01-31,Lorient,Nantes,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,57,64,0,0,0,0,7,79,0.0,1.85
+Nicolas Cozza,27,2026-02-07,Nantes,Olympique Lyonnais,6.3,71,7668.0,14.0,108.0,0,0,0.0,0.0,20,27,0,0,0,0,2,34,0.0,1.83
+Nicolas Cozza,27,2026-02-13,AS Monaco,Nantes,7.1,45,4860.0,9.0,108.0,0,0,0.0,0.12,38,40,2,0,1,0,4,46,0.0,1.85
+Nicolas Cozza,27,2026-02-22,Nantes,Le Havre,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,10,15,0,0,0,0,2,27,0.0,1.85
+Nicolas Cozza,27,2026-03-01,Lille,Nantes,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,20,0,0,0,0,2,34,0.0,1.85
+Nicolas Cozza,27,2026-03-07,Nantes,Angers,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.12,41,50,0,0,0,0,3,65,0.0,1.85
+Nicolas Cozza,27,2026-03-22,Nantes,RC Strasbourg,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,18,24,0,0,1,0,2,48,0.0,1.85
+Nicolas Cozza,27,2026-04-05,Metz,Nantes,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.05,12,18,2,0,1,0,1,50,0.0,1.85
+Nicolas Cozza,27,2026-04-11,Auxerre,Nantes,7.4,90,9720.0,18.0,108.0,0,0,0.52,0.01,28,37,0,0,2,0,6,51,0.0,1.85
+Nicolas Cozza,27,2026-04-19,Nantes,Stade Brestois,6.6,90,9720.0,18.0,108.0,0,0,0.15,0.01,28,32,0,0,0,0,2,41,0.0,1.85
+Nicolas Cozza,27,2026-04-22,Paris Saint-Germain,Nantes,6.1,90,9720.0,18.0,108.0,0,0,0.3,0.0,23,26,0,0,1,0,5,38,0.0,1.85
+Nicolas Cozza,27,2026-04-26,Stade Rennais,Nantes,8.1,90,9720.0,18.0,108.0,0,0,0.66,0.04,18,24,1,0,0,0,3,43,0.0,1.85
+Nicolas Cozza,27,2026-05-02,Nantes,Olympique de Marseille,7.3,90,,,0.0,0,0,0.12,0.02,25,29,0,0,0,0,3,44,,
+Nicolas Cozza,27,2026-05-08,RC Lens,Nantes,6.1,90,,,0.0,0,0,0.0,0.0,15,19,0,0,1,0,5,37,,

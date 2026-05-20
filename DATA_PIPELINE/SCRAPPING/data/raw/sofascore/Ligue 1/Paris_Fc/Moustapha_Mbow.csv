@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Moustapha Mbow,2026-01-18,Nantes,Paris FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,48,59,1,0,1,0,4,71,0,1.85,26
-Moustapha Mbow,2026-01-25,Paris FC,Angers,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.02,85,94,0,0,3,0,4,105,0,1.85,26
-Moustapha Mbow,2026-01-31,Paris FC,Olympique de Marseille,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.18,55,61,1,0,0,0,6,75,0,1.85,26
-Moustapha Mbow,2026-02-04,Lorient,Paris FC,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,75,77,0,0,2,0,8,90,0,1.85,26
-Moustapha Mbow,2026-02-08,Auxerre,Paris FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,44,0,0,2,0,5,64,0,1.85,26
-Moustapha Mbow,2026-02-14,Paris FC,RC Lens,6.1,16,1728.0,3.0,108.0,0,0,0.0,0.0,15,16,0,0,0,0,2,18,0,1.74,26
-Moustapha Mbow,2026-02-21,Toulouse,Paris FC,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,42,0,0,0,0,4,63,0,1.85,26
-Moustapha Mbow,2026-03-01,Paris FC,Nice,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,34,0,0,3,0,4,48,0,1.85,26
-Moustapha Mbow,2026-03-08,Olympique Lyonnais,Paris FC,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,29,0,0,1,0,1,43,0,1.85,26
-Moustapha Mbow,2026-03-15,RC Strasbourg,Paris FC,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,40,0,0,0,0,2,51,0,1.85,26
-Moustapha Mbow,2026-03-22,Paris FC,Le Havre,6.4,90,9720.0,18.0,108.0,0,0,0.04,0.01,13,16,0,0,0,0,4,22,0,1.85,26
-Moustapha Mbow,2026-04-05,Lorient,Paris FC,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,54,57,0,0,2,0,5,70,0,1.85,26
-Moustapha Mbow,2026-04-10,Paris FC,AS Monaco,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,21,0,0,2,0,4,38,0,1.85,26
-Moustapha Mbow,2026-04-19,Metz,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Moustapha Mbow,2026-04-26,Paris FC,Lille,6.7,90,9720.0,18.0,108.0,0,0,0.05,0.01,50,53,0,0,1,0,4,67,0,1.85,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Moustapha Mbow,26,2026-01-18,Nantes,Paris FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,48,59,1,0,1,0,4,71,0.0,1.85
+Moustapha Mbow,26,2026-01-25,Paris FC,Angers,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.02,85,94,0,0,3,0,4,105,0.0,1.85
+Moustapha Mbow,26,2026-01-31,Paris FC,Olympique de Marseille,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.18,55,61,1,0,0,0,6,75,0.0,1.85
+Moustapha Mbow,26,2026-02-04,Lorient,Paris FC,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,75,77,0,0,2,0,8,90,0.0,1.85
+Moustapha Mbow,26,2026-02-08,Auxerre,Paris FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,44,0,0,2,0,5,64,0.0,1.85
+Moustapha Mbow,26,2026-02-14,Paris FC,RC Lens,6.1,16,1728.0,3.0,108.0,0,0,0.0,0.0,15,16,0,0,0,0,2,18,0.0,1.74
+Moustapha Mbow,26,2026-02-21,Toulouse,Paris FC,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,42,0,0,0,0,4,63,0.0,1.85
+Moustapha Mbow,26,2026-03-01,Paris FC,Nice,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,34,0,0,3,0,4,48,0.0,1.85
+Moustapha Mbow,26,2026-03-08,Olympique Lyonnais,Paris FC,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,29,0,0,1,0,1,43,0.0,1.85
+Moustapha Mbow,26,2026-03-15,RC Strasbourg,Paris FC,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,40,0,0,0,0,2,51,0.0,1.85
+Moustapha Mbow,26,2026-03-22,Paris FC,Le Havre,6.4,90,9720.0,18.0,108.0,0,0,0.04,0.01,13,16,0,0,0,0,4,22,0.0,1.85
+Moustapha Mbow,26,2026-04-05,Lorient,Paris FC,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,54,57,0,0,2,0,5,70,0.0,1.85
+Moustapha Mbow,26,2026-04-10,Paris FC,AS Monaco,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,21,0,0,2,0,4,38,0.0,1.85
+Moustapha Mbow,26,2026-04-19,Metz,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Moustapha Mbow,26,2026-04-26,Paris FC,Lille,6.7,90,9720.0,18.0,108.0,0,0,0.05,0.01,50,53,0,0,1,0,4,67,0.0,1.85
+Moustapha Mbow,26,2026-05-03,Paris FC,Stade Brestois,7.0,90,,,0.0,0,0,0.04,0.01,42,47,0,0,2,0,6,59,,
+Moustapha Mbow,26,2026-05-10,Stade Rennais,Paris FC,6.2,90,,,0.0,0,0,0.0,0.01,48,51,0,0,2,0,11,66,,

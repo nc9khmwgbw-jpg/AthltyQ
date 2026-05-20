@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Evander,27,2026-05-17,San Diego FC,FC Cincinnati,8.7,90,,,0.0,0,0,0.09,0.35,32,40,4,0,1,0,5,61
+Evander,27,2026-05-14,FC Cincinnati,Inter Miami CF,7.3,90,,,0.0,1,0,0.28,0.03,32,37,0,0,0,0,2,59
+Evander,27,2026-05-10,Charlotte FC,FC Cincinnati,8.0,90,,,0.0,1,0,0.31,0.48,47,57,2,0,0,0,3,75
+Evander,27,2026-05-03,Chicago Fire,FC Cincinnati,10.0,90,,,0.0,3,0,1.47,0.11,33,39,1,0,2,0,4,65
+Evander,27,2026-04-26,FC Cincinnati,New York Red Bulls,8.7,90,,,0.0,0,0,0.29,1.1,29,33,3,0,0,0,4,56
+Evander,27,2026-04-23,New York City FC,FC Cincinnati,7.6,90,,,0.0,1,0,0.99,0.1,29,38,0,0,0,0,3,70
+Evander,27,2026-04-19,FC Cincinnati,Chicago Fire,8.3,90,,,0.0,1,0,1.31,0.97,34,39,7,0,1,0,2,73
+Evander,27,2026-04-11,Toronto FC,FC Cincinnati,7.0,90,,,0.0,0,0,0.2,0.41,29,34,3,0,1,0,1,57
+Evander,27,2026-04-05,New York Red Bulls,FC Cincinnati,7.1,90,,,0.0,0,0,0.32,0.65,31,37,5,0,0,0,2,63
+Evander,27,2026-03-22,FC Cincinnati,CF Montréal,7.1,90,,,0.0,0,0,0.08,0.19,18,24,2,0,0,0,2,45
+Evander,27,2026-03-20,Tigres UANL,FC Cincinnati,6.9,87,,,0.0,0,0,0.0,0.0,24,26,4,0,0,0,2,51
+Evander,27,2026-03-15,New England Revolution,FC Cincinnati,7.4,90,,,0.0,0,0,0.2,0.17,41,47,3,0,0,0,3,64
+Evander,27,2026-03-13,FC Cincinnati,Tigres UANL,7.2,27,,,0.0,0,0,0.0,0.0,15,20,1,0,0,0,5,29
+Evander,27,2026-03-08,FC Cincinnati,Toronto FC,6.6,16,,,0.0,0,0,0.1,0.05,11,13,0,0,0,0,1,19
+Evander,27,2026-02-21,FC Cincinnati,Atlanta United,6.3,13,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,5

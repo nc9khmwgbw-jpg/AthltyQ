@@ -1,5 +1,7 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Yoann Becker,2026-02-08,Le Havre,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,17
-Yoann Becker,2026-03-19,RC Strasbourg,HNK Rijeka,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,17
-Yoann Becker,2026-04-16,RC Strasbourg,1. FSV Mainz 05,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,17
-Yoann Becker,2026-04-19,RC Strasbourg,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,17
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Yoann Becker,17,2026-02-08,Le Havre,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Yoann Becker,17,2026-03-19,RC Strasbourg,HNK Rijeka,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Yoann Becker,17,2026-04-16,RC Strasbourg,1. FSV Mainz 05,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Yoann Becker,17,2026-04-19,RC Strasbourg,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Yoann Becker,17,2026-04-30,Rayo Vallecano,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Yoann Becker,17,2026-05-07,RC Strasbourg,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

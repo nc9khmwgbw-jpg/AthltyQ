@@ -1,12 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Veljko Milosavljević,2026-01-10,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-01-19,Brighton & Hove Albion,Bournemouth,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,0.0,18
-Veljko Milosavljević,2026-01-24,Bournemouth,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-01-31,Wolverhampton,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-02-07,Bournemouth,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-02-10,Everton,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-02-21,West Ham United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Veljko Milosavljević,2026-03-20,Bournemouth,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Veljko Milosavljević,18,2026-01-10,Newcastle United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-01-19,Brighton & Hove Albion,Bournemouth,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0.0,0.0
+Veljko Milosavljević,18,2026-01-24,Bournemouth,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-01-31,Wolverhampton,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-02-07,Bournemouth,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-02-10,Everton,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-02-21,West Ham United,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-03-14,Burnley,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-03-20,Bournemouth,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Veljko Milosavljević,18,2026-03-25,England U19,Serbia U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Veljko Milosavljević,18,2026-03-28,Portugal U19,Serbia U19,,0,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Veljko Milosavljević,18,2026-03-31,Serbia U19,Poland U19,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Laurent Abergel,2025-12-07,Lorient,Olympique Lyonnais,6.8,89,9612.0,18.0,108.0,0,0,0.0,0.05,26,33,1,0,2,0,4,41,0,1.87,33
-Laurent Abergel,2025-12-14,RC Strasbourg,Lorient,7.6,90,9720.0,18.0,108.0,0,0,0.03,0.04,69,76,1,0,1,0,6,87,0,1.85,33
-Laurent Abergel,2026-01-04,Lorient,Metz,6.5,74,7992.0,15.0,108.0,0,0,0.04,0.01,33,39,0,0,0,0,2,47,0,1.88,33
-Laurent Abergel,2026-01-10,Hauts Lyonnais,Lorient,7.6,89,9612.0,18.0,108.0,0,0,0.0,0.0,67,81,0,0,2,0,5,88,0,1.87,33
-Laurent Abergel,2026-01-16,AS Monaco,Lorient,6.7,90,9720.0,18.0,108.0,0,0,0.01,0.04,51,60,2,0,2,0,6,68,0,1.85,33
-Laurent Abergel,2026-01-24,Stade Rennais,Lorient,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,31,36,0,0,2,0,4,53,0,1.85,33
-Laurent Abergel,2026-01-31,Lorient,Nantes,7.5,85,9180.0,17.0,108.0,0,0,0.0,0.05,98,108,0,0,1,0,7,123,0,1.85,33
-Laurent Abergel,2026-02-04,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Laurent Abergel,2026-02-07,Stade Brestois,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.02,0.03,73,83,1,0,0,0,9,100,0,1.85,33
-Laurent Abergel,2026-02-15,Lorient,Angers,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,87,96,0,0,3,0,4,104,0,1.85,33
-Laurent Abergel,2026-02-22,Nice,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.02,0.06,79,88,1,0,0,0,6,100,0,1.85,33
-Laurent Abergel,2026-03-01,Lorient,Auxerre,7.3,71,7668.0,14.0,108.0,0,0,0.02,0.01,60,67,0,0,3,0,7,78,0,1.83,33
-Laurent Abergel,2026-03-04,Lorient,Nice,6.8,57,6156.0,11.0,108.0,0,0,0.0,0.0,30,35,1,0,0,0,3,44,0,1.79,33
-Laurent Abergel,2026-04-18,Lorient,Olympique de Marseille,6.7,21,2268.0,4.0,108.0,0,0,0.0,0.0,20,21,0,0,0,0,1,21,0,1.76,33
-Laurent Abergel,2026-04-26,Lorient,RC Strasbourg,6.0,70,7560.0,14.0,108.0,0,0,0.0,0.0,21,25,0,0,1,0,3,30,0,1.85,33
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Laurent Abergel,33,2025-12-07,Lorient,Olympique Lyonnais,6.8,89,9612.0,18.0,108.0,0,0,0.0,0.05,26,33,1,0,2,0,4,41,0.0,1.87
+Laurent Abergel,33,2025-12-14,RC Strasbourg,Lorient,7.6,90,9720.0,18.0,108.0,0,0,0.03,0.04,69,76,1,0,1,0,6,87,0.0,1.85
+Laurent Abergel,33,2026-01-04,Lorient,Metz,6.5,74,7992.0,15.0,108.0,0,0,0.04,0.01,33,39,0,0,0,0,2,47,0.0,1.88
+Laurent Abergel,33,2026-01-10,Hauts Lyonnais,Lorient,7.6,89,9612.0,18.0,108.0,0,0,0.0,0.0,67,81,0,0,2,0,5,88,0.0,1.87
+Laurent Abergel,33,2026-01-16,AS Monaco,Lorient,6.7,90,9720.0,18.0,108.0,0,0,0.01,0.04,51,60,2,0,2,0,6,68,0.0,1.85
+Laurent Abergel,33,2026-01-24,Stade Rennais,Lorient,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,31,36,0,0,2,0,4,53,0.0,1.85
+Laurent Abergel,33,2026-01-31,Lorient,Nantes,7.5,85,9180.0,17.0,108.0,0,0,0.0,0.05,98,108,0,0,1,0,7,123,0.0,1.85
+Laurent Abergel,33,2026-02-04,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Laurent Abergel,33,2026-02-07,Stade Brestois,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.02,0.03,73,83,1,0,0,0,9,100,0.0,1.85
+Laurent Abergel,33,2026-02-15,Lorient,Angers,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,87,96,0,0,3,0,4,104,0.0,1.85
+Laurent Abergel,33,2026-02-22,Nice,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.02,0.06,79,88,1,0,0,0,6,100,0.0,1.85
+Laurent Abergel,33,2026-03-01,Lorient,Auxerre,7.3,71,7668.0,14.0,108.0,0,0,0.02,0.01,60,67,0,0,3,0,7,78,0.0,1.83
+Laurent Abergel,33,2026-03-04,Lorient,Nice,6.8,57,6156.0,11.0,108.0,0,0,0.0,0.0,30,35,1,0,0,0,3,44,0.0,1.79
+Laurent Abergel,33,2026-04-18,Lorient,Olympique de Marseille,6.7,21,2268.0,4.0,108.0,0,0,0.0,0.0,20,21,0,0,0,0,1,21,0.0,1.76
+Laurent Abergel,33,2026-04-26,Lorient,RC Strasbourg,6.0,70,7560.0,14.0,108.0,0,0,0.0,0.0,21,25,0,0,1,0,3,30,0.0,1.85
+Laurent Abergel,33,2026-05-02,Paris Saint-Germain,Lorient,6.7,90,,,0.0,0,0,0.0,0.01,21,25,0,0,2,0,3,33,,
+Laurent Abergel,33,2026-05-10,Metz,Lorient,6.9,90,,,0.0,0,0,0.07,0.03,63,75,0,0,0,0,6,85,,

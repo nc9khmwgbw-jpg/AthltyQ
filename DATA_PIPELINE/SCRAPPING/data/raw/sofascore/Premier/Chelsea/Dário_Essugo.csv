@@ -1,15 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Dário Essugo,2025-08-08,Chelsea,Bayer 04 Leverkusen,6.9,45,4860.0,9.0,108.0,0,0,0.0,0.0,36,38,2,0,0,0,3,42,0,1.85,21
-Dário Essugo,2025-08-10,Chelsea,Milan,7.1,17,1836.0,3.0,108.0,0,0,0.0,0.0,14,14,1,0,1,0,2,19,0,1.63,21
-Dário Essugo,2025-08-17,Chelsea,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Dário Essugo,2025-08-22,West Ham United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Dário Essugo,2025-08-30,Chelsea,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Dário Essugo,2026-01-10,Charlton Athletic,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Dário Essugo,2026-01-14,Chelsea,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Dário Essugo,2026-03-07,Wrexham,Chelsea,7.5,55,5940.0,11.0,108.0,0,0,0.0,0.0,53,55,2,0,1,0,2,64,0,1.85,21
-Dário Essugo,2026-03-21,Everton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Dário Essugo,2026-04-04,Chelsea,Port Vale,6.8,28,3024.0,6.0,108.0,0,0,0.0,0.0,13,13,1,0,0,0,1,14,0,1.98,21
-Dário Essugo,2026-04-12,Chelsea,Manchester City,7.1,8,864.0,2.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,0,13,0,2.31,21
-Dário Essugo,2026-04-18,Chelsea,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Dário Essugo,2026-04-21,Brighton & Hove Albion,Chelsea,6.7,17,1836.0,3.0,108.0,0,0,0.0,0.01,13,17,0,0,0,0,0,20,0,1.63,21
-Dário Essugo,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Dário Essugo,21,2025-08-08,Chelsea,Bayer 04 Leverkusen,6.9,45,4860.0,9.0,108.0,0,0,0.0,0.0,36,38,2,0,0,0,3,42,0.0,1.85
+Dário Essugo,21,2025-08-10,Chelsea,Milan,7.1,17,1836.0,3.0,108.0,0,0,0.0,0.0,14,14,1,0,1,0,2,19,0.0,1.63
+Dário Essugo,21,2025-08-17,Chelsea,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2025-08-22,West Ham United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2025-08-30,Chelsea,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2026-01-10,Charlton Athletic,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2026-01-14,Chelsea,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2026-03-07,Wrexham,Chelsea,7.5,55,5940.0,11.0,108.0,0,0,0.0,0.0,53,55,2,0,1,0,2,64,0.0,1.85
+Dário Essugo,21,2026-03-21,Everton,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2026-04-04,Chelsea,Port Vale,6.8,28,3024.0,6.0,108.0,0,0,0.0,0.0,13,13,1,0,0,0,1,14,0.0,1.98
+Dário Essugo,21,2026-04-12,Chelsea,Manchester City,7.1,8,864.0,2.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,0,13,0.0,2.31
+Dário Essugo,21,2026-04-18,Chelsea,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2026-04-21,Brighton & Hove Albion,Chelsea,6.7,17,1836.0,3.0,108.0,0,0,0.0,0.01,13,17,0,0,0,0,0,20,0.0,1.63
+Dário Essugo,21,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dário Essugo,21,2026-05-04,Chelsea,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

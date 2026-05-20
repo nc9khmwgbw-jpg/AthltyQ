@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Harry Winks,30,2026-05-02,Blackburn Rovers,Leicester City,7.2,90,,,0.0,0,0,0.01,0.24,53,56,2,0,2,0,5,63
+Harry Winks,30,2026-04-24,Leicester City,Millwall,7.2,90,,,0.0,0,0,0.07,0.04,52,58,0,0,0,0,6,69
+Harry Winks,30,2026-04-21,Leicester City,Hull City,6.4,29,,,0.0,0,0,0.03,0.02,15,19,0,0,0,0,1,26
+Harry Winks,30,2026-04-18,Portsmouth,Leicester City,7.1,90,,,0.0,0,0,0.02,0.35,24,30,2,0,0,0,4,40
+Harry Winks,30,2026-04-11,Leicester City,Swansea City,7.4,90,,,0.0,0,0,0.03,0.12,65,76,2,0,0,0,4,92
+Harry Winks,30,2026-04-06,Sheffield Wednesday,Leicester City,6.8,90,,,0.0,0,0,0.05,0.48,77,84,0,0,0,0,4,100
+Harry Winks,30,2026-04-03,Leicester City,Preston North End,7.0,90,,,0.0,0,0,0.19,0.02,47,54,2,0,0,0,2,71
+Harry Winks,30,2026-03-21,Watford,Leicester City,7.0,90,,,0.0,0,0,0.02,0.03,42,47,0,0,1,0,7,55
+Harry Winks,30,2026-03-14,Leicester City,Queens Park Rangers,6.6,29,,,0.0,0,0,0.0,0.01,22,24,0,0,0,0,1,27
+Harry Winks,30,2026-03-10,Leicester City,Bristol City,6.7,22,,,0.0,0,0,0.0,0.0,14,16,0,0,1,0,3,21
+Harry Winks,30,2026-03-07,Ipswich Town,Leicester City,7.1,90,,,0.0,0,0,0.02,0.08,38,48,0,0,3,0,7,66
+Harry Winks,30,2026-02-28,Leicester City,Norwich City,7.3,90,,,0.0,0,0,0.04,0.07,66,74,1,0,0,0,9,83
+Harry Winks,30,2026-02-24,Middlesbrough,Leicester City,7.2,90,,,0.0,0,0,0.03,0.05,44,48,1,0,0,0,4,63
+Harry Winks,30,2026-02-21,Stoke City,Leicester City,7.4,90,,,0.0,1,0,0.03,0.03,41,50,0,0,1,0,4,64
+Harry Winks,30,2026-02-14,Southampton,Leicester City,7.1,53,,,0.0,0,0,0.0,0.0,53,62,1,0,1,0,3,78

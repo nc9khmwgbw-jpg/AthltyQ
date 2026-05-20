@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Joan Jordán,2025-12-14,Sevilla,Real Oviedo,,4,432.0,1.0,108.0,0,0,0.0,0.0,9,10,0,0,0,0,1,11,0,2.31,31
-Joan Jordán,2025-12-17,Deportivo Alavés,Sevilla,6.8,80,8640.0,16.0,108.0,0,0,0.0,0.0,32,36,1,0,1,0,5,44,0,1.85,31
-Joan Jordán,2025-12-20,Real Madrid,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-01-04,Sevilla,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-01-12,Sevilla,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-01-19,Elche,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-01-24,Sevilla,Athletic Club,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,1,10,0,2.06,31
-Joan Jordán,2026-02-02,Mallorca,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-02-14,Sevilla,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-03-21,Sevilla,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-04-05,Real Oviedo,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Joan Jordán,2026-04-11,Sevilla,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Joan Jordán,31,2025-12-14,Sevilla,Real Oviedo,,4,432.0,1.0,108.0,0,0,0.0,0.0,9,10,0,0,0,0,1,11,0.0,2.31
+Joan Jordán,31,2025-12-17,Deportivo Alavés,Sevilla,6.8,80,8640.0,16.0,108.0,0,0,0.0,0.0,32,36,1,0,1,0,5,44,0.0,1.85
+Joan Jordán,31,2025-12-20,Real Madrid,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-01-04,Sevilla,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-01-12,Sevilla,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-01-19,Elche,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-01-24,Sevilla,Athletic Club,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,1,10,0.0,2.06
+Joan Jordán,31,2026-02-02,Mallorca,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-02-14,Sevilla,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-03-15,FC Barcelona,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-03-21,Sevilla,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-04-05,Real Oviedo,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-04-11,Sevilla,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joan Jordán,31,2026-05-04,Sevilla,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Joan Jordán,31,2026-05-09,Sevilla,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Joan Jordán,31,2026-05-13,Villarreal,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

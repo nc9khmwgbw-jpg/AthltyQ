@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Radosław Majecki,2025-12-13,Stade Rennais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2025-12-19,Avranches,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-01-04,Stade Brestois,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-01-18,Olympique Lyonnais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-01-25,Stade Brestois,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-02-01,Nice,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-02-07,Stade Brestois,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-02-14,Lille,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-02-20,Stade Brestois,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-03-01,Metz,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-03-08,Stade Brestois,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-03-21,Auxerre,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-04-04,Stade Brestois,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-04-19,Nantes,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Radosław Majecki,2026-04-24,Stade Brestois,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Radosław Majecki,26,2025-12-13,Stade Rennais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2025-12-19,Avranches,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-01-04,Stade Brestois,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-01-18,Olympique Lyonnais,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-01-25,Stade Brestois,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-02-01,Nice,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-02-07,Stade Brestois,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-02-14,Lille,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-02-20,Stade Brestois,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-03-01,Metz,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-03-08,Stade Brestois,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-03-21,Auxerre,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-04-04,Stade Brestois,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-04-19,Nantes,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-04-24,Stade Brestois,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radosław Majecki,26,2026-05-03,Paris FC,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Radosław Majecki,26,2026-05-10,Paris Saint-Germain,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

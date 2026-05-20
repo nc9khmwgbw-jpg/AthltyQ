@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Bashir Humphreys,2026-01-10,Burnley,Millwall,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Bashir Humphreys,2026-01-17,Liverpool,Burnley,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,37,0,0,1,0,2,55,0,1.85,23
-Bashir Humphreys,2026-01-24,Burnley,Tottenham Hotspur,6.0,90,9720.0,18.0,108.0,0,0,0.03,0.0,29,37,0,0,2,0,4,51,0,1.85,23
-Bashir Humphreys,2026-02-02,Sunderland,Burnley,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,66,74,0,0,0,0,3,85,0,1.85,23
-Bashir Humphreys,2026-02-07,Burnley,West Ham United,7.0,90,9720.0,18.0,108.0,0,0,0.02,0.35,53,58,3,0,1,0,2,79,0,1.85,23
-Bashir Humphreys,2026-02-11,Crystal Palace,Burnley,7.0,90,9720.0,18.0,108.0,0,0,0.04,0.01,25,39,0,0,0,0,8,60,0,1.85,23
-Bashir Humphreys,2026-02-14,Burnley,Mansfield Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Bashir Humphreys,2026-02-21,Chelsea,Burnley,6.8,83,8964.0,17.0,108.0,0,0,0.0,0.0,18,28,0,0,2,0,2,45,0,1.9,23
-Bashir Humphreys,2026-02-28,Burnley,Brentford,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.11,26,40,1,0,0,0,3,65,0,1.85,23
-Bashir Humphreys,2026-03-03,Everton,Burnley,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,47,53,0,0,0,0,3,68,0,1.85,23
-Bashir Humphreys,2026-03-14,Burnley,Bournemouth,7.9,90,9720.0,18.0,108.0,0,0,0.1,0.03,17,24,1,0,0,0,5,37,0,1.85,23
-Bashir Humphreys,2026-03-21,Fulham,Burnley,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,48,0,0,0,0,8,61,0,1.85,23
-Bashir Humphreys,2026-04-11,Burnley,Brighton & Hove Albion,7.0,82,8856.0,16.0,108.0,0,0,0.05,0.03,34,43,2,0,1,0,4,73,0,1.81,23
-Bashir Humphreys,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Bashir Humphreys,2026-04-22,Burnley,Manchester City,6.7,82,8856.0,16.0,108.0,0,0,0.0,0.01,39,47,1,0,2,0,4,61,0,1.81,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Bashir Humphreys,23,2026-01-10,Burnley,Millwall,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Bashir Humphreys,23,2026-01-17,Liverpool,Burnley,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,37,0,0,1,0,2,55,0.0,1.85
+Bashir Humphreys,23,2026-01-24,Burnley,Tottenham Hotspur,6.0,90,9720.0,18.0,108.0,0,0,0.03,0.0,29,37,0,0,2,0,4,51,0.0,1.85
+Bashir Humphreys,23,2026-02-02,Sunderland,Burnley,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,66,74,0,0,0,0,3,85,0.0,1.85
+Bashir Humphreys,23,2026-02-07,Burnley,West Ham United,7.0,90,9720.0,18.0,108.0,0,0,0.02,0.35,53,58,3,0,1,0,2,79,0.0,1.85
+Bashir Humphreys,23,2026-02-11,Crystal Palace,Burnley,7.0,90,9720.0,18.0,108.0,0,0,0.04,0.01,25,39,0,0,0,0,8,60,0.0,1.85
+Bashir Humphreys,23,2026-02-14,Burnley,Mansfield Town,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Bashir Humphreys,23,2026-02-21,Chelsea,Burnley,6.8,83,8964.0,17.0,108.0,0,0,0.0,0.0,18,28,0,0,2,0,2,45,0.0,1.9
+Bashir Humphreys,23,2026-02-28,Burnley,Brentford,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.11,26,40,1,0,0,0,3,65,0.0,1.85
+Bashir Humphreys,23,2026-03-03,Everton,Burnley,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,47,53,0,0,0,0,3,68,0.0,1.85
+Bashir Humphreys,23,2026-03-14,Burnley,Bournemouth,7.9,90,9720.0,18.0,108.0,0,0,0.1,0.03,17,24,1,0,0,0,5,37,0.0,1.85
+Bashir Humphreys,23,2026-03-21,Fulham,Burnley,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,48,0,0,0,0,8,61,0.0,1.85
+Bashir Humphreys,23,2026-04-11,Burnley,Brighton & Hove Albion,7.0,82,8856.0,16.0,108.0,0,0,0.05,0.03,34,43,2,0,1,0,4,73,0.0,1.81
+Bashir Humphreys,23,2026-04-19,Nottingham Forest,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Bashir Humphreys,23,2026-04-22,Burnley,Manchester City,6.7,82,8856.0,16.0,108.0,0,0,0.0,0.01,39,47,1,0,2,0,4,61,0.0,1.81
+Bashir Humphreys,23,2026-05-01,Leeds United,Burnley,5.6,76,,,0.0,0,0,0.05,0.01,40,47,0,0,0,0,4,64,,
+Bashir Humphreys,23,2026-05-10,Burnley,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

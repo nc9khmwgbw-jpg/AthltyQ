@@ -1,16 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Daniel Ballard,2026-01-04,Tottenham Hotspur,Sunderland,6.5,24,2592.0,5.0,108.0,0,0,0.0,0.0,11,17,0,0,0,0,0,20,0,1.93,26
-Daniel Ballard,2026-01-07,Brentford,Sunderland,6.4,79,8532.0,16.0,108.0,0,0,0.03,0.0,39,44,0,0,2,0,1,57,0,1.88,26
-Daniel Ballard,2026-01-10,Everton,Sunderland,6.2,49,5292.0,10.0,108.0,0,0,0.0,0.0,22,27,0,0,0,0,2,36,0,1.89,26
-Daniel Ballard,2026-01-17,Sunderland,Crystal Palace,7.0,90,9720.0,18.0,108.0,0,0,0.62,0.09,41,49,2,0,2,0,2,66,0,1.85,26
-Daniel Ballard,2026-01-24,West Ham United,Sunderland,6.4,90,9720.0,18.0,108.0,0,0,0.02,0.01,57,69,0,0,0,0,1,88,0,1.85,26
-Daniel Ballard,2026-02-02,Sunderland,Burnley,7.4,90,9720.0,18.0,108.0,0,0,0.14,0.01,42,46,0,0,1,0,2,62,0,1.85,26
-Daniel Ballard,2026-02-07,Arsenal,Sunderland,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,44,55,1,0,0,0,5,69,0,1.85,26
-Daniel Ballard,2026-02-11,Sunderland,Liverpool,6.6,90,9720.0,18.0,108.0,0,0,0.05,0.0,48,52,1,0,2,0,2,69,0,1.85,26
-Daniel Ballard,2026-02-22,Sunderland,Fulham,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.06,56,64,2,0,0,0,2,81,0,1.85,26
-Daniel Ballard,2026-02-28,Bournemouth,Sunderland,7.3,90,9720.0,18.0,108.0,0,0,0.13,0.01,31,44,1,0,0,0,11,63,0,1.85,26
-Daniel Ballard,2026-03-03,Leeds United,Sunderland,6.9,90,9720.0,18.0,108.0,0,0,0.01,0.0,13,24,0,0,1,0,4,46,0,1.85,26
-Daniel Ballard,2026-03-08,Port Vale,Sunderland,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,55,68,0,0,1,0,3,84,0,1.85,26
-Daniel Ballard,2026-03-14,Sunderland,Brighton & Hove Albion,6.6,64,6912.0,13.0,108.0,0,0,0.05,0.0,21,27,2,0,3,0,6,43,0,1.88,26
-Daniel Ballard,2026-04-19,Aston Villa,Sunderland,7.2,27,2916.0,5.0,108.0,0,0,0.0,0.0,12,13,0,0,0,0,2,17,0,1.71,26
-Daniel Ballard,2026-04-24,Sunderland,Nottingham Forest,5.7,90,9720.0,18.0,108.0,0,0,0.04,0.05,39,49,0,0,1,0,1,65,0,1.85,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Daniel Ballard,26,2026-01-04,Tottenham Hotspur,Sunderland,6.5,24,2592.0,5.0,108.0,0,0,0.0,0.0,11,17,0,0,0,0,0,20,0.0,1.93
+Daniel Ballard,26,2026-01-07,Brentford,Sunderland,6.4,79,8532.0,16.0,108.0,0,0,0.03,0.0,39,44,0,0,2,0,1,57,0.0,1.88
+Daniel Ballard,26,2026-01-10,Everton,Sunderland,6.2,49,5292.0,10.0,108.0,0,0,0.0,0.0,22,27,0,0,0,0,2,36,0.0,1.89
+Daniel Ballard,26,2026-01-17,Sunderland,Crystal Palace,7.0,90,9720.0,18.0,108.0,0,0,0.62,0.09,41,49,2,0,2,0,2,66,0.0,1.85
+Daniel Ballard,26,2026-01-24,West Ham United,Sunderland,6.4,90,9720.0,18.0,108.0,0,0,0.02,0.01,57,69,0,0,0,0,1,88,0.0,1.85
+Daniel Ballard,26,2026-02-02,Sunderland,Burnley,7.4,90,9720.0,18.0,108.0,0,0,0.14,0.01,42,46,0,0,1,0,2,62,0.0,1.85
+Daniel Ballard,26,2026-02-07,Arsenal,Sunderland,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,44,55,1,0,0,0,5,69,0.0,1.85
+Daniel Ballard,26,2026-02-11,Sunderland,Liverpool,6.6,90,9720.0,18.0,108.0,0,0,0.05,0.0,48,52,1,0,2,0,2,69,0.0,1.85
+Daniel Ballard,26,2026-02-22,Sunderland,Fulham,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.06,56,64,2,0,0,0,2,81,0.0,1.85
+Daniel Ballard,26,2026-02-28,Bournemouth,Sunderland,7.3,90,9720.0,18.0,108.0,0,0,0.13,0.01,31,44,1,0,0,0,11,63,0.0,1.85
+Daniel Ballard,26,2026-03-03,Leeds United,Sunderland,6.9,90,9720.0,18.0,108.0,0,0,0.01,0.0,13,24,0,0,1,0,4,46,0.0,1.85
+Daniel Ballard,26,2026-03-08,Port Vale,Sunderland,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,55,68,0,0,1,0,3,84,0.0,1.85
+Daniel Ballard,26,2026-03-14,Sunderland,Brighton & Hove Albion,6.6,64,6912.0,13.0,108.0,0,0,0.05,0.0,21,27,2,0,3,0,6,43,0.0,1.88
+Daniel Ballard,26,2026-04-19,Aston Villa,Sunderland,7.2,27,2916.0,5.0,108.0,0,0,0.0,0.0,12,13,0,0,0,0,2,17,0.0,1.71
+Daniel Ballard,26,2026-04-24,Sunderland,Nottingham Forest,5.7,90,9720.0,18.0,108.0,0,0,0.04,0.05,39,49,0,0,1,0,1,65,0.0,1.85
+Daniel Ballard,26,2026-05-02,Wolverhampton,Sunderland,4.3,24,,,0.0,0,0,0.0,0.0,10,12,0,0,0,0,0,14,,

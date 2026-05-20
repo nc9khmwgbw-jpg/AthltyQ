@@ -1,15 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ross Barkley,2025-11-27,Aston Villa,BSC Young Boys,6.9,30,3240.0,6.0,108.0,0,0,0.05,0.33,19,22,1,0,0,0,5,26,0,1.85,32
-Ross Barkley,2025-11-30,Aston Villa,Wolverhampton,6.7,13,1404.0,3.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,4,0,2.14,32
-Ross Barkley,2026-02-01,Aston Villa,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Ross Barkley,2026-02-07,Bournemouth,Aston Villa,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.0,6,7,1,0,1,0,0,12,0,2.14,32
-Ross Barkley,2026-02-11,Aston Villa,Brighton & Hove Albion,6.5,30,3240.0,6.0,108.0,0,0,0.02,0.02,6,7,0,0,1,0,1,12,0,1.85,32
-Ross Barkley,2026-02-14,Aston Villa,Newcastle United,6.6,65,7020.0,13.0,108.0,0,0,0.0,0.0,12,14,0,0,1,0,4,26,0,1.85,32
-Ross Barkley,2026-02-21,Aston Villa,Leeds United,7.4,29,3132.0,6.0,108.0,0,0,0.1,0.11,25,30,1,0,0,0,2,38,0,1.92,32
-Ross Barkley,2026-02-27,Wolverhampton,Aston Villa,7.1,30,3240.0,6.0,108.0,0,0,0.0,0.07,21,24,1,0,0,0,1,31,0,1.85,32
-Ross Barkley,2026-03-04,Aston Villa,Chelsea,7.0,27,2916.0,5.0,108.0,0,0,0.01,0.33,25,28,1,0,0,0,1,31,0,1.71,32
-Ross Barkley,2026-03-15,Manchester United,Aston Villa,8.3,82,8856.0,16.0,108.0,1,0,0.11,0.05,54,60,0,0,0,0,6,73,0,1.81,32
-Ross Barkley,2026-03-22,Aston Villa,West Ham United,7.5,67,7236.0,13.0,108.0,0,0,0.04,0.4,37,42,1,0,0,0,4,53,0,1.8,32
-Ross Barkley,2026-04-12,Nottingham Forest,Aston Villa,7.0,77,8316.0,15.0,108.0,0,0,0.02,0.03,22,24,0,0,0,0,4,38,0,1.8,32
-Ross Barkley,2026-04-19,Aston Villa,Sunderland,6.4,70,7560.0,14.0,108.0,0,0,0.06,0.01,15,16,0,0,0,0,3,27,0,1.85,32
-Ross Barkley,2026-04-25,Fulham,Aston Villa,6.4,16,1728.0,3.0,108.0,0,0,0.0,0.0,7,10,0,0,0,0,1,10,0,1.74,32
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ross Barkley,32,2025-11-27,Aston Villa,BSC Young Boys,6.9,30,3240.0,6.0,108.0,0,0,0.05,0.33,19,22,1,0,0,0,5,26,0.0,1.85
+Ross Barkley,32,2025-11-30,Aston Villa,Wolverhampton,6.7,13,1404.0,3.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,4,0.0,2.14
+Ross Barkley,32,2026-02-01,Aston Villa,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ross Barkley,32,2026-02-07,Bournemouth,Aston Villa,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.0,6,7,1,0,1,0,0,12,0.0,2.14
+Ross Barkley,32,2026-02-11,Aston Villa,Brighton & Hove Albion,6.5,30,3240.0,6.0,108.0,0,0,0.02,0.02,6,7,0,0,1,0,1,12,0.0,1.85
+Ross Barkley,32,2026-02-14,Aston Villa,Newcastle United,6.6,65,7020.0,13.0,108.0,0,0,0.0,0.0,12,14,0,0,1,0,4,26,0.0,1.85
+Ross Barkley,32,2026-02-21,Aston Villa,Leeds United,7.4,29,3132.0,6.0,108.0,0,0,0.1,0.11,25,30,1,0,0,0,2,38,0.0,1.92
+Ross Barkley,32,2026-02-27,Wolverhampton,Aston Villa,7.1,30,3240.0,6.0,108.0,0,0,0.0,0.07,21,24,1,0,0,0,1,31,0.0,1.85
+Ross Barkley,32,2026-03-04,Aston Villa,Chelsea,7.0,27,2916.0,5.0,108.0,0,0,0.01,0.33,25,28,1,0,0,0,1,31,0.0,1.71
+Ross Barkley,32,2026-03-15,Manchester United,Aston Villa,8.3,82,8856.0,16.0,108.0,1,0,0.11,0.05,54,60,0,0,0,0,6,73,0.0,1.81
+Ross Barkley,32,2026-03-22,Aston Villa,West Ham United,7.5,67,7236.0,13.0,108.0,0,0,0.04,0.4,37,42,1,0,0,0,4,53,0.0,1.8
+Ross Barkley,32,2026-04-12,Nottingham Forest,Aston Villa,7.0,77,8316.0,15.0,108.0,0,0,0.02,0.03,22,24,0,0,0,0,4,38,0.0,1.8
+Ross Barkley,32,2026-04-19,Aston Villa,Sunderland,6.4,70,7560.0,14.0,108.0,0,0,0.06,0.01,15,16,0,0,0,0,3,27,0.0,1.85
+Ross Barkley,32,2026-04-25,Fulham,Aston Villa,6.4,16,1728.0,3.0,108.0,0,0,0.0,0.0,7,10,0,0,0,0,1,10,0.0,1.74
+Ross Barkley,32,2026-05-03,Aston Villa,Tottenham Hotspur,5.7,85,,,0.0,0,0,0.0,0.01,20,24,1,0,0,0,4,35,,
+Ross Barkley,32,2026-05-10,Burnley,Aston Villa,6.8,80,,,0.0,1,0,0.75,0.05,31,35,1,0,0,0,4,45,,
+Ross Barkley,32,2026-05-15,Aston Villa,Liverpool FC,6.6,45,,,0.0,0,0,0.03,0.01,21,22,0,0,0,0,3,28,,

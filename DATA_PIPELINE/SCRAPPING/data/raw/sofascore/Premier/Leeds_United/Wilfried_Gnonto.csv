@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Wilfried Gnonto,2026-01-31,Leeds United,Arsenal,6.4,9,972.0,2.0,108.0,0,0,0.0,0.01,7,7,0,0,0,0,0,8,0,2.06,22
-Wilfried Gnonto,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Wilfried Gnonto,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Wilfried Gnonto,2026-02-15,Birmingham City,Leeds United,6.5,68,7344.0,14.0,108.0,0,0,0.0,0.0,13,19,0,0,0,0,3,32,0,1.91,22
-Wilfried Gnonto,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Wilfried Gnonto,2026-02-28,Leeds United,Manchester City,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.01,4,6,0,0,0,0,1,9,0,1.85,22
-Wilfried Gnonto,2026-03-03,Leeds United,Sunderland,6.5,16,1728.0,3.0,108.0,0,0,0.04,0.01,8,9,0,0,1,0,2,20,0,1.74,22
-Wilfried Gnonto,2026-03-08,Leeds United,Norwich City,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,29,1,0,0,0,1,44,0,1.85,22
-Wilfried Gnonto,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Wilfried Gnonto,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Wilfried Gnonto,2026-04-05,West Ham United,Leeds United,7.6,51,5508.0,10.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,4,29,0,1.82,22
-Wilfried Gnonto,2026-04-13,Manchester United,Leeds United,6.6,16,1728.0,3.0,108.0,0,0,0.0,0.02,15,18,0,0,0,0,1,27,0,1.74,22
-Wilfried Gnonto,2026-04-18,Leeds United,Wolverhampton,6.4,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,10,1,0,0,0,1,17,0,2.01,22
-Wilfried Gnonto,2026-04-22,Bournemouth,Leeds United,6.7,26,2808.0,5.0,108.0,0,0,0.09,0.13,6,10,1,0,0,0,2,18,0,1.78,22
-Wilfried Gnonto,2026-04-26,Chelsea,Leeds United,6.5,16,1728.0,3.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,1,7,0,1.74,22
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Wilfried Gnonto,22,2026-01-31,Leeds United,Arsenal,6.4,9,972.0,2.0,108.0,0,0,0.0,0.01,7,7,0,0,0,0,0,8,0.0,2.06
+Wilfried Gnonto,22,2026-02-06,Leeds United,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Wilfried Gnonto,22,2026-02-10,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Wilfried Gnonto,22,2026-02-15,Birmingham City,Leeds United,6.5,68,7344.0,14.0,108.0,0,0,0.0,0.0,13,19,0,0,0,0,3,32,0.0,1.91
+Wilfried Gnonto,22,2026-02-21,Aston Villa,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Wilfried Gnonto,22,2026-02-28,Leeds United,Manchester City,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.01,4,6,0,0,0,0,1,9,0.0,1.85
+Wilfried Gnonto,22,2026-03-03,Leeds United,Sunderland,6.5,16,1728.0,3.0,108.0,0,0,0.04,0.01,8,9,0,0,1,0,2,20,0.0,1.74
+Wilfried Gnonto,22,2026-03-08,Leeds United,Norwich City,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,29,1,0,0,0,1,44,0.0,1.85
+Wilfried Gnonto,22,2026-03-15,Crystal Palace,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Wilfried Gnonto,22,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Wilfried Gnonto,22,2026-04-05,West Ham United,Leeds United,7.6,51,5508.0,10.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,4,29,0.0,1.82
+Wilfried Gnonto,22,2026-04-13,Manchester United,Leeds United,6.6,16,1728.0,3.0,108.0,0,0,0.0,0.02,15,18,0,0,0,0,1,27,0.0,1.74
+Wilfried Gnonto,22,2026-04-18,Leeds United,Wolverhampton,6.4,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,10,1,0,0,0,1,17,0.0,2.01
+Wilfried Gnonto,22,2026-04-22,Bournemouth,Leeds United,6.7,26,2808.0,5.0,108.0,0,0,0.09,0.13,6,10,1,0,0,0,2,18,0.0,1.78
+Wilfried Gnonto,22,2026-04-26,Chelsea,Leeds United,6.5,16,1728.0,3.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,1,7,0.0,1.74
+Wilfried Gnonto,22,2026-05-01,Leeds United,Burnley,,1,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,1,1,,
+Wilfried Gnonto,22,2026-05-11,Tottenham Hotspur,Leeds United,6.6,27,,,0.0,0,0,0.0,0.01,7,10,1,0,0,0,2,17,,

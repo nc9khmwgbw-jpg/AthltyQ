@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Pascal Struijk,2026-01-17,Leeds United,Fulham,6.8,90,9720.0,18.0,108.0,0,0,0.15,0.0,46,55,0,0,0,0,4,66,0,1.85,26
-Pascal Struijk,2026-01-26,Everton,Leeds United,7.3,90,9720.0,18.0,108.0,0,0,0.04,0.04,45,53,0,0,2,0,6,77,0,1.85,26
-Pascal Struijk,2026-01-31,Leeds United,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.1,0.0,44,49,0,0,4,0,2,70,0,1.85,26
-Pascal Struijk,2026-02-06,Leeds United,Nottingham Forest,7.2,90,9720.0,18.0,108.0,0,0,0.11,0.01,68,75,0,0,0,0,3,94,0,1.85,26
-Pascal Struijk,2026-02-21,Aston Villa,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,36,0,0,1,0,1,50,0,1.85,26
-Pascal Struijk,2026-02-28,Leeds United,Manchester City,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,41,48,1,0,2,0,4,57,0,1.85,26
-Pascal Struijk,2026-03-03,Leeds United,Sunderland,6.4,90,9720.0,18.0,108.0,0,0,0.06,0.06,84,93,1,0,0,0,4,97,0,1.85,26
-Pascal Struijk,2026-03-08,Leeds United,Norwich City,7.0,20,2160.0,4.0,108.0,0,0,0.0,0.0,10,11,0,0,2,0,1,16,0,1.85,26
-Pascal Struijk,2026-03-15,Crystal Palace,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,32,0,0,2,0,4,51,0,1.85,26
-Pascal Struijk,2026-03-21,Leeds United,Brentford,7.5,83,8964.0,17.0,108.0,0,0,0.05,0.18,52,63,1,0,1,0,2,81,0,1.9,26
-Pascal Struijk,2026-04-05,West Ham United,Leeds United,7.5,120,12960.0,24.0,108.0,0,0,0.0,0.0,47,57,3,0,1,0,2,78,0,1.85,26
-Pascal Struijk,2026-04-13,Manchester United,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.23,0.0,48,49,0,0,0,0,4,64,0,1.85,26
-Pascal Struijk,2026-04-18,Leeds United,Wolverhampton,7.2,90,9720.0,18.0,108.0,0,0,0.17,0.0,54,57,1,0,1,0,1,69,0,1.85,26
-Pascal Struijk,2026-04-22,Bournemouth,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,26,0,0,0,0,3,47,0,1.85,26
-Pascal Struijk,2026-04-26,Chelsea,Leeds United,5.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,61,73,1,0,0,0,2,83,0,1.85,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pascal Struijk,26,2026-01-17,Leeds United,Fulham,6.8,90,9720.0,18.0,108.0,0,0,0.15,0.0,46,55,0,0,0,0,4,66,0.0,1.85
+Pascal Struijk,26,2026-01-26,Everton,Leeds United,7.3,90,9720.0,18.0,108.0,0,0,0.04,0.04,45,53,0,0,2,0,6,77,0.0,1.85
+Pascal Struijk,26,2026-01-31,Leeds United,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.1,0.0,44,49,0,0,4,0,2,70,0.0,1.85
+Pascal Struijk,26,2026-02-06,Leeds United,Nottingham Forest,7.2,90,9720.0,18.0,108.0,0,0,0.11,0.01,68,75,0,0,0,0,3,94,0.0,1.85
+Pascal Struijk,26,2026-02-21,Aston Villa,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,36,0,0,1,0,1,50,0.0,1.85
+Pascal Struijk,26,2026-02-28,Leeds United,Manchester City,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,41,48,1,0,2,0,4,57,0.0,1.85
+Pascal Struijk,26,2026-03-03,Leeds United,Sunderland,6.4,90,9720.0,18.0,108.0,0,0,0.06,0.06,84,93,1,0,0,0,4,97,0.0,1.85
+Pascal Struijk,26,2026-03-08,Leeds United,Norwich City,7.0,20,2160.0,4.0,108.0,0,0,0.0,0.0,10,11,0,0,2,0,1,16,0.0,1.85
+Pascal Struijk,26,2026-03-15,Crystal Palace,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,32,0,0,2,0,4,51,0.0,1.85
+Pascal Struijk,26,2026-03-21,Leeds United,Brentford,7.5,83,8964.0,17.0,108.0,0,0,0.05,0.18,52,63,1,0,1,0,2,81,0.0,1.9
+Pascal Struijk,26,2026-04-05,West Ham United,Leeds United,7.5,120,12960.0,24.0,108.0,0,0,0.0,0.0,47,57,3,0,1,0,2,78,0.0,1.85
+Pascal Struijk,26,2026-04-13,Manchester United,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.23,0.0,48,49,0,0,0,0,4,64,0.0,1.85
+Pascal Struijk,26,2026-04-18,Leeds United,Wolverhampton,7.2,90,9720.0,18.0,108.0,0,0,0.17,0.0,54,57,1,0,1,0,1,69,0.0,1.85
+Pascal Struijk,26,2026-04-22,Bournemouth,Leeds United,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,26,0,0,0,0,3,47,0.0,1.85
+Pascal Struijk,26,2026-04-26,Chelsea,Leeds United,5.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,61,73,1,0,0,0,2,83,0.0,1.85
+Pascal Struijk,26,2026-05-01,Leeds United,Burnley,6.1,90,,,0.0,0,0,0.05,0.02,58,69,0,0,0,0,3,74,,
+Pascal Struijk,26,2026-05-11,Tottenham Hotspur,Leeds United,6.9,56,,,0.0,0,0,0.04,0.01,16,18,0,0,1,0,4,28,,

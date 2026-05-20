@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Hakon Arnar Haraldsson,2026-02-19,Lille,FK Crvena zvezda,6.1,45,4860.0,9.0,108.0,0,0,0.03,0.03,19,23,0,0,0,0,1,30,0,1.85,23
-Hakon Arnar Haraldsson,2026-02-22,Angers,Lille,6.6,17,1836.0,3.0,108.0,0,0,0.0,0.0,6,9,0,0,0,0,2,13,0,1.63,23
-Hakon Arnar Haraldsson,2026-02-26,FK Crvena zvezda,Lille,6.6,95,10260.0,19.0,108.0,0,0,0.02,0.03,21,30,1,0,0,0,6,45,0,1.85,23
-Hakon Arnar Haraldsson,2026-03-01,Lille,Nantes,6.7,74,7992.0,15.0,108.0,0,0,0.0,0.07,20,25,1,0,1,0,2,32,0,1.88,23
-Hakon Arnar Haraldsson,2026-03-08,Lille,Lorient,6.8,88,9504.0,18.0,108.0,0,0,0.0,0.06,38,43,1,0,1,0,6,54,0,1.89,23
-Hakon Arnar Haraldsson,2026-03-12,Lille,Aston Villa,6.1,83,8964.0,17.0,108.0,0,0,0.0,0.02,21,24,0,0,0,0,3,35,0,1.9,23
-Hakon Arnar Haraldsson,2026-03-15,Stade Rennais,Lille,7.5,89,9612.0,18.0,108.0,1,0,0.88,0.27,25,31,2,0,1,0,8,44,0,1.87,23
-Hakon Arnar Haraldsson,2026-03-19,Aston Villa,Lille,6.2,24,2592.0,5.0,108.0,0,0,0.0,0.15,17,21,1,0,0,0,1,27,0,1.93,23
-Hakon Arnar Haraldsson,2026-03-22,Olympique de Marseille,Lille,6.5,89,9612.0,18.0,108.0,0,0,0.29,0.05,33,38,3,0,0,0,2,47,0,1.87,23
-Hakon Arnar Haraldsson,2026-03-28,Canada,Iceland,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,32,1,0,0,0,3,47,0,1.85,23
-Hakon Arnar Haraldsson,2026-04-04,Lille,RC Lens,7.9,73,7884.0,15.0,108.0,1,0,1.05,0.18,29,35,2,0,0,0,2,50,0,1.9,23
-Hakon Arnar Haraldsson,2026-04-12,Toulouse,Lille,6.3,90,9720.0,18.0,108.0,0,0,0.24,0.11,47,50,1,0,0,0,5,62,0,1.85,23
-Hakon Arnar Haraldsson,2026-04-18,Lille,Nice,7.4,90,9720.0,18.0,108.0,0,0,0.1,0.08,48,51,2,0,0,0,10,66,0,1.85,23
-Hakon Arnar Haraldsson,2026-04-26,Paris FC,Lille,6.6,78,8424.0,16.0,108.0,0,0,0.08,0.06,39,46,1,0,0,0,3,59,0,1.9,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Hakon Arnar Haraldsson,23,2026-02-19,Lille,FK Crvena zvezda,6.1,45,4860.0,9.0,108.0,0,0,0.03,0.03,19,23,0,0,0,0,1,30,0.0,1.85
+Hakon Arnar Haraldsson,23,2026-02-22,Angers,Lille,6.6,17,1836.0,3.0,108.0,0,0,0.0,0.0,6,9,0,0,0,0,2,13,0.0,1.63
+Hakon Arnar Haraldsson,23,2026-02-26,FK Crvena zvezda,Lille,6.6,95,10260.0,19.0,108.0,0,0,0.02,0.03,21,30,1,0,0,0,6,45,0.0,1.85
+Hakon Arnar Haraldsson,23,2026-03-01,Lille,Nantes,6.7,74,7992.0,15.0,108.0,0,0,0.0,0.07,20,25,1,0,1,0,2,32,0.0,1.88
+Hakon Arnar Haraldsson,23,2026-03-08,Lille,Lorient,6.8,88,9504.0,18.0,108.0,0,0,0.0,0.06,38,43,1,0,1,0,6,54,0.0,1.89
+Hakon Arnar Haraldsson,23,2026-03-12,Lille,Aston Villa,6.1,83,8964.0,17.0,108.0,0,0,0.0,0.02,21,24,0,0,0,0,3,35,0.0,1.9
+Hakon Arnar Haraldsson,23,2026-03-15,Stade Rennais,Lille,7.5,89,9612.0,18.0,108.0,1,0,0.88,0.27,25,31,2,0,1,0,8,44,0.0,1.87
+Hakon Arnar Haraldsson,23,2026-03-19,Aston Villa,Lille,6.2,24,2592.0,5.0,108.0,0,0,0.0,0.15,17,21,1,0,0,0,1,27,0.0,1.93
+Hakon Arnar Haraldsson,23,2026-03-22,Olympique de Marseille,Lille,6.5,89,9612.0,18.0,108.0,0,0,0.29,0.05,33,38,3,0,0,0,2,47,0.0,1.87
+Hakon Arnar Haraldsson,23,2026-03-28,Canada,Iceland,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,32,1,0,0,0,3,47,0.0,1.85
+Hakon Arnar Haraldsson,23,2026-04-04,Lille,RC Lens,7.9,73,7884.0,15.0,108.0,1,0,1.05,0.18,29,35,2,0,0,0,2,50,0.0,1.9
+Hakon Arnar Haraldsson,23,2026-04-12,Toulouse,Lille,6.3,90,9720.0,18.0,108.0,0,0,0.24,0.11,47,50,1,0,0,0,5,62,0.0,1.85
+Hakon Arnar Haraldsson,23,2026-04-18,Lille,Nice,7.4,90,9720.0,18.0,108.0,0,0,0.1,0.08,48,51,2,0,0,0,10,66,0.0,1.85
+Hakon Arnar Haraldsson,23,2026-04-26,Paris FC,Lille,6.6,78,8424.0,16.0,108.0,0,0,0.08,0.06,39,46,1,0,0,0,3,59,0.0,1.9
+Hakon Arnar Haraldsson,23,2026-05-03,Lille,Le Havre,8.5,90,,,0.0,1,0,0.44,0.5,46,51,4,0,0,0,4,69,,
+Hakon Arnar Haraldsson,23,2026-05-10,AS Monaco,Lille,7.1,89,,,0.0,0,0,0.0,0.05,19,24,1,0,1,0,1,32,,

@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jacques Ekomié,2025-12-31,Gabon,Côte d'Ivoire,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,10,15,1,0,0,0,1,33,0,1.85,22
-Jacques Ekomié,2026-01-04,Le Havre,Angers,6.4,32,3456.0,6.0,108.0,0,0,0.0,0.01,15,17,0,0,1,0,1,27,0,1.74,22
-Jacques Ekomié,2026-01-10,Angers,Toulouse,6.8,64,6912.0,13.0,108.0,0,0,0.0,0.0,22,27,1,0,0,0,3,45,0,1.88,22
-Jacques Ekomié,2026-01-17,Angers,Olympique de Marseille,5.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,28,32,0,0,1,0,7,57,0,1.85,22
-Jacques Ekomié,2026-01-25,Paris FC,Angers,6.9,87,9396.0,17.0,108.0,0,0,0.0,0.0,13,17,0,0,0,0,5,39,0,1.81,22
-Jacques Ekomié,2026-02-01,Angers,Metz,6.9,57,6156.0,11.0,108.0,0,0,0.0,0.05,40,44,0,0,3,0,4,62,0,1.79,22
-Jacques Ekomié,2026-02-08,Angers,Toulouse,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,28,35,0,0,2,0,6,63,0,1.85,22
-Jacques Ekomié,2026-02-15,Lorient,Angers,5.8,67,7236.0,13.0,108.0,0,0,0.06,0.01,29,33,0,0,1,0,1,49,0,1.8,22
-Jacques Ekomié,2026-02-22,Angers,Lille,5.9,78,8424.0,16.0,108.0,0,0,0.0,0.0,21,25,0,0,0,0,1,51,0,1.9,22
-Jacques Ekomié,2026-02-28,AS Monaco,Angers,6.8,9,972.0,2.0,108.0,0,0,0.07,0.0,1,2,0,0,0,0,0,8,0,2.06,22
-Jacques Ekomié,2026-03-07,Nantes,Angers,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,33,0,0,0,0,4,46,0,1.85,22
-Jacques Ekomié,2026-04-05,Angers,Olympique Lyonnais,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.13,14,21,1,0,0,0,4,37,0,1.85,22
-Jacques Ekomié,2026-04-11,Stade Rennais,Angers,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,29,0,0,2,0,1,49,0,1.85,22
-Jacques Ekomié,2026-04-18,Angers,Le Havre,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,12,16,0,0,0,0,2,26,0,1.85,22
-Jacques Ekomié,2026-04-25,Angers,Paris Saint-Germain,6.2,90,9720.0,18.0,108.0,0,0,0.02,0.08,11,16,1,0,0,0,2,33,0,1.85,22
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jacques Ekomié,22,2025-12-31,Gabon,Côte d'Ivoire,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,10,15,1,0,0,0,1,33,0.0,1.85
+Jacques Ekomié,22,2026-01-04,Le Havre,Angers,6.4,32,3456.0,6.0,108.0,0,0,0.0,0.01,15,17,0,0,1,0,1,27,0.0,1.74
+Jacques Ekomié,22,2026-01-10,Angers,Toulouse,6.8,64,6912.0,13.0,108.0,0,0,0.0,0.0,22,27,1,0,0,0,3,45,0.0,1.88
+Jacques Ekomié,22,2026-01-17,Angers,Olympique de Marseille,5.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,28,32,0,0,1,0,7,57,0.0,1.85
+Jacques Ekomié,22,2026-01-25,Paris FC,Angers,6.9,87,9396.0,17.0,108.0,0,0,0.0,0.0,13,17,0,0,0,0,5,39,0.0,1.81
+Jacques Ekomié,22,2026-02-01,Angers,Metz,6.9,57,6156.0,11.0,108.0,0,0,0.0,0.05,40,44,0,0,3,0,4,62,0.0,1.79
+Jacques Ekomié,22,2026-02-08,Angers,Toulouse,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,28,35,0,0,2,0,6,63,0.0,1.85
+Jacques Ekomié,22,2026-02-15,Lorient,Angers,5.8,67,7236.0,13.0,108.0,0,0,0.06,0.01,29,33,0,0,1,0,1,49,0.0,1.8
+Jacques Ekomié,22,2026-02-22,Angers,Lille,5.9,78,8424.0,16.0,108.0,0,0,0.0,0.0,21,25,0,0,0,0,1,51,0.0,1.9
+Jacques Ekomié,22,2026-02-28,AS Monaco,Angers,6.8,9,972.0,2.0,108.0,0,0,0.07,0.0,1,2,0,0,0,0,0,8,0.0,2.06
+Jacques Ekomié,22,2026-03-07,Nantes,Angers,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,33,0,0,0,0,4,46,0.0,1.85
+Jacques Ekomié,22,2026-04-05,Angers,Olympique Lyonnais,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.13,14,21,1,0,0,0,4,37,0.0,1.85
+Jacques Ekomié,22,2026-04-11,Stade Rennais,Angers,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,29,0,0,2,0,1,49,0.0,1.85
+Jacques Ekomié,22,2026-04-18,Angers,Le Havre,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,12,16,0,0,0,0,2,26,0.0,1.85
+Jacques Ekomié,22,2026-04-25,Angers,Paris Saint-Germain,6.2,90,9720.0,18.0,108.0,0,0,0.02,0.08,11,16,1,0,0,0,2,33,0.0,1.85
+Jacques Ekomié,22,2026-05-03,Auxerre,Angers,6.4,90,,,0.0,0,0,0.05,0.0,21,26,0,0,2,0,4,63,,
+Jacques Ekomié,22,2026-05-10,Angers,RC Strasbourg,6.6,90,,,0.0,0,0,0.02,0.01,13,18,0,0,1,0,2,34,,

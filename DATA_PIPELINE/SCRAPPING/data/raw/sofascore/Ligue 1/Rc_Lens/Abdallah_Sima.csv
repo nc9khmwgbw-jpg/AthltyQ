@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Abdallah Sima,2026-01-24,Olympique de Marseille,RC Lens,6.8,31,3348.0,6.0,108.0,0,0,0.02,0.0,9,9,0,0,0,0,1,16,0,1.79,24
-Abdallah Sima,2026-01-30,RC Lens,Le Havre,6.4,8,864.0,2.0,108.0,0,0,0.0,0.0,5,5,0,0,0,0,1,8,0,2.31,24
-Abdallah Sima,2026-02-04,Troyes,RC Lens,8.4,62,6696.0,12.0,108.0,2,0,0.0,0.0,24,28,1,0,0,0,7,43,0,1.79,24
-Abdallah Sima,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Abdallah Sima,2026-02-14,Paris FC,RC Lens,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0,0.0,24
-Abdallah Sima,2026-02-21,RC Lens,AS Monaco,7.1,27,2916.0,5.0,108.0,0,0,0.0,0.13,6,10,1,0,0,0,0,16,0,1.71,24
-Abdallah Sima,2026-02-27,RC Strasbourg,RC Lens,6.5,18,1944.0,4.0,108.0,0,0,0.04,0.0,4,4,0,0,0,0,1,6,0,2.06,24
-Abdallah Sima,2026-03-05,Olympique Lyonnais,RC Lens,6.8,89,9612.0,18.0,108.0,1,0,0.0,0.0,16,20,0,0,0,0,4,33,0,1.87,24
-Abdallah Sima,2026-03-08,RC Lens,Metz,6.7,83,8964.0,17.0,108.0,0,0,0.41,0.41,19,25,2,0,0,0,6,42,0,1.9,24
-Abdallah Sima,2026-03-14,Lorient,RC Lens,6.5,73,7884.0,15.0,108.0,0,0,0.01,0.21,17,21,1,0,0,0,4,34,0,1.9,24
-Abdallah Sima,2026-03-20,RC Lens,Angers,7.3,21,2268.0,4.0,108.0,0,0,0.0,0.15,12,14,2,0,1,0,2,19,0,1.76,24
-Abdallah Sima,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Abdallah Sima,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Abdallah Sima,2026-04-21,RC Lens,Toulouse,6.6,18,1944.0,4.0,108.0,0,0,0.0,0.0,6,8,0,0,0,0,1,9,0,2.06,24
-Abdallah Sima,2026-04-24,Stade Brestois,RC Lens,6.7,64,6912.0,13.0,108.0,1,0,0.91,0.01,9,10,0,0,0,0,0,22,0,1.88,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abdallah Sima,24,2026-01-24,Olympique de Marseille,RC Lens,6.8,31,3348.0,6.0,108.0,0,0,0.02,0.0,9,9,0,0,0,0,1,16,0.0,1.79
+Abdallah Sima,24,2026-01-30,RC Lens,Le Havre,6.4,8,864.0,2.0,108.0,0,0,0.0,0.0,5,5,0,0,0,0,1,8,0.0,2.31
+Abdallah Sima,24,2026-02-04,Troyes,RC Lens,8.4,62,6696.0,12.0,108.0,2,0,0.0,0.0,24,28,1,0,0,0,7,43,0.0,1.79
+Abdallah Sima,24,2026-02-07,RC Lens,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdallah Sima,24,2026-02-14,Paris FC,RC Lens,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0.0,0.0
+Abdallah Sima,24,2026-02-21,RC Lens,AS Monaco,7.1,27,2916.0,5.0,108.0,0,0,0.0,0.13,6,10,1,0,0,0,0,16,0.0,1.71
+Abdallah Sima,24,2026-02-27,RC Strasbourg,RC Lens,6.5,18,1944.0,4.0,108.0,0,0,0.04,0.0,4,4,0,0,0,0,1,6,0.0,2.06
+Abdallah Sima,24,2026-03-05,Olympique Lyonnais,RC Lens,6.8,89,9612.0,18.0,108.0,1,0,0.0,0.0,16,20,0,0,0,0,4,33,0.0,1.87
+Abdallah Sima,24,2026-03-08,RC Lens,Metz,6.7,83,8964.0,17.0,108.0,0,0,0.41,0.41,19,25,2,0,0,0,6,42,0.0,1.9
+Abdallah Sima,24,2026-03-14,Lorient,RC Lens,6.5,73,7884.0,15.0,108.0,0,0,0.01,0.21,17,21,1,0,0,0,4,34,0.0,1.9
+Abdallah Sima,24,2026-03-20,RC Lens,Angers,7.3,21,2268.0,4.0,108.0,0,0,0.0,0.15,12,14,2,0,1,0,2,19,0.0,1.76
+Abdallah Sima,24,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdallah Sima,24,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdallah Sima,24,2026-04-21,RC Lens,Toulouse,6.6,18,1944.0,4.0,108.0,0,0,0.0,0.0,6,8,0,0,0,0,1,9,0.0,2.06
+Abdallah Sima,24,2026-04-24,Stade Brestois,RC Lens,6.7,64,6912.0,13.0,108.0,1,0,0.91,0.01,9,10,0,0,0,0,0,22,0.0,1.88
+Abdallah Sima,24,2026-05-02,Nice,RC Lens,6.4,13,,,0.0,0,0,0.0,0.01,4,6,0,0,0,0,2,11,,
+Abdallah Sima,24,2026-05-08,RC Lens,Nantes,6.9,79,,,0.0,0,0,0.05,0.09,33,44,1,0,1,0,3,73,,
+Abdallah Sima,24,2026-05-13,RC Lens,Paris Saint-Germain,6.5,85,,,0.0,0,0,1.07,0.02,18,26,0,0,0,0,7,40,,

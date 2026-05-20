@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Bakery Jatta,27,2026-05-10,Hamburger SV,SC Freiburg,7.3,65,,,0.0,1,0,0.28,0.01,19,23,0,0,3,0,4,40
+Bakery Jatta,27,2026-05-02,Eintracht Frankfurt,Hamburger SV,5.9,68,,,0.0,0,0,0.02,0.03,13,18,1,0,0,0,2,43
+Bakery Jatta,27,2026-04-25,Hamburger SV,TSG Hoffenheim,6.0,75,,,0.0,0,0,0.12,0.01,14,17,0,0,0,0,1,33
+Bakery Jatta,27,2026-04-18,SV Werder Bremen,Hamburger SV,6.2,15,,,0.0,0,0,0.0,0.0,4,5,0,0,1,0,1,11
+Bakery Jatta,27,2026-03-04,Hamburger SV,Bayer 04 Leverkusen,6.5,29,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,1,11
+Bakery Jatta,27,2026-02-20,1. FSV Mainz 05,Hamburger SV,6.3,65,,,0.0,0,0,0.0,0.01,11,12,0,0,0,0,2,20
+Bakery Jatta,27,2026-02-14,Hamburger SV,1. FC Union Berlin,7.0,74,,,0.0,0,0,0.08,0.31,27,31,1,0,1,0,4,54
+Bakery Jatta,27,2026-02-07,1. FC Heidenheim,Hamburger SV,7.1,90,,,0.0,0,0,0.02,0.01,13,15,0,0,0,0,1,37
+Bakery Jatta,27,2026-01-31,Hamburger SV,FC Bayern München,6.3,59,,,0.0,0,0,0.0,0.01,10,12,0,0,0,0,0,21
+Bakery Jatta,27,2026-01-23,FC St. Pauli,Hamburger SV,6.5,90,,,0.0,0,0,0.0,0.01,15,22,0,0,0,0,2,42
+Bakery Jatta,27,2026-01-17,Hamburger SV,Borussia M'gladbach,7.2,85,,,0.0,0,0,0.09,0.04,18,19,1,0,0,0,1,36
+Bakery Jatta,27,2026-01-10,SC Freiburg,Hamburger SV,6.1,79,,,0.0,0,0,0.05,0.0,5,8,0,0,4,0,0,23
+Bakery Jatta,27,2025-12-20,Hamburger SV,Eintracht Frankfurt,7.2,29,,,0.0,0,0,0.0,0.0,2,5,0,0,0,0,1,14
+Bakery Jatta,27,2025-12-13,TSG Hoffenheim,Hamburger SV,6.6,12,,,0.0,0,0,0.0,0.01,6,6,1,0,0,0,0,8
+Bakery Jatta,27,2025-12-07,Hamburger SV,SV Werder Bremen,7.2,83,,,0.0,0,0,0.19,0.16,22,26,0,0,0,0,2,42

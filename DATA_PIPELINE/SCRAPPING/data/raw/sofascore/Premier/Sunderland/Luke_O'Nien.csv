@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Luke O'Nien,2026-01-24,West Ham United,Sunderland,6.5,12,1296.0,2.0,108.0,0,0,0.0,0.0,4,5,0,0,0,0,0,7,0,1.54,31
-Luke O'Nien,2026-02-02,Sunderland,Burnley,6.5,8,864.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,5,0,2.31,31
-Luke O'Nien,2026-02-07,Arsenal,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Luke O'Nien,2026-02-11,Sunderland,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Luke O'Nien,2026-02-15,Oxford United,Sunderland,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,49,57,0,0,1,0,3,78,0,1.85,31
-Luke O'Nien,2026-02-22,Sunderland,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Luke O'Nien,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Luke O'Nien,2026-03-03,Leeds United,Sunderland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.02,11,23,0,0,2,0,4,46,0,1.85,31
-Luke O'Nien,2026-03-08,Port Vale,Sunderland,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,53,2,0,2,0,7,81,0,1.85,31
-Luke O'Nien,2026-03-14,Sunderland,Brighton & Hove Albion,7.0,26,2808.0,5.0,108.0,0,0,0.0,0.01,23,28,0,0,0,0,0,41,0,1.78,31
-Luke O'Nien,2026-03-22,Newcastle United,Sunderland,5.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,22,0,0,1,0,0,44,0,1.85,31
-Luke O'Nien,2026-04-12,Sunderland,Tottenham Hotspur,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.08,35,39,0,0,1,0,0,52,0,1.85,31
-Luke O'Nien,2026-04-19,Aston Villa,Sunderland,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,53,59,0,0,1,0,4,74,0,1.85,31
-Luke O'Nien,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Luke O'Nien,31,2026-01-24,West Ham United,Sunderland,6.5,12,1296.0,2.0,108.0,0,0,0.0,0.0,4,5,0,0,0,0,0,7,0.0,1.54
+Luke O'Nien,31,2026-02-02,Sunderland,Burnley,6.5,8,864.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,5,0.0,2.31
+Luke O'Nien,31,2026-02-07,Arsenal,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Luke O'Nien,31,2026-02-11,Sunderland,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Luke O'Nien,31,2026-02-15,Oxford United,Sunderland,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,49,57,0,0,1,0,3,78,0.0,1.85
+Luke O'Nien,31,2026-02-22,Sunderland,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Luke O'Nien,31,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Luke O'Nien,31,2026-03-03,Leeds United,Sunderland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.02,11,23,0,0,2,0,4,46,0.0,1.85
+Luke O'Nien,31,2026-03-08,Port Vale,Sunderland,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,53,2,0,2,0,7,81,0.0,1.85
+Luke O'Nien,31,2026-03-14,Sunderland,Brighton & Hove Albion,7.0,26,2808.0,5.0,108.0,0,0,0.0,0.01,23,28,0,0,0,0,0,41,0.0,1.78
+Luke O'Nien,31,2026-03-22,Newcastle United,Sunderland,5.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,22,0,0,1,0,0,44,0.0,1.85
+Luke O'Nien,31,2026-04-12,Sunderland,Tottenham Hotspur,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.08,35,39,0,0,1,0,0,52,0.0,1.85
+Luke O'Nien,31,2026-04-19,Aston Villa,Sunderland,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,53,59,0,0,1,0,4,74,0.0,1.85
+Luke O'Nien,31,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Luke O'Nien,31,2026-05-02,Wolverhampton,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Luke O'Nien,31,2026-05-09,Sunderland,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

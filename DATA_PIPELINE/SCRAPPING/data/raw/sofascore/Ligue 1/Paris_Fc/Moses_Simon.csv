@@ -1,14 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Moses Simon,2026-01-25,Paris FC,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,30
-Moses Simon,2026-01-31,Paris FC,Olympique de Marseille,6.2,64,6912.0,13.0,108.0,0,0,0.0,0.03,14,15,0,0,0,0,1,23,0,1.88,30
-Moses Simon,2026-02-04,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,30
-Moses Simon,2026-02-08,Auxerre,Paris FC,6.8,63,6804.0,13.0,108.0,0,0,0.01,0.07,18,19,0,0,0,0,3,32,0,1.91,30
-Moses Simon,2026-02-14,Paris FC,RC Lens,6.5,27,2916.0,5.0,108.0,0,0,0.03,0.01,7,7,1,0,0,0,0,12,0,1.71,30
-Moses Simon,2026-02-21,Toulouse,Paris FC,6.4,12,1296.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,1,7,0,1.54,30
-Moses Simon,2026-03-01,Paris FC,Nice,7.0,80,8640.0,16.0,108.0,0,0,0.09,0.04,14,17,2,0,0,0,3,36,0,1.85,30
-Moses Simon,2026-03-08,Olympique Lyonnais,Paris FC,6.8,73,7884.0,15.0,108.0,0,0,0.03,0.07,14,16,3,0,0,0,3,30,0,1.9,30
-Moses Simon,2026-03-15,RC Strasbourg,Paris FC,6.9,64,6912.0,13.0,108.0,0,0,0.0,0.06,14,16,2,0,0,0,2,33,0,1.88,30
-Moses Simon,2026-03-22,Paris FC,Le Havre,7.4,84,9072.0,17.0,108.0,0,0,0.27,0.44,24,26,7,0,1,0,0,59,0,1.87,30
-Moses Simon,2026-04-05,Lorient,Paris FC,6.7,89,9612.0,18.0,108.0,0,0,0.0,0.11,23,24,0,0,0,0,0,46,0,1.87,30
-Moses Simon,2026-04-10,Paris FC,AS Monaco,7.1,87,9396.0,17.0,108.0,0,0,0.0,0.42,15,19,1,0,0,0,4,33,0,1.81,30
-Moses Simon,2026-04-26,Paris FC,Lille,6.6,69,7452.0,14.0,108.0,0,0,0.0,0.06,20,27,0,0,0,0,5,47,0,1.88,30
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Moses Simon,30,2026-01-25,Paris FC,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Moses Simon,30,2026-01-31,Paris FC,Olympique de Marseille,6.2,64,6912.0,13.0,108.0,0,0,0.0,0.03,14,15,0,0,0,0,1,23,0.0,1.88
+Moses Simon,30,2026-02-04,Lorient,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Moses Simon,30,2026-02-08,Auxerre,Paris FC,6.8,63,6804.0,13.0,108.0,0,0,0.01,0.07,18,19,0,0,0,0,3,32,0.0,1.91
+Moses Simon,30,2026-02-14,Paris FC,RC Lens,6.5,27,2916.0,5.0,108.0,0,0,0.03,0.01,7,7,1,0,0,0,0,12,0.0,1.71
+Moses Simon,30,2026-02-21,Toulouse,Paris FC,6.4,12,1296.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,1,7,0.0,1.54
+Moses Simon,30,2026-03-01,Paris FC,Nice,7.0,80,8640.0,16.0,108.0,0,0,0.09,0.04,14,17,2,0,0,0,3,36,0.0,1.85
+Moses Simon,30,2026-03-08,Olympique Lyonnais,Paris FC,6.8,73,7884.0,15.0,108.0,0,0,0.03,0.07,14,16,3,0,0,0,3,30,0.0,1.9
+Moses Simon,30,2026-03-15,RC Strasbourg,Paris FC,6.9,64,6912.0,13.0,108.0,0,0,0.0,0.06,14,16,2,0,0,0,2,33,0.0,1.88
+Moses Simon,30,2026-03-22,Paris FC,Le Havre,7.4,84,9072.0,17.0,108.0,0,0,0.27,0.44,24,26,7,0,1,0,0,59,0.0,1.87
+Moses Simon,30,2026-04-05,Lorient,Paris FC,6.7,89,9612.0,18.0,108.0,0,0,0.0,0.11,23,24,0,0,0,0,0,46,0.0,1.87
+Moses Simon,30,2026-04-10,Paris FC,AS Monaco,7.1,87,9396.0,17.0,108.0,0,0,0.0,0.42,15,19,1,0,0,0,4,33,0.0,1.81
+Moses Simon,30,2026-04-26,Paris FC,Lille,6.6,69,7452.0,14.0,108.0,0,0,0.0,0.06,20,27,0,0,0,0,5,47,0.0,1.88
+Moses Simon,30,2026-05-03,Paris FC,Stade Brestois,6.9,90,,,0.0,0,0,0.14,0.02,20,24,1,0,0,0,2,43,,
+Moses Simon,30,2026-05-10,Stade Rennais,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

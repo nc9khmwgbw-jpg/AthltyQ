@@ -1,0 +1,14 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Nicolas Raskin,25,2026-05-04,Heart of Midlothian,Rangers,6.5,75,,,0.0,0,0,0.0,0.05,15,23,1,0,1,0,3,32
+Nicolas Raskin,25,2026-04-26,Rangers,Motherwell,7.3,90,,,0.0,1,0,0.54,0.02,37,46,1,0,1,0,0,64
+Nicolas Raskin,25,2026-04-12,Falkirk FC,Rangers,9.3,90,,,0.0,1,0,0.21,0.56,32,40,2,0,0,0,8,67
+Nicolas Raskin,25,2026-04-04,Rangers,Dundee United,7.6,90,,,0.0,0,0,0.01,0.04,75,81,1,0,0,0,3,96
+Nicolas Raskin,25,2026-04-01,Mexico,Belgium,6.9,27,,,0.0,0,0,0.0,0.0,25,29,0,0,0,0,1,36
+Nicolas Raskin,25,2026-03-28,USA,Belgium,6.7,70,,,0.0,0,0,0.0,0.0,33,36,0,0,0,0,2,43
+Nicolas Raskin,25,2026-03-21,Rangers,Aberdeen,8.2,90,,,0.0,1,0,0.15,0.19,71,85,1,0,1,0,5,96
+Nicolas Raskin,25,2026-03-15,St. Mirren,Rangers,7.2,90,,,0.0,0,0,0.32,0.32,35,48,4,0,1,0,9,71
+Nicolas Raskin,25,2026-03-01,Rangers,Celtic,6.6,90,,,0.0,0,0,0.02,0.04,22,32,0,0,0,0,9,40
+Nicolas Raskin,25,2026-02-22,Livingston,Rangers,6.9,90,,,0.0,0,0,0.31,0.04,58,65,0,0,0,0,2,79
+Nicolas Raskin,25,2026-02-15,Rangers,Heart of Midlothian,7.1,90,,,0.0,0,0,0.0,0.38,74,86,1,0,1,0,4,100
+Nicolas Raskin,25,2026-02-11,Motherwell,Rangers,8.0,90,,,0.0,1,0,0.58,0.01,19,25,0,0,0,0,2,54
+Nicolas Raskin,25,2026-02-04,Rangers,Kilmarnock,7.8,90,,,0.0,0,0,0.05,0.11,92,100,2,0,1,0,4,113

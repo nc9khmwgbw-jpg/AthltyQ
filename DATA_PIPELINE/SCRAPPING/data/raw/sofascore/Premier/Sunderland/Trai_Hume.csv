@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Trai Hume,2026-01-24,West Ham United,Sunderland,5.6,45,4860.0,9.0,108.0,0,0,0.08,0.02,15,19,0,0,0,0,0,27,0,1.85,24
-Trai Hume,2026-02-02,Sunderland,Burnley,6.6,90,9720.0,18.0,108.0,0,0,0.12,0.01,29,41,1,0,0,0,7,59,0,1.85,24
-Trai Hume,2026-02-07,Arsenal,Sunderland,6.6,85,9180.0,17.0,108.0,0,0,0.0,0.01,19,27,0,0,1,0,2,49,0,1.85,24
-Trai Hume,2026-02-11,Sunderland,Liverpool,6.6,80,8640.0,16.0,108.0,0,0,0.14,0.03,9,15,1,0,0,0,1,48,0,1.85,24
-Trai Hume,2026-02-15,Oxford United,Sunderland,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,48,3,0,1,0,7,70,0,1.85,24
-Trai Hume,2026-02-22,Sunderland,Fulham,6.4,90,9720.0,18.0,108.0,0,0,0.06,0.01,24,31,0,0,1,0,2,47,0,1.85,24
-Trai Hume,2026-02-28,Bournemouth,Sunderland,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,26,0,0,0,0,1,50,0,1.85,24
-Trai Hume,2026-03-03,Leeds United,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.03,22,31,0,0,1,0,3,57,0,1.85,24
-Trai Hume,2026-03-14,Sunderland,Brighton & Hove Albion,6.2,90,9720.0,18.0,108.0,0,0,0.08,0.01,37,45,1,0,2,0,3,72,0,1.85,24
-Trai Hume,2026-03-22,Newcastle United,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.27,0.5,15,19,1,0,0,0,4,39,0,1.85,24
-Trai Hume,2026-03-26,Italy,Northern Ireland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,45,0,0,2,0,4,68,0,1.85,24
-Trai Hume,2026-03-31,Wales,Northern Ireland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,39,0,0,5,0,6,57,0,1.85,24
-Trai Hume,2026-04-12,Sunderland,Tottenham Hotspur,7.1,8,864.0,2.0,108.0,0,0,0.0,0.12,2,2,1,0,0,0,0,6,0,2.31,24
-Trai Hume,2026-04-19,Aston Villa,Sunderland,8.0,27,2916.0,5.0,108.0,1,0,0.08,0.0,10,11,0,0,0,0,1,19,0,1.71,24
-Trai Hume,2026-04-24,Sunderland,Nottingham Forest,5.7,90,9720.0,18.0,108.0,0,0,0.02,0.09,39,44,1,0,1,0,3,66,0,1.85,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Trai Hume,24,2026-01-24,West Ham United,Sunderland,5.6,45,4860.0,9.0,108.0,0,0,0.08,0.02,15,19,0,0,0,0,0,27,0.0,1.85
+Trai Hume,24,2026-02-02,Sunderland,Burnley,6.6,90,9720.0,18.0,108.0,0,0,0.12,0.01,29,41,1,0,0,0,7,59,0.0,1.85
+Trai Hume,24,2026-02-07,Arsenal,Sunderland,6.6,85,9180.0,17.0,108.0,0,0,0.0,0.01,19,27,0,0,1,0,2,49,0.0,1.85
+Trai Hume,24,2026-02-11,Sunderland,Liverpool,6.6,80,8640.0,16.0,108.0,0,0,0.14,0.03,9,15,1,0,0,0,1,48,0.0,1.85
+Trai Hume,24,2026-02-15,Oxford United,Sunderland,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,48,3,0,1,0,7,70,0.0,1.85
+Trai Hume,24,2026-02-22,Sunderland,Fulham,6.4,90,9720.0,18.0,108.0,0,0,0.06,0.01,24,31,0,0,1,0,2,47,0.0,1.85
+Trai Hume,24,2026-02-28,Bournemouth,Sunderland,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,26,0,0,0,0,1,50,0.0,1.85
+Trai Hume,24,2026-03-03,Leeds United,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.03,22,31,0,0,1,0,3,57,0.0,1.85
+Trai Hume,24,2026-03-14,Sunderland,Brighton & Hove Albion,6.2,90,9720.0,18.0,108.0,0,0,0.08,0.01,37,45,1,0,2,0,3,72,0.0,1.85
+Trai Hume,24,2026-03-22,Newcastle United,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.27,0.5,15,19,1,0,0,0,4,39,0.0,1.85
+Trai Hume,24,2026-03-26,Italy,Northern Ireland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,45,0,0,2,0,4,68,0.0,1.85
+Trai Hume,24,2026-03-31,Wales,Northern Ireland,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,39,0,0,5,0,6,57,0.0,1.85
+Trai Hume,24,2026-04-12,Sunderland,Tottenham Hotspur,7.1,8,864.0,2.0,108.0,0,0,0.0,0.12,2,2,1,0,0,0,0,6,0.0,2.31
+Trai Hume,24,2026-04-19,Aston Villa,Sunderland,8.0,27,2916.0,5.0,108.0,1,0,0.08,0.0,10,11,0,0,0,0,1,19,0.0,1.71
+Trai Hume,24,2026-04-24,Sunderland,Nottingham Forest,5.7,90,9720.0,18.0,108.0,0,0,0.02,0.09,39,44,1,0,1,0,3,66,0.0,1.85
+Trai Hume,24,2026-05-02,Wolverhampton,Sunderland,6.6,90,,,0.0,0,0,0.06,0.02,20,26,0,0,2,0,2,41,,
+Trai Hume,24,2026-05-09,Sunderland,Manchester United,6.7,89,,,0.0,0,0,0.02,0.1,26,32,2,0,0,0,4,45,,

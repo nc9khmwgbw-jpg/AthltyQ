@@ -1,9 +1,11 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jonah Kusi-Asare,2026-01-01,Crystal Palace,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Jonah Kusi-Asare,2026-01-04,Fulham,Liverpool,6.5,16,1728.0,3.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,1.74,18
-Jonah Kusi-Asare,2026-01-07,Fulham,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Jonah Kusi-Asare,2026-01-10,Fulham,Middlesbrough,7.1,56,6048.0,11.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,1,24,0,1.82,18
-Jonah Kusi-Asare,2026-01-17,Leeds United,Fulham,6.4,8,864.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,2.31,18
-Jonah Kusi-Asare,2026-01-24,Fulham,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Jonah Kusi-Asare,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Jonah Kusi-Asare,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jonah Kusi-Asare,18,2026-01-01,Crystal Palace,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jonah Kusi-Asare,18,2026-01-04,Fulham,Liverpool,6.5,16,1728.0,3.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0.0,1.74
+Jonah Kusi-Asare,18,2026-01-07,Fulham,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jonah Kusi-Asare,18,2026-01-10,Fulham,Middlesbrough,7.1,56,6048.0,11.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,1,24,0.0,1.82
+Jonah Kusi-Asare,18,2026-01-17,Leeds United,Fulham,6.4,8,864.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,2.31
+Jonah Kusi-Asare,18,2026-01-24,Fulham,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jonah Kusi-Asare,18,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jonah Kusi-Asare,18,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jonah Kusi-Asare,18,2026-05-02,Arsenal,Fulham,6.4,12,,,0.0,0,0,0.0,0.0,2,4,0,0,0,0,2,4,,
+Jonah Kusi-Asare,18,2026-05-09,Fulham,Bournemouth,6.6,13,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4,,

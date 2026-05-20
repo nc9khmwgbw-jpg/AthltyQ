@@ -1,14 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jaydee Canvot,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.1,26,2808.0,5.0,108.0,0,0,0.0,0.01,32,34,0,0,2,0,3,38,0,1.78,19
-Jaydee Canvot,2026-02-22,Crystal Palace,Wolverhampton,6.8,90,9720.0,18.0,108.0,0,0,0.56,0.04,50,59,0,0,1,0,7,72,0,1.85,19
-Jaydee Canvot,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,8.5,90,9720.0,18.0,108.0,0,0,0.01,0.38,109,122,0,0,2,0,5,140,0,1.85,19
-Jaydee Canvot,2026-03-01,Manchester United,Crystal Palace,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,36,41,0,0,1,0,2,59,0,1.85,19
-Jaydee Canvot,2026-03-05,Tottenham Hotspur,Crystal Palace,7.4,90,9720.0,18.0,108.0,0,0,0.18,0.04,76,81,1,0,0,0,2,89,0,1.85,19
-Jaydee Canvot,2026-03-12,Crystal Palace,AEK Larnaca,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.03,85,94,0,0,0,0,7,110,0,1.85,19
-Jaydee Canvot,2026-03-15,Crystal Palace,Leeds United,7.9,80,8640.0,16.0,108.0,0,0,0.0,0.02,51,61,1,0,0,0,4,84,0,1.85,19
-Jaydee Canvot,2026-03-19,AEK Larnaca,Crystal Palace,7.1,83,8964.0,17.0,108.0,0,0,0.0,0.02,61,68,0,0,2,0,5,81,0,1.9,19
-Jaydee Canvot,2026-04-09,Crystal Palace,Fiorentina,7.3,90,9720.0,18.0,108.0,0,0,0.02,0.02,71,76,0,0,0,0,5,84,0,1.85,19
-Jaydee Canvot,2026-04-12,Crystal Palace,Newcastle United,7.2,90,9720.0,18.0,108.0,0,0,0.37,0.05,49,57,0,0,1,0,5,80,0,1.85,19
-Jaydee Canvot,2026-04-16,Fiorentina,Crystal Palace,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,22,27,0,0,1,0,4,42,0,1.85,19
-Jaydee Canvot,2026-04-20,Crystal Palace,West Ham United,8.2,90,9720.0,18.0,108.0,0,0,0.01,0.01,57,62,0,0,0,0,5,82,0,1.85,19
-Jaydee Canvot,2026-04-25,Liverpool,Crystal Palace,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,58,62,0,0,1,0,3,79,0,1.85,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jaydee Canvot,19,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.1,26,2808.0,5.0,108.0,0,0,0.0,0.01,32,34,0,0,2,0,3,38,0.0,1.78
+Jaydee Canvot,19,2026-02-22,Crystal Palace,Wolverhampton,6.8,90,9720.0,18.0,108.0,0,0,0.56,0.04,50,59,0,0,1,0,7,72,0.0,1.85
+Jaydee Canvot,19,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,8.5,90,9720.0,18.0,108.0,0,0,0.01,0.38,109,122,0,0,2,0,5,140,0.0,1.85
+Jaydee Canvot,19,2026-03-01,Manchester United,Crystal Palace,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,36,41,0,0,1,0,2,59,0.0,1.85
+Jaydee Canvot,19,2026-03-05,Tottenham Hotspur,Crystal Palace,7.4,90,9720.0,18.0,108.0,0,0,0.18,0.04,76,81,1,0,0,0,2,89,0.0,1.85
+Jaydee Canvot,19,2026-03-12,Crystal Palace,AEK Larnaca,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.03,85,94,0,0,0,0,7,110,0.0,1.85
+Jaydee Canvot,19,2026-03-15,Crystal Palace,Leeds United,7.9,80,8640.0,16.0,108.0,0,0,0.0,0.02,51,61,1,0,0,0,4,84,0.0,1.85
+Jaydee Canvot,19,2026-03-19,AEK Larnaca,Crystal Palace,7.1,83,8964.0,17.0,108.0,0,0,0.0,0.02,61,68,0,0,2,0,5,81,0.0,1.9
+Jaydee Canvot,19,2026-04-09,Crystal Palace,Fiorentina,7.3,90,9720.0,18.0,108.0,0,0,0.02,0.02,71,76,0,0,0,0,5,84,0.0,1.85
+Jaydee Canvot,19,2026-04-12,Crystal Palace,Newcastle United,7.2,90,9720.0,18.0,108.0,0,0,0.37,0.05,49,57,0,0,1,0,5,80,0.0,1.85
+Jaydee Canvot,19,2026-04-16,Fiorentina,Crystal Palace,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,22,27,0,0,1,0,4,42,0.0,1.85
+Jaydee Canvot,19,2026-04-20,Crystal Palace,West Ham United,8.2,90,9720.0,18.0,108.0,0,0,0.01,0.01,57,62,0,0,0,0,5,82,0.0,1.85
+Jaydee Canvot,19,2026-04-25,Liverpool,Crystal Palace,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,58,62,0,0,1,0,3,79,0.0,1.85
+Jaydee Canvot,19,2026-04-30,Shakhtar Donetsk,Crystal Palace,6.8,90,,,0.0,0,0,0.0,0.02,23,27,1,0,0,0,5,38,,
+Jaydee Canvot,19,2026-05-03,Bournemouth,Crystal Palace,5.9,90,,,0.0,0,0,0.0,0.0,32,38,0,0,0,0,2,48,,
+Jaydee Canvot,19,2026-05-07,Crystal Palace,Shakhtar Donetsk,6.7,90,,,0.0,0,0,0.0,0.0,28,31,0,0,2,0,3,47,,
+Jaydee Canvot,19,2026-05-10,Crystal Palace,Everton,6.6,90,,,0.0,0,0,0.31,0.04,62,67,1,0,1,0,1,88,,
+Jaydee Canvot,19,2026-05-13,Manchester City,Crystal Palace,6.0,90,,,0.0,0,0,0.0,0.0,34,39,0,0,0,0,6,53,,

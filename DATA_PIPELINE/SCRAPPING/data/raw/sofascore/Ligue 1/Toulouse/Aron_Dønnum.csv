@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Aron Dønnum,2026-01-17,Toulouse,Nice,7.9,90,9720.0,18.0,108.0,0,1,0.12,0.62,28,38,3,0,3,0,7,58,0,1.85,28
-Aron Dønnum,2026-01-25,Stade Brestois,Toulouse,6.8,90,9720.0,18.0,108.0,0,0,0.05,0.16,33,42,2,0,0,0,5,62,0,1.85,28
-Aron Dønnum,2026-02-01,Toulouse,Auxerre,7.3,90,9720.0,18.0,108.0,0,0,0.23,0.3,30,38,1,0,0,0,5,67,0,1.85,28
-Aron Dønnum,2026-02-04,Toulouse,Amiens SC,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,36,2,0,0,0,3,66,0,1.85,28
-Aron Dønnum,2026-02-08,Angers,Toulouse,6.6,74,7992.0,15.0,108.0,0,0,0.0,0.07,27,33,0,0,0,0,3,48,0,1.88,28
-Aron Dønnum,2026-02-15,Le Havre,Toulouse,7.2,90,9720.0,18.0,108.0,0,0,0.34,0.4,51,61,4,0,0,0,4,90,0,1.85,28
-Aron Dønnum,2026-03-04,Olympique de Marseille,Toulouse,7.8,90,9720.0,18.0,108.0,0,1,0.0,0.0,25,32,4,0,0,0,3,45,0,1.85,28
-Aron Dønnum,2026-03-07,Toulouse,Olympique de Marseille,6.6,90,9720.0,18.0,108.0,0,0,0.09,0.29,30,43,5,0,0,0,6,62,0,1.85,28
-Aron Dønnum,2026-03-15,Metz,Toulouse,8.2,90,9720.0,18.0,108.0,1,1,0.09,0.53,42,51,5,0,0,0,4,72,0,1.85,28
-Aron Dønnum,2026-03-21,Toulouse,Lorient,6.7,90,9720.0,18.0,108.0,0,0,0.15,0.13,35,51,2,0,1,0,7,66,0,1.85,28
-Aron Dønnum,2026-04-03,Paris Saint-Germain,Toulouse,6.2,90,9720.0,18.0,108.0,0,0,0.03,0.04,22,27,0,0,1,0,5,41,0,1.85,28
-Aron Dønnum,2026-04-12,Toulouse,Lille,6.6,60,6480.0,12.0,108.0,0,0,0.03,0.04,19,20,0,0,1,0,2,31,0,1.85,28
-Aron Dønnum,2026-04-17,RC Lens,Toulouse,6.6,64,6912.0,13.0,108.0,0,0,0.0,0.0,11,15,0,0,1,0,5,32,0,1.88,28
-Aron Dønnum,2026-04-21,RC Lens,Toulouse,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,24,2,0,1,0,7,46,0,1.85,28
-Aron Dønnum,2026-04-25,Toulouse,AS Monaco,7.8,90,9720.0,18.0,108.0,0,0,0.13,0.53,44,55,4,0,2,0,7,84,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Aron Dønnum,28,2026-01-17,Toulouse,Nice,7.9,90,9720.0,18.0,108.0,0,1,0.12,0.62,28,38,3,0,3,0,7,58,0.0,1.85
+Aron Dønnum,28,2026-01-25,Stade Brestois,Toulouse,6.8,90,9720.0,18.0,108.0,0,0,0.05,0.16,33,42,2,0,0,0,5,62,0.0,1.85
+Aron Dønnum,28,2026-02-01,Toulouse,Auxerre,7.3,90,9720.0,18.0,108.0,0,0,0.23,0.3,30,38,1,0,0,0,5,67,0.0,1.85
+Aron Dønnum,28,2026-02-04,Toulouse,Amiens SC,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,36,2,0,0,0,3,66,0.0,1.85
+Aron Dønnum,28,2026-02-08,Angers,Toulouse,6.6,74,7992.0,15.0,108.0,0,0,0.0,0.07,27,33,0,0,0,0,3,48,0.0,1.88
+Aron Dønnum,28,2026-02-15,Le Havre,Toulouse,7.2,90,9720.0,18.0,108.0,0,0,0.34,0.4,51,61,4,0,0,0,4,90,0.0,1.85
+Aron Dønnum,28,2026-03-04,Olympique de Marseille,Toulouse,7.8,90,9720.0,18.0,108.0,0,1,0.0,0.0,25,32,4,0,0,0,3,45,0.0,1.85
+Aron Dønnum,28,2026-03-07,Toulouse,Olympique de Marseille,6.6,90,9720.0,18.0,108.0,0,0,0.09,0.29,30,43,5,0,0,0,6,62,0.0,1.85
+Aron Dønnum,28,2026-03-15,Metz,Toulouse,8.2,90,9720.0,18.0,108.0,1,1,0.09,0.53,42,51,5,0,0,0,4,72,0.0,1.85
+Aron Dønnum,28,2026-03-21,Toulouse,Lorient,6.7,90,9720.0,18.0,108.0,0,0,0.15,0.13,35,51,2,0,1,0,7,66,0.0,1.85
+Aron Dønnum,28,2026-04-03,Paris Saint-Germain,Toulouse,6.2,90,9720.0,18.0,108.0,0,0,0.03,0.04,22,27,0,0,1,0,5,41,0.0,1.85
+Aron Dønnum,28,2026-04-12,Toulouse,Lille,6.6,60,6480.0,12.0,108.0,0,0,0.03,0.04,19,20,0,0,1,0,2,31,0.0,1.85
+Aron Dønnum,28,2026-04-17,RC Lens,Toulouse,6.6,64,6912.0,13.0,108.0,0,0,0.0,0.0,11,15,0,0,1,0,5,32,0.0,1.88
+Aron Dønnum,28,2026-04-21,RC Lens,Toulouse,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,24,2,0,1,0,7,46,0.0,1.85
+Aron Dønnum,28,2026-04-25,Toulouse,AS Monaco,7.8,90,9720.0,18.0,108.0,0,0,0.13,0.53,44,55,4,0,2,0,7,84,0.0,1.85
+Aron Dønnum,28,2026-05-03,RC Strasbourg,Toulouse,7.0,90,,,0.0,0,0,0.03,0.1,41,50,2,0,1,0,3,72,,
+Aron Dønnum,28,2026-05-10,Toulouse,Olympique Lyonnais,6.1,79,,,0.0,0,0,0.02,0.13,24,26,1,0,0,0,4,42,,

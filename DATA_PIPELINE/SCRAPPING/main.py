@@ -26,12 +26,13 @@ def display_source_menu():
     return choice
 
 def display_league_menu(source_name):
+    leagues_list = list(LEAGUES.keys())
     print(f"\n--- SCRAPPING {source_name} ---")
     print("Sélectionnez la ligue :")
-    leagues_list = list(LEAGUES.keys())
     for i, league_name in enumerate(leagues_list, 1):
         print(f"  {i:2}. {league_name}")
-    print("  B. Retour au menu principal")
+    print("  ALL. Toutes les ligues")
+    print("  B.  Retour au menu principal")
     print("-"*60)
     choice = input("\n👉 Votre choix : ").strip().upper()
     return choice, leagues_list
@@ -82,45 +83,55 @@ def main():
             source_name = "SOFASCORE" if source_choice == '1' else "TRANSFERMARKT"
             
             while True:
+                leagues_list = list(LEAGUES.keys())
                 if args.source and args.league:
                     league_choice = args.league
-                    # Re-fetch leagues_list for CLI mode
-                    leagues_list = list(LEAGUES.keys())
                 else:
-                    league_choice, leagues_list = display_league_menu(source_name)
+                    league_choice, _ = display_league_menu(source_name)
                 
                 if league_choice == 'B':
                     break
+
+                if league_choice in ['ALL', 'all']:
+                    selected_leagues = leagues_list
+                else:
+                    try:
+                        index = int(league_choice) - 1
+                        if 0 <= index < len(leagues_list):
+                            selected_leagues = [leagues_list[index]]
+                        else:
+                            print(f"❌ Numéro invalide : {league_choice}")
+                            break
+                    except ValueError:
+                        print(f"❌ Entrée invalide : {league_choice}")
+                        break
                 
-                try:
-                    index = int(league_choice) - 1
-                    if 0 <= index < len(leagues_list):
-                        selected_league = leagues_list[index]
-                        
-                        if args.force_update:
-                            rep = args.force_update.lower()
-                        else:
-                            rep = input("🔄 Mettre à jour les joueurs existants ? (o/N) : ").strip().lower()
-                        
-                        force_update = (rep == 'o')
-                        
-                        print(f"\n⚡ Lancement de {source_name} pour : {selected_league}")
-                        
-                        if source_choice == '1':
-                            scraper = SofaScoreLeagueScraper()
-                            scraper.scrape(selected_league, force_update=force_update)
-                        else:
-                            from DATA_PIPELINE.SCRAPPING.pipelines.injury_pipeline import InjuryPipeline
-                            pipeline = InjuryPipeline()
-                            pipeline.run(force_update=force_update, league_filter=selected_league)
-                        
-                        print(f"\n✅ TERMINÉ : {selected_league} est à jour.")
-                        if not args.source:
-                            input("\nAppuyez sur Entrée pour continuer...")
+                # --- GESTION NON-INTERACTIVE DU FORCE UPDATE ---
+                if args.force_update:
+                    rep = args.force_update.lower()
+                elif args.source:
+                    # En mode CLI, on ne demande pas, on prend le défaut (non)
+                    rep = 'n'
+                else:
+                    rep = input("🔄 Mettre à jour les joueurs existants ? (o/N) : ").strip().lower()
+                
+                force_update = (rep == 'o')
+                
+                for selected_league in selected_leagues:
+                    print(f"\n⚡ Lancement de {source_name} pour : {selected_league}")
+                    
+                    if source_choice == '1':
+                        scraper = SofaScoreLeagueScraper()
+                        scraper.scrape(selected_league, force_update=force_update)
                     else:
-                        print("❌ Numéro invalide.")
-                except ValueError:
-                    print("❌ Entrée invalide.")
+                        from DATA_PIPELINE.SCRAPPING.pipelines.injury_pipeline import InjuryPipeline
+                        pipeline = InjuryPipeline()
+                        pipeline.run(force_update=force_update, league_filter=selected_league)
+                    
+                    print(f"✅ TERMINÉ : {selected_league} est à jour.")
+                
+                if not args.source:
+                    input("\nAppuyez sur Entrée pour continuer...")
                 
                 if args.source: break # Sortie si mode CLI
         else:

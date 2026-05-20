@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Bryan Okoh,2026-01-14,Servette FC,FC Lausanne-Sport,7.3,45,4860.0,9.0,108.0,0,0,0.0,0.03,31,37,1,0,2,0,2,44,0,1.85,22
-Bryan Okoh,2026-01-17,BSC Young Boys,FC Lausanne-Sport,7.2,45,4860.0,9.0,108.0,0,0,0.0,0.01,23,28,0,0,0,0,2,37,0,1.85,22
-Bryan Okoh,2026-01-24,FC Lausanne-Sport,Grasshopper Club Zürich,7.5,63,6804.0,13.0,108.0,0,0,0.0,0.01,46,58,0,0,1,0,5,63,0,1.91,22
-Bryan Okoh,2026-02-01,Toulouse,Auxerre,6.8,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,5,0,1.85,22
-Bryan Okoh,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Bryan Okoh,2026-02-15,Metz,Auxerre,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.05,33,37,1,0,1,0,4,55,0,1.85,22
-Bryan Okoh,2026-02-22,Auxerre,Stade Rennais,6.6,90,9720.0,18.0,108.0,0,0,0.17,0.0,28,31,0,0,5,0,4,50,0,1.85,22
-Bryan Okoh,2026-03-01,Lorient,Auxerre,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.04,50,54,1,0,1,0,4,64,0,1.85,22
-Bryan Okoh,2026-03-07,Auxerre,RC Strasbourg,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,20,25,0,0,3,0,2,39,0,1.85,22
-Bryan Okoh,2026-03-13,Olympique de Marseille,Auxerre,6.5,88,9504.0,18.0,108.0,0,0,0.0,0.0,24,33,0,0,3,0,8,46,0,1.89,22
-Bryan Okoh,2026-03-21,Auxerre,Stade Brestois,9.6,90,9720.0,18.0,108.0,2,0,0.4,0.02,23,28,1,0,2,0,3,41,0,1.85,22
-Bryan Okoh,2026-04-05,Le Havre,Auxerre,6.8,90,9720.0,18.0,108.0,0,0,0.04,0.0,24,27,0,0,2,0,5,44,0,1.85,22
-Bryan Okoh,2026-04-11,Auxerre,Nantes,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,40,54,0,0,1,0,4,74,0,1.85,22
-Bryan Okoh,2026-04-19,AS Monaco,Auxerre,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.0,11,14,0,0,1,0,2,29,0,1.85,22
-Bryan Okoh,2026-04-25,Olympique Lyonnais,Auxerre,7.3,90,9720.0,18.0,108.0,1,0,0.06,0.0,34,44,1,0,5,0,4,66,0,1.85,22
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Bryan Okoh,22,2026-01-14,Servette FC,FC Lausanne-Sport,7.3,45,4860.0,9.0,108.0,0,0,0.0,0.03,31,37,1,0,2,0,2,44,0.0,1.85
+Bryan Okoh,22,2026-01-17,BSC Young Boys,FC Lausanne-Sport,7.2,45,4860.0,9.0,108.0,0,0,0.0,0.01,23,28,0,0,0,0,2,37,0.0,1.85
+Bryan Okoh,22,2026-01-24,FC Lausanne-Sport,Grasshopper Club Zürich,7.5,63,6804.0,13.0,108.0,0,0,0.0,0.01,46,58,0,0,1,0,5,63,0.0,1.91
+Bryan Okoh,22,2026-02-01,Toulouse,Auxerre,6.8,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,5,0.0,1.85
+Bryan Okoh,22,2026-02-08,Auxerre,Paris FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Bryan Okoh,22,2026-02-15,Metz,Auxerre,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.05,33,37,1,0,1,0,4,55,0.0,1.85
+Bryan Okoh,22,2026-02-22,Auxerre,Stade Rennais,6.6,90,9720.0,18.0,108.0,0,0,0.17,0.0,28,31,0,0,5,0,4,50,0.0,1.85
+Bryan Okoh,22,2026-03-01,Lorient,Auxerre,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.04,50,54,1,0,1,0,4,64,0.0,1.85
+Bryan Okoh,22,2026-03-07,Auxerre,RC Strasbourg,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,20,25,0,0,3,0,2,39,0.0,1.85
+Bryan Okoh,22,2026-03-13,Olympique de Marseille,Auxerre,6.5,88,9504.0,18.0,108.0,0,0,0.0,0.0,24,33,0,0,3,0,8,46,0.0,1.89
+Bryan Okoh,22,2026-03-21,Auxerre,Stade Brestois,9.6,90,9720.0,18.0,108.0,2,0,0.4,0.02,23,28,1,0,2,0,3,41,0.0,1.85
+Bryan Okoh,22,2026-04-05,Le Havre,Auxerre,6.8,90,9720.0,18.0,108.0,0,0,0.04,0.0,24,27,0,0,2,0,5,44,0.0,1.85
+Bryan Okoh,22,2026-04-11,Auxerre,Nantes,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,40,54,0,0,1,0,4,74,0.0,1.85
+Bryan Okoh,22,2026-04-19,AS Monaco,Auxerre,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.0,11,14,0,0,1,0,2,29,0.0,1.85
+Bryan Okoh,22,2026-04-25,Olympique Lyonnais,Auxerre,7.3,90,9720.0,18.0,108.0,1,0,0.06,0.0,34,44,1,0,5,0,4,66,0.0,1.85
+Bryan Okoh,22,2026-05-03,Auxerre,Angers,6.8,90,,,0.0,0,0,0.0,0.01,59,64,0,0,2,0,7,80,,
+Bryan Okoh,22,2026-05-10,Auxerre,Nice,7.1,13,,,0.0,0,0,0.0,0.0,9,9,0,0,1,0,1,12,,

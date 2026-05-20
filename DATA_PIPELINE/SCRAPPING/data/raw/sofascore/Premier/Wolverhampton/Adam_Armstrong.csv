@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Adam Armstrong,2026-01-17,Southampton,Hull City,6.1,90,9720.0,18.0,108.0,0,0,0.62,0.13,12,14,0,0,1,0,0,22,0,1.85,29
-Adam Armstrong,2026-01-21,Southampton,Sheffield United,6.5,29,3132.0,6.0,108.0,0,0,0.09,0.08,5,7,1,0,1,0,2,10,0,1.92,29
-Adam Armstrong,2026-01-25,Portsmouth,Southampton,6.3,68,7344.0,14.0,108.0,0,0,0.49,0.0,1,5,0,0,0,0,0,11,0,1.91,29
-Adam Armstrong,2026-02-07,Wolverhampton,Chelsea,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.35,8,10,1,0,0,0,0,18,0,1.85,29
-Adam Armstrong,2026-02-11,Nottingham Forest,Wolverhampton,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.02,12,15,2,0,0,0,2,25,0,1.85,29
-Adam Armstrong,2026-02-15,Grimsby Town,Wolverhampton,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,18,3,0,0,0,1,29,0,1.85,29
-Adam Armstrong,2026-02-18,Wolverhampton,Arsenal,6.3,90,9720.0,18.0,108.0,0,0,0.03,0.0,8,13,0,0,1,0,0,19,0,1.85,29
-Adam Armstrong,2026-02-22,Crystal Palace,Wolverhampton,6.7,63,6804.0,13.0,108.0,0,0,0.15,0.2,12,13,1,0,1,0,2,26,0,1.91,29
-Adam Armstrong,2026-02-27,Wolverhampton,Aston Villa,6.5,89,9612.0,18.0,108.0,0,0,0.0,0.01,9,15,1,0,0,0,5,24,0,1.87,29
-Adam Armstrong,2026-03-03,Wolverhampton,Liverpool,6.5,60,6480.0,12.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,1,15,0,1.85,29
-Adam Armstrong,2026-03-06,Wolverhampton,Liverpool,6.4,29,3132.0,6.0,108.0,0,0,0.0,0.0,3,6,0,0,0,0,0,8,0,1.92,29
-Adam Armstrong,2026-03-16,Brentford,Wolverhampton,6.9,87,9396.0,17.0,108.0,1,0,0.43,0.04,9,14,0,0,0,0,1,25,0,1.81,29
-Adam Armstrong,2026-04-10,West Ham United,Wolverhampton,6.0,71,7668.0,14.0,108.0,0,0,0.16,0.01,5,7,0,0,0,0,0,14,0,1.83,29
-Adam Armstrong,2026-04-18,Leeds United,Wolverhampton,6.7,90,9720.0,18.0,108.0,0,0,0.16,0.05,9,13,0,0,0,0,0,21,0,1.85,29
-Adam Armstrong,2026-04-25,Wolverhampton,Tottenham Hotspur,7.0,90,9720.0,18.0,108.0,0,0,0.27,0.0,5,8,0,0,0,0,0,22,0,1.85,29
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Adam Armstrong,29,2026-01-17,Southampton,Hull City,6.1,90,9720.0,18.0,108.0,0,0,0.62,0.13,12,14,0,0,1,0,0,22,0.0,1.85
+Adam Armstrong,29,2026-01-21,Southampton,Sheffield United,6.5,29,3132.0,6.0,108.0,0,0,0.09,0.08,5,7,1,0,1,0,2,10,0.0,1.92
+Adam Armstrong,29,2026-01-25,Portsmouth,Southampton,6.3,68,7344.0,14.0,108.0,0,0,0.49,0.0,1,5,0,0,0,0,0,11,0.0,1.91
+Adam Armstrong,29,2026-02-07,Wolverhampton,Chelsea,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.35,8,10,1,0,0,0,0,18,0.0,1.85
+Adam Armstrong,29,2026-02-11,Nottingham Forest,Wolverhampton,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.02,12,15,2,0,0,0,2,25,0.0,1.85
+Adam Armstrong,29,2026-02-15,Grimsby Town,Wolverhampton,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,18,3,0,0,0,1,29,0.0,1.85
+Adam Armstrong,29,2026-02-18,Wolverhampton,Arsenal,6.3,90,9720.0,18.0,108.0,0,0,0.03,0.0,8,13,0,0,1,0,0,19,0.0,1.85
+Adam Armstrong,29,2026-02-22,Crystal Palace,Wolverhampton,6.7,63,6804.0,13.0,108.0,0,0,0.15,0.2,12,13,1,0,1,0,2,26,0.0,1.91
+Adam Armstrong,29,2026-02-27,Wolverhampton,Aston Villa,6.5,89,9612.0,18.0,108.0,0,0,0.0,0.01,9,15,1,0,0,0,5,24,0.0,1.87
+Adam Armstrong,29,2026-03-03,Wolverhampton,Liverpool,6.5,60,6480.0,12.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,1,15,0.0,1.85
+Adam Armstrong,29,2026-03-06,Wolverhampton,Liverpool,6.4,29,3132.0,6.0,108.0,0,0,0.0,0.0,3,6,0,0,0,0,0,8,0.0,1.92
+Adam Armstrong,29,2026-03-16,Brentford,Wolverhampton,6.9,87,9396.0,17.0,108.0,1,0,0.43,0.04,9,14,0,0,0,0,1,25,0.0,1.81
+Adam Armstrong,29,2026-04-10,West Ham United,Wolverhampton,6.0,71,7668.0,14.0,108.0,0,0,0.16,0.01,5,7,0,0,0,0,0,14,0.0,1.83
+Adam Armstrong,29,2026-04-18,Leeds United,Wolverhampton,6.7,90,9720.0,18.0,108.0,0,0,0.16,0.05,9,13,0,0,0,0,0,21,0.0,1.85
+Adam Armstrong,29,2026-04-25,Wolverhampton,Tottenham Hotspur,7.0,90,9720.0,18.0,108.0,0,0,0.27,0.0,5,8,0,0,0,0,0,22,0.0,1.85
+Adam Armstrong,29,2026-05-02,Wolverhampton,Sunderland,7.0,90,,,0.0,0,0,0.32,0.17,14,18,1,0,0,0,1,28,,
+Adam Armstrong,29,2026-05-09,Brighton & Hove Albion,Wolverhampton,6.3,90,,,0.0,0,0,0.0,0.0,6,9,0,0,0,0,1,18,,

@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Marcus Tavernier,2025-12-20,Bournemouth,Burnley,6.6,89,9612.0,18.0,108.0,0,0,0.06,0.07,44,59,1,0,0,0,5,77,0,1.87,27
-Marcus Tavernier,2025-12-27,Brentford,Bournemouth,6.8,90,9720.0,18.0,108.0,0,0,0.04,0.06,32,35,1,0,1,0,3,59,0,1.85,27
-Marcus Tavernier,2025-12-30,Chelsea,Bournemouth,6.4,90,9720.0,18.0,108.0,0,0,0.04,0.03,21,27,0,0,2,0,5,45,0,1.85,27
-Marcus Tavernier,2026-01-03,Bournemouth,Arsenal,6.5,90,9720.0,18.0,108.0,0,0,0.36,0.02,40,48,1,0,0,0,7,64,0,1.85,27
-Marcus Tavernier,2026-01-07,Bournemouth,Tottenham Hotspur,6.5,87,9396.0,17.0,108.0,0,0,0.04,0.12,16,24,2,0,0,0,7,36,0,1.81,27
-Marcus Tavernier,2026-01-10,Newcastle United,Bournemouth,8.1,49,5292.0,10.0,108.0,1,0,0.0,0.0,17,19,1,0,0,0,8,27,0,1.89,27
-Marcus Tavernier,2026-01-19,Brighton & Hove Albion,Bournemouth,7.2,71,7668.0,14.0,108.0,1,0,0.81,0.37,15,18,1,0,1,0,4,38,0,1.83,27
-Marcus Tavernier,2026-02-21,West Ham United,Bournemouth,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,11,0,1.85,27
-Marcus Tavernier,2026-02-28,Bournemouth,Sunderland,6.5,81,8748.0,16.0,108.0,0,0,0.26,0.21,23,32,1,0,0,0,4,55,0,1.83,27
-Marcus Tavernier,2026-03-03,Bournemouth,Brentford,6.4,90,9720.0,18.0,108.0,0,0,1.37,0.1,29,32,2,0,0,0,5,66,0,1.85,27
-Marcus Tavernier,2026-03-14,Burnley,Bournemouth,7.2,90,9720.0,18.0,108.0,0,0,0.2,0.38,31,39,4,0,2,0,7,62,0,1.85,27
-Marcus Tavernier,2026-03-20,Bournemouth,Manchester United,6.9,90,9720.0,18.0,108.0,0,0,0.26,0.06,50,53,2,0,0,0,6,75,0,1.85,27
-Marcus Tavernier,2026-04-11,Arsenal,Bournemouth,6.8,90,9720.0,18.0,108.0,0,0,0.01,0.05,28,33,1,0,1,0,5,51,0,1.85,27
-Marcus Tavernier,2026-04-18,Newcastle United,Bournemouth,7.1,89,9612.0,18.0,108.0,1,0,1.18,0.48,18,27,3,0,0,0,7,57,0,1.87,27
-Marcus Tavernier,2026-04-22,Bournemouth,Leeds United,6.4,89,9612.0,18.0,108.0,0,0,0.09,0.11,32,38,2,0,0,0,6,53,0,1.87,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Marcus Tavernier,27,2025-12-20,Bournemouth,Burnley,6.6,89,9612.0,18.0,108.0,0,0,0.06,0.07,44,59,1,0,0,0,5,77,0.0,1.87
+Marcus Tavernier,27,2025-12-27,Brentford,Bournemouth,6.8,90,9720.0,18.0,108.0,0,0,0.04,0.06,32,35,1,0,1,0,3,59,0.0,1.85
+Marcus Tavernier,27,2025-12-30,Chelsea,Bournemouth,6.4,90,9720.0,18.0,108.0,0,0,0.04,0.03,21,27,0,0,2,0,5,45,0.0,1.85
+Marcus Tavernier,27,2026-01-03,Bournemouth,Arsenal,6.5,90,9720.0,18.0,108.0,0,0,0.36,0.02,40,48,1,0,0,0,7,64,0.0,1.85
+Marcus Tavernier,27,2026-01-07,Bournemouth,Tottenham Hotspur,6.5,87,9396.0,17.0,108.0,0,0,0.04,0.12,16,24,2,0,0,0,7,36,0.0,1.81
+Marcus Tavernier,27,2026-01-10,Newcastle United,Bournemouth,8.1,49,5292.0,10.0,108.0,1,0,0.0,0.0,17,19,1,0,0,0,8,27,0.0,1.89
+Marcus Tavernier,27,2026-01-19,Brighton & Hove Albion,Bournemouth,7.2,71,7668.0,14.0,108.0,1,0,0.81,0.37,15,18,1,0,1,0,4,38,0.0,1.83
+Marcus Tavernier,27,2026-02-21,West Ham United,Bournemouth,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,11,0.0,1.85
+Marcus Tavernier,27,2026-02-28,Bournemouth,Sunderland,6.5,81,8748.0,16.0,108.0,0,0,0.26,0.21,23,32,1,0,0,0,4,55,0.0,1.83
+Marcus Tavernier,27,2026-03-03,Bournemouth,Brentford,6.4,90,9720.0,18.0,108.0,0,0,1.37,0.1,29,32,2,0,0,0,5,66,0.0,1.85
+Marcus Tavernier,27,2026-03-14,Burnley,Bournemouth,7.2,90,9720.0,18.0,108.0,0,0,0.2,0.38,31,39,4,0,2,0,7,62,0.0,1.85
+Marcus Tavernier,27,2026-03-20,Bournemouth,Manchester United,6.9,90,9720.0,18.0,108.0,0,0,0.26,0.06,50,53,2,0,0,0,6,75,0.0,1.85
+Marcus Tavernier,27,2026-04-11,Arsenal,Bournemouth,6.8,90,9720.0,18.0,108.0,0,0,0.01,0.05,28,33,1,0,1,0,5,51,0.0,1.85
+Marcus Tavernier,27,2026-04-18,Newcastle United,Bournemouth,7.1,89,9612.0,18.0,108.0,1,0,1.18,0.48,18,27,3,0,0,0,7,57,0.0,1.87
+Marcus Tavernier,27,2026-04-22,Bournemouth,Leeds United,6.4,89,9612.0,18.0,108.0,0,0,0.09,0.11,32,38,2,0,0,0,6,53,0.0,1.87
+Marcus Tavernier,27,2026-05-03,Bournemouth,Crystal Palace,6.9,86,,,0.0,0,0,0.14,0.03,24,25,0,0,0,0,6,44,,
+Marcus Tavernier,27,2026-05-09,Fulham,Bournemouth,7.2,78,,,0.0,0,0,0.22,0.06,21,23,2,0,0,0,3,45,,

@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Fodé Doucouré,2026-01-03,Mali,Tunisia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Fodé Doucouré,2026-01-09,Mali,Senegal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Fodé Doucouré,2026-01-18,Stade Rennais,Le Havre,6.8,11,1188.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,9,0,1.68,25
-Fodé Doucouré,2026-01-24,Le Havre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Fodé Doucouré,2026-01-30,RC Lens,Le Havre,6.7,12,1296.0,2.0,108.0,0,0,0.02,0.0,7,13,0,0,0,0,2,18,0,1.54,25
-Fodé Doucouré,2026-02-08,Le Havre,RC Strasbourg,6.7,64,6912.0,13.0,108.0,0,0,0.0,0.17,12,16,0,0,0,0,4,25,0,1.88,25
-Fodé Doucouré,2026-02-15,Le Havre,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Fodé Doucouré,2026-02-22,Nantes,Le Havre,6.6,45,4860.0,9.0,108.0,0,0,0.05,0.04,16,19,0,0,0,0,3,29,0,1.85,25
-Fodé Doucouré,2026-02-28,Le Havre,Paris Saint-Germain,6.5,29,3132.0,6.0,108.0,0,0,0.03,0.0,8,11,1,0,0,0,1,17,0,1.92,25
-Fodé Doucouré,2026-03-22,Paris FC,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Fodé Doucouré,2026-03-31,Russia,Mali,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,34,1,0,4,0,8,51,0,1.85,25
-Fodé Doucouré,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Fodé Doucouré,2026-04-12,Nice,Le Havre,6.7,70,7560.0,14.0,108.0,0,0,0.46,0.06,21,27,1,0,2,0,2,44,0,1.85,25
-Fodé Doucouré,2026-04-18,Angers,Le Havre,6.6,69,7452.0,14.0,108.0,0,0,0.0,0.38,25,26,1,0,2,0,1,37,0,1.88,25
-Fodé Doucouré,2026-04-26,Le Havre,Metz,7.3,69,7452.0,14.0,108.0,1,0,0.08,0.02,14,18,1,0,0,0,1,28,0,1.88,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Fodé Doucouré,25,2026-01-03,Mali,Tunisia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fodé Doucouré,25,2026-01-09,Mali,Senegal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fodé Doucouré,25,2026-01-18,Stade Rennais,Le Havre,6.8,11,1188.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,9,0.0,1.68
+Fodé Doucouré,25,2026-01-24,Le Havre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fodé Doucouré,25,2026-01-30,RC Lens,Le Havre,6.7,12,1296.0,2.0,108.0,0,0,0.02,0.0,7,13,0,0,0,0,2,18,0.0,1.54
+Fodé Doucouré,25,2026-02-08,Le Havre,RC Strasbourg,6.7,64,6912.0,13.0,108.0,0,0,0.0,0.17,12,16,0,0,0,0,4,25,0.0,1.88
+Fodé Doucouré,25,2026-02-15,Le Havre,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fodé Doucouré,25,2026-02-22,Nantes,Le Havre,6.6,45,4860.0,9.0,108.0,0,0,0.05,0.04,16,19,0,0,0,0,3,29,0.0,1.85
+Fodé Doucouré,25,2026-02-28,Le Havre,Paris Saint-Germain,6.5,29,3132.0,6.0,108.0,0,0,0.03,0.0,8,11,1,0,0,0,1,17,0.0,1.92
+Fodé Doucouré,25,2026-03-22,Paris FC,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fodé Doucouré,25,2026-03-31,Russia,Mali,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,34,1,0,4,0,8,51,0.0,1.85
+Fodé Doucouré,25,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fodé Doucouré,25,2026-04-12,Nice,Le Havre,6.7,70,7560.0,14.0,108.0,0,0,0.46,0.06,21,27,1,0,2,0,2,44,0.0,1.85
+Fodé Doucouré,25,2026-04-18,Angers,Le Havre,6.6,69,7452.0,14.0,108.0,0,0,0.0,0.38,25,26,1,0,2,0,1,37,0.0,1.88
+Fodé Doucouré,25,2026-04-26,Le Havre,Metz,7.3,69,7452.0,14.0,108.0,1,0,0.08,0.02,14,18,1,0,0,0,1,28,0.0,1.88
+Fodé Doucouré,25,2026-05-03,Lille,Le Havre,6.6,64,,,0.0,0,0,0.0,0.01,13,19,0,0,0,0,5,29,,
+Fodé Doucouré,25,2026-05-10,Le Havre,Olympique de Marseille,6.5,72,,,0.0,0,0,0.09,0.01,14,21,0,0,0,0,2,31,,

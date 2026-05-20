@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jonny Otto,2026-01-14,Deportivo Alavés,Rayo Vallecano,,1,108.0,0.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,1,8,0,0.0,32
-Jonny Otto,2026-01-18,Atlético Madrid,Deportivo Alavés,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,63,76,0,0,0,0,5,96,0,1.85,32
-Jonny Otto,2026-01-25,Deportivo Alavés,Real Betis,7.0,90,9720.0,18.0,108.0,0,0,0.06,0.02,25,34,0,0,1,0,6,57,0,1.85,32
-Jonny Otto,2026-01-30,Espanyol,Deportivo Alavés,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,46,61,0,0,0,0,3,81,0,1.85,32
-Jonny Otto,2026-02-04,Deportivo Alavés,Real Sociedad,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,42,49,1,0,1,0,5,86,0,1.85,32
-Jonny Otto,2026-02-08,Deportivo Alavés,Getafe,6.5,77,8316.0,15.0,108.0,0,0,0.0,0.02,26,32,1,0,0,0,2,48,0,1.8,32
-Jonny Otto,2026-02-23,Deportivo Alavés,Girona FC,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,45,53,0,0,1,0,4,77,0,1.85,32
-Jonny Otto,2026-02-27,Levante UD,Deportivo Alavés,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.14,45,52,1,0,2,0,2,71,0,1.85,32
-Jonny Otto,2026-03-08,Valencia,Deportivo Alavés,6.8,90,9720.0,18.0,108.0,0,0,0.07,0.01,30,34,0,0,0,0,4,50,0,1.85,32
-Jonny Otto,2026-03-13,Deportivo Alavés,Villarreal,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,41,47,0,0,0,0,2,60,0,1.85,32
-Jonny Otto,2026-03-22,Celta Vigo,Deportivo Alavés,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.06,52,59,0,0,1,0,6,69,0,1.85,32
-Jonny Otto,2026-04-05,Deportivo Alavés,Osasuna,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.08,45,52,2,0,0,0,3,77,0,1.85,32
-Jonny Otto,2026-04-11,Real Sociedad,Deportivo Alavés,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.07,51,54,1,0,3,0,6,73,0,1.85,32
-Jonny Otto,2026-04-21,Real Madrid,Deportivo Alavés,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.04,41,48,0,0,0,0,2,65,0,1.85,32
-Jonny Otto,2026-04-25,Deportivo Alavés,Mallorca,6.8,90,9720.0,18.0,108.0,0,0,0.03,0.09,64,72,1,0,0,0,6,84,0,1.85,32
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jonny Otto,32,2026-01-14,Deportivo Alavés,Rayo Vallecano,,1,108.0,0.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,1,8,0.0,0.0
+Jonny Otto,32,2026-01-18,Atlético Madrid,Deportivo Alavés,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,63,76,0,0,0,0,5,96,0.0,1.85
+Jonny Otto,32,2026-01-25,Deportivo Alavés,Real Betis,7.0,90,9720.0,18.0,108.0,0,0,0.06,0.02,25,34,0,0,1,0,6,57,0.0,1.85
+Jonny Otto,32,2026-01-30,Espanyol,Deportivo Alavés,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,46,61,0,0,0,0,3,81,0.0,1.85
+Jonny Otto,32,2026-02-04,Deportivo Alavés,Real Sociedad,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,42,49,1,0,1,0,5,86,0.0,1.85
+Jonny Otto,32,2026-02-08,Deportivo Alavés,Getafe,6.5,77,8316.0,15.0,108.0,0,0,0.0,0.02,26,32,1,0,0,0,2,48,0.0,1.8
+Jonny Otto,32,2026-02-23,Deportivo Alavés,Girona FC,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,45,53,0,0,1,0,4,77,0.0,1.85
+Jonny Otto,32,2026-02-27,Levante UD,Deportivo Alavés,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.14,45,52,1,0,2,0,2,71,0.0,1.85
+Jonny Otto,32,2026-03-08,Valencia,Deportivo Alavés,6.8,90,9720.0,18.0,108.0,0,0,0.07,0.01,30,34,0,0,0,0,4,50,0.0,1.85
+Jonny Otto,32,2026-03-13,Deportivo Alavés,Villarreal,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,41,47,0,0,0,0,2,60,0.0,1.85
+Jonny Otto,32,2026-03-22,Celta Vigo,Deportivo Alavés,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.06,52,59,0,0,1,0,6,69,0.0,1.85
+Jonny Otto,32,2026-04-05,Deportivo Alavés,Osasuna,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.08,45,52,2,0,0,0,3,77,0.0,1.85
+Jonny Otto,32,2026-04-11,Real Sociedad,Deportivo Alavés,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.07,51,54,1,0,3,0,6,73,0.0,1.85
+Jonny Otto,32,2026-04-21,Real Madrid,Deportivo Alavés,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.04,41,48,0,0,0,0,2,65,0.0,1.85
+Jonny Otto,32,2026-04-25,Deportivo Alavés,Mallorca,6.8,90,9720.0,18.0,108.0,0,0,0.03,0.09,64,72,1,0,0,0,6,84,0.0,1.85
+Jonny Otto,32,2026-05-02,Deportivo Alavés,Athletic Club,6.0,90,,,0.0,0,0,0.0,0.02,49,57,0,0,2,0,3,84,,
+Jonny Otto,32,2026-05-09,Elche,Deportivo Alavés,6.6,90,,,0.0,0,0,0.0,0.0,25,28,0,0,1,0,5,43,,
+Jonny Otto,32,2026-05-13,Deportivo Alavés,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

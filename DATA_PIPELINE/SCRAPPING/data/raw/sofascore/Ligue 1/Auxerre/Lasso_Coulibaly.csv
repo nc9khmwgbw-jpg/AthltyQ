@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Lasso Coulibaly,2025-09-27,Paris Saint-Germain,Auxerre,7.4,25,2700.0,5.0,108.0,0,0,0.0,0.0,0,0,0,0,1,0,5,24,0,1.85,23
-Lasso Coulibaly,2025-10-19,Stade Rennais,Auxerre,6.9,22,2376.0,4.0,108.0,0,0,0.0,0.01,0,0,0,0,1,0,1,11,0,1.68,23
-Lasso Coulibaly,2025-10-26,Auxerre,Le Havre,6.7,22,2376.0,4.0,108.0,0,0,0.02,0.02,0,0,0,0,0,0,2,24,0,1.68,23
-Lasso Coulibaly,2025-10-29,RC Strasbourg,Auxerre,6.6,21,2268.0,4.0,108.0,0,0,0.0,0.0,0,0,1,0,0,0,4,15,0,1.76,23
-Lasso Coulibaly,2025-11-01,Auxerre,Olympique de Marseille,6.6,43,4644.0,9.0,108.0,0,0,0.02,0.01,0,0,0,0,0,0,3,19,0,1.94,23
-Lasso Coulibaly,2025-12-14,Auxerre,Lille,6.5,1,108.0,0.0,108.0,0,0,0.0,0.01,0,0,0,0,0,0,0,4,0,0.0,23
-Lasso Coulibaly,2025-12-21,Auxerre,AS Monaco,6.5,28,3024.0,6.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,4,21,0,1.98,23
-Lasso Coulibaly,2026-01-04,Stade Brestois,Auxerre,7.1,30,3240.0,6.0,108.0,0,0,0.12,0.27,0,0,2,0,1,0,2,21,0,1.85,23
-Lasso Coulibaly,2026-01-17,RC Lens,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Lasso Coulibaly,2026-01-23,Auxerre,Paris Saint-Germain,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,0.0,23
-Lasso Coulibaly,2026-02-01,Toulouse,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Lasso Coulibaly,2026-02-08,Auxerre,Paris FC,6.7,29,3132.0,6.0,108.0,0,0,0.08,0.0,0,0,0,0,0,0,1,13,0,1.92,23
-Lasso Coulibaly,2026-02-15,Metz,Auxerre,6.3,18,1944.0,4.0,108.0,0,0,0.0,0.0,0,0,0,0,1,0,2,12,0,2.06,23
-Lasso Coulibaly,2026-04-11,Auxerre,Nantes,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.01,0,0,0,0,0,0,2,17,0,2.14,23
-Lasso Coulibaly,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lasso Coulibaly,23,2025-09-27,Paris Saint-Germain,Auxerre,7.4,25,2700.0,5.0,108.0,0,0,0.0,0.0,0,0,0,0,1,0,5,24,0.0,1.85
+Lasso Coulibaly,23,2025-10-19,Stade Rennais,Auxerre,6.9,22,2376.0,4.0,108.0,0,0,0.0,0.01,0,0,0,0,1,0,1,11,0.0,1.68
+Lasso Coulibaly,23,2025-10-26,Auxerre,Le Havre,6.7,22,2376.0,4.0,108.0,0,0,0.02,0.02,0,0,0,0,0,0,2,24,0.0,1.68
+Lasso Coulibaly,23,2025-10-29,RC Strasbourg,Auxerre,6.6,21,2268.0,4.0,108.0,0,0,0.0,0.0,0,0,1,0,0,0,4,15,0.0,1.76
+Lasso Coulibaly,23,2025-11-01,Auxerre,Olympique de Marseille,6.6,43,4644.0,9.0,108.0,0,0,0.02,0.01,0,0,0,0,0,0,3,19,0.0,1.94
+Lasso Coulibaly,23,2025-12-14,Auxerre,Lille,6.5,1,108.0,0.0,108.0,0,0,0.0,0.01,0,0,0,0,0,0,0,4,0.0,0.0
+Lasso Coulibaly,23,2025-12-21,Auxerre,AS Monaco,6.5,28,3024.0,6.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,4,21,0.0,1.98
+Lasso Coulibaly,23,2026-01-04,Stade Brestois,Auxerre,7.1,30,3240.0,6.0,108.0,0,0,0.12,0.27,0,0,2,0,1,0,2,21,0.0,1.85
+Lasso Coulibaly,23,2026-01-17,RC Lens,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lasso Coulibaly,23,2026-01-23,Auxerre,Paris Saint-Germain,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0.0,0.0
+Lasso Coulibaly,23,2026-02-01,Toulouse,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lasso Coulibaly,23,2026-02-08,Auxerre,Paris FC,6.7,29,3132.0,6.0,108.0,0,0,0.08,0.0,0,0,0,0,0,0,1,13,0.0,1.92
+Lasso Coulibaly,23,2026-02-15,Metz,Auxerre,6.3,18,1944.0,4.0,108.0,0,0,0.0,0.0,0,0,0,0,1,0,2,12,0.0,2.06
+Lasso Coulibaly,23,2026-04-11,Auxerre,Nantes,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.01,0,0,0,0,0,0,2,17,0.0,2.14
+Lasso Coulibaly,23,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lasso Coulibaly,23,2026-05-03,Auxerre,Angers,6.4,11,,,0.0,0,0,0.0,0.02,3,5,1,0,0,0,0,6,,
+Lasso Coulibaly,23,2026-05-10,Auxerre,Nice,6.5,11,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,1,3,,

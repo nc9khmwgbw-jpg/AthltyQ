@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Noah Cadiou,2026-01-24,Stade Rennais,Lorient,7.2,90,9720.0,18.0,108.0,0,0,0.37,0.01,17,23,0,0,0,0,3,33,0,1.85,27
-Noah Cadiou,2026-01-31,Lorient,Nantes,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.03,61,67,0,0,2,0,5,77,0,1.85,27
-Noah Cadiou,2026-02-04,Lorient,Paris FC,8.0,90,9720.0,18.0,108.0,1,0,0.0,0.0,43,48,1,0,2,0,7,58,0,1.85,27
-Noah Cadiou,2026-02-07,Stade Brestois,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Noah Cadiou,2026-02-15,Lorient,Angers,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.02,72,76,0,0,2,0,6,82,0,1.85,27
-Noah Cadiou,2026-02-22,Nice,Lorient,8.5,90,9720.0,18.0,108.0,1,0,0.04,0.18,68,79,1,0,1,0,5,94,0,1.85,27
-Noah Cadiou,2026-03-01,Lorient,Auxerre,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.48,56,63,1,0,0,0,8,77,0,1.85,27
-Noah Cadiou,2026-03-04,Lorient,Nice,7.4,33,3564.0,7.0,108.0,0,0,0.0,0.0,11,18,0,0,0,0,2,24,0,1.96,27
-Noah Cadiou,2026-03-08,Lille,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.19,0.01,44,49,1,0,2,0,6,64,0,1.85,27
-Noah Cadiou,2026-03-14,Lorient,RC Lens,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,34,38,0,0,0,0,5,52,0,1.85,27
-Noah Cadiou,2026-03-21,Toulouse,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.03,0.23,79,90,1,0,3,0,10,105,0,1.85,27
-Noah Cadiou,2026-04-05,Lorient,Paris FC,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.13,46,52,1,0,1,0,6,61,0,1.85,27
-Noah Cadiou,2026-04-12,Olympique Lyonnais,Lorient,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.05,48,57,0,0,2,0,4,68,0,1.85,27
-Noah Cadiou,2026-04-18,Lorient,Olympique de Marseille,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.03,57,64,0,0,0,0,2,74,0,1.85,27
-Noah Cadiou,2026-04-26,Lorient,RC Strasbourg,7.8,90,9720.0,18.0,108.0,1,0,0.7,0.01,42,47,0,0,1,0,7,60,0,1.85,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Noah Cadiou,27,2026-01-24,Stade Rennais,Lorient,7.2,90,9720.0,18.0,108.0,0,0,0.37,0.01,17,23,0,0,0,0,3,33,0.0,1.85
+Noah Cadiou,27,2026-01-31,Lorient,Nantes,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.03,61,67,0,0,2,0,5,77,0.0,1.85
+Noah Cadiou,27,2026-02-04,Lorient,Paris FC,8.0,90,9720.0,18.0,108.0,1,0,0.0,0.0,43,48,1,0,2,0,7,58,0.0,1.85
+Noah Cadiou,27,2026-02-07,Stade Brestois,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Noah Cadiou,27,2026-02-15,Lorient,Angers,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.02,72,76,0,0,2,0,6,82,0.0,1.85
+Noah Cadiou,27,2026-02-22,Nice,Lorient,8.5,90,9720.0,18.0,108.0,1,0,0.04,0.18,68,79,1,0,1,0,5,94,0.0,1.85
+Noah Cadiou,27,2026-03-01,Lorient,Auxerre,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.48,56,63,1,0,0,0,8,77,0.0,1.85
+Noah Cadiou,27,2026-03-04,Lorient,Nice,7.4,33,3564.0,7.0,108.0,0,0,0.0,0.0,11,18,0,0,0,0,2,24,0.0,1.96
+Noah Cadiou,27,2026-03-08,Lille,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.19,0.01,44,49,1,0,2,0,6,64,0.0,1.85
+Noah Cadiou,27,2026-03-14,Lorient,RC Lens,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,34,38,0,0,0,0,5,52,0.0,1.85
+Noah Cadiou,27,2026-03-21,Toulouse,Lorient,7.0,90,9720.0,18.0,108.0,0,0,0.03,0.23,79,90,1,0,3,0,10,105,0.0,1.85
+Noah Cadiou,27,2026-04-05,Lorient,Paris FC,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.13,46,52,1,0,1,0,6,61,0.0,1.85
+Noah Cadiou,27,2026-04-12,Olympique Lyonnais,Lorient,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.05,48,57,0,0,2,0,4,68,0.0,1.85
+Noah Cadiou,27,2026-04-18,Lorient,Olympique de Marseille,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.03,57,64,0,0,0,0,2,74,0.0,1.85
+Noah Cadiou,27,2026-04-26,Lorient,RC Strasbourg,7.8,90,9720.0,18.0,108.0,1,0,0.7,0.01,42,47,0,0,1,0,7,60,0.0,1.85
+Noah Cadiou,27,2026-05-02,Paris Saint-Germain,Lorient,6.4,90,,,0.0,0,0,0.0,0.0,29,34,0,0,1,0,3,41,,
+Noah Cadiou,27,2026-05-10,Metz,Lorient,8.2,90,,,0.0,1,0,0.24,0.04,60,68,1,0,0,0,5,75,,

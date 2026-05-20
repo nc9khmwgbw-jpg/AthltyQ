@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Chemsdine Talbi,2026-02-02,Sunderland,Burnley,7.9,80,8640.0,16.0,108.0,1,0,0.09,0.03,16,21,2,0,1,0,4,36,0,1.85,21
-Chemsdine Talbi,2026-02-07,Arsenal,Sunderland,6.3,64,6912.0,13.0,108.0,0,0,0.04,0.0,11,13,0,0,0,0,3,18,0,1.88,21
-Chemsdine Talbi,2026-02-11,Sunderland,Liverpool,6.5,10,1080.0,2.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,9,0,1.85,21
-Chemsdine Talbi,2026-02-15,Oxford United,Sunderland,6.9,81,8748.0,16.0,108.0,0,0,0.0,0.0,17,20,2,0,0,0,3,29,0,1.83,21
-Chemsdine Talbi,2026-02-22,Sunderland,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Chemsdine Talbi,2026-02-28,Bournemouth,Sunderland,6.1,69,7452.0,14.0,108.0,0,0,0.0,0.03,10,17,0,0,0,0,5,32,0,1.88,21
-Chemsdine Talbi,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Chemsdine Talbi,2026-03-08,Port Vale,Sunderland,6.3,68,7344.0,14.0,108.0,0,0,0.0,0.0,16,22,0,0,0,0,3,39,0,1.91,21
-Chemsdine Talbi,2026-03-14,Sunderland,Brighton & Hove Albion,6.8,85,9180.0,17.0,108.0,0,0,0.11,0.33,13,16,1,0,0,0,1,28,0,1.85,21
-Chemsdine Talbi,2026-03-22,Newcastle United,Sunderland,7.2,89,9612.0,18.0,108.0,1,0,0.54,0.05,13,17,1,0,0,0,2,31,0,1.87,21
-Chemsdine Talbi,2026-03-27,Morocco,Ecuador,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,6,0,2.06,21
-Chemsdine Talbi,2026-03-31,Morocco,Paraguay,6.7,82,8856.0,16.0,108.0,0,0,0.0,0.0,19,26,0,0,1,0,1,41,0,1.81,21
-Chemsdine Talbi,2026-04-12,Sunderland,Tottenham Hotspur,6.6,8,864.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,7,0,2.31,21
-Chemsdine Talbi,2026-04-19,Aston Villa,Sunderland,6.4,27,2916.0,5.0,108.0,0,0,0.0,0.0,8,9,0,0,0,0,1,11,0,1.71,21
-Chemsdine Talbi,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Chemsdine Talbi,21,2026-02-02,Sunderland,Burnley,7.9,80,8640.0,16.0,108.0,1,0,0.09,0.03,16,21,2,0,1,0,4,36,0.0,1.85
+Chemsdine Talbi,21,2026-02-07,Arsenal,Sunderland,6.3,64,6912.0,13.0,108.0,0,0,0.04,0.0,11,13,0,0,0,0,3,18,0.0,1.88
+Chemsdine Talbi,21,2026-02-11,Sunderland,Liverpool,6.5,10,1080.0,2.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,9,0.0,1.85
+Chemsdine Talbi,21,2026-02-15,Oxford United,Sunderland,6.9,81,8748.0,16.0,108.0,0,0,0.0,0.0,17,20,2,0,0,0,3,29,0.0,1.83
+Chemsdine Talbi,21,2026-02-22,Sunderland,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chemsdine Talbi,21,2026-02-28,Bournemouth,Sunderland,6.1,69,7452.0,14.0,108.0,0,0,0.0,0.03,10,17,0,0,0,0,5,32,0.0,1.88
+Chemsdine Talbi,21,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chemsdine Talbi,21,2026-03-08,Port Vale,Sunderland,6.3,68,7344.0,14.0,108.0,0,0,0.0,0.0,16,22,0,0,0,0,3,39,0.0,1.91
+Chemsdine Talbi,21,2026-03-14,Sunderland,Brighton & Hove Albion,6.8,85,9180.0,17.0,108.0,0,0,0.11,0.33,13,16,1,0,0,0,1,28,0.0,1.85
+Chemsdine Talbi,21,2026-03-22,Newcastle United,Sunderland,7.2,89,9612.0,18.0,108.0,1,0,0.54,0.05,13,17,1,0,0,0,2,31,0.0,1.87
+Chemsdine Talbi,21,2026-03-27,Morocco,Ecuador,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,6,0.0,2.06
+Chemsdine Talbi,21,2026-03-31,Morocco,Paraguay,6.7,82,8856.0,16.0,108.0,0,0,0.0,0.0,19,26,0,0,1,0,1,41,0.0,1.81
+Chemsdine Talbi,21,2026-04-12,Sunderland,Tottenham Hotspur,6.6,8,864.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,7,0.0,2.31
+Chemsdine Talbi,21,2026-04-19,Aston Villa,Sunderland,6.4,27,2916.0,5.0,108.0,0,0,0.0,0.0,8,9,0,0,0,0,1,11,0.0,1.71
+Chemsdine Talbi,21,2026-04-24,Sunderland,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chemsdine Talbi,21,2026-05-02,Wolverhampton,Sunderland,6.9,90,,,0.0,0,0,0.09,0.17,19,24,0,0,0,0,3,40,,
+Chemsdine Talbi,21,2026-05-09,Sunderland,Manchester United,6.4,79,,,0.0,0,0,0.05,0.04,22,26,0,0,0,0,3,41,,

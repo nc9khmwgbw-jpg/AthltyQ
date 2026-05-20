@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Abdoulaye Bamba,2025-11-23,Toulouse,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2025-11-30,Angers,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2025-12-07,Nice,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2025-12-12,Angers,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2025-12-19,Les Herbiers,Angers,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,56,60,0,0,0,0,3,65,0,1.85,36
-Abdoulaye Bamba,2026-01-04,Le Havre,Angers,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.0,18,24,0,0,2,0,2,37,0,1.85,36
-Abdoulaye Bamba,2026-01-10,Angers,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2026-01-17,Angers,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2026-02-01,Angers,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2026-02-15,Lorient,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2026-02-28,AS Monaco,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2026-03-07,Nantes,Angers,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,0.0,36
-Abdoulaye Bamba,2026-03-20,RC Lens,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2026-04-18,Angers,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,36
-Abdoulaye Bamba,2026-04-25,Angers,Paris Saint-Germain,6.2,86,9288.0,17.0,108.0,0,0,0.0,0.01,12,18,0,0,1,0,2,32,0,1.83,36
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abdoulaye Bamba,36,2025-11-23,Toulouse,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2025-11-30,Angers,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2025-12-07,Nice,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2025-12-12,Angers,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2025-12-19,Les Herbiers,Angers,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,56,60,0,0,0,0,3,65,0.0,1.85
+Abdoulaye Bamba,36,2026-01-04,Le Havre,Angers,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.0,18,24,0,0,2,0,2,37,0.0,1.85
+Abdoulaye Bamba,36,2026-01-10,Angers,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2026-01-17,Angers,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2026-02-01,Angers,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2026-02-15,Lorient,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2026-02-28,AS Monaco,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2026-03-07,Nantes,Angers,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0.0,0.0
+Abdoulaye Bamba,36,2026-03-20,RC Lens,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2026-04-18,Angers,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abdoulaye Bamba,36,2026-04-25,Angers,Paris Saint-Germain,6.2,86,9288.0,17.0,108.0,0,0,0.0,0.01,12,18,0,0,1,0,2,32,0.0,1.83
+Abdoulaye Bamba,36,2026-05-03,Auxerre,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Abdoulaye Bamba,36,2026-05-10,Angers,RC Strasbourg,6.8,15,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,2,4,,

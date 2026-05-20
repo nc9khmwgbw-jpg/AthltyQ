@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Bryan Gil,2025-12-12,Real Sociedad,Girona FC,6.9,77,8316.0,15.0,108.0,0,0,0.12,0.04,30,35,0,0,0,0,4,63,0,1.8,25
-Bryan Gil,2025-12-21,Girona FC,Atlético Madrid,6.3,29,3132.0,6.0,108.0,0,0,0.0,0.01,8,9,0,0,0,0,1,15,0,1.92,25
-Bryan Gil,2026-01-04,Mallorca,Girona FC,6.6,75,8100.0,15.0,108.0,0,0,0.0,0.23,31,36,2,0,0,0,5,51,0,1.85,25
-Bryan Gil,2026-01-10,Girona FC,Osasuna,7.4,79,8532.0,16.0,108.0,0,0,0.04,0.05,18,26,1,0,0,0,1,42,0,1.88,25
-Bryan Gil,2026-01-16,Espanyol,Girona FC,6.7,73,7884.0,15.0,108.0,0,0,0.02,0.18,9,11,2,0,1,0,7,32,0,1.9,25
-Bryan Gil,2026-01-26,Girona FC,Getafe,6.6,71,7668.0,14.0,108.0,0,0,0.0,0.34,18,21,1,0,0,0,3,39,0,1.83,25
-Bryan Gil,2026-01-31,Real Oviedo,Girona FC,7.0,69,7452.0,14.0,108.0,0,0,0.0,0.06,19,22,2,0,0,0,4,45,0,1.88,25
-Bryan Gil,2026-02-08,Sevilla,Girona FC,6.5,73,7884.0,15.0,108.0,0,0,0.09,0.11,23,27,1,0,0,0,4,45,0,1.9,25
-Bryan Gil,2026-02-16,Girona FC,FC Barcelona,6.7,68,7344.0,14.0,108.0,0,0,0.08,0.29,16,18,2,0,1,0,3,44,0,1.91,25
-Bryan Gil,2026-02-23,Deportivo Alavés,Girona FC,6.4,84,9072.0,17.0,108.0,0,0,0.0,0.06,35,39,1,0,1,0,3,63,0,1.87,25
-Bryan Gil,2026-03-01,Girona FC,Celta Vigo,6.8,65,7020.0,13.0,108.0,0,0,0.0,0.1,33,37,1,0,0,0,4,49,0,1.85,25
-Bryan Gil,2026-04-06,Girona FC,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Bryan Gil,2026-04-10,Real Madrid,Girona FC,6.5,20,2160.0,4.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,0,9,0,1.85,25
-Bryan Gil,2026-04-21,Girona FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Bryan Gil,2026-04-25,Valencia,Girona FC,6.9,29,3132.0,6.0,108.0,0,0,0.0,0.01,7,8,0,0,0,0,2,26,0,1.92,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Bryan Gil,25,2025-12-12,Real Sociedad,Girona FC,6.9,77,8316.0,15.0,108.0,0,0,0.12,0.04,30,35,0,0,0,0,4,63,0.0,1.8
+Bryan Gil,25,2025-12-21,Girona FC,Atlético Madrid,6.3,29,3132.0,6.0,108.0,0,0,0.0,0.01,8,9,0,0,0,0,1,15,0.0,1.92
+Bryan Gil,25,2026-01-04,Mallorca,Girona FC,6.6,75,8100.0,15.0,108.0,0,0,0.0,0.23,31,36,2,0,0,0,5,51,0.0,1.85
+Bryan Gil,25,2026-01-10,Girona FC,Osasuna,7.4,79,8532.0,16.0,108.0,0,0,0.04,0.05,18,26,1,0,0,0,1,42,0.0,1.88
+Bryan Gil,25,2026-01-16,Espanyol,Girona FC,6.7,73,7884.0,15.0,108.0,0,0,0.02,0.18,9,11,2,0,1,0,7,32,0.0,1.9
+Bryan Gil,25,2026-01-26,Girona FC,Getafe,6.6,71,7668.0,14.0,108.0,0,0,0.0,0.34,18,21,1,0,0,0,3,39,0.0,1.83
+Bryan Gil,25,2026-01-31,Real Oviedo,Girona FC,7.0,69,7452.0,14.0,108.0,0,0,0.0,0.06,19,22,2,0,0,0,4,45,0.0,1.88
+Bryan Gil,25,2026-02-08,Sevilla,Girona FC,6.5,73,7884.0,15.0,108.0,0,0,0.09,0.11,23,27,1,0,0,0,4,45,0.0,1.9
+Bryan Gil,25,2026-02-16,Girona FC,FC Barcelona,6.7,68,7344.0,14.0,108.0,0,0,0.08,0.29,16,18,2,0,1,0,3,44,0.0,1.91
+Bryan Gil,25,2026-02-23,Deportivo Alavés,Girona FC,6.4,84,9072.0,17.0,108.0,0,0,0.0,0.06,35,39,1,0,1,0,3,63,0.0,1.87
+Bryan Gil,25,2026-03-01,Girona FC,Celta Vigo,6.8,65,7020.0,13.0,108.0,0,0,0.0,0.1,33,37,1,0,0,0,4,49,0.0,1.85
+Bryan Gil,25,2026-04-06,Girona FC,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Bryan Gil,25,2026-04-10,Real Madrid,Girona FC,6.5,20,2160.0,4.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,0,9,0.0,1.85
+Bryan Gil,25,2026-04-21,Girona FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Bryan Gil,25,2026-04-25,Valencia,Girona FC,6.9,29,3132.0,6.0,108.0,0,0,0.0,0.01,7,8,0,0,0,0,2,26,0.0,1.92
+Bryan Gil,25,2026-05-01,Girona FC,Mallorca,6.7,20,,,0.0,0,0,0.04,0.01,10,11,0,0,0,0,3,23,,
+Bryan Gil,25,2026-05-14,Girona FC,Real Sociedad,6.5,45,,,0.0,0,0,0.16,0.11,14,20,2,0,0,0,3,37,,

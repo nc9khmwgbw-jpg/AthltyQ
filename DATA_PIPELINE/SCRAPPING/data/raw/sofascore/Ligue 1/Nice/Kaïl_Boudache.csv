@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Kaïl Boudache,2026-01-29,Ludogorets,Nice,7.1,45,4860.0,9.0,108.0,0,0,0.03,0.02,15,17,0,0,0,0,6,30,0,1.85,19
-Kaïl Boudache,2026-02-01,Nice,Stade Brestois,6.7,45,4860.0,9.0,108.0,0,0,0.06,0.0,4,4,0,0,1,0,2,22,0,1.85,19
-Kaïl Boudache,2026-02-04,Nice,Montpellier,8.0,26,2808.0,5.0,108.0,1,0,0.0,0.0,9,13,0,0,0,0,1,19,0,1.78,19
-Kaïl Boudache,2026-02-08,Nice,AS Monaco,6.6,26,2808.0,5.0,108.0,0,0,0.06,0.02,3,3,0,0,1,0,0,12,0,1.78,19
-Kaïl Boudache,2026-02-15,Olympique Lyonnais,Nice,6.3,84,9072.0,17.0,108.0,0,0,0.71,0.14,10,17,1,0,0,0,2,35,0,1.87,19
-Kaïl Boudache,2026-02-22,Nice,Lorient,7.5,45,4860.0,9.0,108.0,1,0,1.18,0.04,7,8,0,0,1,0,3,22,0,1.85,19
-Kaïl Boudache,2026-03-01,Paris FC,Nice,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.09,15,18,1,0,0,0,2,23,0,1.85,19
-Kaïl Boudache,2026-03-04,Lorient,Nice,6.5,82,8856.0,16.0,108.0,0,0,0.0,0.0,19,20,0,0,0,0,5,35,0,1.81,19
-Kaïl Boudache,2026-03-08,Nice,Stade Rennais,6.4,45,4860.0,9.0,108.0,0,0,0.14,0.0,5,9,0,0,0,0,0,19,0,1.85,19
-Kaïl Boudache,2026-03-14,Angers,Nice,6.4,63,6804.0,13.0,108.0,0,0,0.0,0.05,17,21,1,0,1,0,3,35,0,1.91,19
-Kaïl Boudache,2026-03-21,Nice,Paris Saint-Germain,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,1,0,2,12,0,1.85,19
-Kaïl Boudache,2026-04-04,RC Strasbourg,Nice,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,5,0,1.85,19
-Kaïl Boudache,2026-04-18,Lille,Nice,6.6,1,108.0,0.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,4,0,0.0,19
-Kaïl Boudache,2026-04-22,RC Strasbourg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaïl Boudache,2026-04-26,Olympique de Marseille,Nice,6.6,23,2484.0,5.0,108.0,0,0,0.32,0.02,7,8,0,0,0,0,2,15,0,2.01,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kaïl Boudache,19,2026-01-29,Ludogorets,Nice,7.1,45,4860.0,9.0,108.0,0,0,0.03,0.02,15,17,0,0,0,0,6,30,0.0,1.85
+Kaïl Boudache,19,2026-02-01,Nice,Stade Brestois,6.7,45,4860.0,9.0,108.0,0,0,0.06,0.0,4,4,0,0,1,0,2,22,0.0,1.85
+Kaïl Boudache,19,2026-02-04,Nice,Montpellier,8.0,26,2808.0,5.0,108.0,1,0,0.0,0.0,9,13,0,0,0,0,1,19,0.0,1.78
+Kaïl Boudache,19,2026-02-08,Nice,AS Monaco,6.6,26,2808.0,5.0,108.0,0,0,0.06,0.02,3,3,0,0,1,0,0,12,0.0,1.78
+Kaïl Boudache,19,2026-02-15,Olympique Lyonnais,Nice,6.3,84,9072.0,17.0,108.0,0,0,0.71,0.14,10,17,1,0,0,0,2,35,0.0,1.87
+Kaïl Boudache,19,2026-02-22,Nice,Lorient,7.5,45,4860.0,9.0,108.0,1,0,1.18,0.04,7,8,0,0,1,0,3,22,0.0,1.85
+Kaïl Boudache,19,2026-03-01,Paris FC,Nice,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.09,15,18,1,0,0,0,2,23,0.0,1.85
+Kaïl Boudache,19,2026-03-04,Lorient,Nice,6.5,82,8856.0,16.0,108.0,0,0,0.0,0.0,19,20,0,0,0,0,5,35,0.0,1.81
+Kaïl Boudache,19,2026-03-08,Nice,Stade Rennais,6.4,45,4860.0,9.0,108.0,0,0,0.14,0.0,5,9,0,0,0,0,0,19,0.0,1.85
+Kaïl Boudache,19,2026-03-14,Angers,Nice,6.4,63,6804.0,13.0,108.0,0,0,0.0,0.05,17,21,1,0,1,0,3,35,0.0,1.91
+Kaïl Boudache,19,2026-03-21,Nice,Paris Saint-Germain,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,1,0,2,12,0.0,1.85
+Kaïl Boudache,19,2026-04-04,RC Strasbourg,Nice,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,5,0.0,1.85
+Kaïl Boudache,19,2026-04-18,Lille,Nice,6.6,1,108.0,0.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,4,0.0,0.0
+Kaïl Boudache,19,2026-04-22,RC Strasbourg,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaïl Boudache,19,2026-04-26,Olympique de Marseille,Nice,6.6,23,2484.0,5.0,108.0,0,0,0.32,0.02,7,8,0,0,0,0,2,15,0.0,2.01
+Kaïl Boudache,19,2026-05-02,Nice,RC Lens,6.2,71,,,0.0,0,0,0.03,0.03,8,12,0,0,0,0,3,26,,
+Kaïl Boudache,19,2026-05-10,Auxerre,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

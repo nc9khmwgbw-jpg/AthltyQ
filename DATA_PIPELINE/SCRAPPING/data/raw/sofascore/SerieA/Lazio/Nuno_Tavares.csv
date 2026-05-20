@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Nuno Tavares,26,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nuno Tavares,26,2026-05-04,Cremonese,Lazio,6.6,90,,,0.0,0,0,0.0,0.15,54,65,2,0,1,0,3,101
-Nuno Tavares,26,2026-04-27,Lazio,Udinese,6.3,14,,,0.0,0,0,0.0,0.0,7,8,0,0,0,0,1,14
-Nuno Tavares,26,2026-04-22,Atalanta,Lazio,6.4,120,,,0.0,0,0,0.0,0.0,23,33,0,0,2,0,5,59
-Nuno Tavares,26,2026-04-18,SSC Napoli,Lazio,6.9,90,,,0.0,0,0,0.25,0.06,31,37,1,0,0,0,6,63
-Nuno Tavares,26,2026-04-13,Fiorentina,Lazio,7.1,90,,,0.0,0,0,0.08,0.13,52,54,2,0,1,0,3,85
-Nuno Tavares,26,2026-04-04,Lazio,Parma,6.8,90,,,0.0,0,0,0.0,0.05,60,70,1,0,3,0,5,106
-Nuno Tavares,26,2026-03-22,Bologna,Lazio,6.6,90,,,0.0,0,0,0.0,0.01,34,41,0,0,2,0,6,66
-Nuno Tavares,26,2026-03-15,Lazio,Milan,7.7,90,,,0.0,0,0,0.02,0.03,34,43,1,0,2,0,6,74
-Nuno Tavares,26,2026-03-09,Lazio,Sassuolo,7.8,90,,,0.0,0,0,0.0,0.05,43,51,1,0,1,0,4,80
-Nuno Tavares,26,2026-03-04,Lazio,Atalanta,7.0,90,,,0.0,0,0,0.0,0.0,77,85,0,0,2,0,5,116
-Nuno Tavares,26,2026-03-01,Torino,Lazio,7.3,25,,,0.0,0,0,0.0,0.46,38,40,2,0,0,0,1,54
-Nuno Tavares,26,2026-02-21,Cagliari,Lazio,6.6,18,,,0.0,0,0,0.0,0.01,17,18,0,0,0,0,1,24
-Nuno Tavares,26,2026-02-14,Lazio,Atalanta,6.9,90,,,0.0,0,0,0.02,0.47,64,72,3,0,1,0,4,94
 Nuno Tavares,26,2026-02-11,Bologna,Lazio,7.1,10,,,0.0,0,0,0.0,0.0,4,4,0,0,0,0,0,13
+Nuno Tavares,26,2026-02-14,Lazio,Atalanta,6.9,90,,,0.0,0,0,0.02,0.47,64,72,3,0,1,0,4,94
+Nuno Tavares,26,2026-02-21,Cagliari,Lazio,6.6,18,,,0.0,0,0,0.0,0.01,17,18,0,0,0,0,1,24
+Nuno Tavares,26,2026-03-01,Torino,Lazio,7.3,25,,,0.0,0,0,0.0,0.46,38,40,2,0,0,0,1,54
+Nuno Tavares,26,2026-03-04,Lazio,Atalanta,7.0,90,,,0.0,0,0,0.0,0.0,77,85,0,0,2,0,5,116
+Nuno Tavares,26,2026-03-09,Lazio,Sassuolo,7.8,90,,,0.0,0,0,0.0,0.05,43,51,1,0,1,0,4,80
+Nuno Tavares,26,2026-03-15,Lazio,Milan,7.7,90,,,0.0,0,0,0.02,0.03,34,43,1,0,2,0,6,74
+Nuno Tavares,26,2026-03-22,Bologna,Lazio,6.6,90,,,0.0,0,0,0.0,0.01,34,41,0,0,2,0,6,66
+Nuno Tavares,26,2026-04-04,Lazio,Parma,6.8,90,,,0.0,0,0,0.0,0.05,60,70,1,0,3,0,5,106
+Nuno Tavares,26,2026-04-13,Fiorentina,Lazio,7.1,90,,,0.0,0,0,0.08,0.13,52,54,2,0,1,0,3,85
+Nuno Tavares,26,2026-04-18,SSC Napoli,Lazio,6.9,90,,,0.0,0,0,0.25,0.06,31,37,1,0,0,0,6,63
+Nuno Tavares,26,2026-04-22,Atalanta,Lazio,6.4,120,,,0.0,0,0,0.0,0.0,23,33,0,0,2,0,5,59
+Nuno Tavares,26,2026-04-27,Lazio,Udinese,6.3,14,,,0.0,0,0,0.0,0.0,7,8,0,0,0,0,1,14
+Nuno Tavares,26,2026-05-04,Cremonese,Lazio,6.6,90,,,0.0,0,0,0.0,0.15,54,65,2,0,1,0,3,101
+Nuno Tavares,26,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Nuno Tavares,26,2026-05-13,Lazio,Inter,6.5,90,,,0.0,0,0,0.0,0.0,32,40,0,0,0,0,3,75

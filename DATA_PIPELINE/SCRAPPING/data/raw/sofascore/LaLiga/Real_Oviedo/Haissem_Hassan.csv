@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Haissem Hassan,2026-01-25,FC Barcelona,Real Oviedo,6.5,82,8856.0,16.0,108.0,0,0,0.1,0.0,11,18,1,0,1,0,5,34,0,1.81,24
-Haissem Hassan,2026-01-31,Real Oviedo,Girona FC,6.6,64,6912.0,13.0,108.0,0,0,0.04,0.01,10,12,0,0,0,0,1,30,0,1.88,24
-Haissem Hassan,2026-02-15,Real Oviedo,Athletic Club,6.6,57,6156.0,11.0,108.0,0,0,0.02,0.0,10,14,0,0,0,0,6,27,0,1.79,24
-Haissem Hassan,2026-02-21,Real Sociedad,Real Oviedo,7.2,76,8208.0,15.0,108.0,0,0,0.03,0.1,15,17,1,0,1,0,7,39,0,1.83,24
-Haissem Hassan,2026-02-28,Real Oviedo,Atlético Madrid,6.9,72,7776.0,14.0,108.0,0,0,0.0,0.04,8,11,0,0,2,0,1,33,0,1.8,24
-Haissem Hassan,2026-03-04,Rayo Vallecano,Real Oviedo,6.4,61,6588.0,12.0,108.0,0,0,0.08,0.03,10,12,1,0,0,0,2,21,0,1.82,24
-Haissem Hassan,2026-03-09,Espanyol,Real Oviedo,6.9,34,3672.0,7.0,108.0,0,0,0.0,0.02,6,8,1,0,0,0,1,14,0,1.91,24
-Haissem Hassan,2026-03-14,Real Oviedo,Valencia,6.5,20,2160.0,4.0,108.0,0,0,0.08,0.0,3,4,0,0,0,0,1,11,0,1.85,24
-Haissem Hassan,2026-03-21,Levante UD,Real Oviedo,7.1,26,2808.0,5.0,108.0,0,0,0.0,0.01,8,12,0,0,0,0,1,21,0,1.78,24
-Haissem Hassan,2026-03-27,Saudi Arabia,Egypt,7.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,13,14,1,0,0,0,4,27,0,1.85,24
-Haissem Hassan,2026-03-31,Spain,Egypt,6.4,22,2376.0,4.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,2,11,0,1.68,24
-Haissem Hassan,2026-04-05,Real Oviedo,Sevilla,6.7,18,1944.0,4.0,108.0,0,0,0.0,0.01,6,7,0,0,0,0,1,12,0,2.06,24
-Haissem Hassan,2026-04-12,Celta Vigo,Real Oviedo,6.8,24,2592.0,5.0,108.0,0,0,0.0,0.07,3,4,0,0,0,0,3,13,0,1.93,24
-Haissem Hassan,2026-04-23,Real Oviedo,Villarreal,6.9,19,2052.0,4.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,1,16,0,1.95,24
-Haissem Hassan,2026-04-26,Real Oviedo,Elche,6.7,58,6264.0,12.0,108.0,0,0,0.0,0.01,18,19,0,0,0,0,1,36,0,1.92,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Haissem Hassan,24,2026-01-25,FC Barcelona,Real Oviedo,6.5,82,8856.0,16.0,108.0,0,0,0.1,0.0,11,18,1,0,1,0,5,34,0.0,1.81
+Haissem Hassan,24,2026-01-31,Real Oviedo,Girona FC,6.6,64,6912.0,13.0,108.0,0,0,0.04,0.01,10,12,0,0,0,0,1,30,0.0,1.88
+Haissem Hassan,24,2026-02-15,Real Oviedo,Athletic Club,6.6,57,6156.0,11.0,108.0,0,0,0.02,0.0,10,14,0,0,0,0,6,27,0.0,1.79
+Haissem Hassan,24,2026-02-21,Real Sociedad,Real Oviedo,7.2,76,8208.0,15.0,108.0,0,0,0.03,0.1,15,17,1,0,1,0,7,39,0.0,1.83
+Haissem Hassan,24,2026-02-28,Real Oviedo,Atlético Madrid,6.9,72,7776.0,14.0,108.0,0,0,0.0,0.04,8,11,0,0,2,0,1,33,0.0,1.8
+Haissem Hassan,24,2026-03-04,Rayo Vallecano,Real Oviedo,6.4,61,6588.0,12.0,108.0,0,0,0.08,0.03,10,12,1,0,0,0,2,21,0.0,1.82
+Haissem Hassan,24,2026-03-09,Espanyol,Real Oviedo,6.9,34,3672.0,7.0,108.0,0,0,0.0,0.02,6,8,1,0,0,0,1,14,0.0,1.91
+Haissem Hassan,24,2026-03-14,Real Oviedo,Valencia,6.5,20,2160.0,4.0,108.0,0,0,0.08,0.0,3,4,0,0,0,0,1,11,0.0,1.85
+Haissem Hassan,24,2026-03-21,Levante UD,Real Oviedo,7.1,26,2808.0,5.0,108.0,0,0,0.0,0.01,8,12,0,0,0,0,1,21,0.0,1.78
+Haissem Hassan,24,2026-03-27,Saudi Arabia,Egypt,7.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,13,14,1,0,0,0,4,27,0.0,1.85
+Haissem Hassan,24,2026-03-31,Spain,Egypt,6.4,22,2376.0,4.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,2,11,0.0,1.68
+Haissem Hassan,24,2026-04-05,Real Oviedo,Sevilla,6.7,18,1944.0,4.0,108.0,0,0,0.0,0.01,6,7,0,0,0,0,1,12,0.0,2.06
+Haissem Hassan,24,2026-04-12,Celta Vigo,Real Oviedo,6.8,24,2592.0,5.0,108.0,0,0,0.0,0.07,3,4,0,0,0,0,3,13,0.0,1.93
+Haissem Hassan,24,2026-04-23,Real Oviedo,Villarreal,6.9,19,2052.0,4.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,1,16,0.0,1.95
+Haissem Hassan,24,2026-04-26,Real Oviedo,Elche,6.7,58,6264.0,12.0,108.0,0,0,0.0,0.01,18,19,0,0,0,0,1,36,0.0,1.92
+Haissem Hassan,24,2026-05-03,Real Betis,Real Oviedo,6.5,26,,,0.0,0,0,0.03,0.13,5,8,1,0,0,0,0,17,,
+Haissem Hassan,24,2026-05-10,Real Oviedo,Getafe,7.0,57,,,0.0,0,0,0.0,0.08,9,13,1,0,0,0,1,33,,
+Haissem Hassan,24,2026-05-14,Real Madrid,Real Oviedo,7.0,21,,,0.0,0,0,0.03,0.0,3,5,0,0,0,0,0,14,,

@@ -1,14 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Joshua King,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Joshua King,2026-02-07,Fulham,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Joshua King,2026-02-11,Manchester City,Fulham,6.6,30,3240.0,6.0,108.0,0,0,0.21,0.0,8,10,0,0,0,0,2,16,0,1.85,19
-Joshua King,2026-02-15,Stoke City,Fulham,6.5,77,8316.0,15.0,108.0,0,0,0.0,0.0,27,30,1,0,0,0,1,39,0,1.8,19
-Joshua King,2026-02-22,Sunderland,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Joshua King,2026-03-01,Fulham,Tottenham Hotspur,6.6,16,1728.0,3.0,108.0,0,0,0.0,0.0,5,5,0,0,0,0,2,8,0,1.74,19
-Joshua King,2026-03-04,Fulham,West Ham United,6.8,61,6588.0,12.0,108.0,0,0,0.15,0.01,12,14,1,0,0,0,3,22,0,1.82,19
-Joshua King,2026-03-08,Fulham,Southampton,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,3,0,1.85,19
-Joshua King,2026-03-15,Nottingham Forest,Fulham,6.7,63,6804.0,13.0,108.0,0,0,0.39,0.0,11,16,0,0,0,0,3,31,0,1.91,19
-Joshua King,2026-03-21,Fulham,Burnley,7.9,82,8856.0,16.0,108.0,1,0,0.4,0.09,14,20,3,0,0,0,3,32,0,1.81,19
-Joshua King,2026-04-11,Liverpool,Fulham,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.01,7,11,0,0,1,0,2,17,0,1.85,19
-Joshua King,2026-04-18,Brentford,Fulham,6.6,23,2484.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,0,6,0,2.01,19
-Joshua King,2026-04-25,Fulham,Aston Villa,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.04,4,4,1,0,0,0,1,9,0,1.98,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Joshua King,19,2026-02-01,Manchester United,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joshua King,19,2026-02-07,Fulham,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joshua King,19,2026-02-11,Manchester City,Fulham,6.6,30,3240.0,6.0,108.0,0,0,0.21,0.0,8,10,0,0,0,0,2,16,0.0,1.85
+Joshua King,19,2026-02-15,Stoke City,Fulham,6.5,77,8316.0,15.0,108.0,0,0,0.0,0.0,27,30,1,0,0,0,1,39,0.0,1.8
+Joshua King,19,2026-02-22,Sunderland,Fulham,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Joshua King,19,2026-03-01,Fulham,Tottenham Hotspur,6.6,16,1728.0,3.0,108.0,0,0,0.0,0.0,5,5,0,0,0,0,2,8,0.0,1.74
+Joshua King,19,2026-03-04,Fulham,West Ham United,6.8,61,6588.0,12.0,108.0,0,0,0.15,0.01,12,14,1,0,0,0,3,22,0.0,1.82
+Joshua King,19,2026-03-08,Fulham,Southampton,6.4,10,1080.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,3,0.0,1.85
+Joshua King,19,2026-03-15,Nottingham Forest,Fulham,6.7,63,6804.0,13.0,108.0,0,0,0.39,0.0,11,16,0,0,0,0,3,31,0.0,1.91
+Joshua King,19,2026-03-21,Fulham,Burnley,7.9,82,8856.0,16.0,108.0,1,0,0.4,0.09,14,20,3,0,0,0,3,32,0.0,1.81
+Joshua King,19,2026-04-11,Liverpool,Fulham,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.01,7,11,0,0,1,0,2,17,0.0,1.85
+Joshua King,19,2026-04-18,Brentford,Fulham,6.6,23,2484.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,0,6,0.0,2.01
+Joshua King,19,2026-04-25,Fulham,Aston Villa,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.04,4,4,1,0,0,0,1,9,0.0,1.98
+Joshua King,19,2026-05-02,Arsenal,Fulham,6.7,26,,,0.0,0,0,0.0,0.03,6,6,0,0,0,0,1,13,,
+Joshua King,19,2026-05-09,Fulham,Bournemouth,7.2,14,,,0.0,0,0,0.06,0.03,7,10,0,0,0,0,0,15,,

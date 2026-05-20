@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Santiago Hidalgo,2026-01-25,Stade Brestois,Toulouse,6.1,80,8640.0,16.0,108.0,0,0,0.0,0.07,8,17,0,0,0,0,1,29,0,1.85,21
-Santiago Hidalgo,2026-02-01,Toulouse,Auxerre,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.02,17,21,0,0,0,0,6,33,0,1.85,21
-Santiago Hidalgo,2026-02-04,Toulouse,Amiens SC,6.7,34,3672.0,7.0,108.0,0,0,0.0,0.0,10,13,0,0,0,0,3,24,0,1.91,21
-Santiago Hidalgo,2026-02-08,Angers,Toulouse,6.6,74,7992.0,15.0,108.0,0,0,0.07,0.04,17,20,1,0,0,0,6,41,0,1.88,21
-Santiago Hidalgo,2026-02-15,Le Havre,Toulouse,6.3,60,6480.0,12.0,108.0,0,0,0.02,0.03,6,10,0,0,1,0,1,31,0,1.85,21
-Santiago Hidalgo,2026-02-21,Toulouse,Paris FC,7.3,90,9720.0,18.0,108.0,0,0,0.16,0.18,16,23,4,0,0,0,9,52,0,1.85,21
-Santiago Hidalgo,2026-02-28,Stade Rennais,Toulouse,7.1,90,9720.0,18.0,108.0,0,0,0.05,0.02,11,16,0,0,0,0,8,40,0,1.85,21
-Santiago Hidalgo,2026-03-04,Olympique de Marseille,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Santiago Hidalgo,2026-03-07,Toulouse,Olympique de Marseille,6.4,45,4860.0,9.0,108.0,0,0,0.15,0.0,7,8,0,0,0,0,0,17,0,1.85,21
-Santiago Hidalgo,2026-03-15,Metz,Toulouse,6.4,76,8208.0,15.0,108.0,0,0,0.02,0.08,11,13,1,0,0,0,2,22,0,1.83,21
-Santiago Hidalgo,2026-03-21,Toulouse,Lorient,6.4,65,7020.0,13.0,108.0,0,0,0.13,0.04,10,14,0,0,1,0,2,23,0,1.85,21
-Santiago Hidalgo,2026-04-12,Toulouse,Lille,6.4,14,1512.0,3.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4,0,1.98,21
-Santiago Hidalgo,2026-04-17,RC Lens,Toulouse,6.6,45,4860.0,9.0,108.0,0,0,0.02,0.15,6,8,1,0,0,0,2,21,0,1.85,21
-Santiago Hidalgo,2026-04-21,RC Lens,Toulouse,7.5,76,8208.0,15.0,108.0,1,0,0.0,0.0,7,11,1,0,0,0,8,30,0,1.83,21
-Santiago Hidalgo,2026-04-25,Toulouse,AS Monaco,6.2,79,8532.0,16.0,108.0,0,0,0.0,0.02,8,12,0,0,2,0,1,36,0,1.88,21
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Santiago Hidalgo,21,2026-01-25,Stade Brestois,Toulouse,6.1,80,8640.0,16.0,108.0,0,0,0.0,0.07,8,17,0,0,0,0,1,29,0.0,1.85
+Santiago Hidalgo,21,2026-02-01,Toulouse,Auxerre,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.02,17,21,0,0,0,0,6,33,0.0,1.85
+Santiago Hidalgo,21,2026-02-04,Toulouse,Amiens SC,6.7,34,3672.0,7.0,108.0,0,0,0.0,0.0,10,13,0,0,0,0,3,24,0.0,1.91
+Santiago Hidalgo,21,2026-02-08,Angers,Toulouse,6.6,74,7992.0,15.0,108.0,0,0,0.07,0.04,17,20,1,0,0,0,6,41,0.0,1.88
+Santiago Hidalgo,21,2026-02-15,Le Havre,Toulouse,6.3,60,6480.0,12.0,108.0,0,0,0.02,0.03,6,10,0,0,1,0,1,31,0.0,1.85
+Santiago Hidalgo,21,2026-02-21,Toulouse,Paris FC,7.3,90,9720.0,18.0,108.0,0,0,0.16,0.18,16,23,4,0,0,0,9,52,0.0,1.85
+Santiago Hidalgo,21,2026-02-28,Stade Rennais,Toulouse,7.1,90,9720.0,18.0,108.0,0,0,0.05,0.02,11,16,0,0,0,0,8,40,0.0,1.85
+Santiago Hidalgo,21,2026-03-04,Olympique de Marseille,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Santiago Hidalgo,21,2026-03-07,Toulouse,Olympique de Marseille,6.4,45,4860.0,9.0,108.0,0,0,0.15,0.0,7,8,0,0,0,0,0,17,0.0,1.85
+Santiago Hidalgo,21,2026-03-15,Metz,Toulouse,6.4,76,8208.0,15.0,108.0,0,0,0.02,0.08,11,13,1,0,0,0,2,22,0.0,1.83
+Santiago Hidalgo,21,2026-03-21,Toulouse,Lorient,6.4,65,7020.0,13.0,108.0,0,0,0.13,0.04,10,14,0,0,1,0,2,23,0.0,1.85
+Santiago Hidalgo,21,2026-04-12,Toulouse,Lille,6.4,14,1512.0,3.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4,0.0,1.98
+Santiago Hidalgo,21,2026-04-17,RC Lens,Toulouse,6.6,45,4860.0,9.0,108.0,0,0,0.02,0.15,6,8,1,0,0,0,2,21,0.0,1.85
+Santiago Hidalgo,21,2026-04-21,RC Lens,Toulouse,7.5,76,8208.0,15.0,108.0,1,0,0.0,0.0,7,11,1,0,0,0,8,30,0.0,1.83
+Santiago Hidalgo,21,2026-04-25,Toulouse,AS Monaco,6.2,79,8532.0,16.0,108.0,0,0,0.0,0.02,8,12,0,0,2,0,1,36,0.0,1.88
+Santiago Hidalgo,21,2026-05-03,RC Strasbourg,Toulouse,6.8,78,,,0.0,0,0,0.09,0.04,18,21,1,0,0,0,6,45,,
+Santiago Hidalgo,21,2026-05-10,Toulouse,Olympique Lyonnais,7.3,82,,,0.0,0,0,0.38,0.53,11,15,1,0,0,0,5,36,,

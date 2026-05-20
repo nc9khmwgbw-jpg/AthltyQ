@@ -1,10 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Milan Aleksić,2025-11-03,Cracovia,Zagłębie Lubin,6.5,26,2808.0,5.0,108.0,0,0,0.0,0.15,15,19,1,0,1,0,3,30,0,1.78,20
-Milan Aleksić,2025-11-07,Radomiak Radom,Cracovia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Milan Aleksić,2025-11-22,Cracovia,Motor Lublin,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Milan Aleksić,2025-11-29,MKS Korona Kielce,Cracovia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Milan Aleksić,2025-12-04,Wisła Płock,Cracovia,7.0,24,2592.0,5.0,108.0,0,0,0.0,0.11,3,6,1,0,1,0,2,15,0,1.93,20
-Milan Aleksić,2025-12-07,Cracovia,Lech Poznań,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Milan Aleksić,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Milan Aleksić,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Milan Aleksić,2026-03-08,Port Vale,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Milan Aleksić,20,2025-11-03,Cracovia,Zagłębie Lubin,6.5,26,2808.0,5.0,108.0,0,0,0.0,0.15,15,19,1,0,1,0,3,30,0.0,1.78
+Milan Aleksić,20,2025-11-07,Radomiak Radom,Cracovia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Milan Aleksić,20,2025-11-22,Cracovia,Motor Lublin,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Milan Aleksić,20,2025-11-29,MKS Korona Kielce,Cracovia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Milan Aleksić,20,2025-12-04,Wisła Płock,Cracovia,7.0,24,2592.0,5.0,108.0,0,0,0.0,0.11,3,6,1,0,1,0,2,15,0.0,1.93
+Milan Aleksić,20,2025-12-07,Cracovia,Lech Poznań,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Milan Aleksić,20,2026-02-28,Bournemouth,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Milan Aleksić,20,2026-03-03,Leeds United,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Milan Aleksić,20,2026-03-08,Port Vale,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Milan Aleksić,20,2026-03-09,Sunderland U21,Leeds United U21,,63,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Milan Aleksić,20,2026-03-14,Chelsea U21,Sunderland U21,,87,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

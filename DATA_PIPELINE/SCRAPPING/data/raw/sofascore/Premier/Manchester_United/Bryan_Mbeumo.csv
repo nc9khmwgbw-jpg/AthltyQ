@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Bryan Mbeumo,2026-01-04,South Africa,Cameroon,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,21,1,0,1,0,4,36,0,1.85,26
-Bryan Mbeumo,2026-01-09,Cameroon,Morocco,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,16,2,0,0,0,0,47,0,1.85,26
-Bryan Mbeumo,2026-01-17,Manchester United,Manchester City,7.0,71,7668.0,14.0,108.0,1,0,0.8,0.0,12,13,0,0,0,0,2,23,0,1.83,26
-Bryan Mbeumo,2026-01-25,Arsenal,Manchester United,7.6,69,7452.0,14.0,108.0,1,0,0.15,0.01,7,12,2,0,0,0,2,22,0,1.88,26
-Bryan Mbeumo,2026-02-01,Manchester United,Fulham,7.0,89,9612.0,18.0,108.0,0,0,0.42,0.23,17,23,2,0,0,0,1,35,0,1.87,26
-Bryan Mbeumo,2026-02-07,Manchester United,Tottenham Hotspur,6.9,87,9396.0,17.0,108.0,1,0,0.26,0.04,26,32,0,0,1,0,3,53,0,1.81,26
-Bryan Mbeumo,2026-02-10,West Ham United,Manchester United,6.2,90,9720.0,18.0,108.0,0,0,0.13,0.09,30,36,2,0,0,0,6,51,0,1.85,26
-Bryan Mbeumo,2026-02-23,Everton,Manchester United,6.1,77,8316.0,15.0,108.0,0,0,0.43,0.16,10,11,2,0,1,0,2,26,0,1.8,26
-Bryan Mbeumo,2026-03-01,Manchester United,Crystal Palace,6.9,86,9288.0,17.0,108.0,0,0,0.0,0.23,20,22,3,0,0,0,3,41,0,1.83,26
-Bryan Mbeumo,2026-03-04,Newcastle United,Manchester United,5.9,77,8316.0,15.0,108.0,0,0,0.33,0.06,19,25,1,0,0,0,2,36,0,1.8,26
-Bryan Mbeumo,2026-03-15,Manchester United,Aston Villa,6.5,75,8100.0,15.0,108.0,0,0,0.08,0.03,12,15,1,0,1,0,0,25,0,1.85,26
-Bryan Mbeumo,2026-03-20,Bournemouth,Manchester United,6.5,71,7668.0,14.0,108.0,0,0,0.02,0.01,13,22,1,0,0,0,0,39,0,1.83,26
-Bryan Mbeumo,2026-04-13,Manchester United,Leeds United,6.6,20,2160.0,4.0,108.0,0,0,0.07,0.19,7,7,1,0,0,0,1,15,0,1.85,26
-Bryan Mbeumo,2026-04-18,Chelsea,Manchester United,6.5,87,9396.0,17.0,108.0,0,0,0.0,0.03,18,26,0,0,0,0,3,39,0,1.81,26
-Bryan Mbeumo,2026-04-27,Manchester United,Brentford,6.9,74,7992.0,15.0,108.0,0,0,0.0,0.04,18,21,2,0,0,0,2,35,0,1.88,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Bryan Mbeumo,26,2026-01-04,South Africa,Cameroon,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,21,1,0,1,0,4,36,0.0,1.85
+Bryan Mbeumo,26,2026-01-09,Cameroon,Morocco,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,16,2,0,0,0,0,47,0.0,1.85
+Bryan Mbeumo,26,2026-01-17,Manchester United,Manchester City,7.0,71,7668.0,14.0,108.0,1,0,0.8,0.0,12,13,0,0,0,0,2,23,0.0,1.83
+Bryan Mbeumo,26,2026-01-25,Arsenal,Manchester United,7.6,69,7452.0,14.0,108.0,1,0,0.15,0.01,7,12,2,0,0,0,2,22,0.0,1.88
+Bryan Mbeumo,26,2026-02-01,Manchester United,Fulham,7.0,89,9612.0,18.0,108.0,0,0,0.42,0.23,17,23,2,0,0,0,1,35,0.0,1.87
+Bryan Mbeumo,26,2026-02-07,Manchester United,Tottenham Hotspur,6.9,87,9396.0,17.0,108.0,1,0,0.26,0.04,26,32,0,0,1,0,3,53,0.0,1.81
+Bryan Mbeumo,26,2026-02-10,West Ham United,Manchester United,6.2,90,9720.0,18.0,108.0,0,0,0.13,0.09,30,36,2,0,0,0,6,51,0.0,1.85
+Bryan Mbeumo,26,2026-02-23,Everton,Manchester United,6.1,77,8316.0,15.0,108.0,0,0,0.43,0.16,10,11,2,0,1,0,2,26,0.0,1.8
+Bryan Mbeumo,26,2026-03-01,Manchester United,Crystal Palace,6.9,86,9288.0,17.0,108.0,0,0,0.0,0.23,20,22,3,0,0,0,3,41,0.0,1.83
+Bryan Mbeumo,26,2026-03-04,Newcastle United,Manchester United,5.9,77,8316.0,15.0,108.0,0,0,0.33,0.06,19,25,1,0,0,0,2,36,0.0,1.8
+Bryan Mbeumo,26,2026-03-15,Manchester United,Aston Villa,6.5,75,8100.0,15.0,108.0,0,0,0.08,0.03,12,15,1,0,1,0,0,25,0.0,1.85
+Bryan Mbeumo,26,2026-03-20,Bournemouth,Manchester United,6.5,71,7668.0,14.0,108.0,0,0,0.02,0.01,13,22,1,0,0,0,0,39,0.0,1.83
+Bryan Mbeumo,26,2026-04-13,Manchester United,Leeds United,6.6,20,2160.0,4.0,108.0,0,0,0.07,0.19,7,7,1,0,0,0,1,15,0.0,1.85
+Bryan Mbeumo,26,2026-04-18,Chelsea,Manchester United,6.5,87,9396.0,17.0,108.0,0,0,0.0,0.03,18,26,0,0,0,0,3,39,0.0,1.81
+Bryan Mbeumo,26,2026-04-27,Manchester United,Brentford,6.9,74,7992.0,15.0,108.0,0,0,0.0,0.04,18,21,2,0,0,0,2,35,0.0,1.88
+Bryan Mbeumo,26,2026-05-03,Manchester United,Liverpool FC,6.9,75,,,0.0,0,0,0.42,0.43,10,14,3,0,1,0,4,32,,
+Bryan Mbeumo,26,2026-05-09,Sunderland,Manchester United,6.4,15,,,0.0,0,0,0.03,0.0,2,2,0,0,0,0,0,6,,

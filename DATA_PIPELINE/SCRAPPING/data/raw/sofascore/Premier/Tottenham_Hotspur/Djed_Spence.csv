@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Djed Spence,2026-01-17,Tottenham Hotspur,West Ham United,6.5,71,7668.0,14.0,108.0,0,0,0.16,0.15,46,53,0,0,0,0,10,83,0,1.83,25
-Djed Spence,2026-01-20,Tottenham Hotspur,Borussia Dortmund,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.26,26,31,2,0,0,0,3,60,0,1.85,25
-Djed Spence,2026-01-24,Burnley,Tottenham Hotspur,7.5,90,9720.0,18.0,108.0,0,0,0.07,0.57,50,63,2,0,1,0,10,103,0,1.85,25
-Djed Spence,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.03,45,56,0,0,1,0,4,79,0,1.85,25
-Djed Spence,2026-02-10,Tottenham Hotspur,Newcastle United,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,29,32,0,0,0,0,5,58,0,1.85,25
-Djed Spence,2026-02-22,Tottenham Hotspur,Arsenal,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.35,23,33,1,0,0,0,3,69,0,1.85,25
-Djed Spence,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.1,83,8964.0,17.0,108.0,0,0,0.0,0.05,21,25,1,0,2,0,3,59,0,1.9,25
-Djed Spence,2026-03-15,Liverpool,Tottenham Hotspur,6.7,76,8208.0,15.0,108.0,0,0,0.04,0.01,18,21,1,0,2,0,3,47,0,1.83,25
-Djed Spence,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.5,90,9720.0,18.0,108.0,0,0,0.03,0.03,39,44,1,0,2,0,4,71,0,1.85,25
-Djed Spence,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,13,16,0,0,0,0,2,31,0,1.85,25
-Djed Spence,2026-03-27,England,Uruguay,7.0,69,7452.0,14.0,108.0,0,0,0.0,0.0,28,34,0,0,1,0,3,55,0,1.88,25
-Djed Spence,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Djed Spence,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Djed Spence,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,6.3,14,1512.0,3.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,4,0,1.98,25
-Djed Spence,2026-04-25,Wolverhampton,Tottenham Hotspur,6.7,90,9720.0,18.0,108.0,0,0,0.02,0.01,26,30,0,0,4,0,5,61,0,1.85,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Djed Spence,25,2026-01-17,Tottenham Hotspur,West Ham United,6.5,71,7668.0,14.0,108.0,0,0,0.16,0.15,46,53,0,0,0,0,10,83,0.0,1.83
+Djed Spence,25,2026-01-20,Tottenham Hotspur,Borussia Dortmund,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.26,26,31,2,0,0,0,3,60,0.0,1.85
+Djed Spence,25,2026-01-24,Burnley,Tottenham Hotspur,7.5,90,9720.0,18.0,108.0,0,0,0.07,0.57,50,63,2,0,1,0,10,103,0.0,1.85
+Djed Spence,25,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.03,45,56,0,0,1,0,4,79,0.0,1.85
+Djed Spence,25,2026-02-10,Tottenham Hotspur,Newcastle United,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,29,32,0,0,0,0,5,58,0.0,1.85
+Djed Spence,25,2026-02-22,Tottenham Hotspur,Arsenal,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.35,23,33,1,0,0,0,3,69,0.0,1.85
+Djed Spence,25,2026-03-10,Atlético Madrid,Tottenham Hotspur,6.1,83,8964.0,17.0,108.0,0,0,0.0,0.05,21,25,1,0,2,0,3,59,0.0,1.9
+Djed Spence,25,2026-03-15,Liverpool,Tottenham Hotspur,6.7,76,8208.0,15.0,108.0,0,0,0.04,0.01,18,21,1,0,2,0,3,47,0.0,1.83
+Djed Spence,25,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.5,90,9720.0,18.0,108.0,0,0,0.03,0.03,39,44,1,0,2,0,4,71,0.0,1.85
+Djed Spence,25,2026-03-22,Tottenham Hotspur,Nottingham Forest,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,13,16,0,0,0,0,2,31,0.0,1.85
+Djed Spence,25,2026-03-27,England,Uruguay,7.0,69,7452.0,14.0,108.0,0,0,0.0,0.0,28,34,0,0,1,0,3,55,0.0,1.88
+Djed Spence,25,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Djed Spence,25,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Djed Spence,25,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,6.3,14,1512.0,3.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,4,0.0,1.98
+Djed Spence,25,2026-04-25,Wolverhampton,Tottenham Hotspur,6.7,90,9720.0,18.0,108.0,0,0,0.02,0.01,26,30,0,0,4,0,5,61,0.0,1.85
+Djed Spence,25,2026-05-03,Aston Villa,Tottenham Hotspur,6.2,23,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,0,7,,
+Djed Spence,25,2026-05-11,Tottenham Hotspur,Leeds United,6.7,21,,,0.0,0,0,0.0,0.0,5,7,0,0,0,0,1,9,,

@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Diego Pampín,2025-12-17,Cultural Leonesa,Levante UD,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,34,43,0,0,1,0,2,65,0,1.85,26
-Diego Pampín,2025-12-20,Levante UD,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-01-04,Sevilla,Levante UD,6.8,71,7668.0,14.0,108.0,0,0,0.0,0.0,18,22,0,0,0,0,2,42,0,1.83,26
-Diego Pampín,2026-01-11,Levante UD,Espanyol,6.3,90,9720.0,18.0,108.0,0,0,0.02,0.06,33,42,0,0,0,0,2,66,0,1.85,26
-Diego Pampín,2026-02-08,Athletic Club,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-02-15,Levante UD,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-02-18,Levante UD,Villarreal,6.6,90,9720.0,18.0,108.0,0,0,0.19,0.06,48,57,1,0,1,0,5,82,0,1.85,26
-Diego Pampín,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-02-27,Levante UD,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-03-07,Levante UD,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-03-21,Levante UD,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-04-13,Levante UD,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-04-23,Levante UD,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Diego Pampín,2026-04-27,Espanyol,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Diego Pampín,26,2025-12-17,Cultural Leonesa,Levante UD,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,34,43,0,0,1,0,2,65,0.0,1.85
+Diego Pampín,26,2025-12-20,Levante UD,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-01-04,Sevilla,Levante UD,6.8,71,7668.0,14.0,108.0,0,0,0.0,0.0,18,22,0,0,0,0,2,42,0.0,1.83
+Diego Pampín,26,2026-01-11,Levante UD,Espanyol,6.3,90,9720.0,18.0,108.0,0,0,0.02,0.06,33,42,0,0,0,0,2,66,0.0,1.85
+Diego Pampín,26,2026-02-08,Athletic Club,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-02-15,Levante UD,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-02-18,Levante UD,Villarreal,6.6,90,9720.0,18.0,108.0,0,0,0.19,0.06,48,57,1,0,1,0,5,82,0.0,1.85
+Diego Pampín,26,2026-02-22,FC Barcelona,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-02-27,Levante UD,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-03-07,Levante UD,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-03-21,Levante UD,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-04-13,Levante UD,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-04-23,Levante UD,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-04-27,Espanyol,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Diego Pampín,26,2026-05-02,Villarreal,Levante UD,5.8,90,,,0.0,0,0,0.0,0.1,51,54,0,0,2,0,6,70,,
+Diego Pampín,26,2026-05-08,Levante UD,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Diego Pampín,26,2026-05-12,Celta Vigo,Levante UD,6.3,77,,,0.0,0,0,0.0,0.05,36,40,1,0,0,0,2,53,,

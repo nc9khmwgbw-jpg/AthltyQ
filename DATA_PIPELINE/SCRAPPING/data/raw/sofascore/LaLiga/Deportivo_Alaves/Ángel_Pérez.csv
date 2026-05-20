@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ángel Pérez,2026-01-18,Burgos Club de Fútbol,Huesca,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,10,13,4,0,1,0,2,35,0,1.85,23
-Ángel Pérez,2026-01-25,FC Andorra,Huesca,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,20,1,0,1,0,5,45,0,1.85,23
-Ángel Pérez,2026-01-30,Espanyol,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Ángel Pérez,2026-02-04,Deportivo Alavés,Real Sociedad,6.6,6,648.0,1.0,108.0,0,0,0.0,0.0,4,8,0,0,0,0,0,13,0,1.54,23
-Ángel Pérez,2026-02-08,Deportivo Alavés,Getafe,6.7,13,1404.0,3.0,108.0,0,0,0.05,0.0,7,9,0,0,0,0,2,13,0,2.14,23
-Ángel Pérez,2026-02-14,Sevilla,Deportivo Alavés,6.8,45,4860.0,9.0,108.0,0,0,0.0,0.02,15,20,0,0,0,0,1,32,0,1.85,23
-Ángel Pérez,2026-02-23,Deportivo Alavés,Girona FC,6.1,76,8208.0,15.0,108.0,0,0,0.02,0.01,24,32,0,0,0,0,3,45,0,1.83,23
-Ángel Pérez,2026-02-27,Levante UD,Deportivo Alavés,6.5,89,9612.0,18.0,108.0,0,0,0.09,0.06,23,34,0,0,0,0,4,51,0,1.87,23
-Ángel Pérez,2026-03-08,Valencia,Deportivo Alavés,7.0,90,9720.0,18.0,108.0,0,0,0.03,0.18,21,28,2,0,1,0,4,57,0,1.85,23
-Ángel Pérez,2026-03-13,Deportivo Alavés,Villarreal,6.8,90,9720.0,18.0,108.0,0,0,0.01,0.16,29,39,0,0,3,0,2,67,0,1.85,23
-Ángel Pérez,2026-03-22,Celta Vigo,Deportivo Alavés,8.2,90,9720.0,18.0,108.0,1,0,0.4,0.34,33,40,4,0,1,0,3,64,0,1.85,23
-Ángel Pérez,2026-04-05,Deportivo Alavés,Osasuna,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.08,21,32,2,0,0,0,5,54,0,1.85,23
-Ángel Pérez,2026-04-11,Real Sociedad,Deportivo Alavés,6.3,86,9288.0,17.0,108.0,0,0,0.07,0.37,27,38,2,0,1,0,10,71,0,1.83,23
-Ángel Pérez,2026-04-21,Real Madrid,Deportivo Alavés,6.3,90,9720.0,18.0,108.0,0,0,0.03,0.3,28,37,4,0,0,0,10,73,0,1.85,23
-Ángel Pérez,2026-04-25,Deportivo Alavés,Mallorca,7.0,81,8748.0,16.0,108.0,0,0,0.05,0.11,25,34,4,0,0,0,4,67,0,1.83,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ángel Pérez,23,2026-01-18,Burgos Club de Fútbol,Huesca,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,10,13,4,0,1,0,2,35,0.0,1.85
+Ángel Pérez,23,2026-01-25,FC Andorra,Huesca,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,20,1,0,1,0,5,45,0.0,1.85
+Ángel Pérez,23,2026-01-30,Espanyol,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ángel Pérez,23,2026-02-04,Deportivo Alavés,Real Sociedad,6.6,6,648.0,1.0,108.0,0,0,0.0,0.0,4,8,0,0,0,0,0,13,0.0,1.54
+Ángel Pérez,23,2026-02-08,Deportivo Alavés,Getafe,6.7,13,1404.0,3.0,108.0,0,0,0.05,0.0,7,9,0,0,0,0,2,13,0.0,2.14
+Ángel Pérez,23,2026-02-14,Sevilla,Deportivo Alavés,6.8,45,4860.0,9.0,108.0,0,0,0.0,0.02,15,20,0,0,0,0,1,32,0.0,1.85
+Ángel Pérez,23,2026-02-23,Deportivo Alavés,Girona FC,6.1,76,8208.0,15.0,108.0,0,0,0.02,0.01,24,32,0,0,0,0,3,45,0.0,1.83
+Ángel Pérez,23,2026-02-27,Levante UD,Deportivo Alavés,6.5,89,9612.0,18.0,108.0,0,0,0.09,0.06,23,34,0,0,0,0,4,51,0.0,1.87
+Ángel Pérez,23,2026-03-08,Valencia,Deportivo Alavés,7.0,90,9720.0,18.0,108.0,0,0,0.03,0.18,21,28,2,0,1,0,4,57,0.0,1.85
+Ángel Pérez,23,2026-03-13,Deportivo Alavés,Villarreal,6.8,90,9720.0,18.0,108.0,0,0,0.01,0.16,29,39,0,0,3,0,2,67,0.0,1.85
+Ángel Pérez,23,2026-03-22,Celta Vigo,Deportivo Alavés,8.2,90,9720.0,18.0,108.0,1,0,0.4,0.34,33,40,4,0,1,0,3,64,0.0,1.85
+Ángel Pérez,23,2026-04-05,Deportivo Alavés,Osasuna,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.08,21,32,2,0,0,0,5,54,0.0,1.85
+Ángel Pérez,23,2026-04-11,Real Sociedad,Deportivo Alavés,6.3,86,9288.0,17.0,108.0,0,0,0.07,0.37,27,38,2,0,1,0,10,71,0.0,1.83
+Ángel Pérez,23,2026-04-21,Real Madrid,Deportivo Alavés,6.3,90,9720.0,18.0,108.0,0,0,0.03,0.3,28,37,4,0,0,0,10,73,0.0,1.85
+Ángel Pérez,23,2026-04-25,Deportivo Alavés,Mallorca,7.0,81,8748.0,16.0,108.0,0,0,0.05,0.11,25,34,4,0,0,0,4,67,0.0,1.83
+Ángel Pérez,23,2026-05-02,Deportivo Alavés,Athletic Club,6.1,90,,,0.0,0,0,0.0,0.1,31,38,1,0,0,0,4,63,,
+Ángel Pérez,23,2026-05-09,Elche,Deportivo Alavés,7.0,90,,,0.0,0,0,0.05,0.19,18,22,2,0,1,0,4,48,,
+Ángel Pérez,23,2026-05-13,Deportivo Alavés,FC Barcelona,6.8,90,,,0.0,0,0,0.05,0.08,12,21,1,0,1,0,4,43,,

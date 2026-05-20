@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Kai Havertz,2026-03-01,Arsenal,Chelsea,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,7,0,1.98,26
-Kai Havertz,2026-03-04,Brighton & Hove Albion,Arsenal,6.6,31,3348.0,6.0,108.0,0,0,0.1,0.0,5,10,0,0,0,0,2,20,0,1.79,26
-Kai Havertz,2026-03-07,Mansfield Town,Arsenal,7.1,62,6696.0,12.0,108.0,0,0,0.0,0.0,24,29,1,0,0,0,1,41,0,1.79,26
-Kai Havertz,2026-03-11,Bayer 04 Leverkusen,Arsenal,7.0,16,1728.0,3.0,108.0,1,0,0.79,0.0,2,4,0,0,0,0,0,7,0,1.74,26
-Kai Havertz,2026-03-14,Arsenal,Everton,6.4,61,6588.0,12.0,108.0,0,0,0.0,0.03,17,21,1,0,0,0,0,26,0,1.82,26
-Kai Havertz,2026-03-17,Arsenal,Bayer 04 Leverkusen,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.03,5,9,0,0,0,0,0,10,0,1.76,26
-Kai Havertz,2026-03-22,Arsenal,Manchester City,5.6,66,7128.0,13.0,108.0,0,0,0.0,0.0,10,18,0,0,1,0,3,30,0,1.82,26
-Kai Havertz,2026-03-27,Switzerland,Germany,5.9,63,6804.0,13.0,108.0,0,0,0.0,0.0,14,16,0,0,0,0,2,25,0,1.91,26
-Kai Havertz,2026-03-30,Germany,Ghana,7.2,45,4860.0,9.0,108.0,1,0,0.0,0.0,17,21,1,0,0,0,5,33,0,1.85,26
-Kai Havertz,2026-04-04,Southampton,Arsenal,6.2,79,8532.0,16.0,108.0,0,0,0.0,0.0,27,33,1,0,0,0,4,43,0,1.88,26
-Kai Havertz,2026-04-07,Sporting CP,Arsenal,7.4,20,2160.0,4.0,108.0,1,0,0.75,0.0,5,5,0,0,0,0,0,10,0,1.85,26
-Kai Havertz,2026-04-11,Arsenal,Bournemouth,6.0,54,5832.0,11.0,108.0,0,0,0.96,0.01,17,22,0,0,0,0,3,36,0,1.89,26
-Kai Havertz,2026-04-15,Arsenal,Sporting CP,6.7,34,3672.0,7.0,108.0,0,0,0.0,0.02,15,16,1,0,0,0,2,21,0,1.91,26
-Kai Havertz,2026-04-19,Manchester City,Arsenal,7.2,90,9720.0,18.0,108.0,1,0,1.25,0.0,13,17,0,0,0,0,3,30,0,1.85,26
-Kai Havertz,2026-04-25,Arsenal,Newcastle United,6.5,34,3672.0,7.0,108.0,0,0,0.0,0.03,4,6,1,0,0,0,0,9,0,1.91,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kai Havertz,26,2026-03-01,Arsenal,Chelsea,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,7,0.0,1.98
+Kai Havertz,26,2026-03-04,Brighton & Hove Albion,Arsenal,6.6,31,3348.0,6.0,108.0,0,0,0.1,0.0,5,10,0,0,0,0,2,20,0.0,1.79
+Kai Havertz,26,2026-03-07,Mansfield Town,Arsenal,7.1,62,6696.0,12.0,108.0,0,0,0.0,0.0,24,29,1,0,0,0,1,41,0.0,1.79
+Kai Havertz,26,2026-03-11,Bayer 04 Leverkusen,Arsenal,7.0,16,1728.0,3.0,108.0,1,0,0.79,0.0,2,4,0,0,0,0,0,7,0.0,1.74
+Kai Havertz,26,2026-03-14,Arsenal,Everton,6.4,61,6588.0,12.0,108.0,0,0,0.0,0.03,17,21,1,0,0,0,0,26,0.0,1.82
+Kai Havertz,26,2026-03-17,Arsenal,Bayer 04 Leverkusen,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.03,5,9,0,0,0,0,0,10,0.0,1.76
+Kai Havertz,26,2026-03-22,Arsenal,Manchester City,5.6,66,7128.0,13.0,108.0,0,0,0.0,0.0,10,18,0,0,1,0,3,30,0.0,1.82
+Kai Havertz,26,2026-03-27,Switzerland,Germany,5.9,63,6804.0,13.0,108.0,0,0,0.0,0.0,14,16,0,0,0,0,2,25,0.0,1.91
+Kai Havertz,26,2026-03-30,Germany,Ghana,7.2,45,4860.0,9.0,108.0,1,0,0.0,0.0,17,21,1,0,0,0,5,33,0.0,1.85
+Kai Havertz,26,2026-04-04,Southampton,Arsenal,6.2,79,8532.0,16.0,108.0,0,0,0.0,0.0,27,33,1,0,0,0,4,43,0.0,1.88
+Kai Havertz,26,2026-04-07,Sporting CP,Arsenal,7.4,20,2160.0,4.0,108.0,1,0,0.75,0.0,5,5,0,0,0,0,0,10,0.0,1.85
+Kai Havertz,26,2026-04-11,Arsenal,Bournemouth,6.0,54,5832.0,11.0,108.0,0,0,0.96,0.01,17,22,0,0,0,0,3,36,0.0,1.89
+Kai Havertz,26,2026-04-15,Arsenal,Sporting CP,6.7,34,3672.0,7.0,108.0,0,0,0.0,0.02,15,16,1,0,0,0,2,21,0.0,1.91
+Kai Havertz,26,2026-04-19,Manchester City,Arsenal,7.2,90,9720.0,18.0,108.0,1,0,1.25,0.0,13,17,0,0,0,0,3,30,0.0,1.85
+Kai Havertz,26,2026-04-25,Arsenal,Newcastle United,6.5,34,3672.0,7.0,108.0,0,0,0.0,0.03,4,6,1,0,0,0,0,9,0.0,1.91
+Kai Havertz,26,2026-05-05,Arsenal,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Kai Havertz,26,2026-05-10,West Ham United,Arsenal,6.5,23,,,0.0,0,0,0.0,0.0,6,9,0,0,0,0,0,13,,

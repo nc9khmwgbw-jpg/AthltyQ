@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Declan Rice,2026-02-15,Arsenal,Wigan Athletic,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,27
-Declan Rice,2026-02-18,Wolverhampton,Arsenal,7.7,90,9720.0,18.0,108.0,0,0,0.03,0.41,51,64,1,0,3,0,9,79,0.0,1.85,27
-Declan Rice,2026-02-22,Tottenham Hotspur,Arsenal,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.04,45,59,0,0,1,0,10,81,0.0,1.85,27
-Declan Rice,2026-03-01,Arsenal,Chelsea,7.9,76,8208.0,15.0,108.0,0,0,0.04,0.24,36,41,2,0,1,0,2,57,0.0,1.83,27
-Declan Rice,2026-03-04,Brighton & Hove Albion,Arsenal,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.07,40,54,2,0,0,0,4,71,0.0,1.85,27
-Declan Rice,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.08,73,76,1,0,1,0,3,86,0.0,1.85,27
-Declan Rice,2026-03-14,Arsenal,Everton,7.2,90,9720.0,18.0,108.0,0,0,0.06,0.14,71,78,3,0,0,0,4,93,0.0,1.85,27
-Declan Rice,2026-03-17,Arsenal,Bayer 04 Leverkusen,8.6,90,9720.0,18.0,108.0,1,0,0.08,0.05,44,52,2,0,3,0,3,70,0.0,1.85,27
-Declan Rice,2026-03-22,Arsenal,Manchester City,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,48,1,0,1,0,4,67,0.0,1.85,27
-Declan Rice,2026-04-07,Sporting CP,Arsenal,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.04,67,68,2,0,4,0,13,77,0.0,1.85,27
-Declan Rice,2026-04-11,Arsenal,Bournemouth,7.8,90,9720.0,18.0,108.0,0,0,0.1,0.33,43,50,2,0,1,0,4,74,0.0,1.85,27
-Declan Rice,2026-04-15,Arsenal,Sporting CP,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.14,60,62,3,0,2,0,2,76,0.0,1.85,27
-Declan Rice,2026-04-19,Manchester City,Arsenal,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.07,29,36,1,0,1,0,5,51,0.0,1.85,27
-Declan Rice,2026-04-25,Arsenal,Newcastle United,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.02,43,53,0,0,1,0,1,65,0.0,1.85,27
-Declan Rice,2026-04-29,Atlético Madrid,Arsenal,7.1,90,9720.0,18.0,108.0,0,0,0.05,0.03,83,89,0,0,1,0,4,99,0.0,1.85,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Declan Rice,27,2026-02-15,Arsenal,Wigan Athletic,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Declan Rice,27,2026-02-18,Wolverhampton,Arsenal,7.7,90,9720.0,18.0,108.0,0,0,0.03,0.41,51,64,1,0,3,0,9,79,0.0,1.85
+Declan Rice,27,2026-02-22,Tottenham Hotspur,Arsenal,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.04,45,59,0,0,1,0,10,81,0.0,1.85
+Declan Rice,27,2026-03-01,Arsenal,Chelsea,7.9,76,8208.0,15.0,108.0,0,0,0.04,0.24,36,41,2,0,1,0,2,57,0.0,1.83
+Declan Rice,27,2026-03-04,Brighton & Hove Albion,Arsenal,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.07,40,54,2,0,0,0,4,71,0.0,1.85
+Declan Rice,27,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.08,73,76,1,0,1,0,3,86,0.0,1.85
+Declan Rice,27,2026-03-14,Arsenal,Everton,7.2,90,9720.0,18.0,108.0,0,0,0.06,0.14,71,78,3,0,0,0,4,93,0.0,1.85
+Declan Rice,27,2026-03-17,Arsenal,Bayer 04 Leverkusen,8.6,90,9720.0,18.0,108.0,1,0,0.08,0.05,44,52,2,0,3,0,3,70,0.0,1.85
+Declan Rice,27,2026-03-22,Arsenal,Manchester City,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,48,1,0,1,0,4,67,0.0,1.85
+Declan Rice,27,2026-04-07,Sporting CP,Arsenal,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.04,67,68,2,0,4,0,13,77,0.0,1.85
+Declan Rice,27,2026-04-11,Arsenal,Bournemouth,7.8,90,9720.0,18.0,108.0,0,0,0.1,0.33,43,50,2,0,1,0,4,74,0.0,1.85
+Declan Rice,27,2026-04-15,Arsenal,Sporting CP,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.14,60,62,3,0,2,0,2,76,0.0,1.85
+Declan Rice,27,2026-04-19,Manchester City,Arsenal,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.07,29,36,1,0,1,0,5,51,0.0,1.85
+Declan Rice,27,2026-04-25,Arsenal,Newcastle United,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.02,43,53,0,0,1,0,1,65,0.0,1.85
+Declan Rice,27,2026-04-29,Atlético Madrid,Arsenal,7.1,90,9720.0,18.0,108.0,0,0,0.05,0.03,83,89,0,0,1,0,4,99,0.0,1.85
+Declan Rice,27,2026-05-02,Arsenal,Fulham,7.5,64,,,0.0,0,0,0.0,0.05,57,62,0,0,2,0,6,74,,
+Declan Rice,27,2026-05-05,Arsenal,Atlético Madrid,7.8,90,,,0.0,0,0,0.1,0.07,56,62,2,0,1,0,3,75,,
+Declan Rice,27,2026-05-10,West Ham United,Arsenal,7.2,90,,,0.0,0,0,0.0,0.38,42,55,2,0,1,0,3,77,,

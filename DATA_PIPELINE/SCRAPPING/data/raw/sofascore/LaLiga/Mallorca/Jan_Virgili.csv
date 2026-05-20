@@ -1,15 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jan Virgili,2026-01-04,Mallorca,Girona FC,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.04,13,21,1,0,0,0,3,48,0,1.85,19
-Jan Virgili,2026-01-11,Rayo Vallecano,Mallorca,5.8,90,9720.0,18.0,108.0,0,0,0.0,0.07,10,12,1,0,0,0,0,31,0,1.85,19
-Jan Virgili,2026-01-17,Mallorca,Athletic Club,6.4,83,8964.0,17.0,108.0,0,0,0.04,0.03,13,19,1,0,1,0,5,35,0,1.9,19
-Jan Virgili,2026-01-25,Atlético Madrid,Mallorca,6.5,27,2916.0,5.0,108.0,0,0,0.0,0.01,4,5,1,0,0,0,2,12,0,1.71,19
-Jan Virgili,2026-02-02,Mallorca,Sevilla,7.2,84,9072.0,17.0,108.0,0,0,0.09,0.35,8,9,1,0,0,0,3,25,0,1.87,19
-Jan Virgili,2026-02-07,FC Barcelona,Mallorca,6.7,62,6696.0,12.0,108.0,0,0,0.12,0.4,3,8,1,0,0,0,1,23,0,1.79,19
-Jan Virgili,2026-02-15,Mallorca,Real Betis,6.5,90,9720.0,18.0,108.0,0,0,0.09,0.08,22,29,1,0,0,0,1,60,0,1.85,19
-Jan Virgili,2026-02-22,Celta Vigo,Mallorca,6.4,77,8316.0,15.0,108.0,0,0,0.0,0.01,11,14,0,0,0,0,1,27,0,1.8,19
-Jan Virgili,2026-02-28,Mallorca,Real Sociedad,6.9,84,9072.0,17.0,108.0,0,0,0.0,0.03,16,19,0,0,1,0,1,38,0,1.87,19
-Jan Virgili,2026-03-07,Osasuna,Mallorca,5.1,10,1080.0,2.0,108.0,0,0,0.07,0.0,0,0,0,0,0,0,0,3,0,1.85,19
-Jan Virgili,2026-04-04,Mallorca,Real Madrid,6.5,20,2160.0,4.0,108.0,0,0,0.0,0.0,1,2,0,0,1,0,0,8,0,1.85,19
-Jan Virgili,2026-04-12,Mallorca,Rayo Vallecano,7.6,28,3024.0,6.0,108.0,1,0,0.2,0.0,3,7,0,0,0,0,5,18,0,1.98,19
-Jan Virgili,2026-04-21,Mallorca,Valencia,7.8,34,3672.0,7.0,108.0,0,0,0.22,0.1,5,7,0,0,0,0,1,16,0,1.91,19
-Jan Virgili,2026-04-25,Deportivo Alavés,Mallorca,7.1,90,9720.0,18.0,108.0,1,0,0.1,0.01,11,15,0,0,0,0,1,30,0,1.85,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jan Virgili,19,2026-01-04,Mallorca,Girona FC,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.04,13,21,1,0,0,0,3,48,0.0,1.85
+Jan Virgili,19,2026-01-11,Rayo Vallecano,Mallorca,5.8,90,9720.0,18.0,108.0,0,0,0.0,0.07,10,12,1,0,0,0,0,31,0.0,1.85
+Jan Virgili,19,2026-01-17,Mallorca,Athletic Club,6.4,83,8964.0,17.0,108.0,0,0,0.04,0.03,13,19,1,0,1,0,5,35,0.0,1.9
+Jan Virgili,19,2026-01-25,Atlético Madrid,Mallorca,6.5,27,2916.0,5.0,108.0,0,0,0.0,0.01,4,5,1,0,0,0,2,12,0.0,1.71
+Jan Virgili,19,2026-02-02,Mallorca,Sevilla,7.2,84,9072.0,17.0,108.0,0,0,0.09,0.35,8,9,1,0,0,0,3,25,0.0,1.87
+Jan Virgili,19,2026-02-07,FC Barcelona,Mallorca,6.7,62,6696.0,12.0,108.0,0,0,0.12,0.4,3,8,1,0,0,0,1,23,0.0,1.79
+Jan Virgili,19,2026-02-15,Mallorca,Real Betis,6.5,90,9720.0,18.0,108.0,0,0,0.09,0.08,22,29,1,0,0,0,1,60,0.0,1.85
+Jan Virgili,19,2026-02-22,Celta Vigo,Mallorca,6.4,77,8316.0,15.0,108.0,0,0,0.0,0.01,11,14,0,0,0,0,1,27,0.0,1.8
+Jan Virgili,19,2026-02-28,Mallorca,Real Sociedad,6.9,84,9072.0,17.0,108.0,0,0,0.0,0.03,16,19,0,0,1,0,1,38,0.0,1.87
+Jan Virgili,19,2026-03-07,Osasuna,Mallorca,5.1,10,1080.0,2.0,108.0,0,0,0.07,0.0,0,0,0,0,0,0,0,3,0.0,1.85
+Jan Virgili,19,2026-04-04,Mallorca,Real Madrid,6.5,20,2160.0,4.0,108.0,0,0,0.0,0.0,1,2,0,0,1,0,0,8,0.0,1.85
+Jan Virgili,19,2026-04-12,Mallorca,Rayo Vallecano,7.6,28,3024.0,6.0,108.0,1,0,0.2,0.0,3,7,0,0,0,0,5,18,0.0,1.98
+Jan Virgili,19,2026-04-21,Mallorca,Valencia,7.8,34,3672.0,7.0,108.0,0,0,0.22,0.1,5,7,0,0,0,0,1,16,0.0,1.91
+Jan Virgili,19,2026-04-25,Deportivo Alavés,Mallorca,7.1,90,9720.0,18.0,108.0,1,0,0.1,0.01,11,15,0,0,0,0,1,30,0.0,1.85
+Jan Virgili,19,2026-05-01,Girona FC,Mallorca,6.7,26,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,7,,
+Jan Virgili,19,2026-05-10,Mallorca,Villarreal,6.5,20,,,0.0,0,0,0.04,0.0,2,2,0,0,0,0,0,13,,
+Jan Virgili,19,2026-05-13,Getafe,Mallorca,6.1,66,,,0.0,0,0,0.0,0.19,10,16,4,0,1,0,1,30,,

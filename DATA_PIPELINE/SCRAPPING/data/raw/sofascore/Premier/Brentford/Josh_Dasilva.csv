@@ -1,2 +1,4 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Josh Dasilva,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Josh Dasilva,27,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Josh Dasilva,27,2026-05-02,Brentford,West Ham United,6.6,8,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,4,,
+Josh Dasilva,27,2026-05-09,Manchester City,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

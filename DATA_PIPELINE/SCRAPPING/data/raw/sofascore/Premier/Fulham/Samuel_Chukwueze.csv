@@ -1,14 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Samuel Chukwueze,2026-01-17,Egypt,Nigeria,8.0,89,9612.0,18.0,108.0,0,0,0.0,0.0,42,52,0,0,3,0,8,83,0,1.87,26
-Samuel Chukwueze,2026-01-24,Fulham,Brighton & Hove Albion,7.6,31,3348.0,6.0,108.0,1,0,0.24,0.01,6,10,1,0,0,0,0,16,0,1.79,26
-Samuel Chukwueze,2026-02-01,Manchester United,Fulham,6.2,79,8532.0,16.0,108.0,0,0,0.03,0.03,17,25,1,0,1,0,5,48,0,1.88,26
-Samuel Chukwueze,2026-02-07,Fulham,Everton,6.5,75,8100.0,15.0,108.0,0,0,0.23,0.24,18,24,1,0,2,0,5,39,0,1.85,26
-Samuel Chukwueze,2026-02-11,Manchester City,Fulham,6.3,60,6480.0,12.0,108.0,0,0,0.04,0.11,18,20,2,0,0,0,1,29,0,1.85,26
-Samuel Chukwueze,2026-03-01,Fulham,Tottenham Hotspur,7.4,18,1944.0,4.0,108.0,0,0,0.03,0.15,7,8,2,0,0,0,1,16,0,2.06,26
-Samuel Chukwueze,2026-03-04,Fulham,West Ham United,6.7,90,9720.0,18.0,108.0,0,0,0.03,0.14,24,38,0,0,1,0,3,50,0,1.85,26
-Samuel Chukwueze,2026-03-08,Fulham,Southampton,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,33,2,0,1,0,1,46,0,1.85,26
-Samuel Chukwueze,2026-03-15,Nottingham Forest,Fulham,6.2,28,3024.0,6.0,108.0,0,0,0.0,0.01,6,14,0,0,0,0,4,16,0,1.98,26
-Samuel Chukwueze,2026-03-21,Fulham,Burnley,7.2,29,3132.0,6.0,108.0,0,0,0.27,0.12,8,9,0,0,0,0,3,12,0,1.92,26
-Samuel Chukwueze,2026-04-11,Liverpool,Fulham,6.3,10,1080.0,2.0,108.0,0,0,0.13,0.09,6,7,2,0,0,0,2,16,0,1.85,26
-Samuel Chukwueze,2026-04-18,Brentford,Fulham,6.3,47,5076.0,9.0,108.0,0,0,0.0,0.08,9,13,0,0,0,0,1,23,0,1.77,26
-Samuel Chukwueze,2026-04-25,Fulham,Aston Villa,7.4,76,8208.0,15.0,108.0,0,0,0.05,0.13,12,18,2,0,0,0,5,27,0,1.83,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Samuel Chukwueze,26,2026-01-17,Egypt,Nigeria,8.0,89,9612.0,18.0,108.0,0,0,0.0,0.0,42,52,0,0,3,0,8,83,0.0,1.87
+Samuel Chukwueze,26,2026-01-24,Fulham,Brighton & Hove Albion,7.6,31,3348.0,6.0,108.0,1,0,0.24,0.01,6,10,1,0,0,0,0,16,0.0,1.79
+Samuel Chukwueze,26,2026-02-01,Manchester United,Fulham,6.2,79,8532.0,16.0,108.0,0,0,0.03,0.03,17,25,1,0,1,0,5,48,0.0,1.88
+Samuel Chukwueze,26,2026-02-07,Fulham,Everton,6.5,75,8100.0,15.0,108.0,0,0,0.23,0.24,18,24,1,0,2,0,5,39,0.0,1.85
+Samuel Chukwueze,26,2026-02-11,Manchester City,Fulham,6.3,60,6480.0,12.0,108.0,0,0,0.04,0.11,18,20,2,0,0,0,1,29,0.0,1.85
+Samuel Chukwueze,26,2026-03-01,Fulham,Tottenham Hotspur,7.4,18,1944.0,4.0,108.0,0,0,0.03,0.15,7,8,2,0,0,0,1,16,0.0,2.06
+Samuel Chukwueze,26,2026-03-04,Fulham,West Ham United,6.7,90,9720.0,18.0,108.0,0,0,0.03,0.14,24,38,0,0,1,0,3,50,0.0,1.85
+Samuel Chukwueze,26,2026-03-08,Fulham,Southampton,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,33,2,0,1,0,1,46,0.0,1.85
+Samuel Chukwueze,26,2026-03-15,Nottingham Forest,Fulham,6.2,28,3024.0,6.0,108.0,0,0,0.0,0.01,6,14,0,0,0,0,4,16,0.0,1.98
+Samuel Chukwueze,26,2026-03-21,Fulham,Burnley,7.2,29,3132.0,6.0,108.0,0,0,0.27,0.12,8,9,0,0,0,0,3,12,0.0,1.92
+Samuel Chukwueze,26,2026-04-11,Liverpool,Fulham,6.3,10,1080.0,2.0,108.0,0,0,0.13,0.09,6,7,2,0,0,0,2,16,0.0,1.85
+Samuel Chukwueze,26,2026-04-18,Brentford,Fulham,6.3,47,5076.0,9.0,108.0,0,0,0.0,0.08,9,13,0,0,0,0,1,23,0.0,1.77
+Samuel Chukwueze,26,2026-04-25,Fulham,Aston Villa,7.4,76,8208.0,15.0,108.0,0,0,0.05,0.13,12,18,2,0,0,0,5,27,0.0,1.83
+Samuel Chukwueze,26,2026-05-02,Arsenal,Fulham,6.1,64,,,0.0,0,0,0.02,0.01,19,24,1,0,1,0,0,35,,
+Samuel Chukwueze,26,2026-05-09,Fulham,Bournemouth,6.4,62,,,0.0,0,0,0.0,0.02,24,27,0,0,0,0,1,38,,

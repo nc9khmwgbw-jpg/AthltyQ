@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Andy Diouf,22,2026-05-09,Lazio,Inter,6.9,90,,,0.0,0,0,0.08,0.28,25,30,2,0,0,0,4,43
-Andy Diouf,22,2026-05-03,Inter,Parma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andy Diouf,22,2026-04-26,Torino,Inter,6.7,10,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,10
-Andy Diouf,22,2026-04-21,Inter,Como,7.0,30,,,0.0,0,0,0.0,0.0,12,14,1,0,0,0,1,28
-Andy Diouf,22,2026-04-17,Inter,Cagliari,,1,,,0.0,0,0,0.0,0.02,4,4,0,0,0,0,0,4
-Andy Diouf,22,2026-04-12,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andy Diouf,22,2026-04-05,Inter,AS Roma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andy Diouf,22,2026-03-22,Fiorentina,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andy Diouf,22,2026-03-14,Inter,Atalanta,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Andy Diouf,22,2026-03-08,Milan,Inter,6.6,10,,,0.0,0,0,0.0,0.24,8,10,1,0,0,0,0,12
-Andy Diouf,22,2026-03-03,Como,Inter,6.7,68,,,0.0,0,0,0.0,0.0,18,21,1,0,0,0,4,36
-Andy Diouf,22,2026-02-28,Inter,Genoa,6.8,14,,,0.0,0,0,0.12,0.0,4,4,0,0,0,0,0,14
-Andy Diouf,22,2026-02-24,Inter,Bodø/Glimt,6.4,28,,,0.0,0,0,0.0,0.03,9,11,1,0,0,0,2,22
-Andy Diouf,22,2026-02-21,Lecce,Inter,6.6,21,,,0.0,0,0,0.0,0.03,7,8,1,0,0,0,0,14
 Andy Diouf,22,2026-02-18,Bodø/Glimt,Inter,,1,,,0.0,0,0,0.0,0.01,3,3,0,0,0,0,1,3
+Andy Diouf,22,2026-02-21,Lecce,Inter,6.6,21,,,0.0,0,0,0.0,0.03,7,8,1,0,0,0,0,14
+Andy Diouf,22,2026-02-24,Inter,Bodø/Glimt,6.4,28,,,0.0,0,0,0.0,0.03,9,11,1,0,0,0,2,22
+Andy Diouf,22,2026-02-28,Inter,Genoa,6.8,14,,,0.0,0,0,0.12,0.0,4,4,0,0,0,0,0,14
+Andy Diouf,22,2026-03-03,Como,Inter,6.7,68,,,0.0,0,0,0.0,0.0,18,21,1,0,0,0,4,36
+Andy Diouf,22,2026-03-08,Milan,Inter,6.6,10,,,0.0,0,0,0.0,0.24,8,10,1,0,0,0,0,12
+Andy Diouf,22,2026-03-14,Inter,Atalanta,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Andy Diouf,22,2026-03-22,Fiorentina,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Andy Diouf,22,2026-04-05,Inter,AS Roma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Andy Diouf,22,2026-04-12,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Andy Diouf,22,2026-04-17,Inter,Cagliari,,1,,,0.0,0,0,0.0,0.02,4,4,0,0,0,0,0,4
+Andy Diouf,22,2026-04-21,Inter,Como,7.0,30,,,0.0,0,0,0.0,0.0,12,14,1,0,0,0,1,28
+Andy Diouf,22,2026-04-26,Torino,Inter,6.7,10,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,10
+Andy Diouf,22,2026-05-03,Inter,Parma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Andy Diouf,22,2026-05-09,Lazio,Inter,6.9,90,,,0.0,0,0,0.08,0.28,25,30,2,0,0,0,4,43
+Andy Diouf,22,2026-05-13,Lazio,Inter,6.5,8,,,0.0,0,0,0.0,0.0,3,4,0,0,0,0,1,8

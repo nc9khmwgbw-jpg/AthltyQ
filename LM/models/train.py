@@ -1,10 +1,9 @@
 """
-AthlytIQ — Script d'Entraînement Global
-==========================================
-Entraîne les 3 modèles du Module 1 :
-1. XGBoost + Random Forest (prédiction tabulaire)
-2. LSTM (séries temporelles)
-3. Isolation Forest (détection d'anomalies)
+AthlytIQ — Script d'Entraînement Global (Version Médicale)
+==========================================================
+Entraîne le modèle de prédiction de fatigue neuromusculaire :
+- RandomForestRegressor (optimisé par Grid Search)
+- Split par joueur (80/20) pour garantir 0% de fuite de données
 """
 
 import warnings
@@ -16,7 +15,7 @@ from pathlib import Path
 import joblib
 from sklearn.model_selection import GridSearchCV, KFold
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_absolute_error, r2_score
+from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 
 # Configuration des chemins
 ROOT = Path(__file__).resolve().parent.parent.parent
@@ -119,13 +118,13 @@ def entrainement_elite():
     # 6. Évaluation finale sur le SET DE TEST (joueurs jamais vus)
     y_pred = best_model.predict(X_test_scaled)
     mae  = mean_absolute_error(y_test, y_pred)
+    rmse = np.sqrt(mean_squared_error(y_test, y_pred))
     r2   = r2_score(y_test, y_pred)
-    precision = 100 - mae
 
     print("\n" + "📈 RÉSULTATS DU CENTRE D'ENTRAÎNEMENT :")
-    print(f"   - Précision Finale : {precision:.2f}%")
-    print(f"   - Marge d'erreur (MAE) : {mae:.2f} %")
-    print(f"   - Score de fiabilité (R²) : {r2:.2f}")
+    print(f"   - Marge d'erreur (MAE)  : {mae:.2f} %")
+    print(f"   - Erreur quadratique (RMSE) : {rmse:.2f} %")
+    print(f"   - Score de fiabilité (R²)   : {r2:.2f}")
 
     # 7. Sauvegarde complète du cerveau
     joblib.dump(best_model, MODEL_SAVE_PATH)
@@ -205,13 +204,13 @@ def evaluer_modele():
     y_pred = model.predict(X_test_scaled)
 
     mae       = mean_absolute_error(y_test, y_pred)
+    rmse      = np.sqrt(mean_squared_error(y_test, y_pred))
     r2        = r2_score(y_test, y_pred)
-    precision = 100 - mae
 
     print("\n📈 RÉSULTATS DE L'ÉVALUATION STRICTE (Joueurs Jamais Vus) :")
-    print(f"   - Précision Finale : {precision:.2f}%")
-    print(f"   - Marge d'erreur (MAE) : {mae:.2f} %")
-    print(f"   - Score de fiabilité (R²) : {r2:.2f}")
+    print(f"   - Marge d'erreur (MAE)  : {mae:.2f} %")
+    print(f"   - Erreur quadratique (RMSE) : {rmse:.2f} %")
+    print(f"   - Score de fiabilité (R²)   : {r2:.2f}")
     print("═"*70 + "\n")
 
 

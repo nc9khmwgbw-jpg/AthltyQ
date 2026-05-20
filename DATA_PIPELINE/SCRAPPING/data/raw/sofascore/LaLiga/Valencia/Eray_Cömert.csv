@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Eray Cömert,2026-01-18,Getafe,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Eray Cömert,2026-01-24,Valencia,Espanyol,7.4,90,9720.0,18.0,108.0,1,0,0.33,0.0,30,41,0,0,2,0,5,58,0,1.85,28
-Eray Cömert,2026-02-01,Real Betis,Valencia,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.06,43,49,1,0,1,0,2,55,0,1.85,28
-Eray Cömert,2026-02-04,Valencia,Athletic Club,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,54,66,1,0,2,0,2,77,0,1.85,28
-Eray Cömert,2026-02-08,Valencia,Real Madrid,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,33,40,0,0,3,0,2,52,0,1.85,28
-Eray Cömert,2026-02-15,Levante UD,Valencia,7.3,88,9504.0,18.0,108.0,0,0,0.0,0.01,73,79,0,0,1,0,2,88,0,1.89,28
-Eray Cömert,2026-02-22,Villarreal,Valencia,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,63,72,0,0,1,0,2,78,0,1.85,28
-Eray Cömert,2026-03-01,Valencia,Osasuna,7.2,90,9720.0,18.0,108.0,0,0,0.17,0.01,36,39,1,0,0,0,4,50,0,1.85,28
-Eray Cömert,2026-03-08,Valencia,Deportivo Alavés,6.9,90,9720.0,18.0,108.0,1,0,0.29,0.1,48,56,0,0,2,0,3,75,0,1.85,28
-Eray Cömert,2026-03-14,Real Oviedo,Valencia,6.8,90,9720.0,18.0,108.0,0,0,0.07,0.01,60,68,0,0,1,0,0,80,0,1.85,28
-Eray Cömert,2026-03-21,Sevilla,Valencia,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,32,40,0,0,1,0,5,55,0,1.85,28
-Eray Cömert,2026-03-27,Switzerland,Germany,6.3,12,1296.0,2.0,108.0,0,0,0.0,0.0,16,18,0,0,0,0,0,21,0,1.54,28
-Eray Cömert,2026-03-31,Norway,Switzerland,7.0,45,4860.0,9.0,108.0,0,0,0.0,0.0,26,28,0,0,0,0,1,32,0,1.85,28
-Eray Cömert,2026-04-05,Valencia,Celta Vigo,6.5,90,9720.0,18.0,108.0,0,0,0.25,0.03,39,50,1,0,1,0,6,65,0,1.85,28
-Eray Cömert,2026-04-11,Elche,Valencia,6.3,75,8100.0,15.0,108.0,0,0,0.02,0.0,31,33,1,0,2,0,3,42,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Eray Cömert,28,2026-01-18,Getafe,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Eray Cömert,28,2026-01-24,Valencia,Espanyol,7.4,90,9720.0,18.0,108.0,1,0,0.33,0.0,30,41,0,0,2,0,5,58,0.0,1.85
+Eray Cömert,28,2026-02-01,Real Betis,Valencia,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.06,43,49,1,0,1,0,2,55,0.0,1.85
+Eray Cömert,28,2026-02-04,Valencia,Athletic Club,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,54,66,1,0,2,0,2,77,0.0,1.85
+Eray Cömert,28,2026-02-08,Valencia,Real Madrid,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,33,40,0,0,3,0,2,52,0.0,1.85
+Eray Cömert,28,2026-02-15,Levante UD,Valencia,7.3,88,9504.0,18.0,108.0,0,0,0.0,0.01,73,79,0,0,1,0,2,88,0.0,1.89
+Eray Cömert,28,2026-02-22,Villarreal,Valencia,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,63,72,0,0,1,0,2,78,0.0,1.85
+Eray Cömert,28,2026-03-01,Valencia,Osasuna,7.2,90,9720.0,18.0,108.0,0,0,0.17,0.01,36,39,1,0,0,0,4,50,0.0,1.85
+Eray Cömert,28,2026-03-08,Valencia,Deportivo Alavés,6.9,90,9720.0,18.0,108.0,1,0,0.29,0.1,48,56,0,0,2,0,3,75,0.0,1.85
+Eray Cömert,28,2026-03-14,Real Oviedo,Valencia,6.8,90,9720.0,18.0,108.0,0,0,0.07,0.01,60,68,0,0,1,0,0,80,0.0,1.85
+Eray Cömert,28,2026-03-21,Sevilla,Valencia,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,32,40,0,0,1,0,5,55,0.0,1.85
+Eray Cömert,28,2026-03-27,Switzerland,Germany,6.3,12,1296.0,2.0,108.0,0,0,0.0,0.0,16,18,0,0,0,0,0,21,0.0,1.54
+Eray Cömert,28,2026-03-31,Norway,Switzerland,7.0,45,4860.0,9.0,108.0,0,0,0.0,0.0,26,28,0,0,0,0,1,32,0.0,1.85
+Eray Cömert,28,2026-04-05,Valencia,Celta Vigo,6.5,90,9720.0,18.0,108.0,0,0,0.25,0.03,39,50,1,0,1,0,6,65,0.0,1.85
+Eray Cömert,28,2026-04-11,Elche,Valencia,6.3,75,8100.0,15.0,108.0,0,0,0.02,0.0,31,33,1,0,2,0,3,42,0.0,1.85
+Eray Cömert,28,2026-05-02,Valencia,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Eray Cömert,28,2026-05-10,Athletic Club,Valencia,7.7,90,,,0.0,0,0,0.04,0.0,57,61,0,0,1,0,1,76,,
+Eray Cömert,28,2026-05-14,Valencia,Rayo Vallecano,6.9,90,,,0.0,0,0,0.02,0.01,49,62,1,0,1,0,4,78,,

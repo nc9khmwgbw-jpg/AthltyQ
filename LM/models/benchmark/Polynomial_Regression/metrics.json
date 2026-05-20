@@ -1,0 +1,60 @@
+{
+    "model": "Polynomial Regression",
+    "R2_train": 0.1714,
+    "R2_test": -0.0713,
+    "MAE": 13.6732,
+    "RMSE": 18.9193,
+    "overfit_gap": 0.2426,
+    "cv_r2_mean": 0.1391,
+    "cv_r2_std": 0.0127,
+    "cv_mae_mean": 13.538,
+    "cv_rmse_mean": 17.1752,
+    "best_alpha": 1000.0,
+    "pca_components": 20,
+    "residuals_mean": -0.9343,
+    "residuals_std": 18.8962,
+    "pct_within_10": 46.36,
+    "train_time_s": 0.99,
+    "top_features": [
+        {
+            "feature": "Days_Since_Last",
+            "importance": 0.9152338032040856
+        },
+        {
+            "feature": "Days_Rest",
+            "importance": 0.9152338032040854
+        },
+        {
+            "feature": "Rating_MA3",
+            "importance": 0.8090674058887536
+        },
+        {
+            "feature": "Pass_Accuracy_Trend",
+            "importance": 0.8049350201635971
+        },
+        {
+            "feature": "Rating_STD3",
+            "importance": 0.7761591178672828
+        },
+        {
+            "feature": "Season_Momentum_MA5",
+            "importance": 0.7619334268974072
+        },
+        {
+            "feature": "Dribbles_P90_STD3",
+            "importance": 0.755775995612459
+        },
+        {
+            "feature": "Match_Density",
+            "importance": 0.7522200136763797
+        },
+        {
+            "feature": "Dribbles_P90_STD15",
+            "importance": 0.7516954376358258
+        },
+        {
+            "feature": "Dribbles_P90_STD10",
+            "importance": 0.7508253775427711
+        }
+    ]
+}

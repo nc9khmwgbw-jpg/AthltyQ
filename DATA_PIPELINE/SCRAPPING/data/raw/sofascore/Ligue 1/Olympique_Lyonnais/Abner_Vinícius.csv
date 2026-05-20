@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Abner Vinícius,2026-02-04,Olympique Lyonnais,Stade Lavallois,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,48,2,0,1,0,4,70,0,1.85,25
-Abner Vinícius,2026-02-07,Nantes,Olympique Lyonnais,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.13,31,37,1,0,0,0,2,60,0,1.85,25
-Abner Vinícius,2026-02-15,Olympique Lyonnais,Nice,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.25,24,33,4,0,0,0,4,45,0,1.85,25
-Abner Vinícius,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,20,33,0,0,0,0,2,39,0,1.85,25
-Abner Vinícius,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.3,12,1296.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,4,0,1.54,25
-Abner Vinícius,2026-03-05,Olympique Lyonnais,RC Lens,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,29,1,0,1,0,3,54,0,1.85,25
-Abner Vinícius,2026-03-08,Olympique Lyonnais,Paris FC,6.8,90,9720.0,18.0,108.0,0,0,0.12,0.12,36,40,0,0,0,0,3,57,0,1.85,25
-Abner Vinícius,2026-03-12,Celta Vigo,Olympique Lyonnais,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.06,59,62,1,0,0,0,5,80,0,1.85,25
-Abner Vinícius,2026-03-15,Le Havre,Olympique Lyonnais,7.1,90,9720.0,18.0,108.0,0,0,0.05,0.17,54,60,2,0,0,0,3,79,0,1.85,25
-Abner Vinícius,2026-03-19,Olympique Lyonnais,Celta Vigo,6.3,67,7236.0,13.0,108.0,0,0,0.0,0.02,11,14,0,0,0,0,0,22,0,1.8,25
-Abner Vinícius,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Abner Vinícius,2026-04-05,Angers,Olympique Lyonnais,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.06,57,68,1,0,0,0,2,89,0,1.85,25
-Abner Vinícius,2026-04-12,Olympique Lyonnais,Lorient,8.6,90,9720.0,18.0,108.0,0,0,0.0,0.3,52,59,1,0,0,0,6,81,0,1.85,25
-Abner Vinícius,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,6.5,90,9720.0,18.0,108.0,0,0,0.08,0.03,10,14,0,0,0,0,2,26,0,1.85,25
-Abner Vinícius,2026-04-25,Olympique Lyonnais,Auxerre,7.4,90,9720.0,18.0,108.0,0,0,0.06,0.52,40,51,1,0,0,0,5,69,0,1.85,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Abner Vinícius,25,2026-02-04,Olympique Lyonnais,Stade Lavallois,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,48,2,0,1,0,4,70,0.0,1.85
+Abner Vinícius,25,2026-02-07,Nantes,Olympique Lyonnais,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.13,31,37,1,0,0,0,2,60,0.0,1.85
+Abner Vinícius,25,2026-02-15,Olympique Lyonnais,Nice,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.25,24,33,4,0,0,0,4,45,0.0,1.85
+Abner Vinícius,25,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,20,33,0,0,0,0,2,39,0.0,1.85
+Abner Vinícius,25,2026-03-01,Olympique de Marseille,Olympique Lyonnais,6.3,12,1296.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,4,0.0,1.54
+Abner Vinícius,25,2026-03-05,Olympique Lyonnais,RC Lens,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,29,1,0,1,0,3,54,0.0,1.85
+Abner Vinícius,25,2026-03-08,Olympique Lyonnais,Paris FC,6.8,90,9720.0,18.0,108.0,0,0,0.12,0.12,36,40,0,0,0,0,3,57,0.0,1.85
+Abner Vinícius,25,2026-03-12,Celta Vigo,Olympique Lyonnais,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.06,59,62,1,0,0,0,5,80,0.0,1.85
+Abner Vinícius,25,2026-03-15,Le Havre,Olympique Lyonnais,7.1,90,9720.0,18.0,108.0,0,0,0.05,0.17,54,60,2,0,0,0,3,79,0.0,1.85
+Abner Vinícius,25,2026-03-19,Olympique Lyonnais,Celta Vigo,6.3,67,7236.0,13.0,108.0,0,0,0.0,0.02,11,14,0,0,0,0,0,22,0.0,1.8
+Abner Vinícius,25,2026-03-22,Olympique Lyonnais,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Abner Vinícius,25,2026-04-05,Angers,Olympique Lyonnais,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.06,57,68,1,0,0,0,2,89,0.0,1.85
+Abner Vinícius,25,2026-04-12,Olympique Lyonnais,Lorient,8.6,90,9720.0,18.0,108.0,0,0,0.0,0.3,52,59,1,0,0,0,6,81,0.0,1.85
+Abner Vinícius,25,2026-04-19,Paris Saint-Germain,Olympique Lyonnais,6.5,90,9720.0,18.0,108.0,0,0,0.08,0.03,10,14,0,0,0,0,2,26,0.0,1.85
+Abner Vinícius,25,2026-04-25,Olympique Lyonnais,Auxerre,7.4,90,9720.0,18.0,108.0,0,0,0.06,0.52,40,51,1,0,0,0,5,69,0.0,1.85
+Abner Vinícius,25,2026-05-03,Olympique Lyonnais,Stade Rennais,6.8,89,,,0.0,0,0,0.02,0.55,37,45,2,0,3,0,1,59,,
+Abner Vinícius,25,2026-05-10,Toulouse,Olympique Lyonnais,6.5,90,,,0.0,0,0,0.0,0.33,52,60,3,0,0,0,5,78,,

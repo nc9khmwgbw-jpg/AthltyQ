@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Matteo Darmian,36,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-05-03,Inter,Parma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-04-26,Torino,Inter,6.8,80,,,0.0,0,0,0.0,0.01,18,20,0,0,0,0,0,37
-Matteo Darmian,36,2026-04-21,Inter,Como,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-04-17,Inter,Cagliari,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-04-12,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-04-05,Inter,AS Roma,6.2,32,,,0.0,0,0,0.0,0.0,18,20,0,0,0,0,0,26
-Matteo Darmian,36,2026-03-22,Fiorentina,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-03-14,Inter,Atalanta,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-03-08,Milan,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-03-03,Como,Inter,6.6,58,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,0,12
-Matteo Darmian,36,2026-02-28,Inter,Genoa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-02-24,Inter,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Matteo Darmian,36,2026-02-21,Lecce,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
 Matteo Darmian,36,2026-02-18,Bodø/Glimt,Inter,6.5,75,,,0.0,0,0,0.12,0.06,30,36,1,0,0,0,3,56
+Matteo Darmian,36,2026-02-21,Lecce,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-02-24,Inter,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-02-28,Inter,Genoa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-03-03,Como,Inter,6.6,58,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,0,12
+Matteo Darmian,36,2026-03-08,Milan,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-03-14,Inter,Atalanta,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-03-22,Fiorentina,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-04-05,Inter,AS Roma,6.2,32,,,0.0,0,0,0.0,0.0,18,20,0,0,0,0,0,26
+Matteo Darmian,36,2026-04-12,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-04-17,Inter,Cagliari,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-04-21,Inter,Como,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-04-26,Torino,Inter,6.8,80,,,0.0,0,0,0.0,0.01,18,20,0,0,0,0,0,37
+Matteo Darmian,36,2026-05-03,Inter,Parma,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Matteo Darmian,36,2026-05-13,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0

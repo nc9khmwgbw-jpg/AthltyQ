@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-James Maddison,2025-03-09,Tottenham Hotspur,Bournemouth,6.4,29,3132.0,6.0,108.0,0,0,0.04,0.1,16,22,1,0,0,0,1,30,0,1.92,29
-James Maddison,2025-03-13,Tottenham Hotspur,AZ Alkmaar,7.8,77,8316.0,15.0,108.0,1,0,0.45,0.07,58,62,2,0,1,0,2,77,0,1.8,29
-James Maddison,2025-03-16,Fulham,Tottenham Hotspur,6.1,22,2376.0,4.0,108.0,0,0,0.0,0.29,11,16,1,0,0,0,2,22,0,1.68,29
-James Maddison,2025-04-03,Chelsea,Tottenham Hotspur,6.7,88,9504.0,18.0,108.0,0,0,0.05,0.06,34,35,0,0,0,0,1,40,0,1.89,29
-James Maddison,2025-04-06,Tottenham Hotspur,Southampton,8.0,80,8640.0,16.0,108.0,0,0,0.0,0.14,43,45,2,0,0,0,2,65,0,1.85,29
-James Maddison,2025-04-10,Tottenham Hotspur,Eintracht Frankfurt,7.2,79,8532.0,16.0,108.0,0,0,0.05,0.29,49,56,2,0,0,0,2,73,0,1.88,29
-James Maddison,2025-04-13,Wolverhampton,Tottenham Hotspur,7.2,75,8100.0,15.0,108.0,0,0,0.07,0.17,52,57,3,0,0,0,3,72,0,1.85,29
-James Maddison,2025-04-17,Eintracht Frankfurt,Tottenham Hotspur,7.0,45,4860.0,9.0,108.0,0,0,0.16,0.01,17,22,1,0,1,0,2,29,0,1.85,29
-James Maddison,2025-04-21,Tottenham Hotspur,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-James Maddison,2025-04-27,Liverpool,Tottenham Hotspur,7.0,45,4860.0,9.0,108.0,0,0,0.0,0.09,18,20,2,0,1,0,3,32,0,1.85,29
-James Maddison,2025-05-01,Tottenham Hotspur,Bodø/Glimt,7.2,65,7020.0,13.0,108.0,1,0,0.57,0.1,27,29,2,0,1,0,1,42,0,1.85,29
-James Maddison,2025-07-31,Arsenal,Tottenham Hotspur,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,0,6,0,2.14,29
-James Maddison,2025-08-03,Tottenham Hotspur,Newcastle United,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3,0,1.68,29
-James Maddison,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-James Maddison,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+James Maddison,29,2025-03-09,Tottenham Hotspur,Bournemouth,6.4,29,3132.0,6.0,108.0,0,0,0.04,0.1,16,22,1,0,0,0,1,30,0.0,1.92
+James Maddison,29,2025-03-13,Tottenham Hotspur,AZ Alkmaar,7.8,77,8316.0,15.0,108.0,1,0,0.45,0.07,58,62,2,0,1,0,2,77,0.0,1.8
+James Maddison,29,2025-03-16,Fulham,Tottenham Hotspur,6.1,22,2376.0,4.0,108.0,0,0,0.0,0.29,11,16,1,0,0,0,2,22,0.0,1.68
+James Maddison,29,2025-04-03,Chelsea,Tottenham Hotspur,6.7,88,9504.0,18.0,108.0,0,0,0.05,0.06,34,35,0,0,0,0,1,40,0.0,1.89
+James Maddison,29,2025-04-06,Tottenham Hotspur,Southampton,8.0,80,8640.0,16.0,108.0,0,0,0.0,0.14,43,45,2,0,0,0,2,65,0.0,1.85
+James Maddison,29,2025-04-10,Tottenham Hotspur,Eintracht Frankfurt,7.2,79,8532.0,16.0,108.0,0,0,0.05,0.29,49,56,2,0,0,0,2,73,0.0,1.88
+James Maddison,29,2025-04-13,Wolverhampton,Tottenham Hotspur,7.2,75,8100.0,15.0,108.0,0,0,0.07,0.17,52,57,3,0,0,0,3,72,0.0,1.85
+James Maddison,29,2025-04-17,Eintracht Frankfurt,Tottenham Hotspur,7.0,45,4860.0,9.0,108.0,0,0,0.16,0.01,17,22,1,0,1,0,2,29,0.0,1.85
+James Maddison,29,2025-04-21,Tottenham Hotspur,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Maddison,29,2025-04-27,Liverpool,Tottenham Hotspur,7.0,45,4860.0,9.0,108.0,0,0,0.0,0.09,18,20,2,0,1,0,3,32,0.0,1.85
+James Maddison,29,2025-05-01,Tottenham Hotspur,Bodø/Glimt,7.2,65,7020.0,13.0,108.0,1,0,0.57,0.1,27,29,2,0,1,0,1,42,0.0,1.85
+James Maddison,29,2025-07-31,Arsenal,Tottenham Hotspur,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,0,6,0.0,2.14
+James Maddison,29,2025-08-03,Tottenham Hotspur,Newcastle United,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3,0.0,1.68
+James Maddison,29,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Maddison,29,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Maddison,29,2026-05-03,Aston Villa,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+James Maddison,29,2026-05-11,Tottenham Hotspur,Leeds United,6.6,21,,,0.0,0,0,0.0,0.04,11,12,0,0,0,0,1,22,,

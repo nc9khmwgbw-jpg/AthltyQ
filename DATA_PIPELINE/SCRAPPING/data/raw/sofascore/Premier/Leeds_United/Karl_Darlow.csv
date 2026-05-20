@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Karl Darlow,2026-02-10,Chelsea,Leeds United,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,23,44,0,0,0,0,10,56,0,1.85,35
-Karl Darlow,2026-02-15,Birmingham City,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,35
-Karl Darlow,2026-02-21,Aston Villa,Leeds United,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,31,0,0,0,0,9,45,0,1.85,35
-Karl Darlow,2026-02-28,Leeds United,Manchester City,8.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,31,0,0,0,0,6,39,0,1.85,35
-Karl Darlow,2026-03-03,Leeds United,Sunderland,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,53,0,0,0,0,7,58,0,1.85,35
-Karl Darlow,2026-03-08,Leeds United,Norwich City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,35
-Karl Darlow,2026-03-15,Crystal Palace,Leeds United,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,36,0,0,0,0,10,41,0,1.85,35
-Karl Darlow,2026-03-21,Leeds United,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,27,38,0,0,0,0,14,51,0,1.85,35
-Karl Darlow,2026-03-26,Wales,Bosnia & Herzegovina,8.0,120,12960.0,24.0,108.0,0,0,0.0,0.0,56,70,0,0,0,0,18,92,0,1.85,35
-Karl Darlow,2026-03-31,Wales,Northern Ireland,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,37,0,0,0,0,7,42,0,1.85,35
-Karl Darlow,2026-04-05,West Ham United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,35
-Karl Darlow,2026-04-13,Manchester United,Leeds United,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,20,37,0,0,0,0,10,49,0,1.85,35
-Karl Darlow,2026-04-18,Leeds United,Wolverhampton,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,37,0,0,0,0,5,42,0,1.85,35
-Karl Darlow,2026-04-22,Bournemouth,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,30,0,0,0,0,16,52,0,1.85,35
-Karl Darlow,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,35
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Karl Darlow,35,2026-02-10,Chelsea,Leeds United,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,23,44,0,0,0,0,10,56,0.0,1.85
+Karl Darlow,35,2026-02-15,Birmingham City,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Karl Darlow,35,2026-02-21,Aston Villa,Leeds United,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,31,0,0,0,0,9,45,0.0,1.85
+Karl Darlow,35,2026-02-28,Leeds United,Manchester City,8.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,31,0,0,0,0,6,39,0.0,1.85
+Karl Darlow,35,2026-03-03,Leeds United,Sunderland,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,53,0,0,0,0,7,58,0.0,1.85
+Karl Darlow,35,2026-03-08,Leeds United,Norwich City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Karl Darlow,35,2026-03-15,Crystal Palace,Leeds United,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,36,0,0,0,0,10,41,0.0,1.85
+Karl Darlow,35,2026-03-21,Leeds United,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,27,38,0,0,0,0,14,51,0.0,1.85
+Karl Darlow,35,2026-03-26,Wales,Bosnia & Herzegovina,8.0,120,12960.0,24.0,108.0,0,0,0.0,0.0,56,70,0,0,0,0,18,92,0.0,1.85
+Karl Darlow,35,2026-03-31,Wales,Northern Ireland,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,37,0,0,0,0,7,42,0.0,1.85
+Karl Darlow,35,2026-04-05,West Ham United,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Karl Darlow,35,2026-04-13,Manchester United,Leeds United,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,20,37,0,0,0,0,10,49,0.0,1.85
+Karl Darlow,35,2026-04-18,Leeds United,Wolverhampton,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,37,0,0,0,0,5,42,0.0,1.85
+Karl Darlow,35,2026-04-22,Bournemouth,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,30,0,0,0,0,16,52,0.0,1.85
+Karl Darlow,35,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Karl Darlow,35,2026-05-01,Leeds United,Burnley,7.0,90,,,0.0,0,0,0.0,0.01,28,41,0,0,0,0,7,47,,
+Karl Darlow,35,2026-05-11,Tottenham Hotspur,Leeds United,6.8,90,,,0.0,0,0,0.0,0.0,23,44,0,0,0,0,4,48,,

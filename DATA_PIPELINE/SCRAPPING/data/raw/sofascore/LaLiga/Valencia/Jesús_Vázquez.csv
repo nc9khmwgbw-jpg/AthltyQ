@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jesús Vázquez,2026-01-18,Getafe,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jesús Vázquez,2026-01-24,Valencia,Espanyol,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,20,1,0,0,0,3,49,0,1.85,23
-Jesús Vázquez,2026-02-01,Real Betis,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jesús Vázquez,2026-02-04,Valencia,Athletic Club,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,20,0,0,3,0,8,47,0,1.85,23
-Jesús Vázquez,2026-02-08,Valencia,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jesús Vázquez,2026-02-15,Levante UD,Valencia,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,12,0,1.85,23
-Jesús Vázquez,2026-02-22,Villarreal,Valencia,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,17,0,1.54,23
-Jesús Vázquez,2026-03-01,Valencia,Osasuna,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.0,0,2,0,0,0,0,1,7,0,2.14,23
-Jesús Vázquez,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jesús Vázquez,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jesús Vázquez,2026-03-21,Sevilla,Valencia,7.0,64,6912.0,13.0,108.0,0,0,0.04,0.0,10,14,0,0,1,0,5,38,0,1.88,23
-Jesús Vázquez,2026-04-05,Valencia,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jesús Vázquez,2026-04-11,Elche,Valencia,6.8,15,1620.0,3.0,108.0,0,0,0.02,0.01,5,8,2,0,0,0,1,16,0,1.85,23
-Jesús Vázquez,2026-04-21,Mallorca,Valencia,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0,0.0,23
-Jesús Vázquez,2026-04-25,Valencia,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jesús Vázquez,23,2026-01-18,Getafe,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesús Vázquez,23,2026-01-24,Valencia,Espanyol,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,20,1,0,0,0,3,49,0.0,1.85
+Jesús Vázquez,23,2026-02-01,Real Betis,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesús Vázquez,23,2026-02-04,Valencia,Athletic Club,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,20,0,0,3,0,8,47,0.0,1.85
+Jesús Vázquez,23,2026-02-08,Valencia,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesús Vázquez,23,2026-02-15,Levante UD,Valencia,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,12,0.0,1.85
+Jesús Vázquez,23,2026-02-22,Villarreal,Valencia,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,6,7,0,0,0,0,0,17,0.0,1.54
+Jesús Vázquez,23,2026-03-01,Valencia,Osasuna,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.0,0,2,0,0,0,0,1,7,0.0,2.14
+Jesús Vázquez,23,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesús Vázquez,23,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesús Vázquez,23,2026-03-21,Sevilla,Valencia,7.0,64,6912.0,13.0,108.0,0,0,0.04,0.0,10,14,0,0,1,0,5,38,0.0,1.88
+Jesús Vázquez,23,2026-04-05,Valencia,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesús Vázquez,23,2026-04-11,Elche,Valencia,6.8,15,1620.0,3.0,108.0,0,0,0.02,0.01,5,8,2,0,0,0,1,16,0.0,1.85
+Jesús Vázquez,23,2026-04-21,Mallorca,Valencia,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0.0,0.0
+Jesús Vázquez,23,2026-04-25,Valencia,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesús Vázquez,23,2026-05-02,Valencia,Atlético Madrid,6.3,17,,,0.0,0,0,0.0,0.07,12,15,0,0,0,0,2,19,,
+Jesús Vázquez,23,2026-05-10,Athletic Club,Valencia,,1,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,,
+Jesús Vázquez,23,2026-05-14,Valencia,Rayo Vallecano,7.0,27,,,0.0,0,0,0.0,0.01,7,9,0,0,0,0,3,20,,

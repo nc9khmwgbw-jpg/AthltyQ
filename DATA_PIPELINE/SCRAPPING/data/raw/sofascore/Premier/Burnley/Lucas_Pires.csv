@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Lucas Pires,2026-01-03,Brighton & Hove Albion,Burnley,6.1,90,9720.0,18.0,108.0,0,0,0.05,0.02,35,41,0,0,1,0,5,64,0,1.85,25
-Lucas Pires,2026-01-07,Burnley,Manchester United,6.2,90,9720.0,18.0,108.0,0,0,0.03,0.01,21,26,0,0,0,0,6,44,0,1.85,25
-Lucas Pires,2026-01-10,Burnley,Millwall,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Lucas Pires,2026-01-17,Liverpool,Burnley,7.1,90,9720.0,18.0,108.0,0,0,0.04,0.03,26,31,0,0,4,0,6,60,0,1.85,25
-Lucas Pires,2026-01-24,Burnley,Tottenham Hotspur,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,29,0,0,2,0,4,58,0,1.85,25
-Lucas Pires,2026-02-02,Sunderland,Burnley,6.2,90,9720.0,18.0,108.0,0,0,0.01,0.01,36,46,0,0,2,0,3,79,0,1.85,25
-Lucas Pires,2026-02-07,Burnley,West Ham United,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.22,39,50,5,0,0,0,9,77,0,1.85,25
-Lucas Pires,2026-02-11,Crystal Palace,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Lucas Pires,2026-02-14,Burnley,Mansfield Town,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0,0.0,25
-Lucas Pires,2026-02-21,Chelsea,Burnley,6.8,45,4860.0,9.0,108.0,0,0,0.0,0.02,15,16,1,0,2,0,5,25,0,1.85,25
-Lucas Pires,2026-02-28,Burnley,Brentford,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.22,28,33,1,0,0,0,6,57,0,1.85,25
-Lucas Pires,2026-03-03,Everton,Burnley,6.3,90,9720.0,18.0,108.0,0,0,0.02,0.01,39,45,3,0,1,0,7,64,0,1.85,25
-Lucas Pires,2026-03-14,Burnley,Bournemouth,6.7,16,1728.0,3.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,7,0,1.74,25
-Lucas Pires,2026-04-11,Burnley,Brighton & Hove Albion,6.2,8,864.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,1,0,1,8,0,2.31,25
-Lucas Pires,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lucas Pires,25,2026-01-03,Brighton & Hove Albion,Burnley,6.1,90,9720.0,18.0,108.0,0,0,0.05,0.02,35,41,0,0,1,0,5,64,0.0,1.85
+Lucas Pires,25,2026-01-07,Burnley,Manchester United,6.2,90,9720.0,18.0,108.0,0,0,0.03,0.01,21,26,0,0,0,0,6,44,0.0,1.85
+Lucas Pires,25,2026-01-10,Burnley,Millwall,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lucas Pires,25,2026-01-17,Liverpool,Burnley,7.1,90,9720.0,18.0,108.0,0,0,0.04,0.03,26,31,0,0,4,0,6,60,0.0,1.85
+Lucas Pires,25,2026-01-24,Burnley,Tottenham Hotspur,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,29,0,0,2,0,4,58,0.0,1.85
+Lucas Pires,25,2026-02-02,Sunderland,Burnley,6.2,90,9720.0,18.0,108.0,0,0,0.01,0.01,36,46,0,0,2,0,3,79,0.0,1.85
+Lucas Pires,25,2026-02-07,Burnley,West Ham United,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.22,39,50,5,0,0,0,9,77,0.0,1.85
+Lucas Pires,25,2026-02-11,Crystal Palace,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lucas Pires,25,2026-02-14,Burnley,Mansfield Town,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0.0,0.0
+Lucas Pires,25,2026-02-21,Chelsea,Burnley,6.8,45,4860.0,9.0,108.0,0,0,0.0,0.02,15,16,1,0,2,0,5,25,0.0,1.85
+Lucas Pires,25,2026-02-28,Burnley,Brentford,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.22,28,33,1,0,0,0,6,57,0.0,1.85
+Lucas Pires,25,2026-03-03,Everton,Burnley,6.3,90,9720.0,18.0,108.0,0,0,0.02,0.01,39,45,3,0,1,0,7,64,0.0,1.85
+Lucas Pires,25,2026-03-14,Burnley,Bournemouth,6.7,16,1728.0,3.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,7,0.0,1.74
+Lucas Pires,25,2026-04-11,Burnley,Brighton & Hove Albion,6.2,8,864.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,1,0,1,8,0.0,2.31
+Lucas Pires,25,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lucas Pires,25,2026-05-01,Leeds United,Burnley,6.6,25,,,0.0,0,0,0.0,0.01,16,21,1,0,0,0,3,30,,
+Lucas Pires,25,2026-05-10,Burnley,Aston Villa,6.6,90,,,0.0,0,0,0.0,0.06,18,19,1,0,0,0,4,38,,

@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Keane Lewis-Potter,2026-01-17,Chelsea,Brentford,6.4,8,864.0,2.0,108.0,0,0,0.05,0.02,4,5,0,0,0,0,1,10,0,2.31,25
-Keane Lewis-Potter,2026-01-25,Brentford,Nottingham Forest,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,0,5,0,2.06,25
-Keane Lewis-Potter,2026-02-01,Aston Villa,Brentford,6.8,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,7,0,1.98,25
-Keane Lewis-Potter,2026-02-07,Newcastle United,Brentford,5.9,80,8640.0,16.0,108.0,0,0,0.1,0.02,8,19,0,0,1,0,4,29,0,1.85,25
-Keane Lewis-Potter,2026-02-12,Brentford,Arsenal,7.6,73,7884.0,15.0,108.0,1,0,0.56,0.02,13,16,0,0,1,0,5,28,0,1.9,25
-Keane Lewis-Potter,2026-02-16,Macclesfield FC,Brentford,6.6,29,3132.0,6.0,108.0,0,0,0.0,0.0,5,9,1,0,0,0,1,10,0,1.92,25
-Keane Lewis-Potter,2026-02-21,Brentford,Brighton & Hove Albion,6.4,45,4860.0,9.0,108.0,0,0,0.04,0.0,6,7,0,0,0,0,2,9,0,1.85,25
-Keane Lewis-Potter,2026-02-28,Burnley,Brentford,6.8,18,1944.0,4.0,108.0,0,0,0.0,0.04,6,7,1,0,0,0,0,9,0,2.06,25
-Keane Lewis-Potter,2026-03-03,Bournemouth,Brentford,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,1,3,0,0,0,0,2,4,0,2.06,25
-Keane Lewis-Potter,2026-03-09,West Ham United,Brentford,7.1,120,12960.0,24.0,108.0,0,0,0.0,0.0,37,46,1,0,0,0,2,84,0,1.85,25
-Keane Lewis-Potter,2026-03-16,Brentford,Wolverhampton,6.9,90,9720.0,18.0,108.0,0,0,0.08,0.24,33,40,1,0,0,0,3,62,0,1.85,25
-Keane Lewis-Potter,2026-03-21,Leeds United,Brentford,7.0,90,9720.0,18.0,108.0,0,0,0.1,0.04,15,28,1,0,1,0,7,68,0,1.85,25
-Keane Lewis-Potter,2026-04-11,Brentford,Everton,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.52,26,33,2,0,0,0,5,63,0,1.85,25
-Keane Lewis-Potter,2026-04-18,Brentford,Fulham,6.8,90,9720.0,18.0,108.0,0,0,0.37,0.26,16,22,2,0,0,0,1,47,0,1.85,25
-Keane Lewis-Potter,2026-04-27,Manchester United,Brentford,5.7,90,9720.0,18.0,108.0,0,0,0.07,0.04,32,37,0,0,1,0,6,52,0,1.85,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Keane Lewis-Potter,25,2026-01-17,Chelsea,Brentford,6.4,8,864.0,2.0,108.0,0,0,0.05,0.02,4,5,0,0,0,0,1,10,0.0,2.31
+Keane Lewis-Potter,25,2026-01-25,Brentford,Nottingham Forest,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,0,5,0.0,2.06
+Keane Lewis-Potter,25,2026-02-01,Aston Villa,Brentford,6.8,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,7,0.0,1.98
+Keane Lewis-Potter,25,2026-02-07,Newcastle United,Brentford,5.9,80,8640.0,16.0,108.0,0,0,0.1,0.02,8,19,0,0,1,0,4,29,0.0,1.85
+Keane Lewis-Potter,25,2026-02-12,Brentford,Arsenal,7.6,73,7884.0,15.0,108.0,1,0,0.56,0.02,13,16,0,0,1,0,5,28,0.0,1.9
+Keane Lewis-Potter,25,2026-02-16,Macclesfield FC,Brentford,6.6,29,3132.0,6.0,108.0,0,0,0.0,0.0,5,9,1,0,0,0,1,10,0.0,1.92
+Keane Lewis-Potter,25,2026-02-21,Brentford,Brighton & Hove Albion,6.4,45,4860.0,9.0,108.0,0,0,0.04,0.0,6,7,0,0,0,0,2,9,0.0,1.85
+Keane Lewis-Potter,25,2026-02-28,Burnley,Brentford,6.8,18,1944.0,4.0,108.0,0,0,0.0,0.04,6,7,1,0,0,0,0,9,0.0,2.06
+Keane Lewis-Potter,25,2026-03-03,Bournemouth,Brentford,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,1,3,0,0,0,0,2,4,0.0,2.06
+Keane Lewis-Potter,25,2026-03-09,West Ham United,Brentford,7.1,120,12960.0,24.0,108.0,0,0,0.0,0.0,37,46,1,0,0,0,2,84,0.0,1.85
+Keane Lewis-Potter,25,2026-03-16,Brentford,Wolverhampton,6.9,90,9720.0,18.0,108.0,0,0,0.08,0.24,33,40,1,0,0,0,3,62,0.0,1.85
+Keane Lewis-Potter,25,2026-03-21,Leeds United,Brentford,7.0,90,9720.0,18.0,108.0,0,0,0.1,0.04,15,28,1,0,1,0,7,68,0.0,1.85
+Keane Lewis-Potter,25,2026-04-11,Brentford,Everton,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.52,26,33,2,0,0,0,5,63,0.0,1.85
+Keane Lewis-Potter,25,2026-04-18,Brentford,Fulham,6.8,90,9720.0,18.0,108.0,0,0,0.37,0.26,16,22,2,0,0,0,1,47,0.0,1.85
+Keane Lewis-Potter,25,2026-04-27,Manchester United,Brentford,5.7,90,9720.0,18.0,108.0,0,0,0.07,0.04,32,37,0,0,1,0,6,52,0.0,1.85
+Keane Lewis-Potter,25,2026-05-02,Brentford,West Ham United,6.8,89,,,0.0,0,0,0.23,0.17,23,31,1,0,0,0,8,55,,
+Keane Lewis-Potter,25,2026-05-09,Manchester City,Brentford,6.3,90,,,0.0,0,0,0.0,0.01,27,29,0,0,0,0,5,45,,

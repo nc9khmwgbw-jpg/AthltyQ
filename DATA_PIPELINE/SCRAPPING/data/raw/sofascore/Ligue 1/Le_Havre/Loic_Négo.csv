@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Loic Négo,2025-12-14,Olympique Lyonnais,Le Havre,7.1,63,6804.0,13.0,108.0,0,0,0.01,0.01,15,23,0,0,2,0,3,42,0,1.91,35
-Loic Négo,2025-12-21,Le Havre,Amiens SC,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,49,0,0,0,0,4,73,0,1.85,35
-Loic Négo,2026-01-04,Le Havre,Angers,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.02,34,42,1,0,0,0,12,78,0,1.85,35
-Loic Négo,2026-01-18,Stade Rennais,Le Havre,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,25,0,0,3,0,4,51,0,1.85,35
-Loic Négo,2026-01-24,Le Havre,AS Monaco,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.02,28,40,0,0,0,0,5,63,0,1.85,35
-Loic Négo,2026-01-30,RC Lens,Le Havre,6.3,78,8424.0,16.0,108.0,0,0,0.0,0.01,14,22,0,0,3,0,2,43,0,1.9,35
-Loic Négo,2026-02-08,Le Havre,RC Strasbourg,6.4,90,9720.0,18.0,108.0,0,0,0.09,0.01,32,39,0,0,1,0,3,61,0,1.85,35
-Loic Négo,2026-02-15,Le Havre,Toulouse,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,20,0,0,0,0,3,34,0,1.85,35
-Loic Négo,2026-02-22,Nantes,Le Havre,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.06,68,82,0,0,0,0,3,105,0,1.85,35
-Loic Négo,2026-03-15,Le Havre,Olympique Lyonnais,7.1,90,9720.0,18.0,108.0,0,0,0.23,0.03,28,34,1,0,1,0,7,59,0,1.85,35
-Loic Négo,2026-03-22,Paris FC,Le Havre,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.23,29,33,2,0,1,0,5,65,0,1.85,35
-Loic Négo,2026-04-05,Le Havre,Auxerre,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.05,17,28,1,0,2,0,4,42,0,1.85,35
-Loic Négo,2026-04-12,Nice,Le Havre,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,3,0,1.54,35
-Loic Négo,2026-04-18,Angers,Le Havre,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.02,1,4,0,0,1,0,1,9,0,1.76,35
-Loic Négo,2026-04-26,Le Havre,Metz,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,36,0,0,1,0,5,58,0,1.85,35
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Loic Négo,35,2025-12-14,Olympique Lyonnais,Le Havre,7.1,63,6804.0,13.0,108.0,0,0,0.01,0.01,15,23,0,0,2,0,3,42,0.0,1.91
+Loic Négo,35,2025-12-21,Le Havre,Amiens SC,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,49,0,0,0,0,4,73,0.0,1.85
+Loic Négo,35,2026-01-04,Le Havre,Angers,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.02,34,42,1,0,0,0,12,78,0.0,1.85
+Loic Négo,35,2026-01-18,Stade Rennais,Le Havre,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,25,0,0,3,0,4,51,0.0,1.85
+Loic Négo,35,2026-01-24,Le Havre,AS Monaco,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.02,28,40,0,0,0,0,5,63,0.0,1.85
+Loic Négo,35,2026-01-30,RC Lens,Le Havre,6.3,78,8424.0,16.0,108.0,0,0,0.0,0.01,14,22,0,0,3,0,2,43,0.0,1.9
+Loic Négo,35,2026-02-08,Le Havre,RC Strasbourg,6.4,90,9720.0,18.0,108.0,0,0,0.09,0.01,32,39,0,0,1,0,3,61,0.0,1.85
+Loic Négo,35,2026-02-15,Le Havre,Toulouse,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,20,0,0,0,0,3,34,0.0,1.85
+Loic Négo,35,2026-02-22,Nantes,Le Havre,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.06,68,82,0,0,0,0,3,105,0.0,1.85
+Loic Négo,35,2026-03-15,Le Havre,Olympique Lyonnais,7.1,90,9720.0,18.0,108.0,0,0,0.23,0.03,28,34,1,0,1,0,7,59,0.0,1.85
+Loic Négo,35,2026-03-22,Paris FC,Le Havre,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.23,29,33,2,0,1,0,5,65,0.0,1.85
+Loic Négo,35,2026-04-05,Le Havre,Auxerre,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.05,17,28,1,0,2,0,4,42,0.0,1.85
+Loic Négo,35,2026-04-12,Nice,Le Havre,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,3,0.0,1.54
+Loic Négo,35,2026-04-18,Angers,Le Havre,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.02,1,4,0,0,1,0,1,9,0.0,1.76
+Loic Négo,35,2026-04-26,Le Havre,Metz,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,36,0,0,1,0,5,58,0.0,1.85
+Loic Négo,35,2026-05-03,Lille,Le Havre,7.1,90,,,0.0,0,0,0.0,0.01,19,24,0,0,1,0,4,45,,
+Loic Négo,35,2026-05-10,Le Havre,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

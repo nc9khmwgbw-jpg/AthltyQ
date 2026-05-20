@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jacen Russell Rowe,2026-02-08,Angers,Toulouse,6.7,16,1728.0,3.0,108.0,0,0,0.0,0.05,2,4,1,0,0,0,0,9,0,1.74,23
-Jacen Russell Rowe,2026-02-15,Le Havre,Toulouse,6.3,28,3024.0,6.0,108.0,0,0,0.1,0.01,3,4,1,0,0,0,0,7,0,1.98,23
-Jacen Russell Rowe,2026-02-21,Toulouse,Paris FC,6.3,26,2808.0,5.0,108.0,0,0,0.11,0.01,6,7,0,0,0,0,1,8,0,1.78,23
-Jacen Russell Rowe,2026-02-28,Stade Rennais,Toulouse,6.4,9,972.0,2.0,108.0,0,0,0.07,0.08,2,2,0,0,0,0,1,4,0,2.06,23
-Jacen Russell Rowe,2026-03-04,Olympique de Marseille,Toulouse,6.4,7,756.0,1.0,108.0,0,0,0.0,0.0,0,2,0,0,0,0,0,4,0,1.32,23
-Jacen Russell Rowe,2026-03-07,Toulouse,Olympique de Marseille,6.3,12,1296.0,2.0,108.0,0,0,0.08,0.0,1,2,0,0,0,0,0,5,0,1.54,23
-Jacen Russell Rowe,2026-03-15,Metz,Toulouse,6.3,64,6912.0,13.0,108.0,0,0,0.08,0.02,10,17,2,0,1,0,1,25,0,1.88,23
-Jacen Russell Rowe,2026-03-21,Toulouse,Lorient,6.3,64,6912.0,13.0,108.0,0,0,0.0,0.01,10,15,1,0,0,0,0,22,0,1.88,23
-Jacen Russell Rowe,2026-03-28,Canada,Iceland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jacen Russell Rowe,2026-04-01,Canada,Tunisia,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,6,1,0,0,0,0,8,0,1.98,23
-Jacen Russell Rowe,2026-04-03,Paris Saint-Germain,Toulouse,6.5,7,756.0,1.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,4,0,1.32,23
-Jacen Russell Rowe,2026-04-12,Toulouse,Lille,6.6,19,2052.0,4.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,0,7,0,1.95,23
-Jacen Russell Rowe,2026-04-17,RC Lens,Toulouse,6.5,26,2808.0,5.0,108.0,0,0,0.0,0.0,3,6,0,0,0,0,2,12,0,1.78,23
-Jacen Russell Rowe,2026-04-21,RC Lens,Toulouse,6.6,26,2808.0,5.0,108.0,0,0,0.0,0.0,5,8,0,0,0,0,2,14,0,1.78,23
-Jacen Russell Rowe,2026-04-25,Toulouse,AS Monaco,6.8,74,7992.0,15.0,108.0,1,0,0.9,0.01,13,14,0,0,0,0,3,25,0,1.88,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jacen Russell Rowe,23,2026-02-08,Angers,Toulouse,6.7,16,1728.0,3.0,108.0,0,0,0.0,0.05,2,4,1,0,0,0,0,9,0.0,1.74
+Jacen Russell Rowe,23,2026-02-15,Le Havre,Toulouse,6.3,28,3024.0,6.0,108.0,0,0,0.1,0.01,3,4,1,0,0,0,0,7,0.0,1.98
+Jacen Russell Rowe,23,2026-02-21,Toulouse,Paris FC,6.3,26,2808.0,5.0,108.0,0,0,0.11,0.01,6,7,0,0,0,0,1,8,0.0,1.78
+Jacen Russell Rowe,23,2026-02-28,Stade Rennais,Toulouse,6.4,9,972.0,2.0,108.0,0,0,0.07,0.08,2,2,0,0,0,0,1,4,0.0,2.06
+Jacen Russell Rowe,23,2026-03-04,Olympique de Marseille,Toulouse,6.4,7,756.0,1.0,108.0,0,0,0.0,0.0,0,2,0,0,0,0,0,4,0.0,1.32
+Jacen Russell Rowe,23,2026-03-07,Toulouse,Olympique de Marseille,6.3,12,1296.0,2.0,108.0,0,0,0.08,0.0,1,2,0,0,0,0,0,5,0.0,1.54
+Jacen Russell Rowe,23,2026-03-15,Metz,Toulouse,6.3,64,6912.0,13.0,108.0,0,0,0.08,0.02,10,17,2,0,1,0,1,25,0.0,1.88
+Jacen Russell Rowe,23,2026-03-21,Toulouse,Lorient,6.3,64,6912.0,13.0,108.0,0,0,0.0,0.01,10,15,1,0,0,0,0,22,0.0,1.88
+Jacen Russell Rowe,23,2026-03-28,Canada,Iceland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jacen Russell Rowe,23,2026-04-01,Canada,Tunisia,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.0,3,6,1,0,0,0,0,8,0.0,1.98
+Jacen Russell Rowe,23,2026-04-03,Paris Saint-Germain,Toulouse,6.5,7,756.0,1.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,4,0.0,1.32
+Jacen Russell Rowe,23,2026-04-12,Toulouse,Lille,6.6,19,2052.0,4.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,0,7,0.0,1.95
+Jacen Russell Rowe,23,2026-04-17,RC Lens,Toulouse,6.5,26,2808.0,5.0,108.0,0,0,0.0,0.0,3,6,0,0,0,0,2,12,0.0,1.78
+Jacen Russell Rowe,23,2026-04-21,RC Lens,Toulouse,6.6,26,2808.0,5.0,108.0,0,0,0.0,0.0,5,8,0,0,0,0,2,14,0.0,1.78
+Jacen Russell Rowe,23,2026-04-25,Toulouse,AS Monaco,6.8,74,7992.0,15.0,108.0,1,0,0.9,0.01,13,14,0,0,0,0,3,25,0.0,1.88
+Jacen Russell Rowe,23,2026-05-03,RC Strasbourg,Toulouse,6.4,63,,,0.0,0,0,0.1,0.01,12,15,1,0,0,0,0,22,,
+Jacen Russell Rowe,23,2026-05-10,Toulouse,Olympique Lyonnais,6.3,61,,,0.0,0,0,0.0,0.0,7,8,0,0,0,0,1,14,,

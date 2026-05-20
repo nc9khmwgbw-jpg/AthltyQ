@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Pepê,29,2026-05-16,FC Porto,Santa Clara,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pepê,29,2026-05-10,AVS - Futebol SAD,FC Porto,6.8,68,,,0.0,0,0,0.0,0.24,24,32,5,0,0,0,2,40
+Pepê,29,2026-05-02,FC Porto,FC Alverca,6.5,86,,,0.0,0,0,0.06,0.04,22,28,2,0,1,0,4,41
+Pepê,29,2026-04-26,CF Estrela Amadora,FC Porto,5.9,61,,,0.0,0,0,0.02,0.0,15,19,0,0,0,0,1,30
+Pepê,29,2026-04-22,FC Porto,Sporting CP,6.8,19,,,0.0,0,0,0.0,0.0,9,10,1,0,1,0,2,21
+Pepê,29,2026-04-19,FC Porto,Tondela,7.7,90,,,0.0,0,0,0.0,0.1,36,40,3,0,0,0,9,68
+Pepê,29,2026-04-16,Nottingham Forest,FC Porto,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Pepê,29,2026-04-12,Estoril Praia,FC Porto,6.9,83,,,0.0,1,0,0.56,0.06,17,25,2,0,1,0,7,37
+Pepê,29,2026-04-09,FC Porto,Nottingham Forest,7.0,31,,,0.0,0,0,0.0,0.34,11,12,2,0,0,0,1,19
+Pepê,29,2026-04-04,FC Porto,Famalicão,7.3,74,,,0.0,0,0,0.03,0.22,15,19,1,0,0,0,1,35
+Pepê,29,2026-03-22,Sporting Braga,FC Porto,6.5,55,,,0.0,0,0,0.03,0.13,11,17,1,0,1,0,3,29
+Pepê,29,2026-03-19,FC Porto,VfB Stuttgart,6.4,32,,,0.0,0,0,0.0,0.03,2,5,0,0,0,0,3,18
+Pepê,29,2026-03-15,FC Porto,Moreirense,7.2,72,,,0.0,0,0,0.03,0.1,22,28,2,0,1,0,4,41
+Pepê,29,2026-03-12,VfB Stuttgart,FC Porto,6.5,31,,,0.0,0,0,0.03,0.0,3,8,0,0,1,0,3,15
+Pepê,29,2026-03-08,Benfica,FC Porto,6.0,45,,,0.0,0,0,0.0,0.12,5,8,0,0,1,0,2,17

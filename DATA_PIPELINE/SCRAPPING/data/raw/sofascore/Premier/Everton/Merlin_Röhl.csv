@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Merlin Röhl,2026-01-07,Everton,Wolverhampton,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,2.06,23
-Merlin Röhl,2026-01-10,Everton,Sunderland,6.6,86,9288.0,17.0,108.0,0,0,0.0,0.0,21,26,0,0,0,0,6,44,0,1.83,23
-Merlin Röhl,2026-01-18,Aston Villa,Everton,6.4,90,9720.0,18.0,108.0,0,0,0.13,0.02,14,18,2,0,1,0,4,33,0,1.85,23
-Merlin Röhl,2026-01-26,Everton,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-01-31,Brighton & Hove Albion,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-02-07,Fulham,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-02-10,Everton,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-02-23,Everton,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-02-28,Newcastle United,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-03-03,Everton,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-03-14,Arsenal,Everton,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.04,2,3,0,0,0,0,1,6,0,2.14,23
-Merlin Röhl,2026-03-21,Everton,Chelsea,,1,108.0,0.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,5,0,0.0,23
-Merlin Röhl,2026-04-11,Brentford,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-04-19,Everton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Merlin Röhl,2026-04-25,West Ham United,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Merlin Röhl,23,2026-01-07,Everton,Wolverhampton,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0.0,2.06
+Merlin Röhl,23,2026-01-10,Everton,Sunderland,6.6,86,9288.0,17.0,108.0,0,0,0.0,0.0,21,26,0,0,0,0,6,44,0.0,1.83
+Merlin Röhl,23,2026-01-18,Aston Villa,Everton,6.4,90,9720.0,18.0,108.0,0,0,0.13,0.02,14,18,2,0,1,0,4,33,0.0,1.85
+Merlin Röhl,23,2026-01-26,Everton,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-01-31,Brighton & Hove Albion,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-02-07,Fulham,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-02-10,Everton,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-02-23,Everton,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-02-28,Newcastle United,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-03-03,Everton,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-03-14,Arsenal,Everton,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.04,2,3,0,0,0,0,1,6,0.0,2.14
+Merlin Röhl,23,2026-03-21,Everton,Chelsea,,1,108.0,0.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,5,0.0,0.0
+Merlin Röhl,23,2026-04-11,Brentford,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-04-19,Everton,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-04-25,West Ham United,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Merlin Röhl,23,2026-05-04,Everton,Manchester City,6.2,89,,,0.0,0,0,0.05,0.0,6,9,0,0,0,0,4,14,,
+Merlin Röhl,23,2026-05-10,Crystal Palace,Everton,6.2,80,,,0.0,0,0,0.0,0.08,22,23,1,0,1,0,2,38,,

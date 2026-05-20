@@ -1,11 +1,13 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Zach Abbott,2026-01-22,Sporting Braga,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Zach Abbott,2026-01-29,Nottingham Forest,Ferencváros TC,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.26,32,46,1,0,0,0,4,71,0,1.85,19
-Zach Abbott,2026-02-01,Nottingham Forest,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Zach Abbott,2026-02-06,Leeds United,Nottingham Forest,6.1,76,8208.0,15.0,108.0,0,0,0.0,0.01,19,27,0,0,1,0,7,48,0,1.83,19
-Zach Abbott,2026-02-19,Fenerbahçe,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Zach Abbott,2026-02-26,Nottingham Forest,Fenerbahçe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Zach Abbott,2026-03-12,Nottingham Forest,FC Midtjylland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Zach Abbott,2026-03-19,FC Midtjylland,Nottingham Forest,6.9,120,12960.0,24.0,108.0,0,0,0.0,0.01,25,33,0,0,1,0,3,47,0,1.85,19
-Zach Abbott,2026-04-09,FC Porto,Nottingham Forest,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,32,0,0,0,0,4,42,0,1.85,19
-Zach Abbott,2026-04-16,Nottingham Forest,FC Porto,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Zach Abbott,19,2026-01-22,Sporting Braga,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Zach Abbott,19,2026-01-29,Nottingham Forest,Ferencváros TC,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.26,32,46,1,0,0,0,4,71,0.0,1.85
+Zach Abbott,19,2026-02-01,Nottingham Forest,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Zach Abbott,19,2026-02-06,Leeds United,Nottingham Forest,6.1,76,8208.0,15.0,108.0,0,0,0.0,0.01,19,27,0,0,1,0,7,48,0.0,1.83
+Zach Abbott,19,2026-02-19,Fenerbahçe,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Zach Abbott,19,2026-02-26,Nottingham Forest,Fenerbahçe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Zach Abbott,19,2026-03-12,Nottingham Forest,FC Midtjylland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Zach Abbott,19,2026-03-19,FC Midtjylland,Nottingham Forest,6.9,120,12960.0,24.0,108.0,0,0,0.0,0.01,25,33,0,0,1,0,3,47,0.0,1.85
+Zach Abbott,19,2026-04-09,FC Porto,Nottingham Forest,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,32,0,0,0,0,4,42,0.0,1.85
+Zach Abbott,19,2026-04-16,Nottingham Forest,FC Porto,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Zach Abbott,20,2026-04-30,Nottingham Forest,Aston Villa,6.8,15,,,0.0,0,0,0.0,0.0,8,8,0,0,0,0,0,11,,
+Zach Abbott,20,2026-05-04,Chelsea,Nottingham Forest,6.4,44,,,0.0,0,0,0.0,0.0,12,16,0,0,0,0,2,23,,

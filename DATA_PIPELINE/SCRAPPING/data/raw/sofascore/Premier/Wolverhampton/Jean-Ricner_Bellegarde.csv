@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jean-Ricner Bellegarde,2026-01-31,Wolverhampton,Bournemouth,6.7,19,2052.0,4.0,108.0,0,0,0.02,0.01,4,6,1,0,0,0,1,11,0,1.95,27
-Jean-Ricner Bellegarde,2026-02-07,Wolverhampton,Chelsea,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.02,9,9,1,0,0,0,0,11,0,1.68,27
-Jean-Ricner Bellegarde,2026-02-11,Nottingham Forest,Wolverhampton,6.4,12,1296.0,2.0,108.0,0,0,0.07,0.0,0,0,0,0,0,0,0,3,0,1.54,27
-Jean-Ricner Bellegarde,2026-02-15,Grimsby Town,Wolverhampton,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,1,4,0,0.0,27
-Jean-Ricner Bellegarde,2026-02-18,Wolverhampton,Arsenal,6.3,84,9072.0,17.0,108.0,0,0,0.0,0.01,31,37,1,0,0,0,5,45,0,1.87,27
-Jean-Ricner Bellegarde,2026-02-22,Crystal Palace,Wolverhampton,7.1,87,9396.0,17.0,108.0,0,0,0.21,0.0,15,19,0,0,1,0,3,45,0,1.81,27
-Jean-Ricner Bellegarde,2026-02-27,Wolverhampton,Aston Villa,6.7,81,8748.0,16.0,108.0,0,0,0.0,0.03,17,24,1,0,1,0,1,38,0,1.83,27
-Jean-Ricner Bellegarde,2026-03-03,Wolverhampton,Liverpool,6.0,30,3240.0,6.0,108.0,0,0,0.0,0.0,7,9,1,0,0,0,3,16,0,1.85,27
-Jean-Ricner Bellegarde,2026-03-06,Wolverhampton,Liverpool,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,27,0,0,0,0,3,38,0,1.85,27
-Jean-Ricner Bellegarde,2026-03-16,Brentford,Wolverhampton,7.4,74,7992.0,15.0,108.0,0,0,0.0,0.3,24,29,2,0,1,0,3,41,0,1.88,27
-Jean-Ricner Bellegarde,2026-03-29,Haiti,Tunisia,6.5,72,7776.0,14.0,108.0,0,0,0.0,0.0,21,25,0,0,1,0,1,43,0,1.8,27
-Jean-Ricner Bellegarde,2026-04-10,West Ham United,Wolverhampton,6.7,61,6588.0,12.0,108.0,0,0,0.01,0.01,11,16,0,0,0,0,3,32,0,1.82,27
-Jean-Ricner Bellegarde,2026-04-18,Leeds United,Wolverhampton,7.0,67,7236.0,13.0,108.0,0,0,0.0,0.03,14,19,0,0,0,0,1,30,0,1.8,27
-Jean-Ricner Bellegarde,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jean-Ricner Bellegarde,27,2026-01-31,Wolverhampton,Bournemouth,6.7,19,2052.0,4.0,108.0,0,0,0.02,0.01,4,6,1,0,0,0,1,11,0.0,1.95
+Jean-Ricner Bellegarde,27,2026-02-07,Wolverhampton,Chelsea,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.02,9,9,1,0,0,0,0,11,0.0,1.68
+Jean-Ricner Bellegarde,27,2026-02-11,Nottingham Forest,Wolverhampton,6.4,12,1296.0,2.0,108.0,0,0,0.07,0.0,0,0,0,0,0,0,0,3,0.0,1.54
+Jean-Ricner Bellegarde,27,2026-02-15,Grimsby Town,Wolverhampton,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,1,4,0.0,0.0
+Jean-Ricner Bellegarde,27,2026-02-18,Wolverhampton,Arsenal,6.3,84,9072.0,17.0,108.0,0,0,0.0,0.01,31,37,1,0,0,0,5,45,0.0,1.87
+Jean-Ricner Bellegarde,27,2026-02-22,Crystal Palace,Wolverhampton,7.1,87,9396.0,17.0,108.0,0,0,0.21,0.0,15,19,0,0,1,0,3,45,0.0,1.81
+Jean-Ricner Bellegarde,27,2026-02-27,Wolverhampton,Aston Villa,6.7,81,8748.0,16.0,108.0,0,0,0.0,0.03,17,24,1,0,1,0,1,38,0.0,1.83
+Jean-Ricner Bellegarde,27,2026-03-03,Wolverhampton,Liverpool,6.0,30,3240.0,6.0,108.0,0,0,0.0,0.0,7,9,1,0,0,0,3,16,0.0,1.85
+Jean-Ricner Bellegarde,27,2026-03-06,Wolverhampton,Liverpool,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,27,0,0,0,0,3,38,0.0,1.85
+Jean-Ricner Bellegarde,27,2026-03-16,Brentford,Wolverhampton,7.4,74,7992.0,15.0,108.0,0,0,0.0,0.3,24,29,2,0,1,0,3,41,0.0,1.88
+Jean-Ricner Bellegarde,27,2026-03-29,Haiti,Tunisia,6.5,72,7776.0,14.0,108.0,0,0,0.0,0.0,21,25,0,0,1,0,1,43,0.0,1.8
+Jean-Ricner Bellegarde,27,2026-04-10,West Ham United,Wolverhampton,6.7,61,6588.0,12.0,108.0,0,0,0.01,0.01,11,16,0,0,0,0,3,32,0.0,1.82
+Jean-Ricner Bellegarde,27,2026-04-18,Leeds United,Wolverhampton,7.0,67,7236.0,13.0,108.0,0,0,0.0,0.03,14,19,0,0,0,0,1,30,0.0,1.8
+Jean-Ricner Bellegarde,27,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jean-Ricner Bellegarde,27,2026-05-02,Wolverhampton,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jean-Ricner Bellegarde,27,2026-05-09,Brighton & Hove Albion,Wolverhampton,7.2,23,,,0.0,0,0,0.0,0.06,10,12,2,0,0,0,0,17,,

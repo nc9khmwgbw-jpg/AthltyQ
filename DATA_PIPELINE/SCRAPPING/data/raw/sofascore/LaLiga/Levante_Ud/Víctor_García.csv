@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Víctor García,2025-11-21,Valencia,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Víctor García,2025-11-29,Levante UD,Athletic Club,7.2,32,3456.0,6.0,108.0,0,0,0.07,0.27,13,17,2,0,2,0,4,30,0,1.74,29
-Víctor García,2025-12-03,CD Cieza,Levante UD,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,46,2,0,3,0,3,70,0,1.85,29
-Víctor García,2025-12-08,Osasuna,Levante UD,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.01,6,9,0,0,3,0,4,19,0,2.14,29
-Víctor García,2025-12-20,Levante UD,Real Sociedad,6.7,90,9720.0,18.0,108.0,0,0,0.02,0.02,23,30,1,0,0,0,4,56,0,1.85,29
-Víctor García,2026-02-18,Levante UD,Villarreal,6.6,65,7020.0,13.0,108.0,0,0,0.05,0.08,24,28,1,0,0,0,2,46,0,1.85,29
-Víctor García,2026-02-22,FC Barcelona,Levante UD,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,6,10,0,0,0,0,2,18,0,1.85,29
-Víctor García,2026-02-27,Levante UD,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Víctor García,2026-03-07,Levante UD,Girona FC,7.0,72,7776.0,14.0,108.0,0,0,0.04,0.17,9,15,2,0,0,0,4,28,0,1.8,29
-Víctor García,2026-03-16,Rayo Vallecano,Levante UD,6.8,74,7992.0,15.0,108.0,0,0,0.14,0.23,18,24,4,0,0,0,2,46,0,1.88,29
-Víctor García,2026-03-21,Levante UD,Real Oviedo,6.8,84,9072.0,17.0,108.0,0,0,0.49,0.02,9,10,1,0,1,0,3,26,0,1.87,29
-Víctor García,2026-04-04,Real Sociedad,Levante UD,6.5,81,8748.0,16.0,108.0,0,0,0.02,0.05,14,16,1,0,0,0,4,31,0,1.83,29
-Víctor García,2026-04-13,Levante UD,Getafe,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,6,0,1.68,29
-Víctor García,2026-04-23,Levante UD,Sevilla,7.2,48,5184.0,10.0,108.0,0,0,0.0,0.03,6,10,0,0,0,0,2,20,0,1.93,29
-Víctor García,2026-04-27,Espanyol,Levante UD,6.4,86,9288.0,17.0,108.0,0,0,0.23,0.01,14,17,0,0,0,0,1,35,0,1.83,29
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Víctor García,29,2025-11-21,Valencia,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Víctor García,29,2025-11-29,Levante UD,Athletic Club,7.2,32,3456.0,6.0,108.0,0,0,0.07,0.27,13,17,2,0,2,0,4,30,0.0,1.74
+Víctor García,29,2025-12-03,CD Cieza,Levante UD,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,46,2,0,3,0,3,70,0.0,1.85
+Víctor García,29,2025-12-08,Osasuna,Levante UD,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.01,6,9,0,0,3,0,4,19,0.0,2.14
+Víctor García,29,2025-12-20,Levante UD,Real Sociedad,6.7,90,9720.0,18.0,108.0,0,0,0.02,0.02,23,30,1,0,0,0,4,56,0.0,1.85
+Víctor García,29,2026-02-18,Levante UD,Villarreal,6.6,65,7020.0,13.0,108.0,0,0,0.05,0.08,24,28,1,0,0,0,2,46,0.0,1.85
+Víctor García,29,2026-02-22,FC Barcelona,Levante UD,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,6,10,0,0,0,0,2,18,0.0,1.85
+Víctor García,29,2026-02-27,Levante UD,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Víctor García,29,2026-03-07,Levante UD,Girona FC,7.0,72,7776.0,14.0,108.0,0,0,0.04,0.17,9,15,2,0,0,0,4,28,0.0,1.8
+Víctor García,29,2026-03-16,Rayo Vallecano,Levante UD,6.8,74,7992.0,15.0,108.0,0,0,0.14,0.23,18,24,4,0,0,0,2,46,0.0,1.88
+Víctor García,29,2026-03-21,Levante UD,Real Oviedo,6.8,84,9072.0,17.0,108.0,0,0,0.49,0.02,9,10,1,0,1,0,3,26,0.0,1.87
+Víctor García,29,2026-04-04,Real Sociedad,Levante UD,6.5,81,8748.0,16.0,108.0,0,0,0.02,0.05,14,16,1,0,0,0,4,31,0.0,1.83
+Víctor García,29,2026-04-13,Levante UD,Getafe,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,6,0.0,1.68
+Víctor García,29,2026-04-23,Levante UD,Sevilla,7.2,48,5184.0,10.0,108.0,0,0,0.0,0.03,6,10,0,0,0,0,2,20,0.0,1.93
+Víctor García,29,2026-04-27,Espanyol,Levante UD,6.4,86,9288.0,17.0,108.0,0,0,0.23,0.01,14,17,0,0,0,0,1,35,0.0,1.83
+Víctor García,29,2026-05-02,Villarreal,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Víctor García,29,2026-05-08,Levante UD,Osasuna,8.5,66,,,0.0,2,0,0.84,0.05,19,24,1,0,0,0,3,40,,
+Víctor García,29,2026-05-12,Celta Vigo,Levante UD,6.6,61,,,0.0,0,0,0.0,0.05,20,20,0,0,1,0,4,30,,

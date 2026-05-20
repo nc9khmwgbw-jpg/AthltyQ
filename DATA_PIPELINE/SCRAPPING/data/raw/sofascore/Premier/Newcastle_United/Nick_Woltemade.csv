@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Nick Woltemade,2026-02-14,Aston Villa,Newcastle United,7.4,90,9720.0,18.0,108.0,1,0,0.0,0.0,31,37,0,0,0,0,6,52,0,1.85,24
-Nick Woltemade,2026-02-18,Qarabağ FK,Newcastle United,6.6,90,9720.0,18.0,108.0,0,0,0.19,0.01,26,30,0,0,1,0,3,44,0,1.85,24
-Nick Woltemade,2026-02-21,Manchester City,Newcastle United,6.7,60,6480.0,12.0,108.0,0,0,0.0,0.01,11,14,1,0,0,0,3,24,0,1.85,24
-Nick Woltemade,2026-02-24,Newcastle United,Qarabağ FK,7.0,90,9720.0,18.0,108.0,0,0,0.3,0.44,22,28,3,0,1,0,2,43,0,1.85,24
-Nick Woltemade,2026-02-28,Newcastle United,Everton,6.3,56,6048.0,11.0,108.0,0,0,0.0,0.01,8,11,0,0,0,0,2,14,0,1.82,24
-Nick Woltemade,2026-03-07,Newcastle United,Manchester City,6.3,72,7776.0,14.0,108.0,0,0,0.0,0.0,9,12,0,0,2,0,6,28,0,1.8,24
-Nick Woltemade,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Nick Woltemade,2026-03-14,Chelsea,Newcastle United,6.6,67,7236.0,13.0,108.0,0,0,0.0,0.0,9,13,0,0,1,0,3,26,0,1.8,24
-Nick Woltemade,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Nick Woltemade,2026-03-22,Newcastle United,Sunderland,6.8,65,7020.0,13.0,108.0,0,0,0.14,0.05,14,20,2,0,0,0,2,26,0,1.85,24
-Nick Woltemade,2026-03-27,Switzerland,Germany,6.2,27,2916.0,5.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,0,15,0,1.71,24
-Nick Woltemade,2026-03-30,Germany,Ghana,6.6,78,8424.0,16.0,108.0,0,0,0.0,0.0,9,14,1,0,0,0,3,27,0,1.9,24
-Nick Woltemade,2026-04-12,Crystal Palace,Newcastle United,6.4,16,1728.0,3.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,1.74,24
-Nick Woltemade,2026-04-18,Newcastle United,Bournemouth,6.4,14,1512.0,3.0,108.0,0,0,0.0,0.01,4,4,0,0,0,0,1,4,0,1.98,24
-Nick Woltemade,2026-04-25,Arsenal,Newcastle United,6.7,15,1620.0,3.0,108.0,0,0,0.0,0.37,3,4,1,0,0,0,1,7,0,1.85,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nick Woltemade,24,2026-02-14,Aston Villa,Newcastle United,7.4,90,9720.0,18.0,108.0,1,0,0.0,0.0,31,37,0,0,0,0,6,52,0.0,1.85
+Nick Woltemade,24,2026-02-18,Qarabağ FK,Newcastle United,6.6,90,9720.0,18.0,108.0,0,0,0.19,0.01,26,30,0,0,1,0,3,44,0.0,1.85
+Nick Woltemade,24,2026-02-21,Manchester City,Newcastle United,6.7,60,6480.0,12.0,108.0,0,0,0.0,0.01,11,14,1,0,0,0,3,24,0.0,1.85
+Nick Woltemade,24,2026-02-24,Newcastle United,Qarabağ FK,7.0,90,9720.0,18.0,108.0,0,0,0.3,0.44,22,28,3,0,1,0,2,43,0.0,1.85
+Nick Woltemade,24,2026-02-28,Newcastle United,Everton,6.3,56,6048.0,11.0,108.0,0,0,0.0,0.01,8,11,0,0,0,0,2,14,0.0,1.82
+Nick Woltemade,24,2026-03-07,Newcastle United,Manchester City,6.3,72,7776.0,14.0,108.0,0,0,0.0,0.0,9,12,0,0,2,0,6,28,0.0,1.8
+Nick Woltemade,24,2026-03-10,Newcastle United,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nick Woltemade,24,2026-03-14,Chelsea,Newcastle United,6.6,67,7236.0,13.0,108.0,0,0,0.0,0.0,9,13,0,0,1,0,3,26,0.0,1.8
+Nick Woltemade,24,2026-03-18,FC Barcelona,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nick Woltemade,24,2026-03-22,Newcastle United,Sunderland,6.8,65,7020.0,13.0,108.0,0,0,0.14,0.05,14,20,2,0,0,0,2,26,0.0,1.85
+Nick Woltemade,24,2026-03-27,Switzerland,Germany,6.2,27,2916.0,5.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,0,15,0.0,1.71
+Nick Woltemade,24,2026-03-30,Germany,Ghana,6.6,78,8424.0,16.0,108.0,0,0,0.0,0.0,9,14,1,0,0,0,3,27,0.0,1.9
+Nick Woltemade,24,2026-04-12,Crystal Palace,Newcastle United,6.4,16,1728.0,3.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0.0,1.74
+Nick Woltemade,24,2026-04-18,Newcastle United,Bournemouth,6.4,14,1512.0,3.0,108.0,0,0,0.0,0.01,4,4,0,0,0,0,1,4,0.0,1.98
+Nick Woltemade,24,2026-04-25,Arsenal,Newcastle United,6.7,15,1620.0,3.0,108.0,0,0,0.0,0.37,3,4,1,0,0,0,1,7,0.0,1.85
+Nick Woltemade,24,2026-05-02,Newcastle United,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Nick Woltemade,24,2026-05-10,Nottingham Forest,Newcastle United,6.7,61,,,0.0,0,0,0.0,0.08,11,14,2,0,0,0,4,21,,

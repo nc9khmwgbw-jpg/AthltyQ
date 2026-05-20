@@ -1,0 +1,15 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Bernardo,30,2026-05-09,TSG Hoffenheim,SV Werder Bremen,6.8,71,,,0.0,0,0,0.0,0.05,45,59,0,0,5,0,4,72
+Bernardo,30,2026-05-02,TSG Hoffenheim,VfB Stuttgart,6.4,90,,,0.0,0,0,0.03,0.06,23,27,1,0,0,0,3,52
+Bernardo,30,2026-04-25,Hamburger SV,TSG Hoffenheim,6.9,45,,,0.0,0,0,0.0,0.01,8,13,1,0,3,0,4,27
+Bernardo,30,2026-04-18,TSG Hoffenheim,Borussia Dortmund,7.4,72,,,0.0,0,0,0.01,0.0,16,21,0,0,0,0,4,36
+Bernardo,30,2026-04-10,FC Augsburg,TSG Hoffenheim,7.0,22,,,0.0,0,0,0.0,0.34,20,22,0,0,1,0,0,30
+Bernardo,30,2026-04-04,TSG Hoffenheim,1. FSV Mainz 05,6.7,90,,,0.0,0,0,0.0,0.05,40,54,0,0,1,0,5,74
+Bernardo,30,2026-03-20,RB Leipzig,TSG Hoffenheim,6.0,76,,,0.0,0,0,0.0,0.01,31,37,0,0,1,0,2,55
+Bernardo,30,2026-03-14,TSG Hoffenheim,VfL Wolfsburg,7.4,90,,,0.0,0,0,0.0,0.07,64,74,0,0,1,0,4,95
+Bernardo,30,2026-03-07,1. FC Heidenheim,TSG Hoffenheim,6.9,90,,,0.0,0,0,0.0,0.01,32,36,0,0,0,0,2,64
+Bernardo,30,2026-02-28,TSG Hoffenheim,FC St. Pauli,7.3,16,,,0.0,0,0,0.0,0.0,12,15,0,0,0,0,3,25
+Bernardo,30,2026-01-31,TSG Hoffenheim,1. FC Union Berlin,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Bernardo,30,2026-01-27,SV Werder Bremen,TSG Hoffenheim,6.7,90,,,0.0,0,0,0.02,0.01,30,39,0,0,0,0,1,53
+Bernardo,30,2026-01-24,Eintracht Frankfurt,TSG Hoffenheim,6.8,90,,,0.0,0,0,0.0,0.01,41,56,0,0,0,0,4,89
+Bernardo,30,2026-01-17,TSG Hoffenheim,Bayer 04 Leverkusen,7.7,90,,,0.0,0,0,0.0,0.01,25,34,0,0,3,0,6,59

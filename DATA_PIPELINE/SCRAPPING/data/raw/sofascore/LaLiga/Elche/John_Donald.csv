@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-John Donald,2025-12-03,CD Quintanar Del Rey,Elche,6.8,120,12960.0,24.0,108.0,0,0,0.0,0.0,51,55,1,0,0,0,8,75,0,1.85,25
-John Donald,2025-12-07,Elche,Girona FC,6.5,8,864.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0,2.31,25
-John Donald,2025-12-13,Mallorca,Elche,6.1,24,2592.0,5.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,2,9,0,1.93,25
-John Donald,2025-12-16,Eibar,Elche,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,28,29,1,0,0,0,7,50,0,1.85,25
-John Donald,2025-12-21,Elche,Rayo Vallecano,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,21,23,0,0,0,0,6,36,0,1.85,25
-John Donald,2026-01-03,Elche,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-John Donald,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-John Donald,2026-01-31,Elche,FC Barcelona,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,30,31,0,0,1,0,6,46,0,1.85,25
-John Donald,2026-02-07,Real Sociedad,Elche,6.2,55,5940.0,11.0,108.0,0,0,0.0,0.01,25,27,0,0,1,0,2,36,0,1.85,25
-John Donald,2026-02-13,Elche,Osasuna,6.7,10,1080.0,2.0,108.0,0,0,0.03,0.0,3,8,0,0,0,0,1,13,0,1.85,25
-John Donald,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-John Donald,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-John Donald,2026-04-11,Elche,Valencia,6.7,26,2808.0,5.0,108.0,0,0,0.0,0.0,3,4,0,0,2,0,1,14,0,1.78,25
-John Donald,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-John Donald,2026-04-26,Real Oviedo,Elche,6.2,21,2268.0,4.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,5,0,1.76,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+John Donald,25,2025-12-03,CD Quintanar Del Rey,Elche,6.8,120,12960.0,24.0,108.0,0,0,0.0,0.0,51,55,1,0,0,0,8,75,0.0,1.85
+John Donald,25,2025-12-07,Elche,Girona FC,6.5,8,864.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0.0,2.31
+John Donald,25,2025-12-13,Mallorca,Elche,6.1,24,2592.0,5.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,2,9,0.0,1.93
+John Donald,25,2025-12-16,Eibar,Elche,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,28,29,1,0,0,0,7,50,0.0,1.85
+John Donald,25,2025-12-21,Elche,Rayo Vallecano,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,21,23,0,0,0,0,6,36,0.0,1.85
+John Donald,25,2026-01-03,Elche,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+John Donald,25,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+John Donald,25,2026-01-31,Elche,FC Barcelona,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,30,31,0,0,1,0,6,46,0.0,1.85
+John Donald,25,2026-02-07,Real Sociedad,Elche,6.2,55,5940.0,11.0,108.0,0,0,0.0,0.01,25,27,0,0,1,0,2,36,0.0,1.85
+John Donald,25,2026-02-13,Elche,Osasuna,6.7,10,1080.0,2.0,108.0,0,0,0.03,0.0,3,8,0,0,0,0,1,13,0.0,1.85
+John Donald,25,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+John Donald,25,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+John Donald,25,2026-04-11,Elche,Valencia,6.7,26,2808.0,5.0,108.0,0,0,0.0,0.0,3,4,0,0,2,0,1,14,0.0,1.78
+John Donald,25,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+John Donald,25,2026-04-26,Real Oviedo,Elche,6.2,21,2268.0,4.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,5,0.0,1.76
+John Donald,25,2026-05-03,Celta Vigo,Elche,6.4,90,,,0.0,0,0,0.35,0.05,49,53,1,0,0,0,3,71,,
+John Donald,25,2026-05-09,Elche,Deportivo Alavés,6.7,15,,,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,6,,
+John Donald,25,2026-05-12,Real Betis,Elche,6.7,9,,,0.0,0,0,0.0,0.01,12,15,0,0,0,0,1,20,,

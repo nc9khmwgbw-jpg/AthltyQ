@@ -1,0 +1,11 @@
+{
+    "n_features": 212,
+    "n_train_rows": 21284,
+    "n_test_rows": 5188,
+    "n_train_players": 1825,
+    "n_test_players": 457,
+    "target_mean": 42.27280409489271,
+    "target_std": 18.47416009038013,
+    "target_min": 7.78,
+    "target_max": 100.0
+}

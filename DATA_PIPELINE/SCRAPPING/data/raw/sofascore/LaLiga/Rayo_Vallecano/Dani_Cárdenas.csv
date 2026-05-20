@@ -1,16 +1,21 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Dani Cárdenas,2026-01-24,Rayo Vallecano,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-02-01,Real Madrid,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-03-04,Rayo Vallecano,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-03-12,Samsunspor,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-03-19,Rayo Vallecano,Samsunspor,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-04-09,Rayo Vallecano,AEK Athens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-04-12,Mallorca,Rayo Vallecano,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,24,0,0,0,0,2,31,0,1.85,29
-Dani Cárdenas,2026-04-16,AEK Athens,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,29
-Dani Cárdenas,2026-04-23,Rayo Vallecano,Espanyol,8.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,40,0,0,0,0,5,51,0,1.85,29
-Dani Cárdenas,2026-04-26,Rayo Vallecano,Real Sociedad,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,29,0,0,0,0,7,42,0,1.85,29
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Dani Cárdenas,29,2026-01-24,Rayo Vallecano,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-02-01,Real Madrid,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-03-04,Rayo Vallecano,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-03-12,Samsunspor,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-03-16,Rayo Vallecano,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-03-19,Rayo Vallecano,Samsunspor,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-04-09,Rayo Vallecano,AEK Athens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-04-12,Mallorca,Rayo Vallecano,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,24,0,0,0,0,2,31,0.0,1.85
+Dani Cárdenas,29,2026-04-16,AEK Athens,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Dani Cárdenas,29,2026-04-23,Rayo Vallecano,Espanyol,8.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,40,0,0,0,0,5,51,0.0,1.85
+Dani Cárdenas,29,2026-04-26,Rayo Vallecano,Real Sociedad,7.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,29,0,0,0,0,7,42,0.0,1.85
+Dani Cárdenas,29,2026-04-30,Rayo Vallecano,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Dani Cárdenas,29,2026-05-03,Getafe,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Dani Cárdenas,29,2026-05-07,RC Strasbourg,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Dani Cárdenas,29,2026-05-11,Rayo Vallecano,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Dani Cárdenas,29,2026-05-14,Valencia,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

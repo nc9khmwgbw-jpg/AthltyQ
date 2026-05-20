@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Sepp van den Berg,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Sepp van den Berg,2026-01-25,Brentford,Nottingham Forest,7.5,53,5724.0,11.0,108.0,0,0,0.06,0.01,58,65,0,0,3,0,7,81,0,1.92,24
-Sepp van den Berg,2026-02-01,Aston Villa,Brentford,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,29,1,0,0,0,2,37,0,1.85,24
-Sepp van den Berg,2026-02-07,Newcastle United,Brentford,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,36,0,0,0,0,5,41,0,1.85,24
-Sepp van den Berg,2026-02-12,Brentford,Arsenal,7.3,90,9720.0,18.0,108.0,0,0,0.05,0.27,38,42,1,0,2,0,2,55,0,1.85,24
-Sepp van den Berg,2026-02-16,Macclesfield FC,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Sepp van den Berg,2026-02-21,Brentford,Brighton & Hove Albion,6.3,90,9720.0,18.0,108.0,0,0,0.4,0.0,42,51,0,0,6,0,2,68,0,1.85,24
-Sepp van den Berg,2026-02-28,Burnley,Brentford,6.5,90,9720.0,18.0,108.0,0,0,0.28,0.01,59,68,0,0,0,0,9,87,0,1.85,24
-Sepp van den Berg,2026-03-03,Bournemouth,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.1,0.01,37,42,0,0,0,0,6,51,0,1.85,24
-Sepp van den Berg,2026-03-09,West Ham United,Brentford,7.0,23,2484.0,5.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,11,0,2.01,24
-Sepp van den Berg,2026-03-16,Brentford,Wolverhampton,7.7,90,9720.0,18.0,108.0,0,0,0.12,0.3,53,56,1,0,2,0,3,68,0,1.85,24
-Sepp van den Berg,2026-03-21,Leeds United,Brentford,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,26,33,0,0,0,0,3,42,0,1.85,24
-Sepp van den Berg,2026-04-11,Brentford,Everton,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.09,52,59,1,0,0,0,7,75,0,1.85,24
-Sepp van den Berg,2026-04-18,Brentford,Fulham,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,49,56,0,0,0,0,0,65,0,1.85,24
-Sepp van den Berg,2026-04-27,Manchester United,Brentford,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.03,42,46,0,0,1,0,4,60,0,1.85,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Sepp van den Berg,24,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Sepp van den Berg,24,2026-01-25,Brentford,Nottingham Forest,7.5,53,5724.0,11.0,108.0,0,0,0.06,0.01,58,65,0,0,3,0,7,81,0.0,1.92
+Sepp van den Berg,24,2026-02-01,Aston Villa,Brentford,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,29,1,0,0,0,2,37,0.0,1.85
+Sepp van den Berg,24,2026-02-07,Newcastle United,Brentford,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,36,0,0,0,0,5,41,0.0,1.85
+Sepp van den Berg,24,2026-02-12,Brentford,Arsenal,7.3,90,9720.0,18.0,108.0,0,0,0.05,0.27,38,42,1,0,2,0,2,55,0.0,1.85
+Sepp van den Berg,24,2026-02-16,Macclesfield FC,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Sepp van den Berg,24,2026-02-21,Brentford,Brighton & Hove Albion,6.3,90,9720.0,18.0,108.0,0,0,0.4,0.0,42,51,0,0,6,0,2,68,0.0,1.85
+Sepp van den Berg,24,2026-02-28,Burnley,Brentford,6.5,90,9720.0,18.0,108.0,0,0,0.28,0.01,59,68,0,0,0,0,9,87,0.0,1.85
+Sepp van den Berg,24,2026-03-03,Bournemouth,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.1,0.01,37,42,0,0,0,0,6,51,0.0,1.85
+Sepp van den Berg,24,2026-03-09,West Ham United,Brentford,7.0,23,2484.0,5.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,11,0.0,2.01
+Sepp van den Berg,24,2026-03-16,Brentford,Wolverhampton,7.7,90,9720.0,18.0,108.0,0,0,0.12,0.3,53,56,1,0,2,0,3,68,0.0,1.85
+Sepp van den Berg,24,2026-03-21,Leeds United,Brentford,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,26,33,0,0,0,0,3,42,0.0,1.85
+Sepp van den Berg,24,2026-04-11,Brentford,Everton,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.09,52,59,1,0,0,0,7,75,0.0,1.85
+Sepp van den Berg,24,2026-04-18,Brentford,Fulham,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,49,56,0,0,0,0,0,65,0.0,1.85
+Sepp van den Berg,24,2026-04-27,Manchester United,Brentford,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.03,42,46,0,0,1,0,4,60,0.0,1.85
+Sepp van den Berg,24,2026-05-02,Brentford,West Ham United,7.1,90,,,0.0,0,0,0.31,0.01,36,44,0,0,2,0,0,56,,
+Sepp van den Berg,24,2026-05-09,Manchester City,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

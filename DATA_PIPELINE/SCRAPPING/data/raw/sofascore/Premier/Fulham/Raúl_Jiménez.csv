@@ -1,16 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Raúl Jiménez,2026-02-01,Manchester United,Fulham,7.6,90,9720.0,18.0,108.0,1,0,1.12,0.0,14,19,0,0,1,0,3,37,0.0,1.85,35
-Raúl Jiménez,2026-02-07,Fulham,Everton,6.8,75,8100.0,15.0,108.0,0,0,0.55,0.01,8,12,1,0,0,0,1,26,0.0,1.85,35
-Raúl Jiménez,2026-02-11,Manchester City,Fulham,6.5,60,6480.0,12.0,108.0,0,0,0.56,0.0,9,11,0,0,0,0,1,27,0.0,1.85,35
-Raúl Jiménez,2026-02-15,Stoke City,Fulham,6.4,13,1404.0,3.0,108.0,0,0,0.0,0.0,0,2,0,0,0,0,0,4,0.0,2.14,35
-Raúl Jiménez,2026-02-22,Sunderland,Fulham,8.3,65,7020.0,13.0,108.0,2,0,1.03,0.11,12,18,1,0,0,0,1,32,0.0,1.85,35
-Raúl Jiménez,2026-03-01,Fulham,Tottenham Hotspur,6.7,73,7884.0,15.0,108.0,0,0,0.44,0.02,13,24,1,0,0,0,1,41,0.0,1.9,35
-Raúl Jiménez,2026-03-04,Fulham,West Ham United,7.2,60,6480.0,12.0,108.0,0,0,0.16,0.04,9,13,0,0,0,0,2,25,0.0,1.85,35
-Raúl Jiménez,2026-03-08,Fulham,Southampton,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,1,0,0,0,0,3,0.0,0.0,35
-Raúl Jiménez,2026-03-15,Nottingham Forest,Fulham,6.5,62,6696.0,12.0,108.0,0,0,0.0,0.0,9,11,0,0,0,0,1,19,0.0,1.79,35
-Raúl Jiménez,2026-03-21,Fulham,Burnley,7.5,8,864.0,2.0,108.0,1,0,0.87,0.0,6,7,0,0,1,0,1,13,0.0,2.31,35
-Raúl Jiménez,2026-03-29,Mexico,Portugal,6.7,60,6480.0,12.0,108.0,0,0,0.0,0.0,11,18,1,0,1,0,2,26,0.0,1.85,35
-Raúl Jiménez,2026-04-01,Mexico,Belgium,6.9,68,7344.0,14.0,108.0,0,0,0.0,0.0,18,24,1,0,1,0,4,34,0.0,1.91,35
-Raúl Jiménez,2026-04-11,Liverpool,Fulham,6.5,10,1080.0,2.0,108.0,0,0,0.15,0.01,2,2,1,0,0,0,0,6,0.0,1.85,35
-Raúl Jiménez,2026-04-18,Brentford,Fulham,6.6,23,2484.0,5.0,108.0,0,0,0.0,0.0,3,8,0,0,0,0,3,11,0.0,2.01,35
-Raúl Jiménez,2026-04-25,Fulham,Aston Villa,6.5,66,7128.0,13.0,108.0,0,0,0.14,0.02,8,13,2,0,0,0,1,23,0.0,1.82,35
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Raúl Jiménez,35,2026-02-01,Manchester United,Fulham,7.6,90,9720.0,18.0,108.0,1,0,1.12,0.0,14,19,0,0,1,0,3,37,0.0,1.85
+Raúl Jiménez,35,2026-02-07,Fulham,Everton,6.8,75,8100.0,15.0,108.0,0,0,0.55,0.01,8,12,1,0,0,0,1,26,0.0,1.85
+Raúl Jiménez,35,2026-02-11,Manchester City,Fulham,6.5,60,6480.0,12.0,108.0,0,0,0.56,0.0,9,11,0,0,0,0,1,27,0.0,1.85
+Raúl Jiménez,35,2026-02-15,Stoke City,Fulham,6.4,13,1404.0,3.0,108.0,0,0,0.0,0.0,0,2,0,0,0,0,0,4,0.0,2.14
+Raúl Jiménez,35,2026-02-22,Sunderland,Fulham,8.3,65,7020.0,13.0,108.0,2,0,1.03,0.11,12,18,1,0,0,0,1,32,0.0,1.85
+Raúl Jiménez,35,2026-03-01,Fulham,Tottenham Hotspur,6.7,73,7884.0,15.0,108.0,0,0,0.44,0.02,13,24,1,0,0,0,1,41,0.0,1.9
+Raúl Jiménez,35,2026-03-04,Fulham,West Ham United,7.2,60,6480.0,12.0,108.0,0,0,0.16,0.04,9,13,0,0,0,0,2,25,0.0,1.85
+Raúl Jiménez,35,2026-03-08,Fulham,Southampton,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,1,0,0,0,0,3,0.0,0.0
+Raúl Jiménez,35,2026-03-15,Nottingham Forest,Fulham,6.5,62,6696.0,12.0,108.0,0,0,0.0,0.0,9,11,0,0,0,0,1,19,0.0,1.79
+Raúl Jiménez,35,2026-03-21,Fulham,Burnley,7.5,8,864.0,2.0,108.0,1,0,0.87,0.0,6,7,0,0,1,0,1,13,0.0,2.31
+Raúl Jiménez,35,2026-03-29,Mexico,Portugal,6.7,60,6480.0,12.0,108.0,0,0,0.0,0.0,11,18,1,0,1,0,2,26,0.0,1.85
+Raúl Jiménez,35,2026-04-01,Mexico,Belgium,6.9,68,7344.0,14.0,108.0,0,0,0.0,0.0,18,24,1,0,1,0,4,34,0.0,1.91
+Raúl Jiménez,35,2026-04-11,Liverpool,Fulham,6.5,10,1080.0,2.0,108.0,0,0,0.15,0.01,2,2,1,0,0,0,0,6,0.0,1.85
+Raúl Jiménez,35,2026-04-18,Brentford,Fulham,6.6,23,2484.0,5.0,108.0,0,0,0.0,0.0,3,8,0,0,0,0,3,11,0.0,2.01
+Raúl Jiménez,35,2026-04-25,Fulham,Aston Villa,6.5,66,7128.0,13.0,108.0,0,0,0.14,0.02,8,13,2,0,0,0,1,23,0.0,1.82
+Raúl Jiménez,35,2026-05-02,Arsenal,Fulham,6.1,73,,,0.0,0,0,0.1,0.0,5,9,0,0,0,0,1,22,,

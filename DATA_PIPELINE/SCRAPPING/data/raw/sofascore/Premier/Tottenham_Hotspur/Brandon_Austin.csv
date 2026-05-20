@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Brandon Austin,2025-10-29,Newcastle United,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2025-11-04,Tottenham Hotspur,FC København,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2025-11-26,Paris Saint-Germain,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-01-01,Brentford,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-01-20,Tottenham Hotspur,Borussia Dortmund,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-02-22,Tottenham Hotspur,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-03-01,Fulham,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-03-05,Tottenham Hotspur,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-03-15,Liverpool,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-03-18,Tottenham Hotspur,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Brandon Austin,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Brandon Austin,27,2025-10-29,Newcastle United,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2025-11-04,Tottenham Hotspur,FC København,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2025-11-26,Paris Saint-Germain,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-01-01,Brentford,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-01-20,Tottenham Hotspur,Borussia Dortmund,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-01-28,Eintracht Frankfurt,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-02-22,Tottenham Hotspur,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-03-01,Fulham,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-03-05,Tottenham Hotspur,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-03-15,Liverpool,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-03-18,Tottenham Hotspur,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Brandon Austin,27,2026-05-03,Aston Villa,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Brandon Austin,27,2026-05-11,Tottenham Hotspur,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

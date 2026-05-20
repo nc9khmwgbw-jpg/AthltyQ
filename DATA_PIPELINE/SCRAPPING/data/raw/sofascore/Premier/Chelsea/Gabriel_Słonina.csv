@@ -1,12 +1,13 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Gabriel Słonina,2025-06-28,Benfica,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-07-05,Palmeiras,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-07-08,Fluminense,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-07-13,Chelsea,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-08-08,Chelsea,Bayer 04 Leverkusen,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-08-10,Chelsea,Milan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-08-22,West Ham United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-09-23,Lincoln City,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2025-10-04,Chelsea,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2026-01-04,Manchester City,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Gabriel Słonina,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Gabriel Słonina,21,2025-06-28,Benfica,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-07-05,Palmeiras,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-07-08,Fluminense,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-07-13,Chelsea,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-08-08,Chelsea,Bayer 04 Leverkusen,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-08-10,Chelsea,Milan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-08-22,West Ham United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-09-23,Lincoln City,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2025-10-04,Chelsea,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2026-01-04,Manchester City,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,21,2026-02-21,Chelsea,Burnley,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gabriel Słonina,22,2026-05-09,Liverpool FC,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

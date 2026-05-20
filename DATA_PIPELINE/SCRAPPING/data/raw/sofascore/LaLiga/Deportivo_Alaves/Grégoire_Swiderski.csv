@@ -1,14 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Grégoire Swiderski,2025-03-14,Las Palmas,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2025-08-16,Deportivo Alavés,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2025-08-22,Real Betis,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2025-10-30,CD Getxo,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2025-11-22,Deportivo Alavés,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2025-12-06,Deportivo Alavés,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2026-01-04,Deportivo Alavés,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2026-03-13,Deportivo Alavés,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Grégoire Swiderski,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Grégoire Swiderski,20,2025-03-14,Las Palmas,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2025-08-16,Deportivo Alavés,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2025-08-22,Real Betis,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2025-10-30,CD Getxo,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2025-11-22,Deportivo Alavés,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2025-12-06,Deportivo Alavés,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-01-04,Deportivo Alavés,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-03-13,Deportivo Alavés,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Grégoire Swiderski,20,2026-05-02,Deportivo Alavés,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Grégoire Swiderski,20,2026-05-09,Elche,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

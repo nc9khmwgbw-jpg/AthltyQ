@@ -1,11 +1,12 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Tom Negrel,2024-12-06,Auxerre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2024-12-14,Auxerre,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2024-12-22,Auxerre,USL Dunkerque,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,32,0,0,0,0,7,43,0,1.85,23
-Tom Negrel,2025-01-05,RC Strasbourg,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2025-01-10,Auxerre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2025-08-30,Nantes,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2025-09-13,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Tom Negrel,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tom Negrel,23,2024-12-06,Auxerre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2024-12-14,Auxerre,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2024-12-22,Auxerre,USL Dunkerque,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,32,0,0,0,0,7,43,0.0,1.85
+Tom Negrel,23,2025-01-05,RC Strasbourg,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2025-01-10,Auxerre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2025-08-30,Nantes,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2025-09-13,Auxerre,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2026-04-05,Le Havre,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2026-04-25,Olympique Lyonnais,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tom Negrel,23,2026-05-03,Auxerre,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

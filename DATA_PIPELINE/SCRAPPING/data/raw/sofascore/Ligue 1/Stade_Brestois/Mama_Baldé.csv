@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Mama Baldé,2025-09-04,Guinea-Bissau,Sierra Leone,,90,9720.0,18.0,108.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.85,30
-Mama Baldé,2025-09-08,Guinea-Bissau,Djibouti,,73,7884.0,15.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.9,30
-Mama Baldé,2025-09-14,Stade Brestois,Paris FC,6.3,45,4860.0,9.0,108.0,0,0,0.55,0.02,5,8,0,0,1,0,3,19,0,1.85,30
-Mama Baldé,2025-10-25,Stade Brestois,Paris Saint-Germain,6.5,23,2484.0,5.0,108.0,0,0,0.25,0.0,7,10,0,0,0,0,1,14,0,2.01,30
-Mama Baldé,2025-10-29,Le Havre,Stade Brestois,6.5,33,3564.0,7.0,108.0,0,0,0.41,0.01,8,10,0,0,0,0,1,18,0,1.96,30
-Mama Baldé,2025-11-02,Stade Brestois,Olympique Lyonnais,6.5,72,7776.0,14.0,108.0,0,0,0.11,0.01,12,17,0,0,2,0,2,30,0,1.8,30
-Mama Baldé,2025-11-08,Olympique de Marseille,Stade Brestois,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,0,13,0,1.85,30
-Mama Baldé,2025-11-23,Stade Brestois,Metz,6.6,12,1296.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,5,0,1.54,30
-Mama Baldé,2025-11-30,RC Strasbourg,Stade Brestois,7.0,14,1512.0,3.0,108.0,0,0,0.0,0.01,3,4,1,0,1,0,4,9,0,1.98,30
-Mama Baldé,2025-12-05,Stade Brestois,AS Monaco,6.5,58,6264.0,12.0,108.0,0,0,0.03,0.01,5,11,0,0,0,0,0,21,0,1.92,30
-Mama Baldé,2025-12-13,Stade Rennais,Stade Brestois,7.2,70,7560.0,14.0,108.0,1,0,0.29,0.01,8,12,1,0,0,0,2,28,0,1.85,30
-Mama Baldé,2025-12-19,Avranches,Stade Brestois,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,8,10,0,0,0,0,0,28,0,1.85,30
-Mama Baldé,2026-01-04,Stade Brestois,Auxerre,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.02,2,2,0,0,0,0,1,5,0,1.85,30
-Mama Baldé,2026-03-21,Auxerre,Stade Brestois,6.4,25,2700.0,5.0,108.0,0,0,0.12,0.02,4,6,1,0,0,0,1,9,0,1.85,30
-Mama Baldé,2026-04-24,Stade Brestois,RC Lens,7.0,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,7,0,0,1,0,4,15,0,2.01,30
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mama Baldé,30,2025-09-04,Guinea-Bissau,Sierra Leone,,90,9720.0,18.0,108.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,1.85
+Mama Baldé,30,2025-09-08,Guinea-Bissau,Djibouti,,73,7884.0,15.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,1.9
+Mama Baldé,30,2025-09-14,Stade Brestois,Paris FC,6.3,45,4860.0,9.0,108.0,0,0,0.55,0.02,5,8,0,0,1,0,3,19,0.0,1.85
+Mama Baldé,30,2025-10-25,Stade Brestois,Paris Saint-Germain,6.5,23,2484.0,5.0,108.0,0,0,0.25,0.0,7,10,0,0,0,0,1,14,0.0,2.01
+Mama Baldé,30,2025-10-29,Le Havre,Stade Brestois,6.5,33,3564.0,7.0,108.0,0,0,0.41,0.01,8,10,0,0,0,0,1,18,0.0,1.96
+Mama Baldé,30,2025-11-02,Stade Brestois,Olympique Lyonnais,6.5,72,7776.0,14.0,108.0,0,0,0.11,0.01,12,17,0,0,2,0,2,30,0.0,1.8
+Mama Baldé,30,2025-11-08,Olympique de Marseille,Stade Brestois,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,2,4,0,0,0,0,0,13,0.0,1.85
+Mama Baldé,30,2025-11-23,Stade Brestois,Metz,6.6,12,1296.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,5,0.0,1.54
+Mama Baldé,30,2025-11-30,RC Strasbourg,Stade Brestois,7.0,14,1512.0,3.0,108.0,0,0,0.0,0.01,3,4,1,0,1,0,4,9,0.0,1.98
+Mama Baldé,30,2025-12-05,Stade Brestois,AS Monaco,6.5,58,6264.0,12.0,108.0,0,0,0.03,0.01,5,11,0,0,0,0,0,21,0.0,1.92
+Mama Baldé,30,2025-12-13,Stade Rennais,Stade Brestois,7.2,70,7560.0,14.0,108.0,1,0,0.29,0.01,8,12,1,0,0,0,2,28,0.0,1.85
+Mama Baldé,30,2025-12-19,Avranches,Stade Brestois,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,8,10,0,0,0,0,0,28,0.0,1.85
+Mama Baldé,30,2026-01-04,Stade Brestois,Auxerre,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.02,2,2,0,0,0,0,1,5,0.0,1.85
+Mama Baldé,30,2026-03-21,Auxerre,Stade Brestois,6.4,25,2700.0,5.0,108.0,0,0,0.12,0.02,4,6,1,0,0,0,1,9,0.0,1.85
+Mama Baldé,30,2026-04-24,Stade Brestois,RC Lens,7.0,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,7,0,0,1,0,4,15,0.0,2.01
+Mama Baldé,30,2026-05-03,Paris FC,Stade Brestois,6.7,19,,,0.0,0,0,0.05,0.0,7,10,0,0,1,0,1,13,,
+Mama Baldé,30,2026-05-10,Paris Saint-Germain,Stade Brestois,6.5,10,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,5,,
+Mama Baldé,30,2026-05-13,Stade Brestois,RC Strasbourg,6.5,11,,,0.0,0,0,0.11,0.0,3,4,0,0,0,0,1,7,,

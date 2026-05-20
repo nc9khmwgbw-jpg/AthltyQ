@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Emre Can,32,2026-02-28,Borussia Dortmund,FC Bayern München,7.2,44,,,0.0,0,0,0.0,0.0,9,10,0,0,3,0,5,22
+Emre Can,32,2026-02-25,Atalanta,Borussia Dortmund,6.1,90,,,0.0,0,0,0.0,0.04,34,44,0,0,2,0,3,67
+Emre Can,32,2026-01-28,Borussia Dortmund,Inter,7.3,90,,,0.0,0,0,0.0,0.01,63,73,0,0,2,0,4,86
+Emre Can,32,2026-01-24,1. FC Union Berlin,Borussia Dortmund,7.4,69,,,0.0,1,0,0.79,0.0,21,31,0,0,3,0,3,54
+Emre Can,32,2026-01-20,Tottenham Hotspur,Borussia Dortmund,6.9,45,,,0.0,0,0,0.0,0.05,30,33,0,0,1,0,3,38
+Emre Can,32,2026-01-17,Borussia Dortmund,FC St. Pauli,7.5,90,,,0.0,1,0,0.79,0.06,88,99,0,0,0,0,2,113
+Emre Can,32,2026-01-13,Borussia Dortmund,SV Werder Bremen,7.0,45,,,0.0,0,0,0.0,0.03,31,32,0,0,1,0,4,43
+Emre Can,32,2026-01-09,Eintracht Frankfurt,Borussia Dortmund,6.6,14,,,0.0,0,0,0.0,0.03,20,22,0,0,0,0,1,24
+Emre Can,32,2025-12-19,Borussia Dortmund,Borussia M'gladbach,7.5,90,,,0.0,0,0,0.0,0.03,66,73,0,0,6,0,4,96
+Emre Can,32,2025-12-14,SC Freiburg,Borussia Dortmund,7.1,89,,,0.0,0,0,0.06,0.08,44,53,0,0,1,0,4,68
+Emre Can,32,2025-12-10,Borussia Dortmund,Bodø/Glimt,7.0,13,,,0.0,0,0,0.0,0.35,13,16,0,0,0,0,1,19
+Emre Can,32,2025-12-07,Borussia Dortmund,TSG Hoffenheim,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Emre Can,32,2025-12-02,Borussia Dortmund,Bayer 04 Leverkusen,8.2,90,,,0.0,0,0,0.0,0.0,79,82,1,0,1,0,11,104
+Emre Can,32,2025-11-29,Bayer 04 Leverkusen,Borussia Dortmund,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Emre Can,32,2025-11-25,Borussia Dortmund,Villarreal,6.5,12,,,0.0,0,0,0.0,0.0,8,8,0,0,0,0,1,8

@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jocelin Ta Bi,2025-08-16,Hapoel Petach Tikva,Ironi Dorot Tiberias,,90,9720.0,18.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.85,21
-Jocelin Ta Bi,2025-08-30,Hapoel Ironi Kiryat Shmona,Hapoel Petach Tikva,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,28,2,0,0,0,8,61,0,1.85,21
-Jocelin Ta Bi,2025-09-13,Hapoel Petach Tikva,Maccabi Netanya,8.6,83,8964.0,17.0,108.0,1,0,0.0,0.0,19,23,2,0,0,0,4,51,0,1.9,21
-Jocelin Ta Bi,2025-09-16,Hapoel Petach Tikva,Maccabi Tel Aviv,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,7,9,1,0,1,0,3,46,0,1.85,21
-Jocelin Ta Bi,2025-09-20,Maccabi Bney Reine,Hapoel Petach Tikva,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,32,4,0,1,0,3,57,0,1.85,21
-Jocelin Ta Bi,2025-09-27,Hapoel Petach Tikva,Ironi Dorot Tiberias,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,26,0,0,0,0,3,55,0,1.85,21
-Jocelin Ta Bi,2025-10-04,Beitar Jerusalem,Hapoel Petach Tikva,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,23,2,0,2,0,3,55,0,1.85,21
-Jocelin Ta Bi,2025-10-18,Hapoel Petach Tikva,Hapoel Jerusalem,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4,0,1.85,21
-Jocelin Ta Bi,2025-10-25,Ashdod SC,Hapoel Petach Tikva,6.6,52,5616.0,10.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,3,34,0,1.78,21
-Jocelin Ta Bi,2025-11-29,Hapoel Petach Tikva,Maccabi Haifa,7.2,63,6804.0,13.0,108.0,0,0,0.0,0.0,23,29,2,0,0,0,2,55,0,1.91,21
-Jocelin Ta Bi,2025-12-02,Hapoel Petach Tikva,Hapoel Be'er Sheva,7.9,90,9720.0,18.0,108.0,1,0,0.0,0.0,11,15,2,0,0,0,2,47,0,1.85,21
-Jocelin Ta Bi,2025-12-06,Hapoel Tel Aviv,Hapoel Petach Tikva,6.0,85,9180.0,17.0,108.0,0,0,0.0,0.0,11,16,0,0,1,0,4,52,0,1.85,21
-Jocelin Ta Bi,2025-12-15,Maccabi Tel Aviv,Hapoel Petach Tikva,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,2,11,0,1.85,21
-Jocelin Ta Bi,2026-02-15,Oxford United,Sunderland,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,5,5,0,0,1,0,1,13,0,2.06,21
-Jocelin Ta Bi,2026-02-22,Sunderland,Fulham,6.7,39,4212.0,8.0,108.0,0,0,0.0,0.04,2,2,0,0,0,0,2,18,0,1.9,21
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jocelin Ta Bi,21,2025-08-16,Hapoel Petach Tikva,Ironi Dorot Tiberias,,90,9720.0,18.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,1.85
+Jocelin Ta Bi,21,2025-08-30,Hapoel Ironi Kiryat Shmona,Hapoel Petach Tikva,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,28,2,0,0,0,8,61,0.0,1.85
+Jocelin Ta Bi,21,2025-09-13,Hapoel Petach Tikva,Maccabi Netanya,8.6,83,8964.0,17.0,108.0,1,0,0.0,0.0,19,23,2,0,0,0,4,51,0.0,1.9
+Jocelin Ta Bi,21,2025-09-16,Hapoel Petach Tikva,Maccabi Tel Aviv,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,7,9,1,0,1,0,3,46,0.0,1.85
+Jocelin Ta Bi,21,2025-09-20,Maccabi Bney Reine,Hapoel Petach Tikva,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,32,4,0,1,0,3,57,0.0,1.85
+Jocelin Ta Bi,21,2025-09-27,Hapoel Petach Tikva,Ironi Dorot Tiberias,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,26,0,0,0,0,3,55,0.0,1.85
+Jocelin Ta Bi,21,2025-10-04,Beitar Jerusalem,Hapoel Petach Tikva,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,23,2,0,2,0,3,55,0.0,1.85
+Jocelin Ta Bi,21,2025-10-18,Hapoel Petach Tikva,Hapoel Jerusalem,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4,0.0,1.85
+Jocelin Ta Bi,21,2025-10-25,Ashdod SC,Hapoel Petach Tikva,6.6,52,5616.0,10.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,3,34,0.0,1.78
+Jocelin Ta Bi,21,2025-11-29,Hapoel Petach Tikva,Maccabi Haifa,7.2,63,6804.0,13.0,108.0,0,0,0.0,0.0,23,29,2,0,0,0,2,55,0.0,1.91
+Jocelin Ta Bi,21,2025-12-02,Hapoel Petach Tikva,Hapoel Be'er Sheva,7.9,90,9720.0,18.0,108.0,1,0,0.0,0.0,11,15,2,0,0,0,2,47,0.0,1.85
+Jocelin Ta Bi,21,2025-12-06,Hapoel Tel Aviv,Hapoel Petach Tikva,6.0,85,9180.0,17.0,108.0,0,0,0.0,0.0,11,16,0,0,1,0,4,52,0.0,1.85
+Jocelin Ta Bi,21,2025-12-15,Maccabi Tel Aviv,Hapoel Petach Tikva,6.6,25,2700.0,5.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,2,11,0.0,1.85
+Jocelin Ta Bi,21,2026-02-15,Oxford United,Sunderland,6.6,9,972.0,2.0,108.0,0,0,0.0,0.0,5,5,0,0,1,0,1,13,0.0,2.06
+Jocelin Ta Bi,21,2026-02-22,Sunderland,Fulham,6.7,39,4212.0,8.0,108.0,0,0,0.0,0.04,2,2,0,0,0,0,2,18,0.0,1.9
+Jocelin Ta Bi,21,2026-05-02,Wolverhampton,Sunderland,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jocelin Ta Bi,21,2026-05-09,Sunderland,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

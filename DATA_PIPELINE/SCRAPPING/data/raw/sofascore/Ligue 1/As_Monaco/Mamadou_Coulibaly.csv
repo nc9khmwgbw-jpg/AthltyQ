@@ -1,14 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Mamadou Coulibaly,2026-02-05,RC Strasbourg,AS Monaco,6.9,84,9072.0,17.0,108.0,0,1,0.0,0.0,29,36,1,0,3,0,6,52,0,1.87,22
-Mamadou Coulibaly,2026-02-08,Nice,AS Monaco,6.7,15,1620.0,3.0,108.0,0,0,0.02,0.0,7,10,0,0,1,0,2,17,0,1.85,22
-Mamadou Coulibaly,2026-02-13,AS Monaco,Nantes,5.9,47,5076.0,9.0,108.0,0,0,0.0,0.0,15,19,0,0,0,0,3,28,0,1.77,22
-Mamadou Coulibaly,2026-02-17,AS Monaco,Paris Saint-Germain,6.8,20,2160.0,4.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4,0,1.85,22
-Mamadou Coulibaly,2026-02-21,RC Lens,AS Monaco,6.5,90,9720.0,18.0,108.0,0,1,0.0,0.08,20,24,2,0,0,0,6,44,0,1.85,22
-Mamadou Coulibaly,2026-02-25,Paris Saint-Germain,AS Monaco,5.6,58,6264.0,12.0,108.0,0,1,0.31,0.2,15,18,1,0,0,0,1,28,0,1.92,22
-Mamadou Coulibaly,2026-03-06,Paris Saint-Germain,AS Monaco,6.2,90,9720.0,18.0,108.0,0,0,0.02,0.01,19,22,0,0,1,0,7,38,0,1.85,22
-Mamadou Coulibaly,2026-03-14,AS Monaco,Stade Brestois,6.9,33,3564.0,7.0,108.0,0,1,0.0,0.09,16,18,2,0,0,0,1,24,0,1.96,22
-Mamadou Coulibaly,2026-03-22,Olympique Lyonnais,AS Monaco,6.7,45,4860.0,9.0,108.0,0,0,0.05,0.04,14,20,0,0,2,0,4,35,0,1.85,22
-Mamadou Coulibaly,2026-04-05,AS Monaco,Olympique de Marseille,6.8,65,7020.0,13.0,108.0,0,0,0.03,0.01,18,25,0,0,0,0,2,34,0,1.85,22
-Mamadou Coulibaly,2026-04-10,Paris FC,AS Monaco,6.0,69,7452.0,14.0,108.0,0,0,0.12,0.24,30,38,0,0,0,0,4,54,0,1.88,22
-Mamadou Coulibaly,2026-04-19,AS Monaco,Auxerre,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.02,6,7,0,0,0,0,0,11,0,2.14,22
-Mamadou Coulibaly,2026-04-25,Toulouse,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Mamadou Coulibaly,22,2026-02-05,RC Strasbourg,AS Monaco,6.9,84,9072.0,17.0,108.0,0,1,0.0,0.0,29,36,1,0,3,0,6,52,0.0,1.87
+Mamadou Coulibaly,22,2026-02-08,Nice,AS Monaco,6.7,15,1620.0,3.0,108.0,0,0,0.02,0.0,7,10,0,0,1,0,2,17,0.0,1.85
+Mamadou Coulibaly,22,2026-02-13,AS Monaco,Nantes,5.9,47,5076.0,9.0,108.0,0,0,0.0,0.0,15,19,0,0,0,0,3,28,0.0,1.77
+Mamadou Coulibaly,22,2026-02-17,AS Monaco,Paris Saint-Germain,6.8,20,2160.0,4.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4,0.0,1.85
+Mamadou Coulibaly,22,2026-02-21,RC Lens,AS Monaco,6.5,90,9720.0,18.0,108.0,0,1,0.0,0.08,20,24,2,0,0,0,6,44,0.0,1.85
+Mamadou Coulibaly,22,2026-02-25,Paris Saint-Germain,AS Monaco,5.6,58,6264.0,12.0,108.0,0,1,0.31,0.2,15,18,1,0,0,0,1,28,0.0,1.92
+Mamadou Coulibaly,22,2026-03-06,Paris Saint-Germain,AS Monaco,6.2,90,9720.0,18.0,108.0,0,0,0.02,0.01,19,22,0,0,1,0,7,38,0.0,1.85
+Mamadou Coulibaly,22,2026-03-14,AS Monaco,Stade Brestois,6.9,33,3564.0,7.0,108.0,0,1,0.0,0.09,16,18,2,0,0,0,1,24,0.0,1.96
+Mamadou Coulibaly,22,2026-03-22,Olympique Lyonnais,AS Monaco,6.7,45,4860.0,9.0,108.0,0,0,0.05,0.04,14,20,0,0,2,0,4,35,0.0,1.85
+Mamadou Coulibaly,22,2026-04-05,AS Monaco,Olympique de Marseille,6.8,65,7020.0,13.0,108.0,0,0,0.03,0.01,18,25,0,0,0,0,2,34,0.0,1.85
+Mamadou Coulibaly,22,2026-04-10,Paris FC,AS Monaco,6.0,69,7452.0,14.0,108.0,0,0,0.12,0.24,30,38,0,0,0,0,4,54,0.0,1.88
+Mamadou Coulibaly,22,2026-04-19,AS Monaco,Auxerre,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.02,6,7,0,0,0,0,0,11,0.0,2.14
+Mamadou Coulibaly,22,2026-04-25,Toulouse,AS Monaco,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Mamadou Coulibaly,22,2026-05-02,Metz,AS Monaco,6.4,32,,,0.0,0,0,0.03,0.03,10,14,0,0,2,0,3,22,,
+Mamadou Coulibaly,22,2026-05-10,AS Monaco,Lille,6.5,32,,,0.0,0,0,0.04,0.01,12,14,0,0,1,0,1,21,,

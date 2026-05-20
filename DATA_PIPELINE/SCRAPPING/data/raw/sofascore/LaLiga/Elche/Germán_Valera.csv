@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Germán Valera,2026-01-19,Elche,Sevilla,7.9,80,8640.0,16.0,108.0,1,0,0.46,0.2,17,20,1,0,1,0,3,36,0,1.85,24
-Germán Valera,2026-01-23,Levante UD,Elche,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.06,29,30,2,0,0,0,4,50,0,1.85,24
-Germán Valera,2026-01-31,Elche,FC Barcelona,7.1,90,9720.0,18.0,108.0,0,0,0.04,0.18,25,28,2,0,3,0,7,52,0,1.85,24
-Germán Valera,2026-02-07,Real Sociedad,Elche,5.8,90,9720.0,18.0,108.0,0,0,0.23,0.02,29,38,1,0,0,0,4,51,0,1.85,24
-Germán Valera,2026-02-13,Elche,Osasuna,8.0,90,9720.0,18.0,108.0,0,0,0.0,0.58,29,30,2,0,0,0,4,54,0,1.85,24
-Germán Valera,2026-02-20,Athletic Club,Elche,7.2,81,8748.0,16.0,108.0,0,0,0.0,0.01,22,30,0,0,1,0,3,52,0,1.83,24
-Germán Valera,2026-03-01,Elche,Espanyol,6.2,76,8208.0,15.0,108.0,0,0,0.05,0.01,20,24,1,0,0,0,3,48,0,1.83,24
-Germán Valera,2026-03-08,Villarreal,Elche,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.11,61,66,1,0,2,0,5,93,0,1.85,24
-Germán Valera,2026-03-14,Real Madrid,Elche,5.5,90,9720.0,18.0,108.0,0,0,0.04,0.15,25,29,1,0,0,0,4,45,0,1.85,24
-Germán Valera,2026-03-21,Elche,Mallorca,7.7,89,9612.0,18.0,108.0,0,0,0.05,0.57,28,31,3,0,0,0,2,58,0,1.87,24
-Germán Valera,2026-04-03,Rayo Vallecano,Elche,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.13,20,22,3,0,1,0,2,45,0,1.85,24
-Germán Valera,2026-04-11,Elche,Valencia,7.0,82,8856.0,16.0,108.0,0,0,0.04,0.03,25,26,1,0,1,0,5,45,0,1.81,24
-Germán Valera,2026-04-22,Elche,Atlético Madrid,6.9,90,9720.0,18.0,108.0,0,0,0.03,0.63,31,40,4,0,2,0,3,67,0,1.85,24
-Germán Valera,2026-04-26,Real Oviedo,Elche,6.6,26,2808.0,5.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,2,6,0,1.78,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Germán Valera,24,2026-01-19,Elche,Sevilla,7.9,80,8640.0,16.0,108.0,1,0,0.46,0.2,17,20,1,0,1,0,3,36,0.0,1.85
+Germán Valera,24,2026-01-23,Levante UD,Elche,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.06,29,30,2,0,0,0,4,50,0.0,1.85
+Germán Valera,24,2026-01-31,Elche,FC Barcelona,7.1,90,9720.0,18.0,108.0,0,0,0.04,0.18,25,28,2,0,3,0,7,52,0.0,1.85
+Germán Valera,24,2026-02-07,Real Sociedad,Elche,5.8,90,9720.0,18.0,108.0,0,0,0.23,0.02,29,38,1,0,0,0,4,51,0.0,1.85
+Germán Valera,24,2026-02-13,Elche,Osasuna,8.0,90,9720.0,18.0,108.0,0,0,0.0,0.58,29,30,2,0,0,0,4,54,0.0,1.85
+Germán Valera,24,2026-02-20,Athletic Club,Elche,7.2,81,8748.0,16.0,108.0,0,0,0.0,0.01,22,30,0,0,1,0,3,52,0.0,1.83
+Germán Valera,24,2026-03-01,Elche,Espanyol,6.2,76,8208.0,15.0,108.0,0,0,0.05,0.01,20,24,1,0,0,0,3,48,0.0,1.83
+Germán Valera,24,2026-03-08,Villarreal,Elche,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.11,61,66,1,0,2,0,5,93,0.0,1.85
+Germán Valera,24,2026-03-14,Real Madrid,Elche,5.5,90,9720.0,18.0,108.0,0,0,0.04,0.15,25,29,1,0,0,0,4,45,0.0,1.85
+Germán Valera,24,2026-03-21,Elche,Mallorca,7.7,89,9612.0,18.0,108.0,0,0,0.05,0.57,28,31,3,0,0,0,2,58,0.0,1.87
+Germán Valera,24,2026-04-03,Rayo Vallecano,Elche,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.13,20,22,3,0,1,0,2,45,0.0,1.85
+Germán Valera,24,2026-04-11,Elche,Valencia,7.0,82,8856.0,16.0,108.0,0,0,0.04,0.03,25,26,1,0,1,0,5,45,0.0,1.81
+Germán Valera,24,2026-04-22,Elche,Atlético Madrid,6.9,90,9720.0,18.0,108.0,0,0,0.03,0.63,31,40,4,0,2,0,3,67,0.0,1.85
+Germán Valera,24,2026-04-26,Real Oviedo,Elche,6.6,26,2808.0,5.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,2,6,0.0,1.78
+Germán Valera,24,2026-05-09,Elche,Deportivo Alavés,7.3,89,,,0.0,0,0,0.0,0.18,36,42,1,0,1,0,6,69,,
+Germán Valera,24,2026-05-12,Real Betis,Elche,6.9,90,,,0.0,0,0,0.0,0.13,18,21,2,0,2,0,2,48,,

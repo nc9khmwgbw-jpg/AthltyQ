@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Iker Losada,2026-01-17,Real Madrid,Levante UD,6.5,24,2592.0,5.0,108.0,0,0,0.0,0.02,4,6,0,0,0,0,0,7,0,1.93,24
-Iker Losada,2026-01-23,Levante UD,Elche,6.9,45,4860.0,9.0,108.0,0,0,0.14,0.2,8,9,2,0,2,0,3,19,0,1.85,24
-Iker Losada,2026-01-31,Levante UD,Atlético Madrid,6.8,59,6372.0,12.0,108.0,0,0,0.0,0.01,11,19,1,0,0,0,1,31,0,1.88,24
-Iker Losada,2026-02-08,Athletic Club,Levante UD,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,2.06,24
-Iker Losada,2026-02-15,Levante UD,Valencia,6.3,69,7452.0,14.0,108.0,0,0,0.0,0.0,7,10,0,0,0,0,4,21,0,1.88,24
-Iker Losada,2026-02-18,Levante UD,Villarreal,6.4,74,7992.0,15.0,108.0,0,0,0.0,0.0,13,16,0,0,0,0,2,23,0,1.88,24
-Iker Losada,2026-02-22,FC Barcelona,Levante UD,6.7,9,972.0,2.0,108.0,0,0,0.0,0.0,5,7,0,0,0,0,1,9,0,2.06,24
-Iker Losada,2026-02-27,Levante UD,Deportivo Alavés,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.01,4,4,0,0,1,0,1,9,0,1.68,24
-Iker Losada,2026-03-07,Levante UD,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Iker Losada,2026-03-16,Rayo Vallecano,Levante UD,7.3,74,7992.0,15.0,108.0,0,0,0.1,0.23,22,27,3,0,0,0,2,39,0,1.88,24
-Iker Losada,2026-03-21,Levante UD,Real Oviedo,7.5,61,6588.0,12.0,108.0,1,0,0.08,0.02,15,17,1,0,1,0,1,25,0,1.82,24
-Iker Losada,2026-04-04,Real Sociedad,Levante UD,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.02,6,9,1,0,0,0,1,18,0,1.85,24
-Iker Losada,2026-04-13,Levante UD,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Iker Losada,2026-04-23,Levante UD,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Iker Losada,2026-04-27,Espanyol,Levante UD,6.3,30,3240.0,6.0,108.0,0,0,0.0,0.01,7,8,0,0,1,0,2,13,0,1.85,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Iker Losada,24,2026-01-17,Real Madrid,Levante UD,6.5,24,2592.0,5.0,108.0,0,0,0.0,0.02,4,6,0,0,0,0,0,7,0.0,1.93
+Iker Losada,24,2026-01-23,Levante UD,Elche,6.9,45,4860.0,9.0,108.0,0,0,0.14,0.2,8,9,2,0,2,0,3,19,0.0,1.85
+Iker Losada,24,2026-01-31,Levante UD,Atlético Madrid,6.8,59,6372.0,12.0,108.0,0,0,0.0,0.01,11,19,1,0,0,0,1,31,0.0,1.88
+Iker Losada,24,2026-02-08,Athletic Club,Levante UD,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0.0,2.06
+Iker Losada,24,2026-02-15,Levante UD,Valencia,6.3,69,7452.0,14.0,108.0,0,0,0.0,0.0,7,10,0,0,0,0,4,21,0.0,1.88
+Iker Losada,24,2026-02-18,Levante UD,Villarreal,6.4,74,7992.0,15.0,108.0,0,0,0.0,0.0,13,16,0,0,0,0,2,23,0.0,1.88
+Iker Losada,24,2026-02-22,FC Barcelona,Levante UD,6.7,9,972.0,2.0,108.0,0,0,0.0,0.0,5,7,0,0,0,0,1,9,0.0,2.06
+Iker Losada,24,2026-02-27,Levante UD,Deportivo Alavés,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.01,4,4,0,0,1,0,1,9,0.0,1.68
+Iker Losada,24,2026-03-07,Levante UD,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iker Losada,24,2026-03-16,Rayo Vallecano,Levante UD,7.3,74,7992.0,15.0,108.0,0,0,0.1,0.23,22,27,3,0,0,0,2,39,0.0,1.88
+Iker Losada,24,2026-03-21,Levante UD,Real Oviedo,7.5,61,6588.0,12.0,108.0,1,0,0.08,0.02,15,17,1,0,1,0,1,25,0.0,1.82
+Iker Losada,24,2026-04-04,Real Sociedad,Levante UD,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.02,6,9,1,0,0,0,1,18,0.0,1.85
+Iker Losada,24,2026-04-13,Levante UD,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iker Losada,24,2026-04-23,Levante UD,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iker Losada,24,2026-04-27,Espanyol,Levante UD,6.3,30,3240.0,6.0,108.0,0,0,0.0,0.01,7,8,0,0,1,0,2,13,0.0,1.85
+Iker Losada,24,2026-05-02,Villarreal,Levante UD,6.5,60,,,0.0,0,0,0.0,0.07,12,16,0,0,0,0,2,21,,
+Iker Losada,24,2026-05-08,Levante UD,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Iker Losada,24,2026-05-12,Celta Vigo,Levante UD,6.5,45,,,0.0,0,0,0.04,0.0,3,5,0,0,0,0,3,12,,

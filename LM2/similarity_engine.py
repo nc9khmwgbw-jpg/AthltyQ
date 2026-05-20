@@ -85,7 +85,7 @@ class SimilarityEngine:
         target_norm = normalize_name(target_player_name)
         self.df_raw['Name_Norm'] = self.df_raw['Nom'].apply(normalize_name)
         mask = self.df_raw['Name_Norm'] == target_norm
-        if not mask.any(): mask = self.df_raw['Name_Norm'].str.contains(target_norm)
+        if not mask.any(): mask = self.df_raw['Name_Norm'].str.contains(target_norm, regex=False)
         if not mask.any(): return {"error": "PLAYER_NOT_FOUND"}
 
         row_a_raw = self.df_raw[mask].iloc[0]
@@ -94,7 +94,7 @@ class SimilarityEngine:
         target_team = row_a_raw.get('Team', 'Inconnu')
         target_pos = POSTE_MAP.get(row_a_raw.get('Poste_Cat', 'M'), 'MOF')
 
-        # --- NOUVEAU : CALCUL DU DNA DE L'EQUIPE CIBLE ---
+        # --- DNA Cible ---
         team_players = self.df_raw[self.df_raw['Team'] == target_team]
         if len(team_players) > 3:
             team_dna = team_players[self.features_list].mean()
@@ -109,24 +109,34 @@ class SimilarityEngine:
             row_b_raw = self.df_raw[self.df_raw['Nom'] == name_b].iloc[0]
             cand_pos = POSTE_MAP.get(row_b_raw.get('Poste_Cat', 'M'), 'MOF')
 
-            # 1. Similarité Intrinsèque (Est-ce qu'il joue comme la cible ?)
+            # 1. Similarité Intrinsèque
             sim_score = self.compute_hybrid_score(row_a_norm, row_b_norm, alpha, target_pos)
             
-            # 2. Squad DNA Fit (Est-ce qu'il peut jouer dans CETTE équipe ?)
+            # 2. Squad DNA Fit
             dna_fit = self.calculate_dna_fit(row_b_raw, team_dna, target_pos)
             
-            # 3. Facteur de compatibilité de poste
+            # 3. Fit Factor
             fit_factor = POSITION_FIT.get(cand_pos, {}).get(target_pos, 0.1)
             
-            # Score Final Hybride (50% Talent / 50% Adaptabilité)
             final_score = int(((sim_score * 0.6) + (dna_fit * 0.4)) * fit_factor * 100)
 
             if final_score > 10:
                 explanation, full_reasons = self.generate_explanation(row_a_raw, row_b_raw, dna_fit)
                 
-                # Radar stats
-                radar_b = {f: round(max(5, (self.df_raw[f] < float(row_b_raw[f])).mean() * 100), 1) for f in self.features_list}
-                radar_a = {f: round(max(5, (self.df_raw[f] < float(row_a_raw[f])).mean() * 100), 1) for f in self.features_list}
+                # Radar stats (Percentiles sécurisés)
+                radar_b = {}
+                radar_a = {}
+                for f in self.features_list:
+                    # On évite les erreurs si la colonne est vide ou constante
+                    if self.df_raw[f].std() == 0:
+                        rb = 50.0
+                        ra = 50.0
+                    else:
+                        rb = (self.df_raw[f] < float(row_b_raw[f])).mean() * 100
+                        ra = (self.df_raw[f] < float(row_a_raw[f])).mean() * 100
+                    
+                    radar_b[f] = round(max(5, rb), 1)
+                    radar_a[f] = round(max(5, ra), 1)
 
                 results.append({
                     "name": name_b,

@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Daniel Pereira,25,2026-05-17,Austin FC,Sporting Kansas City,7.0,17,,,0.0,0,0,0.04,0.01,19,19,1,0,1,0,3,28
+Daniel Pereira,25,2026-05-11,Minnesota United,Austin FC,6.6,20,,,0.0,0,0,0.0,0.0,20,20,0,0,0,0,0,21
+Daniel Pereira,25,2026-05-03,Austin FC,St.Louis City,7.4,24,,,0.0,0,0,0.0,0.61,19,19,1,0,1,0,3,22
+Daniel Pereira,25,2026-04-15,Louisville City FC,Austin FC,6.6,11,,,0.0,0,0,0.0,0.0,3,3,0,0,0,0,0,5
+Daniel Pereira,25,2026-04-11,Austin FC,LA Galaxy,6.7,11,,,0.0,0,0,0.0,0.01,14,15,0,0,0,0,0,17
+Daniel Pereira,25,2026-03-08,Charlotte FC,Austin FC,6.7,36,,,0.0,0,0,0.0,0.0,17,19,0,0,2,0,5,26
+Daniel Pereira,25,2026-03-01,Austin FC,DC United,6.8,90,,,0.0,0,0,0.02,0.01,41,52,2,0,0,0,5,70
+Daniel Pereira,25,2026-02-22,Austin FC,Minnesota United,6.9,90,,,0.0,0,0,0.03,0.04,60,62,0,0,1,0,5,71
+Daniel Pereira,25,2025-11-19,Venezuela,Canada,6.4,90,,,0.0,0,0,0.0,0.0,55,59,0,0,3,0,0,67
+Daniel Pereira,25,2025-11-15,Venezuela,Australia,7.3,90,,,0.0,0,0,0.0,0.0,77,79,2,0,0,0,3,86
+Daniel Pereira,25,2025-11-03,Austin FC,Los Angeles FC,7.3,90,,,0.0,1,0,0.79,0.22,71,80,1,0,3,0,5,90
+Daniel Pereira,25,2025-10-30,Los Angeles FC,Austin FC,7.3,90,,,0.0,0,0,0.03,0.05,69,74,0,0,0,0,3,91
+Daniel Pereira,25,2025-10-19,San Jose Earthquakes,Austin FC,6.8,73,,,0.0,0,0,0.0,0.02,29,32,0,0,0,0,4,43
+Daniel Pereira,25,2025-10-13,Austin FC,Los Angeles FC,7.2,85,,,0.0,0,0,0.0,0.04,43,49,0,0,1,0,4,63
+Daniel Pereira,25,2025-10-05,Austin FC,St.Louis City,6.8,90,,,0.0,0,0,0.08,0.1,56,59,2,0,0,0,5,71

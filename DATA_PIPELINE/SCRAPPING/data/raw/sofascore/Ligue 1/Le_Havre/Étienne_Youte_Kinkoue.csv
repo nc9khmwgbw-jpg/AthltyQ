@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Étienne Youte Kinkoue,2025-09-14,RC Strasbourg,Le Havre,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,0.0,24
-Étienne Youte Kinkoue,2025-09-21,Le Havre,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2025-09-28,Metz,Le Havre,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,47,1,0,0,0,2,58,0,1.85,24
-Étienne Youte Kinkoue,2025-10-05,Le Havre,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2025-10-18,Olympique de Marseille,Le Havre,5.6,52,5616.0,10.0,108.0,0,0,0.0,0.0,8,12,0,0,0,0,0,21,0,1.78,24
-Étienne Youte Kinkoue,2025-10-26,Auxerre,Le Havre,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.04,54,63,0,0,0,0,2,77,0,1.85,24
-Étienne Youte Kinkoue,2025-10-29,Le Havre,Stade Brestois,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,1.98,24
-Étienne Youte Kinkoue,2025-11-02,Toulouse,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2025-11-08,Le Havre,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2025-11-22,Paris Saint-Germain,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2025-11-30,Le Havre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2025-12-07,Le Havre,Paris FC,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,10,11,0,0,0,0,1,11,0,1.85,24
-Étienne Youte Kinkoue,2025-12-14,Olympique Lyonnais,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2026-02-28,Le Havre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Étienne Youte Kinkoue,2026-04-26,Le Havre,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Étienne Youte Kinkoue,24,2025-09-14,RC Strasbourg,Le Havre,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0.0,0.0
+Étienne Youte Kinkoue,24,2025-09-21,Le Havre,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2025-09-28,Metz,Le Havre,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,47,1,0,0,0,2,58,0.0,1.85
+Étienne Youte Kinkoue,24,2025-10-05,Le Havre,Stade Rennais,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2025-10-18,Olympique de Marseille,Le Havre,5.6,52,5616.0,10.0,108.0,0,0,0.0,0.0,8,12,0,0,0,0,0,21,0.0,1.78
+Étienne Youte Kinkoue,24,2025-10-26,Auxerre,Le Havre,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.04,54,63,0,0,0,0,2,77,0.0,1.85
+Étienne Youte Kinkoue,24,2025-10-29,Le Havre,Stade Brestois,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0.0,1.98
+Étienne Youte Kinkoue,24,2025-11-02,Toulouse,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2025-11-08,Le Havre,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2025-11-22,Paris Saint-Germain,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2025-11-30,Le Havre,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2025-12-07,Le Havre,Paris FC,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,10,11,0,0,0,0,1,11,0.0,1.85
+Étienne Youte Kinkoue,24,2025-12-14,Olympique Lyonnais,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2026-02-28,Le Havre,Paris Saint-Germain,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2026-04-26,Le Havre,Metz,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Étienne Youte Kinkoue,24,2026-05-03,Lille,Le Havre,6.7,9,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Étienne Youte Kinkoue,24,2026-05-10,Le Havre,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

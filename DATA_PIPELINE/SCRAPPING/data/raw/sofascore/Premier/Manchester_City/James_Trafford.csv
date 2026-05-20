@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-James Trafford,2026-02-21,Manchester City,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-02-28,Leeds United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-03-04,Manchester City,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-03-07,Newcastle United,Manchester City,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,30,0,0,0,0,6,38,0,1.85,23
-James Trafford,2026-03-11,Real Madrid,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-03-14,West Ham United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-03-17,Manchester City,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-03-22,Arsenal,Manchester City,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,23,0,0,0,0,5,28,0,1.85,23
-James Trafford,2026-03-27,England,Uruguay,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,26,0,0,0,0,5,33,0,1.85,23
-James Trafford,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-04-04,Manchester City,Liverpool,8.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,14,0,0,0,0,9,31,0,1.85,23
-James Trafford,2026-04-12,Chelsea,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-04-19,Manchester City,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-James Trafford,2026-04-25,Manchester City,Southampton,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,6,26,0,1.85,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+James Trafford,23,2026-02-21,Manchester City,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-02-28,Leeds United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-03-04,Manchester City,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-03-07,Newcastle United,Manchester City,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,30,0,0,0,0,6,38,0.0,1.85
+James Trafford,23,2026-03-11,Real Madrid,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-03-14,West Ham United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-03-17,Manchester City,Real Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-03-22,Arsenal,Manchester City,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,23,0,0,0,0,5,28,0.0,1.85
+James Trafford,23,2026-03-27,England,Uruguay,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,26,0,0,0,0,5,33,0.0,1.85
+James Trafford,23,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-04-04,Manchester City,Liverpool,8.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,14,0,0,0,0,9,31,0.0,1.85
+James Trafford,23,2026-04-12,Chelsea,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-04-19,Manchester City,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-04-22,Burnley,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+James Trafford,23,2026-04-25,Manchester City,Southampton,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,6,26,0.0,1.85
+James Trafford,23,2026-05-04,Everton,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+James Trafford,23,2026-05-09,Manchester City,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+James Trafford,23,2026-05-13,Manchester City,Crystal Palace,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

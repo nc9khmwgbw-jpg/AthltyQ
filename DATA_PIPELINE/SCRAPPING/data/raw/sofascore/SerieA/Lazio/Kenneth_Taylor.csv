@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Kenneth Taylor,23,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Kenneth Taylor,23,2026-05-04,Cremonese,Lazio,6.3,71,,,0.0,0,0,0.0,0.02,25,27,1,0,0,0,2,38
-Kenneth Taylor,23,2026-04-27,Lazio,Udinese,6.3,45,,,0.0,0,0,0.0,0.01,18,19,0,0,0,0,0,21
-Kenneth Taylor,23,2026-04-22,Atalanta,Lazio,6.8,120,,,0.0,0,0,0.0,0.0,28,33,1,0,1,0,3,44
-Kenneth Taylor,23,2026-04-18,SSC Napoli,Lazio,7.2,90,,,0.0,0,0,0.09,0.33,23,27,1,0,1,0,1,39
-Kenneth Taylor,23,2026-04-13,Fiorentina,Lazio,6.4,79,,,0.0,0,0,0.0,0.04,45,51,1,0,0,0,2,60
-Kenneth Taylor,23,2026-04-04,Lazio,Parma,7.1,90,,,0.0,0,0,0.04,0.07,53,58,1,0,0,0,2,68
-Kenneth Taylor,23,2026-03-22,Bologna,Lazio,9.0,90,,,0.0,2,0,1.1,0.01,26,30,0,0,1,0,3,41
-Kenneth Taylor,23,2026-03-15,Lazio,Milan,7.1,89,,,0.0,0,0,0.03,0.04,28,32,1,0,2,0,4,47
-Kenneth Taylor,23,2026-03-09,Lazio,Sassuolo,7.2,90,,,0.0,0,0,0.13,0.1,49,56,1,0,0,0,2,65
-Kenneth Taylor,23,2026-03-04,Lazio,Atalanta,6.9,83,,,0.0,0,0,0.0,0.0,25,28,0,0,3,0,3,38
-Kenneth Taylor,23,2026-03-01,Torino,Lazio,6.4,90,,,0.0,0,0,0.01,0.04,40,49,2,0,0,0,3,59
-Kenneth Taylor,23,2026-02-21,Cagliari,Lazio,6.4,90,,,0.0,0,0,0.05,0.05,58,64,1,0,1,0,3,84
-Kenneth Taylor,23,2026-02-14,Lazio,Atalanta,7.4,79,,,0.0,0,0,0.15,0.02,27,31,0,0,0,0,2,46
 Kenneth Taylor,23,2026-02-11,Bologna,Lazio,7.1,90,,,0.0,0,0,0.0,0.0,26,36,1,0,0,0,2,49
+Kenneth Taylor,23,2026-02-14,Lazio,Atalanta,7.4,79,,,0.0,0,0,0.15,0.02,27,31,0,0,0,0,2,46
+Kenneth Taylor,23,2026-02-21,Cagliari,Lazio,6.4,90,,,0.0,0,0,0.05,0.05,58,64,1,0,1,0,3,84
+Kenneth Taylor,23,2026-03-01,Torino,Lazio,6.4,90,,,0.0,0,0,0.01,0.04,40,49,2,0,0,0,3,59
+Kenneth Taylor,23,2026-03-04,Lazio,Atalanta,6.9,83,,,0.0,0,0,0.0,0.0,25,28,0,0,3,0,3,38
+Kenneth Taylor,23,2026-03-09,Lazio,Sassuolo,7.2,90,,,0.0,0,0,0.13,0.1,49,56,1,0,0,0,2,65
+Kenneth Taylor,23,2026-03-15,Lazio,Milan,7.1,89,,,0.0,0,0,0.03,0.04,28,32,1,0,2,0,4,47
+Kenneth Taylor,23,2026-03-22,Bologna,Lazio,9.0,90,,,0.0,2,0,1.1,0.01,26,30,0,0,1,0,3,41
+Kenneth Taylor,23,2026-04-04,Lazio,Parma,7.1,90,,,0.0,0,0,0.04,0.07,53,58,1,0,0,0,2,68
+Kenneth Taylor,23,2026-04-13,Fiorentina,Lazio,6.4,79,,,0.0,0,0,0.0,0.04,45,51,1,0,0,0,2,60
+Kenneth Taylor,23,2026-04-18,SSC Napoli,Lazio,7.2,90,,,0.0,0,0,0.09,0.33,23,27,1,0,1,0,1,39
+Kenneth Taylor,23,2026-04-22,Atalanta,Lazio,6.8,120,,,0.0,0,0,0.0,0.0,28,33,1,0,1,0,3,44
+Kenneth Taylor,23,2026-04-27,Lazio,Udinese,6.3,45,,,0.0,0,0,0.0,0.01,18,19,0,0,0,0,0,21
+Kenneth Taylor,23,2026-05-04,Cremonese,Lazio,6.3,71,,,0.0,0,0,0.0,0.02,25,27,1,0,0,0,2,38
+Kenneth Taylor,23,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Kenneth Taylor,23,2026-05-13,Lazio,Inter,6.6,90,,,0.0,0,0,0.0,0.0,45,52,0,0,1,0,6,57

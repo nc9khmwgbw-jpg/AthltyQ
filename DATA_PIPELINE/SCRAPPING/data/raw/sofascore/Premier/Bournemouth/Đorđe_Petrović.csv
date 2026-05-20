@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Đorđe Petrović,2026-01-19,Brighton & Hove Albion,Bournemouth,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,9,27,0,0,0,0,11,36,0,1.85,26
-Đorđe Petrović,2026-01-24,Bournemouth,Liverpool,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,22,0,0,0,0,12,37,0,1.85,26
-Đorđe Petrović,2026-01-31,Wolverhampton,Bournemouth,9.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,22,0,0,0,0,8,40,0,1.85,26
-Đorđe Petrović,2026-02-07,Bournemouth,Aston Villa,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,22,0,0,0,0,6,29,0,1.85,26
-Đorđe Petrović,2026-02-10,Everton,Bournemouth,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,28,0,0,0,0,7,40,0,1.85,26
-Đorđe Petrović,2026-02-21,West Ham United,Bournemouth,8.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,39,0,0,0,0,5,53,0,1.85,26
-Đorđe Petrović,2026-02-28,Bournemouth,Sunderland,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,26,0,0,0,0,11,35,0,1.85,26
-Đorđe Petrović,2026-03-03,Bournemouth,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,18,0,0,0,0,8,26,0,1.85,26
-Đorđe Petrović,2026-03-14,Burnley,Bournemouth,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,16,0,0,0,0,5,22,0,1.85,26
-Đorđe Petrović,2026-03-20,Bournemouth,Manchester United,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,19,0,0,0,0,6,31,0,1.85,26
-Đorđe Petrović,2026-03-27,Spain,Serbia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Đorđe Petrović,2026-03-31,Serbia,Saudi Arabia,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,12,15,0,0,0,0,1,16,0,1.85,26
-Đorđe Petrović,2026-04-11,Arsenal,Bournemouth,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,26,0,0,0,0,5,37,0,1.85,26
-Đorđe Petrović,2026-04-18,Newcastle United,Bournemouth,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,26,0,0,0,0,6,33,0,1.85,26
-Đorđe Petrović,2026-04-22,Bournemouth,Leeds United,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,9,19,0,0,0,0,3,24,0,1.85,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Đorđe Petrović,26,2026-01-19,Brighton & Hove Albion,Bournemouth,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,9,27,0,0,0,0,11,36,0.0,1.85
+Đorđe Petrović,26,2026-01-24,Bournemouth,Liverpool,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,22,0,0,0,0,12,37,0.0,1.85
+Đorđe Petrović,26,2026-01-31,Wolverhampton,Bournemouth,9.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,22,0,0,0,0,8,40,0.0,1.85
+Đorđe Petrović,26,2026-02-07,Bournemouth,Aston Villa,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,22,0,0,0,0,6,29,0.0,1.85
+Đorđe Petrović,26,2026-02-10,Everton,Bournemouth,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,28,0,0,0,0,7,40,0.0,1.85
+Đorđe Petrović,26,2026-02-21,West Ham United,Bournemouth,8.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,39,0,0,0,0,5,53,0.0,1.85
+Đorđe Petrović,26,2026-02-28,Bournemouth,Sunderland,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,16,26,0,0,0,0,11,35,0.0,1.85
+Đorđe Petrović,26,2026-03-03,Bournemouth,Brentford,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,18,0,0,0,0,8,26,0.0,1.85
+Đorđe Petrović,26,2026-03-14,Burnley,Bournemouth,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,14,16,0,0,0,0,5,22,0.0,1.85
+Đorđe Petrović,26,2026-03-20,Bournemouth,Manchester United,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,19,0,0,0,0,6,31,0.0,1.85
+Đorđe Petrović,26,2026-03-27,Spain,Serbia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Đorđe Petrović,26,2026-03-31,Serbia,Saudi Arabia,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,12,15,0,0,0,0,1,16,0.0,1.85
+Đorđe Petrović,26,2026-04-11,Arsenal,Bournemouth,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,26,0,0,0,0,5,37,0.0,1.85
+Đorđe Petrović,26,2026-04-18,Newcastle United,Bournemouth,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,26,0,0,0,0,6,33,0.0,1.85
+Đorđe Petrović,26,2026-04-22,Bournemouth,Leeds United,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,9,19,0,0,0,0,3,24,0.0,1.85
+Đorđe Petrović,26,2026-05-03,Bournemouth,Crystal Palace,7.0,90,,,0.0,0,0,0.0,0.0,13,15,0,0,0,0,6,27,,
+Đorđe Petrović,26,2026-05-09,Fulham,Bournemouth,7.0,90,,,0.0,0,0,0.0,0.0,19,27,0,0,0,0,9,37,,

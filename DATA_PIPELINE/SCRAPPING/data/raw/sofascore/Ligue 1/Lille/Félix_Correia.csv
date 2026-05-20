@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Félix Correia,2026-02-06,Metz,Lille,6.2,29,3132.0,6.0,108.0,0,0,0.2,0.25,9,12,0,0,0,0,0,18,0,1.92,25
-Félix Correia,2026-02-14,Lille,Stade Brestois,7.1,74,7992.0,15.0,108.0,0,0,0.0,0.35,34,46,4,0,1,0,5,61,0,1.88,25
-Félix Correia,2026-02-19,Lille,FK Crvena zvezda,6.3,77,8316.0,15.0,108.0,0,0,0.03,0.03,17,27,0,0,1,0,3,40,0,1.8,25
-Félix Correia,2026-02-22,Angers,Lille,6.0,79,8532.0,16.0,108.0,0,0,0.73,0.04,39,45,0,0,5,0,5,69,0,1.88,25
-Félix Correia,2026-02-26,FK Crvena zvezda,Lille,7.2,49,5292.0,10.0,108.0,0,0,0.25,0.19,15,18,2,0,2,0,3,41,0,1.89,25
-Félix Correia,2026-03-01,Lille,Nantes,6.8,63,6804.0,13.0,108.0,0,0,0.0,0.09,11,16,1,0,0,0,0,32,0,1.91,25
-Félix Correia,2026-03-08,Lille,Lorient,6.9,17,1836.0,3.0,108.0,0,0,0.0,0.06,9,10,1,0,0,0,2,12,0,1.63,25
-Félix Correia,2026-03-12,Lille,Aston Villa,6.5,24,2592.0,5.0,108.0,0,0,0.0,0.01,8,10,0,0,1,0,1,14,0,1.93,25
-Félix Correia,2026-03-15,Stade Rennais,Lille,6.4,84,9072.0,17.0,108.0,0,0,0.0,0.1,15,19,0,0,0,0,0,32,0,1.87,25
-Félix Correia,2026-03-19,Aston Villa,Lille,6.6,66,7128.0,13.0,108.0,0,0,0.0,0.0,12,14,1,0,0,0,1,25,0,1.82,25
-Félix Correia,2026-03-22,Olympique de Marseille,Lille,6.6,78,8424.0,16.0,108.0,0,0,0.0,0.09,28,38,1,0,1,0,5,46,0,1.9,25
-Félix Correia,2026-04-04,Lille,RC Lens,7.5,73,7884.0,15.0,108.0,1,0,1.26,0.03,13,21,0,0,0,0,1,35,0,1.9,25
-Félix Correia,2026-04-12,Toulouse,Lille,6.9,71,7668.0,14.0,108.0,0,0,0.04,0.07,31,38,2,0,0,0,1,52,0,1.83,25
-Félix Correia,2026-04-18,Lille,Nice,6.2,56,6048.0,11.0,108.0,0,0,0.0,0.04,14,21,0,0,0,0,1,32,0,1.82,25
-Félix Correia,2026-04-26,Paris FC,Lille,7.0,83,8964.0,17.0,108.0,0,0,0.0,0.28,24,29,2,0,1,0,1,47,0,1.9,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Félix Correia,25,2026-02-06,Metz,Lille,6.2,29,3132.0,6.0,108.0,0,0,0.2,0.25,9,12,0,0,0,0,0,18,0.0,1.92
+Félix Correia,25,2026-02-14,Lille,Stade Brestois,7.1,74,7992.0,15.0,108.0,0,0,0.0,0.35,34,46,4,0,1,0,5,61,0.0,1.88
+Félix Correia,25,2026-02-19,Lille,FK Crvena zvezda,6.3,77,8316.0,15.0,108.0,0,0,0.03,0.03,17,27,0,0,1,0,3,40,0.0,1.8
+Félix Correia,25,2026-02-22,Angers,Lille,6.0,79,8532.0,16.0,108.0,0,0,0.73,0.04,39,45,0,0,5,0,5,69,0.0,1.88
+Félix Correia,25,2026-02-26,FK Crvena zvezda,Lille,7.2,49,5292.0,10.0,108.0,0,0,0.25,0.19,15,18,2,0,2,0,3,41,0.0,1.89
+Félix Correia,25,2026-03-01,Lille,Nantes,6.8,63,6804.0,13.0,108.0,0,0,0.0,0.09,11,16,1,0,0,0,0,32,0.0,1.91
+Félix Correia,25,2026-03-08,Lille,Lorient,6.9,17,1836.0,3.0,108.0,0,0,0.0,0.06,9,10,1,0,0,0,2,12,0.0,1.63
+Félix Correia,25,2026-03-12,Lille,Aston Villa,6.5,24,2592.0,5.0,108.0,0,0,0.0,0.01,8,10,0,0,1,0,1,14,0.0,1.93
+Félix Correia,25,2026-03-15,Stade Rennais,Lille,6.4,84,9072.0,17.0,108.0,0,0,0.0,0.1,15,19,0,0,0,0,0,32,0.0,1.87
+Félix Correia,25,2026-03-19,Aston Villa,Lille,6.6,66,7128.0,13.0,108.0,0,0,0.0,0.0,12,14,1,0,0,0,1,25,0.0,1.82
+Félix Correia,25,2026-03-22,Olympique de Marseille,Lille,6.6,78,8424.0,16.0,108.0,0,0,0.0,0.09,28,38,1,0,1,0,5,46,0.0,1.9
+Félix Correia,25,2026-04-04,Lille,RC Lens,7.5,73,7884.0,15.0,108.0,1,0,1.26,0.03,13,21,0,0,0,0,1,35,0.0,1.9
+Félix Correia,25,2026-04-12,Toulouse,Lille,6.9,71,7668.0,14.0,108.0,0,0,0.04,0.07,31,38,2,0,0,0,1,52,0.0,1.83
+Félix Correia,25,2026-04-18,Lille,Nice,6.2,56,6048.0,11.0,108.0,0,0,0.0,0.04,14,21,0,0,0,0,1,32,0.0,1.82
+Félix Correia,25,2026-04-26,Paris FC,Lille,7.0,83,8964.0,17.0,108.0,0,0,0.0,0.28,24,29,2,0,1,0,1,47,0.0,1.9
+Félix Correia,25,2026-05-03,Lille,Le Havre,6.3,74,,,0.0,0,0,0.29,0.07,21,27,2,0,0,0,1,46,,
+Félix Correia,25,2026-05-10,AS Monaco,Lille,6.6,71,,,0.0,0,0,0.06,0.12,20,28,1,0,1,0,4,39,,

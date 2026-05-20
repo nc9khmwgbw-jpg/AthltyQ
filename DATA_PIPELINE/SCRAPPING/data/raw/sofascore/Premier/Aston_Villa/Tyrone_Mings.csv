@@ -1,15 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Tyrone Mings,2026-02-07,Bournemouth,Aston Villa,6.4,90,9720.0,18.0,108.0,0,0,0.15,0.01,43,46,0,0,1,0,1,59,0,1.85,33
-Tyrone Mings,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,9720.0,18.0,108.0,0,0,0.15,0.0,55,66,0,0,0,0,4,74,0,1.85,33
-Tyrone Mings,2026-02-14,Aston Villa,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Tyrone Mings,2026-02-21,Aston Villa,Leeds United,6.7,90,9720.0,18.0,108.0,0,0,0.09,0.24,59,66,2,0,1,0,1,84,0,1.85,33
-Tyrone Mings,2026-02-27,Wolverhampton,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Tyrone Mings,2026-03-04,Aston Villa,Chelsea,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.02,54,60,0,0,0,0,3,66,0,1.85,33
-Tyrone Mings,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Tyrone Mings,2026-03-15,Manchester United,Aston Villa,6.1,90,9720.0,18.0,108.0,0,0,0.36,0.01,47,53,0,0,2,0,4,68,0,1.85,33
-Tyrone Mings,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Tyrone Mings,2026-03-22,Aston Villa,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Tyrone Mings,2026-04-09,Bologna,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Tyrone Mings,2026-04-16,Aston Villa,Bologna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Tyrone Mings,2026-04-19,Aston Villa,Sunderland,6.3,90,9720.0,18.0,108.0,0,0,0.07,0.02,59,68,0,0,1,0,4,77,0,1.85,33
-Tyrone Mings,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tyrone Mings,33,2026-02-07,Bournemouth,Aston Villa,6.4,90,9720.0,18.0,108.0,0,0,0.15,0.01,43,46,0,0,1,0,1,59,0.0,1.85
+Tyrone Mings,33,2026-02-11,Aston Villa,Brighton & Hove Albion,6.9,90,9720.0,18.0,108.0,0,0,0.15,0.0,55,66,0,0,0,0,4,74,0.0,1.85
+Tyrone Mings,33,2026-02-14,Aston Villa,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-02-21,Aston Villa,Leeds United,6.7,90,9720.0,18.0,108.0,0,0,0.09,0.24,59,66,2,0,1,0,1,84,0.0,1.85
+Tyrone Mings,33,2026-02-27,Wolverhampton,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-03-04,Aston Villa,Chelsea,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.02,54,60,0,0,0,0,3,66,0.0,1.85
+Tyrone Mings,33,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-03-15,Manchester United,Aston Villa,6.1,90,9720.0,18.0,108.0,0,0,0.36,0.01,47,53,0,0,2,0,4,68,0.0,1.85
+Tyrone Mings,33,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-03-22,Aston Villa,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-04-09,Bologna,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-04-16,Aston Villa,Bologna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-04-19,Aston Villa,Sunderland,6.3,90,9720.0,18.0,108.0,0,0,0.07,0.02,59,68,0,0,1,0,4,77,0.0,1.85
+Tyrone Mings,33,2026-04-25,Fulham,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tyrone Mings,33,2026-04-30,Nottingham Forest,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Tyrone Mings,33,2026-05-03,Aston Villa,Tottenham Hotspur,6.1,90,,,0.0,0,0,0.22,0.01,71,76,0,0,0,0,6,81,,
+Tyrone Mings,33,2026-05-07,Aston Villa,Nottingham Forest,,1,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,,
+Tyrone Mings,33,2026-05-10,Burnley,Aston Villa,6.2,90,,,0.0,0,0,0.0,0.02,70,79,0,0,1,0,7,94,,

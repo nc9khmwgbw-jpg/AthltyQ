@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Henrikh Mkhitaryan,37,2026-05-09,Lazio,Inter,8.1,90,,,0.0,1,0,0.11,0.04,57,65,0,0,0,0,10,76
-Henrikh Mkhitaryan,37,2026-05-03,Inter,Parma,7.4,23,,,0.0,1,0,0.52,0.02,10,11,0,0,0,0,1,16
-Henrikh Mkhitaryan,37,2026-04-26,Torino,Inter,6.6,10,,,0.0,0,0,0.0,0.01,8,8,0,0,0,0,0,12
-Henrikh Mkhitaryan,37,2026-04-21,Inter,Como,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Henrikh Mkhitaryan,37,2026-04-17,Inter,Cagliari,6.9,76,,,0.0,0,0,0.0,0.16,35,38,2,0,0,0,5,50
-Henrikh Mkhitaryan,37,2026-04-12,Como,Inter,6.4,12,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,6
-Henrikh Mkhitaryan,37,2026-04-05,Inter,AS Roma,6.5,14,,,0.0,0,0,0.0,0.01,16,18,0,0,0,0,3,21
-Henrikh Mkhitaryan,37,2026-03-14,Inter,Atalanta,7.5,45,,,0.0,0,0,0.0,0.22,32,33,2,0,0,0,1,41
-Henrikh Mkhitaryan,37,2026-03-08,Milan,Inter,6.6,59,,,0.0,0,0,0.48,0.19,41,45,1,0,0,0,3,49
-Henrikh Mkhitaryan,37,2026-03-03,Como,Inter,6.6,8,,,0.0,0,0,0.0,0.0,8,8,0,0,0,0,0,8
-Henrikh Mkhitaryan,37,2026-02-28,Inter,Genoa,7.4,59,,,0.0,0,0,0.03,0.2,42,45,2,0,1,0,4,55
-Henrikh Mkhitaryan,37,2026-02-24,Inter,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Henrikh Mkhitaryan,37,2026-02-21,Lecce,Inter,7.8,30,,,0.0,1,0,0.12,0.1,32,35,1,0,0,0,3,45
-Henrikh Mkhitaryan,37,2026-02-18,Bodø/Glimt,Inter,6.2,76,,,0.0,0,0,0.13,0.01,27,31,0,0,2,0,6,43
 Henrikh Mkhitaryan,37,2026-02-14,Inter,Juventus,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Henrikh Mkhitaryan,37,2026-02-18,Bodø/Glimt,Inter,6.2,76,,,0.0,0,0,0.13,0.01,27,31,0,0,2,0,6,43
+Henrikh Mkhitaryan,37,2026-02-21,Lecce,Inter,7.8,30,,,0.0,1,0,0.12,0.1,32,35,1,0,0,0,3,45
+Henrikh Mkhitaryan,37,2026-02-24,Inter,Bodø/Glimt,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Henrikh Mkhitaryan,37,2026-02-28,Inter,Genoa,7.4,59,,,0.0,0,0,0.03,0.2,42,45,2,0,1,0,4,55
+Henrikh Mkhitaryan,37,2026-03-03,Como,Inter,6.6,8,,,0.0,0,0,0.0,0.0,8,8,0,0,0,0,0,8
+Henrikh Mkhitaryan,37,2026-03-08,Milan,Inter,6.6,59,,,0.0,0,0,0.48,0.19,41,45,1,0,0,0,3,49
+Henrikh Mkhitaryan,37,2026-03-14,Inter,Atalanta,7.5,45,,,0.0,0,0,0.0,0.22,32,33,2,0,0,0,1,41
+Henrikh Mkhitaryan,37,2026-04-05,Inter,AS Roma,6.5,14,,,0.0,0,0,0.0,0.01,16,18,0,0,0,0,3,21
+Henrikh Mkhitaryan,37,2026-04-12,Como,Inter,6.4,12,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,6
+Henrikh Mkhitaryan,37,2026-04-17,Inter,Cagliari,6.9,76,,,0.0,0,0,0.0,0.16,35,38,2,0,0,0,5,50
+Henrikh Mkhitaryan,37,2026-04-21,Inter,Como,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Henrikh Mkhitaryan,37,2026-04-26,Torino,Inter,6.6,10,,,0.0,0,0,0.0,0.01,8,8,0,0,0,0,0,12
+Henrikh Mkhitaryan,37,2026-05-03,Inter,Parma,7.4,23,,,0.0,1,0,0.52,0.02,10,11,0,0,0,0,1,16
+Henrikh Mkhitaryan,37,2026-05-09,Lazio,Inter,8.1,90,,,0.0,1,0,0.11,0.04,57,65,0,0,0,0,10,76
+Henrikh Mkhitaryan,37,2026-05-13,Lazio,Inter,6.8,22,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,0,13

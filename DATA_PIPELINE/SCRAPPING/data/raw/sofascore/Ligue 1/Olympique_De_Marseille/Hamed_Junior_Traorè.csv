@@ -1,16 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Hamed Junior Traorè,2026-01-24,Olympique de Marseille,RC Lens,6.4,74,7992.0,15.0,108.0,0,0,0.0,0.04,25,27,1,0,0,0,4,34,0,1.88,26
-Hamed Junior Traorè,2026-01-28,Club Brugge KV,Olympique de Marseille,6.0,45,4860.0,9.0,108.0,0,0,0.0,0.01,15,18,0,0,0,0,1,26,0,1.85,26
-Hamed Junior Traorè,2026-01-31,Paris FC,Olympique de Marseille,6.5,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,8,0,0,0,0,2,16,0,2.01,26
-Hamed Junior Traorè,2026-02-03,Olympique de Marseille,Stade Rennais,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,6,6,0,0,1,0,0,9,0,1.54,26
-Hamed Junior Traorè,2026-02-08,Paris Saint-Germain,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Hamed Junior Traorè,2026-02-14,Olympique de Marseille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Hamed Junior Traorè,2026-02-20,Stade Brestois,Olympique de Marseille,7.0,19,2052.0,4.0,108.0,0,0,0.03,0.07,10,10,0,0,0,0,0,19,0,1.95,26
-Hamed Junior Traorè,2026-03-01,Olympique de Marseille,Olympique Lyonnais,7.1,63,6804.0,13.0,108.0,0,0,0.0,0.07,12,18,1,0,2,0,1,35,0,1.91,26
-Hamed Junior Traorè,2026-03-04,Olympique de Marseille,Toulouse,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,0.0,26
-Hamed Junior Traorè,2026-03-07,Toulouse,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Hamed Junior Traorè,2026-03-13,Olympique de Marseille,Auxerre,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0,0.0,26
-Hamed Junior Traorè,2026-03-22,Olympique de Marseille,Lille,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.01,11,13,0,0,0,0,2,20,0,1.85,26
-Hamed Junior Traorè,2026-04-05,AS Monaco,Olympique de Marseille,6.5,73,7884.0,15.0,108.0,0,0,0.23,0.02,13,20,2,0,0,0,3,32,0,1.9,26
-Hamed Junior Traorè,2026-04-10,Olympique de Marseille,Metz,7.5,8,864.0,2.0,108.0,1,0,0.61,0.02,3,3,0,0,0,0,0,6,0,2.31,26
-Hamed Junior Traorè,2026-04-18,Lorient,Olympique de Marseille,6.5,90,9720.0,18.0,108.0,0,0,0.3,0.16,30,35,1,0,0,0,2,59,0,1.85,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Hamed Junior Traorè,26,2026-01-24,Olympique de Marseille,RC Lens,6.4,74,7992.0,15.0,108.0,0,0,0.0,0.04,25,27,1,0,0,0,4,34,0.0,1.88
+Hamed Junior Traorè,26,2026-01-28,Club Brugge KV,Olympique de Marseille,6.0,45,4860.0,9.0,108.0,0,0,0.0,0.01,15,18,0,0,0,0,1,26,0.0,1.85
+Hamed Junior Traorè,26,2026-01-31,Paris FC,Olympique de Marseille,6.5,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,8,0,0,0,0,2,16,0.0,2.01
+Hamed Junior Traorè,26,2026-02-03,Olympique de Marseille,Stade Rennais,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,6,6,0,0,1,0,0,9,0.0,1.54
+Hamed Junior Traorè,26,2026-02-08,Paris Saint-Germain,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Hamed Junior Traorè,26,2026-02-14,Olympique de Marseille,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Hamed Junior Traorè,26,2026-02-20,Stade Brestois,Olympique de Marseille,7.0,19,2052.0,4.0,108.0,0,0,0.03,0.07,10,10,0,0,0,0,0,19,0.0,1.95
+Hamed Junior Traorè,26,2026-03-01,Olympique de Marseille,Olympique Lyonnais,7.1,63,6804.0,13.0,108.0,0,0,0.0,0.07,12,18,1,0,2,0,1,35,0.0,1.91
+Hamed Junior Traorè,26,2026-03-04,Olympique de Marseille,Toulouse,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0.0,0.0
+Hamed Junior Traorè,26,2026-03-07,Toulouse,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Hamed Junior Traorè,26,2026-03-13,Olympique de Marseille,Auxerre,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,2,0.0,0.0
+Hamed Junior Traorè,26,2026-03-22,Olympique de Marseille,Lille,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.01,11,13,0,0,0,0,2,20,0.0,1.85
+Hamed Junior Traorè,26,2026-04-05,AS Monaco,Olympique de Marseille,6.5,73,7884.0,15.0,108.0,0,0,0.23,0.02,13,20,2,0,0,0,3,32,0.0,1.9
+Hamed Junior Traorè,26,2026-04-10,Olympique de Marseille,Metz,7.5,8,864.0,2.0,108.0,1,0,0.61,0.02,3,3,0,0,0,0,0,6,0.0,2.31
+Hamed Junior Traorè,26,2026-04-18,Lorient,Olympique de Marseille,6.5,90,9720.0,18.0,108.0,0,0,0.3,0.16,30,35,1,0,0,0,2,59,0.0,1.85
+Hamed Junior Traorè,26,2026-05-02,Nantes,Olympique de Marseille,6.4,89,,,0.0,0,0,0.1,0.05,27,33,2,0,0,0,8,59,,

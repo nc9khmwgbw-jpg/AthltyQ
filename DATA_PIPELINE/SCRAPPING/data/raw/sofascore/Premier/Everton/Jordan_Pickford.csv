@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jordan Pickford,2026-01-18,Aston Villa,Everton,8.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,22,35,0,0,0,0,10,49,0,1.85,32
-Jordan Pickford,2026-01-26,Everton,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,37,0,0,0,0,9,46,0,1.85,32
-Jordan Pickford,2026-01-31,Brighton & Hove Albion,Everton,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,55,0,0,0,0,7,60,0,1.85,32
-Jordan Pickford,2026-02-07,Fulham,Everton,7.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,29,0,0,0,0,3,36,0,1.85,32
-Jordan Pickford,2026-02-10,Everton,Bournemouth,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,32,50,0,0,0,0,11,57,0,1.85,32
-Jordan Pickford,2026-02-23,Everton,Manchester United,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,16,32,0,0,0,0,10,40,0,1.85,32
-Jordan Pickford,2026-02-28,Newcastle United,Everton,5.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,19,34,0,0,0,0,5,42,0,1.85,32
-Jordan Pickford,2026-03-03,Everton,Burnley,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,42,0,0,0,0,8,49,0,1.85,32
-Jordan Pickford,2026-03-14,Arsenal,Everton,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,41,0,0,0,0,7,49,0,1.85,32
-Jordan Pickford,2026-03-21,Everton,Chelsea,7.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,33,0,0,0,0,5,40,0,1.85,32
-Jordan Pickford,2026-03-27,England,Uruguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,32
-Jordan Pickford,2026-03-31,England,Japan,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,29,0,0,0,0,14,39,0,1.85,32
-Jordan Pickford,2026-04-11,Brentford,Everton,5.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,30,0,0,0,0,5,36,0,1.85,32
-Jordan Pickford,2026-04-19,Everton,Liverpool,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,44,1,0,0,0,10,54,0,1.85,32
-Jordan Pickford,2026-04-25,West Ham United,Everton,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,35,0,0,0,0,6,43,0,1.85,32
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jordan Pickford,32,2026-01-18,Aston Villa,Everton,8.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,22,35,0,0,0,0,10,49,0.0,1.85
+Jordan Pickford,32,2026-01-26,Everton,Leeds United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,37,0,0,0,0,9,46,0.0,1.85
+Jordan Pickford,32,2026-01-31,Brighton & Hove Albion,Everton,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,55,0,0,0,0,7,60,0.0,1.85
+Jordan Pickford,32,2026-02-07,Fulham,Everton,7.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,29,0,0,0,0,3,36,0.0,1.85
+Jordan Pickford,32,2026-02-10,Everton,Bournemouth,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,32,50,0,0,0,0,11,57,0.0,1.85
+Jordan Pickford,32,2026-02-23,Everton,Manchester United,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,16,32,0,0,0,0,10,40,0.0,1.85
+Jordan Pickford,32,2026-02-28,Newcastle United,Everton,5.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,19,34,0,0,0,0,5,42,0.0,1.85
+Jordan Pickford,32,2026-03-03,Everton,Burnley,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,42,0,0,0,0,8,49,0.0,1.85
+Jordan Pickford,32,2026-03-14,Arsenal,Everton,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,41,0,0,0,0,7,49,0.0,1.85
+Jordan Pickford,32,2026-03-21,Everton,Chelsea,7.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,33,0,0,0,0,5,40,0.0,1.85
+Jordan Pickford,32,2026-03-27,England,Uruguay,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jordan Pickford,32,2026-03-31,England,Japan,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,29,0,0,0,0,14,39,0.0,1.85
+Jordan Pickford,32,2026-04-11,Brentford,Everton,5.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,30,0,0,0,0,5,36,0.0,1.85
+Jordan Pickford,32,2026-04-19,Everton,Liverpool,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,44,1,0,0,0,10,54,0.0,1.85
+Jordan Pickford,32,2026-04-25,West Ham United,Everton,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,35,0,0,0,0,6,43,0.0,1.85
+Jordan Pickford,32,2026-05-04,Everton,Manchester City,6.4,90,,,0.0,0,0,0.0,0.0,20,35,1,0,0,0,11,43,,
+Jordan Pickford,32,2026-05-10,Crystal Palace,Everton,8.3,90,,,0.0,0,0,0.0,0.01,16,42,0,0,0,0,7,55,,

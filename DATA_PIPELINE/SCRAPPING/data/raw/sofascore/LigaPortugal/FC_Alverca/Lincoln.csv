@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Lincoln,27,2026-05-16,Famalicão,FC Alverca,6.9,88,,,0.0,0,0,0.0,0.19,34,38,3,0,0,0,3,50
+Lincoln,27,2026-05-10,FC Alverca,Estoril Praia,7.7,90,,,0.0,0,0,0.0,0.48,44,54,1,0,1,0,4,66
+Lincoln,27,2026-05-02,FC Porto,FC Alverca,7.4,90,,,0.0,0,0,0.0,0.1,48,60,1,0,0,0,9,80
+Lincoln,27,2026-04-24,FC Alverca,FC Arouca,6.0,90,,,0.0,0,0,0.0,0.01,30,43,0,0,0,0,5,61
+Lincoln,27,2026-04-18,CD Nacional,FC Alverca,6.9,75,,,0.0,0,0,0.0,0.06,34,43,0,0,0,0,2,57
+Lincoln,27,2026-04-12,FC Alverca,Casa Pia,6.9,89,,,0.0,0,0,0.0,0.02,39,48,1,0,0,0,3,67
+Lincoln,27,2026-04-04,Rio Ave,FC Alverca,7.5,90,,,0.0,0,0,0.09,0.1,50,53,2,0,0,0,7,78
+Lincoln,27,2026-03-22,FC Alverca,Sporting CP,6.7,65,,,0.0,0,0,0.02,0.13,14,19,2,0,1,0,3,30
+Lincoln,27,2026-03-14,Gil Vicente,FC Alverca,7.2,90,,,0.0,0,0,0.11,0.19,23,28,1,0,1,0,4,47
+Lincoln,27,2026-03-07,FC Alverca,AVS - Futebol SAD,7.3,90,,,0.0,0,0,0.06,0.13,43,52,1,0,0,0,5,78
+Lincoln,27,2026-02-28,Vitória SC,FC Alverca,6.6,85,,,0.0,0,0,0.06,0.01,30,38,1,0,1,0,6,51
+Lincoln,27,2026-02-21,FC Alverca,Santa Clara,7.4,90,,,0.0,0,0,0.23,0.09,35,38,1,0,1,0,4,68
+Lincoln,27,2026-02-08,Benfica,FC Alverca,6.8,71,,,0.0,0,0,0.0,0.24,17,28,2,0,1,0,4,43
+Lincoln,27,2026-01-31,FC Alverca,CF Estrela Amadora,7.7,90,,,0.0,0,0,0.05,0.37,33,38,2,0,0,0,7,57
+Lincoln,27,2026-01-25,Sporting Braga,FC Alverca,6.3,45,,,0.0,0,0,0.0,0.0,18,20,0,0,0,0,1,25

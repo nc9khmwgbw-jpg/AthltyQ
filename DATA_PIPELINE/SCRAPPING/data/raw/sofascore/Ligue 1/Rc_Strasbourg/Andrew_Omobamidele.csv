@@ -1,16 +1,20 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Andrew Omobamidele,2026-02-14,Olympique de Marseille,RC Strasbourg,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,60,63,0,0,2,0,2,70,0,1.85,23
-Andrew Omobamidele,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.6,89,9612.0,18.0,108.0,0,0,0.0,0.0,64,65,0,0,1,0,7,71,0,1.87,23
-Andrew Omobamidele,2026-02-27,RC Strasbourg,RC Lens,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,69,72,0,0,0,0,5,81,0,1.85,23
-Andrew Omobamidele,2026-03-03,RC Strasbourg,Stade de Reims,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Andrew Omobamidele,2026-03-07,Auxerre,RC Strasbourg,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,97,103,0,0,0,0,3,111,0,1.85,23
-Andrew Omobamidele,2026-03-12,HNK Rijeka,RC Strasbourg,6.7,45,4860.0,9.0,108.0,0,0,0.04,0.0,13,16,0,0,1,0,1,26,0,1.85,23
-Andrew Omobamidele,2026-03-15,RC Strasbourg,Paris FC,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,72,74,0,0,1,0,6,83,0,1.85,23
-Andrew Omobamidele,2026-03-19,RC Strasbourg,HNK Rijeka,6.5,90,9720.0,18.0,108.0,0,0,0.07,0.0,38,43,0,0,2,0,4,59,0,1.85,23
-Andrew Omobamidele,2026-03-22,Nantes,RC Strasbourg,6.7,76,8208.0,15.0,108.0,0,0,0.0,0.01,87,89,0,0,1,0,3,96,0,1.83,23
-Andrew Omobamidele,2026-04-04,RC Strasbourg,Nice,7.4,77,8316.0,15.0,108.0,0,0,0.0,0.0,78,81,0,0,3,0,1,91,0,1.8,23
-Andrew Omobamidele,2026-04-09,1. FSV Mainz 05,RC Strasbourg,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,74,75,0,0,0,0,2,86,0,1.85,23
-Andrew Omobamidele,2026-04-16,RC Strasbourg,1. FSV Mainz 05,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,64,67,0,0,1,0,1,79,0,1.85,23
-Andrew Omobamidele,2026-04-19,RC Strasbourg,Stade Rennais,7.4,33,3564.0,7.0,108.0,0,0,0.0,0.0,31,34,0,0,0,0,4,41,0,1.96,23
-Andrew Omobamidele,2026-04-22,RC Strasbourg,Nice,6.9,88,9504.0,18.0,108.0,0,0,0.0,0.0,73,74,1,0,0,0,6,82,0,1.89,23
-Andrew Omobamidele,2026-04-26,Lorient,RC Strasbourg,7.7,25,2700.0,5.0,108.0,1,0,0.29,0.0,25,26,0,0,1,0,2,29,0,1.85,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Andrew Omobamidele,23,2026-02-14,Olympique de Marseille,RC Strasbourg,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,60,63,0,0,2,0,2,70,0.0,1.85
+Andrew Omobamidele,23,2026-02-22,RC Strasbourg,Olympique Lyonnais,6.6,89,9612.0,18.0,108.0,0,0,0.0,0.0,64,65,0,0,1,0,7,71,0.0,1.87
+Andrew Omobamidele,23,2026-02-27,RC Strasbourg,RC Lens,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,69,72,0,0,0,0,5,81,0.0,1.85
+Andrew Omobamidele,23,2026-03-03,RC Strasbourg,Stade de Reims,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Andrew Omobamidele,23,2026-03-07,Auxerre,RC Strasbourg,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,97,103,0,0,0,0,3,111,0.0,1.85
+Andrew Omobamidele,23,2026-03-12,HNK Rijeka,RC Strasbourg,6.7,45,4860.0,9.0,108.0,0,0,0.04,0.0,13,16,0,0,1,0,1,26,0.0,1.85
+Andrew Omobamidele,23,2026-03-15,RC Strasbourg,Paris FC,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,72,74,0,0,1,0,6,83,0.0,1.85
+Andrew Omobamidele,23,2026-03-19,RC Strasbourg,HNK Rijeka,6.5,90,9720.0,18.0,108.0,0,0,0.07,0.0,38,43,0,0,2,0,4,59,0.0,1.85
+Andrew Omobamidele,23,2026-03-22,Nantes,RC Strasbourg,6.7,76,8208.0,15.0,108.0,0,0,0.0,0.01,87,89,0,0,1,0,3,96,0.0,1.83
+Andrew Omobamidele,23,2026-04-04,RC Strasbourg,Nice,7.4,77,8316.0,15.0,108.0,0,0,0.0,0.0,78,81,0,0,3,0,1,91,0.0,1.8
+Andrew Omobamidele,23,2026-04-09,1. FSV Mainz 05,RC Strasbourg,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,74,75,0,0,0,0,2,86,0.0,1.85
+Andrew Omobamidele,23,2026-04-16,RC Strasbourg,1. FSV Mainz 05,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,64,67,0,0,1,0,1,79,0.0,1.85
+Andrew Omobamidele,23,2026-04-19,RC Strasbourg,Stade Rennais,7.4,33,3564.0,7.0,108.0,0,0,0.0,0.0,31,34,0,0,0,0,4,41,0.0,1.96
+Andrew Omobamidele,23,2026-04-22,RC Strasbourg,Nice,6.9,88,9504.0,18.0,108.0,0,0,0.0,0.0,73,74,1,0,0,0,6,82,0.0,1.89
+Andrew Omobamidele,23,2026-04-26,Lorient,RC Strasbourg,7.7,25,2700.0,5.0,108.0,1,0,0.29,0.0,25,26,0,0,1,0,2,29,0.0,1.85
+Andrew Omobamidele,23,2026-04-30,Rayo Vallecano,RC Strasbourg,6.8,90,,,0.0,0,0,0.0,0.0,43,56,0,0,3,0,6,68,,
+Andrew Omobamidele,23,2026-05-03,RC Strasbourg,Toulouse,6.4,19,,,0.0,0,0,0.0,0.0,17,18,0,0,1,0,0,22,,
+Andrew Omobamidele,23,2026-05-07,RC Strasbourg,Rayo Vallecano,6.3,90,,,0.0,0,0,0.0,0.0,60,63,0,0,0,0,4,71,,
+Andrew Omobamidele,23,2026-05-13,Stade Brestois,RC Strasbourg,6.5,90,,,0.0,0,0,0.0,0.0,61,66,0,0,1,0,4,81,,

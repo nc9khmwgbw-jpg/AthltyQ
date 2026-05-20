@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Sékou Mara,2025-12-14,Auxerre,Lille,6.6,45,4860.0,9.0,108.0,0,0,0.18,0.47,10,11,1,0,0,0,0,22,0,1.85,23
-Sékou Mara,2026-01-04,Stade Brestois,Auxerre,6.5,76,8208.0,15.0,108.0,0,0,0.16,0.02,9,13,1,0,0,0,2,22,0,1.83,23
-Sékou Mara,2026-01-17,RC Lens,Auxerre,,2,216.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Sékou Mara,2026-01-23,Auxerre,Paris Saint-Germain,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0,0.0,23
-Sékou Mara,2026-02-01,Toulouse,Auxerre,6.3,4,432.0,1.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,3,0,2.31,23
-Sékou Mara,2026-02-08,Auxerre,Paris FC,6.4,12,1296.0,2.0,108.0,0,0,0.05,0.0,2,2,0,0,0,0,0,3,0,1.54,23
-Sékou Mara,2026-02-15,Metz,Auxerre,6.4,72,7776.0,14.0,108.0,0,0,0.12,0.01,12,14,0,0,1,0,1,35,0,1.8,23
-Sékou Mara,2026-02-22,Auxerre,Stade Rennais,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.01,6,12,0,0,0,0,1,25,0,1.85,23
-Sékou Mara,2026-03-01,Lorient,Auxerre,6.7,9,972.0,2.0,108.0,0,0,0.09,0.0,2,3,0,0,0,0,1,7,0,2.06,23
-Sékou Mara,2026-03-13,Olympique de Marseille,Auxerre,6.5,67,7236.0,13.0,108.0,0,0,0.02,0.01,11,14,0,0,0,0,1,31,0,1.8,23
-Sékou Mara,2026-03-21,Auxerre,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Sékou Mara,2026-04-05,Le Havre,Auxerre,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Sékou Mara,2026-04-11,Auxerre,Nantes,6.6,23,2484.0,5.0,108.0,0,0,0.05,0.01,8,8,0,0,0,0,0,13,0,2.01,23
-Sékou Mara,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Sékou Mara,2026-04-25,Olympique Lyonnais,Auxerre,6.3,15,1620.0,3.0,108.0,0,0,0.0,0.01,5,6,0,0,0,0,1,9,0,1.85,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Sékou Mara,23,2025-12-14,Auxerre,Lille,6.6,45,4860.0,9.0,108.0,0,0,0.18,0.47,10,11,1,0,0,0,0,22,0.0,1.85
+Sékou Mara,23,2026-01-04,Stade Brestois,Auxerre,6.5,76,8208.0,15.0,108.0,0,0,0.16,0.02,9,13,1,0,0,0,2,22,0.0,1.83
+Sékou Mara,23,2026-01-17,RC Lens,Auxerre,,2,216.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Sékou Mara,23,2026-01-23,Auxerre,Paris Saint-Germain,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0.0,0.0
+Sékou Mara,23,2026-02-01,Toulouse,Auxerre,6.3,4,432.0,1.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,3,0.0,2.31
+Sékou Mara,23,2026-02-08,Auxerre,Paris FC,6.4,12,1296.0,2.0,108.0,0,0,0.05,0.0,2,2,0,0,0,0,0,3,0.0,1.54
+Sékou Mara,23,2026-02-15,Metz,Auxerre,6.4,72,7776.0,14.0,108.0,0,0,0.12,0.01,12,14,0,0,1,0,1,35,0.0,1.8
+Sékou Mara,23,2026-02-22,Auxerre,Stade Rennais,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.01,6,12,0,0,0,0,1,25,0.0,1.85
+Sékou Mara,23,2026-03-01,Lorient,Auxerre,6.7,9,972.0,2.0,108.0,0,0,0.09,0.0,2,3,0,0,0,0,1,7,0.0,2.06
+Sékou Mara,23,2026-03-13,Olympique de Marseille,Auxerre,6.5,67,7236.0,13.0,108.0,0,0,0.02,0.01,11,14,0,0,0,0,1,31,0.0,1.8
+Sékou Mara,23,2026-03-21,Auxerre,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Sékou Mara,23,2026-04-05,Le Havre,Auxerre,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Sékou Mara,23,2026-04-11,Auxerre,Nantes,6.6,23,2484.0,5.0,108.0,0,0,0.05,0.01,8,8,0,0,0,0,0,13,0.0,2.01
+Sékou Mara,23,2026-04-19,AS Monaco,Auxerre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Sékou Mara,23,2026-04-25,Olympique Lyonnais,Auxerre,6.3,15,1620.0,3.0,108.0,0,0,0.0,0.01,5,6,0,0,0,0,1,9,0.0,1.85
+Sékou Mara,23,2026-05-03,Auxerre,Angers,8.8,79,,,0.0,2,0,0.8,0.09,8,13,1,0,0,0,0,27,,
+Sékou Mara,23,2026-05-10,Auxerre,Nice,7.7,86,,,0.0,1,0,0.22,0.01,7,13,1,0,1,0,3,26,,

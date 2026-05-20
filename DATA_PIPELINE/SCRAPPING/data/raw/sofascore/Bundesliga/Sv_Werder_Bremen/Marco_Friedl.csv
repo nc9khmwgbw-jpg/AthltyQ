@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Marco Friedl,28,2026-05-09,TSG Hoffenheim,SV Werder Bremen,6.5,90,,,0.0,0,0,0.0,0.0,9,12,0,0,1,0,2,26
+Marco Friedl,28,2026-05-02,SV Werder Bremen,FC Augsburg,7.0,90,,,0.0,0,0,0.0,0.02,79,88,0,0,1,0,4,97
+Marco Friedl,28,2026-04-12,1. FC Köln,SV Werder Bremen,4.3,24,,,0.0,0,0,0.0,0.0,17,20,0,0,0,0,1,21
+Marco Friedl,28,2026-04-04,SV Werder Bremen,RB Leipzig,6.7,90,,,0.0,0,0,0.0,0.02,76,87,0,0,1,0,5,98
+Marco Friedl,28,2026-03-31,Austria,South Korea,7.3,61,,,0.0,0,0,0.0,0.0,50,56,0,0,2,0,7,64
+Marco Friedl,28,2026-03-27,Austria,Ghana,6.9,62,,,0.0,0,0,0.0,0.0,45,48,0,0,0,0,3,57
+Marco Friedl,28,2026-03-21,VfL Wolfsburg,SV Werder Bremen,7.4,90,,,0.0,0,0,0.0,0.01,60,67,0,0,3,0,7,92
+Marco Friedl,28,2026-03-15,SV Werder Bremen,1. FSV Mainz 05,6.9,90,,,0.0,0,0,0.0,0.05,100,110,0,0,2,0,3,120
+Marco Friedl,28,2026-03-08,1. FC Union Berlin,SV Werder Bremen,7.3,90,,,0.0,0,0,0.0,0.04,95,105,0,0,0,0,3,117
+Marco Friedl,28,2026-02-28,SV Werder Bremen,1. FC Heidenheim,7.5,90,,,0.0,0,0,0.0,0.01,64,74,0,0,0,0,4,83
+Marco Friedl,28,2026-02-22,FC St. Pauli,SV Werder Bremen,6.4,90,,,0.0,0,0,0.0,0.03,75,88,0,0,1,0,2,104
+Marco Friedl,28,2026-02-14,SV Werder Bremen,FC Bayern München,6.8,90,,,0.0,0,0,0.0,0.01,39,44,0,0,1,0,6,56
+Marco Friedl,28,2026-02-07,SC Freiburg,SV Werder Bremen,7.8,90,,,0.0,0,0,0.0,0.13,91,94,1,0,0,0,6,110
+Marco Friedl,28,2026-01-31,SV Werder Bremen,Borussia M'gladbach,7.4,90,,,0.0,0,0,0.04,0.05,84,97,1,0,3,0,7,119
+Marco Friedl,28,2026-01-24,Bayer 04 Leverkusen,SV Werder Bremen,8.1,90,,,0.0,0,0,0.19,0.32,81,89,1,0,2,0,5,104

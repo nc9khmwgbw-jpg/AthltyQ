@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Angel Gomes,2026-01-17,Angers,Olympique de Marseille,6.4,8,864.0,2.0,108.0,0,0,0.0,0.0,9,10,0,0,0,0,0,11,0,2.31,25
-Angel Gomes,2026-01-21,Olympique de Marseille,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Angel Gomes,2026-01-28,Club Brugge KV,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Angel Gomes,2026-02-07,Wolverhampton,Chelsea,7.3,79,8532.0,16.0,108.0,0,0,0.0,0.06,33,35,2,0,0,0,6,49,0,1.88,25
-Angel Gomes,2026-02-11,Nottingham Forest,Wolverhampton,6.8,78,8424.0,16.0,108.0,0,0,0.05,0.01,27,31,1,0,0,0,1,40,0,1.9,25
-Angel Gomes,2026-02-15,Grimsby Town,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Angel Gomes,2026-02-18,Wolverhampton,Arsenal,6.4,22,2376.0,4.0,108.0,0,0,0.0,0.0,5,9,0,0,0,0,0,10,0,1.68,25
-Angel Gomes,2026-02-22,Crystal Palace,Wolverhampton,6.8,8,864.0,2.0,108.0,0,0,0.0,0.01,8,9,0,0,0,0,2,11,0,2.31,25
-Angel Gomes,2026-02-27,Wolverhampton,Aston Villa,6.7,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,4,0,1.85,25
-Angel Gomes,2026-03-03,Wolverhampton,Liverpool,6.6,60,6480.0,12.0,108.0,0,0,0.0,0.01,12,18,0,0,0,0,2,30,0,1.85,25
-Angel Gomes,2026-03-06,Wolverhampton,Liverpool,6.5,61,6588.0,12.0,108.0,0,0,0.0,0.0,9,15,0,0,0,0,1,22,0,1.82,25
-Angel Gomes,2026-03-16,Brentford,Wolverhampton,6.8,45,4860.0,9.0,108.0,0,0,0.06,0.07,18,18,0,0,0,0,2,22,0,1.85,25
-Angel Gomes,2026-04-10,West Ham United,Wolverhampton,6.8,61,6588.0,12.0,108.0,0,0,0.1,0.08,16,19,1,0,0,0,0,31,0,1.82,25
-Angel Gomes,2026-04-18,Leeds United,Wolverhampton,6.3,38,4104.0,8.0,108.0,0,0,0.0,0.0,9,11,0,0,0,0,1,17,0,1.95,25
-Angel Gomes,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Angel Gomes,25,2026-01-17,Angers,Olympique de Marseille,6.4,8,864.0,2.0,108.0,0,0,0.0,0.0,9,10,0,0,0,0,0,11,0.0,2.31
+Angel Gomes,25,2026-01-21,Olympique de Marseille,Liverpool,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Angel Gomes,25,2026-01-28,Club Brugge KV,Olympique de Marseille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Angel Gomes,25,2026-02-07,Wolverhampton,Chelsea,7.3,79,8532.0,16.0,108.0,0,0,0.0,0.06,33,35,2,0,0,0,6,49,0.0,1.88
+Angel Gomes,25,2026-02-11,Nottingham Forest,Wolverhampton,6.8,78,8424.0,16.0,108.0,0,0,0.05,0.01,27,31,1,0,0,0,1,40,0.0,1.9
+Angel Gomes,25,2026-02-15,Grimsby Town,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Angel Gomes,25,2026-02-18,Wolverhampton,Arsenal,6.4,22,2376.0,4.0,108.0,0,0,0.0,0.0,5,9,0,0,0,0,0,10,0.0,1.68
+Angel Gomes,25,2026-02-22,Crystal Palace,Wolverhampton,6.8,8,864.0,2.0,108.0,0,0,0.0,0.01,8,9,0,0,0,0,2,11,0.0,2.31
+Angel Gomes,25,2026-02-27,Wolverhampton,Aston Villa,6.7,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,4,0.0,1.85
+Angel Gomes,25,2026-03-03,Wolverhampton,Liverpool,6.6,60,6480.0,12.0,108.0,0,0,0.0,0.01,12,18,0,0,0,0,2,30,0.0,1.85
+Angel Gomes,25,2026-03-06,Wolverhampton,Liverpool,6.5,61,6588.0,12.0,108.0,0,0,0.0,0.0,9,15,0,0,0,0,1,22,0.0,1.82
+Angel Gomes,25,2026-03-16,Brentford,Wolverhampton,6.8,45,4860.0,9.0,108.0,0,0,0.06,0.07,18,18,0,0,0,0,2,22,0.0,1.85
+Angel Gomes,25,2026-04-10,West Ham United,Wolverhampton,6.8,61,6588.0,12.0,108.0,0,0,0.1,0.08,16,19,1,0,0,0,0,31,0.0,1.82
+Angel Gomes,25,2026-04-18,Leeds United,Wolverhampton,6.3,38,4104.0,8.0,108.0,0,0,0.0,0.0,9,11,0,0,0,0,1,17,0.0,1.95
+Angel Gomes,25,2026-04-25,Wolverhampton,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Angel Gomes,25,2026-05-02,Wolverhampton,Sunderland,6.8,12,,,0.0,0,0,0.0,0.02,10,10,0,0,0,0,1,15,,
+Angel Gomes,25,2026-05-09,Brighton & Hove Albion,Wolverhampton,6.5,9,,,0.0,0,0,0.04,0.01,3,4,0,0,0,0,0,8,,

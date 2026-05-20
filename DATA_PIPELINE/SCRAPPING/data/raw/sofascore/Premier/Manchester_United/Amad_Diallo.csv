@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Amad Diallo,2026-01-17,Manchester United,Manchester City,6.9,90,9720.0,18.0,108.0,0,0,0.23,0.03,14,15,0,0,1,0,5,30,0,1.85,23
-Amad Diallo,2026-01-25,Arsenal,Manchester United,6.5,88,9504.0,18.0,108.0,0,0,0.0,0.0,20,22,0,0,1,0,2,34,0,1.89,23
-Amad Diallo,2026-02-01,Manchester United,Fulham,7.3,90,9720.0,18.0,108.0,0,0,0.11,0.2,36,40,1,0,3,0,5,63,0,1.85,23
-Amad Diallo,2026-02-07,Manchester United,Tottenham Hotspur,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.17,37,39,3,0,0,0,2,59,0,1.85,23
-Amad Diallo,2026-02-10,West Ham United,Manchester United,6.8,90,9720.0,18.0,108.0,0,0,0.02,0.05,37,40,0,0,0,0,5,60,0,1.85,23
-Amad Diallo,2026-02-23,Everton,Manchester United,6.3,58,6264.0,12.0,108.0,0,0,0.16,0.02,17,23,2,0,1,0,3,34,0,1.92,23
-Amad Diallo,2026-03-01,Manchester United,Crystal Palace,6.8,15,1620.0,3.0,108.0,0,0,0.08,0.16,10,10,2,0,0,0,2,16,0,1.85,23
-Amad Diallo,2026-03-04,Newcastle United,Manchester United,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.04,6,6,0,0,0,0,1,7,0,1.98,23
-Amad Diallo,2026-03-15,Manchester United,Aston Villa,6.6,90,9720.0,18.0,108.0,0,0,0.13,0.07,40,45,2,0,1,0,7,60,0,1.85,23
-Amad Diallo,2026-03-20,Bournemouth,Manchester United,6.7,89,9612.0,18.0,108.0,0,0,0.27,0.03,33,34,0,0,1,0,8,47,0,1.87,23
-Amad Diallo,2026-03-28,South Korea,Côte d'Ivoire,7.2,26,2808.0,5.0,108.0,0,0,0.0,0.0,19,20,1,0,1,0,3,24,0,1.78,23
-Amad Diallo,2026-03-31,Scotland,Côte d'Ivoire,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.0,11,11,2,0,0,0,0,16,0,1.76,23
-Amad Diallo,2026-04-13,Manchester United,Leeds United,6.5,70,7560.0,14.0,108.0,0,0,0.04,0.02,16,18,0,0,0,0,0,25,0,1.85,23
-Amad Diallo,2026-04-18,Chelsea,Manchester United,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,5,0,1.85,23
-Amad Diallo,2026-04-27,Manchester United,Brentford,6.7,45,4860.0,9.0,108.0,0,0,0.5,0.03,11,14,0,0,0,0,3,24,0,1.85,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Amad Diallo,23,2026-01-17,Manchester United,Manchester City,6.9,90,9720.0,18.0,108.0,0,0,0.23,0.03,14,15,0,0,1,0,5,30,0.0,1.85
+Amad Diallo,23,2026-01-25,Arsenal,Manchester United,6.5,88,9504.0,18.0,108.0,0,0,0.0,0.0,20,22,0,0,1,0,2,34,0.0,1.89
+Amad Diallo,23,2026-02-01,Manchester United,Fulham,7.3,90,9720.0,18.0,108.0,0,0,0.11,0.2,36,40,1,0,3,0,5,63,0.0,1.85
+Amad Diallo,23,2026-02-07,Manchester United,Tottenham Hotspur,7.1,90,9720.0,18.0,108.0,0,0,0.02,0.17,37,39,3,0,0,0,2,59,0.0,1.85
+Amad Diallo,23,2026-02-10,West Ham United,Manchester United,6.8,90,9720.0,18.0,108.0,0,0,0.02,0.05,37,40,0,0,0,0,5,60,0.0,1.85
+Amad Diallo,23,2026-02-23,Everton,Manchester United,6.3,58,6264.0,12.0,108.0,0,0,0.16,0.02,17,23,2,0,1,0,3,34,0.0,1.92
+Amad Diallo,23,2026-03-01,Manchester United,Crystal Palace,6.8,15,1620.0,3.0,108.0,0,0,0.08,0.16,10,10,2,0,0,0,2,16,0.0,1.85
+Amad Diallo,23,2026-03-04,Newcastle United,Manchester United,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.04,6,6,0,0,0,0,1,7,0.0,1.98
+Amad Diallo,23,2026-03-15,Manchester United,Aston Villa,6.6,90,9720.0,18.0,108.0,0,0,0.13,0.07,40,45,2,0,1,0,7,60,0.0,1.85
+Amad Diallo,23,2026-03-20,Bournemouth,Manchester United,6.7,89,9612.0,18.0,108.0,0,0,0.27,0.03,33,34,0,0,1,0,8,47,0.0,1.87
+Amad Diallo,23,2026-03-28,South Korea,Côte d'Ivoire,7.2,26,2808.0,5.0,108.0,0,0,0.0,0.0,19,20,1,0,1,0,3,24,0.0,1.78
+Amad Diallo,23,2026-03-31,Scotland,Côte d'Ivoire,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.0,11,11,2,0,0,0,0,16,0.0,1.76
+Amad Diallo,23,2026-04-13,Manchester United,Leeds United,6.5,70,7560.0,14.0,108.0,0,0,0.04,0.02,16,18,0,0,0,0,0,25,0.0,1.85
+Amad Diallo,23,2026-04-18,Chelsea,Manchester United,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,5,0.0,1.85
+Amad Diallo,23,2026-04-27,Manchester United,Brentford,6.7,45,4860.0,9.0,108.0,0,0,0.5,0.03,11,14,0,0,0,0,3,24,0.0,1.85
+Amad Diallo,23,2026-05-03,Manchester United,Liverpool FC,6.4,45,,,0.0,0,0,0.0,0.03,8,11,1,0,0,0,0,15,,
+Amad Diallo,23,2026-05-09,Sunderland,Manchester United,6.4,75,,,0.0,0,0,0.06,0.04,19,21,0,0,0,0,1,41,,

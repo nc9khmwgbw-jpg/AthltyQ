@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Filip Jørgensen,2025-12-13,Chelsea,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2025-12-16,Cardiff City,Chelsea,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,46,0,0,0,0,8,57,0,1.85,24
-Filip Jørgensen,2025-12-20,Newcastle United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2025-12-27,Chelsea,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2025-12-30,Chelsea,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2026-01-04,Manchester City,Chelsea,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,53,0,0,0,0,9,62,0,1.85,24
-Filip Jørgensen,2026-01-07,Fulham,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2026-01-10,Charlton Athletic,Chelsea,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,28,0,0,0,0,7,36,0,1.85,24
-Filip Jørgensen,2026-01-14,Chelsea,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2026-01-21,Chelsea,Pafos FC,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,7,8,0,0,0,0,2,9,0,1.85,24
-Filip Jørgensen,2026-01-28,Napoli,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2026-03-01,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Filip Jørgensen,2026-03-04,Aston Villa,Chelsea,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,46,0,0,0,0,9,60,0,1.85,24
-Filip Jørgensen,2026-03-11,Paris Saint-Germain,Chelsea,4.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,56,0,0,0,0,11,64,0,1.85,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Filip Jørgensen,24,2025-12-13,Chelsea,Everton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2025-12-16,Cardiff City,Chelsea,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,46,0,0,0,0,8,57,0.0,1.85
+Filip Jørgensen,24,2025-12-20,Newcastle United,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2025-12-27,Chelsea,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2025-12-30,Chelsea,Bournemouth,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2026-01-04,Manchester City,Chelsea,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,53,0,0,0,0,9,62,0.0,1.85
+Filip Jørgensen,24,2026-01-07,Fulham,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2026-01-10,Charlton Athletic,Chelsea,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,24,28,0,0,0,0,7,36,0.0,1.85
+Filip Jørgensen,24,2026-01-14,Chelsea,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2026-01-21,Chelsea,Pafos FC,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,7,8,0,0,0,0,2,9,0.0,1.85
+Filip Jørgensen,24,2026-01-28,Napoli,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2026-03-01,Arsenal,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Filip Jørgensen,24,2026-03-04,Aston Villa,Chelsea,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,46,0,0,0,0,9,60,0.0,1.85
+Filip Jørgensen,24,2026-03-11,Paris Saint-Germain,Chelsea,4.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,56,0,0,0,0,11,64,0.0,1.85
+Filip Jørgensen,24,2026-05-04,Chelsea,Nottingham Forest,6.5,24,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,3,4,,
+Filip Jørgensen,24,2026-05-09,Liverpool FC,Chelsea,6.5,90,,,0.0,0,0,0.0,0.0,19,36,0,0,0,0,8,48,,

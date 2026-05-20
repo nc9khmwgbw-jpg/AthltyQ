@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Peque Fernández,2025-12-17,Deportivo Alavés,Sevilla,6.5,80,8640.0,16.0,108.0,0,0,0.0,0.0,16,20,2,0,1,0,2,29,0,1.85,23
-Peque Fernández,2025-12-20,Real Madrid,Sevilla,6.3,20,2160.0,4.0,108.0,0,0,0.27,0.01,9,10,1,0,0,0,0,14,0,1.85,23
-Peque Fernández,2026-01-04,Sevilla,Levante UD,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.17,20,21,1,0,0,0,1,29,0,1.85,23
-Peque Fernández,2026-01-12,Sevilla,Celta Vigo,7.7,59,6372.0,12.0,108.0,0,0,0.0,0.05,22,28,1,0,0,0,3,39,0,1.88,23
-Peque Fernández,2026-01-19,Elche,Sevilla,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,4,5,0,0,0,0,2,20,0,1.85,23
-Peque Fernández,2026-01-24,Sevilla,Athletic Club,7.8,81,8748.0,16.0,108.0,1,0,0.17,0.01,13,16,1,0,1,0,3,35,0,1.83,23
-Peque Fernández,2026-02-02,Mallorca,Sevilla,6.6,60,6480.0,12.0,108.0,0,0,0.0,0.03,21,23,1,0,0,0,1,34,0,1.85,23
-Peque Fernández,2026-02-08,Sevilla,Girona FC,6.9,45,4860.0,9.0,108.0,0,0,0.05,0.01,14,16,0,0,0,0,2,26,0,1.85,23
-Peque Fernández,2026-02-14,Sevilla,Deportivo Alavés,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,1,3,0,2.06,23
-Peque Fernández,2026-02-22,Getafe,Sevilla,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,2,0,2.06,23
-Peque Fernández,2026-03-01,Real Betis,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Peque Fernández,2026-04-05,Real Oviedo,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Peque Fernández,2026-04-11,Sevilla,Atlético Madrid,6.9,20,2160.0,4.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,10,0,1.85,23
-Peque Fernández,2026-04-23,Levante UD,Sevilla,6.8,19,2052.0,4.0,108.0,0,0,0.0,0.01,6,8,0,0,0,0,1,12,0,1.95,23
-Peque Fernández,2026-04-26,Osasuna,Sevilla,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.0,1,3,0,0,0,0,1,3,0,1.98,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Peque Fernández,23,2025-12-17,Deportivo Alavés,Sevilla,6.5,80,8640.0,16.0,108.0,0,0,0.0,0.0,16,20,2,0,1,0,2,29,0.0,1.85
+Peque Fernández,23,2025-12-20,Real Madrid,Sevilla,6.3,20,2160.0,4.0,108.0,0,0,0.27,0.01,9,10,1,0,0,0,0,14,0.0,1.85
+Peque Fernández,23,2026-01-04,Sevilla,Levante UD,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.17,20,21,1,0,0,0,1,29,0.0,1.85
+Peque Fernández,23,2026-01-12,Sevilla,Celta Vigo,7.7,59,6372.0,12.0,108.0,0,0,0.0,0.05,22,28,1,0,0,0,3,39,0.0,1.88
+Peque Fernández,23,2026-01-19,Elche,Sevilla,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,4,5,0,0,0,0,2,20,0.0,1.85
+Peque Fernández,23,2026-01-24,Sevilla,Athletic Club,7.8,81,8748.0,16.0,108.0,1,0,0.17,0.01,13,16,1,0,1,0,3,35,0.0,1.83
+Peque Fernández,23,2026-02-02,Mallorca,Sevilla,6.6,60,6480.0,12.0,108.0,0,0,0.0,0.03,21,23,1,0,0,0,1,34,0.0,1.85
+Peque Fernández,23,2026-02-08,Sevilla,Girona FC,6.9,45,4860.0,9.0,108.0,0,0,0.05,0.01,14,16,0,0,0,0,2,26,0.0,1.85
+Peque Fernández,23,2026-02-14,Sevilla,Deportivo Alavés,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,1,3,0.0,2.06
+Peque Fernández,23,2026-02-22,Getafe,Sevilla,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,2,0.0,2.06
+Peque Fernández,23,2026-03-01,Real Betis,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Peque Fernández,23,2026-04-05,Real Oviedo,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Peque Fernández,23,2026-04-11,Sevilla,Atlético Madrid,6.9,20,2160.0,4.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,10,0.0,1.85
+Peque Fernández,23,2026-04-23,Levante UD,Sevilla,6.8,19,2052.0,4.0,108.0,0,0,0.0,0.01,6,8,0,0,0,0,1,12,0.0,1.95
+Peque Fernández,23,2026-04-26,Osasuna,Sevilla,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.0,1,3,0,0,0,0,1,3,0.0,1.98
+Peque Fernández,23,2026-05-04,Sevilla,Real Sociedad,,1,,,0.0,0,0,0.0,0.0,1,1,0,0,0,0,1,1,,
+Peque Fernández,23,2026-05-09,Sevilla,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Peque Fernández,23,2026-05-13,Villarreal,Sevilla,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

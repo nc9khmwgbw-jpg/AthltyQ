@@ -1,12 +1,14 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Kaye Furo,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-02-12,Brentford,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-02-16,Macclesfield FC,Brentford,6.5,71,7668.0,14.0,108.0,0,0,0.0,0.0,4,10,0,0,0,0,0,22,0,1.83,19
-Kaye Furo,2026-02-21,Brentford,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-03-09,West Ham United,Brentford,6.6,15,1620.0,3.0,108.0,0,0,0.0,0.0,0,3,0,0,0,0,0,9,0,1.85,19
-Kaye Furo,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Kaye Furo,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kaye Furo,19,2026-01-17,Chelsea,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-02-07,Newcastle United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-02-12,Brentford,Arsenal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-02-16,Macclesfield FC,Brentford,6.5,71,7668.0,14.0,108.0,0,0,0.0,0.0,4,10,0,0,0,0,0,22,0.0,1.83
+Kaye Furo,19,2026-02-21,Brentford,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-02-28,Burnley,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-03-03,Bournemouth,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-03-09,West Ham United,Brentford,6.6,15,1620.0,3.0,108.0,0,0,0.0,0.0,0,3,0,0,0,0,0,9,0.0,1.85
+Kaye Furo,19,2026-03-16,Brentford,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-03-21,Leeds United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-04-27,Manchester United,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kaye Furo,19,2026-05-02,Brentford,West Ham United,6.4,9,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,3,,
+Kaye Furo,19,2026-05-09,Manchester City,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

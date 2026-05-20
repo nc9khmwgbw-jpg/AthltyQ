@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Chancel Mbemba,2026-02-06,Metz,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Chancel Mbemba,2026-02-14,Lille,Stade Brestois,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.02,82,89,0,0,2,0,4,103,0,1.85,31
-Chancel Mbemba,2026-02-19,Lille,FK Crvena zvezda,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Chancel Mbemba,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Chancel Mbemba,2026-02-26,FK Crvena zvezda,Lille,7.6,120,12960.0,24.0,108.0,0,0,0.0,0.0,37,45,1,0,2,0,3,67,0,1.85,31
-Chancel Mbemba,2026-03-01,Lille,Nantes,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,74,78,1,0,2,0,1,92,0,1.85,31
-Chancel Mbemba,2026-03-08,Lille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Chancel Mbemba,2026-03-12,Lille,Aston Villa,6.7,90,9720.0,18.0,108.0,0,0,0.03,0.01,43,50,0,0,1,0,2,65,0,1.85,31
-Chancel Mbemba,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Chancel Mbemba,2026-03-19,Aston Villa,Lille,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,54,59,0,0,5,0,5,76,0,1.85,31
-Chancel Mbemba,2026-03-22,Olympique de Marseille,Lille,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Chancel Mbemba,2026-03-31,DR Congo,Jamaica,7.4,120,12960.0,24.0,108.0,0,0,0.0,0.0,43,58,1,0,0,0,6,75,0,1.85,31
-Chancel Mbemba,2026-04-12,Toulouse,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Chancel Mbemba,2026-04-18,Lille,Nice,7.3,90,9720.0,18.0,108.0,0,0,0.09,0.03,61,64,0,0,2,0,4,75,0,1.85,31
-Chancel Mbemba,2026-04-26,Paris FC,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Chancel Mbemba,31,2026-02-06,Metz,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-02-14,Lille,Stade Brestois,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.02,82,89,0,0,2,0,4,103,0.0,1.85
+Chancel Mbemba,31,2026-02-19,Lille,FK Crvena zvezda,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-02-26,FK Crvena zvezda,Lille,7.6,120,12960.0,24.0,108.0,0,0,0.0,0.0,37,45,1,0,2,0,3,67,0.0,1.85
+Chancel Mbemba,31,2026-03-01,Lille,Nantes,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,74,78,1,0,2,0,1,92,0.0,1.85
+Chancel Mbemba,31,2026-03-08,Lille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-03-12,Lille,Aston Villa,6.7,90,9720.0,18.0,108.0,0,0,0.03,0.01,43,50,0,0,1,0,2,65,0.0,1.85
+Chancel Mbemba,31,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-03-19,Aston Villa,Lille,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,54,59,0,0,5,0,5,76,0.0,1.85
+Chancel Mbemba,31,2026-03-22,Olympique de Marseille,Lille,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-03-31,DR Congo,Jamaica,7.4,120,12960.0,24.0,108.0,0,0,0.0,0.0,43,58,1,0,0,0,6,75,0.0,1.85
+Chancel Mbemba,31,2026-04-12,Toulouse,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-04-18,Lille,Nice,7.3,90,9720.0,18.0,108.0,0,0,0.09,0.03,61,64,0,0,2,0,4,75,0.0,1.85
+Chancel Mbemba,31,2026-04-26,Paris FC,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Chancel Mbemba,31,2026-05-03,Lille,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Chancel Mbemba,31,2026-05-10,AS Monaco,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

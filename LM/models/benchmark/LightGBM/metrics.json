@@ -1,0 +1,72 @@
+{
+    "model": "LightGBM",
+    "R2_train": 0.5622,
+    "R2_test": 0.2905,
+    "MAE": 11.9335,
+    "RMSE": 15.3971,
+    "overfit_gap": 0.2717,
+    "cv_r2_mean": 0.2733,
+    "cv_r2_std": 0.0165,
+    "cv_mae_mean": 12.2341,
+    "cv_rmse_mean": 15.7803,
+    "best_params": {
+        "n_estimators": 949,
+        "learning_rate": 0.005124292393125342,
+        "num_leaves": 103,
+        "min_child_samples": 6,
+        "reg_alpha": 1.3523934867765392e-08,
+        "reg_lambda": 1.475649304728376,
+        "subsample": 0.98289995761565,
+        "colsample_bytree": 0.8382089237843752,
+        "max_depth": -1
+    },
+    "optuna_best_cv_r2": 0.2656,
+    "n_estimators_used": 949,
+    "residuals_mean": -0.6515,
+    "residuals_std": 15.3833,
+    "pct_within_10": 52.53,
+    "top_features": [
+        {
+            "feature": "Days_Since_Last",
+            "shap_importance": 2.512713
+        },
+        {
+            "feature": "Rating_MA15",
+            "shap_importance": 2.34035
+        },
+        {
+            "feature": "Jours_Depuis_Blessure",
+            "shap_importance": 0.81202
+        },
+        {
+            "feature": "Match_Num",
+            "shap_importance": 0.77505
+        },
+        {
+            "feature": "Chronic_Workload",
+            "shap_importance": 0.755243
+        },
+        {
+            "feature": "Weighted_Minutes",
+            "shap_importance": 0.740092
+        },
+        {
+            "feature": "Season_Momentum_Trend",
+            "shap_importance": 0.686423
+        },
+        {
+            "feature": "Rating_MA15_Lag1",
+            "shap_importance": 0.581155
+        },
+        {
+            "feature": "Acute_Workload",
+            "shap_importance": 0.566443
+        },
+        {
+            "feature": "Comp_Weight",
+            "shap_importance": 0.443441
+        }
+    ],
+    "shap_available": true,
+    "train_time_s": 42.76
+}

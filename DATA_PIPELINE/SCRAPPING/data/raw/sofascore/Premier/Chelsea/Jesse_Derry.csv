@@ -1,5 +1,7 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jesse Derry,2026-02-13,Hull City,Chelsea,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,0,11,0,2.14,18
-Jesse Derry,2026-03-07,Wrexham,Chelsea,6.6,20,2160.0,4.0,108.0,0,0,0.0,0.0,7,9,0,0,0,0,0,17,0,1.85,18
-Jesse Derry,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
-Jesse Derry,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,18
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jesse Derry,18,2026-02-13,Hull City,Chelsea,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,0,11,0.0,2.14
+Jesse Derry,18,2026-03-07,Wrexham,Chelsea,6.6,20,2160.0,4.0,108.0,0,0,0.0,0.0,7,9,0,0,0,0,0,17,0.0,1.85
+Jesse Derry,18,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesse Derry,18,2026-04-26,Chelsea,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jesse Derry,18,2026-05-01,Chelsea U21,Tottenham U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jesse Derry,18,2026-05-04,Chelsea,Nottingham Forest,6.7,44,,,0.0,0,0,0.1,0.02,12,13,0,0,0,0,2,25,,

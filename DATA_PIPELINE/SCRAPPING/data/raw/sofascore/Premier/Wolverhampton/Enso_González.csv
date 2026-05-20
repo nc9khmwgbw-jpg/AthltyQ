@@ -1,5 +1,9 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Enso González,2025-12-20,Wolverhampton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Enso González,2025-12-27,Liverpool,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Enso González,2025-12-30,Manchester United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
-Enso González,2026-01-03,Wolverhampton,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,21
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Enso González,21,2025-12-20,Wolverhampton,Brentford,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Enso González,21,2025-12-27,Liverpool,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Enso González,21,2025-12-30,Manchester United,Wolverhampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Enso González,21,2026-01-03,Wolverhampton,West Ham United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Enso González,21,2026-01-12,Wolverhampton U21,Manchester United U21,,64,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Enso González,21,2026-01-16,Norwich City U21,Wolverhampton U21,,76,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Enso González,21,2026-01-26,Wolverhampton U21,Sunderland U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Enso González,21,2026-02-07,Wolverhampton U21,Ipswich Town U21,,45,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,,

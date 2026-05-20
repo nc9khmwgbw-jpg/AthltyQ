@@ -1,16 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jon Karrikaburu,2025-12-12,Real Sociedad,Girona FC,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,4,7,0,0,0,0,1,13,0,1.85,23
-Jon Karrikaburu,2025-12-16,CD Eldense,Real Sociedad,6.3,24,2592.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,1,9,0,1.93,23
-Jon Karrikaburu,2026-01-18,Real Sociedad,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-01-25,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-02-01,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-02-14,Real Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-02-28,Mallorca,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-03-15,Real Sociedad,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-03-20,Villarreal,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-04-04,Real Sociedad,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Jon Karrikaburu,2026-04-22,Real Sociedad,Getafe,6.7,9,972.0,2.0,108.0,0,0,0.01,0.0,0,0,0,0,0,0,0,2,0,2.06,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jon Karrikaburu,23,2025-12-12,Real Sociedad,Girona FC,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,4,7,0,0,0,0,1,13,0.0,1.85
+Jon Karrikaburu,23,2025-12-16,CD Eldense,Real Sociedad,6.3,24,2592.0,5.0,108.0,0,0,0.0,0.0,3,5,0,0,0,0,1,9,0.0,1.93
+Jon Karrikaburu,23,2026-01-18,Real Sociedad,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-01-25,Real Sociedad,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-02-01,Athletic Club,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-02-14,Real Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-02-21,Real Sociedad,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-02-28,Mallorca,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-03-07,Atlético Madrid,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-03-15,Real Sociedad,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-03-20,Villarreal,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-04-04,Real Sociedad,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jon Karrikaburu,23,2026-04-22,Real Sociedad,Getafe,6.7,9,972.0,2.0,108.0,0,0,0.01,0.0,0,0,0,0,0,0,0,2,0.0,2.06
+Jon Karrikaburu,23,2026-05-14,Girona FC,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

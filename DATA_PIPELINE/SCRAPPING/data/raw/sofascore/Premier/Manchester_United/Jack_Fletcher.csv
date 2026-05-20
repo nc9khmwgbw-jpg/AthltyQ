@@ -1,7 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Jack Fletcher,2025-12-26,Manchester United,Newcastle United,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,7,9,1,0,1,0,0,14,0,1.85,19
-Jack Fletcher,2025-12-30,Manchester United,Wolverhampton,6.6,45,4860.0,9.0,108.0,0,0,0.03,0.03,24,28,1,0,0,0,3,36,0,1.85,19
-Jack Fletcher,2026-01-04,Leeds United,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Jack Fletcher,2026-01-07,Burnley,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Jack Fletcher,2026-01-11,Manchester United,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Jack Fletcher,2026-01-17,Manchester United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Jack Fletcher,19,2025-12-26,Manchester United,Newcastle United,6.5,45,4860.0,9.0,108.0,0,0,0.0,0.0,7,9,1,0,1,0,0,14,0.0,1.85
+Jack Fletcher,19,2025-12-30,Manchester United,Wolverhampton,6.6,45,4860.0,9.0,108.0,0,0,0.03,0.03,24,28,1,0,0,0,3,36,0.0,1.85
+Jack Fletcher,19,2026-01-04,Leeds United,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jack Fletcher,19,2026-01-07,Burnley,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jack Fletcher,19,2026-01-11,Manchester United,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jack Fletcher,19,2026-01-17,Manchester United,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Jack Fletcher,19,2026-01-20,Manchester United U21,Sporting CP B U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-02-02,West Bromwich Albion U21,Manchester United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-03-13,Manchester United U21,Southampton U21,,84,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-03-20,Reading U21,Manchester United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-04-03,Leeds United U21,Manchester United U21,,90,,,0.0,2,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-04-07,Manchester United U21,Real Madrid Castilla U21,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-04-10,Manchester United U21,Newcastle United U21,,46,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-04-26,Manchester United U21,Sunderland U21,,90,,,0.0,1,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-05-04,Crystal Palace U21,Manchester United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-05-08,Manchester City U21,Manchester United U21,,90,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Jack Fletcher,19,2026-05-09,Sunderland,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

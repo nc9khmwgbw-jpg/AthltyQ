@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Tijjani Noslin,26,2026-05-09,Lazio,Inter,7.4,90,,,0.0,0,0,0.22,0.04,26,29,1,0,0,0,1,50
-Tijjani Noslin,26,2026-05-04,Cremonese,Lazio,8.0,45,,,0.0,1,0,0.07,0.26,9,11,1,0,0,0,1,21
-Tijjani Noslin,26,2026-04-27,Lazio,Udinese,6.6,76,,,0.0,0,0,0.76,0.15,21,27,1,0,0,0,2,45
-Tijjani Noslin,26,2026-04-22,Atalanta,Lazio,6.1,120,,,0.0,0,0,0.0,0.0,27,37,0,0,0,0,4,60
-Tijjani Noslin,26,2026-04-18,SSC Napoli,Lazio,7.6,90,,,0.0,0,0,0.3,0.01,12,22,0,0,0,0,4,44
-Tijjani Noslin,26,2026-04-13,Fiorentina,Lazio,6.3,45,,,0.0,0,0,0.31,0.1,19,21,1,0,1,0,2,39
-Tijjani Noslin,26,2026-04-04,Lazio,Parma,7.5,32,,,0.0,1,0,0.1,0.01,14,17,0,0,1,0,1,23
-Tijjani Noslin,26,2026-03-22,Bologna,Lazio,6.8,45,,,0.0,0,0,0.0,0.01,11,12,1,0,0,0,2,18
-Tijjani Noslin,26,2026-03-15,Lazio,Milan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tijjani Noslin,26,2026-03-09,Lazio,Sassuolo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Tijjani Noslin,26,2026-03-04,Lazio,Atalanta,6.6,14,,,0.0,0,0,0.0,0.0,10,11,0,0,0,0,1,13
-Tijjani Noslin,26,2026-03-01,Torino,Lazio,6.2,45,,,0.0,0,0,0.35,0.01,9,13,0,0,0,0,1,20
-Tijjani Noslin,26,2026-02-21,Cagliari,Lazio,6.8,11,,,0.0,0,0,0.0,0.02,12,12,0,0,0,0,1,14
-Tijjani Noslin,26,2026-02-14,Lazio,Atalanta,7.3,67,,,0.0,0,0,0.06,0.14,18,24,2,0,0,0,2,35
 Tijjani Noslin,26,2026-02-11,Bologna,Lazio,7.1,46,,,0.0,1,0,0.0,0.0,20,24,0,0,0,0,2,38
+Tijjani Noslin,26,2026-02-14,Lazio,Atalanta,7.3,67,,,0.0,0,0,0.06,0.14,18,24,2,0,0,0,2,35
+Tijjani Noslin,26,2026-02-21,Cagliari,Lazio,6.8,11,,,0.0,0,0,0.0,0.02,12,12,0,0,0,0,1,14
+Tijjani Noslin,26,2026-03-01,Torino,Lazio,6.2,45,,,0.0,0,0,0.35,0.01,9,13,0,0,0,0,1,20
+Tijjani Noslin,26,2026-03-04,Lazio,Atalanta,6.6,14,,,0.0,0,0,0.0,0.0,10,11,0,0,0,0,1,13
+Tijjani Noslin,26,2026-03-09,Lazio,Sassuolo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tijjani Noslin,26,2026-03-15,Lazio,Milan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Tijjani Noslin,26,2026-03-22,Bologna,Lazio,6.8,45,,,0.0,0,0,0.0,0.01,11,12,1,0,0,0,2,18
+Tijjani Noslin,26,2026-04-04,Lazio,Parma,7.5,32,,,0.0,1,0,0.1,0.01,14,17,0,0,1,0,1,23
+Tijjani Noslin,26,2026-04-13,Fiorentina,Lazio,6.3,45,,,0.0,0,0,0.31,0.1,19,21,1,0,1,0,2,39
+Tijjani Noslin,26,2026-04-18,SSC Napoli,Lazio,7.6,90,,,0.0,0,0,0.3,0.01,12,22,0,0,0,0,4,44
+Tijjani Noslin,26,2026-04-22,Atalanta,Lazio,6.1,120,,,0.0,0,0,0.0,0.0,27,37,0,0,0,0,4,60
+Tijjani Noslin,26,2026-04-27,Lazio,Udinese,6.6,76,,,0.0,0,0,0.76,0.15,21,27,1,0,0,0,2,45
+Tijjani Noslin,26,2026-05-04,Cremonese,Lazio,8.0,45,,,0.0,1,0,0.07,0.26,9,11,1,0,0,0,1,21
+Tijjani Noslin,26,2026-05-09,Lazio,Inter,7.4,90,,,0.0,0,0,0.22,0.04,26,29,1,0,0,0,1,50
+Tijjani Noslin,26,2026-05-13,Lazio,Inter,6.5,90,,,0.0,0,0,0.0,0.0,20,21,0,0,1,0,0,43

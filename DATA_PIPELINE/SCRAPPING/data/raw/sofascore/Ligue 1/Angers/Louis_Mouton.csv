@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Louis Mouton,2026-01-10,Angers,Toulouse,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,34,1,0,0,0,1,46,0,1.85,23
-Louis Mouton,2026-01-17,Angers,Olympique de Marseille,6.7,76,8208.0,15.0,108.0,0,0,0.06,0.01,27,32,0,0,1,0,1,46,0,1.83,23
-Louis Mouton,2026-01-25,Paris FC,Angers,6.6,90,9720.0,18.0,108.0,0,0,0.04,0.0,20,30,0,0,2,0,4,43,0,1.85,23
-Louis Mouton,2026-02-01,Angers,Metz,7.5,90,9720.0,18.0,108.0,1,0,0.47,0.23,40,47,3,0,0,0,3,62,0,1.85,23
-Louis Mouton,2026-02-08,Angers,Toulouse,7.2,89,9612.0,18.0,108.0,0,0,0.11,0.02,21,28,2,0,1,0,4,45,0,1.87,23
-Louis Mouton,2026-02-15,Lorient,Angers,6.1,75,8100.0,15.0,108.0,0,0,0.0,0.01,17,27,0,0,1,0,1,33,0,1.85,23
-Louis Mouton,2026-02-22,Angers,Lille,6.4,78,8424.0,16.0,108.0,0,0,0.15,0.01,24,31,0,0,1,0,2,39,0,1.9,23
-Louis Mouton,2026-02-28,AS Monaco,Angers,6.3,69,7452.0,14.0,108.0,0,0,0.0,0.0,11,18,0,0,2,0,6,29,0,1.88,23
-Louis Mouton,2026-03-07,Nantes,Angers,,3,324.0,1.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0,3.09,23
-Louis Mouton,2026-03-14,Angers,Nice,6.2,26,2808.0,5.0,108.0,0,0,0.06,0.0,5,5,0,0,0,0,0,16,0,1.78,23
-Louis Mouton,2026-03-20,RC Lens,Angers,6.0,58,6264.0,12.0,108.0,0,0,0.25,0.09,20,27,1,0,0,0,2,42,0,1.92,23
-Louis Mouton,2026-04-05,Angers,Olympique Lyonnais,6.4,1,108.0,0.0,108.0,0,0,0.0,0.03,2,3,0,0,0,0,1,7,0,0.0,23
-Louis Mouton,2026-04-11,Stade Rennais,Angers,6.3,62,6696.0,12.0,108.0,0,0,0.0,0.02,11,14,0,0,2,0,3,22,0,1.79,23
-Louis Mouton,2026-04-18,Angers,Le Havre,6.3,17,1836.0,3.0,108.0,0,0,0.0,0.0,5,5,0,0,0,0,0,7,0,1.63,23
-Louis Mouton,2026-04-25,Angers,Paris Saint-Germain,6.9,17,1836.0,3.0,108.0,0,0,0.0,0.11,15,16,1,0,0,0,1,22,0,1.63,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Louis Mouton,23,2026-01-10,Angers,Toulouse,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,34,1,0,0,0,1,46,0.0,1.85
+Louis Mouton,23,2026-01-17,Angers,Olympique de Marseille,6.7,76,8208.0,15.0,108.0,0,0,0.06,0.01,27,32,0,0,1,0,1,46,0.0,1.83
+Louis Mouton,23,2026-01-25,Paris FC,Angers,6.6,90,9720.0,18.0,108.0,0,0,0.04,0.0,20,30,0,0,2,0,4,43,0.0,1.85
+Louis Mouton,23,2026-02-01,Angers,Metz,7.5,90,9720.0,18.0,108.0,1,0,0.47,0.23,40,47,3,0,0,0,3,62,0.0,1.85
+Louis Mouton,23,2026-02-08,Angers,Toulouse,7.2,89,9612.0,18.0,108.0,0,0,0.11,0.02,21,28,2,0,1,0,4,45,0.0,1.87
+Louis Mouton,23,2026-02-15,Lorient,Angers,6.1,75,8100.0,15.0,108.0,0,0,0.0,0.01,17,27,0,0,1,0,1,33,0.0,1.85
+Louis Mouton,23,2026-02-22,Angers,Lille,6.4,78,8424.0,16.0,108.0,0,0,0.15,0.01,24,31,0,0,1,0,2,39,0.0,1.9
+Louis Mouton,23,2026-02-28,AS Monaco,Angers,6.3,69,7452.0,14.0,108.0,0,0,0.0,0.0,11,18,0,0,2,0,6,29,0.0,1.88
+Louis Mouton,23,2026-03-07,Nantes,Angers,,3,324.0,1.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0.0,3.09
+Louis Mouton,23,2026-03-14,Angers,Nice,6.2,26,2808.0,5.0,108.0,0,0,0.06,0.0,5,5,0,0,0,0,0,16,0.0,1.78
+Louis Mouton,23,2026-03-20,RC Lens,Angers,6.0,58,6264.0,12.0,108.0,0,0,0.25,0.09,20,27,1,0,0,0,2,42,0.0,1.92
+Louis Mouton,23,2026-04-05,Angers,Olympique Lyonnais,6.4,1,108.0,0.0,108.0,0,0,0.0,0.03,2,3,0,0,0,0,1,7,0.0,0.0
+Louis Mouton,23,2026-04-11,Stade Rennais,Angers,6.3,62,6696.0,12.0,108.0,0,0,0.0,0.02,11,14,0,0,2,0,3,22,0.0,1.79
+Louis Mouton,23,2026-04-18,Angers,Le Havre,6.3,17,1836.0,3.0,108.0,0,0,0.0,0.0,5,5,0,0,0,0,0,7,0.0,1.63
+Louis Mouton,23,2026-04-25,Angers,Paris Saint-Germain,6.9,17,1836.0,3.0,108.0,0,0,0.0,0.11,15,16,1,0,0,0,1,22,0.0,1.63
+Louis Mouton,23,2026-05-03,Auxerre,Angers,6.8,28,,,0.0,0,0,0.0,0.12,14,16,2,0,0,0,2,23,,
+Louis Mouton,23,2026-05-10,Angers,RC Strasbourg,6.7,61,,,0.0,0,0,0.12,0.01,15,22,0,0,0,0,7,31,,

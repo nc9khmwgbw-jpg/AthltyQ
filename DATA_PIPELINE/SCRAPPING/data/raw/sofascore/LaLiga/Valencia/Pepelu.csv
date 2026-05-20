@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Pepelu,2026-01-18,Getafe,Valencia,7.3,90,9720.0,18.0,108.0,0,0,0.22,0.06,29,36,0,0,0,0,5,52,0,1.85,27
-Pepelu,2026-01-24,Valencia,Espanyol,7.0,88,9504.0,18.0,108.0,0,0,0.0,0.02,34,43,0,0,1,0,9,57,0,1.89,27
-Pepelu,2026-02-01,Real Betis,Valencia,5.8,72,7776.0,14.0,108.0,0,0,0.79,0.02,43,49,1,0,2,0,5,58,0,1.8,27
-Pepelu,2026-02-04,Valencia,Athletic Club,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,56,1,0,0,0,6,70,0,1.85,27
-Pepelu,2026-02-08,Valencia,Real Madrid,6.9,72,7776.0,14.0,108.0,0,0,0.03,0.01,28,35,1,0,2,0,7,48,0,1.8,27
-Pepelu,2026-02-15,Levante UD,Valencia,6.7,58,6264.0,12.0,108.0,0,0,0.0,0.14,29,34,1,0,0,0,1,39,0,1.92,27
-Pepelu,2026-02-22,Villarreal,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Pepelu,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Pepelu,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Pepelu,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Pepelu,2026-03-21,Sevilla,Valencia,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,2,0,0.0,27
-Pepelu,2026-04-05,Valencia,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,27
-Pepelu,2026-04-11,Elche,Valencia,6.9,15,1620.0,3.0,108.0,0,0,0.0,0.03,12,14,0,0,0,0,3,16,0,1.85,27
-Pepelu,2026-04-21,Mallorca,Valencia,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,32,38,0,0,0,0,6,50,0,1.85,27
-Pepelu,2026-04-25,Valencia,Girona FC,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.01,33,35,0,0,1,0,3,47,0,1.85,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Pepelu,27,2026-01-18,Getafe,Valencia,7.3,90,9720.0,18.0,108.0,0,0,0.22,0.06,29,36,0,0,0,0,5,52,0.0,1.85
+Pepelu,27,2026-01-24,Valencia,Espanyol,7.0,88,9504.0,18.0,108.0,0,0,0.0,0.02,34,43,0,0,1,0,9,57,0.0,1.89
+Pepelu,27,2026-02-01,Real Betis,Valencia,5.8,72,7776.0,14.0,108.0,0,0,0.79,0.02,43,49,1,0,2,0,5,58,0.0,1.8
+Pepelu,27,2026-02-04,Valencia,Athletic Club,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,40,56,1,0,0,0,6,70,0.0,1.85
+Pepelu,27,2026-02-08,Valencia,Real Madrid,6.9,72,7776.0,14.0,108.0,0,0,0.03,0.01,28,35,1,0,2,0,7,48,0.0,1.8
+Pepelu,27,2026-02-15,Levante UD,Valencia,6.7,58,6264.0,12.0,108.0,0,0,0.0,0.14,29,34,1,0,0,0,1,39,0.0,1.92
+Pepelu,27,2026-02-22,Villarreal,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pepelu,27,2026-03-01,Valencia,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pepelu,27,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pepelu,27,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pepelu,27,2026-03-21,Sevilla,Valencia,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,2,0.0,0.0
+Pepelu,27,2026-04-05,Valencia,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Pepelu,27,2026-04-11,Elche,Valencia,6.9,15,1620.0,3.0,108.0,0,0,0.0,0.03,12,14,0,0,0,0,3,16,0.0,1.85
+Pepelu,27,2026-04-21,Mallorca,Valencia,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,32,38,0,0,0,0,6,50,0.0,1.85
+Pepelu,27,2026-04-25,Valencia,Girona FC,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.01,33,35,0,0,1,0,3,47,0.0,1.85
+Pepelu,27,2026-05-02,Valencia,Atlético Madrid,6.9,90,,,0.0,0,0,0.0,0.01,57,63,0,0,3,0,2,75,,
+Pepelu,27,2026-05-10,Athletic Club,Valencia,6.4,70,,,0.0,0,0,0.0,0.0,25,33,0,0,0,0,7,41,,
+Pepelu,27,2026-05-14,Valencia,Rayo Vallecano,6.8,61,,,0.0,0,0,0.04,0.01,36,39,1,0,0,0,5,44,,

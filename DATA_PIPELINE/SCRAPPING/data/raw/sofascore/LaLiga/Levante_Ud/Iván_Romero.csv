@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Iván Romero,2026-01-11,Levante UD,Espanyol,7.3,88,9504.0,18.0,108.0,0,0,0.16,0.04,23,29,1,0,1,0,4,47,0,1.89,25
-Iván Romero,2026-01-17,Real Madrid,Levante UD,6.6,83,8964.0,17.0,108.0,0,0,0.15,0.02,17,24,0,0,1,0,9,44,0,1.9,25
-Iván Romero,2026-01-23,Levante UD,Elche,7.2,90,9720.0,18.0,108.0,0,0,0.39,0.1,20,27,1,0,2,0,4,56,0,1.85,25
-Iván Romero,2026-01-31,Levante UD,Atlético Madrid,6.3,89,9612.0,18.0,108.0,0,0,0.02,0.02,12,19,1,0,0,0,1,39,0,1.87,25
-Iván Romero,2026-02-08,Athletic Club,Levante UD,6.3,65,7020.0,13.0,108.0,0,0,0.38,0.01,16,21,0,0,0,0,5,34,0,1.85,25
-Iván Romero,2026-02-15,Levante UD,Valencia,6.6,69,7452.0,14.0,108.0,0,0,0.25,0.01,11,14,0,0,0,0,2,19,0,1.88,25
-Iván Romero,2026-02-18,Levante UD,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Iván Romero,2026-02-22,FC Barcelona,Levante UD,7.2,70,7560.0,14.0,108.0,0,0,0.0,0.27,13,17,2,0,1,0,2,30,0,1.85,25
-Iván Romero,2026-02-27,Levante UD,Deportivo Alavés,6.5,79,8532.0,16.0,108.0,0,0,0.15,0.03,7,7,1,0,0,0,1,30,0,1.88,25
-Iván Romero,2026-03-07,Levante UD,Girona FC,7.0,66,7128.0,13.0,108.0,0,0,0.1,0.09,12,14,2,0,0,0,0,28,0,1.82,25
-Iván Romero,2026-03-16,Rayo Vallecano,Levante UD,7.1,74,7992.0,15.0,108.0,0,0,0.19,0.16,19,26,3,0,0,0,6,54,0,1.88,25
-Iván Romero,2026-03-21,Levante UD,Real Oviedo,8.0,15,1620.0,3.0,108.0,1,0,0.34,0.02,5,8,1,0,0,0,4,21,0,1.85,25
-Iván Romero,2026-04-04,Real Sociedad,Levante UD,6.5,31,3348.0,6.0,108.0,0,0,0.02,0.05,4,5,1,0,0,0,2,17,0,1.79,25
-Iván Romero,2026-04-13,Levante UD,Getafe,6.8,90,9720.0,18.0,108.0,0,0,0.86,0.09,16,32,0,0,2,0,6,61,0,1.85,25
-Iván Romero,2026-04-23,Levante UD,Sevilla,8.7,90,9720.0,18.0,108.0,2,0,0.95,0.02,19,23,1,0,1,0,4,49,0,1.85,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Iván Romero,25,2026-01-11,Levante UD,Espanyol,7.3,88,9504.0,18.0,108.0,0,0,0.16,0.04,23,29,1,0,1,0,4,47,0.0,1.89
+Iván Romero,25,2026-01-17,Real Madrid,Levante UD,6.6,83,8964.0,17.0,108.0,0,0,0.15,0.02,17,24,0,0,1,0,9,44,0.0,1.9
+Iván Romero,25,2026-01-23,Levante UD,Elche,7.2,90,9720.0,18.0,108.0,0,0,0.39,0.1,20,27,1,0,2,0,4,56,0.0,1.85
+Iván Romero,25,2026-01-31,Levante UD,Atlético Madrid,6.3,89,9612.0,18.0,108.0,0,0,0.02,0.02,12,19,1,0,0,0,1,39,0.0,1.87
+Iván Romero,25,2026-02-08,Athletic Club,Levante UD,6.3,65,7020.0,13.0,108.0,0,0,0.38,0.01,16,21,0,0,0,0,5,34,0.0,1.85
+Iván Romero,25,2026-02-15,Levante UD,Valencia,6.6,69,7452.0,14.0,108.0,0,0,0.25,0.01,11,14,0,0,0,0,2,19,0.0,1.88
+Iván Romero,25,2026-02-18,Levante UD,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Romero,25,2026-02-22,FC Barcelona,Levante UD,7.2,70,7560.0,14.0,108.0,0,0,0.0,0.27,13,17,2,0,1,0,2,30,0.0,1.85
+Iván Romero,25,2026-02-27,Levante UD,Deportivo Alavés,6.5,79,8532.0,16.0,108.0,0,0,0.15,0.03,7,7,1,0,0,0,1,30,0.0,1.88
+Iván Romero,25,2026-03-07,Levante UD,Girona FC,7.0,66,7128.0,13.0,108.0,0,0,0.1,0.09,12,14,2,0,0,0,0,28,0.0,1.82
+Iván Romero,25,2026-03-16,Rayo Vallecano,Levante UD,7.1,74,7992.0,15.0,108.0,0,0,0.19,0.16,19,26,3,0,0,0,6,54,0.0,1.88
+Iván Romero,25,2026-03-21,Levante UD,Real Oviedo,8.0,15,1620.0,3.0,108.0,1,0,0.34,0.02,5,8,1,0,0,0,4,21,0.0,1.85
+Iván Romero,25,2026-04-04,Real Sociedad,Levante UD,6.5,31,3348.0,6.0,108.0,0,0,0.02,0.05,4,5,1,0,0,0,2,17,0.0,1.79
+Iván Romero,25,2026-04-13,Levante UD,Getafe,6.8,90,9720.0,18.0,108.0,0,0,0.86,0.09,16,32,0,0,2,0,6,61,0.0,1.85
+Iván Romero,25,2026-04-23,Levante UD,Sevilla,8.7,90,9720.0,18.0,108.0,2,0,0.95,0.02,19,23,1,0,1,0,4,49,0.0,1.85
+Iván Romero,25,2026-05-02,Villarreal,Levante UD,6.5,45,,,0.0,0,0,0.03,0.01,6,11,0,0,0,0,0,29,,
+Iván Romero,25,2026-05-12,Celta Vigo,Levante UD,6.4,13,,,0.0,0,0,0.0,0.0,0,2,0,0,0,0,0,2,,

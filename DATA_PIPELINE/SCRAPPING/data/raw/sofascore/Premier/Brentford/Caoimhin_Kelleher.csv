@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Caoimhin Kelleher,2026-01-17,Chelsea,Brentford,5.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,30,0,0,0,0,6,34,0,1.85,27
-Caoimhin Kelleher,2026-01-25,Brentford,Nottingham Forest,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,20,22,0,0,0,0,5,25,0,1.85,27
-Caoimhin Kelleher,2026-02-01,Aston Villa,Brentford,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,48,0,0,0,0,9,56,0,1.85,27
-Caoimhin Kelleher,2026-02-07,Newcastle United,Brentford,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,42,0,0,0,0,6,47,0,1.85,27
-Caoimhin Kelleher,2026-02-12,Brentford,Arsenal,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,44,0,0,0,0,4,48,0,1.85,27
-Caoimhin Kelleher,2026-02-21,Brentford,Brighton & Hove Albion,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,36,0,0,0,0,8,48,0,1.85,27
-Caoimhin Kelleher,2026-03-03,Bournemouth,Brentford,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,45,0,0,0,0,7,54,0,1.85,27
-Caoimhin Kelleher,2026-03-09,West Ham United,Brentford,7.6,120,12960.0,24.0,108.0,0,0,0.0,0.0,28,33,0,0,0,0,8,47,0,1.85,27
-Caoimhin Kelleher,2026-03-16,Brentford,Wolverhampton,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.18,30,39,1,0,0,0,7,46,0,1.85,27
-Caoimhin Kelleher,2026-03-21,Leeds United,Brentford,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,37,0,0,0,0,12,51,0,1.85,27
-Caoimhin Kelleher,2026-03-26,Czechia,Ireland,6.5,120,12960.0,24.0,108.0,0,0,0.0,0.0,15,41,0,0,0,0,2,44,0,1.85,27
-Caoimhin Kelleher,2026-03-31,Ireland,North Macedonia,6.7,61,6588.0,12.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,2,22,0,1.82,27
-Caoimhin Kelleher,2026-04-11,Brentford,Everton,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,36,0,0,0,0,5,48,0,1.85,27
-Caoimhin Kelleher,2026-04-18,Brentford,Fulham,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,32,47,0,0,0,0,14,60,0,1.85,27
-Caoimhin Kelleher,2026-04-27,Manchester United,Brentford,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,22,0,0,0,0,7,29,0,1.85,27
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Caoimhin Kelleher,27,2026-01-17,Chelsea,Brentford,5.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,30,0,0,0,0,6,34,0.0,1.85
+Caoimhin Kelleher,27,2026-01-25,Brentford,Nottingham Forest,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,20,22,0,0,0,0,5,25,0.0,1.85
+Caoimhin Kelleher,27,2026-02-01,Aston Villa,Brentford,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,48,0,0,0,0,9,56,0.0,1.85
+Caoimhin Kelleher,27,2026-02-07,Newcastle United,Brentford,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,23,42,0,0,0,0,6,47,0.0,1.85
+Caoimhin Kelleher,27,2026-02-12,Brentford,Arsenal,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,44,0,0,0,0,4,48,0.0,1.85
+Caoimhin Kelleher,27,2026-02-21,Brentford,Brighton & Hove Albion,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,36,0,0,0,0,8,48,0.0,1.85
+Caoimhin Kelleher,27,2026-03-03,Bournemouth,Brentford,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,45,0,0,0,0,7,54,0.0,1.85
+Caoimhin Kelleher,27,2026-03-09,West Ham United,Brentford,7.6,120,12960.0,24.0,108.0,0,0,0.0,0.0,28,33,0,0,0,0,8,47,0.0,1.85
+Caoimhin Kelleher,27,2026-03-16,Brentford,Wolverhampton,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.18,30,39,1,0,0,0,7,46,0.0,1.85
+Caoimhin Kelleher,27,2026-03-21,Leeds United,Brentford,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,37,0,0,0,0,12,51,0.0,1.85
+Caoimhin Kelleher,27,2026-03-26,Czechia,Ireland,6.5,120,12960.0,24.0,108.0,0,0,0.0,0.0,15,41,0,0,0,0,2,44,0.0,1.85
+Caoimhin Kelleher,27,2026-03-31,Ireland,North Macedonia,6.7,61,6588.0,12.0,108.0,0,0,0.0,0.0,17,20,0,0,0,0,2,22,0.0,1.82
+Caoimhin Kelleher,27,2026-04-11,Brentford,Everton,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,27,36,0,0,0,0,5,48,0.0,1.85
+Caoimhin Kelleher,27,2026-04-18,Brentford,Fulham,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,32,47,0,0,0,0,14,60,0.0,1.85
+Caoimhin Kelleher,27,2026-04-27,Manchester United,Brentford,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,22,0,0,0,0,7,29,0.0,1.85
+Caoimhin Kelleher,27,2026-05-02,Brentford,West Ham United,7.4,90,,,0.0,0,0,0.0,0.0,28,37,0,0,0,0,8,49,,
+Caoimhin Kelleher,27,2026-05-09,Manchester City,Brentford,9.3,90,,,0.0,0,0,0.0,0.0,19,32,0,0,0,0,11,49,,

@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-William Osula,2026-02-18,Qarabağ FK,Newcastle United,6.7,22,2376.0,4.0,108.0,0,0,0.31,0.0,4,5,0,0,1,0,0,12,0,1.68,22
-William Osula,2026-02-21,Manchester City,Newcastle United,6.3,12,1296.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,1.54,22
-William Osula,2026-02-24,Newcastle United,Qarabağ FK,6.3,73,7884.0,15.0,108.0,0,0,0.28,0.0,2,3,0,0,0,0,0,14,0,1.9,22
-William Osula,2026-02-28,Newcastle United,Everton,6.5,11,1188.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,1.68,22
-William Osula,2026-03-04,Newcastle United,Manchester United,7.7,14,1512.0,3.0,108.0,1,0,0.05,0.0,3,3,0,0,0,0,2,6,0,1.98,22
-William Osula,2026-03-07,Newcastle United,Manchester City,6.7,63,6804.0,13.0,108.0,0,0,0.0,0.0,3,4,2,0,1,0,0,11,0,1.91,22
-William Osula,2026-03-10,Newcastle United,FC Barcelona,6.5,67,7236.0,13.0,108.0,0,0,0.25,0.0,4,5,0,0,0,0,1,19,0,1.8,22
-William Osula,2026-03-14,Chelsea,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-William Osula,2026-03-18,FC Barcelona,Newcastle United,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0,2.06,22
-William Osula,2026-03-22,Newcastle United,Sunderland,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.01,2,3,0,0,1,0,4,7,0,1.98,22
-William Osula,2026-03-26,Denmark,North Macedonia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-William Osula,2026-03-31,Czechia,Denmark,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-William Osula,2026-04-12,Crystal Palace,Newcastle United,7.6,84,9072.0,17.0,108.0,1,0,0.94,0.01,7,9,0,0,0,0,2,29,0,1.87,22
-William Osula,2026-04-18,Newcastle United,Bournemouth,7.4,90,9720.0,18.0,108.0,1,0,0.39,0.04,12,14,1,0,0,0,2,28,0,1.85,22
-William Osula,2026-04-25,Arsenal,Newcastle United,6.4,66,7128.0,13.0,108.0,0,0,0.0,0.05,2,4,2,0,0,0,1,12,0,1.82,22
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+William Osula,22,2026-02-18,Qarabağ FK,Newcastle United,6.7,22,2376.0,4.0,108.0,0,0,0.31,0.0,4,5,0,0,1,0,0,12,0.0,1.68
+William Osula,22,2026-02-21,Manchester City,Newcastle United,6.3,12,1296.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,1.54
+William Osula,22,2026-02-24,Newcastle United,Qarabağ FK,6.3,73,7884.0,15.0,108.0,0,0,0.28,0.0,2,3,0,0,0,0,0,14,0.0,1.9
+William Osula,22,2026-02-28,Newcastle United,Everton,6.5,11,1188.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0.0,1.68
+William Osula,22,2026-03-04,Newcastle United,Manchester United,7.7,14,1512.0,3.0,108.0,1,0,0.05,0.0,3,3,0,0,0,0,2,6,0.0,1.98
+William Osula,22,2026-03-07,Newcastle United,Manchester City,6.7,63,6804.0,13.0,108.0,0,0,0.0,0.0,3,4,2,0,1,0,0,11,0.0,1.91
+William Osula,22,2026-03-10,Newcastle United,FC Barcelona,6.5,67,7236.0,13.0,108.0,0,0,0.25,0.0,4,5,0,0,0,0,1,19,0.0,1.8
+William Osula,22,2026-03-14,Chelsea,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+William Osula,22,2026-03-18,FC Barcelona,Newcastle United,6.4,9,972.0,2.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,2,0.0,2.06
+William Osula,22,2026-03-22,Newcastle United,Sunderland,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.01,2,3,0,0,1,0,4,7,0.0,1.98
+William Osula,22,2026-03-26,Denmark,North Macedonia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+William Osula,22,2026-03-31,Czechia,Denmark,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+William Osula,22,2026-04-12,Crystal Palace,Newcastle United,7.6,84,9072.0,17.0,108.0,1,0,0.94,0.01,7,9,0,0,0,0,2,29,0.0,1.87
+William Osula,22,2026-04-18,Newcastle United,Bournemouth,7.4,90,9720.0,18.0,108.0,1,0,0.39,0.04,12,14,1,0,0,0,2,28,0.0,1.85
+William Osula,22,2026-04-25,Arsenal,Newcastle United,6.4,66,7128.0,13.0,108.0,0,0,0.0,0.05,2,4,2,0,0,0,1,12,0.0,1.82
+William Osula,22,2026-05-02,Newcastle United,Brighton & Hove Albion,7.7,68,,,0.0,1,0,0.78,0.31,1,1,1,0,0,0,0,11,,
+William Osula,22,2026-05-10,Nottingham Forest,Newcastle United,6.1,71,,,0.0,0,0,0.57,0.01,5,6,1,0,0,0,1,25,,

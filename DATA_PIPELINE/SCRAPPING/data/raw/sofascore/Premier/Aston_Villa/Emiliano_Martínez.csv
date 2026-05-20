@@ -1,16 +1,21 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Emiliano Martínez,2026-02-11,Aston Villa,Brighton & Hove Albion,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,38,55,0,0,0,0,17,73,0.0,1.85,33
-Emiliano Martínez,2026-02-14,Aston Villa,Newcastle United,6.4,46,4968.0,9.0,108.0,0,0,0.0,0.0,17,22,0,0,0,0,3,24,0.0,1.81,33
-Emiliano Martínez,2026-02-21,Aston Villa,Leeds United,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,26,0,0,0,0,3,34,0.0,1.85,33
-Emiliano Martínez,2026-02-27,Wolverhampton,Aston Villa,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,39,0,0,0,0,6,43,0.0,1.85,33
-Emiliano Martínez,2026-03-04,Aston Villa,Chelsea,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,32,38,1,0,0,0,11,51,0.0,1.85,33
-Emiliano Martínez,2026-03-12,Lille,Aston Villa,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,44,0,0,0,0,9,51,0.0,1.85,33
-Emiliano Martínez,2026-03-15,Manchester United,Aston Villa,5.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,25,0,0,0,0,7,33,0.0,1.85,33
-Emiliano Martínez,2026-03-19,Aston Villa,Lille,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,36,1,0,0,0,7,43,0.0,1.85,33
-Emiliano Martínez,2026-03-22,Aston Villa,West Ham United,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,33,0,0,0,0,7,40,0.0,1.85,33
-Emiliano Martínez,2026-03-28,Argentina,Mauritania,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,19,0,0,0,0,7,24,0.0,1.85,33
-Emiliano Martínez,2026-04-01,Argentina,Zambia,6.7,74,7992.0,15.0,108.0,0,0,0.0,0.0,13,14,0,0,0,0,3,17,0.0,1.88,33
-Emiliano Martínez,2026-04-09,Bologna,Aston Villa,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,50,0,0,0,0,10,62,0.0,1.85,33
-Emiliano Martínez,2026-04-16,Aston Villa,Bologna,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,28,42,0,0,0,0,12,54,0.0,1.85,33
-Emiliano Martínez,2026-04-19,Aston Villa,Sunderland,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,34,52,0,0,0,0,12,61,0.0,1.85,33
-Emiliano Martínez,2026-04-25,Fulham,Aston Villa,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,46,0,0,0,0,13,60,0.0,1.85,33
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Emiliano Martínez,33,2026-02-11,Aston Villa,Brighton & Hove Albion,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,38,55,0,0,0,0,17,73,0.0,1.85
+Emiliano Martínez,33,2026-02-14,Aston Villa,Newcastle United,6.4,46,4968.0,9.0,108.0,0,0,0.0,0.0,17,22,0,0,0,0,3,24,0.0,1.81
+Emiliano Martínez,33,2026-02-21,Aston Villa,Leeds United,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,26,0,0,0,0,3,34,0.0,1.85
+Emiliano Martínez,33,2026-02-27,Wolverhampton,Aston Villa,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,37,39,0,0,0,0,6,43,0.0,1.85
+Emiliano Martínez,33,2026-03-04,Aston Villa,Chelsea,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,32,38,1,0,0,0,11,51,0.0,1.85
+Emiliano Martínez,33,2026-03-12,Lille,Aston Villa,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,44,0,0,0,0,9,51,0.0,1.85
+Emiliano Martínez,33,2026-03-15,Manchester United,Aston Villa,5.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,19,25,0,0,0,0,7,33,0.0,1.85
+Emiliano Martínez,33,2026-03-19,Aston Villa,Lille,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,26,36,1,0,0,0,7,43,0.0,1.85
+Emiliano Martínez,33,2026-03-22,Aston Villa,West Ham United,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,33,0,0,0,0,7,40,0.0,1.85
+Emiliano Martínez,33,2026-03-28,Argentina,Mauritania,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,18,19,0,0,0,0,7,24,0.0,1.85
+Emiliano Martínez,33,2026-04-01,Argentina,Zambia,6.7,74,7992.0,15.0,108.0,0,0,0.0,0.0,13,14,0,0,0,0,3,17,0.0,1.88
+Emiliano Martínez,33,2026-04-09,Bologna,Aston Villa,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,31,50,0,0,0,0,10,62,0.0,1.85
+Emiliano Martínez,33,2026-04-16,Aston Villa,Bologna,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,28,42,0,0,0,0,12,54,0.0,1.85
+Emiliano Martínez,33,2026-04-19,Aston Villa,Sunderland,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,34,52,0,0,0,0,12,61,0.0,1.85
+Emiliano Martínez,33,2026-04-25,Fulham,Aston Villa,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,46,0,0,0,0,13,60,0.0,1.85
+Emiliano Martínez,33,2026-04-30,Nottingham Forest,Aston Villa,7.5,90,,,0.0,0,0,0.0,0.0,21,30,0,0,0,0,13,45,,
+Emiliano Martínez,33,2026-05-03,Aston Villa,Tottenham Hotspur,7.2,90,,,0.0,0,0,0.0,0.0,27,34,0,0,0,0,7,40,,
+Emiliano Martínez,33,2026-05-07,Aston Villa,Nottingham Forest,7.1,90,,,0.0,0,0,0.0,0.0,17,27,0,0,0,0,11,37,,
+Emiliano Martínez,33,2026-05-10,Burnley,Aston Villa,6.6,90,,,0.0,0,0,0.0,0.0,34,39,1,0,0,0,9,48,,
+Emiliano Martínez,33,2026-05-15,Aston Villa,Liverpool FC,6.8,90,,,0.0,0,0,0.0,0.01,31,46,0,0,0,0,7,56,,

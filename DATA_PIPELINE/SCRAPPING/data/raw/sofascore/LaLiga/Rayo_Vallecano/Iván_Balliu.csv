@@ -1,15 +1,20 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Iván Balliu,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-03-04,Rayo Vallecano,Real Oviedo,,2,216.0,0.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,4,0.0,0.0,34
-Iván Balliu,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-03-12,Samsunspor,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-03-16,Rayo Vallecano,Levante UD,7.1,76,8208.0,15.0,108.0,0,0,0.0,0.06,21,25,1,0,1,0,4,44,0.0,1.83,34
-Iván Balliu,2026-03-19,Rayo Vallecano,Samsunspor,6.3,26,2808.0,5.0,108.0,0,0,0.0,0.09,3,5,1,0,0,0,0,16,0.0,1.78,34
-Iván Balliu,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-03-26,Poland,Albania,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-04-09,Rayo Vallecano,AEK Athens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-04-16,AEK Athens,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
-Iván Balliu,2026-04-26,Rayo Vallecano,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,34
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Iván Balliu,34,2026-02-28,Rayo Vallecano,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-03-04,Rayo Vallecano,Real Oviedo,,2,216.0,0.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,0,4,0.0,0.0
+Iván Balliu,34,2026-03-08,Sevilla,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-03-12,Samsunspor,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-03-16,Rayo Vallecano,Levante UD,7.1,76,8208.0,15.0,108.0,0,0,0.0,0.06,21,25,1,0,1,0,4,44,0.0,1.83
+Iván Balliu,34,2026-03-19,Rayo Vallecano,Samsunspor,6.3,26,2808.0,5.0,108.0,0,0,0.0,0.09,3,5,1,0,0,0,0,16,0.0,1.78
+Iván Balliu,34,2026-03-22,FC Barcelona,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-03-26,Poland,Albania,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-04-03,Rayo Vallecano,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-04-09,Rayo Vallecano,AEK Athens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-04-12,Mallorca,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-04-16,AEK Athens,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-04-26,Rayo Vallecano,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Iván Balliu,34,2026-04-30,Rayo Vallecano,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Iván Balliu,34,2026-05-03,Getafe,Rayo Vallecano,6.9,90,,,0.0,0,0,0.0,0.01,13,20,0,0,1,0,5,35,,
+Iván Balliu,34,2026-05-07,RC Strasbourg,Rayo Vallecano,6.5,12,,,0.0,0,0,0.0,0.0,2,5,0,0,0,0,0,6,,
+Iván Balliu,34,2026-05-11,Rayo Vallecano,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Iván Balliu,34,2026-05-14,Valencia,Rayo Vallecano,6.7,73,,,0.0,0,0,0.0,0.01,26,31,0,0,2,0,4,48,,

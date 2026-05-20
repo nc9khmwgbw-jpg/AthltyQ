@@ -1,0 +1,17 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Jason,31,2026-01-28,Al-Fayha,Al-Khaleej,6.6,80,,,0.0,0,0,0.0,0.01,11,13,0,0,1,0,2,24
+Jason,31,2026-02-01,Al-Shabab,Al-Fayha,7.3,90,,,0.0,0,0,0.28,0.1,19,23,3,0,0,0,2,42
+Jason,31,2026-02-05,Al-Fayha,Al-Najma SC,7.5,86,,,0.0,1,0,0.0,0.0,23,31,2,0,0,0,2,54
+Jason,31,2026-02-13,Al-Ittihad,Al-Fayha,6.2,90,,,0.0,0,0,0.14,0.01,13,17,0,0,0,0,3,29
+Jason,31,2026-02-20,Al-Taawoun,Al-Fayha,6.9,89,,,0.0,0,0,0.0,0.1,16,20,2,0,0,0,2,28
+Jason,31,2026-02-25,Al-Fayha,Neom SC,6.6,89,,,0.0,0,0,0.03,0.19,16,27,1,0,0,0,1,42
+Jason,31,2026-02-28,Al-Fayha,Al-Nassr,6.6,77,,,0.0,0,0,0.04,0.01,9,12,0,0,0,0,1,26
+Jason,31,2026-03-07,Al-Okhdood,Al-Fayha,7.6,71,,,0.0,1,0,0.8,0.51,27,31,3,0,0,0,2,42
+Jason,31,2026-03-13,Al-Fayha,Al-Ettifaq,6.4,83,,,0.0,0,0,0.16,0.0,11,13,0,0,0,0,3,22
+Jason,31,2026-04-04,Neom SC,Al-Fayha,7.2,90,,,0.0,0,0,0.22,0.17,28,30,3,0,1,0,6,54
+Jason,31,2026-04-08,Al-Fayha,Al-Ahli,7.9,89,,,0.0,1,0,1.09,0.01,7,13,0,0,1,0,1,33
+Jason,31,2026-04-11,Al-Hazem,Al-Fayha,6.5,45,,,0.0,0,0,0.05,0.02,7,9,0,0,0,0,1,17
+Jason,31,2026-04-30,Al-Kholood,Al-Fayha,6.2,73,,,0.0,0,0,0.04,0.01,9,20,0,0,1,0,2,35
+Jason,31,2026-05-04,Al-Fayha,Al-Riyadh,7.0,62,,,0.0,0,0,0.04,0.25,12,15,1,0,0,0,4,28
+Jason,31,2026-05-09,Al-Fayha,Al-Qadsiah,,1,,,0.0,0,0,0.26,0.0,1,1,0,0,0,0,0,3
+Jason,31,2026-05-15,Damac FC,Al-Fayha,6.3,90,,,0.0,0,0,0.03,0.02,16,18,0,0,0,0,2,35

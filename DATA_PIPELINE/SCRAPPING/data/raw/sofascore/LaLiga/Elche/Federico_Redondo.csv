@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Federico Redondo,2026-01-19,Elche,Sevilla,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0,2.06,23
-Federico Redondo,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Federico Redondo,2026-01-31,Elche,FC Barcelona,6.2,34,3672.0,7.0,108.0,0,0,0.0,0.0,13,14,0,0,0,0,3,16,0,1.91,23
-Federico Redondo,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Federico Redondo,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Federico Redondo,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Federico Redondo,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Federico Redondo,2026-03-08,Villarreal,Elche,6.6,22,2376.0,4.0,108.0,0,0,0.0,0.02,24,25,0,0,0,0,0,28,0,1.68,23
-Federico Redondo,2026-03-14,Real Madrid,Elche,6.9,64,6912.0,13.0,108.0,0,0,0.07,0.01,49,57,0,0,1,0,3,67,0,1.88,23
-Federico Redondo,2026-03-21,Elche,Mallorca,6.8,11,1188.0,2.0,108.0,0,0,0.0,0.0,3,4,1,0,0,0,2,9,0,1.68,23
-Federico Redondo,2026-04-03,Rayo Vallecano,Elche,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.0,10,11,0,0,1,0,1,17,0,2.14,23
-Federico Redondo,2026-04-11,Elche,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Federico Redondo,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Federico Redondo,2026-04-26,Real Oviedo,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Federico Redondo,23,2026-01-19,Elche,Sevilla,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,4,0.0,2.06
+Federico Redondo,23,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-01-31,Elche,FC Barcelona,6.2,34,3672.0,7.0,108.0,0,0,0.0,0.0,13,14,0,0,0,0,3,16,0.0,1.91
+Federico Redondo,23,2026-02-07,Real Sociedad,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-02-13,Elche,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-02-20,Athletic Club,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-03-08,Villarreal,Elche,6.6,22,2376.0,4.0,108.0,0,0,0.0,0.02,24,25,0,0,0,0,0,28,0.0,1.68
+Federico Redondo,23,2026-03-14,Real Madrid,Elche,6.9,64,6912.0,13.0,108.0,0,0,0.07,0.01,49,57,0,0,1,0,3,67,0.0,1.88
+Federico Redondo,23,2026-03-21,Elche,Mallorca,6.8,11,1188.0,2.0,108.0,0,0,0.0,0.0,3,4,1,0,0,0,2,9,0.0,1.68
+Federico Redondo,23,2026-04-03,Rayo Vallecano,Elche,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.0,10,11,0,0,1,0,1,17,0.0,2.14
+Federico Redondo,23,2026-04-11,Elche,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-04-22,Elche,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-04-26,Real Oviedo,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Federico Redondo,23,2026-05-09,Elche,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Federico Redondo,23,2026-05-12,Real Betis,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

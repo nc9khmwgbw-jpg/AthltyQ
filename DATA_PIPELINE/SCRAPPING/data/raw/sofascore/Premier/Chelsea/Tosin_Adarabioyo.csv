@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Tosin Adarabioyo,2026-01-17,Chelsea,Brentford,7.3,58,6264.0,12.0,108.0,0,0,0.0,0.0,30,35,0,0,2,0,2,50,0,1.92,28
-Tosin Adarabioyo,2026-02-13,Hull City,Chelsea,6.7,13,1404.0,3.0,108.0,0,0,0.0,0.0,13,14,0,0,1,0,1,18,0,2.14,28
-Tosin Adarabioyo,2026-02-21,Chelsea,Burnley,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0,1.85,28
-Tosin Adarabioyo,2026-03-01,Arsenal,Chelsea,,1,108.0,0.0,108.0,0,0,0.0,0.0,3,5,0,0,1,0,0,8,0,0.0,28
-Tosin Adarabioyo,2026-03-04,Aston Villa,Chelsea,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,10,11,0,0,0,0,0,13,0,1.68,28
-Tosin Adarabioyo,2026-03-07,Wrexham,Chelsea,7.6,120,12960.0,24.0,108.0,0,0,0.0,0.0,142,151,0,0,2,0,15,169,0,1.85,28
-Tosin Adarabioyo,2026-03-11,Paris Saint-Germain,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Tosin Adarabioyo,2026-03-14,Chelsea,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Tosin Adarabioyo,2026-03-17,Chelsea,Paris Saint-Germain,6.9,19,2052.0,4.0,108.0,0,0,0.0,0.0,4,4,0,0,1,0,2,7,0,1.95,28
-Tosin Adarabioyo,2026-03-21,Everton,Chelsea,7.0,12,1296.0,2.0,108.0,0,0,0.0,0.0,11,11,0,0,0,0,1,13,0,1.54,28
-Tosin Adarabioyo,2026-04-04,Chelsea,Port Vale,8.6,90,9720.0,18.0,108.0,1,0,0.0,0.0,93,98,0,0,0,0,0,110,0,1.85,28
-Tosin Adarabioyo,2026-04-12,Chelsea,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Tosin Adarabioyo,2026-04-18,Chelsea,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Tosin Adarabioyo,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Tosin Adarabioyo,2026-04-26,Chelsea,Leeds United,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,54,63,0,0,0,0,3,77,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Tosin Adarabioyo,28,2026-01-17,Chelsea,Brentford,7.3,58,6264.0,12.0,108.0,0,0,0.0,0.0,30,35,0,0,2,0,2,50,0.0,1.92
+Tosin Adarabioyo,28,2026-02-13,Hull City,Chelsea,6.7,13,1404.0,3.0,108.0,0,0,0.0,0.0,13,14,0,0,1,0,1,18,0.0,2.14
+Tosin Adarabioyo,28,2026-02-21,Chelsea,Burnley,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,1,0.0,1.85
+Tosin Adarabioyo,28,2026-03-01,Arsenal,Chelsea,,1,108.0,0.0,108.0,0,0,0.0,0.0,3,5,0,0,1,0,0,8,0.0,0.0
+Tosin Adarabioyo,28,2026-03-04,Aston Villa,Chelsea,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,10,11,0,0,0,0,0,13,0.0,1.68
+Tosin Adarabioyo,28,2026-03-07,Wrexham,Chelsea,7.6,120,12960.0,24.0,108.0,0,0,0.0,0.0,142,151,0,0,2,0,15,169,0.0,1.85
+Tosin Adarabioyo,28,2026-03-11,Paris Saint-Germain,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tosin Adarabioyo,28,2026-03-14,Chelsea,Newcastle United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tosin Adarabioyo,28,2026-03-17,Chelsea,Paris Saint-Germain,6.9,19,2052.0,4.0,108.0,0,0,0.0,0.0,4,4,0,0,1,0,2,7,0.0,1.95
+Tosin Adarabioyo,28,2026-03-21,Everton,Chelsea,7.0,12,1296.0,2.0,108.0,0,0,0.0,0.0,11,11,0,0,0,0,1,13,0.0,1.54
+Tosin Adarabioyo,28,2026-04-04,Chelsea,Port Vale,8.6,90,9720.0,18.0,108.0,1,0,0.0,0.0,93,98,0,0,0,0,0,110,0.0,1.85
+Tosin Adarabioyo,28,2026-04-12,Chelsea,Manchester City,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tosin Adarabioyo,28,2026-04-18,Chelsea,Manchester United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tosin Adarabioyo,28,2026-04-21,Brighton & Hove Albion,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Tosin Adarabioyo,28,2026-04-26,Chelsea,Leeds United,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,54,63,0,0,0,0,3,77,0.0,1.85
+Tosin Adarabioyo,28,2026-05-04,Chelsea,Nottingham Forest,6.3,45,,,0.0,0,0,0.0,0.0,48,53,0,0,0,0,3,56,,
+Tosin Adarabioyo,28,2026-05-09,Liverpool FC,Chelsea,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

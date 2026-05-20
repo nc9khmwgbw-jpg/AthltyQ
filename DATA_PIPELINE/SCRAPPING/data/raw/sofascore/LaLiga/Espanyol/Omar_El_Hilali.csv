@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
-Omar El Hilali,22,2026-01-16,Espanyol,Girona FC,6.1,56,6048.0,11.0,108.0,0,0,0.0,0.0,26,32,0,0,2,0,4,46,0,1.82
-Omar El Hilali,22,2026-01-30,Espanyol,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0
-Omar El Hilali,22,2026-02-09,Villarreal,Espanyol,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,48,55,0,0,0,0,1,72,0,1.85
-Omar El Hilali,22,2026-02-14,Espanyol,Celta Vigo,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.09,44,51,1,0,1,0,2,71,0,1.85
-Omar El Hilali,22,2026-02-21,Atlético Madrid,Espanyol,5.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,43,0,0,2,0,1,66,0,1.85
-Omar El Hilali,22,2026-03-01,Elche,Espanyol,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,16,23,0,0,1,0,1,39,0,1.85
-Omar El Hilali,22,2026-03-09,Espanyol,Real Oviedo,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.06,48,57,1,0,2,0,6,84,0,1.85
-Omar El Hilali,22,2026-03-15,Mallorca,Espanyol,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.05,21,26,1,0,0,0,0,45,0,1.85
-Omar El Hilali,22,2026-03-21,Espanyol,Getafe,6.9,65,7020.0,13.0,108.0,0,0,0.0,0.22,34,43,1,0,1,0,3,67,0,1.85
-Omar El Hilali,22,2026-04-04,Real Betis,Espanyol,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,15,18,0,0,1,0,3,36,0,1.85
-Omar El Hilali,22,2026-04-11,FC Barcelona,Espanyol,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.04,26,29,1,0,3,0,4,47,0,1.85
-Omar El Hilali,22,2026-04-23,Rayo Vallecano,Espanyol,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,32,0,0,1,0,4,59,0,1.85
-Omar El Hilali,22,2026-04-27,Espanyol,Levante UD,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.06,31,37,1,0,1,0,3,59,0,1.85
-Omar El Hilali,22,2026-05-03,Espanyol,Real Madrid,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.04,31,39,1,0,1,0,3,58,0,1.85
-Omar El Hilali,22,2026-05-09,Sevilla,Espanyol,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.03,13,27,1,0,3,0,2,49,0,1.85
+Omar El Hilali,22,2026-01-16,Espanyol,Girona FC,6.1,56,6048.0,11.0,108.0,0,0,0.0,0.0,26,32,0,0,2,0,4,46,0.0,1.82
+Omar El Hilali,22,2026-01-30,Espanyol,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Omar El Hilali,22,2026-02-09,Villarreal,Espanyol,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,48,55,0,0,0,0,1,72,0.0,1.85
+Omar El Hilali,22,2026-02-14,Espanyol,Celta Vigo,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.09,44,51,1,0,1,0,2,71,0.0,1.85
+Omar El Hilali,22,2026-02-21,Atlético Madrid,Espanyol,5.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,43,0,0,2,0,1,66,0.0,1.85
+Omar El Hilali,22,2026-03-01,Elche,Espanyol,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,16,23,0,0,1,0,1,39,0.0,1.85
+Omar El Hilali,22,2026-03-09,Espanyol,Real Oviedo,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.06,48,57,1,0,2,0,6,84,0.0,1.85
+Omar El Hilali,22,2026-03-15,Mallorca,Espanyol,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.05,21,26,1,0,0,0,0,45,0.0,1.85
+Omar El Hilali,22,2026-03-21,Espanyol,Getafe,6.9,65,7020.0,13.0,108.0,0,0,0.0,0.22,34,43,1,0,1,0,3,67,0.0,1.85
+Omar El Hilali,22,2026-04-04,Real Betis,Espanyol,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,15,18,0,0,1,0,3,36,0.0,1.85
+Omar El Hilali,22,2026-04-11,FC Barcelona,Espanyol,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.04,26,29,1,0,3,0,4,47,0.0,1.85
+Omar El Hilali,22,2026-04-23,Rayo Vallecano,Espanyol,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.01,24,32,0,0,1,0,4,59,0.0,1.85
+Omar El Hilali,22,2026-04-27,Espanyol,Levante UD,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.06,31,37,1,0,1,0,3,59,0.0,1.85
+Omar El Hilali,22,2026-05-03,Espanyol,Real Madrid,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.04,31,39,1,0,1,0,3,58,0.0,1.85
+Omar El Hilali,22,2026-05-09,Sevilla,Espanyol,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.03,13,27,1,0,3,0,2,49,0.0,1.85
+Omar El Hilali,22,2026-05-13,Espanyol,Athletic Club,7.2,90,,,0.0,0,0,0.0,0.01,47,62,0,0,0,0,4,84,,

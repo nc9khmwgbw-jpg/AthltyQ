@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Yerson Mosquera,2026-01-18,Wolverhampton,Newcastle United,7.3,90,9720.0,18.0,108.0,0,0,0.09,0.02,23,27,1,0,2,0,8,57,0,1.85,25
-Yerson Mosquera,2026-01-24,Manchester City,Wolverhampton,6.1,90,9720.0,18.0,108.0,0,0,0.35,0.0,23,33,0,0,0,0,3,60,0,1.85,25
-Yerson Mosquera,2026-01-31,Wolverhampton,Bournemouth,6.1,90,9720.0,18.0,108.0,0,0,0.11,0.01,29,42,0,0,0,0,9,66,0,1.85,25
-Yerson Mosquera,2026-02-07,Wolverhampton,Chelsea,6.2,90,9720.0,18.0,108.0,0,0,0.18,0.01,46,53,1,0,0,0,5,85,0,1.85,25
-Yerson Mosquera,2026-02-11,Nottingham Forest,Wolverhampton,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,15,0,0,1,0,1,37,0,1.85,25
-Yerson Mosquera,2026-02-15,Grimsby Town,Wolverhampton,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,20,1,0,2,0,6,79,0,1.85,25
-Yerson Mosquera,2026-02-18,Wolverhampton,Arsenal,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,44,0,0,1,0,3,76,0,1.85,25
-Yerson Mosquera,2026-02-22,Crystal Palace,Wolverhampton,6.6,89,9612.0,18.0,108.0,0,0,0.1,0.06,24,30,0,0,2,0,3,54,0,1.87,25
-Yerson Mosquera,2026-02-27,Wolverhampton,Aston Villa,8.3,90,9720.0,18.0,108.0,0,0,0.02,0.06,18,25,1,0,0,0,1,50,0,1.85,25
-Yerson Mosquera,2026-03-03,Wolverhampton,Liverpool,6.4,31,3348.0,6.0,108.0,0,0,0.04,0.0,9,11,0,0,0,0,0,23,0,1.79,25
-Yerson Mosquera,2026-03-06,Wolverhampton,Liverpool,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,36,0,0,0,0,3,55,0,1.85,25
-Yerson Mosquera,2026-03-16,Brentford,Wolverhampton,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.04,41,52,1,0,1,0,5,88,0,1.85,25
-Yerson Mosquera,2026-03-27,Colombia,Croatia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Yerson Mosquera,2026-03-29,Colombia,France,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,25
-Yerson Mosquera,2026-04-10,West Ham United,Wolverhampton,5.9,71,7668.0,14.0,108.0,0,0,0.08,0.06,34,38,1,0,1,0,1,61,0,1.83,25
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Yerson Mosquera,25,2026-01-18,Wolverhampton,Newcastle United,7.3,90,9720.0,18.0,108.0,0,0,0.09,0.02,23,27,1,0,2,0,8,57,0.0,1.85
+Yerson Mosquera,25,2026-01-24,Manchester City,Wolverhampton,6.1,90,9720.0,18.0,108.0,0,0,0.35,0.0,23,33,0,0,0,0,3,60,0.0,1.85
+Yerson Mosquera,25,2026-01-31,Wolverhampton,Bournemouth,6.1,90,9720.0,18.0,108.0,0,0,0.11,0.01,29,42,0,0,0,0,9,66,0.0,1.85
+Yerson Mosquera,25,2026-02-07,Wolverhampton,Chelsea,6.2,90,9720.0,18.0,108.0,0,0,0.18,0.01,46,53,1,0,0,0,5,85,0.0,1.85
+Yerson Mosquera,25,2026-02-11,Nottingham Forest,Wolverhampton,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,15,0,0,1,0,1,37,0.0,1.85
+Yerson Mosquera,25,2026-02-15,Grimsby Town,Wolverhampton,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,20,1,0,2,0,6,79,0.0,1.85
+Yerson Mosquera,25,2026-02-18,Wolverhampton,Arsenal,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,44,0,0,1,0,3,76,0.0,1.85
+Yerson Mosquera,25,2026-02-22,Crystal Palace,Wolverhampton,6.6,89,9612.0,18.0,108.0,0,0,0.1,0.06,24,30,0,0,2,0,3,54,0.0,1.87
+Yerson Mosquera,25,2026-02-27,Wolverhampton,Aston Villa,8.3,90,9720.0,18.0,108.0,0,0,0.02,0.06,18,25,1,0,0,0,1,50,0.0,1.85
+Yerson Mosquera,25,2026-03-03,Wolverhampton,Liverpool,6.4,31,3348.0,6.0,108.0,0,0,0.04,0.0,9,11,0,0,0,0,0,23,0.0,1.79
+Yerson Mosquera,25,2026-03-06,Wolverhampton,Liverpool,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,36,0,0,0,0,3,55,0.0,1.85
+Yerson Mosquera,25,2026-03-16,Brentford,Wolverhampton,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.04,41,52,1,0,1,0,5,88,0.0,1.85
+Yerson Mosquera,25,2026-03-27,Colombia,Croatia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Yerson Mosquera,25,2026-03-29,Colombia,France,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Yerson Mosquera,25,2026-04-10,West Ham United,Wolverhampton,5.9,71,7668.0,14.0,108.0,0,0,0.08,0.06,34,38,1,0,1,0,1,61,0.0,1.83
+Yerson Mosquera,25,2026-05-02,Wolverhampton,Sunderland,7.1,90,,,0.0,0,0,0.09,0.03,44,51,0,0,1,0,4,74,,
+Yerson Mosquera,25,2026-05-09,Brighton & Hove Albion,Wolverhampton,6.2,90,,,0.0,0,0,0.19,0.02,18,25,0,0,6,0,4,53,,

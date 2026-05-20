@@ -6648,8 +6648,16 @@
                 </div>
             </div>
 
-            <!-- Right: Status -->
+            <!-- Right: Status & AI Selector -->
             <div class="flex items-center gap-4">
+                
+                <!-- AI MODEL SELECTOR -->
+                <div class="flex items-center bg-black/40 rounded-md border border-white/10 p-1">
+                    <button id="btn-model-poly" onclick="switchAiModel('poly')" class="px-3 py-1 rounded text-[9px] font-bold tracking-widest text-white/50 hover:text-white transition-colors">POLY</button>
+                    <button id="btn-model-rf" onclick="switchAiModel('rf')" class="px-3 py-1 rounded text-[9px] font-bold tracking-widest text-white/50 hover:text-white transition-colors">RF</button>
+                    <button id="btn-model-lgbm" onclick="switchAiModel('lgbm')" class="px-3 py-1 rounded text-[9px] font-bold tracking-widest text-white hover:text-white transition-colors" style="background: rgba(255, 255, 255, 0.1); box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);">LGBM</button>
+                </div>
+
                 <div
                     class="px-4 py-2 rounded-full border border-emerald-500/20 bg-emerald-500/5 flex items-center gap-2">
                     <div class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></div>
@@ -7273,6 +7281,7 @@
         let allPlayersData = [];
         let loadChartInstance = null;
         let currentRiskFilter = 'all';
+        let currentAiModel = 'lgbm'; // Modèle IA par défaut
 
         const anatomicalDetails = {
             'ischio': { name: "Ischio-jambiers", acute: "Lésion myofasciale suspectée.", chronic: "Surcharge chronique liée aux sprints répétés." },
@@ -7285,16 +7294,25 @@
             'back': { name: "Zone Lombaire", acute: "Lombalgie mécanique aigüe.", chronic: "Raideur chronique des chaînes postérieures." }
         };
 
-        async function loadData() {
+        async function loadData(forcePlayerRefresh = null) {
             try {
-                const res = await fetch('/api/player-data?t=' + Date.now());
+                // On passe le modèle choisi au backend
+                const res = await fetch(`/api/player-data?t=${Date.now()}&model=${currentAiModel}`);
                 const data = await res.json();
                 allPlayersData = data.players || [];
                 initFilters(allPlayersData);
 
+                // Si on doit rafraîchir le joueur ouvert suite à un changement de modèle
+                if (forcePlayerRefresh && activePlayerId) {
+                    const p = allPlayersData.find(pl => pl.player_id === activePlayerId);
+                    if (p) {
+                        openPlayerDetails(p.player_id);
+                    }
+                }
+
                 // On ne fait PAS de renderDashboard ici pour garder le dashboard masqué au départ
 
-                const dashRes = await fetch('/api/dashboard-data');
+                const dashRes = await fetch(`/api/dashboard-data?model=${currentAiModel}`);
                 const dashData = await dashRes.json();
                 initLoadChart(dashData.load_chart);
             } catch (err) { console.error("Load error:", err); }
@@ -8175,14 +8193,14 @@
                                 <div style="width: 14px; height: 14px; border-radius: 50%; background: #f43f5e; box-shadow: 0 0 15px #f43f5e; animation: pulseBadge 2s infinite;"></div>
                                 <div>
                                     <div style="color: rgba(255,255,255,0.5); font-size: 10px; font-family: 'Space Mono', monospace; text-transform: uppercase;">Durée indispo.</div>
-                                    <div style="color:#fff; font-family:'Outfit',sans-serif; font-size:20px; font-weight:900;">28 JOURS</div>
+                                    <div style="color:#fff; font-family:'Outfit',sans-serif; font-size:20px; font-weight:900;">${p.medical_history.days_since_last > 30 ? '0' : '7+'} JOURS</div>
                                 </div>
                             </div>
                             <div style="background: rgba(255,255,255,0.03); padding: 15px 20px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.05); display: flex; align-items: center; gap: 15px;">
                                 <div style="font-size: 24px;">📈</div>
                                 <div>
                                     <div style="color: rgba(255,255,255,0.5); font-size: 10px; font-family: 'Space Mono', monospace; text-transform: uppercase;">Risque récidive</div>
-                                    <div style="color:#f43f5e; font-family:'Outfit',sans-serif; font-size:20px; font-weight:900;">84.2%</div>
+                                    <div style="color:${p.injury_risk_score > 50 ? '#f43f5e' : '#10b981'}; font-family:'Outfit',sans-serif; font-size:20px; font-weight:900;">${p.injury_risk_score}%</div>
                                 </div>
                             </div>
                         </div>
@@ -8904,7 +8922,8 @@
                 // ── Récupération historique
                 let history = [];
                 try {
-                    const res = await fetch(`/api/player-history/${p.player_id}?t=${Date.now()}`);
+                    // Fetch real history for similarity charts using current model
+                    const res = await fetch(`/api/player-history/${p.player_id}?t=${Date.now()}&model=${currentAiModel}`);
                     const data = await res.json();
                     history = data.history || [];
                 } catch (e) { history = []; }
@@ -9360,6 +9379,34 @@
             }
 
             setTimeout(() => { btn.innerHTML = originalContent; lucide.createIcons(); }, 3000);
+        };
+
+        // ═══════════════════════════════════════════════════════════════════
+        //  GLOBAL STATE & UI
+        // ═══════════════════════════════════════════════════════════════════
+
+        window.switchAiModel = function(model) {
+            currentAiModel = model;
+            
+            // UI Update for buttons
+            ['poly', 'rf', 'lgbm'].forEach(m => {
+                const btn = document.getElementById('btn-model-' + m);
+                if(m === model) {
+                    btn.style = "background: rgba(255, 255, 255, 0.1); box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);";
+                    btn.classList.remove('text-white/50');
+                    btn.classList.add('text-white');
+                } else {
+                    btn.style = "background: transparent; box-shadow: none;";
+                    btn.classList.remove('text-white');
+                    btn.classList.add('text-white/50');
+                }
+            });
+
+            // Feedback UI
+            if (typeof showToast === "function") showToast(`IA Basculée sur : ${model.toUpperCase()}`, "info");
+            
+            // Reload data globally
+            loadData(true);
         };
 
         // ═══════════════════════════════════════════════════════════════════

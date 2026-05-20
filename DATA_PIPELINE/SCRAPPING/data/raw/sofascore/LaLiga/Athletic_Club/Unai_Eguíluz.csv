@@ -1,14 +1,15 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Unai Eguíluz,2025-04-26,Mirandés,Burgos Club de Fútbol,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,47,0,0,2,0,2,60,0,1.85,24
-Unai Eguíluz,2025-05-03,Eibar,Mirandés,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,52,56,0,0,0,0,2,65,0,1.85,24
-Unai Eguíluz,2025-05-10,Mirandés,CD Castellón,7.2,89,9612.0,18.0,108.0,0,0,0.0,0.0,37,44,2,0,0,0,6,59,0,1.87,24
-Unai Eguíluz,2025-05-19,Córdoba,Mirandés,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,1,6,0,1.98,24
-Unai Eguíluz,2025-05-25,Mirandés,Almería,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,25,0,0,4,0,4,40,0,1.85,24
-Unai Eguíluz,2025-06-01,FC Cartagena,Mirandés,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,34,40,0,0,0,0,1,46,0,1.85,24
-Unai Eguíluz,2025-06-08,Real Racing Club,Mirandés,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,17,0,0,3,0,4,42,0,1.85,24
-Unai Eguíluz,2025-06-12,Mirandés,Real Racing Club,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,33,35,1,0,2,0,6,56,0,1.85,24
-Unai Eguíluz,2025-06-15,Mirandés,Real Oviedo,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,33,41,0,0,1,0,0,55,0,1.85,24
-Unai Eguíluz,2025-06-21,Real Oviedo,Mirandés,6.3,119,12852.0,24.0,108.0,0,0,0.0,0.0,48,53,1,0,4,0,4,80,0,1.87,24
-Unai Eguíluz,2025-07-22,Deportivo Alavés,Athletic Club,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,22,22,0,0,1,0,2,26,0,1.85,24
-Unai Eguíluz,2025-07-26,PSV Eindhoven,Athletic Club,6.8,19,2052.0,4.0,108.0,0,0,0.0,0.0,10,10,0,0,0,0,0,13,0,1.95,24
-Unai Eguíluz,2026-04-05,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Unai Eguíluz,24,2025-04-26,Mirandés,Burgos Club de Fútbol,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,47,0,0,2,0,2,60,0.0,1.85
+Unai Eguíluz,24,2025-05-03,Eibar,Mirandés,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,52,56,0,0,0,0,2,65,0.0,1.85
+Unai Eguíluz,24,2025-05-10,Mirandés,CD Castellón,7.2,89,9612.0,18.0,108.0,0,0,0.0,0.0,37,44,2,0,0,0,6,59,0.0,1.87
+Unai Eguíluz,24,2025-05-19,Córdoba,Mirandés,6.6,14,1512.0,3.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,1,6,0.0,1.98
+Unai Eguíluz,24,2025-05-25,Mirandés,Almería,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,25,0,0,4,0,4,40,0.0,1.85
+Unai Eguíluz,24,2025-06-01,FC Cartagena,Mirandés,6.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,34,40,0,0,0,0,1,46,0.0,1.85
+Unai Eguíluz,24,2025-06-08,Real Racing Club,Mirandés,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,13,17,0,0,3,0,4,42,0.0,1.85
+Unai Eguíluz,24,2025-06-12,Mirandés,Real Racing Club,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,33,35,1,0,2,0,6,56,0.0,1.85
+Unai Eguíluz,24,2025-06-15,Mirandés,Real Oviedo,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,33,41,0,0,1,0,0,55,0.0,1.85
+Unai Eguíluz,24,2025-06-21,Real Oviedo,Mirandés,6.3,119,12852.0,24.0,108.0,0,0,0.0,0.0,48,53,1,0,4,0,4,80,0.0,1.87
+Unai Eguíluz,24,2025-07-22,Deportivo Alavés,Athletic Club,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,22,22,0,0,1,0,2,26,0.0,1.85
+Unai Eguíluz,24,2025-07-26,PSV Eindhoven,Athletic Club,6.8,19,2052.0,4.0,108.0,0,0,0.0,0.0,10,10,0,0,0,0,0,13,0.0,1.95
+Unai Eguíluz,24,2026-04-05,Getafe,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Unai Eguíluz,24,2026-05-13,Espanyol,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

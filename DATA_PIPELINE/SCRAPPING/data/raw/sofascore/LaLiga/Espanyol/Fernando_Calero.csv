@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Fernando Calero,2025-12-13,Getafe,Espanyol,7.0,90,9720.0,18.0,108.0,0,0,0.26,0.0,57,66,0,0,1,0,3,79,0,1.85,30
-Fernando Calero,2025-12-22,Athletic Club,Espanyol,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.0,22,25,0,0,1,0,4,41,0,1.85,30
-Fernando Calero,2026-01-03,Espanyol,FC Barcelona,6.3,90,9720.0,18.0,108.0,0,0,0.15,0.0,14,18,0,0,2,0,3,27,0,1.85,30
-Fernando Calero,2026-01-11,Levante UD,Espanyol,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,71,77,0,0,2,0,5,93,0,1.85,30
-Fernando Calero,2026-01-16,Espanyol,Girona FC,6.7,90,9720.0,18.0,108.0,0,0,0.09,0.0,55,62,1,0,1,0,2,75,0,1.85,30
-Fernando Calero,2026-01-24,Valencia,Espanyol,6.2,79,8532.0,16.0,108.0,0,0,0.03,0.01,55,62,0,0,2,0,5,78,0,1.88,30
-Fernando Calero,2026-01-30,Espanyol,Deportivo Alavés,6.8,84,9072.0,17.0,108.0,0,0,0.0,0.01,58,65,1,0,1,0,2,77,0,1.87,30
-Fernando Calero,2026-02-09,Villarreal,Espanyol,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,35,40,0,0,0,0,1,46,0,1.85,30
-Fernando Calero,2026-02-21,Atlético Madrid,Espanyol,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,47,0,0,1,0,4,61,0,1.85,30
-Fernando Calero,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,30
-Fernando Calero,2026-03-09,Espanyol,Real Oviedo,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,7,7,0,0,0,0,2,8,0,1.68,30
-Fernando Calero,2026-04-04,Real Betis,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,30
-Fernando Calero,2026-04-11,FC Barcelona,Espanyol,7.2,90,9720.0,18.0,108.0,0,0,0.15,0.0,22,26,0,0,1,0,3,39,0,1.85,30
-Fernando Calero,2026-04-23,Rayo Vallecano,Espanyol,7.0,78,8424.0,16.0,108.0,0,0,0.0,0.01,23,29,0,0,1,0,1,37,0,1.9,30
-Fernando Calero,2026-04-27,Espanyol,Levante UD,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,59,68,0,0,0,0,3,80,0,1.85,30
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Fernando Calero,30,2025-12-13,Getafe,Espanyol,7.0,90,9720.0,18.0,108.0,0,0,0.26,0.0,57,66,0,0,1,0,3,79,0.0,1.85
+Fernando Calero,30,2025-12-22,Athletic Club,Espanyol,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.0,22,25,0,0,1,0,4,41,0.0,1.85
+Fernando Calero,30,2026-01-03,Espanyol,FC Barcelona,6.3,90,9720.0,18.0,108.0,0,0,0.15,0.0,14,18,0,0,2,0,3,27,0.0,1.85
+Fernando Calero,30,2026-01-11,Levante UD,Espanyol,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,71,77,0,0,2,0,5,93,0.0,1.85
+Fernando Calero,30,2026-01-16,Espanyol,Girona FC,6.7,90,9720.0,18.0,108.0,0,0,0.09,0.0,55,62,1,0,1,0,2,75,0.0,1.85
+Fernando Calero,30,2026-01-24,Valencia,Espanyol,6.2,79,8532.0,16.0,108.0,0,0,0.03,0.01,55,62,0,0,2,0,5,78,0.0,1.88
+Fernando Calero,30,2026-01-30,Espanyol,Deportivo Alavés,6.8,84,9072.0,17.0,108.0,0,0,0.0,0.01,58,65,1,0,1,0,2,77,0.0,1.87
+Fernando Calero,30,2026-02-09,Villarreal,Espanyol,6.3,45,4860.0,9.0,108.0,0,0,0.0,0.0,35,40,0,0,0,0,1,46,0.0,1.85
+Fernando Calero,30,2026-02-21,Atlético Madrid,Espanyol,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,44,47,0,0,1,0,4,61,0.0,1.85
+Fernando Calero,30,2026-03-01,Elche,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fernando Calero,30,2026-03-09,Espanyol,Real Oviedo,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,7,7,0,0,0,0,2,8,0.0,1.68
+Fernando Calero,30,2026-04-04,Real Betis,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fernando Calero,30,2026-04-11,FC Barcelona,Espanyol,7.2,90,9720.0,18.0,108.0,0,0,0.15,0.0,22,26,0,0,1,0,3,39,0.0,1.85
+Fernando Calero,30,2026-04-23,Rayo Vallecano,Espanyol,7.0,78,8424.0,16.0,108.0,0,0,0.0,0.01,23,29,0,0,1,0,1,37,0.0,1.9
+Fernando Calero,30,2026-04-27,Espanyol,Levante UD,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,59,68,0,0,0,0,3,80,0.0,1.85
+Fernando Calero,30,2026-05-03,Espanyol,Real Madrid,6.2,90,,,0.0,0,0,0.0,0.03,37,39,0,0,2,0,9,54,,
+Fernando Calero,30,2026-05-09,Sevilla,Espanyol,6.2,90,,,0.0,0,0,0.04,0.0,17,25,0,0,1,0,4,35,,

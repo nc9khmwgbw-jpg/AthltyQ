@@ -1,16 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Nabil Bentaleb,2026-01-11,Lille,Olympique Lyonnais,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,79,88,0,0,3,0,6,98,0,1.85,31
-Nabil Bentaleb,2026-01-16,Paris Saint-Germain,Lille,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.03,49,56,0,0,1,0,3,62,0,1.85,31
-Nabil Bentaleb,2026-01-22,Celta Vigo,Lille,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,4,0,2.06,31
-Nabil Bentaleb,2026-02-14,Lille,Stade Brestois,6.9,24,2592.0,5.0,108.0,0,0,0.0,0.18,25,30,0,0,0,0,6,33,0,1.93,31
-Nabil Bentaleb,2026-02-19,Lille,FK Crvena zvezda,6.9,45,4860.0,9.0,108.0,0,0,0.0,0.07,21,27,0,0,1,0,3,37,0,1.85,31
-Nabil Bentaleb,2026-02-22,Angers,Lille,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.02,9,12,1,0,0,0,2,14,0,1.68,31
-Nabil Bentaleb,2026-02-26,FK Crvena zvezda,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,31
-Nabil Bentaleb,2026-03-01,Lille,Nantes,7.1,9,972.0,2.0,108.0,0,0,0.0,0.01,14,18,0,0,0,0,1,21,0,2.06,31
-Nabil Bentaleb,2026-03-08,Lille,Lorient,7.9,90,9720.0,18.0,108.0,0,0,0.01,0.41,53,57,1,0,1,0,3,68,0,1.85,31
-Nabil Bentaleb,2026-03-12,Lille,Aston Villa,7.8,90,9720.0,18.0,108.0,0,0,0.03,0.25,67,78,1,0,2,0,8,94,0,1.85,31
-Nabil Bentaleb,2026-03-15,Stade Rennais,Lille,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,25,0,0,2,0,4,36,0,1.85,31
-Nabil Bentaleb,2026-03-19,Aston Villa,Lille,7.0,90,9720.0,18.0,108.0,0,0,0.08,0.08,63,67,0,0,1,0,6,77,0,1.85,31
-Nabil Bentaleb,2026-03-22,Olympique de Marseille,Lille,7.4,90,9720.0,18.0,108.0,0,0,0.07,0.24,47,53,1,0,3,0,4,69,0,1.85,31
-Nabil Bentaleb,2026-04-04,Lille,RC Lens,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.16,48,52,3,0,3,0,6,70,0,1.85,31
-Nabil Bentaleb,2026-04-12,Toulouse,Lille,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.22,64,74,0,0,1,0,3,85,0,1.85,31
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nabil Bentaleb,31,2026-01-11,Lille,Olympique Lyonnais,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,79,88,0,0,3,0,6,98,0.0,1.85
+Nabil Bentaleb,31,2026-01-16,Paris Saint-Germain,Lille,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.03,49,56,0,0,1,0,3,62,0.0,1.85
+Nabil Bentaleb,31,2026-01-22,Celta Vigo,Lille,6.5,9,972.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,4,0.0,2.06
+Nabil Bentaleb,31,2026-02-14,Lille,Stade Brestois,6.9,24,2592.0,5.0,108.0,0,0,0.0,0.18,25,30,0,0,0,0,6,33,0.0,1.93
+Nabil Bentaleb,31,2026-02-19,Lille,FK Crvena zvezda,6.9,45,4860.0,9.0,108.0,0,0,0.0,0.07,21,27,0,0,1,0,3,37,0.0,1.85
+Nabil Bentaleb,31,2026-02-22,Angers,Lille,6.6,11,1188.0,2.0,108.0,0,0,0.0,0.02,9,12,1,0,0,0,2,14,0.0,1.68
+Nabil Bentaleb,31,2026-02-26,FK Crvena zvezda,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nabil Bentaleb,31,2026-03-01,Lille,Nantes,7.1,9,972.0,2.0,108.0,0,0,0.0,0.01,14,18,0,0,0,0,1,21,0.0,2.06
+Nabil Bentaleb,31,2026-03-08,Lille,Lorient,7.9,90,9720.0,18.0,108.0,0,0,0.01,0.41,53,57,1,0,1,0,3,68,0.0,1.85
+Nabil Bentaleb,31,2026-03-12,Lille,Aston Villa,7.8,90,9720.0,18.0,108.0,0,0,0.03,0.25,67,78,1,0,2,0,8,94,0.0,1.85
+Nabil Bentaleb,31,2026-03-15,Stade Rennais,Lille,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,22,25,0,0,2,0,4,36,0.0,1.85
+Nabil Bentaleb,31,2026-03-19,Aston Villa,Lille,7.0,90,9720.0,18.0,108.0,0,0,0.08,0.08,63,67,0,0,1,0,6,77,0.0,1.85
+Nabil Bentaleb,31,2026-03-22,Olympique de Marseille,Lille,7.4,90,9720.0,18.0,108.0,0,0,0.07,0.24,47,53,1,0,3,0,4,69,0.0,1.85
+Nabil Bentaleb,31,2026-04-04,Lille,RC Lens,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.16,48,52,3,0,3,0,6,70,0.0,1.85
+Nabil Bentaleb,31,2026-04-12,Toulouse,Lille,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.22,64,74,0,0,1,0,3,85,0.0,1.85
+Nabil Bentaleb,31,2026-05-10,AS Monaco,Lille,7.1,45,,,0.0,0,0,0.0,0.01,23,28,0,0,0,0,2,39,,

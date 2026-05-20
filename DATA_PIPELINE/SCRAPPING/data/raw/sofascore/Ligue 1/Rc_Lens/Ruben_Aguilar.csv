@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ruben Aguilar,2025-11-22,RC Lens,RC Strasbourg,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,41,45,0,0,2,0,8,71,0,1.85,33
-Ruben Aguilar,2025-11-30,Angers,RC Lens,6.5,78,8424.0,16.0,108.0,0,0,0.0,0.16,38,46,3,0,4,0,4,75,0,1.9,33
-Ruben Aguilar,2025-12-06,Nantes,RC Lens,7.1,90,9720.0,18.0,108.0,0,0,0.01,0.13,62,69,1,0,3,0,9,103,0,1.85,33
-Ruben Aguilar,2025-12-14,RC Lens,Nice,6.7,90,9720.0,18.0,108.0,0,0,0.14,0.02,25,38,0,0,2,0,5,72,0,1.85,33
-Ruben Aguilar,2025-12-19,RC Lens,Entente Feignies-Aulnoye,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Ruben Aguilar,2026-01-11,Sochaux,RC Lens,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,13,14,0,0,0,0,2,17,0,1.98,33
-Ruben Aguilar,2026-01-17,RC Lens,Auxerre,6.9,24,2592.0,5.0,108.0,0,0,0.02,0.03,5,7,0,0,0,0,0,14,0,1.93,33
-Ruben Aguilar,2026-01-24,Olympique de Marseille,RC Lens,6.4,78,8424.0,16.0,108.0,0,0,0.0,0.06,34,39,1,0,2,0,2,50,0,1.9,33
-Ruben Aguilar,2026-01-30,RC Lens,Le Havre,7.8,90,9720.0,18.0,108.0,1,0,0.26,0.05,47,56,1,0,0,0,2,86,0,1.85,33
-Ruben Aguilar,2026-02-04,Troyes,RC Lens,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.0,9,11,1,0,0,0,0,20,0,1.76,33
-Ruben Aguilar,2026-02-07,RC Lens,Stade Rennais,7.2,56,6048.0,11.0,108.0,1,0,0.25,0.39,19,27,1,0,1,0,2,55,0,1.82,33
-Ruben Aguilar,2026-02-21,RC Lens,AS Monaco,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,10,10,0,0,0,0,0,10,0,1.54,33
-Ruben Aguilar,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,33
-Ruben Aguilar,2026-04-21,RC Lens,Toulouse,6.5,12,1296.0,2.0,108.0,0,0,0.0,0.0,6,8,0,0,0,0,0,8,0,1.54,33
-Ruben Aguilar,2026-04-24,Stade Brestois,RC Lens,7.3,52,5616.0,10.0,108.0,0,0,0.0,0.26,44,47,4,0,0,0,6,58,0,1.78,33
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ruben Aguilar,33,2025-11-22,RC Lens,RC Strasbourg,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,41,45,0,0,2,0,8,71,0.0,1.85
+Ruben Aguilar,33,2025-11-30,Angers,RC Lens,6.5,78,8424.0,16.0,108.0,0,0,0.0,0.16,38,46,3,0,4,0,4,75,0.0,1.9
+Ruben Aguilar,33,2025-12-06,Nantes,RC Lens,7.1,90,9720.0,18.0,108.0,0,0,0.01,0.13,62,69,1,0,3,0,9,103,0.0,1.85
+Ruben Aguilar,33,2025-12-14,RC Lens,Nice,6.7,90,9720.0,18.0,108.0,0,0,0.14,0.02,25,38,0,0,2,0,5,72,0.0,1.85
+Ruben Aguilar,33,2025-12-19,RC Lens,Entente Feignies-Aulnoye,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ruben Aguilar,33,2026-01-11,Sochaux,RC Lens,6.7,14,1512.0,3.0,108.0,0,0,0.0,0.0,13,14,0,0,0,0,2,17,0.0,1.98
+Ruben Aguilar,33,2026-01-17,RC Lens,Auxerre,6.9,24,2592.0,5.0,108.0,0,0,0.02,0.03,5,7,0,0,0,0,0,14,0.0,1.93
+Ruben Aguilar,33,2026-01-24,Olympique de Marseille,RC Lens,6.4,78,8424.0,16.0,108.0,0,0,0.0,0.06,34,39,1,0,2,0,2,50,0.0,1.9
+Ruben Aguilar,33,2026-01-30,RC Lens,Le Havre,7.8,90,9720.0,18.0,108.0,1,0,0.26,0.05,47,56,1,0,0,0,2,86,0.0,1.85
+Ruben Aguilar,33,2026-02-04,Troyes,RC Lens,6.8,21,2268.0,4.0,108.0,0,0,0.0,0.0,9,11,1,0,0,0,0,20,0.0,1.76
+Ruben Aguilar,33,2026-02-07,RC Lens,Stade Rennais,7.2,56,6048.0,11.0,108.0,1,0,0.25,0.39,19,27,1,0,1,0,2,55,0.0,1.82
+Ruben Aguilar,33,2026-02-21,RC Lens,AS Monaco,6.7,12,1296.0,2.0,108.0,0,0,0.0,0.0,10,10,0,0,0,0,0,10,0.0,1.54
+Ruben Aguilar,33,2026-04-17,RC Lens,Toulouse,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ruben Aguilar,33,2026-04-21,RC Lens,Toulouse,6.5,12,1296.0,2.0,108.0,0,0,0.0,0.0,6,8,0,0,0,0,0,8,0.0,1.54
+Ruben Aguilar,33,2026-04-24,Stade Brestois,RC Lens,7.3,52,5616.0,10.0,108.0,0,0,0.0,0.26,44,47,4,0,0,0,6,58,0.0,1.78
+Ruben Aguilar,33,2026-05-02,Nice,RC Lens,6.7,10,,,0.0,0,0,0.0,0.0,1,4,0,0,0,0,0,6,,
+Ruben Aguilar,33,2026-05-08,RC Lens,Nantes,6.8,31,,,0.0,0,0,0.0,0.01,10,11,0,0,0,0,0,20,,
+Ruben Aguilar,33,2026-05-13,RC Lens,Paris Saint-Germain,7.4,85,,,0.0,0,0,0.0,0.46,37,44,2,0,3,0,2,60,,

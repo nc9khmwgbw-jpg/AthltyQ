@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Manuel Akanji,30,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manuel Akanji,30,2026-05-03,Inter,Parma,7.4,90,,,0.0,0,0,0.0,0.04,77,83,0,0,0,0,5,89
-Manuel Akanji,30,2026-04-26,Torino,Inter,7.4,90,,,0.0,0,0,0.15,0.03,79,89,1,0,3,0,2,108
-Manuel Akanji,30,2026-04-21,Inter,Como,6.5,90,,,0.0,0,0,0.0,0.0,62,68,1,0,2,0,2,82
-Manuel Akanji,30,2026-04-17,Inter,Cagliari,7.5,90,,,0.0,0,0,0.0,0.05,64,69,1,0,1,0,5,82
-Manuel Akanji,30,2026-04-12,Como,Inter,5.9,90,,,0.0,0,0,0.0,0.01,38,46,0,0,1,0,2,52
-Manuel Akanji,30,2026-04-05,Inter,AS Roma,7.1,90,,,0.0,0,0,0.0,0.0,46,50,0,0,0,0,8,64
-Manuel Akanji,30,2026-03-31,Norway,Switzerland,7.2,45,,,0.0,0,0,0.0,0.0,52,55,0,0,0,0,4,58
-Manuel Akanji,30,2026-03-27,Switzerland,Germany,6.3,62,,,0.0,0,0,0.0,0.0,53,60,0,0,1,0,0,68
-Manuel Akanji,30,2026-03-22,Fiorentina,Inter,7.7,90,,,0.0,0,0,0.15,0.1,56,61,0,0,1,0,4,75
-Manuel Akanji,30,2026-03-14,Inter,Atalanta,6.7,80,,,0.0,0,0,0.07,0.01,58,62,0,0,1,0,4,70
-Manuel Akanji,30,2026-03-08,Milan,Inter,7.0,90,,,0.0,0,0,0.05,0.03,75,80,0,0,0,0,7,88
-Manuel Akanji,30,2026-03-03,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Manuel Akanji,30,2026-02-28,Inter,Genoa,7.6,90,,,0.0,0,0,0.07,0.06,57,59,1,0,4,0,2,77
 Manuel Akanji,30,2026-02-24,Inter,Bodø/Glimt,6.3,90,,,0.0,0,0,0.24,0.04,88,94,0,0,0,0,3,107
+Manuel Akanji,30,2026-02-28,Inter,Genoa,7.6,90,,,0.0,0,0,0.07,0.06,57,59,1,0,4,0,2,77
+Manuel Akanji,30,2026-03-03,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Manuel Akanji,30,2026-03-08,Milan,Inter,7.0,90,,,0.0,0,0,0.05,0.03,75,80,0,0,0,0,7,88
+Manuel Akanji,30,2026-03-14,Inter,Atalanta,6.7,80,,,0.0,0,0,0.07,0.01,58,62,0,0,1,0,4,70
+Manuel Akanji,30,2026-03-22,Fiorentina,Inter,7.7,90,,,0.0,0,0,0.15,0.1,56,61,0,0,1,0,4,75
+Manuel Akanji,30,2026-03-27,Switzerland,Germany,6.3,62,,,0.0,0,0,0.0,0.0,53,60,0,0,1,0,0,68
+Manuel Akanji,30,2026-03-31,Norway,Switzerland,7.2,45,,,0.0,0,0,0.0,0.0,52,55,0,0,0,0,4,58
+Manuel Akanji,30,2026-04-05,Inter,AS Roma,7.1,90,,,0.0,0,0,0.0,0.0,46,50,0,0,0,0,8,64
+Manuel Akanji,30,2026-04-12,Como,Inter,5.9,90,,,0.0,0,0,0.0,0.01,38,46,0,0,1,0,2,52
+Manuel Akanji,30,2026-04-17,Inter,Cagliari,7.5,90,,,0.0,0,0,0.0,0.05,64,69,1,0,1,0,5,82
+Manuel Akanji,30,2026-04-21,Inter,Como,6.5,90,,,0.0,0,0,0.0,0.0,62,68,1,0,2,0,2,82
+Manuel Akanji,30,2026-04-26,Torino,Inter,7.4,90,,,0.0,0,0,0.15,0.03,79,89,1,0,3,0,2,108
+Manuel Akanji,30,2026-05-03,Inter,Parma,7.4,90,,,0.0,0,0,0.0,0.04,77,83,0,0,0,0,5,89
+Manuel Akanji,30,2026-05-09,Lazio,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Manuel Akanji,30,2026-05-13,Lazio,Inter,7.5,90,,,0.0,0,0,0.0,0.0,99,103,0,0,3,0,2,112

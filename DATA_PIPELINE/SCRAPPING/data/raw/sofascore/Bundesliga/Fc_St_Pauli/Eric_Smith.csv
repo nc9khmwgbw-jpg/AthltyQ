@@ -1,0 +1,15 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Eric Smith,29,2026-05-09,RB Leipzig,FC St. Pauli,6.1,89,,,0.0,0,0,0.07,0.01,20,27,0,0,3,0,3,46
+Eric Smith,29,2026-05-03,FC St. Pauli,1. FSV Mainz 05,6.3,65,,,0.0,0,0,0.0,0.16,31,42,3,0,0,0,4,57
+Eric Smith,29,2026-04-25,1. FC Heidenheim,FC St. Pauli,7.0,45,,,0.0,0,0,0.0,0.02,26,33,0,0,0,0,1,43
+Eric Smith,29,2026-03-26,Ukraine,Sweden,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Eric Smith,29,2026-03-22,FC St. Pauli,SC Freiburg,6.5,90,,,0.0,0,0,0.0,0.04,36,47,3,0,1,0,5,66
+Eric Smith,29,2026-03-13,Borussia M'gladbach,FC St. Pauli,6.9,90,,,0.0,0,0,0.04,0.08,86,96,0,0,0,0,3,113
+Eric Smith,29,2026-03-08,FC St. Pauli,Eintracht Frankfurt,7.5,90,,,0.0,0,0,0.0,0.03,16,20,0,0,0,0,2,35
+Eric Smith,29,2026-02-28,TSG Hoffenheim,FC St. Pauli,7.6,90,,,0.0,0,0,0.0,0.1,17,27,2,0,1,0,3,43
+Eric Smith,29,2026-02-22,FC St. Pauli,SV Werder Bremen,6.4,90,,,0.0,0,0,0.0,0.08,31,44,0,0,1,0,6,61
+Eric Smith,29,2026-01-31,FC Augsburg,FC St. Pauli,6.2,90,,,0.0,0,0,0.06,0.05,70,79,1,0,1,0,3,101
+Eric Smith,29,2026-01-27,FC St. Pauli,RB Leipzig,6.7,90,,,0.0,0,0,0.0,0.02,39,48,1,0,2,0,9,59
+Eric Smith,29,2026-01-23,FC St. Pauli,Hamburger SV,7.0,90,,,0.0,0,0,0.06,0.02,41,46,0,0,0,0,6,67
+Eric Smith,29,2026-01-17,Borussia Dortmund,FC St. Pauli,7.1,90,,,0.0,0,0,0.0,0.19,38,50,4,0,3,0,5,72
+Eric Smith,29,2026-01-14,VfL Wolfsburg,FC St. Pauli,8.0,90,,,0.0,1,0,0.05,0.03,45,55,0,0,0,0,10,73

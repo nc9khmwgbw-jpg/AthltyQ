@@ -1,9 +1,11 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Nathan Fraser,2024-08-25,KMSK Deinze,SV Zulte Waregem,6.7,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,2,7,0,1.85,20
-Nathan Fraser,2024-08-30,SV Zulte Waregem,KSC Lokeren,6.2,10,1080.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,8,0,1.85,20
-Nathan Fraser,2024-10-20,Patro Eisden Maasmechelen,SV Zulte Waregem,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Nathan Fraser,2024-10-26,SV Zulte Waregem,Royal Francs Borains,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Nathan Fraser,2024-11-01,RWDM Brussels,SV Zulte Waregem,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Nathan Fraser,2024-11-10,SV Zulte Waregem,RAAL La Louvière,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Nathan Fraser,2024-11-24,SV Zulte Waregem,RFC Seraing,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3,0,2.14,20
-Nathan Fraser,2024-12-07,SV Zulte Waregem,SK Beveren,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nathan Fraser,20,2024-08-25,KMSK Deinze,SV Zulte Waregem,6.7,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,2,7,0.0,1.85
+Nathan Fraser,20,2024-08-30,SV Zulte Waregem,KSC Lokeren,6.2,10,1080.0,2.0,108.0,0,0,0.0,0.0,4,4,0,0,0,0,0,8,0.0,1.85
+Nathan Fraser,20,2024-10-20,Patro Eisden Maasmechelen,SV Zulte Waregem,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nathan Fraser,20,2024-10-26,SV Zulte Waregem,Royal Francs Borains,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nathan Fraser,20,2024-11-01,RWDM Brussels,SV Zulte Waregem,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nathan Fraser,20,2024-11-10,SV Zulte Waregem,RAAL La Louvière,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nathan Fraser,20,2024-11-24,SV Zulte Waregem,RFC Seraing,6.6,13,1404.0,3.0,108.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3,0.0,2.14
+Nathan Fraser,20,2024-12-07,SV Zulte Waregem,SK Beveren,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nathan Fraser,20,2025-01-24,Wolverhampton U21,Manchester City U21,,65,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Nathan Fraser,20,2025-01-28,Altrincham FC,Wolverhampton U21,,69,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Ronald,24,2026-05-02,Swansea City,Charlton Athletic,6.5,90,,,0.0,0,0,0.07,0.02,19,24,1,0,1,0,3,42
+Ronald,24,2026-04-25,Norwich City,Swansea City,6.4,90,,,0.0,0,0,0.1,0.01,9,16,0,0,0,0,3,35
+Ronald,24,2026-04-21,Queens Park Rangers,Swansea City,8.3,90,,,0.0,1,0,0.51,0.06,24,28,2,0,1,0,6,61
+Ronald,24,2026-04-18,Swansea City,Southampton,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Ronald,24,2026-04-11,Leicester City,Swansea City,6.2,13,,,0.0,0,0,0.05,0.0,0,3,0,0,1,0,1,8
+Ronald,24,2026-04-06,Swansea City,Middlesbrough,7.1,34,,,0.0,0,0,0.03,0.03,5,6,1,0,2,0,1,19
+Ronald,24,2026-04-03,Sheffield United,Swansea City,6.3,58,,,0.0,0,0,0.0,0.1,10,14,1,0,1,0,3,21
+Ronald,24,2026-03-21,Swansea City,Coventry City,6.4,90,,,0.0,0,0,0.02,0.0,14,19,0,0,1,0,4,39
+Ronald,24,2026-03-13,Wrexham,Swansea City,7.1,59,,,0.0,0,0,0.0,0.08,21,24,2,0,0,0,6,41
+Ronald,24,2026-03-10,Portsmouth,Swansea City,6.6,90,,,0.0,0,0,0.0,0.01,15,19,1,0,2,0,6,38
+Ronald,24,2026-03-07,Swansea City,Stoke City,7.2,66,,,0.0,0,0,0.1,0.05,17,19,1,0,0,0,2,33
+Ronald,24,2026-02-28,Ipswich Town,Swansea City,6.5,35,,,0.0,0,0,0.0,0.0,10,11,0,0,1,0,1,18
+Ronald,24,2026-02-24,Swansea City,Preston North End,7.1,45,,,0.0,0,0,0.12,0.24,4,8,1,0,0,0,1,21
+Ronald,24,2026-02-21,Swansea City,Bristol City,6.4,37,,,0.0,0,0,0.0,0.02,8,13,1,0,0,0,0,21
+Ronald,24,2026-02-14,Derby County,Swansea City,6.4,77,,,0.0,0,0,0.03,0.04,14,18,1,0,0,0,4,37

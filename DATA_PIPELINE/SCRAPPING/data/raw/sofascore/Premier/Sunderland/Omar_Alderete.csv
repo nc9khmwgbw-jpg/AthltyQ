@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Omar Alderete,2026-01-24,West Ham United,Sunderland,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,45,55,2,0,1,0,5,72,0,1.85,29
-Omar Alderete,2026-02-02,Sunderland,Burnley,7.1,86,9288.0,17.0,108.0,0,0,0.0,0.0,26,33,1,0,0,0,5,42,0,1.83,29
-Omar Alderete,2026-02-07,Arsenal,Sunderland,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,43,51,0,0,1,0,6,68,0,1.85,29
-Omar Alderete,2026-02-11,Sunderland,Liverpool,6.4,80,8640.0,16.0,108.0,0,0,0.0,0.01,23,29,1,0,1,0,2,40,0,1.85,29
-Omar Alderete,2026-02-22,Sunderland,Fulham,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.07,37,46,1,0,0,0,2,57,0,1.85,29
-Omar Alderete,2026-02-28,Bournemouth,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,21,0,0,1,0,2,45,0,1.85,29
-Omar Alderete,2026-03-03,Leeds United,Sunderland,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,28,0,0,0,0,1,58,0,1.85,29
-Omar Alderete,2026-03-08,Port Vale,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,57,69,1,0,0,0,4,84,0,1.85,29
-Omar Alderete,2026-03-14,Sunderland,Brighton & Hove Albion,7.1,90,9720.0,18.0,108.0,0,0,0.14,0.03,41,54,0,0,0,0,7,66,0,1.85,29
-Omar Alderete,2026-03-22,Newcastle United,Sunderland,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.02,24,30,1,0,0,0,4,42,0,1.85,29
-Omar Alderete,2026-03-31,Morocco,Paraguay,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,42,46,0,0,1,0,0,51,0,1.85,29
-Omar Alderete,2026-04-12,Sunderland,Tottenham Hotspur,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,48,61,0,0,2,0,5,76,0,1.85,29
-Omar Alderete,2026-04-19,Aston Villa,Sunderland,6.0,63,6804.0,13.0,108.0,0,0,0.0,0.01,25,33,0,0,0,0,3,41,0,1.91,29
-Omar Alderete,2026-04-24,Sunderland,Nottingham Forest,5.2,90,9720.0,18.0,108.0,0,0,0.23,0.01,26,38,0,0,2,0,4,54,0,1.85,29
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Omar Alderete,29,2026-01-24,West Ham United,Sunderland,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,45,55,2,0,1,0,5,72,0.0,1.85
+Omar Alderete,29,2026-02-02,Sunderland,Burnley,7.1,86,9288.0,17.0,108.0,0,0,0.0,0.0,26,33,1,0,0,0,5,42,0.0,1.83
+Omar Alderete,29,2026-02-07,Arsenal,Sunderland,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,43,51,0,0,1,0,6,68,0.0,1.85
+Omar Alderete,29,2026-02-11,Sunderland,Liverpool,6.4,80,8640.0,16.0,108.0,0,0,0.0,0.01,23,29,1,0,1,0,2,40,0.0,1.85
+Omar Alderete,29,2026-02-22,Sunderland,Fulham,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.07,37,46,1,0,0,0,2,57,0.0,1.85
+Omar Alderete,29,2026-02-28,Bournemouth,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,15,21,0,0,1,0,2,45,0.0,1.85
+Omar Alderete,29,2026-03-03,Leeds United,Sunderland,7.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,28,0,0,0,0,1,58,0.0,1.85
+Omar Alderete,29,2026-03-08,Port Vale,Sunderland,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,57,69,1,0,0,0,4,84,0.0,1.85
+Omar Alderete,29,2026-03-14,Sunderland,Brighton & Hove Albion,7.1,90,9720.0,18.0,108.0,0,0,0.14,0.03,41,54,0,0,0,0,7,66,0.0,1.85
+Omar Alderete,29,2026-03-22,Newcastle United,Sunderland,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.02,24,30,1,0,0,0,4,42,0.0,1.85
+Omar Alderete,29,2026-03-31,Morocco,Paraguay,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.0,42,46,0,0,1,0,0,51,0.0,1.85
+Omar Alderete,29,2026-04-12,Sunderland,Tottenham Hotspur,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,48,61,0,0,2,0,5,76,0.0,1.85
+Omar Alderete,29,2026-04-19,Aston Villa,Sunderland,6.0,63,6804.0,13.0,108.0,0,0,0.0,0.01,25,33,0,0,0,0,3,41,0.0,1.91
+Omar Alderete,29,2026-04-24,Sunderland,Nottingham Forest,5.2,90,9720.0,18.0,108.0,0,0,0.23,0.01,26,38,0,0,2,0,4,54,0.0,1.85
+Omar Alderete,29,2026-05-02,Wolverhampton,Sunderland,6.8,90,,,0.0,0,0,0.0,0.0,22,32,0,0,1,0,4,45,,
+Omar Alderete,29,2026-05-09,Sunderland,Manchester United,7.1,90,,,0.0,0,0,0.02,0.02,36,46,0,0,3,0,1,64,,

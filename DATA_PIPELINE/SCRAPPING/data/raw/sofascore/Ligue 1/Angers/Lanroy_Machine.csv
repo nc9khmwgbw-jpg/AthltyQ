@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Lanroy Machine,2025-11-02,Lille,Angers,6.4,7,756.0,1.0,108.0,0,0,0.0,0.0,7,7,0,0,0,0,1,10,0,1.32,20
-Lanroy Machine,2025-11-23,Toulouse,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Lanroy Machine,2025-12-19,Les Herbiers,Angers,7.2,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,6,0,1.85,20
-Lanroy Machine,2026-01-04,Le Havre,Angers,,1,108.0,0.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,6,0,0.0,20
-Lanroy Machine,2026-01-10,Angers,Toulouse,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0,0.0,20
-Lanroy Machine,2026-02-08,Angers,Toulouse,6.4,24,2592.0,5.0,108.0,0,0,0.02,0.0,4,5,1,0,0,0,0,9,0,1.93,20
-Lanroy Machine,2026-02-15,Lorient,Angers,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,0,7,0,1.85,20
-Lanroy Machine,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Lanroy Machine,2026-03-07,Nantes,Angers,,3,324.0,1.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,5,0,3.09,20
-Lanroy Machine,2026-03-14,Angers,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Lanroy Machine,2026-03-20,RC Lens,Angers,7.5,71,7668.0,14.0,108.0,1,0,0.47,0.06,15,17,1,0,0,0,0,24,0,1.83,20
-Lanroy Machine,2026-04-05,Angers,Olympique Lyonnais,6.3,68,7344.0,14.0,108.0,0,0,0.0,0.01,3,6,0,0,0,0,1,18,0,1.91,20
-Lanroy Machine,2026-04-11,Stade Rennais,Angers,6.3,62,6696.0,12.0,108.0,0,0,0.0,0.0,8,9,0,0,0,0,1,15,0,1.79,20
-Lanroy Machine,2026-04-18,Angers,Le Havre,,1,108.0,0.0,108.0,0,0,0.04,0.0,2,2,0,0,0,0,1,3,0,0.0,20
-Lanroy Machine,2026-04-25,Angers,Paris Saint-Germain,6.2,24,2592.0,5.0,108.0,0,0,0.15,0.0,7,10,0,0,0,0,1,15,0,1.93,20
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Lanroy Machine,20,2025-11-02,Lille,Angers,6.4,7,756.0,1.0,108.0,0,0,0.0,0.0,7,7,0,0,0,0,1,10,0.0,1.32
+Lanroy Machine,20,2025-11-23,Toulouse,Angers,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lanroy Machine,20,2025-12-19,Les Herbiers,Angers,7.2,10,1080.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,6,0.0,1.85
+Lanroy Machine,20,2026-01-04,Le Havre,Angers,,1,108.0,0.0,108.0,0,0,0.0,0.0,2,2,0,0,0,0,1,6,0.0,0.0
+Lanroy Machine,20,2026-01-10,Angers,Toulouse,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0.0,0.0
+Lanroy Machine,20,2026-02-08,Angers,Toulouse,6.4,24,2592.0,5.0,108.0,0,0,0.02,0.0,4,5,1,0,0,0,0,9,0.0,1.93
+Lanroy Machine,20,2026-02-15,Lorient,Angers,6.5,15,1620.0,3.0,108.0,0,0,0.0,0.0,4,6,0,0,0,0,0,7,0.0,1.85
+Lanroy Machine,20,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lanroy Machine,20,2026-03-07,Nantes,Angers,,3,324.0,1.0,108.0,0,0,0.0,0.0,3,3,0,0,0,0,1,5,0.0,3.09
+Lanroy Machine,20,2026-03-14,Angers,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Lanroy Machine,20,2026-03-20,RC Lens,Angers,7.5,71,7668.0,14.0,108.0,1,0,0.47,0.06,15,17,1,0,0,0,0,24,0.0,1.83
+Lanroy Machine,20,2026-04-05,Angers,Olympique Lyonnais,6.3,68,7344.0,14.0,108.0,0,0,0.0,0.01,3,6,0,0,0,0,1,18,0.0,1.91
+Lanroy Machine,20,2026-04-11,Stade Rennais,Angers,6.3,62,6696.0,12.0,108.0,0,0,0.0,0.0,8,9,0,0,0,0,1,15,0.0,1.79
+Lanroy Machine,20,2026-04-18,Angers,Le Havre,,1,108.0,0.0,108.0,0,0,0.04,0.0,2,2,0,0,0,0,1,3,0.0,0.0
+Lanroy Machine,20,2026-04-25,Angers,Paris Saint-Germain,6.2,24,2592.0,5.0,108.0,0,0,0.15,0.0,7,10,0,0,0,0,1,15,0.0,1.93
+Lanroy Machine,20,2026-05-03,Auxerre,Angers,6.4,19,,,0.0,0,0,0.0,0.0,2,3,0,0,0,0,0,6,,
+Lanroy Machine,20,2026-05-10,Angers,RC Strasbourg,6.6,29,,,0.0,0,0,0.03,0.12,3,5,2,0,0,0,0,13,,

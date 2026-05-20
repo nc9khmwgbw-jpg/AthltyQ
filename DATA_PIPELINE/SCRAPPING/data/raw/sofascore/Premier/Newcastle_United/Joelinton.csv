@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Joelinton,2026-01-13,Newcastle United,Manchester City,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,33,0,0,0,0,4,54,0,1.85,29
-Joelinton,2026-01-18,Wolverhampton,Newcastle United,6.8,90,9720.0,18.0,108.0,0,0,0.45,0.06,37,42,0,0,3,0,3,62,0,1.85,29
-Joelinton,2026-01-21,Newcastle United,PSV Eindhoven,7.3,72,7776.0,14.0,108.0,0,0,0.06,0.42,29,35,2,0,0,0,5,47,0,1.8,29
-Joelinton,2026-01-25,Newcastle United,Aston Villa,6.5,48,5184.0,10.0,108.0,0,0,0.04,0.02,17,20,1,0,0,0,5,37,0,1.93,29
-Joelinton,2026-02-18,Qarabağ FK,Newcastle United,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,2,8,0,2.14,29
-Joelinton,2026-02-21,Manchester City,Newcastle United,6.9,30,3240.0,6.0,108.0,0,0,0.03,0.01,11,13,1,0,1,0,1,24,0,1.85,29
-Joelinton,2026-02-24,Newcastle United,Qarabağ FK,7.5,54,5832.0,11.0,108.0,1,0,0.46,0.03,34,34,0,0,0,0,4,43,0,1.89,29
-Joelinton,2026-02-28,Newcastle United,Everton,6.3,90,9720.0,18.0,108.0,0,0,0.14,0.11,42,44,2,0,0,0,5,64,0,1.85,29
-Joelinton,2026-03-04,Newcastle United,Manchester United,7.2,90,9720.0,18.0,108.0,0,0,0.12,0.04,37,55,0,0,1,0,6,69,0,1.85,29
-Joelinton,2026-03-07,Newcastle United,Manchester City,6.4,28,3024.0,6.0,108.0,0,0,0.0,0.0,11,12,0,0,0,0,1,14,0,1.98,29
-Joelinton,2026-03-10,Newcastle United,FC Barcelona,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,23,27,1,0,0,0,6,44,0,1.85,29
-Joelinton,2026-03-14,Chelsea,Newcastle United,6.5,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,7,0,0,1,0,1,8,0,2.01,29
-Joelinton,2026-03-18,FC Barcelona,Newcastle United,5.8,64,6912.0,13.0,108.0,0,0,0.0,0.01,16,21,0,0,2,0,5,32,0,1.88,29
-Joelinton,2026-03-22,Newcastle United,Sunderland,6.9,90,9720.0,18.0,108.0,0,0,0.05,0.01,30,36,0,0,4,0,4,51,0,1.85,29
-Joelinton,2026-04-12,Crystal Palace,Newcastle United,6.1,84,9072.0,17.0,108.0,0,0,0.0,0.01,22,29,0,0,3,0,5,35,0,1.87,29
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Joelinton,29,2026-01-13,Newcastle United,Manchester City,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,29,33,0,0,0,0,4,54,0.0,1.85
+Joelinton,29,2026-01-18,Wolverhampton,Newcastle United,6.8,90,9720.0,18.0,108.0,0,0,0.45,0.06,37,42,0,0,3,0,3,62,0.0,1.85
+Joelinton,29,2026-01-21,Newcastle United,PSV Eindhoven,7.3,72,7776.0,14.0,108.0,0,0,0.06,0.42,29,35,2,0,0,0,5,47,0.0,1.8
+Joelinton,29,2026-01-25,Newcastle United,Aston Villa,6.5,48,5184.0,10.0,108.0,0,0,0.04,0.02,17,20,1,0,0,0,5,37,0.0,1.93
+Joelinton,29,2026-02-18,Qarabağ FK,Newcastle United,6.5,13,1404.0,3.0,108.0,0,0,0.0,0.0,6,6,0,0,0,0,2,8,0.0,2.14
+Joelinton,29,2026-02-21,Manchester City,Newcastle United,6.9,30,3240.0,6.0,108.0,0,0,0.03,0.01,11,13,1,0,1,0,1,24,0.0,1.85
+Joelinton,29,2026-02-24,Newcastle United,Qarabağ FK,7.5,54,5832.0,11.0,108.0,1,0,0.46,0.03,34,34,0,0,0,0,4,43,0.0,1.89
+Joelinton,29,2026-02-28,Newcastle United,Everton,6.3,90,9720.0,18.0,108.0,0,0,0.14,0.11,42,44,2,0,0,0,5,64,0.0,1.85
+Joelinton,29,2026-03-04,Newcastle United,Manchester United,7.2,90,9720.0,18.0,108.0,0,0,0.12,0.04,37,55,0,0,1,0,6,69,0.0,1.85
+Joelinton,29,2026-03-07,Newcastle United,Manchester City,6.4,28,3024.0,6.0,108.0,0,0,0.0,0.0,11,12,0,0,0,0,1,14,0.0,1.98
+Joelinton,29,2026-03-10,Newcastle United,FC Barcelona,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,23,27,1,0,0,0,6,44,0.0,1.85
+Joelinton,29,2026-03-14,Chelsea,Newcastle United,6.5,23,2484.0,5.0,108.0,0,0,0.0,0.0,6,7,0,0,1,0,1,8,0.0,2.01
+Joelinton,29,2026-03-18,FC Barcelona,Newcastle United,5.8,64,6912.0,13.0,108.0,0,0,0.0,0.01,16,21,0,0,2,0,5,32,0.0,1.88
+Joelinton,29,2026-03-22,Newcastle United,Sunderland,6.9,90,9720.0,18.0,108.0,0,0,0.05,0.01,30,36,0,0,4,0,4,51,0.0,1.85
+Joelinton,29,2026-04-12,Crystal Palace,Newcastle United,6.1,84,9072.0,17.0,108.0,0,0,0.0,0.01,22,29,0,0,3,0,5,35,0.0,1.87
+Joelinton,29,2026-05-02,Newcastle United,Brighton & Hove Albion,6.7,90,,,0.0,0,0,0.17,0.01,20,23,0,0,1,0,8,41,,
+Joelinton,29,2026-05-10,Nottingham Forest,Newcastle United,6.8,90,,,0.0,0,0,0.1,0.19,42,50,2,0,1,0,6,71,,

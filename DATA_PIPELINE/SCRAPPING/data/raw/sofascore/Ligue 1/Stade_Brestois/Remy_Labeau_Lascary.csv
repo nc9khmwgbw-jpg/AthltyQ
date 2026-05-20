@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Remy Labeau Lascary,2025-12-13,Stade Rennais,Stade Brestois,6.3,20,2160.0,4.0,108.0,0,0,0.08,0.0,1,1,0,0,0,0,0,9,0,1.85,23
-Remy Labeau Lascary,2025-12-19,Avranches,Stade Brestois,7.4,90,9720.0,18.0,108.0,1,0,0.0,0.0,18,21,0,0,1,0,4,38,0,1.85,23
-Remy Labeau Lascary,2026-01-04,Stade Brestois,Auxerre,7.3,68,7344.0,14.0,108.0,0,0,0.16,0.48,16,19,2,0,0,0,4,31,0,1.91,23
-Remy Labeau Lascary,2026-01-18,Olympique Lyonnais,Stade Brestois,6.4,57,6156.0,11.0,108.0,0,0,0.0,0.0,12,15,0,0,1,0,3,28,0,1.79,23
-Remy Labeau Lascary,2026-01-25,Stade Brestois,Toulouse,6.5,83,8964.0,17.0,108.0,0,0,0.13,0.02,13,17,0,0,0,0,3,33,0,1.9,23
-Remy Labeau Lascary,2026-02-01,Nice,Stade Brestois,6.0,70,7560.0,14.0,108.0,0,0,0.12,0.01,15,16,0,0,0,0,3,33,0,1.85,23
-Remy Labeau Lascary,2026-02-07,Stade Brestois,Lorient,7.2,73,7884.0,15.0,108.0,1,0,0.58,0.03,13,16,1,0,1,0,4,29,0,1.9,23
-Remy Labeau Lascary,2026-02-14,Lille,Stade Brestois,8.2,70,7560.0,14.0,108.0,1,0,0.14,0.23,8,13,3,0,1,0,2,32,0,1.85,23
-Remy Labeau Lascary,2026-02-20,Stade Brestois,Olympique de Marseille,6.2,17,1836.0,3.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,7,0,1.63,23
-Remy Labeau Lascary,2026-03-01,Metz,Stade Brestois,6.4,16,1728.0,3.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,0,13,0,1.74,23
-Remy Labeau Lascary,2026-03-08,Stade Brestois,Le Havre,7.9,20,2160.0,4.0,108.0,0,0,0.0,0.54,9,9,2,0,0,0,4,14,0,1.85,23
-Remy Labeau Lascary,2026-03-14,AS Monaco,Stade Brestois,6.8,23,2484.0,5.0,108.0,0,0,0.03,0.24,4,7,1,0,0,0,0,16,0,2.01,23
-Remy Labeau Lascary,2026-03-21,Auxerre,Stade Brestois,6.4,90,9720.0,18.0,108.0,0,0,0.65,0.07,7,9,0,0,0,0,1,22,0,1.85,23
-Remy Labeau Lascary,2026-04-04,Stade Brestois,Stade Rennais,7.0,90,9720.0,18.0,108.0,1,0,0.54,0.01,13,17,1,0,2,0,2,37,0,1.85,23
-Remy Labeau Lascary,2026-04-19,Nantes,Stade Brestois,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.05,10,12,0,0,0,0,1,27,0,1.85,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Remy Labeau Lascary,23,2025-12-13,Stade Rennais,Stade Brestois,6.3,20,2160.0,4.0,108.0,0,0,0.08,0.0,1,1,0,0,0,0,0,9,0.0,1.85
+Remy Labeau Lascary,23,2025-12-19,Avranches,Stade Brestois,7.4,90,9720.0,18.0,108.0,1,0,0.0,0.0,18,21,0,0,1,0,4,38,0.0,1.85
+Remy Labeau Lascary,23,2026-01-04,Stade Brestois,Auxerre,7.3,68,7344.0,14.0,108.0,0,0,0.16,0.48,16,19,2,0,0,0,4,31,0.0,1.91
+Remy Labeau Lascary,23,2026-01-18,Olympique Lyonnais,Stade Brestois,6.4,57,6156.0,11.0,108.0,0,0,0.0,0.0,12,15,0,0,1,0,3,28,0.0,1.79
+Remy Labeau Lascary,23,2026-01-25,Stade Brestois,Toulouse,6.5,83,8964.0,17.0,108.0,0,0,0.13,0.02,13,17,0,0,0,0,3,33,0.0,1.9
+Remy Labeau Lascary,23,2026-02-01,Nice,Stade Brestois,6.0,70,7560.0,14.0,108.0,0,0,0.12,0.01,15,16,0,0,0,0,3,33,0.0,1.85
+Remy Labeau Lascary,23,2026-02-07,Stade Brestois,Lorient,7.2,73,7884.0,15.0,108.0,1,0,0.58,0.03,13,16,1,0,1,0,4,29,0.0,1.9
+Remy Labeau Lascary,23,2026-02-14,Lille,Stade Brestois,8.2,70,7560.0,14.0,108.0,1,0,0.14,0.23,8,13,3,0,1,0,2,32,0.0,1.85
+Remy Labeau Lascary,23,2026-02-20,Stade Brestois,Olympique de Marseille,6.2,17,1836.0,3.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,7,0.0,1.63
+Remy Labeau Lascary,23,2026-03-01,Metz,Stade Brestois,6.4,16,1728.0,3.0,108.0,0,0,0.0,0.0,5,6,0,0,0,0,0,13,0.0,1.74
+Remy Labeau Lascary,23,2026-03-08,Stade Brestois,Le Havre,7.9,20,2160.0,4.0,108.0,0,0,0.0,0.54,9,9,2,0,0,0,4,14,0.0,1.85
+Remy Labeau Lascary,23,2026-03-14,AS Monaco,Stade Brestois,6.8,23,2484.0,5.0,108.0,0,0,0.03,0.24,4,7,1,0,0,0,0,16,0.0,2.01
+Remy Labeau Lascary,23,2026-03-21,Auxerre,Stade Brestois,6.4,90,9720.0,18.0,108.0,0,0,0.65,0.07,7,9,0,0,0,0,1,22,0.0,1.85
+Remy Labeau Lascary,23,2026-04-04,Stade Brestois,Stade Rennais,7.0,90,9720.0,18.0,108.0,1,0,0.54,0.01,13,17,1,0,2,0,2,37,0.0,1.85
+Remy Labeau Lascary,23,2026-04-19,Nantes,Stade Brestois,6.2,90,9720.0,18.0,108.0,0,0,0.0,0.05,10,12,0,0,0,0,1,27,0.0,1.85
+Remy Labeau Lascary,23,2026-05-03,Paris FC,Stade Brestois,6.4,60,,,0.0,0,0,0.27,0.0,6,7,1,0,0,0,2,22,,
+Remy Labeau Lascary,23,2026-05-10,Paris Saint-Germain,Stade Brestois,6.7,23,,,0.0,0,0,0.0,0.0,4,5,0,0,0,0,1,8,,
+Remy Labeau Lascary,23,2026-05-13,Stade Brestois,RC Strasbourg,6.8,26,,,0.0,0,0,0.04,0.11,8,9,1,0,0,0,2,16,,

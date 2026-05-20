@@ -1,15 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Radu Drăguşin,2026-01-24,Burnley,Tottenham Hotspur,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0,0.0,24
-Radu Drăguşin,2026-02-01,Tottenham Hotspur,Manchester City,5.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,35,40,0,0,0,0,0,50,0,1.85,24
-Radu Drăguşin,2026-02-07,Manchester United,Tottenham Hotspur,6.1,58,6264.0,12.0,108.0,0,0,0.0,0.0,18,20,0,0,2,0,2,30,0,1.92,24
-Radu Drăguşin,2026-02-10,Tottenham Hotspur,Newcastle United,6.5,90,9720.0,18.0,108.0,0,0,0.12,0.0,30,41,0,0,3,0,2,57,0,1.85,24
-Radu Drăguşin,2026-02-22,Tottenham Hotspur,Arsenal,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,39,0,0,4,0,6,68,0,1.85,24
-Radu Drăguşin,2026-03-01,Fulham,Tottenham Hotspur,6.6,89,9612.0,18.0,108.0,0,0,0.13,0.0,39,49,0,0,5,0,0,68,0,1.87,24
-Radu Drăguşin,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Radu Drăguşin,2026-03-15,Liverpool,Tottenham Hotspur,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,29,39,0,0,1,0,2,56,0,1.85,24
-Radu Drăguşin,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.1,66,7128.0,13.0,108.0,0,0,0.16,0.09,18,26,1,0,1,0,2,40,0,1.82,24
-Radu Drăguşin,2026-03-22,Tottenham Hotspur,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Radu Drăguşin,2026-03-26,Türkiye,Romania,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,17,0,0,1,0,1,25,0,1.85,24
-Radu Drăguşin,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Radu Drăguşin,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,24
-Radu Drăguşin,2026-04-25,Wolverhampton,Tottenham Hotspur,6.8,8,864.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,1,0,1,4,0,2.31,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Radu Drăguşin,24,2026-01-24,Burnley,Tottenham Hotspur,,1,108.0,0.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,1,0.0,0.0
+Radu Drăguşin,24,2026-02-01,Tottenham Hotspur,Manchester City,5.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,35,40,0,0,0,0,0,50,0.0,1.85
+Radu Drăguşin,24,2026-02-07,Manchester United,Tottenham Hotspur,6.1,58,6264.0,12.0,108.0,0,0,0.0,0.0,18,20,0,0,2,0,2,30,0.0,1.92
+Radu Drăguşin,24,2026-02-10,Tottenham Hotspur,Newcastle United,6.5,90,9720.0,18.0,108.0,0,0,0.12,0.0,30,41,0,0,3,0,2,57,0.0,1.85
+Radu Drăguşin,24,2026-02-22,Tottenham Hotspur,Arsenal,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,39,0,0,4,0,6,68,0.0,1.85
+Radu Drăguşin,24,2026-03-01,Fulham,Tottenham Hotspur,6.6,89,9612.0,18.0,108.0,0,0,0.13,0.0,39,49,0,0,5,0,0,68,0.0,1.87
+Radu Drăguşin,24,2026-03-10,Atlético Madrid,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radu Drăguşin,24,2026-03-15,Liverpool,Tottenham Hotspur,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,29,39,0,0,1,0,2,56,0.0,1.85
+Radu Drăguşin,24,2026-03-18,Tottenham Hotspur,Atlético Madrid,6.1,66,7128.0,13.0,108.0,0,0,0.16,0.09,18,26,1,0,1,0,2,40,0.0,1.82
+Radu Drăguşin,24,2026-03-22,Tottenham Hotspur,Nottingham Forest,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radu Drăguşin,24,2026-03-26,Türkiye,Romania,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,12,17,0,0,1,0,1,25,0.0,1.85
+Radu Drăguşin,24,2026-04-12,Sunderland,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radu Drăguşin,24,2026-04-18,Tottenham Hotspur,Brighton & Hove Albion,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Radu Drăguşin,24,2026-04-25,Wolverhampton,Tottenham Hotspur,6.8,8,864.0,2.0,108.0,0,0,0.0,0.0,2,2,0,0,1,0,1,4,0.0,2.31
+Radu Drăguşin,24,2026-05-03,Aston Villa,Tottenham Hotspur,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Radu Drăguşin,24,2026-05-11,Tottenham Hotspur,Leeds United,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

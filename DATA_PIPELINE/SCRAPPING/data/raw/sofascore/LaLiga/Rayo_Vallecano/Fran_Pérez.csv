@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Fran Pérez,2026-01-06,Granada,Rayo Vallecano,6.4,64,6912.0,13.0,108.0,0,0,0.0,0.0,14,17,1,0,0,0,1,35,0,1.88,23
-Fran Pérez,2026-01-11,Rayo Vallecano,Mallorca,6.5,11,1188.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,7,0,1.68,23
-Fran Pérez,2026-01-14,Deportivo Alavés,Rayo Vallecano,6.8,83,8964.0,17.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,4,27,0,1.9,23
-Fran Pérez,2026-01-18,Celta Vigo,Rayo Vallecano,6.8,12,1296.0,2.0,108.0,0,0,0.0,0.08,6,6,1,0,0,0,2,17,0,1.54,23
-Fran Pérez,2026-01-24,Rayo Vallecano,Osasuna,6.3,9,972.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0,2.06,23
-Fran Pérez,2026-02-01,Real Madrid,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Fran Pérez,2026-02-15,Rayo Vallecano,Atlético Madrid,7.7,64,6912.0,13.0,108.0,1,0,0.39,0.0,9,11,0,0,0,0,4,27,0,1.88,23
-Fran Pérez,2026-02-21,Real Betis,Rayo Vallecano,6.3,61,6588.0,12.0,108.0,0,0,0.0,0.01,10,11,0,0,0,0,3,18,0,1.82,23
-Fran Pérez,2026-02-28,Rayo Vallecano,Athletic Club,6.6,29,3132.0,6.0,108.0,0,0,0.0,0.01,5,6,1,0,0,0,3,12,0,1.92,23
-Fran Pérez,2026-03-04,Rayo Vallecano,Real Oviedo,6.9,25,2700.0,5.0,108.0,0,0,0.08,0.01,10,11,0,0,0,0,4,19,0,1.85,23
-Fran Pérez,2026-03-08,Sevilla,Rayo Vallecano,6.6,86,9288.0,17.0,108.0,0,0,0.05,0.02,11,14,1,0,0,0,3,33,0,1.83,23
-Fran Pérez,2026-03-16,Rayo Vallecano,Levante UD,6.4,45,4860.0,9.0,108.0,0,0,0.04,0.0,9,11,0,0,0,0,4,20,0,1.85,23
-Fran Pérez,2026-03-22,FC Barcelona,Rayo Vallecano,5.8,82,8856.0,16.0,108.0,0,0,0.0,0.01,8,11,0,0,0,0,4,21,0,1.81,23
-Fran Pérez,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,23
-Fran Pérez,2026-04-26,Rayo Vallecano,Real Sociedad,6.7,9,972.0,2.0,108.0,0,0,0.0,0.01,5,5,0,0,0,0,1,13,0,2.06,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Fran Pérez,23,2026-01-06,Granada,Rayo Vallecano,6.4,64,6912.0,13.0,108.0,0,0,0.0,0.0,14,17,1,0,0,0,1,35,0.0,1.88
+Fran Pérez,23,2026-01-11,Rayo Vallecano,Mallorca,6.5,11,1188.0,2.0,108.0,0,0,0.0,0.0,3,4,0,0,0,0,0,7,0.0,1.68
+Fran Pérez,23,2026-01-14,Deportivo Alavés,Rayo Vallecano,6.8,83,8964.0,17.0,108.0,0,0,0.0,0.0,12,16,0,0,0,0,4,27,0.0,1.9
+Fran Pérez,23,2026-01-18,Celta Vigo,Rayo Vallecano,6.8,12,1296.0,2.0,108.0,0,0,0.0,0.08,6,6,1,0,0,0,2,17,0.0,1.54
+Fran Pérez,23,2026-01-24,Rayo Vallecano,Osasuna,6.3,9,972.0,2.0,108.0,0,0,0.0,0.0,0,1,0,0,0,0,0,1,0.0,2.06
+Fran Pérez,23,2026-02-01,Real Madrid,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fran Pérez,23,2026-02-15,Rayo Vallecano,Atlético Madrid,7.7,64,6912.0,13.0,108.0,1,0,0.39,0.0,9,11,0,0,0,0,4,27,0.0,1.88
+Fran Pérez,23,2026-02-21,Real Betis,Rayo Vallecano,6.3,61,6588.0,12.0,108.0,0,0,0.0,0.01,10,11,0,0,0,0,3,18,0.0,1.82
+Fran Pérez,23,2026-02-28,Rayo Vallecano,Athletic Club,6.6,29,3132.0,6.0,108.0,0,0,0.0,0.01,5,6,1,0,0,0,3,12,0.0,1.92
+Fran Pérez,23,2026-03-04,Rayo Vallecano,Real Oviedo,6.9,25,2700.0,5.0,108.0,0,0,0.08,0.01,10,11,0,0,0,0,4,19,0.0,1.85
+Fran Pérez,23,2026-03-08,Sevilla,Rayo Vallecano,6.6,86,9288.0,17.0,108.0,0,0,0.05,0.02,11,14,1,0,0,0,3,33,0.0,1.83
+Fran Pérez,23,2026-03-16,Rayo Vallecano,Levante UD,6.4,45,4860.0,9.0,108.0,0,0,0.04,0.0,9,11,0,0,0,0,4,20,0.0,1.85
+Fran Pérez,23,2026-03-22,FC Barcelona,Rayo Vallecano,5.8,82,8856.0,16.0,108.0,0,0,0.0,0.01,8,11,0,0,0,0,4,21,0.0,1.81
+Fran Pérez,23,2026-04-23,Rayo Vallecano,Espanyol,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Fran Pérez,23,2026-04-26,Rayo Vallecano,Real Sociedad,6.7,9,972.0,2.0,108.0,0,0,0.0,0.01,5,5,0,0,0,0,1,13,0.0,2.06
+Fran Pérez,23,2026-05-03,Getafe,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Fran Pérez,23,2026-05-11,Rayo Vallecano,Girona FC,6.4,58,,,0.0,0,0,0.03,0.0,9,12,0,0,0,0,3,21,,
+Fran Pérez,23,2026-05-14,Valencia,Rayo Vallecano,6.3,60,,,0.0,0,0,0.0,0.01,11,14,0,0,0,0,6,19,,

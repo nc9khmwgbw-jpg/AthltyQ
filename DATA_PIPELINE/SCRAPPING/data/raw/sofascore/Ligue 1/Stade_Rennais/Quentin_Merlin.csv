@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Quentin Merlin,2026-01-18,Stade Rennais,Le Havre,7.2,73,7884.0,15.0,108.0,0,0,0.03,0.5,17,24,2,0,1,0,3,47,0,1.9,23
-Quentin Merlin,2026-01-24,Stade Rennais,Lorient,6.9,90,9720.0,18.0,108.0,0,0,0.07,0.18,43,48,2,0,3,0,3,85,0,1.85,23
-Quentin Merlin,2026-01-31,AS Monaco,Stade Rennais,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.06,33,42,1,0,2,0,4,63,0,1.85,23
-Quentin Merlin,2026-02-03,Olympique de Marseille,Stade Rennais,5.5,79,8532.0,16.0,108.0,0,0,0.0,0.0,33,46,0,0,0,0,3,65,0,1.88,23
-Quentin Merlin,2026-02-07,RC Lens,Stade Rennais,6.6,26,2808.0,5.0,108.0,0,0,0.0,0.18,15,19,2,0,3,0,0,37,0,1.78,23
-Quentin Merlin,2026-02-13,Stade Rennais,Paris Saint-Germain,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.0,13,25,0,0,1,0,3,48,0,1.85,23
-Quentin Merlin,2026-02-22,Auxerre,Stade Rennais,7.1,90,9720.0,18.0,108.0,0,0,0.01,0.1,46,57,2,0,1,0,6,92,0,1.85,23
-Quentin Merlin,2026-02-28,Stade Rennais,Toulouse,6.9,90,9720.0,18.0,108.0,0,0,0.07,0.03,50,64,0,0,0,0,3,94,0,1.85,23
-Quentin Merlin,2026-03-08,Nice,Stade Rennais,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.03,36,46,0,0,2,0,5,74,0,1.85,23
-Quentin Merlin,2026-03-15,Stade Rennais,Lille,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.08,50,61,3,0,1,0,3,103,0,1.85,23
-Quentin Merlin,2026-03-22,Stade Rennais,Metz,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.41,56,64,1,0,2,0,7,97,0,1.85,23
-Quentin Merlin,2026-04-04,Stade Brestois,Stade Rennais,6.4,90,9720.0,18.0,108.0,0,1,0.0,0.2,39,52,3,0,0,0,4,77,0,1.85,23
-Quentin Merlin,2026-04-11,Stade Rennais,Angers,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.18,46,57,1,0,1,0,4,84,0,1.85,23
-Quentin Merlin,2026-04-19,RC Strasbourg,Stade Rennais,7.4,90,9720.0,18.0,108.0,0,0,0.05,0.11,40,59,3,0,1,0,4,89,0,1.85,23
-Quentin Merlin,2026-04-26,Stade Rennais,Nantes,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.06,22,38,1,0,1,0,3,58,0,1.85,23
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Quentin Merlin,23,2026-01-18,Stade Rennais,Le Havre,7.2,73,7884.0,15.0,108.0,0,0,0.03,0.5,17,24,2,0,1,0,3,47,0.0,1.9
+Quentin Merlin,23,2026-01-24,Stade Rennais,Lorient,6.9,90,9720.0,18.0,108.0,0,0,0.07,0.18,43,48,2,0,3,0,3,85,0.0,1.85
+Quentin Merlin,23,2026-01-31,AS Monaco,Stade Rennais,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.06,33,42,1,0,2,0,4,63,0.0,1.85
+Quentin Merlin,23,2026-02-03,Olympique de Marseille,Stade Rennais,5.5,79,8532.0,16.0,108.0,0,0,0.0,0.0,33,46,0,0,0,0,3,65,0.0,1.88
+Quentin Merlin,23,2026-02-07,RC Lens,Stade Rennais,6.6,26,2808.0,5.0,108.0,0,0,0.0,0.18,15,19,2,0,3,0,0,37,0.0,1.78
+Quentin Merlin,23,2026-02-13,Stade Rennais,Paris Saint-Germain,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.0,13,25,0,0,1,0,3,48,0.0,1.85
+Quentin Merlin,23,2026-02-22,Auxerre,Stade Rennais,7.1,90,9720.0,18.0,108.0,0,0,0.01,0.1,46,57,2,0,1,0,6,92,0.0,1.85
+Quentin Merlin,23,2026-02-28,Stade Rennais,Toulouse,6.9,90,9720.0,18.0,108.0,0,0,0.07,0.03,50,64,0,0,0,0,3,94,0.0,1.85
+Quentin Merlin,23,2026-03-08,Nice,Stade Rennais,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.03,36,46,0,0,2,0,5,74,0.0,1.85
+Quentin Merlin,23,2026-03-15,Stade Rennais,Lille,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.08,50,61,3,0,1,0,3,103,0.0,1.85
+Quentin Merlin,23,2026-03-22,Stade Rennais,Metz,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.41,56,64,1,0,2,0,7,97,0.0,1.85
+Quentin Merlin,23,2026-04-04,Stade Brestois,Stade Rennais,6.4,90,9720.0,18.0,108.0,0,1,0.0,0.2,39,52,3,0,0,0,4,77,0.0,1.85
+Quentin Merlin,23,2026-04-11,Stade Rennais,Angers,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.18,46,57,1,0,1,0,4,84,0.0,1.85
+Quentin Merlin,23,2026-04-19,RC Strasbourg,Stade Rennais,7.4,90,9720.0,18.0,108.0,0,0,0.05,0.11,40,59,3,0,1,0,4,89,0.0,1.85
+Quentin Merlin,23,2026-04-26,Stade Rennais,Nantes,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.06,22,38,1,0,1,0,3,58,0.0,1.85
+Quentin Merlin,23,2026-05-03,Olympique Lyonnais,Stade Rennais,6.2,90,,,0.0,0,0,0.0,0.02,41,52,0,0,2,0,6,75,,
+Quentin Merlin,23,2026-05-10,Stade Rennais,Paris FC,7.3,90,,,0.0,0,0,0.05,0.08,33,47,2,0,0,0,10,78,,

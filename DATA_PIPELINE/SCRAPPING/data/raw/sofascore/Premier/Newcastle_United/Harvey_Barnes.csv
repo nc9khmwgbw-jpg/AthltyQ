@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Harvey Barnes,2026-02-18,Qarabağ FK,Newcastle United,6.6,87,9396.0,17.0,108.0,0,0,1.04,0.07,22,25,3,0,0,0,4,43,0,1.81,28
-Harvey Barnes,2026-02-21,Manchester City,Newcastle United,6.6,30,3240.0,6.0,108.0,0,0,0.01,0.01,9,11,0,0,0,0,0,15,0,1.85,28
-Harvey Barnes,2026-02-24,Newcastle United,Qarabağ FK,8.0,90,9720.0,18.0,108.0,0,0,0.09,0.95,27,34,3,0,0,0,4,54,0,1.85,28
-Harvey Barnes,2026-02-28,Newcastle United,Everton,6.6,34,3672.0,7.0,108.0,0,0,0.11,0.1,24,27,1,0,0,0,2,34,0,1.91,28
-Harvey Barnes,2026-03-04,Newcastle United,Manchester United,6.3,45,4860.0,9.0,108.0,0,0,0.26,0.01,9,11,0,0,0,0,0,16,0,1.85,28
-Harvey Barnes,2026-03-07,Newcastle United,Manchester City,7.7,90,9720.0,18.0,108.0,1,0,0.0,0.0,11,14,1,0,0,0,5,24,0,1.85,28
-Harvey Barnes,2026-03-10,Newcastle United,FC Barcelona,7.4,89,9612.0,18.0,108.0,1,0,0.72,0.01,10,13,0,0,1,0,1,29,0,1.87,28
-Harvey Barnes,2026-03-14,Chelsea,Newcastle United,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.04,17,24,1,0,1,0,1,34,0,1.85,28
-Harvey Barnes,2026-03-18,FC Barcelona,Newcastle United,7.1,90,9720.0,18.0,108.0,0,0,0.08,0.68,15,17,1,0,0,0,4,30,0,1.85,28
-Harvey Barnes,2026-03-22,Newcastle United,Sunderland,6.4,76,8208.0,15.0,108.0,0,0,0.05,0.01,14,17,1,0,0,0,3,28,0,1.83,28
-Harvey Barnes,2026-03-27,England,Uruguay,6.7,21,2268.0,4.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4,0,1.76,28
-Harvey Barnes,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Harvey Barnes,2026-04-12,Crystal Palace,Newcastle United,6.4,19,2052.0,4.0,108.0,0,0,0.0,0.01,8,12,0,0,0,0,0,16,0,1.95,28
-Harvey Barnes,2026-04-18,Newcastle United,Bournemouth,6.4,90,9720.0,18.0,108.0,0,0,0.17,0.08,18,26,0,0,0,0,5,46,0,1.85,28
-Harvey Barnes,2026-04-25,Arsenal,Newcastle United,6.8,24,2592.0,5.0,108.0,0,0,0.0,0.07,10,10,1,0,0,0,2,13,0,1.93,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Harvey Barnes,28,2026-02-18,Qarabağ FK,Newcastle United,6.6,87,9396.0,17.0,108.0,0,0,1.04,0.07,22,25,3,0,0,0,4,43,0.0,1.81
+Harvey Barnes,28,2026-02-21,Manchester City,Newcastle United,6.6,30,3240.0,6.0,108.0,0,0,0.01,0.01,9,11,0,0,0,0,0,15,0.0,1.85
+Harvey Barnes,28,2026-02-24,Newcastle United,Qarabağ FK,8.0,90,9720.0,18.0,108.0,0,0,0.09,0.95,27,34,3,0,0,0,4,54,0.0,1.85
+Harvey Barnes,28,2026-02-28,Newcastle United,Everton,6.6,34,3672.0,7.0,108.0,0,0,0.11,0.1,24,27,1,0,0,0,2,34,0.0,1.91
+Harvey Barnes,28,2026-03-04,Newcastle United,Manchester United,6.3,45,4860.0,9.0,108.0,0,0,0.26,0.01,9,11,0,0,0,0,0,16,0.0,1.85
+Harvey Barnes,28,2026-03-07,Newcastle United,Manchester City,7.7,90,9720.0,18.0,108.0,1,0,0.0,0.0,11,14,1,0,0,0,5,24,0.0,1.85
+Harvey Barnes,28,2026-03-10,Newcastle United,FC Barcelona,7.4,89,9612.0,18.0,108.0,1,0,0.72,0.01,10,13,0,0,1,0,1,29,0.0,1.87
+Harvey Barnes,28,2026-03-14,Chelsea,Newcastle United,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.04,17,24,1,0,1,0,1,34,0.0,1.85
+Harvey Barnes,28,2026-03-18,FC Barcelona,Newcastle United,7.1,90,9720.0,18.0,108.0,0,0,0.08,0.68,15,17,1,0,0,0,4,30,0.0,1.85
+Harvey Barnes,28,2026-03-22,Newcastle United,Sunderland,6.4,76,8208.0,15.0,108.0,0,0,0.05,0.01,14,17,1,0,0,0,3,28,0.0,1.83
+Harvey Barnes,28,2026-03-27,England,Uruguay,6.7,21,2268.0,4.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,1,4,0.0,1.76
+Harvey Barnes,28,2026-03-31,England,Japan,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Harvey Barnes,28,2026-04-12,Crystal Palace,Newcastle United,6.4,19,2052.0,4.0,108.0,0,0,0.0,0.01,8,12,0,0,0,0,0,16,0.0,1.95
+Harvey Barnes,28,2026-04-18,Newcastle United,Bournemouth,6.4,90,9720.0,18.0,108.0,0,0,0.17,0.08,18,26,0,0,0,0,5,46,0.0,1.85
+Harvey Barnes,28,2026-04-25,Arsenal,Newcastle United,6.8,24,2592.0,5.0,108.0,0,0,0.0,0.07,10,10,1,0,0,0,2,13,0.0,1.93
+Harvey Barnes,28,2026-05-02,Newcastle United,Brighton & Hove Albion,7.4,22,,,0.0,1,0,0.26,0.01,5,5,0,0,0,0,1,13,,
+Harvey Barnes,28,2026-05-10,Nottingham Forest,Newcastle United,7.5,29,,,0.0,1,0,0.29,0.11,7,9,1,0,0,0,1,12,,

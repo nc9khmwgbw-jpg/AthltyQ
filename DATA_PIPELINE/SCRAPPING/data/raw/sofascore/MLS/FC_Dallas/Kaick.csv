@@ -1,0 +1,15 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Kaick,20,2026-05-17,San Jose Earthquakes,FC Dallas,6.8,90,,,0.0,0,0,0.03,0.33,23,30,2,0,1,0,1,66
+Kaick,20,2026-05-14,FC Dallas,Vancouver Whitecaps,6.6,79,,,0.0,0,0,0.0,0.02,27,29,0,0,1,0,3,44
+Kaick,20,2026-05-10,FC Dallas,Real Salt Lake,7.7,90,,,0.0,1,0,0.78,0.03,20,23,0,0,1,0,2,40
+Kaick,20,2026-05-03,New York Red Bulls,FC Dallas,6.6,89,,,0.0,0,0,0.0,0.03,31,38,3,0,2,0,2,49
+Kaick,20,2026-04-26,Seattle Sounders FC,FC Dallas,6.8,13,,,0.0,0,0,0.0,0.11,9,11,1,0,0,0,0,15
+Kaick,20,2026-04-23,FC Dallas,Minnesota United,7.5,90,,,0.0,0,0,0.15,0.35,49,60,1,0,2,0,9,79
+Kaick,20,2026-04-19,FC Dallas,LA Galaxy,7.1,90,,,0.0,0,0,0.11,0.08,51,57,0,0,1,0,4,75
+Kaick,20,2026-04-12,FC Dallas,St.Louis City,6.0,55,,,0.0,0,0,0.53,0.01,18,25,0,0,0,0,1,33
+Kaick,20,2026-04-05,DC United,FC Dallas,7.3,85,,,0.0,0,0,0.0,0.01,29,37,0,0,0,0,5,47
+Kaick,20,2026-03-22,FC Dallas,Houston Dynamo,5.9,74,,,0.0,0,0,0.09,0.05,19,24,1,0,0,0,2,33
+Kaick,20,2026-03-15,FC Dallas,San Diego FC,7.1,90,,,0.0,0,0,0.02,0.3,30,38,1,0,0,0,6,53
+Kaick,20,2026-03-08,Los Angeles FC,FC Dallas,7.2,17,,,0.0,0,0,0.09,0.13,24,26,1,0,1,0,2,36
+Kaick,20,2026-03-01,FC Dallas,Nashville SC,7.2,90,,,0.0,0,0,0.0,0.11,44,53,1,0,0,0,5,61
+Kaick,20,2026-02-22,FC Dallas,Toronto FC,6.2,72,,,0.0,0,0,0.06,0.01,24,30,1,0,0,0,0,42

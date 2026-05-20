@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Gautier Lloris,2025-11-30,Le Havre,Lille,7.4,90,9720.0,18.0,108.0,0,0,0.1,0.01,34,39,0,0,3,0,4,51,0,1.85,30
-Gautier Lloris,2025-12-07,Le Havre,Paris FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,54,58,0,0,2,0,3,64,0,1.85,30
-Gautier Lloris,2025-12-14,Olympique Lyonnais,Le Havre,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,35,0,0,0,0,1,45,0,1.85,30
-Gautier Lloris,2025-12-21,Le Havre,Amiens SC,7.6,45,4860.0,9.0,108.0,0,0,0.0,0.0,46,49,1,0,0,0,6,55,0,1.85,30
-Gautier Lloris,2026-01-04,Le Havre,Angers,7.3,90,9720.0,18.0,108.0,0,0,0.14,0.02,62,66,0,0,1,0,2,87,0,1.85,30
-Gautier Lloris,2026-01-18,Stade Rennais,Le Havre,7.2,42,4536.0,8.0,108.0,0,0,0.0,0.0,20,25,0,0,1,0,0,32,0,1.76,30
-Gautier Lloris,2026-02-08,Le Havre,RC Strasbourg,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,7,7,0,0,0,0,0,10,0,1.68,30
-Gautier Lloris,2026-02-15,Le Havre,Toulouse,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,45,0,0,1,0,5,67,0,1.85,30
-Gautier Lloris,2026-02-22,Nantes,Le Havre,6.9,90,9720.0,18.0,108.0,0,0,0.01,0.0,80,85,0,0,3,0,5,103,0,1.85,30
-Gautier Lloris,2026-02-28,Le Havre,Paris Saint-Germain,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.1,32,38,0,0,3,0,2,51,0,1.85,30
-Gautier Lloris,2026-03-08,Stade Brestois,Le Havre,7.2,63,6804.0,13.0,108.0,0,0,0.0,0.0,48,51,0,0,1,0,2,65,0,1.91,30
-Gautier Lloris,2026-04-05,Le Havre,Auxerre,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,57,63,1,0,2,0,2,73,0,1.85,30
-Gautier Lloris,2026-04-12,Nice,Le Havre,6.7,90,9720.0,18.0,108.0,0,0,0.08,0.01,52,64,0,0,2,0,3,77,0,1.85,30
-Gautier Lloris,2026-04-18,Angers,Le Havre,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.01,72,76,0,0,0,0,2,87,0,1.85,30
-Gautier Lloris,2026-04-26,Le Havre,Metz,6.7,90,9720.0,18.0,108.0,0,0,0.02,0.0,54,60,0,0,0,0,1,71,0,1.85,30
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Gautier Lloris,30,2025-11-30,Le Havre,Lille,7.4,90,9720.0,18.0,108.0,0,0,0.1,0.01,34,39,0,0,3,0,4,51,0.0,1.85
+Gautier Lloris,30,2025-12-07,Le Havre,Paris FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.02,54,58,0,0,2,0,3,64,0.0,1.85
+Gautier Lloris,30,2025-12-14,Olympique Lyonnais,Le Havre,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,31,35,0,0,0,0,1,45,0.0,1.85
+Gautier Lloris,30,2025-12-21,Le Havre,Amiens SC,7.6,45,4860.0,9.0,108.0,0,0,0.0,0.0,46,49,1,0,0,0,6,55,0.0,1.85
+Gautier Lloris,30,2026-01-04,Le Havre,Angers,7.3,90,9720.0,18.0,108.0,0,0,0.14,0.02,62,66,0,0,1,0,2,87,0.0,1.85
+Gautier Lloris,30,2026-01-18,Stade Rennais,Le Havre,7.2,42,4536.0,8.0,108.0,0,0,0.0,0.0,20,25,0,0,1,0,0,32,0.0,1.76
+Gautier Lloris,30,2026-02-08,Le Havre,RC Strasbourg,6.7,11,1188.0,2.0,108.0,0,0,0.0,0.0,7,7,0,0,0,0,0,10,0.0,1.68
+Gautier Lloris,30,2026-02-15,Le Havre,Toulouse,7.8,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,45,0,0,1,0,5,67,0.0,1.85
+Gautier Lloris,30,2026-02-22,Nantes,Le Havre,6.9,90,9720.0,18.0,108.0,0,0,0.01,0.0,80,85,0,0,3,0,5,103,0.0,1.85
+Gautier Lloris,30,2026-02-28,Le Havre,Paris Saint-Germain,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.1,32,38,0,0,3,0,2,51,0.0,1.85
+Gautier Lloris,30,2026-03-08,Stade Brestois,Le Havre,7.2,63,6804.0,13.0,108.0,0,0,0.0,0.0,48,51,0,0,1,0,2,65,0.0,1.91
+Gautier Lloris,30,2026-04-05,Le Havre,Auxerre,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.03,57,63,1,0,2,0,2,73,0.0,1.85
+Gautier Lloris,30,2026-04-12,Nice,Le Havre,6.7,90,9720.0,18.0,108.0,0,0,0.08,0.01,52,64,0,0,2,0,3,77,0.0,1.85
+Gautier Lloris,30,2026-04-18,Angers,Le Havre,6.7,90,9720.0,18.0,108.0,0,0,0.06,0.01,72,76,0,0,0,0,2,87,0.0,1.85
+Gautier Lloris,30,2026-04-26,Le Havre,Metz,6.7,90,9720.0,18.0,108.0,0,0,0.02,0.0,54,60,0,0,0,0,1,71,0.0,1.85
+Gautier Lloris,30,2026-05-03,Lille,Le Havre,7.6,90,,,0.0,0,0,0.0,0.01,19,22,0,0,2,0,0,52,,
+Gautier Lloris,30,2026-05-10,Le Havre,Olympique de Marseille,6.6,90,,,0.0,0,0,0.0,0.01,50,58,0,0,1,0,3,62,,

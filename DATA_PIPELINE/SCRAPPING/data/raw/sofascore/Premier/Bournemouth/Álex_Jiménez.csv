@@ -1,15 +1,16 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Álex Jiménez,2026-01-10,Newcastle United,Bournemouth,6.1,49,5292.0,10.0,108.0,0,0,0.0,0.0,8,12,2,0,0,0,4,30,0,1.89,21
-Álex Jiménez,2026-01-19,Brighton & Hove Albion,Bournemouth,6.6,89,9612.0,18.0,108.0,0,0,0.02,0.01,15,22,1,0,3,0,7,46,0,1.87,21
-Álex Jiménez,2026-01-24,Bournemouth,Liverpool,7.4,85,9180.0,17.0,108.0,1,0,0.43,0.01,9,13,0,0,4,0,5,32,0,1.85,21
-Álex Jiménez,2026-01-31,Wolverhampton,Bournemouth,6.6,86,9288.0,17.0,108.0,0,0,0.03,0.03,14,17,0,0,0,0,7,37,0,1.83,21
-Álex Jiménez,2026-02-07,Bournemouth,Aston Villa,6.9,86,9288.0,17.0,108.0,0,0,0.0,0.02,32,37,1,0,0,0,4,67,0,1.83,21
-Álex Jiménez,2026-02-10,Everton,Bournemouth,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.06,36,48,1,0,0,0,9,75,0,1.85,21
-Álex Jiménez,2026-02-21,West Ham United,Bournemouth,7.1,89,9612.0,18.0,108.0,0,0,0.0,0.01,24,28,0,0,1,0,4,47,0,1.87,21
-Álex Jiménez,2026-02-28,Bournemouth,Sunderland,7.3,90,9720.0,18.0,108.0,0,0,0.08,0.23,34,41,2,0,2,0,3,73,0,1.85,21
-Álex Jiménez,2026-03-03,Bournemouth,Brentford,7.7,90,9720.0,18.0,108.0,0,0,0.03,0.39,27,37,2,0,2,0,5,61,0,1.85,21
-Álex Jiménez,2026-03-14,Burnley,Bournemouth,6.9,29,3132.0,6.0,108.0,0,0,0.0,0.04,12,15,1,0,0,0,4,28,0,1.92,21
-Álex Jiménez,2026-03-20,Bournemouth,Manchester United,5.7,73,7884.0,15.0,108.0,0,0,0.03,0.01,32,38,0,0,3,0,7,57,0,1.9,21
-Álex Jiménez,2026-04-11,Arsenal,Bournemouth,6.8,89,9612.0,18.0,108.0,0,0,0.0,0.01,30,38,0,0,0,0,9,56,0,1.87,21
-Álex Jiménez,2026-04-18,Newcastle United,Bournemouth,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.03,28,39,1,0,1,0,6,64,0,1.85,21
-Álex Jiménez,2026-04-22,Bournemouth,Leeds United,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.05,40,48,0,0,1,0,5,75,0,1.85,21
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Álex Jiménez,21,2026-01-10,Newcastle United,Bournemouth,6.1,49,5292.0,10.0,108.0,0,0,0.0,0.0,8,12,2,0,0,0,4,30,0.0,1.89
+Álex Jiménez,21,2026-01-19,Brighton & Hove Albion,Bournemouth,6.6,89,9612.0,18.0,108.0,0,0,0.02,0.01,15,22,1,0,3,0,7,46,0.0,1.87
+Álex Jiménez,21,2026-01-24,Bournemouth,Liverpool,7.4,85,9180.0,17.0,108.0,1,0,0.43,0.01,9,13,0,0,4,0,5,32,0.0,1.85
+Álex Jiménez,21,2026-01-31,Wolverhampton,Bournemouth,6.6,86,9288.0,17.0,108.0,0,0,0.03,0.03,14,17,0,0,0,0,7,37,0.0,1.83
+Álex Jiménez,21,2026-02-07,Bournemouth,Aston Villa,6.9,86,9288.0,17.0,108.0,0,0,0.0,0.02,32,37,1,0,0,0,4,67,0.0,1.83
+Álex Jiménez,21,2026-02-10,Everton,Bournemouth,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.06,36,48,1,0,0,0,9,75,0.0,1.85
+Álex Jiménez,21,2026-02-21,West Ham United,Bournemouth,7.1,89,9612.0,18.0,108.0,0,0,0.0,0.01,24,28,0,0,1,0,4,47,0.0,1.87
+Álex Jiménez,21,2026-02-28,Bournemouth,Sunderland,7.3,90,9720.0,18.0,108.0,0,0,0.08,0.23,34,41,2,0,2,0,3,73,0.0,1.85
+Álex Jiménez,21,2026-03-03,Bournemouth,Brentford,7.7,90,9720.0,18.0,108.0,0,0,0.03,0.39,27,37,2,0,2,0,5,61,0.0,1.85
+Álex Jiménez,21,2026-03-14,Burnley,Bournemouth,6.9,29,3132.0,6.0,108.0,0,0,0.0,0.04,12,15,1,0,0,0,4,28,0.0,1.92
+Álex Jiménez,21,2026-03-20,Bournemouth,Manchester United,5.7,73,7884.0,15.0,108.0,0,0,0.03,0.01,32,38,0,0,3,0,7,57,0.0,1.9
+Álex Jiménez,21,2026-04-11,Arsenal,Bournemouth,6.8,89,9612.0,18.0,108.0,0,0,0.0,0.01,30,38,0,0,0,0,9,56,0.0,1.87
+Álex Jiménez,21,2026-04-18,Newcastle United,Bournemouth,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.03,28,39,1,0,1,0,6,64,0.0,1.85
+Álex Jiménez,21,2026-04-22,Bournemouth,Leeds United,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.05,40,48,0,0,1,0,5,75,0.0,1.85
+Álex Jiménez,21,2026-05-03,Bournemouth,Crystal Palace,7.4,90,,,0.0,0,0,0.02,0.12,29,35,1,0,1,0,7,58,,

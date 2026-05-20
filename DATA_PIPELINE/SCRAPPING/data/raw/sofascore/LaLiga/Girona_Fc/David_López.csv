@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-David López,2026-01-10,Girona FC,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-01-16,Espanyol,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-01-31,Real Oviedo,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-03-01,Girona FC,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-03-07,Levante UD,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-03-14,Girona FC,Athletic Club,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-03-21,Osasuna,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-04-06,Girona FC,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-04-10,Real Madrid,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-04-21,Girona FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
-David López,2026-04-25,Valencia,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,36
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+David López,36,2026-01-10,Girona FC,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-01-16,Espanyol,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-01-26,Girona FC,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-01-31,Real Oviedo,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-02-08,Sevilla,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-02-16,Girona FC,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-03-01,Girona FC,Celta Vigo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-03-07,Levante UD,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-03-14,Girona FC,Athletic Club,,1,108.0,0.0,108.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-03-21,Osasuna,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-04-06,Girona FC,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-04-10,Real Madrid,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-04-21,Girona FC,Real Betis,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-04-25,Valencia,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David López,36,2026-05-01,Girona FC,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+David López,36,2026-05-11,Rayo Vallecano,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+David López,36,2026-05-14,Girona FC,Real Sociedad,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

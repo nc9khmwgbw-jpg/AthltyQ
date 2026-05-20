@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Arnaud Bodart,2026-02-06,Metz,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-02-14,Lille,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-02-19,Lille,FK Crvena zvezda,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-02-26,FK Crvena zvezda,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-03-01,Lille,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-03-08,Lille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-03-22,Olympique de Marseille,Lille,6.7,46,4968.0,9.0,108.0,0,0,0.0,0.0,14,23,0,0,0,0,1,25,0,1.81,28
-Arnaud Bodart,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-04-12,Toulouse,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-04-18,Lille,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Arnaud Bodart,2026-04-26,Paris FC,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Arnaud Bodart,28,2026-02-06,Metz,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-02-14,Lille,Stade Brestois,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-02-19,Lille,FK Crvena zvezda,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-02-22,Angers,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-02-26,FK Crvena zvezda,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-03-01,Lille,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-03-08,Lille,Lorient,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-03-12,Lille,Aston Villa,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-03-15,Stade Rennais,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-03-19,Aston Villa,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-03-22,Olympique de Marseille,Lille,6.7,46,4968.0,9.0,108.0,0,0,0.0,0.0,14,23,0,0,0,0,1,25,0.0,1.81
+Arnaud Bodart,28,2026-04-04,Lille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-04-12,Toulouse,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-04-18,Lille,Nice,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-04-26,Paris FC,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Arnaud Bodart,28,2026-05-03,Lille,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Arnaud Bodart,28,2026-05-10,AS Monaco,Lille,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

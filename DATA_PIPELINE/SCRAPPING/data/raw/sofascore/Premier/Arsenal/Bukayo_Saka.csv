@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Bukayo Saka,2026-01-25,Arsenal,Manchester United,7.7,90,9720.0,18.0,108.0,0,0,0.07,0.43,27,35,3,0,2,0,5,67,0.0,1.85,24
-Bukayo Saka,2026-01-28,Arsenal,Kairat Almaty,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0,24
-Bukayo Saka,2026-02-12,Brentford,Arsenal,6.4,20,2160.0,4.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,6,0.0,1.85,24
-Bukayo Saka,2026-02-15,Arsenal,Wigan Athletic,7.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,25,26,1,0,0,0,5,37,0.0,1.85,24
-Bukayo Saka,2026-02-18,Wolverhampton,Arsenal,8.1,73,7884.0,15.0,108.0,0,0,0.55,0.13,20,29,1,0,3,0,9,56,0.0,1.9,24
-Bukayo Saka,2026-02-22,Tottenham Hotspur,Arsenal,6.4,89,9612.0,18.0,108.0,1,0,0.58,0.12,19,31,2,0,1,0,4,67,0.0,1.87,24
-Bukayo Saka,2026-03-01,Arsenal,Chelsea,7.0,90,9720.0,18.0,108.0,0,0,0.01,0.29,15,25,5,0,1,0,6,45,0.0,1.85,24
-Bukayo Saka,2026-03-04,Brighton & Hove Albion,Arsenal,7.1,90,9720.0,18.0,108.0,1,0,0.12,0.01,7,14,0,0,2,0,1,30,0.0,1.85,24
-Bukayo Saka,2026-03-07,Mansfield Town,Arsenal,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.0,7,7,1,0,0,0,1,11,0.0,2.14,24
-Bukayo Saka,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.3,60,6480.0,12.0,108.0,0,0,0.02,0.01,16,19,0,0,1,0,3,38,0.0,1.85,24
-Bukayo Saka,2026-03-14,Arsenal,Everton,6.8,90,9720.0,18.0,108.0,0,0,0.15,0.09,34,43,2,0,1,0,4,69,0.0,1.85,24
-Bukayo Saka,2026-03-17,Arsenal,Bayer 04 Leverkusen,8.8,90,9720.0,18.0,108.0,0,0,0.3,0.78,26,31,5,0,1,0,5,58,0.0,1.85,24
-Bukayo Saka,2026-03-22,Arsenal,Manchester City,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,15,1,0,0,0,2,36,0.0,1.85,24
-Bukayo Saka,2026-04-25,Arsenal,Newcastle United,6.4,9,972.0,2.0,108.0,0,0,0.04,0.01,4,5,1,0,1,0,0,10,0.0,2.06,24
-Bukayo Saka,2026-04-29,Atlético Madrid,Arsenal,6.6,22,2376.0,4.0,108.0,0,0,0.0,0.03,10,11,1,0,0,0,0,24,0.0,1.68,24
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Bukayo Saka,24,2026-01-25,Arsenal,Manchester United,7.7,90,9720.0,18.0,108.0,0,0,0.07,0.43,27,35,3,0,2,0,5,67,0.0,1.85
+Bukayo Saka,24,2026-01-28,Arsenal,Kairat Almaty,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Bukayo Saka,24,2026-02-12,Brentford,Arsenal,6.4,20,2160.0,4.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,0,6,0.0,1.85
+Bukayo Saka,24,2026-02-15,Arsenal,Wigan Athletic,7.4,45,4860.0,9.0,108.0,0,0,0.0,0.0,25,26,1,0,0,0,5,37,0.0,1.85
+Bukayo Saka,24,2026-02-18,Wolverhampton,Arsenal,8.1,73,7884.0,15.0,108.0,0,0,0.55,0.13,20,29,1,0,3,0,9,56,0.0,1.9
+Bukayo Saka,24,2026-02-22,Tottenham Hotspur,Arsenal,6.4,89,9612.0,18.0,108.0,1,0,0.58,0.12,19,31,2,0,1,0,4,67,0.0,1.87
+Bukayo Saka,24,2026-03-01,Arsenal,Chelsea,7.0,90,9720.0,18.0,108.0,0,0,0.01,0.29,15,25,5,0,1,0,6,45,0.0,1.85
+Bukayo Saka,24,2026-03-04,Brighton & Hove Albion,Arsenal,7.1,90,9720.0,18.0,108.0,1,0,0.12,0.01,7,14,0,0,2,0,1,30,0.0,1.85
+Bukayo Saka,24,2026-03-07,Mansfield Town,Arsenal,6.8,13,1404.0,3.0,108.0,0,0,0.0,0.0,7,7,1,0,0,0,1,11,0.0,2.14
+Bukayo Saka,24,2026-03-11,Bayer 04 Leverkusen,Arsenal,6.3,60,6480.0,12.0,108.0,0,0,0.02,0.01,16,19,0,0,1,0,3,38,0.0,1.85
+Bukayo Saka,24,2026-03-14,Arsenal,Everton,6.8,90,9720.0,18.0,108.0,0,0,0.15,0.09,34,43,2,0,1,0,4,69,0.0,1.85
+Bukayo Saka,24,2026-03-17,Arsenal,Bayer 04 Leverkusen,8.8,90,9720.0,18.0,108.0,0,0,0.3,0.78,26,31,5,0,1,0,5,58,0.0,1.85
+Bukayo Saka,24,2026-03-22,Arsenal,Manchester City,6.4,90,9720.0,18.0,108.0,0,0,0.0,0.0,11,15,1,0,0,0,2,36,0.0,1.85
+Bukayo Saka,24,2026-04-25,Arsenal,Newcastle United,6.4,9,972.0,2.0,108.0,0,0,0.04,0.01,4,5,1,0,1,0,0,10,0.0,2.06
+Bukayo Saka,24,2026-04-29,Atlético Madrid,Arsenal,6.6,22,2376.0,4.0,108.0,0,0,0.0,0.03,10,11,1,0,0,0,0,24,0.0,1.68
+Bukayo Saka,24,2026-05-02,Arsenal,Fulham,9.5,45,,,0.0,1,0,0.3,0.86,24,30,4,0,0,0,4,41,,
+Bukayo Saka,24,2026-05-05,Arsenal,Atlético Madrid,7.2,58,,,0.0,1,0,0.77,0.05,17,19,1,0,0,0,1,29,,
+Bukayo Saka,24,2026-05-10,West Ham United,Arsenal,6.1,80,,,0.0,0,0,0.04,0.25,17,23,3,0,0,0,2,38,,

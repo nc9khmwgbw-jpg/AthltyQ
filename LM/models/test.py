@@ -17,7 +17,7 @@ import pandas as pd
 import numpy as np
 import joblib
 from pathlib import Path
-from sklearn.metrics import mean_absolute_error, r2_score
+from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 
 # ─── Chemins (identiques à train.py) ──────────────────────────────────────────
 ROOT            = Path(__file__).resolve().parents[2]
@@ -126,21 +126,21 @@ def tester_modele(joueur: Optional[str] = None) -> None:
 
     # 6. Métriques globales
     mae = float(mean_absolute_error(y_test, y_pred))
+    rmse = float(np.sqrt(mean_squared_error(y_test, y_pred)))
     r2 = float(r2_score(y_test, y_pred))
-    precision = 100 - mae
 
     print("\n" + "─"*70)
     print("📈 RÉSULTATS GLOBAUX (Joueurs Jamais Vus) :")
-    print(f"   Précision Finale       : {precision:.2f}%")
-    print(f"   Marge d'erreur (MAE)   : {mae:.2f}%")
-    print(f"   Fiabilité (R²)         : {r2:.2f}")
+    print(f"   Marge d'erreur (MAE)      : {mae:.2f}%")
+    print(f"   Erreur quadratique (RMSE) : {rmse:.2f}%")
+    print(f"   Fiabilité (R²)            : {r2:.2f}")
     print("─"*70)
 
     # 7. Vue par joueur (si mode individuel ou nombre réduit)
     joueurs_test = df_test[col_nom].unique()
     if joueur or len(joueurs_test) <= 20:
         print("\n📋 DÉTAIL PAR JOUEUR :")
-        print(f"{'Joueur':<28} | {'Matchs':<7} | {'MAE':<7} | {'Préc.':<7} | Statut")
+        print(f"{'Joueur':<28} | {'Matchs':<7} | {'MAE':<7} | {'RMSE':<7} | Statut")
         print("─"*70)
 
         resultats = []
@@ -154,12 +154,12 @@ def tester_modele(joueur: Optional[str] = None) -> None:
             if len(y_j) == 0:
                 continue
             mae_j = float(mean_absolute_error(y_j, y_p))
-            prec_j = 100 - mae_j
+            rmse_j = float(np.sqrt(mean_squared_error(y_j, y_p)))
             status = "🟢" if mae_j < 10 else ("🟠" if mae_j < 20 else "🔴")
-            resultats.append((nom, len(y_j), mae_j, prec_j, status))
+            resultats.append((nom, len(y_j), mae_j, rmse_j, status))
 
-        for nom, n, mae_j, prec_j, status in sorted(resultats, key=lambda x: x[2]):
-            print(f"{nom:<28} | {n:<7} | {mae_j:<7.2f} | {prec_j:<7.2f}% | {status}")
+        for nom, n, mae_j, rmse_j, status in sorted(resultats, key=lambda x: x[2]):
+            print(f"{nom:<28} | {n:<7} | {mae_j:<7.2f} | {rmse_j:<7.2f}% | {status}")
 
         print("─"*70)
 

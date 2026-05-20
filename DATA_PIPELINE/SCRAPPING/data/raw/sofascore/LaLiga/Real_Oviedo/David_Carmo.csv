@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-David Carmo,2025-12-29,Angola,Egypt,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,37,0,0,1,0,7,53,0,1.85,26
-David Carmo,2026-01-04,Deportivo Alavés,Real Oviedo,6.5,36,3888.0,7.0,108.0,0,0,0.0,0.0,4,8,0,0,1,0,1,21,0,1.8,26
-David Carmo,2026-01-10,Real Oviedo,Real Betis,6.8,90,9720.0,18.0,108.0,0,0,0.08,0.01,45,49,0,0,0,0,4,65,0,1.85,26
-David Carmo,2026-01-25,FC Barcelona,Real Oviedo,5.8,90,9720.0,18.0,108.0,0,0,0.01,0.0,28,32,0,0,1,0,5,43,0,1.85,26
-David Carmo,2026-01-31,Real Oviedo,Girona FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.18,21,28,1,0,1,0,2,39,0,1.85,26
-David Carmo,2026-02-15,Real Oviedo,Athletic Club,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.04,58,75,2,0,2,0,4,91,0,1.85,26
-David Carmo,2026-02-21,Real Sociedad,Real Oviedo,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.07,25,34,1,0,1,0,3,44,0,1.85,26
-David Carmo,2026-02-28,Real Oviedo,Atlético Madrid,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,31,42,0,0,0,0,3,50,0,1.85,26
-David Carmo,2026-03-04,Rayo Vallecano,Real Oviedo,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.01,37,47,0,0,1,0,5,60,0,1.85,26
-David Carmo,2026-03-09,Espanyol,Real Oviedo,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,49,0,0,3,0,4,67,0,1.85,26
-David Carmo,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-David Carmo,2026-03-21,Levante UD,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-David Carmo,2026-04-12,Celta Vigo,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-David Carmo,2026-04-23,Real Oviedo,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-David Carmo,2026-04-26,Real Oviedo,Elche,5.8,65,7020.0,13.0,108.0,0,0,0.0,0.0,28,36,0,0,0,0,2,44,0,1.85,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+David Carmo,26,2025-12-29,Angola,Egypt,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,30,37,0,0,1,0,7,53,0.0,1.85
+David Carmo,26,2026-01-04,Deportivo Alavés,Real Oviedo,6.5,36,3888.0,7.0,108.0,0,0,0.0,0.0,4,8,0,0,1,0,1,21,0.0,1.8
+David Carmo,26,2026-01-10,Real Oviedo,Real Betis,6.8,90,9720.0,18.0,108.0,0,0,0.08,0.01,45,49,0,0,0,0,4,65,0.0,1.85
+David Carmo,26,2026-01-25,FC Barcelona,Real Oviedo,5.8,90,9720.0,18.0,108.0,0,0,0.01,0.0,28,32,0,0,1,0,5,43,0.0,1.85
+David Carmo,26,2026-01-31,Real Oviedo,Girona FC,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.18,21,28,1,0,1,0,2,39,0.0,1.85
+David Carmo,26,2026-02-15,Real Oviedo,Athletic Club,6.7,90,9720.0,18.0,108.0,0,0,0.0,0.04,58,75,2,0,2,0,4,91,0.0,1.85
+David Carmo,26,2026-02-21,Real Sociedad,Real Oviedo,6.1,90,9720.0,18.0,108.0,0,0,0.0,0.07,25,34,1,0,1,0,3,44,0.0,1.85
+David Carmo,26,2026-02-28,Real Oviedo,Atlético Madrid,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,31,42,0,0,0,0,3,50,0.0,1.85
+David Carmo,26,2026-03-04,Rayo Vallecano,Real Oviedo,7.2,90,9720.0,18.0,108.0,0,0,0.02,0.01,37,47,0,0,1,0,5,60,0.0,1.85
+David Carmo,26,2026-03-09,Espanyol,Real Oviedo,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.0,36,49,0,0,3,0,4,67,0.0,1.85
+David Carmo,26,2026-03-14,Real Oviedo,Valencia,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David Carmo,26,2026-03-21,Levante UD,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David Carmo,26,2026-04-12,Celta Vigo,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David Carmo,26,2026-04-23,Real Oviedo,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+David Carmo,26,2026-04-26,Real Oviedo,Elche,5.8,65,7020.0,13.0,108.0,0,0,0.0,0.0,28,36,0,0,0,0,2,44,0.0,1.85
+David Carmo,26,2026-05-03,Real Betis,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+David Carmo,26,2026-05-10,Real Oviedo,Getafe,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+David Carmo,26,2026-05-14,Real Madrid,Real Oviedo,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

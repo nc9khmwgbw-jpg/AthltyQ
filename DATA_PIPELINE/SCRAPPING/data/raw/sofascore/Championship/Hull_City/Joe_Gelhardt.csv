@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Joe Gelhardt,24,2026-05-11,Millwall,Hull City,7.4,12,,,0.0,1,0,0.19,0.0,2,2,0,0,0,0,1,8
+Joe Gelhardt,24,2026-05-08,Hull City,Millwall,6.7,74,,,0.0,0,0,0.0,0.02,12,15,0,0,0,0,2,25
+Joe Gelhardt,24,2026-05-02,Hull City,Norwich City,6.4,60,,,0.0,0,0,0.0,0.0,6,11,0,0,0,0,0,19
+Joe Gelhardt,24,2026-04-25,Charlton Athletic,Hull City,5.8,69,,,0.0,0,0,0.35,0.04,12,17,1,0,0,0,3,29
+Joe Gelhardt,24,2026-04-21,Leicester City,Hull City,6.4,82,,,0.0,0,0,0.02,0.04,17,21,2,0,2,0,4,40
+Joe Gelhardt,24,2026-04-18,Hull City,Birmingham City,7.4,75,,,0.0,1,0,0.16,0.01,10,13,2,0,0,0,2,21
+Joe Gelhardt,24,2026-04-11,Sheffield United,Hull City,6.9,19,,,0.0,0,0,0.02,0.0,4,5,0,0,0,0,0,13
+Joe Gelhardt,24,2026-04-06,Hull City,Coventry City,6.9,74,,,0.0,0,0,0.08,0.11,18,23,2,0,1,0,4,39
+Joe Gelhardt,24,2026-04-03,Oxford United,Hull City,6.2,64,,,0.0,0,0,0.0,0.03,21,25,1,0,1,0,8,40
+Joe Gelhardt,24,2026-03-21,Hull City,Sheffield Wednesday,6.2,69,,,0.0,0,0,0.07,0.03,18,25,0,0,0,0,1,47
+Joe Gelhardt,24,2026-03-14,West Bromwich Albion,Hull City,6.3,75,,,0.0,0,0,0.0,0.0,9,16,0,0,0,0,2,31
+Joe Gelhardt,24,2026-03-10,Wrexham,Hull City,7.6,82,,,0.0,1,0,0.95,0.14,12,17,0,0,0,0,4,45
+Joe Gelhardt,24,2026-03-07,Hull City,Millwall,8.1,90,,,0.0,1,0,1.11,0.33,30,38,1,0,0,0,5,56
+Joe Gelhardt,24,2026-03-03,Ipswich Town,Hull City,6.5,45,,,0.0,0,0,0.0,0.02,7,7,1,0,0,0,2,12
+Joe Gelhardt,24,2026-02-28,Portsmouth,Hull City,6.7,76,,,0.0,0,0,0.2,0.02,11,15,0,0,1,0,1,29

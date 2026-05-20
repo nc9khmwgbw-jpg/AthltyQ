@@ -1,16 +1,17 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Nidal Čelik,2025-12-19,RC Lens,Entente Feignies-Aulnoye,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Nidal Čelik,2026-01-02,Toulouse,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Nidal Čelik,2026-01-11,Sochaux,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Nidal Čelik,2026-01-24,Olympique de Marseille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Nidal Čelik,2026-01-30,RC Lens,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Nidal Čelik,2026-02-14,Paris FC,RC Lens,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,40,0,0,1,0,2,65,0,1.85,19
-Nidal Čelik,2026-02-21,RC Lens,AS Monaco,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,44,50,0,0,0,0,6,60,0,1.85,19
-Nidal Čelik,2026-02-27,RC Strasbourg,RC Lens,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,37,44,0,0,2,0,3,53,0,1.85,19
-Nidal Čelik,2026-03-05,Olympique Lyonnais,RC Lens,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,28,0,0,2,0,0,37,0,1.85,19
-Nidal Čelik,2026-03-08,RC Lens,Metz,6.6,45,4860.0,9.0,108.0,0,0,0.0,0.0,20,21,0,0,1,0,2,25,0,1.85,19
-Nidal Čelik,2026-03-14,Lorient,RC Lens,6.4,68,7344.0,14.0,108.0,0,0,0.0,0.04,51,52,0,0,2,0,3,62,0,1.91,19
-Nidal Čelik,2026-03-20,RC Lens,Angers,6.8,90,9720.0,18.0,108.0,0,0,0.03,0.01,40,43,0,0,2,0,3,57,0,1.85,19
-Nidal Čelik,2026-03-26,Wales,Bosnia & Herzegovina,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Nidal Čelik,2026-03-31,Bosnia & Herzegovina,Italy,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,19
-Nidal Čelik,2026-04-04,Lille,RC Lens,6.0,55,5940.0,11.0,108.0,0,0,0.0,0.0,18,20,0,0,0,0,2,23,0,1.85,19
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Nidal Čelik,19,2025-12-19,RC Lens,Entente Feignies-Aulnoye,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nidal Čelik,19,2026-01-02,Toulouse,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nidal Čelik,19,2026-01-11,Sochaux,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nidal Čelik,19,2026-01-24,Olympique de Marseille,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nidal Čelik,19,2026-01-30,RC Lens,Le Havre,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nidal Čelik,19,2026-02-14,Paris FC,RC Lens,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.0,38,40,0,0,1,0,2,65,0.0,1.85
+Nidal Čelik,19,2026-02-21,RC Lens,AS Monaco,6.0,90,9720.0,18.0,108.0,0,0,0.0,0.01,44,50,0,0,0,0,6,60,0.0,1.85
+Nidal Čelik,19,2026-02-27,RC Strasbourg,RC Lens,6.5,90,9720.0,18.0,108.0,0,0,0.0,0.01,37,44,0,0,2,0,3,53,0.0,1.85
+Nidal Čelik,19,2026-03-05,Olympique Lyonnais,RC Lens,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,17,28,0,0,2,0,0,37,0.0,1.85
+Nidal Čelik,19,2026-03-08,RC Lens,Metz,6.6,45,4860.0,9.0,108.0,0,0,0.0,0.0,20,21,0,0,1,0,2,25,0.0,1.85
+Nidal Čelik,19,2026-03-14,Lorient,RC Lens,6.4,68,7344.0,14.0,108.0,0,0,0.0,0.04,51,52,0,0,2,0,3,62,0.0,1.91
+Nidal Čelik,19,2026-03-20,RC Lens,Angers,6.8,90,9720.0,18.0,108.0,0,0,0.03,0.01,40,43,0,0,2,0,3,57,0.0,1.85
+Nidal Čelik,19,2026-03-26,Wales,Bosnia & Herzegovina,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nidal Čelik,19,2026-03-31,Bosnia & Herzegovina,Italy,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Nidal Čelik,19,2026-04-04,Lille,RC Lens,6.0,55,5940.0,11.0,108.0,0,0,0.0,0.0,18,20,0,0,0,0,2,23,0.0,1.85
+Nidal Čelik,19,2026-05-08,RC Lens,Nantes,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

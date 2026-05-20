@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Kenny Lala,2025-12-13,Stade Rennais,Stade Brestois,5.6,90,9720.0,18.0,108.0,0,0,0.0,0.11,24,29,1,0,2,0,1,65,0,1.85,34
-Kenny Lala,2025-12-19,Avranches,Stade Brestois,7.9,28,3024.0,6.0,108.0,0,0,0.0,0.0,30,36,2,0,1,0,3,43,0,1.98,34
-Kenny Lala,2026-01-18,Olympique Lyonnais,Stade Brestois,6.4,81,8748.0,16.0,108.0,0,0,0.0,0.0,11,15,0,0,0,0,2,26,0,1.83,34
-Kenny Lala,2026-01-25,Stade Brestois,Toulouse,6.9,90,9720.0,18.0,108.0,0,0,0.05,0.18,36,51,1,0,0,0,5,72,0,1.85,34
-Kenny Lala,2026-02-01,Nice,Stade Brestois,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.11,22,31,1,0,3,0,5,53,0,1.85,34
-Kenny Lala,2026-02-07,Stade Brestois,Lorient,7.9,90,9720.0,18.0,108.0,0,0,0.02,0.15,35,49,1,0,1,0,6,78,0,1.85,34
-Kenny Lala,2026-02-14,Lille,Stade Brestois,6.3,90,9720.0,18.0,108.0,0,0,0.01,0.09,20,27,0,0,1,0,2,48,0,1.85,34
-Kenny Lala,2026-02-20,Stade Brestois,Olympique de Marseille,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.08,18,22,0,0,1,0,6,43,0,1.85,34
-Kenny Lala,2026-03-01,Metz,Stade Brestois,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.16,14,20,1,0,1,0,3,39,0,1.85,34
-Kenny Lala,2026-03-08,Stade Brestois,Le Havre,7.7,90,9720.0,18.0,108.0,0,0,0.03,0.15,23,35,1,0,3,0,8,67,0,1.85,34
-Kenny Lala,2026-03-14,AS Monaco,Stade Brestois,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.07,37,44,1,0,0,0,5,66,0,1.85,34
-Kenny Lala,2026-03-21,Auxerre,Stade Brestois,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.12,52,61,1,0,0,0,5,84,0,1.85,34
-Kenny Lala,2026-04-04,Stade Brestois,Stade Rennais,5.6,90,9720.0,18.0,108.0,0,0,0.0,0.1,27,32,0,0,1,0,2,51,0,1.85,34
-Kenny Lala,2026-04-19,Nantes,Stade Brestois,6.9,23,2484.0,5.0,108.0,0,0,0.0,0.01,11,16,0,0,2,0,3,21,0,2.01,34
-Kenny Lala,2026-04-24,Stade Brestois,RC Lens,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,18,26,0,0,3,0,4,43,0,1.85,34
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kenny Lala,34,2025-12-13,Stade Rennais,Stade Brestois,5.6,90,9720.0,18.0,108.0,0,0,0.0,0.11,24,29,1,0,2,0,1,65,0.0,1.85
+Kenny Lala,34,2025-12-19,Avranches,Stade Brestois,7.9,28,3024.0,6.0,108.0,0,0,0.0,0.0,30,36,2,0,1,0,3,43,0.0,1.98
+Kenny Lala,34,2026-01-18,Olympique Lyonnais,Stade Brestois,6.4,81,8748.0,16.0,108.0,0,0,0.0,0.0,11,15,0,0,0,0,2,26,0.0,1.83
+Kenny Lala,34,2026-01-25,Stade Brestois,Toulouse,6.9,90,9720.0,18.0,108.0,0,0,0.05,0.18,36,51,1,0,0,0,5,72,0.0,1.85
+Kenny Lala,34,2026-02-01,Nice,Stade Brestois,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.11,22,31,1,0,3,0,5,53,0.0,1.85
+Kenny Lala,34,2026-02-07,Stade Brestois,Lorient,7.9,90,9720.0,18.0,108.0,0,0,0.02,0.15,35,49,1,0,1,0,6,78,0.0,1.85
+Kenny Lala,34,2026-02-14,Lille,Stade Brestois,6.3,90,9720.0,18.0,108.0,0,0,0.01,0.09,20,27,0,0,1,0,2,48,0.0,1.85
+Kenny Lala,34,2026-02-20,Stade Brestois,Olympique de Marseille,7.5,90,9720.0,18.0,108.0,0,0,0.0,0.08,18,22,0,0,1,0,6,43,0.0,1.85
+Kenny Lala,34,2026-03-01,Metz,Stade Brestois,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.16,14,20,1,0,1,0,3,39,0.0,1.85
+Kenny Lala,34,2026-03-08,Stade Brestois,Le Havre,7.7,90,9720.0,18.0,108.0,0,0,0.03,0.15,23,35,1,0,3,0,8,67,0.0,1.85
+Kenny Lala,34,2026-03-14,AS Monaco,Stade Brestois,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.07,37,44,1,0,0,0,5,66,0.0,1.85
+Kenny Lala,34,2026-03-21,Auxerre,Stade Brestois,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.12,52,61,1,0,0,0,5,84,0.0,1.85
+Kenny Lala,34,2026-04-04,Stade Brestois,Stade Rennais,5.6,90,9720.0,18.0,108.0,0,0,0.0,0.1,27,32,0,0,1,0,2,51,0.0,1.85
+Kenny Lala,34,2026-04-19,Nantes,Stade Brestois,6.9,23,2484.0,5.0,108.0,0,0,0.0,0.01,11,16,0,0,2,0,3,21,0.0,2.01
+Kenny Lala,34,2026-04-24,Stade Brestois,RC Lens,5.9,90,9720.0,18.0,108.0,0,0,0.0,0.01,18,26,0,0,3,0,4,43,0.0,1.85
+Kenny Lala,34,2026-05-03,Paris FC,Stade Brestois,5.4,90,,,0.0,0,0,0.0,0.08,33,43,1,0,0,0,3,60,,
+Kenny Lala,34,2026-05-13,Stade Brestois,RC Strasbourg,6.7,90,,,0.0,0,0,0.0,0.13,40,51,1,0,3,0,5,70,,

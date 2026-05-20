@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ibrahim Diabaté,2025-09-28,AIK,GAIS,7.0,82,8856.0,16.0,108.0,1,0,0.0,0.0,4,9,0,0,0,0,3,21,0,1.81,26
-Ibrahim Diabaté,2025-10-04,GAIS,IFK Norrköping,7.2,76,8208.0,15.0,108.0,0,0,0.0,0.0,4,9,2,0,0,0,1,19,0,1.83,26
-Ibrahim Diabaté,2025-10-19,GAIS,Djurgårdens IF,7.3,83,8964.0,17.0,108.0,1,0,0.0,0.0,4,6,0,0,0,0,1,14,0,1.9,26
-Ibrahim Diabaté,2025-10-27,IF Brommapojkarna,GAIS,7.9,81,8748.0,16.0,108.0,1,0,0.0,0.0,8,12,1,0,0,0,1,22,0,1.83,26
-Ibrahim Diabaté,2025-11-02,GAIS,Östers IF,7.2,90,9720.0,18.0,108.0,1,0,0.0,0.0,10,17,1,0,0,0,6,29,0,1.85,26
-Ibrahim Diabaté,2025-11-09,Malmö FF,GAIS,7.0,90,9720.0,18.0,108.0,1,0,0.0,0.0,9,12,1,0,0,0,4,24,0,1.85,26
-Ibrahim Diabaté,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Ibrahim Diabaté,2026-02-27,Levante UD,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Ibrahim Diabaté,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Ibrahim Diabaté,2026-03-13,Deportivo Alavés,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,26
-Ibrahim Diabaté,2026-03-22,Celta Vigo,Deportivo Alavés,6.6,45,4860.0,9.0,108.0,0,0,0.11,0.0,5,9,0,0,0,0,1,17,0,1.85,26
-Ibrahim Diabaté,2026-04-05,Deportivo Alavés,Osasuna,6.0,73,7884.0,15.0,108.0,0,0,0.19,0.01,11,17,0,0,0,0,0,23,0,1.9,26
-Ibrahim Diabaté,2026-04-11,Real Sociedad,Deportivo Alavés,7.1,60,6480.0,12.0,108.0,1,0,0.32,0.01,7,8,0,0,1,0,0,18,0,1.85,26
-Ibrahim Diabaté,2026-04-21,Real Madrid,Deportivo Alavés,6.4,24,2592.0,5.0,108.0,0,0,0.05,0.0,1,2,0,0,0,0,0,4,0,1.93,26
-Ibrahim Diabaté,2026-04-25,Deportivo Alavés,Mallorca,6.8,86,9288.0,17.0,108.0,0,0,0.06,0.01,9,13,0,0,0,0,0,21,0,1.83,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ibrahim Diabaté,26,2025-09-28,AIK,GAIS,7.0,82,8856.0,16.0,108.0,1,0,0.0,0.0,4,9,0,0,0,0,3,21,0.0,1.81
+Ibrahim Diabaté,26,2025-10-04,GAIS,IFK Norrköping,7.2,76,8208.0,15.0,108.0,0,0,0.0,0.0,4,9,2,0,0,0,1,19,0.0,1.83
+Ibrahim Diabaté,26,2025-10-19,GAIS,Djurgårdens IF,7.3,83,8964.0,17.0,108.0,1,0,0.0,0.0,4,6,0,0,0,0,1,14,0.0,1.9
+Ibrahim Diabaté,26,2025-10-27,IF Brommapojkarna,GAIS,7.9,81,8748.0,16.0,108.0,1,0,0.0,0.0,8,12,1,0,0,0,1,22,0.0,1.83
+Ibrahim Diabaté,26,2025-11-02,GAIS,Östers IF,7.2,90,9720.0,18.0,108.0,1,0,0.0,0.0,10,17,1,0,0,0,6,29,0.0,1.85
+Ibrahim Diabaté,26,2025-11-09,Malmö FF,GAIS,7.0,90,9720.0,18.0,108.0,1,0,0.0,0.0,9,12,1,0,0,0,4,24,0.0,1.85
+Ibrahim Diabaté,26,2026-02-23,Deportivo Alavés,Girona FC,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ibrahim Diabaté,26,2026-02-27,Levante UD,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ibrahim Diabaté,26,2026-03-08,Valencia,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ibrahim Diabaté,26,2026-03-13,Deportivo Alavés,Villarreal,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Ibrahim Diabaté,26,2026-03-22,Celta Vigo,Deportivo Alavés,6.6,45,4860.0,9.0,108.0,0,0,0.11,0.0,5,9,0,0,0,0,1,17,0.0,1.85
+Ibrahim Diabaté,26,2026-04-05,Deportivo Alavés,Osasuna,6.0,73,7884.0,15.0,108.0,0,0,0.19,0.01,11,17,0,0,0,0,0,23,0.0,1.9
+Ibrahim Diabaté,26,2026-04-11,Real Sociedad,Deportivo Alavés,7.1,60,6480.0,12.0,108.0,1,0,0.32,0.01,7,8,0,0,1,0,0,18,0.0,1.85
+Ibrahim Diabaté,26,2026-04-21,Real Madrid,Deportivo Alavés,6.4,24,2592.0,5.0,108.0,0,0,0.05,0.0,1,2,0,0,0,0,0,4,0.0,1.93
+Ibrahim Diabaté,26,2026-04-25,Deportivo Alavés,Mallorca,6.8,86,9288.0,17.0,108.0,0,0,0.06,0.01,9,13,0,0,0,0,0,21,0.0,1.83
+Ibrahim Diabaté,26,2026-05-02,Deportivo Alavés,Athletic Club,6.3,73,,,0.0,0,0,0.05,0.01,8,11,1,0,1,0,1,16,,
+Ibrahim Diabaté,26,2026-05-09,Elche,Deportivo Alavés,6.1,82,,,0.0,0,0,0.47,0.0,5,11,0,0,0,0,1,19,,
+Ibrahim Diabaté,26,2026-05-13,Deportivo Alavés,FC Barcelona,7.1,64,,,0.0,1,0,0.4,0.0,3,4,0,0,0,0,0,10,,

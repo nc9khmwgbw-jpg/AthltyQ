@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Olinho,25,2026-05-16,Casa Pia,Rio Ave,6.5,8,,,0.0,0,0,0.0,0.0,2,2,0,0,0,0,0,5
+Olinho,25,2026-05-11,Rio Ave,Sporting CP,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Olinho,25,2026-05-03,Rio Ave,Gil Vicente,6.9,27,,,0.0,0,0,0.0,0.01,6,8,0,0,0,0,2,15
+Olinho,25,2026-04-25,Vitória SC,Rio Ave,6.6,69,,,0.0,0,0,0.11,0.01,11,13,0,0,0,0,3,28
+Olinho,25,2026-04-17,Rio Ave,AVS - Futebol SAD,7.5,85,,,0.0,1,0,0.07,0.01,16,20,0,0,0,0,4,36
+Olinho,25,2026-04-11,Santa Clara,Rio Ave,6.8,76,,,0.0,0,0,0.0,0.02,17,21,0,0,0,0,6,39
+Olinho,25,2026-04-04,Rio Ave,FC Alverca,6.2,68,,,0.0,0,0,0.11,0.01,8,10,0,0,1,0,3,20
+Olinho,25,2026-03-22,Estoril Praia,Rio Ave,6.5,78,,,0.0,0,0,0.07,0.01,17,21,0,0,1,0,0,35
+Olinho,25,2026-03-15,Rio Ave,CF Estrela Amadora,5.7,58,,,0.0,0,0,0.13,0.03,12,14,0,0,0,0,1,28
+Olinho,25,2026-03-09,Tondela,Rio Ave,7.2,72,,,0.0,0,0,0.0,0.03,15,17,1,0,0,0,2,27
+Olinho,25,2026-03-01,Rio Ave,Famalicão,6.7,20,,,0.0,0,0,0.0,0.02,6,8,0,0,0,0,4,13
+Olinho,25,2026-02-22,FC Porto,Rio Ave,6.6,65,,,0.0,0,0,0.2,0.01,16,18,1,0,0,0,4,33
+Olinho,25,2026-02-16,Rio Ave,Moreirense,6.8,30,,,0.0,0,0,0.19,0.0,15,15,0,0,0,0,1,26
+Olinho,25,2026-02-08,Sporting Braga,Rio Ave,6.5,28,,,0.0,0,0,0.0,0.0,8,11,1,0,0,0,2,12
+Olinho,25,2026-01-31,Rio Ave,FC Arouca,6.6,90,,,0.0,0,0,0.08,0.05,28,31,1,0,1,0,2,48

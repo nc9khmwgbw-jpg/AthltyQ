@@ -1,16 +1,17 @@
 ﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
-Nicolò Barella,29,2026-05-09,Lazio,Inter,6.5,45,,,0.0,0,0,0.16,0.01,32,38,0,0,1,0,2,47
-Nicolò Barella,29,2026-05-03,Inter,Parma,7.8,89,,,0.0,0,0,0.07,0.76,70,83,4,0,0,0,5,100
-Nicolò Barella,29,2026-04-26,Torino,Inter,6.5,90,,,0.0,0,0,0.0,0.09,64,73,1,0,2,0,7,86
-Nicolò Barella,29,2026-04-21,Inter,Como,6.7,90,,,0.0,0,0,0.0,0.0,66,75,3,0,1,0,3,90
-Nicolò Barella,29,2026-04-17,Inter,Cagliari,8.9,89,,,0.0,1,0,0.16,0.13,65,74,2,0,0,0,9,91
-Nicolò Barella,29,2026-04-12,Como,Inter,7.2,78,,,0.0,0,0,0.0,0.1,28,35,1,0,2,0,6,46
-Nicolò Barella,29,2026-04-05,Inter,AS Roma,8.0,90,,,0.0,1,0,0.14,0.15,53,61,1,0,0,0,4,74
-Nicolò Barella,29,2026-03-31,Bosnia & Herzegovina,Italy,7.7,85,,,0.0,0,0,0.0,0.0,40,43,2,0,1,0,3,58
-Nicolò Barella,29,2026-03-26,Italy,Northern Ireland,6.7,90,,,0.0,0,0,0.0,0.0,35,45,1,0,0,0,8,67
-Nicolò Barella,29,2026-03-22,Fiorentina,Inter,7.3,83,,,0.0,0,0,0.0,0.29,44,54,4,0,0,0,7,65
-Nicolò Barella,29,2026-03-14,Inter,Atalanta,7.6,76,,,0.0,0,0,0.04,0.13,62,75,3,0,1,0,6,88
-Nicolò Barella,29,2026-03-08,Milan,Inter,6.9,68,,,0.0,0,0,0.04,0.08,52,56,1,0,0,0,4,67
-Nicolò Barella,29,2026-03-03,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
-Nicolò Barella,29,2026-02-28,Inter,Genoa,7.1,90,,,0.0,0,0,0.29,0.18,55,62,4,0,0,0,5,84
 Nicolò Barella,29,2026-02-24,Inter,Bodø/Glimt,7.2,90,,,0.0,0,0,0.01,0.23,64,71,2,0,0,0,9,88
+Nicolò Barella,29,2026-02-28,Inter,Genoa,7.1,90,,,0.0,0,0,0.29,0.18,55,62,4,0,0,0,5,84
+Nicolò Barella,29,2026-03-03,Como,Inter,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0
+Nicolò Barella,29,2026-03-08,Milan,Inter,6.9,68,,,0.0,0,0,0.04,0.08,52,56,1,0,0,0,4,67
+Nicolò Barella,29,2026-03-14,Inter,Atalanta,7.6,76,,,0.0,0,0,0.04,0.13,62,75,3,0,1,0,6,88
+Nicolò Barella,29,2026-03-22,Fiorentina,Inter,7.3,83,,,0.0,0,0,0.0,0.29,44,54,4,0,0,0,7,65
+Nicolò Barella,29,2026-03-26,Italy,Northern Ireland,6.7,90,,,0.0,0,0,0.0,0.0,35,45,1,0,0,0,8,67
+Nicolò Barella,29,2026-03-31,Bosnia & Herzegovina,Italy,7.7,85,,,0.0,0,0,0.0,0.0,40,43,2,0,1,0,3,58
+Nicolò Barella,29,2026-04-05,Inter,AS Roma,8.0,90,,,0.0,1,0,0.14,0.15,53,61,1,0,0,0,4,74
+Nicolò Barella,29,2026-04-12,Como,Inter,7.2,78,,,0.0,0,0,0.0,0.1,28,35,1,0,2,0,6,46
+Nicolò Barella,29,2026-04-17,Inter,Cagliari,8.9,89,,,0.0,1,0,0.16,0.13,65,74,2,0,0,0,9,91
+Nicolò Barella,29,2026-04-21,Inter,Como,6.7,90,,,0.0,0,0,0.0,0.0,66,75,3,0,1,0,3,90
+Nicolò Barella,29,2026-04-26,Torino,Inter,6.5,90,,,0.0,0,0,0.0,0.09,64,73,1,0,2,0,7,86
+Nicolò Barella,29,2026-05-03,Inter,Parma,7.8,89,,,0.0,0,0,0.07,0.76,70,83,4,0,0,0,5,100
+Nicolò Barella,29,2026-05-09,Lazio,Inter,6.5,45,,,0.0,0,0,0.16,0.01,32,38,0,0,1,0,2,47
+Nicolò Barella,29,2026-05-13,Lazio,Inter,6.7,90,,,0.0,0,0,0.0,0.0,47,52,2,0,0,0,2,70

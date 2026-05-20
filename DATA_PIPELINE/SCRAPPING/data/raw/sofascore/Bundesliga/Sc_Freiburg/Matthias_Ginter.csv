@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Matthias Ginter,32,2026-05-10,Hamburger SV,SC Freiburg,6.6,71,,,0.0,0,0,0.0,0.02,42,44,1,0,0,0,3,48
+Matthias Ginter,32,2026-05-07,SC Freiburg,Sporting Braga,7.5,90,,,0.0,0,0,0.44,0.11,89,96,2,0,1,0,1,115
+Matthias Ginter,32,2026-05-03,SC Freiburg,VfL Wolfsburg,7.1,90,,,0.0,0,0,0.0,0.02,72,79,0,0,0,0,5,90
+Matthias Ginter,32,2026-04-30,Sporting Braga,SC Freiburg,6.6,90,,,0.0,0,0,0.0,0.01,36,46,0,0,1,0,2,58
+Matthias Ginter,32,2026-04-23,VfB Stuttgart,SC Freiburg,6.7,120,,,0.0,0,0,0.0,0.0,24,35,2,0,5,0,5,62
+Matthias Ginter,32,2026-04-19,SC Freiburg,1. FC Heidenheim,7.7,90,,,0.0,0,0,0.15,0.04,36,48,1,0,1,0,1,68
+Matthias Ginter,32,2026-04-16,Celta Vigo,SC Freiburg,6.4,90,,,0.0,0,0,0.02,0.01,39,43,1,0,0,0,2,51
+Matthias Ginter,32,2026-04-12,1. FSV Mainz 05,SC Freiburg,7.5,83,,,0.0,0,0,0.02,0.53,40,48,1,0,1,0,9,64
+Matthias Ginter,32,2026-04-09,SC Freiburg,Celta Vigo,8.7,90,,,0.0,1,0,0.16,0.03,61,67,0,0,3,0,6,82
+Matthias Ginter,32,2026-04-04,SC Freiburg,FC Bayern München,6.4,90,,,0.0,0,0,0.0,0.01,23,26,0,0,0,0,2,40
+Matthias Ginter,32,2026-03-22,FC St. Pauli,SC Freiburg,6.6,90,,,0.0,0,0,0.0,0.14,68,77,1,0,0,0,4,88
+Matthias Ginter,32,2026-03-19,SC Freiburg,KRC Genk,9.0,90,,,0.0,1,0,0.2,0.54,42,49,1,0,2,0,3,62
+Matthias Ginter,32,2026-03-15,SC Freiburg,1. FC Union Berlin,7.6,90,,,0.0,0,0,0.04,0.11,89,95,0,0,2,0,3,109
+Matthias Ginter,32,2026-03-12,KRC Genk,SC Freiburg,7.3,90,,,0.0,0,0,0.09,0.0,45,51,0,0,1,0,1,64
+Matthias Ginter,32,2026-03-07,SC Freiburg,Bayer 04 Leverkusen,7.5,90,,,0.0,1,0,0.63,0.08,60,65,0,0,1,0,4,76

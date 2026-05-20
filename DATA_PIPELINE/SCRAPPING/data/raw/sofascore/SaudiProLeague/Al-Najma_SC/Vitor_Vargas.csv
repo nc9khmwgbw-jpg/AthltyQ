@@ -1,0 +1,16 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches
+Vitor Vargas,22,2026-04-28,Al-Khaleej,Al-Najma SC,6.5,58,,,0.0,0,0,0.0,0.01,12,14,0,0,1,0,3,30
+Vitor Vargas,22,2026-04-23,Al-Najma SC,Al-Taawoun,6.0,76,,,0.0,0,0,0.0,0.03,28,35,0,0,1,0,6,52
+Vitor Vargas,22,2026-04-11,Al-Najma SC,Neom SC,6.5,90,,,0.0,0,0,0.02,0.01,7,14,0,0,0,0,2,33
+Vitor Vargas,22,2026-04-03,Al-Nassr,Al-Najma SC,5.6,90,,,0.0,0,0,0.06,0.01,11,16,0,0,0,0,1,35
+Vitor Vargas,22,2026-02-25,Al-Najma SC,Al-Nassr,5.3,90,,,0.0,0,0,0.0,0.01,34,43,0,0,2,0,5,66
+Vitor Vargas,22,2026-02-05,Al-Fayha,Al-Najma SC,5.9,45,,,0.0,0,0,0.0,0.0,14,18,0,0,2,0,2,35
+Vitor Vargas,22,2026-02-01,Al-Ittihad,Al-Najma SC,6.6,81,,,0.0,0,0,0.0,0.09,25,30,0,0,0,0,4,44
+Vitor Vargas,22,2026-01-28,Al-Najma SC,Al-Riyadh,7.3,79,,,0.0,0,0,0.03,0.47,41,46,2,0,0,0,1,66
+Vitor Vargas,22,2026-01-20,Al-Shabab,Al-Najma SC,7.0,90,,,0.0,0,0,0.01,0.0,22,27,0,0,1,0,4,66
+Vitor Vargas,22,2026-01-16,Al-Najma SC,Al-Fateh,6.5,90,,,0.0,0,0,0.0,0.02,40,49,1,0,1,0,5,76
+Vitor Vargas,22,2026-01-12,Al-Hazem,Al-Najma SC,6.5,82,,,0.0,0,0,0.0,0.0,20,27,1,0,2,0,3,46
+Vitor Vargas,22,2026-01-08,Al-Najma SC,Al-Ettifaq,5.8,88,,,0.0,0,0,0.03,0.19,44,47,1,0,2,0,8,66
+Vitor Vargas,22,2026-01-02,Al-Najma SC,Al-Khaleej,6.8,90,,,0.0,0,0,0.02,0.01,34,40,1,0,2,0,4,69
+Vitor Vargas,22,2025-12-29,Al-Taawoun,Al-Najma SC,6.9,90,,,0.0,0,0,0.0,0.01,19,24,0,0,1,0,3,50
+Vitor Vargas,22,2025-12-25,Neom SC,Al-Najma SC,6.3,90,,,0.0,0,0,0.0,0.03,21,25,0,0,2,0,4,48

@@ -25,21 +25,23 @@ class FatiguePredictor:
     Interface unique pour le calcul de la fatigue AthlytIQ.
     """
     def __init__(self):
-        self.model = None
+        self.models = {}
         self.scaler = None
         self.features = None
         self.load_model()
 
     def load_model(self):
-        """Charge le modèle entraîné."""
+        """Charge les modèles entraînés (Benchmark)."""
+        BENCHMARK_DIR = ROOT / "LM" / "models" / "benchmark"
         try:
-            self.model = joblib.load(SAVE_DIR / "fatigue_model.joblib")
-            self.scaler = joblib.load(SAVE_DIR / "fatigue_scaler.joblib")
-            self.features = joblib.load(SAVE_DIR / "fatigue_features.joblib")
-            print("   ✅ Cerveau AthlytIQ (RandomForest) chargé avec succès.")
+            self.models['poly'] = joblib.load(BENCHMARK_DIR / "Polynomial_Regression" / "model_poly.joblib")
+            self.models['rf'] = joblib.load(BENCHMARK_DIR / "Random_Forest" / "model_rf.joblib")
+            self.models['lgbm'] = joblib.load(BENCHMARK_DIR / "LightGBM" / "model_lgbm.joblib")
+            self.scaler = joblib.load(BENCHMARK_DIR / "benchmark_scaler.joblib")
+            self.features = joblib.load(BENCHMARK_DIR / "model_columns.joblib")
+            print("   ✅ Cerveaux AthlytIQ (Benchmark: Poly, RF, LGBM) chargés avec succès.")
         except Exception as e:
-            print(f"   ⚠️ Impossible de charger le modèle : {e}")
-            self.model = None
+            print(f"   ⚠️ Impossible de charger les modèles du benchmark : {e}")
 
     def _prepare_data(self, df):
         """Nettoyage strict : uniquement les colonnes numériques, pas de triche."""
@@ -120,34 +122,38 @@ class FatiguePredictor:
         print(f"   💾 Modèle sauvegardé dans {SAVE_DIR.name}/")
         return mae
 
-    def predict(self, df):
+    def predict(self, df, model_type='lgbm'):
         """
         Prédit la fatigue pour un ou plusieurs matchs.
         VERSION SÉCURISÉE : Scaling + Gestion des Infinis + Alignement Colonnes.
         """
-        if self.model is None:
-            print("⚠️ Modèle non chargé.")
+        if model_type not in self.models:
+            print(f"⚠️ Modèle {model_type} non chargé.")
             return None
+            
+        model = self.models[model_type]
 
         # 1. Chargement et vérification des colonnes attendues
+        expected_cols = []
         try:
-            model_cols_path = SAVE_DIR / "model_columns.joblib"
+            model_cols_path = ROOT / "LM" / "models" / "benchmark" / "model_columns.joblib"
             if not model_cols_path.exists():
                 print(f"❌ Fichier des colonnes introuvable : {model_cols_path}")
                 return None
             expected_cols = joblib.load(model_cols_path)
             
-            if hasattr(self.model, 'feature_names_in_'):
-                model_cols = set(self.model.feature_names_in_)
+            if hasattr(model, 'feature_names_in_'):
+                model_cols = set(model.feature_names_in_)
                 file_cols = set(expected_cols)
                 if model_cols != file_cols:
                     print(f"⚠️ Mismatch colonnes détecté : {model_cols.symmetric_difference(file_cols)}")
-                    expected_cols = self.model.feature_names_in_.tolist()
+                    expected_cols = list(model.feature_names_in_)
         except Exception as e:
-            if self.model is not None and hasattr(self.model, 'feature_names_in_'):
-                expected_cols = self.model.feature_names_in_.tolist()
+            print(f"⚠️ Erreur chargement colonnes : {e}")
+            if hasattr(model, 'feature_names_in_'):
+                expected_cols = list(model.feature_names_in_)
             else:
-                print(f"❌ Impossible de déterminer les colonnes du modèle : {e}")
+                print("❌ Impossible de trouver les colonnes. Prédiction annulée.")
                 return None
 
         # 2. Préparation des données
@@ -164,18 +170,11 @@ class FatiguePredictor:
         # Nettoyage (Infinis et NaN)
         X = X.fillna(0).replace([np.inf, -np.inf], 0)
 
-        # 3. Normalisation
-        if self.scaler is not None:
-            try:
-                X_scaled = self.scaler.transform(X)
-            except Exception as e:
-                print(f"⚠️ Erreur de scaling : {e}")
-                X_scaled = X
-        else:
-            X_scaled = X
-
+        # 3. Normalisation (Maintenant gérée nativement par les Pipelines des modèles)
+        # On passe directement le DataFrame aux modèles car ils intègrent le StandardScaler
+        
         # 4. Prédiction
-        predictions = self.model.predict(X_scaled)
+        predictions = model.predict(X)
         return np.clip(predictions, 0, 100).round(1)
 
     def prepare_for_prediction(self, df_upcoming, df_history):

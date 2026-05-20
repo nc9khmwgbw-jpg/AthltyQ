@@ -1,16 +1,19 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Gabriel Magalhães,2026-02-18,Wolverhampton,Arsenal,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.15,56,61,1,0,1,0,5,67,0.0,1.85,28
-Gabriel Magalhães,2026-02-22,Tottenham Hotspur,Arsenal,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,44,54,0,0,0,0,2,67,0.0,1.85,28
-Gabriel Magalhães,2026-03-01,Arsenal,Chelsea,7.4,90,9720.0,18.0,108.0,0,0,0.03,0.57,49,55,1,0,2,0,4,69,0.0,1.85,28
-Gabriel Magalhães,2026-03-04,Brighton & Hove Albion,Arsenal,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,34,0,0,0,0,2,55,0.0,1.85,28
-Gabriel Magalhães,2026-03-11,Bayer 04 Leverkusen,Arsenal,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.02,61,65,0,0,0,0,2,76,0.0,1.85,28
-Gabriel Magalhães,2026-03-14,Arsenal,Everton,7.9,90,9720.0,18.0,108.0,0,0,0.03,0.06,54,64,0,0,0,0,2,80,0.0,1.85,28
-Gabriel Magalhães,2026-03-17,Arsenal,Bayer 04 Leverkusen,7.8,90,9720.0,18.0,108.0,0,0,0.28,0.01,37,40,0,0,1,0,1,57,0.0,1.85,28
-Gabriel Magalhães,2026-03-22,Arsenal,Manchester City,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,42,51,0,0,1,0,1,68,0.0,1.85,28
-Gabriel Magalhães,2026-04-04,Southampton,Arsenal,7.1,72,7776.0,14.0,108.0,0,0,0.0,0.0,41,43,1,0,0,0,2,53,0.0,1.8,28
-Gabriel Magalhães,2026-04-07,Sporting CP,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,61,65,0,0,1,0,3,73,0.0,1.85,28
-Gabriel Magalhães,2026-04-11,Arsenal,Bournemouth,6.9,90,9720.0,18.0,108.0,0,0,0.08,0.01,30,39,0,0,0,0,5,56,0.0,1.85,28
-Gabriel Magalhães,2026-04-15,Arsenal,Sporting CP,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,47,53,0,0,2,0,4,64,0.0,1.85,28
-Gabriel Magalhães,2026-04-19,Manchester City,Arsenal,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.01,25,32,0,0,1,0,3,44,0.0,1.85,28
-Gabriel Magalhães,2026-04-25,Arsenal,Newcastle United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,37,44,1,0,1,0,2,59,0.0,1.85,28
-Gabriel Magalhães,2026-04-29,Atlético Madrid,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.04,45,49,0,0,1,0,0,64,0.0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Gabriel Magalhães,28,2026-02-18,Wolverhampton,Arsenal,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.15,56,61,1,0,1,0,5,67,0.0,1.85
+Gabriel Magalhães,28,2026-02-22,Tottenham Hotspur,Arsenal,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.01,44,54,0,0,0,0,2,67,0.0,1.85
+Gabriel Magalhães,28,2026-03-01,Arsenal,Chelsea,7.4,90,9720.0,18.0,108.0,0,0,0.03,0.57,49,55,1,0,2,0,4,69,0.0,1.85
+Gabriel Magalhães,28,2026-03-04,Brighton & Hove Albion,Arsenal,8.2,90,9720.0,18.0,108.0,0,0,0.0,0.0,25,34,0,0,0,0,2,55,0.0,1.85
+Gabriel Magalhães,28,2026-03-11,Bayer 04 Leverkusen,Arsenal,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.02,61,65,0,0,0,0,2,76,0.0,1.85
+Gabriel Magalhães,28,2026-03-14,Arsenal,Everton,7.9,90,9720.0,18.0,108.0,0,0,0.03,0.06,54,64,0,0,0,0,2,80,0.0,1.85
+Gabriel Magalhães,28,2026-03-17,Arsenal,Bayer 04 Leverkusen,7.8,90,9720.0,18.0,108.0,0,0,0.28,0.01,37,40,0,0,1,0,1,57,0.0,1.85
+Gabriel Magalhães,28,2026-03-22,Arsenal,Manchester City,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,42,51,0,0,1,0,1,68,0.0,1.85
+Gabriel Magalhães,28,2026-04-04,Southampton,Arsenal,7.1,72,7776.0,14.0,108.0,0,0,0.0,0.0,41,43,1,0,0,0,2,53,0.0,1.8
+Gabriel Magalhães,28,2026-04-07,Sporting CP,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,61,65,0,0,1,0,3,73,0.0,1.85
+Gabriel Magalhães,28,2026-04-11,Arsenal,Bournemouth,6.9,90,9720.0,18.0,108.0,0,0,0.08,0.01,30,39,0,0,0,0,5,56,0.0,1.85
+Gabriel Magalhães,28,2026-04-15,Arsenal,Sporting CP,7.2,90,9720.0,18.0,108.0,0,0,0.0,0.01,47,53,0,0,2,0,4,64,0.0,1.85
+Gabriel Magalhães,28,2026-04-19,Manchester City,Arsenal,6.9,90,9720.0,18.0,108.0,0,0,0.02,0.01,25,32,0,0,1,0,3,44,0.0,1.85
+Gabriel Magalhães,28,2026-04-25,Arsenal,Newcastle United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.01,37,44,1,0,1,0,2,59,0.0,1.85
+Gabriel Magalhães,28,2026-04-29,Atlético Madrid,Arsenal,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.04,45,49,0,0,1,0,0,64,0.0,1.85
+Gabriel Magalhães,28,2026-05-02,Arsenal,Fulham,6.9,90,,,0.0,0,0,0.64,0.02,64,69,0,0,2,0,3,88,,
+Gabriel Magalhães,28,2026-05-05,Arsenal,Atlético Madrid,7.0,90,,,0.0,0,0,0.03,0.02,38,45,0,0,0,0,1,62,,
+Gabriel Magalhães,28,2026-05-10,West Ham United,Arsenal,7.1,90,,,0.0,0,0,0.3,0.01,41,48,0,0,1,0,3,67,,

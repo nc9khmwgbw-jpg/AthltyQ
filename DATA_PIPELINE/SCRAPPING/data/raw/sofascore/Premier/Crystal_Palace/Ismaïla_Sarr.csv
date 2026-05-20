@@ -1,15 +1,20 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Ismaïla Sarr,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.3,90,9720.0,18.0,108.0,1,0,0.1,0.1,20,27,1,0,0,0,1,49,0,1.85,28
-Ismaïla Sarr,2026-02-22,Crystal Palace,Wolverhampton,7.2,90,9720.0,18.0,108.0,0,0,0.4,0.02,13,18,0,0,0,0,6,47,0,1.85,28
-Ismaïla Sarr,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,5.9,90,9720.0,18.0,108.0,0,0,0.88,0.01,10,13,0,0,0,0,2,30,0,1.85,28
-Ismaïla Sarr,2026-03-01,Manchester United,Crystal Palace,6.7,90,9720.0,18.0,108.0,0,0,0.11,0.03,14,19,0,0,0,0,1,33,0,1.85,28
-Ismaïla Sarr,2026-03-05,Tottenham Hotspur,Crystal Palace,8.3,90,9720.0,18.0,108.0,2,0,1.16,0.0,15,21,0,0,0,0,2,41,0,1.85,28
-Ismaïla Sarr,2026-03-12,Crystal Palace,AEK Larnaca,6.7,90,9720.0,18.0,108.0,0,0,0.24,0.03,13,17,0,0,0,0,1,31,0,1.85,28
-Ismaïla Sarr,2026-03-15,Crystal Palace,Leeds United,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,12,21,0,0,0,0,3,41,0,1.85,28
-Ismaïla Sarr,2026-03-19,AEK Larnaca,Crystal Palace,8.6,120,12960.0,24.0,108.0,2,0,2.04,0.37,25,29,1,0,0,0,4,56,0,1.85,28
-Ismaïla Sarr,2026-03-28,Senegal,Peru,8.1,80,8640.0,16.0,108.0,1,0,0.0,0.0,23,27,2,0,0,0,3,42,0,1.85,28
-Ismaïla Sarr,2026-04-09,Crystal Palace,Fiorentina,8.0,90,9720.0,18.0,108.0,1,0,0.21,0.24,13,18,1,0,0,0,3,39,0,1.85,28
-Ismaïla Sarr,2026-04-12,Crystal Palace,Newcastle United,6.8,26,2808.0,5.0,108.0,0,0,0.06,0.07,3,4,0,0,0,0,3,11,0,1.78,28
-Ismaïla Sarr,2026-04-16,Fiorentina,Crystal Palace,7.6,90,9720.0,18.0,108.0,1,0,0.67,0.08,12,19,1,0,0,0,5,35,0,1.85,28
-Ismaïla Sarr,2026-04-20,Crystal Palace,West Ham United,6.3,31,3348.0,6.0,108.0,0,0,0.0,0.01,5,6,1,0,0,0,2,9,0,1.79,28
-Ismaïla Sarr,2026-04-25,Liverpool,Crystal Palace,6.8,90,9720.0,18.0,108.0,0,0,0.52,0.12,13,17,1,0,0,0,1,24,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Ismaïla Sarr,28,2026-02-19,HŠK Zrinjski Mostar,Crystal Palace,7.3,90,9720.0,18.0,108.0,1,0,0.1,0.1,20,27,1,0,0,0,1,49,0.0,1.85
+Ismaïla Sarr,28,2026-02-22,Crystal Palace,Wolverhampton,7.2,90,9720.0,18.0,108.0,0,0,0.4,0.02,13,18,0,0,0,0,6,47,0.0,1.85
+Ismaïla Sarr,28,2026-02-26,Crystal Palace,HŠK Zrinjski Mostar,5.9,90,9720.0,18.0,108.0,0,0,0.88,0.01,10,13,0,0,0,0,2,30,0.0,1.85
+Ismaïla Sarr,28,2026-03-01,Manchester United,Crystal Palace,6.7,90,9720.0,18.0,108.0,0,0,0.11,0.03,14,19,0,0,0,0,1,33,0.0,1.85
+Ismaïla Sarr,28,2026-03-05,Tottenham Hotspur,Crystal Palace,8.3,90,9720.0,18.0,108.0,2,0,1.16,0.0,15,21,0,0,0,0,2,41,0.0,1.85
+Ismaïla Sarr,28,2026-03-12,Crystal Palace,AEK Larnaca,6.7,90,9720.0,18.0,108.0,0,0,0.24,0.03,13,17,0,0,0,0,1,31,0.0,1.85
+Ismaïla Sarr,28,2026-03-15,Crystal Palace,Leeds United,6.3,90,9720.0,18.0,108.0,0,0,0.0,0.01,12,21,0,0,0,0,3,41,0.0,1.85
+Ismaïla Sarr,28,2026-03-19,AEK Larnaca,Crystal Palace,8.6,120,12960.0,24.0,108.0,2,0,2.04,0.37,25,29,1,0,0,0,4,56,0.0,1.85
+Ismaïla Sarr,28,2026-03-28,Senegal,Peru,8.1,80,8640.0,16.0,108.0,1,0,0.0,0.0,23,27,2,0,0,0,3,42,0.0,1.85
+Ismaïla Sarr,28,2026-04-09,Crystal Palace,Fiorentina,8.0,90,9720.0,18.0,108.0,1,0,0.21,0.24,13,18,1,0,0,0,3,39,0.0,1.85
+Ismaïla Sarr,28,2026-04-12,Crystal Palace,Newcastle United,6.8,26,2808.0,5.0,108.0,0,0,0.06,0.07,3,4,0,0,0,0,3,11,0.0,1.78
+Ismaïla Sarr,28,2026-04-16,Fiorentina,Crystal Palace,7.6,90,9720.0,18.0,108.0,1,0,0.67,0.08,12,19,1,0,0,0,5,35,0.0,1.85
+Ismaïla Sarr,28,2026-04-20,Crystal Palace,West Ham United,6.3,31,3348.0,6.0,108.0,0,0,0.0,0.01,5,6,1,0,0,0,2,9,0.0,1.79
+Ismaïla Sarr,28,2026-04-25,Liverpool,Crystal Palace,6.8,90,9720.0,18.0,108.0,0,0,0.52,0.12,13,17,1,0,0,0,1,24,0.0,1.85
+Ismaïla Sarr,28,2026-04-30,Shakhtar Donetsk,Crystal Palace,7.7,90,,,0.0,1,0,0.92,0.02,7,12,1,0,0,0,3,28,,
+Ismaïla Sarr,28,2026-05-03,Bournemouth,Crystal Palace,6.0,45,,,0.0,0,0,0.54,0.14,10,12,1,0,0,0,1,21,,
+Ismaïla Sarr,28,2026-05-07,Crystal Palace,Shakhtar Donetsk,8.0,90,,,0.0,1,0,0.53,0.02,13,19,1,0,0,0,7,32,,
+Ismaïla Sarr,28,2026-05-10,Crystal Palace,Everton,7.4,90,,,0.0,1,0,0.81,0.02,12,17,1,0,0,0,4,34,,
+Ismaïla Sarr,28,2026-05-13,Manchester City,Crystal Palace,6.3,30,,,0.0,0,0,0.11,0.0,4,8,0,0,0,0,2,12,,

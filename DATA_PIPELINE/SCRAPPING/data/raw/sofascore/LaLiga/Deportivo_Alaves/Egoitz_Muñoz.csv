@@ -1,10 +1,13 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Egoitz Muñoz,2024-10-26,Rayo Vallecano,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Egoitz Muñoz,2024-10-29,SD Compostela,Deportivo Alavés,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,9,16,0,0,1,0,3,38,0,1.85,22
-Egoitz Muñoz,2025-10-30,CD Getxo,Deportivo Alavés,7.2,45,4860.0,9.0,108.0,0,0,0.0,0.0,26,29,1,0,0,0,0,38,0,1.85,22
-Egoitz Muñoz,2025-11-29,FC Barcelona,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Egoitz Muñoz,2025-12-02,Club Portugalete,Deportivo Alavés,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,45,58,0,0,0,0,5,74,0,1.85,22
-Egoitz Muñoz,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Egoitz Muñoz,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Egoitz Muñoz,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
-Egoitz Muñoz,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,22
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Egoitz Muñoz,22,2024-10-26,Rayo Vallecano,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Egoitz Muñoz,22,2024-10-29,SD Compostela,Deportivo Alavés,7.1,90,9720.0,18.0,108.0,0,0,0.0,0.0,9,16,0,0,1,0,3,38,0.0,1.85
+Egoitz Muñoz,22,2025-10-30,CD Getxo,Deportivo Alavés,7.2,45,4860.0,9.0,108.0,0,0,0.0,0.0,26,29,1,0,0,0,0,38,0.0,1.85
+Egoitz Muñoz,22,2025-11-29,FC Barcelona,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Egoitz Muñoz,22,2025-12-02,Club Portugalete,Deportivo Alavés,6.9,90,9720.0,18.0,108.0,0,0,0.0,0.0,45,58,0,0,0,0,5,74,0.0,1.85
+Egoitz Muñoz,22,2026-04-05,Deportivo Alavés,Osasuna,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Egoitz Muñoz,22,2026-04-11,Real Sociedad,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Egoitz Muñoz,22,2026-04-21,Real Madrid,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Egoitz Muñoz,22,2026-04-25,Deportivo Alavés,Mallorca,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Egoitz Muñoz,22,2026-05-02,Deportivo Alavés,Athletic Club,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Egoitz Muñoz,22,2026-05-09,Elche,Deportivo Alavés,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Egoitz Muñoz,22,2026-05-13,Deportivo Alavés,FC Barcelona,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

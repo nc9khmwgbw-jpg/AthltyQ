@@ -1,16 +1,21 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Gessime Yassine,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,20
-Gessime Yassine,2026-03-03,RC Strasbourg,Stade de Reims,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,46,3,0,2,0,9,78,0,1.85,20
-Gessime Yassine,2026-03-07,Auxerre,RC Strasbourg,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,10,16,0,0,1,0,1,24,0,1.85,20
-Gessime Yassine,2026-03-12,HNK Rijeka,RC Strasbourg,6.5,9,972.0,2.0,108.0,0,0,0.0,0.01,4,5,0,0,0,0,1,9,0,2.06,20
-Gessime Yassine,2026-03-15,RC Strasbourg,Paris FC,6.8,69,7452.0,14.0,108.0,0,0,0.09,0.11,22,25,0,0,0,0,2,50,0,1.88,20
-Gessime Yassine,2026-03-19,RC Strasbourg,HNK Rijeka,7.0,90,9720.0,18.0,108.0,0,0,0.11,0.14,26,35,3,0,2,0,6,60,0,1.85,20
-Gessime Yassine,2026-03-22,Nantes,RC Strasbourg,6.8,28,3024.0,6.0,108.0,0,0,0.0,0.24,7,8,2,0,0,0,0,17,0,1.98,20
-Gessime Yassine,2026-03-27,Morocco,Ecuador,,1,108.0,0.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,1,5,0,0.0,20
-Gessime Yassine,2026-03-31,Morocco,Paraguay,6.6,67,7236.0,13.0,108.0,0,0,0.0,0.0,25,31,1,0,0,0,1,51,0,1.8,20
-Gessime Yassine,2026-04-04,RC Strasbourg,Nice,9.1,90,9720.0,18.0,108.0,0,0,0.64,0.74,33,37,2,0,0,0,10,76,0,1.85,20
-Gessime Yassine,2026-04-09,1. FSV Mainz 05,RC Strasbourg,6.8,64,6912.0,13.0,108.0,0,0,0.0,0.07,31,32,1,0,1,0,4,53,0,1.88,20
-Gessime Yassine,2026-04-16,RC Strasbourg,1. FSV Mainz 05,6.5,11,1188.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0,1.68,20
-Gessime Yassine,2026-04-19,RC Strasbourg,Stade Rennais,6.4,57,6156.0,11.0,108.0,0,0,0.02,0.01,17,19,1,0,1,0,4,40,0,1.79,20
-Gessime Yassine,2026-04-22,RC Strasbourg,Nice,6.8,26,2808.0,5.0,108.0,0,0,0.0,0.0,12,13,0,0,0,0,1,25,0,1.78,20
-Gessime Yassine,2026-04-26,Lorient,RC Strasbourg,6.3,85,9180.0,17.0,108.0,0,0,0.0,0.1,29,31,2,0,0,0,1,47,0,1.85,20
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Gessime Yassine,20,2026-02-27,RC Strasbourg,RC Lens,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Gessime Yassine,20,2026-03-03,RC Strasbourg,Stade de Reims,7.7,90,9720.0,18.0,108.0,0,0,0.0,0.0,39,46,3,0,2,0,9,78,0.0,1.85
+Gessime Yassine,20,2026-03-07,Auxerre,RC Strasbourg,6.7,45,4860.0,9.0,108.0,0,0,0.0,0.0,10,16,0,0,1,0,1,24,0.0,1.85
+Gessime Yassine,20,2026-03-12,HNK Rijeka,RC Strasbourg,6.5,9,972.0,2.0,108.0,0,0,0.0,0.01,4,5,0,0,0,0,1,9,0.0,2.06
+Gessime Yassine,20,2026-03-15,RC Strasbourg,Paris FC,6.8,69,7452.0,14.0,108.0,0,0,0.09,0.11,22,25,0,0,0,0,2,50,0.0,1.88
+Gessime Yassine,20,2026-03-19,RC Strasbourg,HNK Rijeka,7.0,90,9720.0,18.0,108.0,0,0,0.11,0.14,26,35,3,0,2,0,6,60,0.0,1.85
+Gessime Yassine,20,2026-03-22,Nantes,RC Strasbourg,6.8,28,3024.0,6.0,108.0,0,0,0.0,0.24,7,8,2,0,0,0,0,17,0.0,1.98
+Gessime Yassine,20,2026-03-27,Morocco,Ecuador,,1,108.0,0.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,1,5,0.0,0.0
+Gessime Yassine,20,2026-03-31,Morocco,Paraguay,6.6,67,7236.0,13.0,108.0,0,0,0.0,0.0,25,31,1,0,0,0,1,51,0.0,1.8
+Gessime Yassine,20,2026-04-04,RC Strasbourg,Nice,9.1,90,9720.0,18.0,108.0,0,0,0.64,0.74,33,37,2,0,0,0,10,76,0.0,1.85
+Gessime Yassine,20,2026-04-09,1. FSV Mainz 05,RC Strasbourg,6.8,64,6912.0,13.0,108.0,0,0,0.0,0.07,31,32,1,0,1,0,4,53,0.0,1.88
+Gessime Yassine,20,2026-04-16,RC Strasbourg,1. FSV Mainz 05,6.5,11,1188.0,2.0,108.0,0,0,0.0,0.0,1,1,0,0,0,0,0,3,0.0,1.68
+Gessime Yassine,20,2026-04-19,RC Strasbourg,Stade Rennais,6.4,57,6156.0,11.0,108.0,0,0,0.02,0.01,17,19,1,0,1,0,4,40,0.0,1.79
+Gessime Yassine,20,2026-04-22,RC Strasbourg,Nice,6.8,26,2808.0,5.0,108.0,0,0,0.0,0.0,12,13,0,0,0,0,1,25,0.0,1.78
+Gessime Yassine,20,2026-04-26,Lorient,RC Strasbourg,6.3,85,9180.0,17.0,108.0,0,0,0.0,0.1,29,31,2,0,0,0,1,47,0.0,1.85
+Gessime Yassine,20,2026-04-30,Rayo Vallecano,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Gessime Yassine,20,2026-05-03,RC Strasbourg,Toulouse,6.3,90,,,0.0,0,0,0.04,0.02,15,23,0,0,0,0,4,44,,
+Gessime Yassine,20,2026-05-07,RC Strasbourg,Rayo Vallecano,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,
+Gessime Yassine,20,2026-05-10,Angers,RC Strasbourg,6.3,15,,,0.0,0,0,0.0,0.0,5,6,0,0,0,0,2,10,,
+Gessime Yassine,20,2026-05-13,Stade Brestois,RC Strasbourg,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,,

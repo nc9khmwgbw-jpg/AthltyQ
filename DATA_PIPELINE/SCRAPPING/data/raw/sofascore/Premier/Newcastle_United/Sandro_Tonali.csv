@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Sandro Tonali,2026-02-10,Tottenham Hotspur,Newcastle United,6.6,15,1620.0,3.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,2,9,0,1.85,26
-Sandro Tonali,2026-02-14,Aston Villa,Newcastle United,9.0,90,9720.0,18.0,108.0,2,0,0.0,0.0,48,62,0,0,1,0,3,70,0,1.85,26
-Sandro Tonali,2026-02-18,Qarabağ FK,Newcastle United,7.2,90,9720.0,18.0,108.0,0,0,0.04,0.36,65,69,1,0,2,0,2,89,0,1.85,26
-Sandro Tonali,2026-02-21,Manchester City,Newcastle United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.18,37,45,2,0,1,0,5,55,0,1.85,26
-Sandro Tonali,2026-02-24,Newcastle United,Qarabağ FK,8.6,90,9720.0,18.0,108.0,1,0,0.35,0.77,75,81,3,0,1,0,3,96,0,1.85,26
-Sandro Tonali,2026-02-28,Newcastle United,Everton,7.0,90,9720.0,18.0,108.0,0,0,0.04,0.08,74,87,3,0,0,0,3,103,0,1.85,26
-Sandro Tonali,2026-03-04,Newcastle United,Manchester United,7.9,89,9612.0,18.0,108.0,0,0,0.02,0.49,27,35,3,0,2,0,5,51,0,1.87,26
-Sandro Tonali,2026-03-07,Newcastle United,Manchester City,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,32,2,0,0,0,4,48,0,1.85,26
-Sandro Tonali,2026-03-10,Newcastle United,FC Barcelona,6.2,90,9720.0,18.0,108.0,0,0,0.13,0.02,25,35,1,0,2,0,7,50,0,1.85,26
-Sandro Tonali,2026-03-18,FC Barcelona,Newcastle United,6.4,55,5940.0,11.0,108.0,0,0,0.0,0.0,9,12,0,0,3,0,7,26,0,1.85,26
-Sandro Tonali,2026-03-26,Italy,Northern Ireland,8.3,83,8964.0,17.0,108.0,1,0,0.0,0.0,19,32,3,0,0,0,6,53,0,1.9,26
-Sandro Tonali,2026-03-31,Bosnia & Herzegovina,Italy,7.3,120,12960.0,24.0,108.0,0,0,0.0,0.0,30,38,0,0,1,0,4,53,0,1.85,26
-Sandro Tonali,2026-04-12,Crystal Palace,Newcastle United,6.6,89,9612.0,18.0,108.0,0,0,0.0,0.05,51,69,1,0,1,0,6,86,0,1.87,26
-Sandro Tonali,2026-04-18,Newcastle United,Bournemouth,6.9,86,9288.0,17.0,108.0,0,0,0.07,0.08,36,44,0,0,1,0,2,57,0,1.83,26
-Sandro Tonali,2026-04-25,Arsenal,Newcastle United,7.0,90,9720.0,18.0,108.0,0,0,0.06,0.16,54,63,1,0,1,0,4,76,0,1.85,26
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Sandro Tonali,26,2026-02-10,Tottenham Hotspur,Newcastle United,6.6,15,1620.0,3.0,108.0,0,0,0.0,0.0,2,3,0,0,0,0,2,9,0.0,1.85
+Sandro Tonali,26,2026-02-14,Aston Villa,Newcastle United,9.0,90,9720.0,18.0,108.0,2,0,0.0,0.0,48,62,0,0,1,0,3,70,0.0,1.85
+Sandro Tonali,26,2026-02-18,Qarabağ FK,Newcastle United,7.2,90,9720.0,18.0,108.0,0,0,0.04,0.36,65,69,1,0,2,0,2,89,0.0,1.85
+Sandro Tonali,26,2026-02-21,Manchester City,Newcastle United,6.8,90,9720.0,18.0,108.0,0,0,0.0,0.18,37,45,2,0,1,0,5,55,0.0,1.85
+Sandro Tonali,26,2026-02-24,Newcastle United,Qarabağ FK,8.6,90,9720.0,18.0,108.0,1,0,0.35,0.77,75,81,3,0,1,0,3,96,0.0,1.85
+Sandro Tonali,26,2026-02-28,Newcastle United,Everton,7.0,90,9720.0,18.0,108.0,0,0,0.04,0.08,74,87,3,0,0,0,3,103,0.0,1.85
+Sandro Tonali,26,2026-03-04,Newcastle United,Manchester United,7.9,89,9612.0,18.0,108.0,0,0,0.02,0.49,27,35,3,0,2,0,5,51,0.0,1.87
+Sandro Tonali,26,2026-03-07,Newcastle United,Manchester City,7.0,90,9720.0,18.0,108.0,0,0,0.0,0.0,21,32,2,0,0,0,4,48,0.0,1.85
+Sandro Tonali,26,2026-03-10,Newcastle United,FC Barcelona,6.2,90,9720.0,18.0,108.0,0,0,0.13,0.02,25,35,1,0,2,0,7,50,0.0,1.85
+Sandro Tonali,26,2026-03-18,FC Barcelona,Newcastle United,6.4,55,5940.0,11.0,108.0,0,0,0.0,0.0,9,12,0,0,3,0,7,26,0.0,1.85
+Sandro Tonali,26,2026-03-26,Italy,Northern Ireland,8.3,83,8964.0,17.0,108.0,1,0,0.0,0.0,19,32,3,0,0,0,6,53,0.0,1.9
+Sandro Tonali,26,2026-03-31,Bosnia & Herzegovina,Italy,7.3,120,12960.0,24.0,108.0,0,0,0.0,0.0,30,38,0,0,1,0,4,53,0.0,1.85
+Sandro Tonali,26,2026-04-12,Crystal Palace,Newcastle United,6.6,89,9612.0,18.0,108.0,0,0,0.0,0.05,51,69,1,0,1,0,6,86,0.0,1.87
+Sandro Tonali,26,2026-04-18,Newcastle United,Bournemouth,6.9,86,9288.0,17.0,108.0,0,0,0.07,0.08,36,44,0,0,1,0,2,57,0.0,1.83
+Sandro Tonali,26,2026-04-25,Arsenal,Newcastle United,7.0,90,9720.0,18.0,108.0,0,0,0.06,0.16,54,63,1,0,1,0,4,76,0.0,1.85
+Sandro Tonali,26,2026-05-02,Newcastle United,Brighton & Hove Albion,7.0,90,,,0.0,0,0,0.0,0.11,23,30,2,0,1,0,3,45,,
+Sandro Tonali,26,2026-05-10,Nottingham Forest,Newcastle United,6.9,90,,,0.0,0,0,0.06,0.1,58,67,1,0,1,0,5,82,,

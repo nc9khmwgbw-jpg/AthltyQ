@@ -1,16 +1,18 @@
-﻿Nom,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity,Age
-Kervin Arriaga,2026-01-04,Sevilla,Levante UD,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.14,33,38,1,0,0,0,3,45,0,1.85,28
-Kervin Arriaga,2026-01-11,Levante UD,Espanyol,6.5,79,8532.0,16.0,108.0,0,0,0.0,0.01,32,37,0,0,1,0,7,46,0,1.88,28
-Kervin Arriaga,2026-01-17,Real Madrid,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Kervin Arriaga,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Kervin Arriaga,2026-01-31,Levante UD,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Kervin Arriaga,2026-02-08,Athletic Club,Levante UD,6.7,44,4752.0,9.0,108.0,0,0,0.05,0.0,24,29,0,0,0,0,2,34,0,1.89,28
-Kervin Arriaga,2026-02-15,Levante UD,Valencia,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,39,41,0,0,1,0,4,55,0,1.85,28
-Kervin Arriaga,2026-03-07,Levante UD,Girona FC,6.7,24,2592.0,5.0,108.0,0,0,0.02,0.0,4,7,0,0,0,0,1,15,0,1.93,28
-Kervin Arriaga,2026-03-16,Rayo Vallecano,Levante UD,6.6,16,1728.0,3.0,108.0,0,0,0.04,0.0,1,4,0,0,1,0,1,12,0,1.74,28
-Kervin Arriaga,2026-03-21,Levante UD,Real Oviedo,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,2,5,0,0,0,0,1,7,0,1.85,28
-Kervin Arriaga,2026-03-31,Peru,Honduras,7.0,81,8748.0,16.0,108.0,0,0,0.0,0.0,29,35,1,0,0,0,2,45,0,1.83,28
-Kervin Arriaga,2026-04-04,Real Sociedad,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0,0.0,28
-Kervin Arriaga,2026-04-13,Levante UD,Getafe,6.9,27,2916.0,5.0,108.0,0,0,0.0,0.0,15,19,0,0,0,0,1,29,0,1.71,28
-Kervin Arriaga,2026-04-23,Levante UD,Sevilla,7.9,27,2916.0,5.0,108.0,0,0,0.04,0.52,4,7,1,0,0,0,1,15,0,1.71,28
-Kervin Arriaga,2026-04-27,Espanyol,Levante UD,6.9,30,3240.0,6.0,108.0,0,0,0.0,0.0,13,17,0,0,0,0,4,20,0,1.85,28
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Successful_Dribbles,kpi_explosivity
+Kervin Arriaga,28,2026-01-04,Sevilla,Levante UD,7.4,90,9720.0,18.0,108.0,0,0,0.0,0.14,33,38,1,0,0,0,3,45,0.0,1.85
+Kervin Arriaga,28,2026-01-11,Levante UD,Espanyol,6.5,79,8532.0,16.0,108.0,0,0,0.0,0.01,32,37,0,0,1,0,7,46,0.0,1.88
+Kervin Arriaga,28,2026-01-17,Real Madrid,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kervin Arriaga,28,2026-01-23,Levante UD,Elche,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kervin Arriaga,28,2026-01-31,Levante UD,Atlético Madrid,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kervin Arriaga,28,2026-02-08,Athletic Club,Levante UD,6.7,44,4752.0,9.0,108.0,0,0,0.05,0.0,24,29,0,0,0,0,2,34,0.0,1.89
+Kervin Arriaga,28,2026-02-15,Levante UD,Valencia,6.6,90,9720.0,18.0,108.0,0,0,0.0,0.01,39,41,0,0,1,0,4,55,0.0,1.85
+Kervin Arriaga,28,2026-03-07,Levante UD,Girona FC,6.7,24,2592.0,5.0,108.0,0,0,0.02,0.0,4,7,0,0,0,0,1,15,0.0,1.93
+Kervin Arriaga,28,2026-03-16,Rayo Vallecano,Levante UD,6.6,16,1728.0,3.0,108.0,0,0,0.04,0.0,1,4,0,0,1,0,1,12,0.0,1.74
+Kervin Arriaga,28,2026-03-21,Levante UD,Real Oviedo,6.6,10,1080.0,2.0,108.0,0,0,0.0,0.0,2,5,0,0,0,0,1,7,0.0,1.85
+Kervin Arriaga,28,2026-03-31,Peru,Honduras,7.0,81,8748.0,16.0,108.0,0,0,0.0,0.0,29,35,1,0,0,0,2,45,0.0,1.83
+Kervin Arriaga,28,2026-04-04,Real Sociedad,Levante UD,,0,,,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0.0
+Kervin Arriaga,28,2026-04-13,Levante UD,Getafe,6.9,27,2916.0,5.0,108.0,0,0,0.0,0.0,15,19,0,0,0,0,1,29,0.0,1.71
+Kervin Arriaga,28,2026-04-23,Levante UD,Sevilla,7.9,27,2916.0,5.0,108.0,0,0,0.04,0.52,4,7,1,0,0,0,1,15,0.0,1.71
+Kervin Arriaga,28,2026-04-27,Espanyol,Levante UD,6.9,30,3240.0,6.0,108.0,0,0,0.0,0.0,13,17,0,0,0,0,4,20,0.0,1.85
+Kervin Arriaga,28,2026-05-02,Villarreal,Levante UD,6.8,68,,,0.0,0,0,0.0,0.0,29,31,0,0,2,0,4,50,,
+Kervin Arriaga,28,2026-05-12,Celta Vigo,Levante UD,7.6,90,,,0.0,1,0,0.13,0.02,39,45,2,0,1,0,0,56,,
