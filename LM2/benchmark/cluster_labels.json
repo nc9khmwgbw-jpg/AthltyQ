@@ -1,0 +1,94 @@
+{
+    "best_k": 4,
+    "best_silhouette": 0.1683,
+    "search_time_s": 2.38,
+    "fit_time_s": 0.15,
+    "k_search": {
+        "4": {
+            "inertia": 19952.22,
+            "silhouette": 0.1683
+        },
+        "5": {
+            "inertia": 18536.44,
+            "silhouette": 0.1598
+        },
+        "6": {
+            "inertia": 17673.69,
+            "silhouette": 0.1498
+        },
+        "7": {
+            "inertia": 16922.62,
+            "silhouette": 0.1498
+        },
+        "8": {
+            "inertia": 16195.16,
+            "silhouette": 0.1438
+        },
+        "9": {
+            "inertia": 15615.59,
+            "silhouette": 0.1299
+        },
+        "10": {
+            "inertia": 15132.06,
+            "silhouette": 0.1385
+        },
+        "11": {
+            "inertia": 14770.5,
+            "silhouette": 0.1076
+        },
+        "12": {
+            "inertia": 14434.13,
+            "silhouette": 0.1022
+        },
+        "13": {
+            "inertia": 14200.33,
+            "silhouette": 0.1027
+        },
+        "14": {
+            "inertia": 13935.52,
+            "silhouette": 0.099
+        }
+    },
+    "clusters": {
+        "0": {
+            "label": "Coureur Infatigable",
+            "n_players": 1064,
+            "pct": 46.6,
+            "dominant_postes": {
+                "CB": 332,
+                "MC": 241,
+                "ATT": 137
+            }
+        },
+        "1": {
+            "label": "Finisseur de Surface",
+            "n_players": 441,
+            "pct": 19.3,
+            "dominant_postes": {
+                "ATT": 221,
+                "AG": 145,
+                "MC": 27
+            }
+        },
+        "2": {
+            "label": "Playmaker Créatif",
+            "n_players": 338,
+            "pct": 14.8,
+            "dominant_postes": {
+                "ATT": 155,
+                "AG": 68,
+                "MOF": 63
+            }
+        },
+        "3": {
+            "label": "Profil Polyvalent",
+            "n_players": 439,
+            "pct": 19.2,
+            "dominant_postes": {
+                "AG": 223,
+                "ATT": 70,
+                "CB": 67
+            }
+        }
+    }
+}

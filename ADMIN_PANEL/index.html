@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AthlytIQ Command Center</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    
+    <style>
+        body {
+            background-color: #f8fafc; /* slate-50 */
+            color: #0f172a; /* slate-900 */
+            font-family: 'Inter', sans-serif;
+            overflow: hidden;
+            margin: 0;
+        }
+
+        .panel-card {
+            background: #ffffff;
+            border: 1px solid #e2e8f0; /* slate-200 */
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+        }
+
+        .terminal-container {
+            background: #0f172a; /* slate-900 */
+            font-family: 'Space Mono', monospace;
+            font-size: 12px;
+            color: #cbd5e1; /* slate-300 */
+            overflow-y: auto;
+            flex: 1;
+            padding: 20px;
+        }
+
+        .terminal-line { margin: 2px 0; word-wrap: break-word; line-height: 1.5; }
+        .terminal-prefix { color: #64748b; margin-right: 12px; } /* slate-500 */
+        .terminal-warn { color: #fbbf24; } /* amber-400 */
+        .terminal-error { color: #f87171; } /* red-400 */
+        .terminal-info { color: #38bdf8; } /* sky-400 */
+        .terminal-success { color: #34d399; } /* emerald-400 */
+
+        .stop-btn {
+            background-color: #ef4444; /* red-500 */
+            color: white;
+            transition: all 0.2s ease;
+        }
+        .stop-btn:hover:not(:disabled) {
+            background-color: #dc2626; /* red-600 */
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
+        }
+        .stop-btn:disabled {
+            background-color: #f1f5f9; /* slate-100 */
+            color: #94a3b8; /* slate-400 */
+            border: 1px solid #e2e8f0;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+        .terminal-container::-webkit-scrollbar-thumb { background: #334155; }
+        
+        .hud-title {
+            font-family: 'Inter', sans-serif;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            color: #0f172a;
+        }
+
+        .module-row {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            transition: all 0.2s ease;
+        }
+        .module-row:hover {
+            border-color: #94a3b8; /* slate-400 */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
+        
+        .play-btn {
+            background: #f8fafc;
+            color: #64748b;
+            border: 1px solid #e2e8f0;
+            transition: all 0.2s;
+        }
+        .play-btn:hover:not(:disabled) {
+            background: #eff6ff; /* blue-50 */
+            color: #2563eb; /* blue-600 */
+            border-color: #bfdbfe; /* blue-200 */
+            transform: scale(1.05);
+        }
+        .play-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .play-btn.running {
+            background: #f0fdf4; /* green-50 */
+            color: #16a34a; /* green-600 */
+            border-color: #bbf7d0; /* green-200 */
+        }
+    </style>
+</head>
+<body class="h-screen w-screen p-4 md:p-6 flex justify-center">
+
+    <div class="w-full max-w-[1600px] h-full flex flex-col md:flex-row gap-6">
+        
+        <!-- SIDEBAR (Modules) -->
+        <aside class="w-full md:w-[380px] flex flex-col gap-5 h-full">
+            <header class="pb-1">
+                <h1 class="hud-title text-2xl uppercase">AthlytIQ Core</h1>
+                <p class="font-['Space_Mono'] text-[11px] text-slate-500 uppercase tracking-widest mt-1 font-semibold">Enterprise Orchestrator</p>
+            </header>
+            
+            <div class="panel-card rounded-xl flex-1 flex flex-col overflow-hidden">
+                <div class="p-4 border-b border-slate-200 flex justify-between items-center bg-slate-50/50">
+                    <div class="flex items-center gap-3">
+                        <input type="checkbox" id="chkSelectAll" class="w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500 cursor-pointer" checked onclick="toggleSelectAll(this)">
+                        <span class="text-xs font-semibold text-slate-600 uppercase tracking-wider">Available Scripts</span>
+                    </div>
+                    <span class="text-[11px] font-bold text-slate-400 px-2 py-1 rounded-md bg-slate-100" id="activeModuleCount">0 ACTIF</span>
+                </div>
+                
+                <!-- Liste des modules générée en JS -->
+                <div id="modulesList" class="flex-1 overflow-y-auto p-3 space-y-2.5 bg-slate-50/30">
+                </div>
+                
+                <!-- Actions globales -->
+                <div class="p-4 border-t border-slate-200 bg-white flex flex-col gap-3">
+                    <button id="btnRunSelected" class="w-full py-3.5 rounded-lg font-bold text-sm tracking-wide flex justify-center items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white transition-all shadow-sm hover:shadow-md" onclick="runSelectedPipeline()">
+                        <i data-lucide="play-circle" class="w-4 h-4"></i> RUN SELECTED PIPELINE
+                    </button>
+                    <button id="btnStopGlobal" disabled class="stop-btn w-full py-3.5 rounded-lg font-bold text-sm tracking-wide flex justify-center items-center gap-2">
+                        <i data-lucide="octagon-alert" class="w-4 h-4"></i> EMERGENCY STOP
+                    </button>
+                </div>
+            </div>
+        </aside>
+
+        <!-- MAIN CONTENT (Metrics + Terminal) -->
+        <main class="flex-1 flex flex-col gap-5 h-full min-w-0">
+            <!-- 3 METRICS CARDS -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-5 shrink-0">
+                <!-- Metric 1: Scraped -->
+                <div class="panel-card rounded-xl p-6 flex flex-col justify-center">
+                    <div class="text-[11px] font-semibold text-slate-500 uppercase tracking-widest mb-3 flex justify-between">
+                        <span>Joueurs Bruts (Raw)</span>
+                        <i data-lucide="download-cloud" class="w-4 h-4 text-blue-500"></i>
+                    </div>
+                    <div class="font-black text-4xl text-slate-800 tracking-tight" id="valRaw">---</div>
+                    <div class="text-[11px] font-medium text-slate-400 mt-2">Avant nettoyage</div>
+                </div>
+
+                <!-- Metric 2: Cleaned -->
+                <div class="panel-card rounded-xl p-6 flex flex-col justify-center relative overflow-hidden">
+                    <div class="absolute right-0 top-0 w-1 h-full bg-emerald-500"></div>
+                    <div class="text-[11px] font-semibold text-slate-500 uppercase tracking-widest mb-3 flex justify-between">
+                        <span>Qualifiés (Final)</span>
+                        <i data-lucide="check-circle" class="w-4 h-4 text-emerald-500"></i>
+                    </div>
+                    <div class="font-black text-4xl text-emerald-600 tracking-tight" id="valClean">---</div>
+                    <div class="text-[11px] font-medium text-slate-400 mt-2">Prêts pour l'IA</div>
+                </div>
+                
+                <!-- Metric 3: Delta -->
+                <div class="panel-card rounded-xl p-6 flex flex-col justify-center border-r-4 border-r-rose-500">
+                    <div class="text-[11px] font-semibold text-slate-500 uppercase tracking-widest mb-3 flex justify-between">
+                        <span>Exclus / Filtrés</span>
+                        <i data-lucide="filter-X" class="w-4 h-4 text-rose-500"></i>
+                    </div>
+                    <div class="font-black text-4xl text-rose-600 tracking-tight" id="valExcluded">---</div>
+                    <div class="text-[11px] font-medium text-slate-400 mt-2">Gardiens, Jeunes, < 12 matchs</div>
+                </div>
+            </div>
+
+            <!-- TERMINAL -->
+            <div class="panel-card rounded-xl overflow-hidden flex flex-col flex-1 min-h-0 border-slate-300">
+                <!-- Terminal Header (Mac style) -->
+                <div class="bg-slate-100 px-4 py-3 border-b border-slate-300 flex justify-between items-center shrink-0">
+                    <div class="flex items-center gap-4">
+                        <div class="flex gap-2">
+                            <div class="w-3 h-3 rounded-full bg-rose-400"></div>
+                            <div class="w-3 h-3 rounded-full bg-amber-400"></div>
+                            <div class="w-3 h-3 rounded-full bg-emerald-400"></div>
+                        </div>
+                        <span class="font-semibold text-[11px] text-slate-500 uppercase tracking-wider">System Output</span>
+                    </div>
+                    <div class="flex items-center gap-2">
+                        <span class="relative flex h-2 w-2">
+                          <span id="statusPing" class="animate-ping absolute inline-flex h-full w-full rounded-full bg-slate-400 opacity-20"></span>
+                          <span id="statusDot" class="relative inline-flex rounded-full h-2 w-2 bg-slate-300"></span>
+                        </span>
+                        <span id="statusText" class="font-semibold text-[10px] text-slate-500 uppercase tracking-widest">IDLE</span>
+                    </div>
+                </div>
+                
+                <!-- Terminal Body -->
+                <div id="terminal" class="terminal-container">
+                    <div class="terminal-line"><span class="terminal-info">AthlytIQ OS [Version 3.1 Pro]</span></div>
+                    <div class="terminal-line" style="color:#64748b;">(c) 2026 Enterprise Pipeline. Select a module from the sidebar to launch.</div>
+                    <div class="terminal-line"><br></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        lucide.createIcons();
+
+        const PIPELINE_STEPS = [
+            { id: "step_1", label: "Scraping SofaScore (Auto)", badge: "DATA" },
+            { id: "step_2", label: "Scraping Transfermarkt", badge: "DATA" },
+            { id: "step_3", label: "Nettoyage et Fusion Dataset", badge: "CORE" },
+            { id: "step_4", label: "Audit de Santé", badge: "CORE" },
+            { id: "step_5", label: "Feature Engineering", badge: "ML" },
+            { id: "step_6", label: "Classification 9 Postes", badge: "ML" },
+            { id: "step_7", label: "Préparation Scouting", badge: "ML" },
+            { id: "step_8", label: "Apprentissage Poids", badge: "AI" },
+            { id: "step_9", label: "Clustering Archétypes", badge: "AI" },
+            { id: "step_10", label: "Préparation Benchmark", badge: "AI" },
+            { id: "step_11", label: "Entraînement Modèles", badge: "AI" },
+            { id: "step_12", label: "Évaluation & Visuels", badge: "REPORT" }
+        ];
+
+        const modulesList = document.getElementById('modulesList');
+        const btnStopGlobal = document.getElementById('btnStopGlobal');
+        const terminal = document.getElementById('terminal');
+        const activeModuleCount = document.getElementById('activeModuleCount');
+        
+        let ws = null;
+        let isRunning = false;
+        let activeStepId = null;
+
+        // Génération de la Sidebar
+        PIPELINE_STEPS.forEach((step, index) => {
+            const div = document.createElement('div');
+            div.className = "module-row rounded-lg p-3 flex justify-between items-center group cursor-default";
+            
+            let badgeColor = "bg-slate-100 text-slate-500";
+            if(step.badge === "ML") badgeColor = "bg-blue-50 text-blue-600";
+            if(step.badge === "AI") badgeColor = "bg-purple-50 text-purple-600";
+            if(step.badge === "CORE") badgeColor = "bg-emerald-50 text-emerald-600";
+            
+            div.innerHTML = `
+                <div class="flex items-center gap-3">
+                    <input type="checkbox" id="chk_${step.id}" class="module-checkbox w-4 h-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500 cursor-pointer" checked>
+                    <div class="flex flex-col gap-1.5">
+                        <div class="flex items-center gap-2">
+                            <span class="font-semibold text-[10px] text-slate-400">MOD ${(index+1).toString().padStart(2, '0')}</span>
+                            <span class="text-[9px] font-bold px-1.5 py-0.5 rounded ${badgeColor}">${step.badge}</span>
+                        </div>
+                        <span class="text-[13px] text-slate-700 font-semibold group-hover:text-slate-900 transition-colors">${step.label}</span>
+                    </div>
+                </div>
+                <button id="btn_${step.id}" class="play-btn w-8 h-8 rounded-md flex items-center justify-center shrink-0" onclick="toggleModule('${step.id}')">
+                    <i data-lucide="play" class="w-4 h-4 ml-0.5"></i>
+                </button>
+            `;
+            modulesList.appendChild(div);
+        });
+
+        window.toggleSelectAll = (el) => {
+            const checkboxes = document.querySelectorAll('.module-checkbox');
+            checkboxes.forEach(chk => {
+                if(!chk.disabled) chk.checked = el.checked;
+            });
+        };
+
+        function appendLog(text) {
+            const div = document.createElement('div');
+            div.className = 'terminal-line';
+            
+            const now = new Date();
+            const timeStr = now.getHours().toString().padStart(2, '0') + ':' + 
+                            now.getMinutes().toString().padStart(2, '0') + ':' + 
+                            now.getSeconds().toString().padStart(2, '0');
+            
+            let colorClass = '';
+            let rawText = text;
+
+            if (text.includes('[ERROR]') || text.includes('❌') || text.includes('🛑')) colorClass = 'terminal-error';
+            else if (text.includes('[SYSTEM]') || text.includes('✅') || text.includes('=== Démarrage')) colorClass = 'terminal-success';
+            else if (text.includes('ATTENTION') || text.includes('⚠️')) colorClass = 'terminal-warn';
+
+            // Catch METRICS invisibles
+            if (text.includes('[METRIC:')) {
+                parseMetric(text);
+                return;
+            }
+
+            div.innerHTML = `<span class="terminal-prefix">[${timeStr}]</span> <span class="${colorClass}">${rawText}</span>`;
+            terminal.appendChild(div);
+            
+            const isScrolledToBottom = terminal.scrollHeight - terminal.clientHeight <= terminal.scrollTop + 50;
+            if (isScrolledToBottom) {
+                terminal.scrollTop = terminal.scrollHeight;
+            }
+        }
+
+        function parseMetric(text) {
+            try {
+                const match = text.match(/\[METRIC:([^:]+):([^\]]+)\]/);
+                if (match) {
+                    const key = match[1];
+                    const value = match[2];
+                    
+                    if (key === 'RAW_PLAYERS') document.getElementById('valRaw').innerText = value;
+                    if (key === 'CLEANED_PLAYERS') document.getElementById('valClean').innerText = value;
+                    if (key === 'EXCLUDED_PLAYERS') document.getElementById('valExcluded').innerText = value;
+                    
+                    const el = document.getElementById(key === 'RAW_PLAYERS' ? 'valRaw' : (key === 'CLEANED_PLAYERS' ? 'valClean' : 'valExcluded'));
+                    if(el) {
+                        el.style.transform = 'scale(1.05)';
+                        el.style.transition = 'transform 0.2s';
+                        setTimeout(() => el.style.transform = 'scale(1)', 200);
+                    }
+                }
+            } catch (e) {
+                console.error("Metric Parse Error:", e);
+            }
+        }
+
+        function setRunningState(running, stepIds = []) {
+            try {
+                isRunning = running;
+                activeStepId = Array.isArray(stepIds) ? stepIds[0] : stepIds; // keeping backwards compatibility
+                
+                const dot = document.getElementById('statusDot');
+                const ping = document.getElementById('statusPing');
+                const text = document.getElementById('statusText');
+                const chkSelectAll = document.getElementById('chkSelectAll');
+                const btnRunSelected = document.getElementById('btnRunSelected');
+                
+                if (running) {
+                    if(dot) dot.className = 'relative inline-flex rounded-full h-2 w-2 bg-emerald-500';
+                    if(ping) ping.className = 'animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-500 opacity-75';
+                    if(text) {
+                        text.innerText = 'EXECUTING...';
+                        text.className = 'font-semibold text-[10px] text-emerald-600 uppercase tracking-widest';
+                    }
+                    
+                    if(btnStopGlobal) btnStopGlobal.disabled = false;
+                    if(btnRunSelected) {
+                        btnRunSelected.disabled = true;
+                        btnRunSelected.className = "w-full py-3.5 rounded-lg font-bold text-sm tracking-wide flex justify-center items-center gap-2 bg-blue-400 text-white cursor-not-allowed";
+                    }
+                    if(chkSelectAll) chkSelectAll.disabled = true;
+                    
+                    if(activeModuleCount) {
+                        activeModuleCount.innerText = stepIds.length + ' ACTIF' + (stepIds.length > 1 ? 'S' : '');
+                        activeModuleCount.className = "text-[11px] font-bold text-emerald-600 px-2 py-1 rounded-md bg-emerald-50 border border-emerald-200";
+                    }
+                    
+                    PIPELINE_STEPS.forEach(s => {
+                        const btn = document.getElementById(`btn_${s.id}`);
+                        const chk = document.getElementById(`chk_${s.id}`);
+                        if(chk) chk.disabled = true;
+                        
+                        if(btn) {
+                            if (stepIds.includes(s.id)) {
+                                btn.disabled = false;
+                                btn.classList.add('running');
+                                btn.innerHTML = `<div class="animate-spin w-4 h-4 border-2 border-emerald-500 border-t-transparent rounded-full"></div>`;
+                            } else {
+                                btn.disabled = true;
+                            }
+                        }
+                    });
+
+                } else {
+                    if(dot) dot.className = 'relative inline-flex rounded-full h-2 w-2 bg-slate-300';
+                    if(ping) ping.className = 'animate-ping absolute inline-flex h-full w-full rounded-full bg-slate-400 opacity-20';
+                    if(text) {
+                        text.innerText = 'IDLE';
+                        text.className = 'font-semibold text-[10px] text-slate-500 uppercase tracking-widest';
+                    }
+                    
+                    if(btnStopGlobal) {
+                        btnStopGlobal.disabled = true;
+                        btnStopGlobal.innerHTML = `<i data-lucide="octagon-alert" class="w-4 h-4"></i> EMERGENCY STOP`;
+                    }
+                    if(btnRunSelected) {
+                        btnRunSelected.disabled = false;
+                        btnRunSelected.className = "w-full py-3.5 rounded-lg font-bold text-sm tracking-wide flex justify-center items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white transition-all shadow-sm hover:shadow-md";
+                        btnRunSelected.innerHTML = `<i data-lucide="play-circle" class="w-4 h-4"></i> RUN SELECTED PIPELINE`;
+                    }
+                    if(chkSelectAll) chkSelectAll.disabled = false;
+                    
+                    if(activeModuleCount) {
+                        activeModuleCount.innerText = '0 ACTIF';
+                        activeModuleCount.className = "text-[11px] font-bold text-slate-400 px-2 py-1 rounded-md bg-slate-100";
+                    }
+                    
+                    PIPELINE_STEPS.forEach(s => {
+                        const btn = document.getElementById(`btn_${s.id}`);
+                        const chk = document.getElementById(`chk_${s.id}`);
+                        if(chk) chk.disabled = false;
+                        
+                        if(btn) {
+                            btn.disabled = false;
+                            btn.classList.remove('running');
+                            btn.innerHTML = `<i data-lucide="play" class="w-4 h-4 ml-0.5"></i>`;
+                        }
+                    });
+                    lucide.createIcons();
+                }
+            } catch (e) {
+                console.error("UI State Error:", e);
+            }
+        }
+
+        function connectWebSocket() {
+            if (ws && ws.readyState === WebSocket.OPEN) return Promise.resolve();
+            
+            return new Promise((resolve, reject) => {
+                ws = new WebSocket('ws://localhost:8082/ws/pipeline');
+                
+                ws.onopen = () => { resolve(); };
+                
+                ws.onmessage = (event) => {
+                    appendLog(event.data);
+                    if (event.data.includes('Pipeline terminé') || event.data.includes('SIGNAL D\'ARRÊT') || event.data.includes('Arrêt d\'urgence') || event.data.includes('échoué')) {
+                        setRunningState(false);
+                    }
+                };
+                
+                ws.onclose = () => {
+                    setRunningState(false);
+                    appendLog('[SYSTEM] WebSocket closed.');
+                };
+                
+                ws.onerror = (error) => {
+                    appendLog('[ERROR] Connection error to Admin Server (port 8082).');
+                    setRunningState(false);
+                    reject(error);
+                };
+            });
+        }
+
+        window.toggleModule = async (stepId) => {
+            if (isRunning && activeStepId === stepId) {
+                stopPipeline();
+                return;
+            }
+            
+            setRunningState(true, [stepId]);
+            
+            if(stepId === "step_3") {
+                document.getElementById('valRaw').innerText = '---';
+                document.getElementById('valClean').innerText = '---';
+                document.getElementById('valExcluded').innerText = '---';
+            }
+
+            appendLog(`[SYSTEM] Initializing Module: ${stepId}...`);
+
+            try {
+                await connectWebSocket();
+                ws.send(JSON.stringify({ action: 'start', steps: [stepId] }));
+            } catch (e) {
+                console.error("Erreur de connexion", e);
+                setRunningState(false);
+            }
+        };
+
+        window.runSelectedPipeline = async () => {
+            if (isRunning) return;
+            
+            const checkboxes = document.querySelectorAll('.module-checkbox');
+            const selectedSteps = [];
+            
+            checkboxes.forEach(chk => {
+                if(chk.checked) {
+                    selectedSteps.push(chk.id.replace('chk_', ''));
+                }
+            });
+            
+            if(selectedSteps.length === 0) {
+                appendLog(`[ERROR] Aucune étape sélectionnée pour l'exécution.`);
+                return;
+            }
+            
+            setRunningState(true, selectedSteps);
+            
+            if(selectedSteps.includes("step_3")) {
+                document.getElementById('valRaw').innerText = '---';
+                document.getElementById('valClean').innerText = '---';
+                document.getElementById('valExcluded').innerText = '---';
+            }
+
+            appendLog(`[SYSTEM] Initializing Custom Pipeline (${selectedSteps.length} modules)...`);
+
+            try {
+                await connectWebSocket();
+                ws.send(JSON.stringify({ action: 'start', steps: selectedSteps }));
+            } catch (e) {
+                console.error("Erreur de connexion", e);
+                setRunningState(false);
+            }
+        };
+
+        function stopPipeline() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                appendLog('[SYSTEM] 🛑 Commande d\'ARRÊT D\'URGENCE envoyée au serveur...');
+                ws.send(JSON.stringify({ action: 'stop' }));
+                
+                btnStopGlobal.innerHTML = `<div class="animate-spin w-4 h-4 border-2 border-slate-400 border-t-transparent rounded-full"></div> ABORTING...`;
+                setTimeout(() => {
+                    btnStopGlobal.innerHTML = `<i data-lucide="octagon-alert" class="w-4 h-4"></i> EMERGENCY STOP`;
+                    lucide.createIcons();
+                }, 1000);
+            }
+        }
+
+        btnStopGlobal.addEventListener('click', stopPipeline);
+        
+        lucide.createIcons();
+    </script>
+</body>
+</html>

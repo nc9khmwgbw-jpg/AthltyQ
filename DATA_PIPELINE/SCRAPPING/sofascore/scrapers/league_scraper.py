@@ -14,7 +14,30 @@ from DATA_PIPELINE.SCRAPPING.common.logger import setup_logger
 logger = setup_logger("LeagueScraper")
 
 ROOT = Path(__file__).resolve().parents[4]
-RAW_DIR = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "data" / "raw" / "sofascore"
+RAW_DIR  = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "data" / "raw" / "sofascore"
+POS_FILE = ROOT / "data" / "player_positions.csv"   # Mapping centralisé Nom → Poste
+
+
+# Mapping code SofaScore → poste granulaire AthlytIQ
+# (même que dans POSTE_MAP du similarity engine)
+SOFA_POS_MAP = {
+    'CF': 'ATT', 'ST': 'ATT',
+    'LW': 'AG',  'LF': 'AG',  'LM': 'AG',
+    'RW': 'AD',  'RF': 'AD',  'RM': 'AD',
+    'SS': 'ATT', 'F':  'ATT',
+    'AM': 'MOF', 'CAM':'MOF',
+    'CM': 'MC',  'M':  'MC',
+    'DM': 'MDF', 'CDM':'MDF',
+    'CB': 'CB',  'D':  'CB',
+    'LB': 'LB',  'LWB':'LB',
+    'RB': 'RB',  'RWB':'RB',  'WB': 'RB',
+    'G':  'GK',  'GK': 'GK',
+    # Pass-through
+    'ATT':'ATT', 'AG':'AG', 'AD':'AD',
+    'MOF':'MOF', 'MC':'MC', 'MDF':'MDF',
+    'CB':'CB',   'LB':'LB', 'RB':'RB',
+}
+
 
 
 def find_existing_file(save_path: Path, p_name_safe: str) -> Path:
@@ -58,12 +81,15 @@ class SofaScoreLeagueScraper:
 
         logger.info(f"🚀 Scraping Ligue : {league_name} (ID: {league_info['id']})")
 
+        positions_collected: dict = {}   # Nom → Poste_Cat (accumulateur de session)
+
         try:
             self.browser.start()
 
             # Charger la page tournoi (ignorer timeout — on a juste besoin des cookies)
             logger.info(f"🌐 Chargement de la page tournoi : {league_info['url']}")
             try:
+                assert self.browser.driver is not None  # Pour rassurer le vérificateur de type (linter)
                 self.browser.driver.set_page_load_timeout(15)
                 self.browser.driver.get(league_info['url'])
             except TimeoutException:
@@ -97,11 +123,25 @@ class SofaScoreLeagueScraper:
                     if player_limit and player_count >= player_limit:
                         break
 
-                    p_name, p_id = p['name'], p['id']
+                    p_name     = p['name']
+                    p_id       = p['id']
+                    p_pos_raw  = p.get('position')          # Code SofaScore brut (ex: 'LW', 'CB')
+                    p_pos_cat  = SOFA_POS_MAP.get(str(p_pos_raw).upper(), None) if p_pos_raw else None
+
+                    # Log du poste récupéré
+                    if p_pos_cat and p_pos_cat != 'GK':
+                        pos_label = f"[{p_pos_raw}→{p_pos_cat}]"
+                    elif p_pos_cat == 'GK':
+                        pos_label = "[GK - ignoré]"
+                        player_count += 1
+                        continue   # On ne scrape pas les gardiens
+                    else:
+                        pos_label = "[pos:?]"
+
                     # Nettoyage des noms (suppression des accents pour les dossiers/fichiers)
-                    p_name_safe = unidecode(p_name).replace(" ", "_")
+                    p_name_safe    = unidecode(p_name).replace(" ", "_")
                     team_name_safe = unidecode(team_name).replace(" ", "_")
-                    
+
                     save_path = RAW_DIR / league_name / team_name_safe
                     file_path = find_existing_file(save_path, p_name_safe)
 
@@ -117,10 +157,13 @@ class SofaScoreLeagueScraper:
                             pass
 
                     if file_path.exists() and not force_update:
+                        # Même si on skip le scraping, on met à jour le poste si on le connaît
+                        if p_pos_cat:
+                            positions_collected[p_name] = p_pos_cat
                         player_count += 1
                         continue
 
-                    logger.info(f"      🏃 [{j}/{len(players)}] {p_name}...")
+                    logger.info(f"      🏃 [{j}/{len(players)}] {p_name} {pos_label}...")
                     match_data = self.engine.extract_player_matches(
                         p_id,
                         p_name,
@@ -130,6 +173,12 @@ class SofaScoreLeagueScraper:
 
                     if match_data:
                         df_new = pd.DataFrame(match_data)
+                        # ── Injection du poste dans le CSV ──
+                        if p_pos_cat:
+                            df_new['Position_SofaScore'] = p_pos_raw
+                            df_new['Poste_Cat']          = p_pos_cat
+                            positions_collected[p_name]  = p_pos_cat
+
                         save_path.mkdir(parents=True, exist_ok=True)
                         if is_update:
                             df_old = pd.read_csv(file_path)
@@ -144,3 +193,31 @@ class SofaScoreLeagueScraper:
 
         finally:
             self.browser.stop()
+
+            # ── Sauvegarde du mapping centralisé Nom → Poste ──
+            if positions_collected:
+                _update_positions_file(positions_collected)
+                logger.info(f"📋 {len(positions_collected)} postes sauvegardés dans {POS_FILE}")
+
+
+def _update_positions_file(new_positions: dict):
+    """
+    Met à jour data/player_positions.csv avec les nouveaux postes scrappés.
+    Fusionne avec le fichier existant (les nouvelles entrées écrasent les anciennes).
+    Exclut les gardiens (GK).
+    """
+    POS_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    # Charger l'existant
+    if POS_FILE.exists():
+        df_old = pd.read_csv(POS_FILE)
+        existing = dict(zip(df_old['Nom'], df_old['Poste_Cat']))
+    else:
+        existing = {}
+
+    # Fusionner : les postes scrappés ont priorité
+    merged = {**existing, **{k: v for k, v in new_positions.items() if v != 'GK'}}
+
+    pd.DataFrame(
+        [{'Nom': k, 'Poste_Cat': v} for k, v in merged.items()]
+    ).to_csv(POS_FILE, index=False, encoding='utf-8-sig')

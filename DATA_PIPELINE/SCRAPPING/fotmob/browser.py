@@ -1,1 +1,0 @@
-class FotMobBrowser: pass

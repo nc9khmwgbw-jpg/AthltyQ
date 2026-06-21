@@ -32,23 +32,57 @@ class SofaScoreEngine:
 
     def _api_get(self, url: str) -> dict:
         """Fetch API via JS dans le contexte sofascore.com (cookies déjà établis)."""
-        try:
-            script = f"""
-                const r = await fetch('{url}', {{
-                    headers: {{
-                        'Accept': 'application/json',
-                        'X-Requested-With': 'XMLHttpRequest'
-                    }}
-                }});
-                return await r.json();
-            """
-            result = self.browser.execute_script(script)
-            if isinstance(result, dict):
-                return result
-            return {}
-        except Exception as e:
-            logger.error(f"Erreur _api_get({url}): {e}")
-            return {}
+        for attempt in range(2):
+            try:
+                script = f"""
+                    var callback = arguments[arguments.length - 1];
+                    const controller = new AbortController();
+                    const timeoutId = setTimeout(() => controller.abort(), 15000);
+                    
+                    fetch('{url}', {{
+                        signal: controller.signal,
+                        headers: {{
+                            'Accept': 'application/json',
+                            'X-Requested-With': 'XMLHttpRequest'
+                        }}
+                    }})
+                    .then(r => r.json())
+                    .then(data => {{
+                        clearTimeout(timeoutId);
+                        callback(data);
+                    }})
+                    .catch(e => {{
+                        callback({{ error: "fetch_timeout", details: e.toString() }});
+                    }});
+                """
+                if self.browser.driver is None:
+                    self.browser.start()
+                    self.browser.driver.get("https://www.sofascore.com")
+                    import time
+                    time.sleep(3)
+                
+                result = self.browser.driver.execute_async_script(script)
+                if isinstance(result, dict):
+                    if 'error' in result:
+                        err_reason = str(result.get('error', ''))
+                        is_cloudflare = "challenge" in err_reason or result['error'].get('code') in [403]
+                        
+                        if is_cloudflare:
+                            logger.warning(f"⚠️ Cloudflare Block on {url}: {result['error']}")
+                            if attempt == 0:
+                                logger.error("🛡️ Bloqué par Cloudflare ! Basculement en mode visible pour vérification manuelle...")
+                                self.browser.restart_visible()
+                                continue
+                        else:
+                            # Simple 404 (Data missing)
+                            pass # We don't need to loudly log 404s as errors if they just mean no stats
+                            
+                    return result
+                return {}
+            except Exception as e:
+                logger.error(f"Erreur _api_get({url}): {e}")
+                return {}
+        return {}
 
     def get_current_season_id(self, tournament_id: int) -> Optional[int]:
         data = self._api_get(f"https://api.sofascore.com/api/v1/unique-tournament/{tournament_id}/seasons")
@@ -81,7 +115,11 @@ class SofaScoreEngine:
     def get_players_in_team(self, team_id: str) -> List[Dict[str, Any]]:
         data = self._api_get(f"https://api.sofascore.com/api/v1/team/{team_id}/players")
         players = data.get('players', [])
-        return [{'id': p['player']['id'], 'name': p['player']['name']} for p in players]
+        return [{
+            'id': p.get('player', {}).get('id'), 
+            'name': p.get('player', {}).get('name'),
+            'position': p.get('player', {}).get('position')
+        } for p in players if p.get('player')]
 
     def get_player_age(self, player_id: str) -> Optional[int]:
         data = self._api_get(f"https://api.sofascore.com/api/v1/player/{player_id}")

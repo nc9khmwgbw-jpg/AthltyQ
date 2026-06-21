@@ -1,1 +1,0 @@
-class FotMobParser: pass

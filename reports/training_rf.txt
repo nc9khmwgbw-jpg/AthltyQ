@@ -1,0 +1,52 @@
+
+═════════════════════════════════════════════════════════════════
+  🌲 ENTRAÎNEMENT : RANDOM FOREST  (VERSION PRO)
+═════════════════════════════════════════════════════════════════
+
+  Train : 3,894 lignes  |  Test : 769 lignes
+  Features : 221
+
+  🔍 Recherche des hyperparamètres (GridSearchCV 5-fold)...
+     Combinaisons à tester : 36
+  ✅ Recherche terminée en 221.7s
+  🏆 Meilleurs hyperparamètres :
+     • max_depth = 20
+     • max_features = 0.5
+     • min_samples_leaf = 10
+     • n_estimators = 200
+  📈 Meilleur CV R² (validation) : 0.1712
+
+  🌳 OOB Score (Validation interne sur Train Set) : 0.1712
+
+─────────────────────────────────────────────
+  🎯 RÉSULTATS RANDOM FOREST
+─────────────────────────────────────────────
+  R² Train  : 0.5657
+  R² Test   : 0.1901   (écart : +0.3756)  ⚠️  Sur-apprentissage détecté !
+  R² OOB    : 0.1712
+  MAE Test  : 13.5848
+  RMSE Test : 16.9494
+
+  🔄 Cross-Validation 5-fold finale (train set) :
+  R²    →  mean=0.1712  std=±0.0195  [0.1450 … 0.2044]
+  MAE   →  mean=12.8676  std=±0.1030  [12.7570 … 13.0234]
+  RMSE  →  mean=16.4760  std=±0.1527  [16.1935 … 16.5958]
+
+  📊 Intervalle de confiance à 90% :
+     Largeur moyenne : ±18.44% de fatigue
+
+  📉 Analyse des résidus :
+     Moyenne  : -1.3703  (idéal = 0)
+     Std      : 16.8939
+     Dans ±10% fatigue : 43.8% des prédictions
+
+  🌟 Top 5 variables importantes :
+     1. Rating_MA15                              0.0777  ███████████████
+     2. Rating_MA10                              0.0410  ████████
+     3. Days_Rest                                0.0318  ██████
+     4. Days_Since_Last                          0.0311  ██████
+     5. Rating                                   0.0243  ████
+
+  💾 Modèle et métriques sauvegardés dans : /Users/fahamayoub/Desktop/AthlytIQ/LM/models/benchmark/Random_Forest
+═════════════════════════════════════════════════════════════════
+

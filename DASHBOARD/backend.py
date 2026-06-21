@@ -9,6 +9,13 @@ import numpy as np
 import json
 import time
 import joblib
+import unicodedata
+import re
+
+def normalize_team_name(name: str) -> str:
+    n = ''.join(c for c in unicodedata.normalize('NFD', str(name)) if unicodedata.category(c) != 'Mn')
+    n = re.sub(r'[^a-zA-Z0-9]', '', n)
+    return n.lower()
 
 from fastapi.responses import HTMLResponse, FileResponse
 
@@ -39,6 +46,7 @@ CACHE_MODELS: Dict[str, Dict[str, Any]] = {
 }
 CACHE_SIM_ENGINE = None
 CACHE_TTL = 300
+CACHE_INJURY_DF = None
 
 predictor = FatiguePredictor()
 
@@ -56,9 +64,6 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
     global CACHE_MODELS, CACHE_SIM_ENGINE
     now = time.time()
     
-    if CACHE_MODELS[model_type]["results"] is not None and (now - CACHE_MODELS[model_type]["last_update"]) < CACHE_TTL:
-        return CACHE_MODELS[model_type]["results"], CACHE_MODELS[model_type]["features"]
-    
     PROCESSED_PATH = ROOT / "data" / "processed" / "features_dataset.csv"
     RAW_PATH = ROOT / "DATA_PIPELINE" / "NETTOYAGE" / "data" / "merged_dataset_clean.csv"
     
@@ -73,6 +78,12 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
             if raw_mtime > proc_mtime:
                 print(f"🔄 Dashboard: Nouvelles données détectées ({RAW_PATH}). Mise à jour du cache...")
                 should_reprocess = True
+
+    # Vérification du cache en mémoire : pas de limite de temps (TTL infini)
+    if CACHE_MODELS[model_type]["results"] is not None and not should_reprocess:
+        # On vérifie seulement que le fichier PROCESSED n'a pas été modifié depuis le dernier chargement en mémoire
+        if PROCESSED_PATH.exists() and os.path.getmtime(PROCESSED_PATH) <= CACHE_MODELS[model_type]["last_update"]:
+            return CACHE_MODELS[model_type]["results"], CACHE_MODELS[model_type]["features"]
 
     print(f"Dashboard: Tentative de chargement des données...")
     
@@ -141,9 +152,10 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
         risk_vals = np.array(df_features['Medical_Risk_Score'], dtype=float)
         
         # Conversion en listes pour satisfaire le linter de .loc
-        mask_mod  = ((risk_vals > 0.25) & (risk_vals <= 0.60)).tolist()
-        mask_high = ((risk_vals > 0.60) & (risk_vals <= 0.85)).tolist()
-        mask_crit = (risk_vals > 0.85).tolist()
+        # Nouveaux seuils calibrés sur la distribution réelle (Max: ~0.62)
+        mask_mod  = ((risk_vals > 0.15) & (risk_vals <= 0.35)).tolist()
+        mask_high = ((risk_vals > 0.35) & (risk_vals <= 0.60)).tolist()
+        mask_crit = (risk_vals > 0.60).tolist()
         
         df_features.loc[mask_mod, 'Risk_Level'] = 'MODÉRÉ'
         df_features.loc[mask_mod, 'Status'] = 'VIGILANCE'
@@ -411,8 +423,12 @@ def get_player_data(model: str = 'lgbm'):
             home = str(row.get('Home_Team', ''))
             away = str(row.get('Away_Team', ''))
             
+            c_norm = normalize_team_name(club_team)
+            h_norm = normalize_team_name(home)
+            a_norm = normalize_team_name(away)
             # Détection d'un match international (le club n'est ni à domicile ni à l'extérieur)
-            is_club_match = (club_team.lower() in home.lower()) or (club_team.lower() in away.lower())
+            # On vérifie dans les deux sens après normalisation pour gérer "1 Fc Koln" vs "1. FC Köln"
+            is_club_match = (c_norm in h_norm) or (c_norm in a_norm) or (h_norm in c_norm) or (a_norm in c_norm)
             
             if is_club_match:
                 actual_match_team = home if club_team.lower() in home.lower() else away
@@ -477,8 +493,12 @@ def get_player_data(model: str = 'lgbm'):
             "team": team_val,
             "league": league_val,
             "acr_ratio": round(row['ACWR'], 2),
-            "fatigue_score": int(row['Fatigue_Score']),
-            "hrv_rmssd": int(75 - (row['Fatigue_Score'] / 3)),
+            "fatigue_score": int(row.get('Fatigue_Score', 0)),
+            "hrv_rmssd": int(75 - (row.get('Fatigue_Score', 0) / 3)),
+            "rating": round(float(row.get('Rating') if pd.notna(row.get('Rating')) else 0.0), 1),
+            "distance": float(row.get('distanceRun') if pd.notna(row.get('distanceRun')) else 0.0),
+            "sprints": int(float(row.get('sprints') if pd.notna(row.get('sprints')) else 0)),
+            "age": int(float(row.get('Age') if pd.notna(row.get('Age')) else 0)),
             "injury_risk_level": risk_level,
             "injury_risk_score": int(row['Injury_Risk'] * 100),
         }
@@ -591,6 +611,7 @@ def get_player_history(player_name: str, model: str = 'lgbm'):
             match_risk = 25 + (int(time.time()) % 15) # Add slight deterministic variation if failing
         
         history_list.append({
+            "iso_date": m_date.strftime('%Y-%m-%d'),
             "date": m_date.strftime('%d %b %y'), # Added Year
             "rating": rating,
             "minutes": int(mins),
@@ -627,8 +648,12 @@ def get_player_history(player_name: str, model: str = 'lgbm'):
     # 5. Extraction de l'historique Médical (Transfermarkt)
     path_injury = ROOT / "DATA_PIPELINE" / "SCRAPPING" / "data" / "raw" / "transfermarkt" / "injury_history.csv"
     medical_history_list = []
+    
+    global CACHE_INJURY_DF
     if path_injury.exists():
-        injury_df = pd.read_csv(path_injury)
+        if CACHE_INJURY_DF is None:
+            CACHE_INJURY_DF = pd.read_csv(path_injury)
+        injury_df = CACHE_INJURY_DF
         p_injuries = injury_df[injury_df['Nom'].str.lower() == player_name.lower()]
         if p_injuries.empty:
             p_injuries = injury_df[injury_df['Nom'].str.lower().str.replace(" ", "_") == player_name.lower()]

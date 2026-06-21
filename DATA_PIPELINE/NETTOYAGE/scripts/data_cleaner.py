@@ -137,7 +137,8 @@ def clean_and_merge_data():
         team_name   = p_path.parent.name.replace("_", " ")
         league_name = p_path.parent.parent.name
 
-        print(f"[{i}/{len(all_player_files)}] Consolidation : {player_name} ({team_name})...", end="\r")
+        if i % 200 == 0 or i == len(all_player_files):
+            print(f"[{i}/{len(all_player_files)}] Consolidation en cours... (Dernier: {player_name} - {team_name})")
 
         try:
             df = pd.read_csv(file_path, encoding='utf-8-sig')
@@ -220,6 +221,16 @@ def clean_and_merge_data():
     CLEAN_DIR.mkdir(parents=True, exist_ok=True)
     master_df.to_csv(CLEAN_DIR / "merged_dataset_clean.csv", index=False, encoding='utf-8-sig')
     print(f"\n✅ Dataset final sauvegardé : {CLEAN_DIR / 'merged_dataset_clean.csv'}")
+    
+    # --- METRICS POUR L'ADMIN PANEL ---
+    nb_raw_players = len(final_dfs)
+    nb_clean_players = len(final_standardized_dfs)
+    nb_excluded = nb_raw_players - nb_clean_players
+    
+    print(f"[METRIC:RAW_PLAYERS:{nb_raw_players}]")
+    print(f"[METRIC:CLEANED_PLAYERS:{nb_clean_players}]")
+    print(f"[METRIC:EXCLUDED_PLAYERS:{nb_excluded}]")
+
 
 if __name__ == "__main__":
     clean_and_merge_data()

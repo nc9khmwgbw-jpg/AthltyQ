@@ -20,6 +20,7 @@ LEAGUES = {
     "LigaPortugal": {"id": 238, "url": "https://www.sofascore.com/tournament/football/portugal/liga-portugal/238"},
     "MLS": {"id": 242, "url": "https://www.sofascore.com/tournament/football/usa/mls/242"},
     "UAEProLeague": {"id": 1322, "url": "https://www.sofascore.com/tournament/football/united-arab-emirates/uae-pro-league/1322"},
+    "LaLiga2": {"id": 54, "url": "https://www.sofascore.com/tournament/football/spain/laliga-2/54"},
 }
 
 # Délais par défaut

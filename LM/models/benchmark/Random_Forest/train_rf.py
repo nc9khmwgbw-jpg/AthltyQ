@@ -24,7 +24,7 @@ SAVE_DIR.mkdir(parents=True, exist_ok=True)
 
 IDENTITY_COLS = [
     'Nom', 'Player_ID', 'Match_Date', 'Event_ID', 'Home_Team', 'Away_Team',
-    'Score_Home', 'Score_Away', 'Tournament', 'Equipe', 'Position', 'Poste_Cat',
+    'Score_Home', 'Score_Away', 'Tournament', 'Equipe', 'Position',
     'Risk_Category', 'Target_Injury_Occurred', 'Current_Injury',
     'Fatigue_Realisee', 'Fatigue_Reelle_Match_T'
 ]
@@ -45,6 +45,10 @@ def _load_data():
     col_nom = 'Nom' if 'Nom' in df.columns else 'Player_Name'
     X = df.drop(columns=IDENTITY_COLS + ['Target_Fatigue'], errors='ignore')
     y = df['Target_Fatigue']
+    
+    if 'Poste_Cat' in X.columns:
+        X = pd.get_dummies(X, columns=['Poste_Cat'], dummy_na=False, dtype=int)
+        
     model_cols = joblib.load(BENCHMARK_DIR / "model_columns.joblib")
     X = X.select_dtypes(include='number').reindex(columns=model_cols, fill_value=0).fillna(0)
     return df, col_nom, X, y

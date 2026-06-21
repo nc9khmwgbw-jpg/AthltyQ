@@ -73,3 +73,14 @@ class SofaScoreBrowser:
         if self.driver is not None:
             self.driver.quit()
             self.driver = None
+
+    def restart_visible(self) -> None:
+        """Relance le navigateur en mode visible pour résoudre manuellement les CAPTCHAs."""
+        self.stop()
+        self.headless = False
+        self.start()
+        assert self.driver is not None
+        self.driver.get("https://www.sofascore.com")
+        logger.info("🛑 Veuillez résoudre le CAPTCHA Cloudflare dans le navigateur ouvert. Vous avez 30 secondes...")
+        time.sleep(30)
+        logger.info("✅ Reprise du scraping automatique.")

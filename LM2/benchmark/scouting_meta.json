@@ -1,0 +1,34 @@
+{
+    "n_joueurs": 2282,
+    "n_features": 15,
+    "n_train": 1825,
+    "n_test": 457,
+    "features": [
+        "Rating_MA10",
+        "xG_P90",
+        "xA_P90",
+        "Pass_Accuracy",
+        "Defensive_Actions_P90",
+        "distanceRun",
+        "Possession_Security",
+        "Dribbles_P90",
+        "Key_Passes_P90",
+        "Fatigue_Index",
+        "Medical_Risk_Score",
+        "Age",
+        "Rating_Trend",
+        "Rating_STD5",
+        "Minutes_Played"
+    ],
+    "postes": {
+        "ATT": 583,
+        "AG": 530,
+        "CB": 423,
+        "MC": 338,
+        "MOF": 158,
+        "MDF": 132,
+        "LB": 98,
+        "AD": 13,
+        "RB": 7
+    }
+}
