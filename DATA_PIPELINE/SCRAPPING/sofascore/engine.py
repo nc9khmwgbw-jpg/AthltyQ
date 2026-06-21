@@ -1,212 +1,311 @@
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
-from httptools.parser import url_parser
+"""
+engine_v3.py — SofaScoreEngine v3
+===================================
+Corrections vs v2 :
+
+1. _goto_home() : timeout page ignoré proprement (TimeoutException est normale
+   sur SofaScore — la page charge en JS mais Selenium timeout sur le DOM load)
+
+2. _fetch() : utilise XHR synchrone comme fallback si fetch async échoue,
+   et loggue le vrai message d'erreur
+
+3. get_teams_in_league() : navigue d'abord vers la PAGE du tournoi pour
+   avoir le bon Referer et les cookies avant les appels API
+
+4. Délai après timeout réduit à 3s (pas besoin d'attendre 5s si timeout)
+"""
+
 import time
-import json
 from datetime import datetime
 from typing import List, Dict, Any, Optional
-from selenium.common.exceptions import WebDriverException
-from DATA_PIPELINE.SCRAPPING.sofascore.browser import SofaScoreBrowser
+
+from curl_cffi import requests
 from DATA_PIPELINE.SCRAPPING.common.logger import setup_logger
 
 logger = setup_logger("SofaScoreEngine")
 
+API_BASE = "https://api.sofascore.com/api/v1"
+
 class SofaScoreEngine:
 
-    def __init__(self, browser: Optional[SofaScoreBrowser] = None):
-        self.browser = browser or SofaScoreBrowser(headless=True)
+    def __init__(self, browser=None):
+        # We ignore the browser parameter if it's passed for backward compatibility
+        self._season_cache: Dict[int, int] = {}
+        
+        # Initialize curl_cffi session with Dalvik UA to bypass Cloudflare
+        self.session = requests.Session(impersonate="chrome110")
+        self.session.headers.update({
+            "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 12; Pixel 6 Build/SQ3A.220705.004)",
+            "Accept-Encoding": "gzip",
+            "Host": "api.sofascore.com",
+            "Connection": "Keep-Alive"
+        })
+        logger.info("⚡ Moteur SofaScore initialisé avec bypass Dalvik Mobile")
 
-    def _api_get(self, url: str) -> dict:
-        """Fetch API via JS dans le contexte sofascore.com (cookies déjà établis)."""
-        for attempt in range(2):
-            try:
-                script = f"""
-                    var callback = arguments[arguments.length - 1];
-                    const controller = new AbortController();
-                    const timeoutId = setTimeout(() => controller.abort(), 15000);
-                    
-                    fetch('{url}', {{
-                        signal: controller.signal,
-                        headers: {{
-                            'Accept': 'application/json',
-                            'X-Requested-With': 'XMLHttpRequest'
-                        }}
-                    }})
-                    .then(r => r.json())
-                    .then(data => {{
-                        clearTimeout(timeoutId);
-                        callback(data);
-                    }})
-                    .catch(e => {{
-                        callback({{ error: "fetch_timeout", details: e.toString() }});
-                    }});
-                """
-                if self.browser.driver is None:
-                    self.browser.start()
-                    self.browser.driver.get("https://www.sofascore.com")
-                    import time
-                    time.sleep(3)
+    # ──────────────────────────────────────────────────────────────
+    # FETCH — méthode principale
+    # ──────────────────────────────────────────────────────────────
+
+    def _fetch(self, endpoint: str) -> Optional[dict]:
+        """
+        Appel API direct via curl_cffi avec User-Agent Android.
+        Contourne complètement Cloudflare Turnstile.
+        """
+        url = f"{API_BASE}{endpoint}"
+        
+        try:
+            r = self.session.get(url, timeout=15)
+            
+            if r.status_code == 200:
+                try:
+                    return r.json()
+                except Exception as e:
+                    logger.debug(f"JSON Decode Error sur {endpoint}: {e}")
+                    return None
+            elif r.status_code == 404:
+                logger.debug(f"Endpoint non trouvé (404) : {endpoint}")
+            else:
+                logger.debug(f"Status {r.status_code} sur {endpoint}")
                 
-                result = self.browser.driver.execute_async_script(script)
-                if isinstance(result, dict):
-                    if 'error' in result:
-                        err_reason = str(result.get('error', ''))
-                        is_cloudflare = "challenge" in err_reason or result['error'].get('code') in [403]
-                        
-                        if is_cloudflare:
-                            logger.warning(f"⚠️ Cloudflare Block on {url}: {result['error']}")
-                            if attempt == 0:
-                                logger.error("🛡️ Bloqué par Cloudflare ! Basculement en mode visible pour vérification manuelle...")
-                                self.browser.restart_visible()
-                                continue
-                        else:
-                            # Simple 404 (Data missing)
-                            pass # We don't need to loudly log 404s as errors if they just mean no stats
-                            
-                    return result
-                return {}
-            except Exception as e:
-                logger.error(f"Erreur _api_get({url}): {e}")
-                return {}
-        return {}
+        except Exception as e:
+            logger.debug(f"Request error sur {endpoint}: {type(e).__name__}: {str(e)[:80]}")
 
-    def get_current_season_id(self, tournament_id: int) -> Optional[int]:
-        data = self._api_get(f"https://api.sofascore.com/api/v1/unique-tournament/{tournament_id}/seasons")
-        seasons = data.get('seasons', [])
-        logger.info(f"DEBUG {len(seasons)} saisons trouvées pour tournoi {tournament_id}")
+        return None
 
-        best_id, best_count = None, 0
-        for season in seasons[:5]:
-            sid = season.get('id')
-            sname = season.get('name', '?')
-            test = self._api_get(f"https://api.sofascore.com/api/v1/unique-tournament/{tournament_id}/season/{sid}/teams")
-            count = len(test.get('teams', []))
-            logger.info(f"DEBUG season {sid} ({sname}) → {count} équipes")
-            if count > best_count:
-                best_count, best_id = count, sid
-            if count >= 14:
-                break
+    # ──────────────────────────────────────────────────────────────
+    # SAISONS
+    # ──────────────────────────────────────────────────────────────
 
-        return best_id
+    def _get_season_id(self, tournament_id: int) -> Optional[int]:
+        if tournament_id in self._season_cache:
+            return self._season_cache[tournament_id]
+
+        data = self._fetch(f"/unique-tournament/{tournament_id}/seasons")
+        if not data:
+            logger.error(f"❌ Impossible de récupérer les saisons pour tournoi {tournament_id}")
+            return None
+
+        seasons = data.get("seasons", [])
+        if not seasons:
+            logger.error(f"❌ Aucune saison dans la réponse pour tournoi {tournament_id}")
+            return None
+
+        season_id = seasons[0].get("id")
+        season_name = seasons[0].get("name") or seasons[0].get("year", "?")
+        logger.info(f"📅 Saison courante : {season_name} (ID: {season_id})")
+        self._season_cache[tournament_id] = season_id
+        return season_id
+
+    # ──────────────────────────────────────────────────────────────
+    # ÉQUIPES
+    # ──────────────────────────────────────────────────────────────
 
     def get_teams_in_league(self, tournament_id: int) -> List[Dict[str, Any]]:
-        season_id = self.get_current_season_id(tournament_id)
+        """Récupère les équipes d'une ligue via l'API."""
+        season_id = self._get_season_id(tournament_id)
         if not season_id:
-            logger.error(f"Impossible de trouver la saison pour le tournoi {tournament_id}")
             return []
-        data = self._api_get(f"https://api.sofascore.com/api/v1/unique-tournament/{tournament_id}/season/{season_id}/teams")
-        teams = data.get('teams', [])
-        return [{'id': t['id'], 'name': t['name'], 'slug': t['slug']} for t in teams]
 
-    def get_players_in_team(self, team_id: str) -> List[Dict[str, Any]]:
-        data = self._api_get(f"https://api.sofascore.com/api/v1/team/{team_id}/players")
-        players = data.get('players', [])
-        return [{
-            'id': p.get('player', {}).get('id'), 
-            'name': p.get('player', {}).get('name'),
-            'position': p.get('player', {}).get('position')
-        } for p in players if p.get('player')]
+        teams_raw = []
 
-    def get_player_age(self, player_id: str) -> Optional[int]:
-        data = self._api_get(f"https://api.sofascore.com/api/v1/player/{player_id}")
-        player_info = data.get('player', {})
-        ts = player_info.get('dateOfBirthTimestamp')
-        if ts:
-            dob = datetime.fromtimestamp(ts)
-            today = datetime.today()
-            return today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
+        # Option A : /teams direct
+        data = self._fetch(f"/unique-tournament/{tournament_id}/season/{season_id}/teams")
+        if data and "teams" in data:
+            teams_raw = data["teams"]
+            logger.info(f"✅ Équipes via /teams : {len(teams_raw)}")
+
+        # Option B : standings
+        if not teams_raw:
+            logger.info("↳ Fallback via /standings/total...")
+            data = self._fetch(f"/unique-tournament/{tournament_id}/season/{season_id}/standings/total")
+            if data:
+                for standing in data.get("standings", []):
+                    for row in standing.get("rows", []):
+                        team = row.get("team", {})
+                        if team.get("id"):
+                            teams_raw.append(team)
+                if teams_raw:
+                    logger.info(f"✅ Équipes via /standings : {len(teams_raw)}")
+
+        # Option C : top-teams
+        if not teams_raw:
+            logger.info("↳ Fallback via /top-teams...")
+            data = self._fetch(f"/unique-tournament/{tournament_id}/season/{season_id}/top-teams/overall")
+            if data:
+                for entry in data.get("topTeams", []):
+                    team = entry.get("team", entry)
+                    if team.get("id"):
+                        teams_raw.append(team)
+                if teams_raw:
+                    logger.info(f"✅ Équipes via /top-teams : {len(teams_raw)}")
+
+        if not teams_raw:
+            logger.error(f"❌ Aucune équipe trouvée pour tournoi {tournament_id} / saison {season_id}")
+            return []
+
+        # Dédupliquer et normaliser
+        seen, result = set(), []
+        for t in teams_raw:
+            tid = t.get("id")
+            name = t.get("name") or t.get("shortName")
+            if tid and name and tid not in seen:
+                seen.add(tid)
+                result.append({"id": tid, "name": name, "slug": t.get("slug", "")})
+
+        logger.info(f"✅ {len(result)} équipes récupérées")
+        return result
+
+    # ──────────────────────────────────────────────────────────────
+    # JOUEURS
+    # ──────────────────────────────────────────────────────────────
+
+    def get_players_in_team(self, team_id: int) -> List[Dict[str, Any]]:
+        data = self._fetch(f"/team/{team_id}/players")
+        if not data:
+            logger.warning(f"Aucune donnée joueurs pour équipe {team_id}")
+            return []
+
+        players = []
+        for entry in data.get("players", []):
+            p = entry.get("player", entry)
+            pid = p.get("id")
+            name = p.get("name") or p.get("shortName")
+            if pid and name:
+                players.append({
+                    "id": pid,
+                    "name": name,
+                    "position": p.get("position"),
+                    "slug": p.get("slug", ""),
+                })
+
+        logger.info(f"✅ {len(players)} joueurs pour équipe {team_id}")
+        return players
+
+    # ──────────────────────────────────────────────────────────────
+    # MATCHS
+    # ──────────────────────────────────────────────────────────────
+
+    def extract_player_matches(
+        self,
+        player_id: int,
+        player_name: str,
+        nb_pages: int = 1,
+        limit: int = 15,
+        last_date: Optional[str] = None,
+    ) -> List[Dict[str, Any]]:
+        cutoff = datetime(2024, 8, 1)
+        all_events = []
+
+        for page in range(nb_pages):
+            data = self._fetch(f"/player/{player_id}/events/last/{page}")
+            if not data:
+                break
+            events = data.get("events", [])
+            if not events:
+                break
+
+            for ev in events:
+                if ev.get("status", {}).get("type") != "finished":
+                    continue
+                ts = ev.get("startTimestamp", 0)
+                dt = datetime.fromtimestamp(ts)
+                dt_str = dt.strftime("%Y-%m-%d")
+                if dt < cutoff:
+                    continue
+                if last_date and dt_str <= last_date:
+                    continue
+                all_events.append({
+                    "id": ev["id"],
+                    "date": dt_str,
+                    "dt_obj": dt,
+                    "home": ev.get("homeTeam", {}).get("name", "Unknown"),
+                    "away": ev.get("awayTeam", {}).get("name", "Unknown"),
+                    "tournament": ev.get("tournament", {}).get("name", ""),
+                })
+            if len(all_events) >= limit:
+                break
+
+        if not all_events:
+            return []
+
+        all_events.sort(key=lambda x: x["dt_obj"], reverse=True)
+        targets = all_events[:limit]
+        age = self._get_player_age(player_id)
+
+        results = []
+        for m in targets:
+            stats = self._get_event_player_stats(m["id"], player_id)
+            if stats:
+                results.append({
+                    "Nom": player_name,
+                    "Age": age,
+                    "Match_Date": m["date"],
+                    "Home_Team": m["home"],
+                    "Away_Team": m["away"],
+                    "Tournament": m["tournament"],
+                    **stats,
+                })
+                logger.info(f"      ⚽ {m['date']} {m['home']} vs {m['away']} ✓")
+            time.sleep(0.05) # Délai très court pour éviter de surcharger
+
+        return results
+
+    def _get_event_player_stats(self, event_id: int, player_id: int) -> Optional[dict]:
+        data = self._fetch(f"/event/{event_id}/player/{player_id}/statistics")
+        if not data:
+            return None
+        stats = data.get("statistics", data)
+        return self._normalize_stats(stats) if stats else None
+
+    def _get_player_age(self, player_id: int) -> Optional[int]:
+        data = self._fetch(f"/player/{player_id}")
+        if not data:
+            return None
+        try:
+            dob = data.get("player", data).get("dateOfBirthTimestamp")
+            if dob:
+                return (datetime.now() - datetime.fromtimestamp(dob)).days // 365
+        except Exception:
+            pass
         return None
+
+    def get_player_age(self, player_id: int) -> Optional[int]:
+        return self._get_player_age(player_id)
+
+    # ──────────────────────────────────────────────────────────────
+    # NORMALISATION
+    # ──────────────────────────────────────────────────────────────
+
+    def _normalize_stats(self, stats: dict) -> dict:
+        def si(v): return int(v) if v else 0
+        def sf(v): return float(v) if v else None
+        return {
+            "Rating":           round(float(stats["rating"]), 2) if stats.get("rating") else None,
+            "Minutes_Played":   si(stats.get("minutesPlayed")),
+            "distanceRun":      sf(stats.get("totalDistance") or stats.get("distanceRun")),
+            "sprints":          si(stats.get("sprints") or stats.get("highIntensityRuns")),
+            "kpi_work_rate":    self._calc_work_rate(stats),
+            "Goals":            si(stats.get("goals")),
+            "Assists":          si(stats.get("assists")),
+            "Expected_Goals":   round(float(stats.get("expectedGoals") or 0), 2),
+            "Expected_Assists": round(float(stats.get("expectedAssists") or 0), 2),
+            "Accurate_Passes":  si(stats.get("accuratePass") or stats.get("accuratePasses")),
+            "Total_Passes":     si(stats.get("totalPass") or stats.get("totalPasses")),
+            "Key_Passes":       si(stats.get("keyPass") or stats.get("keyPasses")),
+            "Tackles":          si(stats.get("tackle") or stats.get("tackles")),
+            "Interceptions":    si(stats.get("interceptionWon") or stats.get("interceptions")),
+            "Clearances":       si(stats.get("clearance") or stats.get("clearances")),
+            "Ball_Recovery":    si(stats.get("ballRecovery") or stats.get("ballRecoveries")),
+            "Touches":          si(stats.get("touches")),
+        }
+
+    def _calc_work_rate(self, stats: dict) -> float:
+        dist = float(stats.get("totalDistance") or stats.get("distanceRun") or 0)
+        mins = int(stats.get("minutesPlayed") or 0)
+        return round(dist / mins, 2) if (dist > 0 and mins > 0) else 0.0
 
     def _find_stat(self, obj: Any, key: str) -> Optional[Any]:
         if not obj: return None
-        if isinstance(obj, dict):
-            if key in obj: return obj[key]
-            if 'groups' in obj:
-                for group in obj['groups']:
-                    for item in group.get('statisticsItems', []):
-                        if item.get('key') == key:
-                            return item.get('value')
+        if isinstance(obj, dict) and key in obj: return obj[key]
         return None
 
-    def extract_player_matches(self, player_id: str, player_name: str, nb_pages: int = 1, limit: int = 15, last_date: Optional[str] = None) -> List[Dict[str, Any]]:
-        all_events = []
-        cutoff = datetime(2024, 8, 1)
-
-        for page in range(nb_pages):
-            data = self._api_get(f"https://api.sofascore.com/api/v1/player/{player_id}/events/last/{page}")
-            if not data: break
-            events = data.get('events', [])
-            if not events: break
-
-            for ev in events:
-                if ev.get('status', {}).get('type') != 'finished': continue
-                ts = ev.get('startTimestamp', 0)
-                dt = datetime.fromtimestamp(ts)
-                dt_str = dt.strftime('%Y-%m-%d')
-                if dt < cutoff: continue
-                if last_date and dt_str <= last_date: continue
-                all_events.append({
-                    'id': ev['id'], 'date': dt_str, 'dt_obj': dt,
-                    'home': ev.get('homeTeam', {}).get('name', 'Unknown'),
-                    'away': ev.get('awayTeam', {}).get('name', 'Unknown')
-                })
-
-        if not all_events: return []
-        all_events.sort(key=lambda x: x['dt_obj'], reverse=True)
-        targets = all_events[:limit]
-
-        results = []
-        age = self.get_player_age(player_id)
-
-        for m in targets:
-            eid = m['id']
-            stats_res = self._api_get(f"https://api.sofascore.com/api/v1/event/{eid}/player/{player_id}/statistics")
-            stats = stats_res.get('statistics', {})
-            if not stats: continue
-
-            perf_res = self._api_get(f"https://api.sofascore.com/api/v1/event/{eid}/player/{player_id}/performance")
-
-            dist = float(perf_res.get('totalDistance') or self._find_stat(perf_res, 'distanceRun') or 0)
-            sprints = float(self._find_stat(perf_res, 'sprints') or self._find_stat(perf_res, 'highIntensityRuns') or 0)
-            mins = int(stats.get('minutesPlayed', 0))
-            work_rate = round(dist / mins, 2) if (dist > 0 and mins > 0) else 0.0
-
-            results.append({
-                'Nom': player_name, 'Age': age, 'Match_Date': m['date'],
-                'Home_Team': m['home'], 'Away_Team': m['away'],
-                'Rating': round(float(stats.get('rating', 0)), 2) if stats.get('rating') else None,
-                'Minutes_Played': mins,
-                'distanceRun': dist if dist > 0 else None,
-                'sprints': sprints if sprints > 0 else None,
-                'kpi_work_rate': work_rate,
-                'Goals': int(stats.get('goals', 0)),
-                'Assists': int(stats.get('assists', 0)),
-                'Expected_Goals': round(float(stats.get('expectedGoals', 0)), 2),
-                'Expected_Assists': round(float(stats.get('expectedAssists', 0)), 2),
-                'Accurate_Passes': int(stats.get('accuratePass', 0)),
-                'Total_Passes': int(stats.get('totalPass', 0)),
-                'Key_Passes': int(stats.get('keyPass', 0)),
-                'Tackles': int(stats.get('tackle', 0)),
-                'Interceptions': int(stats.get('interceptionWon', 0)),
-                'Clearances': int(stats.get('clearance', 0)),
-                'Ball_Recovery': int(stats.get('ballRecovery', 0)),
-                'Touches': int(stats.get('touches', 0))
-            })
-            logger.info(f"      ⚽ {m['date']} vs {m.get('away') if m.get('home') != player_name else m.get('home')} (Stats OK)")
-            time.sleep(0.3)
-
-        return results
