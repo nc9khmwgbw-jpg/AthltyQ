@@ -246,7 +246,7 @@ class SofaScoreEngine:
                     **stats,
                 })
                 logger.info(f"      ⚽ {m['date']} {m['home']} vs {m['away']} ✓")
-            time.sleep(0.05) # Délai très court pour éviter de surcharger
+            time.sleep(1.5) # Délai réaliste pour éviter le ban IP (Cloudflare Rate Limit)
 
         return results
 

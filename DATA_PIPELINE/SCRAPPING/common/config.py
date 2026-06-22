@@ -19,7 +19,7 @@ LEAGUES = {
     "ScottishPrem": {"id": 36, "url": "https://www.sofascore.com/tournament/football/scotland/premiership/36"},
     "LigaPortugal": {"id": 238, "url": "https://www.sofascore.com/tournament/football/portugal/liga-portugal/238"},
     "MLS": {"id": 242, "url": "https://www.sofascore.com/tournament/football/usa/mls/242"},
-    "UAEProLeague": {"id": 1322, "url": "https://www.sofascore.com/tournament/football/united-arab-emirates/uae-pro-league/1322"},
+    "Bundesliga2": {"id": 44, "url": "https://www.sofascore.com/tournament/football/germany/2-bundesliga/44"},
     "LaLiga2": {"id": 54, "url": "https://www.sofascore.com/tournament/football/spain/laliga-2/54"},
 }
 

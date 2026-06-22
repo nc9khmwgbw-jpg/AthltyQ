@@ -25,7 +25,7 @@ PIPELINE_STEPS = {
     },
     "step_2": {
         "name": "Scraping Transfermarkt (Blessures)",
-        "cmd": ".venv/bin/python DATA_PIPELINE/SCRAPPING/main.py --source 2"
+        "cmd": ".venv/bin/python DATA_PIPELINE/SCRAPPING/main.py --source 2 --league ALL"
     },
     "step_3": {
         "name": "Nettoyage et Fusion (Master Dataset)",
