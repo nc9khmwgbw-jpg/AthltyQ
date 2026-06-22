@@ -1,8 +1,8 @@
 {
-    "n_joueurs": 2282,
+    "n_joueurs": 3624,
     "n_features": 15,
-    "n_train": 1825,
-    "n_test": 457,
+    "n_train": 2899,
+    "n_test": 725,
     "features": [
         "Rating_MA10",
         "xG_P90",
@@ -21,14 +21,14 @@
         "Minutes_Played"
     ],
     "postes": {
-        "ATT": 583,
-        "AG": 530,
-        "CB": 423,
-        "MC": 338,
-        "MOF": 158,
-        "MDF": 132,
-        "LB": 98,
+        "ATT": 940,
+        "AG": 819,
+        "CB": 705,
+        "MC": 536,
+        "MOF": 254,
+        "LB": 178,
+        "MDF": 169,
         "AD": 13,
-        "RB": 7
+        "RB": 10
     }
 }

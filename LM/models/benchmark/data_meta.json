@@ -1,11 +1,11 @@
 {
-    "n_features": 221,
-    "n_train_rows": 21284,
-    "n_test_rows": 5188,
-    "n_train_players": 1825,
-    "n_test_players": 457,
-    "target_mean": 42.27280409489271,
-    "target_std": 18.47416009038013,
+    "n_features": 212,
+    "n_train_rows": 36166,
+    "n_test_rows": 9110,
+    "n_train_players": 2899,
+    "n_test_players": 725,
+    "target_mean": 42.04058700662633,
+    "target_std": 18.2732957817605,
     "target_min": 7.78,
     "target_max": 100.0
 }

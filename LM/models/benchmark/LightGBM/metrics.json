@@ -1,72 +1,72 @@
 {
     "model": "LightGBM",
-    "R2_train": 0.6039,
-    "R2_test": 0.2862,
-    "MAE": 11.8652,
-    "RMSE": 15.3544,
-    "overfit_gap": 0.3177,
-    "cv_r2_mean": 0.2704,
-    "cv_r2_std": 0.0089,
-    "cv_mae_mean": 12.0914,
-    "cv_rmse_mean": 15.6678,
+    "R2_train": 0.4871,
+    "R2_test": 0.2952,
+    "MAE": 11.6833,
+    "RMSE": 15.2366,
+    "overfit_gap": 0.1918,
+    "cv_r2_mean": 0.2944,
+    "cv_r2_std": 0.0101,
+    "cv_mae_mean": 11.8311,
+    "cv_rmse_mean": 15.3718,
     "best_params": {
-        "n_estimators": 949,
-        "learning_rate": 0.005124292393125342,
-        "num_leaves": 120,
+        "n_estimators": 952,
+        "learning_rate": 0.0051408900462990015,
+        "num_leaves": 107,
         "min_child_samples": 6,
-        "reg_alpha": 2.8456526977122386e-06,
-        "reg_lambda": 0.016301353379407614,
-        "subsample": 0.9798853729727098,
-        "colsample_bytree": 0.8382861898713898,
+        "reg_alpha": 1.6279197061301564e-08,
+        "reg_lambda": 9.127411391919123,
+        "subsample": 0.9961740447644573,
+        "colsample_bytree": 0.8328467084489836,
         "max_depth": -1
     },
-    "optuna_best_cv_r2": 0.2623,
-    "n_estimators_used": 949,
-    "residuals_mean": -0.5879,
-    "residuals_std": 15.3431,
-    "pct_within_10": 52.8,
+    "optuna_best_cv_r2": 0.2884,
+    "n_estimators_used": 952,
+    "residuals_mean": -0.1015,
+    "residuals_std": 15.2362,
+    "pct_within_10": 53.86,
     "top_features": [
         {
             "feature": "Days_Since_Last",
-            "shap_importance": 2.561917
+            "shap_importance": 2.60166
         },
         {
             "feature": "Rating_MA15",
-            "shap_importance": 2.403023
+            "shap_importance": 2.390496
         },
         {
             "feature": "Match_Num",
-            "shap_importance": 1.042037
-        },
-        {
-            "feature": "Chronic_Workload",
-            "shap_importance": 0.86856
+            "shap_importance": 0.93365
         },
         {
             "feature": "Season_Momentum_Trend",
-            "shap_importance": 0.627996
+            "shap_importance": 0.80018
         },
         {
-            "feature": "Ground_Duels_Won_P90",
-            "shap_importance": 0.567955
+            "feature": "Chronic_Workload",
+            "shap_importance": 0.774307
+        },
+        {
+            "feature": "Season_Momentum_STD15",
+            "shap_importance": 0.722101
+        },
+        {
+            "feature": "Weighted_Minutes",
+            "shap_importance": 0.611252
         },
         {
             "feature": "Match_Density",
-            "shap_importance": 0.514643
+            "shap_importance": 0.510104
+        },
+        {
+            "feature": "Rating_MA15_Lag1",
+            "shap_importance": 0.505009
         },
         {
             "feature": "Rating",
-            "shap_importance": 0.503565
-        },
-        {
-            "feature": "Fatigue_Precedente",
-            "shap_importance": 0.401804
-        },
-        {
-            "feature": "Acute_Workload",
-            "shap_importance": 0.396118
+            "shap_importance": 0.493547
         }
     ],
     "shap_available": true,
-    "train_time_s": 30.33
+    "train_time_s": 31.23
 }

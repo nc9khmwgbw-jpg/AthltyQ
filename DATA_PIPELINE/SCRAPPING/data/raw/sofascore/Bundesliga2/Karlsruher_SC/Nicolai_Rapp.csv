@@ -1,0 +1,15 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Tournament,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Position_SofaScore,Poste_Cat
+Nicolai Rapp,29,2026-05-17,Karlsruher SC,VfL Bochum 1848,2. Bundesliga,6.8,81,,0,0.0,0,0,0.0,0.61,80,82,0,0,0,0,3,86,D,CB
+Nicolai Rapp,29,2026-05-08,SC Paderborn 07,Karlsruher SC,2. Bundesliga,6.4,90,,0,0.0,0,0,0.1,0.0,50,56,0,0,6,0,4,82,D,CB
+Nicolai Rapp,29,2026-05-03,Karlsruher SC,Darmstadt 98,2. Bundesliga,7.1,90,,0,0.0,0,0,0.0,0.01,38,50,0,0,1,0,0,65,D,CB
+Nicolai Rapp,29,2026-04-25,Karlsruher SC,Hannover 96,2. Bundesliga,6.6,66,,0,0.0,0,0,0.0,0.01,37,40,0,0,0,0,2,44,D,CB
+Nicolai Rapp,29,2026-04-17,SV 07 Elversberg,Karlsruher SC,2. Bundesliga,6.3,63,,0,0.0,0,0,0.04,0.01,39,46,0,0,1,0,1,54,D,CB
+Nicolai Rapp,29,2026-04-10,Karlsruher SC,Arminia Bielefeld,2. Bundesliga,6.2,84,,0,0.0,0,0,0.0,0.0,16,28,0,0,1,0,2,38,D,CB
+Nicolai Rapp,29,2026-03-20,Karlsruher SC,SpVgg Greuther Fürth,2. Bundesliga,6.4,61,,0,0.0,0,0,0.0,0.02,24,27,2,0,2,0,1,35,D,CB
+Nicolai Rapp,29,2026-03-15,1. FC Kaiserslautern,Karlsruher SC,2. Bundesliga,7.1,32,,0,0.0,0,0,0.03,0.02,21,24,0,0,1,0,4,30,D,CB
+Nicolai Rapp,29,2026-03-08,Karlsruher SC,SG Dynamo Dresden,2. Bundesliga,,1,,0,0.0,0,0,0.0,0.0,1,2,0,0,0,0,0,3,D,CB
+Nicolai Rapp,29,2025-12-20,VfL Bochum 1848,Karlsruher SC,2. Bundesliga,6.3,90,,0,0.0,0,0,0.0,0.01,84,91,0,0,3,0,2,110,D,CB
+Nicolai Rapp,29,2025-12-13,Karlsruher SC,SC Paderborn 07,2. Bundesliga,6.7,45,,0,0.0,0,0,0.0,0.01,12,18,0,0,2,0,0,29,D,CB
+Nicolai Rapp,29,2025-11-28,Hannover 96,Karlsruher SC,2. Bundesliga,6.7,74,,0,0.0,0,0,0.0,0.01,38,42,1,0,2,0,4,51,D,CB
+Nicolai Rapp,29,2025-11-23,Karlsruher SC,SV 07 Elversberg,2. Bundesliga,6.3,72,,0,0.0,0,0,0.03,0.01,32,38,0,0,1,0,0,55,D,CB
+Nicolai Rapp,29,2025-11-08,Arminia Bielefeld,Karlsruher SC,2. Bundesliga,6.4,90,,0,0.0,0,0,0.02,0.01,85,97,0,0,3,0,4,114,D,CB

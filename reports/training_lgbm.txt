@@ -3,52 +3,52 @@
   🚀 ENTRAÎNEMENT : LIGHTGBM  (VERSION PRO)
 ═════════════════════════════════════════════════════════════════
 
-  Train : 21,226 lignes  |  Test : 5,153 lignes
-  Features : 221
+  Train : 33,267 lignes  |  Test : 8,385 lignes
+  Features : 212
 
   🔍 Optimisation Optuna (50 essais, timeout 300s)...
-  ✅ Optuna terminé en 313.8s
-  📈 Meilleur CV R² Optuna : 0.2623
+  ✅ Optuna terminé en 324.3s
+  📈 Meilleur CV R² Optuna : 0.2884
   🏆 Meilleurs hyperparamètres :
-     • n_estimators = 951
-     • learning_rate = 0.005124292393125342
-     • num_leaves = 120
+     • n_estimators = 953
+     • learning_rate = 0.0051408900462990015
+     • num_leaves = 107
      • min_child_samples = 6
-     • reg_alpha = 2.8456526977122386e-06
-     • reg_lambda = 0.016301353379407614
-     • subsample = 0.9798853729727098
-     • colsample_bytree = 0.8382861898713898
+     • reg_alpha = 1.6279197061301564e-08
+     • reg_lambda = 9.127411391919123
+     • subsample = 0.9961740447644573
+     • colsample_bytree = 0.8328467084489836
 
   ⏳ Entraînement final avec early stopping...
-  ✅ Terminé en 30.33s
-  🌱 Arbres utilisés (early stopping) : 949
+  ✅ Terminé en 31.23s
+  🌱 Arbres utilisés (early stopping) : 952
   ✅ Pipeline final (scaler + LGBM) entraîné sur 100% du train set.
 
 ─────────────────────────────────────────────
   🎯 RÉSULTATS LIGHTGBM
 ─────────────────────────────────────────────
-  R² Train  : 0.6039
-  R² Test   : 0.2862   (écart : +0.3177)  ⚠️  Sur-apprentissage détecté !
-  MAE Test  : 11.8652
-  RMSE Test : 15.3544
+  R² Train  : 0.4871
+  R² Test   : 0.2952   (écart : +0.1918)  ⚠️  Sur-apprentissage détecté !
+  MAE Test  : 11.6833
+  RMSE Test : 15.2366
 
   🔄 Cross-Validation 5-fold (train set) :
-  R²    →  mean=0.2704  std=±0.0089  [0.2599 … 0.2858]
-  MAE   →  mean=12.0914  std=±0.0797  [11.9887 … 12.2297]
-  RMSE  →  mean=15.6678  std=±0.1146  [15.5263 … 15.8426]
+  R²    →  mean=0.2944  std=±0.0101  [0.2856 … 0.3135]
+  MAE   →  mean=11.8311  std=±0.1177  [11.6816 … 12.0185]
+  RMSE  →  mean=15.3718  std=±0.1718  [15.2105 … 15.6865]
 
   🔬 Calcul des SHAP values (sur 200 échantillons test)...
   🌟 Top 5 SHAP (impact moyen absolu sur la prédiction) :
-     1. Days_Since_Last                          2.5619  █████████████████████████
-     2. Rating_MA15                              2.4030  ████████████████████████
-     3. Match_Num                                1.0420  ██████████
-     4. Chronic_Workload                         0.8686  ████████
-     5. Season_Momentum_Trend                    0.6280  ██████
+     1. Days_Since_Last                          2.6017  ██████████████████████████
+     2. Rating_MA15                              2.3905  ███████████████████████
+     3. Match_Num                                0.9336  █████████
+     4. Season_Momentum_Trend                    0.8002  ████████
+     5. Chronic_Workload                         0.7743  ███████
 
   📉 Analyse des résidus :
-     Moyenne  : -0.5879  (idéal = 0)
-     Std      : 15.3431
-     Dans ±10% fatigue : 52.8% des prédictions
+     Moyenne  : -0.1015  (idéal = 0)
+     Std      : 15.2362
+     Dans ±10% fatigue : 53.9% des prédictions
 
   💾 Modèle et métriques sauvegardés dans : /Users/fahamayoub/Desktop/AthlytIQ/LM/models/benchmark/LightGBM
 ═════════════════════════════════════════════════════════════════

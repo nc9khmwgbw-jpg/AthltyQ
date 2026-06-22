@@ -36,34 +36,38 @@ PIPELINE_STEPS = {
         "cmd": ".venv/bin/python DATA_PIPELINE/MAINTENANCE/reconciler.py"
     },
     "step_5": {
-        "name": "Feature Engineering (Fatigue & Risques)",
-        "cmd": ".venv/bin/python LM/models/feature_engineering.py"
+        "name": "Moteur de Fatigue & Médical V3",
+        "cmd": ".venv/bin/python fatigue_engine/pipeline.py"
     },
     "step_6": {
+        "name": "Feature Engineering (Machine Learning)",
+        "cmd": ".venv/bin/python LM/models/feature_engineering.py"
+    },
+    "step_7": {
         "name": "Classification 9 Postes",
         "cmd": ".venv/bin/python LM2/build_positions.py"
     },
-    "step_7": {
+    "step_8": {
         "name": "Préparation Benchmark Scouting",
         "cmd": ".venv/bin/python LM2/benchmark/setup_scouting_data.py"
     },
-    "step_8": {
+    "step_9": {
         "name": "Apprentissage Poids Similarité",
         "cmd": ".venv/bin/python LM2/benchmark/train_weights.py"
     },
-    "step_9": {
+    "step_10": {
         "name": "Clustering des Archétypes",
         "cmd": ".venv/bin/python LM2/benchmark/train_clusters.py"
     },
-    "step_10": {
+    "step_11": {
         "name": "Préparation Benchmark IA",
         "cmd": ".venv/bin/python LM/models/benchmark/setup_data.py"
     },
-    "step_11": {
+    "step_12": {
         "name": "Entraînement Algorithmes (Poly, LGBM, RF)",
         "cmd": ".venv/bin/python LM/models/benchmark/Polynomial_Regression/train_poly.py > reports/training_poly.txt 2>&1 && .venv/bin/python LM/models/benchmark/LightGBM/train_lgbm.py > reports/training_lgbm.txt 2>&1 && .venv/bin/python LM/models/benchmark/Random_Forest/train_rf.py > reports/training_rf.txt 2>&1"
     },
-    "step_12": {
+    "step_13": {
         "name": "Évaluation et Visualisation",
         "cmd": ".venv/bin/python LM/models/benchmark/generate_visuals.py && .venv/bin/python LM2/benchmark/generate_scouting_visuals.py"
     }

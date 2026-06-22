@@ -166,6 +166,14 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
         df_features.loc[mask_crit, 'Risk_Level'] = 'ÉLEVÉ'
         df_features.loc[mask_crit, 'Status'] = 'ALERTE BLESSURE'
 
+        # Override for players who are ACTUALLY injured right now
+        if 'Est_Blesse' in df_features.columns:
+            mask_injured = (df_features['Est_Blesse'] == 1).tolist()
+            df_features.loc[mask_injured, 'Risk_Level'] = 'ÉLEVÉ'
+            df_features.loc[mask_injured, 'Status'] = 'ACTUELLEMENT BLESSÉ'
+            df_features.loc[mask_injured, 'Medical_Risk_Score'] = 1.0
+            df_features.loc[mask_injured, 'Injury_Risk'] = 1.0
+
         # Pour le dashboard, on groupe par joueur (dernier match)
         results = df_features.sort_values(['Nom', 'Match_Date'], ascending=[True, False]).groupby('Nom').first().reset_index()
         
@@ -250,6 +258,14 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
         df_features.loc[mask_crit_upd, 'Risk_Level'] = 'ÉLEVÉ'
         df_features.loc[mask_crit_upd, 'Status'] = 'ALERTE BLESSURE'
         
+        # Override for players who are ACTUALLY injured right now
+        if 'Est_Blesse' in df_features.columns:
+            mask_injured = (df_features['Est_Blesse'] == 1).tolist()
+            df_features.loc[mask_injured, 'Risk_Level'] = 'ÉLEVÉ'
+            df_features.loc[mask_injured, 'Status'] = 'ACTUELLEMENT BLESSÉ'
+            df_features.loc[mask_injured, 'Medical_Risk_Score'] = 1.0
+            df_features.loc[mask_injured, 'Injury_Risk'] = 1.0
+        
         results = df_features.sort_values(['Nom', 'Match_Date'], ascending=[True, False]).groupby('Nom').first().reset_index()
     else:
         print(f"Dashboard: ERREUR - Aucun fichier de données trouvé !")
@@ -310,8 +326,8 @@ def get_dashboard_data(model: str = 'lgbm'):
     total_players = len(results)
     
     # Sécurité si les données médicales sont absentes
-    if 'Current_Injury' in results.columns:
-        available_players = len(results[results['Current_Injury'] == 0])
+    if 'Est_Blesse' in results.columns:
+        available_players = len(results[results['Est_Blesse'] == 0])
         injured_count = total_players - available_players
     else:
         available_players = total_players
@@ -505,7 +521,7 @@ def get_player_data(model: str = 'lgbm'):
         
         player.update({
             "status": row['Status'],
-            "current_injury": int(row.get('Current_Injury', 0)),
+            "current_injury": int(row.get('Est_Blesse', 0)),
             "injury_type": row.get('Injury_Type_Text', ''),
             "dominant_cause": row.get('Dominant_Injury_Cause', 'NONE'),
             "medical_history": {

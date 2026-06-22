@@ -1,60 +1,60 @@
 {
     "model": "Polynomial Regression",
-    "R2_train": 0.1711,
-    "R2_test": 0.0862,
-    "MAE": 13.4237,
-    "RMSE": 17.3732,
-    "overfit_gap": 0.0849,
-    "cv_r2_mean": 0.1278,
-    "cv_r2_std": 0.0272,
-    "cv_mae_mean": 13.3933,
-    "cv_rmse_mean": 17.1297,
+    "R2_train": 0.1694,
+    "R2_test": 0.0832,
+    "MAE": 13.3532,
+    "RMSE": 17.378,
+    "overfit_gap": 0.0862,
+    "cv_r2_mean": 0.1475,
+    "cv_r2_std": 0.0121,
+    "cv_mae_mean": 13.3007,
+    "cv_rmse_mean": 16.8955,
     "best_alpha": 1000.0,
     "pca_components": 20,
-    "residuals_mean": -0.9441,
-    "residuals_std": 17.3475,
-    "pct_within_10": 47.45,
-    "train_time_s": 0.95,
+    "residuals_mean": -0.5072,
+    "residuals_std": 17.3706,
+    "pct_within_10": 47.68,
+    "train_time_s": 1.35,
     "top_features": [
         {
-            "feature": "Days_Rest",
-            "importance": 0.9214604631431341
+            "feature": "Days_Since_Last",
+            "importance": 0.9491063613072998
         },
         {
-            "feature": "Days_Since_Last",
-            "importance": 0.921460463143134
+            "feature": "Days_Rest",
+            "importance": 0.9491063613072996
         },
         {
             "feature": "Pass_Accuracy_Trend",
-            "importance": 0.806515939781743
-        },
-        {
-            "feature": "Rating_MA3",
-            "importance": 0.7978308518722718
-        },
-        {
-            "feature": "Dribbles_P90_MA5",
-            "importance": 0.7611892972076594
+            "importance": 0.8408539673850952
         },
         {
             "feature": "Rating_STD3",
-            "importance": 0.7548297449265629
+            "importance": 0.8037309439022595
         },
         {
-            "feature": "Dribbles_P90_STD3",
-            "importance": 0.7497164979058439
+            "feature": "Ground_Duels_Won_P90_STD3",
+            "importance": 0.7573306595922001
+        },
+        {
+            "feature": "Dribbles_P90_MA15",
+            "importance": 0.7560429856001203
         },
         {
             "feature": "Dribbles_P90_MA10",
-            "importance": 0.7459768837307625
+            "importance": 0.755696851931011
         },
         {
-            "feature": "Dribbles_P90_STD5",
-            "importance": 0.7424468429634388
+            "feature": "Ground_Duels_Won_P90_MA3",
+            "importance": 0.7523203503439521
         },
         {
-            "feature": "Match_Density",
-            "importance": 0.7418005328766262
+            "feature": "Fatigue_Precedente",
+            "importance": 0.750255772555215
+        },
+        {
+            "feature": "Fatigue_Lag1",
+            "importance": 0.750255772555215
         }
     ]
 }

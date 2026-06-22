@@ -305,17 +305,26 @@ def calculer_features_temporelles(df, fenetres=[3, 5, 10, 15]):
                 new_cols[f'{col}_Trend'] = new_cols[ma_court] - new_cols[ma_long]
 
     # Tendance linéaire du Rating (pente sur les N derniers matchs)
-    # Optimisation vectorielle pour window=5
-    # x = [0, 1, 2, 3, 4], sum(x)=10, sum(x^2)=30
-    # slope = sum(x*y)/10 - sum(y)/5 = (0*y0 + 1*y1 + 2*y2 + 3*y3 + 4*y4)/10 - sum(y)/5
+    def pente_lineaire(series, window=5):
+        """Calcule la pente de régression linéaire glissante."""
+        result = []
+        for i in range(len(series)):
+            if i < window - 1 or series.iloc[max(0, i - window + 1):i + 1].isna().any():
+                result.append(np.nan)
+            else:
+                y = series.iloc[max(0, i - window + 1):i + 1].values
+                x = np.arange(len(y))
+                if len(y) >= 2:
+                    slope = np.polyfit(x, y, 1)[0]
+                    result.append(slope)
+                else:
+                    result.append(np.nan)
+        return pd.Series(result, index=series.index)
+
     if 'Rating' in df.columns:
-        # Poids pour y0, y1, y2, y3, y4
-        # slope = y0*(0/10 - 1/5) + y1*(1/10 - 1/5) + y2*(2/10 - 1/5) + y3*(3/10 - 1/5) + y4*(4/10 - 1/5)
-        # slope = y0*(-0.2) + y1*(-0.1) + y2*(0.0) + y3*(0.1) + y4*(0.2)
-        weights = np.array([-0.2, -0.1, 0.0, 0.1, 0.2])
         new_cols['Rating_Slope5'] = (
             df.groupby('Nom')['Rating']
-            .transform(lambda x: x.rolling(window=5, min_periods=5).apply(lambda y: np.dot(y, weights), raw=True))
+            .transform(lambda x: pente_lineaire(x, window=5))
         )
 
     # AMÉLIORATION: Momentum de forme (dérivée seconde)
@@ -497,8 +506,7 @@ def creer_target_fatigue(df):
     df['Fatigue_Lag1'] = df['Fatigue_Precedente']
     
     # Nettoyage
-    # ON NE DROP PAS LE DERNIER MATCH POUR LE DASHBOARD (Inférence)
-    # df = df.dropna(subset=['Target_Fatigue'])
+    df = df.dropna(subset=['Target_Fatigue'])
 
     return df
 

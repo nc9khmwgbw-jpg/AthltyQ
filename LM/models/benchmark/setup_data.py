@@ -13,7 +13,7 @@ BENCHMARK_DIR.mkdir(parents=True, exist_ok=True)
 
 IDENTITY_COLS = [
     'Nom', 'Player_ID', 'Match_Date', 'Event_ID', 'Home_Team', 'Away_Team',
-    'Score_Home', 'Score_Away', 'Tournament', 'Equipe', 'Position',
+    'Score_Home', 'Score_Away', 'Tournament', 'Equipe', 'Position', 'Poste_Cat',
     'Risk_Category', 'Target_Injury_Occurred', 'Current_Injury',
     'Fatigue_Realisee', 'Fatigue_Reelle_Match_T'
 ]
@@ -61,11 +61,6 @@ def setup_benchmark_data() -> None:
     # ── 2. Préparation des features ──────────────────────────────────────────
     X = df.drop(columns=IDENTITY_COLS + ['Target_Fatigue'], errors='ignore')
     y = df['Target_Fatigue']
-
-    # Encodage One-Hot pour le poste (Poste_Cat)
-    if 'Poste_Cat' in X.columns:
-        print("\n  🔄 Encodage One-Hot des postes (Poste_Cat)...")
-        X = pd.get_dummies(X, columns=['Poste_Cat'], dummy_na=False, dtype=int)
 
     # Conserver uniquement les colonnes numériques
     X = X.select_dtypes(include='number')

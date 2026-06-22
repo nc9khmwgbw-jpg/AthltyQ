@@ -1,66 +1,66 @@
 {
     "model": "Random Forest",
-    "R2_train": 0.5657,
-    "R2_test": 0.1901,
-    "R2_oob": 0.1712,
-    "MAE": 13.5848,
-    "RMSE": 16.9494,
-    "overfit_gap": 0.3756,
-    "cv_r2_mean": 0.1712,
-    "cv_r2_std": 0.0195,
-    "cv_mae_mean": 12.8676,
-    "cv_rmse_mean": 16.476,
+    "R2_train": 0.5899,
+    "R2_test": 0.2278,
+    "R2_oob": 0.2192,
+    "MAE": 12.6013,
+    "RMSE": 16.0629,
+    "overfit_gap": 0.3621,
+    "cv_r2_mean": 0.2195,
+    "cv_r2_std": 0.0162,
+    "cv_mae_mean": 12.8268,
+    "cv_rmse_mean": 16.3539,
     "best_params": {
         "max_depth": 20,
         "max_features": 0.5,
         "min_samples_leaf": 10,
         "n_estimators": 200
     },
-    "ci_90_avg_width": 36.8749,
-    "residuals_mean": -1.3703,
-    "residuals_std": 16.8939,
-    "pct_within_10": 43.82,
+    "ci_90_avg_width": 36.0209,
+    "residuals_mean": -0.8285,
+    "residuals_std": 16.0415,
+    "pct_within_10": 49.4,
     "top_features": [
         {
             "feature": "Rating_MA15",
-            "importance": 0.077676
-        },
-        {
-            "feature": "Rating_MA10",
-            "importance": 0.04096
-        },
-        {
-            "feature": "Days_Rest",
-            "importance": 0.031783
+            "importance": 0.07375
         },
         {
             "feature": "Days_Since_Last",
-            "importance": 0.031067
+            "importance": 0.045017
+        },
+        {
+            "feature": "Rating_MA10",
+            "importance": 0.039117
+        },
+        {
+            "feature": "Days_Rest",
+            "importance": 0.038197
         },
         {
             "feature": "Rating",
-            "importance": 0.024309
+            "importance": 0.03479
+        },
+        {
+            "feature": "Acute_Workload",
+            "importance": 0.02678
+        },
+        {
+            "feature": "Chronic_Workload",
+            "importance": 0.024311
         },
         {
             "feature": "Rating_MA15_Lag1",
-            "importance": 0.019733
-        },
-        {
-            "feature": "Season_Momentum_Trend",
-            "importance": 0.015705
+            "importance": 0.023647
         },
         {
             "feature": "Weighted_Minutes",
-            "importance": 0.015406
+            "importance": 0.019208
         },
         {
-            "feature": "Ground_Duels_Won_P90",
-            "importance": 0.015094
-        },
-        {
-            "feature": "Dribbles_P90",
-            "importance": 0.014205
+            "feature": "Jours_Depuis_Blessure",
+            "importance": 0.014995
         }
     ],
-    "train_time_s": 221.67
+    "train_time_s": 1367.41
 }

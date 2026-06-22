@@ -1,93 +1,103 @@
 {
-    "best_k": 4,
-    "best_silhouette": 0.1683,
-    "search_time_s": 2.38,
-    "fit_time_s": 0.15,
+    "best_k": 5,
+    "best_silhouette": 0.1501,
+    "search_time_s": 2.17,
+    "fit_time_s": 0.16,
     "k_search": {
         "4": {
-            "inertia": 19952.22,
-            "silhouette": 0.1683
+            "inertia": 32107.39,
+            "silhouette": 0.1493
         },
         "5": {
-            "inertia": 18536.44,
-            "silhouette": 0.1598
+            "inertia": 29799.95,
+            "silhouette": 0.1501
         },
         "6": {
-            "inertia": 17673.69,
-            "silhouette": 0.1498
+            "inertia": 28388.52,
+            "silhouette": 0.1407
         },
         "7": {
-            "inertia": 16922.62,
-            "silhouette": 0.1498
+            "inertia": 27219.68,
+            "silhouette": 0.1465
         },
         "8": {
-            "inertia": 16195.16,
-            "silhouette": 0.1438
+            "inertia": 26182.19,
+            "silhouette": 0.1153
         },
         "9": {
-            "inertia": 15615.59,
-            "silhouette": 0.1299
+            "inertia": 25248.59,
+            "silhouette": 0.1261
         },
         "10": {
-            "inertia": 15132.06,
-            "silhouette": 0.1385
+            "inertia": 24433.91,
+            "silhouette": 0.1304
         },
         "11": {
-            "inertia": 14770.5,
-            "silhouette": 0.1076
+            "inertia": 23861.7,
+            "silhouette": 0.1036
         },
         "12": {
-            "inertia": 14434.13,
-            "silhouette": 0.1022
+            "inertia": 23355.43,
+            "silhouette": 0.1049
         },
         "13": {
-            "inertia": 14200.33,
-            "silhouette": 0.1027
+            "inertia": 22826.01,
+            "silhouette": 0.1072
         },
         "14": {
-            "inertia": 13935.52,
-            "silhouette": 0.099
+            "inertia": 22379.1,
+            "silhouette": 0.1042
         }
     },
     "clusters": {
         "0": {
             "label": "Coureur Infatigable",
-            "n_players": 1064,
-            "pct": 46.6,
+            "n_players": 1257,
+            "pct": 34.7,
             "dominant_postes": {
-                "CB": 332,
-                "MC": 241,
-                "ATT": 137
+                "CB": 383,
+                "MC": 296,
+                "ATT": 153
             }
         },
         "1": {
-            "label": "Finisseur de Surface",
-            "n_players": 441,
-            "pct": 19.3,
+            "label": "Ailier Explosif",
+            "n_players": 651,
+            "pct": 18.0,
             "dominant_postes": {
-                "ATT": 221,
-                "AG": 145,
-                "MC": 27
+                "AG": 328,
+                "ATT": 145,
+                "CB": 86
             }
         },
         "2": {
-            "label": "Playmaker Créatif",
-            "n_players": 338,
-            "pct": 14.8,
+            "label": "Métronome Technique",
+            "n_players": 568,
+            "pct": 15.7,
             "dominant_postes": {
-                "ATT": 155,
-                "AG": 68,
-                "MOF": 63
+                "CB": 191,
+                "AG": 115,
+                "MC": 87
             }
         },
         "3": {
-            "label": "Profil Polyvalent",
-            "n_players": 439,
-            "pct": 19.2,
+            "label": "Playmaker Créatif",
+            "n_players": 466,
+            "pct": 12.9,
             "dominant_postes": {
-                "AG": 223,
-                "ATT": 70,
-                "CB": 67
+                "ATT": 223,
+                "AG": 111,
+                "MOF": 68
+            }
+        },
+        "4": {
+            "label": "Finisseur de Surface",
+            "n_players": 682,
+            "pct": 18.8,
+            "dominant_postes": {
+                "ATT": 361,
+                "AG": 164,
+                "MC": 57
             }
         }
     }

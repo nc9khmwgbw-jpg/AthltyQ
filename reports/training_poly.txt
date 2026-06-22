@@ -3,34 +3,34 @@
   📐 ENTRAÎNEMENT : RÉGRESSION POLYNOMIALE  (VERSION PRO)
 ═════════════════════════════════════════════════════════════════
 
-  Train : 21,226 lignes  |  Test : 5,153 lignes
-  Features d'entrée : 221
+  Train : 33,267 lignes  |  Test : 8,385 lignes
+  Features d'entrée : 212
 
   Architecture du pipeline :
     StandardScaler → PCA(n=20) → PolynomialFeatures(deg=2) → RidgeCV
 
   ⏳ Entraînement en cours...
-  ✅ Terminé en 0.95s
+  ✅ Terminé en 1.35s
   🎯 Alpha optimal (RidgeCV) : 1000.0
 
 ─────────────────────────────────────────────
   🎯 RÉSULTATS POLYNOMIAL REGRESSION
 ─────────────────────────────────────────────
-  R² Train  : 0.1711
-  R² Test   : 0.0862   (écart : +0.0849)  ✅ Pas de sur-apprentissage
-  MAE Test  : 13.4237
-  RMSE Test : 17.3732
+  R² Train  : 0.1694
+  R² Test   : 0.0832   (écart : +0.0862)  ✅ Pas de sur-apprentissage
+  MAE Test  : 13.3532
+  RMSE Test : 17.3780
 
   🔄 Cross-Validation 5-fold (sur train set) :
-  R²    →  mean=0.1278  std=±0.0272  [0.0822 … 0.1533]
-  MAE   →  mean=13.3933  std=±0.1448  [13.2498 … 13.6534]
-  RMSE  →  mean=17.1297  std=±0.3154  [16.8721 … 17.7385]
+  R²    →  mean=0.1475  std=±0.0121  [0.1288 … 0.1664]
+  MAE   →  mean=13.3007  std=±0.1114  [13.1471 … 13.4632]
+  RMSE  →  mean=16.8955  std=±0.1141  [16.7611 … 17.0930]
 
   📉 Analyse des résidus (test set) :
-     Moyenne  : -0.9441  (idéal = 0)
-     Std      : 17.3475
-     Max abs  : 189.3488
-     Dans ±10% fatigue : 47.4% des prédictions
+     Moyenne  : -0.5072  (idéal = 0)
+     Std      : 17.3706
+     Max abs  : 295.4219
+     Dans ±10% fatigue : 47.7% des prédictions
 
   💾 Modèle et métriques sauvegardés dans : /Users/fahamayoub/Desktop/AthlytIQ/LM/models/benchmark/Polynomial_Regression
 ═════════════════════════════════════════════════════════════════

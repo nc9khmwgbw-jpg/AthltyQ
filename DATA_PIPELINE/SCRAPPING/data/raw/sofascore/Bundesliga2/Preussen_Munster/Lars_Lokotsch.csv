@@ -1,0 +1,15 @@
+﻿Nom,Age,Match_Date,Home_Team,Away_Team,Tournament,Rating,Minutes_Played,distanceRun,sprints,kpi_work_rate,Goals,Assists,Expected_Goals,Expected_Assists,Accurate_Passes,Total_Passes,Key_Passes,Tackles,Interceptions,Clearances,Ball_Recovery,Touches,Position_SofaScore,Poste_Cat
+Lars Lokotsch,30,2026-05-17,SV 07 Elversberg,Preußen Münster,2. Bundesliga,6.4,31,,0,0.0,0,0,0.01,0.0,2,4,0,0,0,0,0,9,F,ATT
+Lars Lokotsch,30,2026-05-10,Preußen Münster,Darmstadt 98,2. Bundesliga,,1,,0,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,F,ATT
+Lars Lokotsch,30,2026-05-03,Hannover 96,Preußen Münster,2. Bundesliga,6.7,45,,0,0.0,0,0,0.0,0.01,7,14,1,0,0,0,0,20,F,ATT
+Lars Lokotsch,30,2026-04-25,Preußen Münster,Arminia Bielefeld,2. Bundesliga,6.5,17,,0,0.0,0,0,0.05,0.0,2,5,0,0,0,0,0,8,F,ATT
+Lars Lokotsch,30,2026-04-19,FC Schalke 04,Preußen Münster,2. Bundesliga,,0,,0,0.0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,F,ATT
+Lars Lokotsch,30,2026-04-11,Preußen Münster,SpVgg Greuther Fürth,2. Bundesliga,6.3,22,,0,0.0,0,0,0.06,0.0,2,4,0,0,0,0,1,12,F,ATT
+Lars Lokotsch,30,2026-04-05,Holstein Kiel,Preußen Münster,2. Bundesliga,6.5,71,,0,0.0,0,0,0.27,0.0,3,8,0,0,1,0,2,20,F,ATT
+Lars Lokotsch,30,2026-03-22,Preußen Münster,1. FC Magdeburg,2. Bundesliga,6.3,25,,0,0.0,0,0,0.0,0.02,5,8,0,0,0,0,0,11,F,ATT
+Lars Lokotsch,30,2025-12-21,Preußen Münster,SV 07 Elversberg,2. Bundesliga,6.3,90,,0,0.0,0,0,0.06,0.01,15,22,1,0,0,0,1,33,F,ATT
+Lars Lokotsch,30,2025-12-14,Darmstadt 98,Preußen Münster,2. Bundesliga,6.5,48,,0,0.0,0,0,0.08,0.11,12,13,0,0,0,0,2,23,F,ATT
+Lars Lokotsch,30,2025-12-05,Preußen Münster,Hannover 96,2. Bundesliga,7.3,28,,0,0.0,0,0,0.1,0.01,5,7,1,0,0,0,0,14,F,ATT
+Lars Lokotsch,30,2025-11-30,Arminia Bielefeld,Preußen Münster,2. Bundesliga,7.0,29,,0,0.0,0,0,0.22,0.11,3,8,1,0,0,0,0,14,F,ATT
+Lars Lokotsch,30,2025-11-22,Preußen Münster,FC Schalke 04,2. Bundesliga,6.6,23,,0,0.0,0,0,0.0,0.0,6,12,0,0,0,0,2,18,F,ATT
+Lars Lokotsch,30,2025-11-07,SpVgg Greuther Fürth,Preußen Münster,2. Bundesliga,6.9,80,,0,0.0,0,0,0.07,0.21,13,19,1,0,0,0,0,35,F,ATT
