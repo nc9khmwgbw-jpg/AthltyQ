@@ -135,13 +135,31 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
         acwr_vals = np.array(acwr_val, dtype=float)
         acwr_stress = np.clip((np.abs(acwr_vals - 1.0) * 50.0), 0, 30)
 
-        # 4. Score de Risque Médical Composite
-        fatigue_part = np.array(df_features['Fatigue_IA'], dtype=float) * 0.50
-        trauma_part  = np.array(trauma_score, dtype=float) * 0.30
-        acwr_part    = np.array(acwr_stress, dtype=float) * 0.20
+        # 4. Score de Risque Médical Composite (Remplacé par l'IA d'Ensemble si dispo)
+        try:
+            import joblib
+            from pathlib import Path
+            SAVE_DIR = Path("LM/models/saved")
+            
+            model_gb = joblib.load(SAVE_DIR / "injury_model_gb.joblib")
+            model_rf = joblib.load(SAVE_DIR / "injury_model_rf.joblib")
+            scaler_inj = joblib.load(SAVE_DIR / "injury_scaler.joblib")
+            features_inj = joblib.load(SAVE_DIR / "injury_features.joblib")
+            
+            X_inj = df_features[features_inj].fillna(0).replace([np.inf, -np.inf], 0)
+            X_sc_inj = scaler_inj.transform(X_inj)
+            
+            # 60% Gradient Boosting, 40% Random Forest
+            prob_ml = (model_gb.predict_proba(X_sc_inj)[:, 1] * 0.6 + model_rf.predict_proba(X_sc_inj)[:, 1] * 0.4)
+            medical_risk = prob_ml
+        except Exception as e:
+            print(f"⚠️ Modèle Injury non trouvé ou erreur ({e}), fallback sur l'heuristique.")
+            fatigue_part = np.array(df_features['Fatigue_IA'], dtype=float) * 0.50
+            trauma_part  = np.array(trauma_score, dtype=float) * 0.30
+            acwr_part    = np.array(acwr_stress, dtype=float) * 0.20
+            medical_risk = (fatigue_part + trauma_part + acwr_part) / 100.0
 
         # Normalisation finale
-        medical_risk = (fatigue_part + trauma_part + acwr_part) / 100.0
         df_features['Medical_Risk_Score'] = np.clip(medical_risk, 0, 1).tolist()
         df_features['Injury_Risk'] = df_features['Medical_Risk_Score']
 
@@ -230,12 +248,30 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
         acwr_vals_upd = np.array(acwr_val, dtype=float)
         acwr_stress = np.clip((np.abs(acwr_vals_upd - 1.0) * 50.0), 0, 30)
 
-        # 4. Score de Risque Médical Composite
-        fatigue_part_upd = np.array(df_features['Fatigue_IA'], dtype=float) * 0.50
-        trauma_part_upd  = np.array(trauma_score, dtype=float) * 0.30
-        acwr_part_upd    = np.array(acwr_stress, dtype=float) * 0.20
+        # 4. Score de Risque Médical Composite (Remplacé par l'IA d'Ensemble si dispo)
+        try:
+            import joblib
+            from pathlib import Path
+            SAVE_DIR = Path("LM/models/saved")
+            
+            model_gb = joblib.load(SAVE_DIR / "injury_model_gb.joblib")
+            model_rf = joblib.load(SAVE_DIR / "injury_model_rf.joblib")
+            scaler_inj = joblib.load(SAVE_DIR / "injury_scaler.joblib")
+            features_inj = joblib.load(SAVE_DIR / "injury_features.joblib")
+            
+            X_inj = df_features[features_inj].fillna(0).replace([np.inf, -np.inf], 0)
+            X_sc_inj = scaler_inj.transform(X_inj)
+            
+            # 60% Gradient Boosting, 40% Random Forest
+            prob_ml = (model_gb.predict_proba(X_sc_inj)[:, 1] * 0.6 + model_rf.predict_proba(X_sc_inj)[:, 1] * 0.4)
+            medical_risk_upd = prob_ml
+        except Exception as e:
+            print(f"⚠️ Modèle Injury non trouvé ou erreur ({e}), fallback sur l'heuristique.")
+            fatigue_part_upd = np.array(df_features['Fatigue_IA'], dtype=float) * 0.50
+            trauma_part_upd  = np.array(trauma_score, dtype=float) * 0.30
+            acwr_part_upd    = np.array(acwr_stress, dtype=float) * 0.20
+            medical_risk_upd = (fatigue_part_upd + trauma_part_upd + acwr_part_upd) / 100.0
 
-        medical_risk_upd = (fatigue_part_upd + trauma_part_upd + acwr_part_upd) / 100.0
         df_features['Medical_Risk_Score'] = np.clip(medical_risk_upd, 0, 1).tolist()
         df_features['Injury_Risk'] = df_features['Medical_Risk_Score']
 
@@ -271,8 +307,51 @@ def get_data(model_type: str = 'lgbm') -> Tuple[Optional[pd.DataFrame], Optional
         print(f"Dashboard: ERREUR - Aucun fichier de données trouvé !")
         return None, None
     
-    # 3. Traitement global des données pour éviter les calculs répétitifs
-    # On remplace les NaN par None pour la sécurité JSON
+    # 3. Enrichissement des types de blessures réelles (Transfermarkt)
+    INJURY_HISTORY_PATH = Path("DATA_PIPELINE/SCRAPPING/data/raw/transfermarkt/injury_history.csv")
+    if INJURY_HISTORY_PATH.exists():
+        try:
+            history = pd.read_csv(INJURY_HISTORY_PATH, low_memory=False)
+            injury_type_raw = history['Injury_Type'].astype(str).str.strip()
+            injury_type_upper = injury_type_raw.str.upper()
+            
+            # Filtrer les "NONE", maladies, et fitness (pas de vraies blessures)
+            mask_valid = ~injury_type_upper.isin(['NONE', 'N/A', '', 'NAN', 'ILL', 'FITNESS', 'REST', 'CORONA VIRUS'])
+            if 'Cause_Category' in history.columns:
+                cause_cat = history['Cause_Category'].astype(str).str.upper().str.strip()
+                mask_valid &= ~cause_cat.isin(['NONE', 'MALADIE'])
+            
+            # Joueurs actuellement blessés (Date_To vide = toujours blessé)
+            mask_current = history['Date_To'].isna() | (history['Date_To'].astype(str).str.strip() == "")
+            real_injured = history[mask_valid & mask_current].copy()
+            
+            # Mapper le type de blessure réel par joueur (dernier enregistrement)
+            type_map = real_injured.groupby('Nom')['Injury_Type'].last().to_dict()
+            
+            # Aussi chercher le dernier type de blessure connu (même guérie) pour enrichir
+            all_valid = history[mask_valid].copy()
+            all_type_map = all_valid.groupby('Nom')['Injury_Type'].last().to_dict()
+            
+            # Injecter dans results ET df_features
+            for df_target in [results, df_features]:
+                # 1. D'abord mapper le type actuel (blessure en cours)
+                df_target['Injury_Type_Text'] = df_target['Nom'].map(type_map).fillna('')
+                
+                # 2. Pour les joueurs blessés (Est_Blesse=1) sans type trouvé,
+                #    essayer le dernier type de blessure connu dans l'historique
+                if 'Est_Blesse' in df_target.columns:
+                    mask_no_type = (df_target['Est_Blesse'] == 1) & (df_target['Injury_Type_Text'] == '')
+                    if mask_no_type.any():
+                        fallback_types = df_target.loc[mask_no_type, 'Nom'].map(all_type_map).fillna('Muscle injury')
+                        df_target.loc[mask_no_type, 'Injury_Type_Text'] = fallback_types
+            
+            n_real = sum(1 for df_t in [results] for _, r in df_t.iterrows() if r.get('Injury_Type_Text', '') != '')
+            print(f"   🏥 Enrichissement blessures : {len(type_map)} types réels, {n_real} joueurs enrichis au total.")
+        except Exception as e:
+            print(f"   ⚠️ Erreur enrichissement blessures : {e}")
+            import traceback; traceback.print_exc()
+    
+    # Traitement global : remplacer NaN par None pour la sécurité JSON
     df_features = df_features.replace({np.nan: None})
     results = results.replace({np.nan: None})
     
@@ -521,9 +600,9 @@ def get_player_data(model: str = 'lgbm'):
         
         player.update({
             "status": row['Status'],
-            "current_injury": int(row.get('Est_Blesse', 0)),
-            "injury_type": row.get('Injury_Type_Text', ''),
-            "dominant_cause": row.get('Dominant_Injury_Cause', 'NONE'),
+            "current_injury": int(row.get('Est_Blesse') or 0),
+            "injury_type": str(row.get('Injury_Type_Text') or ''),
+            "dominant_cause": row.get('Dominant_Injury_Cause') or 'NONE',
             "medical_history": {
                 "recent_muscle_injuries": int(row.get('Nb_Blessures_Musculaires_12m', 0)),
                 "days_since_last": int(row.get('Jours_Depuis_Blessure', 999))
@@ -532,6 +611,44 @@ def get_player_data(model: str = 'lgbm'):
             "recommendation_details": insight,
             "historique_jours": player_hist_dict.get(name_val, {})
         })
+        
+        # Recovery estimation for injured players
+        if int(row.get('Est_Blesse') or 0) == 1:
+            injury_type_str = str(row.get('Injury_Type_Text') or '')
+            # Estimate recovery days based on historical averages by injury type
+            recovery_estimates = {
+                'cruciate ligament tear': 253, 'cruciate ligament injury': 238,
+                'cruciate ligament surgery': 227, 'achilles tendon rupture': 212,
+                'metatarsal fracture': 120, 'tibia and fibula fracture': 180,
+                'broken leg': 164, 'knee surgery': 90, 'ankle surgery': 75,
+                'knee injury': 42, 'knee problems': 28, 'ankle injury': 28,
+                'hamstring injury': 21, 'muscle injury': 18, 'calf injury': 21,
+                'thigh problems': 18, 'groin injury': 21, 'shoulder injury': 35,
+                'back injury': 21, 'hip injury': 28, 'muscular problems': 14,
+                'muscle fatigue': 10, 'knock': 7, 'minor knock': 5,
+                'dead leg': 7, 'adductor pain': 14, 'unknown injury': 21,
+                'syndesmosis ligament tear': 90, 'inner ligament injury': 60,
+                'partial damage to the cruciate ligament': 120, 'foot injury': 28,
+                'leg injury': 28, 'fitness': 7
+            }
+            avg_days = recovery_estimates.get(injury_type_str.lower(), 21)
+            
+            # Estimate days already injured (from Jours_Depuis_Blessure if available, else 0)
+            days_injured = int(row.get('Jours_Depuis_Blessure') or 0)
+            if days_injured > 500:  # 999 = sentinel for "no injury data"
+                days_injured = 0
+            
+            days_remaining = max(1, avg_days - days_injured)
+            recovery_pct = min(95, int((days_injured / max(1, avg_days)) * 100))
+            
+            player["recovery"] = {
+                "avg_recovery_days": avg_days,
+                "days_injured": days_injured,
+                "days_remaining": days_remaining,
+                "recovery_pct": recovery_pct,
+                "estimated_return": f"J + {days_remaining}"
+            }
+        
         players_list.append(player)
     
     if players_list:

@@ -7292,7 +7292,7 @@
                 </div>
 
                 <div class="grid grid-cols-1 md:grid-cols-5 gap-6 items-end">
-                    <div class="filter-group-clean relative md:col-span-2">
+                    <div class="filter-group-clean relative md:col-span-4">
                         <label>JOUEUR CIBLE</label>
                         <input type="text" id="similaritySearchInput" placeholder="ENTREZ LE NOM D'UN JOUEUR CIBLE..."
                             class="elite-input w-full" autocomplete="off">
@@ -7300,28 +7300,6 @@
                         <div id="similaritySuggestions"
                             class="absolute left-0 right-0 top-[100%] mt-2 bg-black/80 border border-white/10 rounded-xl shadow-2xl z-50 hidden max-h-[350px] overflow-y-auto backdrop-blur-xl">
                         </div>
-                    </div>
-
-                    <div class="filter-group-clean md:col-span-2">
-                        <div class="flex items-center justify-between" style="margin-bottom: 0.5rem;">
-                            <label style="margin-bottom: 0;">SÉLECTEUR STRATÉGIQUE</label>
-                            <span id="alphaValueDisplay"
-                                class="font-mono text-[9px] text-[#D49A36] uppercase tracking-widest font-bold">MODE:
-                                ÉQUILIBRÉ</span>
-                        </div>
-                        <div
-                            class="flex bg-[#0a0f18]/60 p-1 rounded-xl border border-white/10 shadow-[inset_0_2px_4px_rgba(0,0,0,0.5)] h-[40px] items-center">
-                            <button onclick="setAlphaMode(0.2, 'Potentiel')"
-                                class="alpha-btn flex-1 h-full rounded-lg font-mono text-[10px] font-bold tracking-widest transition-all text-white/40 hover:text-white"
-                                id="btn-alpha-0.2">POTENTIEL</button>
-                            <button onclick="setAlphaMode(0.5, 'Équilibré')"
-                                class="alpha-btn flex-1 h-full rounded-lg font-mono text-[10px] font-bold tracking-widest transition-all bg-[#D49A36] text-black shadow-[0_0_15px_rgba(212,154,54,0.3)]"
-                                id="btn-alpha-0.5">ÉQUILIBRÉ</button>
-                            <button onclick="setAlphaMode(0.8, 'Performance')"
-                                class="alpha-btn flex-1 h-full rounded-lg font-mono text-[10px] font-bold tracking-widest transition-all text-white/40 hover:text-white"
-                                id="btn-alpha-0.8">PERFORMANCE</button>
-                        </div>
-                        <input type="hidden" id="alphaSlider" value="0.5">
                     </div>
 
                     <div class="filter-group-clean flex flex-col justify-end">
@@ -8727,7 +8705,77 @@
 
     </div>
 
-    <!-- PLANIFICATEUR DE ROTATION TACTIQUE EN PLEINE LARGEUR -->
+    <!-- PLANIFICATEUR DE ROTATION TACTIQUE / CALENDRIER RÉTABLISSEMENT -->
+    ${p.current_injury === 1 ? `
+    <!-- MODE RÉTABLISSEMENT (Joueur blessé) — Slider interactif -->
+    <div style="margin-top: 40px; padding-top: 40px; border-top: 1px solid rgba(28,25,23,0.05);">
+        <div class="slbl-elite" style="margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-weight: 700; letter-spacing: 0.08em; color: #dc2626;">🏥 CALENDRIER DE RÉTABLISSEMENT</span>
+            <span id="recoveryDayLabel" style="font-family:var(--font-mono); font-size: 10px; background: rgba(220,38,38,0.08); color: #dc2626; padding: 5px 12px; border-radius: 6px; border: 1px solid rgba(220,38,38,0.2);">J + 0 — BLESSÉ</span>
+        </div>
+        
+        <div style="background: rgba(28,25,23,0.02); border: 1px solid rgba(28,25,23,0.05); border-radius: 24px; padding: 30px;"
+             data-recovery-days="${p.recovery ? p.recovery.days_remaining : 21}"
+             data-recovery-avg="${p.recovery ? p.recovery.avg_recovery_days : 21}"
+             data-fatigue-score="${p.fatigue_score || 0}"
+             data-injury-type="${p.injury_type || 'Blessure'}"
+             id="recoveryContainer">
+            
+            <!-- Slider J+0 → J+max -->
+            <input type="range" min="0" max="${Math.max(30, (p.recovery ? p.recovery.days_remaining : 21) + 15)}" value="0" step="1" class="athletic-slider" id="recoverySlider" style="width: 100%; margin-bottom: 30px;" oninput="updateRecoverySlider()">
+            
+            <!-- Zone BLESSÉ (visible à J+0) -->
+            <div id="recoveryZoneBlesse" style="display: block;">
+                <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px;">
+                    <div style="background: #ffffff; border: 1px solid rgba(220,38,38,0.1); border-left: 4px solid #dc2626; border-radius: 12px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                        <div style="font-family: var(--font-mono); font-size: 9px; color: #dc2626; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 8px;">Diagnostic</div>
+                        <div style="font-size: 13px; font-family: var(--font-main); font-weight: 800; color: #1C1917; line-height: 1.3;">${p.injury_type || 'Blessure non spécifiée'}</div>
+                    </div>
+                    <div style="background: #ffffff; border: 1px solid rgba(28,25,23,0.05); border-left: 4px solid var(--gold); border-radius: 12px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                        <div style="font-family: var(--font-mono); font-size: 9px; color: var(--gold); text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 8px;">Durée moyenne</div>
+                        <div style="font-size: 28px; font-family: var(--font-main); font-weight: 900; color: var(--gold);">${p.recovery ? p.recovery.avg_recovery_days : '?'}<span style="font-size: 12px; font-weight: 400; color: #78716C;"> jours</span></div>
+                    </div>
+                    <div style="background: #ffffff; border: 1px solid rgba(28,25,23,0.05); border-left: 4px solid #16a34a; border-radius: 12px; padding: 16px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                        <div style="font-family: var(--font-mono); font-size: 9px; color: #16a34a; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 8px;">Retour estimé</div>
+                        <div style="font-size: 28px; font-family: var(--font-main); font-weight: 900; color: #16a34a;">${p.recovery ? p.recovery.estimated_return : 'J + ?'}</div>
+                    </div>
+                </div>
+                
+                <!-- Barre de progression -->
+                <div style="margin-top: 20px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+                        <span style="font-family: var(--font-mono); font-size: 9px; color: #78716C; text-transform: uppercase; letter-spacing: 0.15em;">Guérison</span>
+                        <span id="recoveryPctLabel" style="font-family: var(--font-main); font-size: 13px; font-weight: 900; color: #dc2626;">0%</span>
+                    </div>
+                    <div style="width: 100%; height: 8px; background: rgba(28,25,23,0.05); border-radius: 8px; overflow: hidden;">
+                        <div id="recoveryProgressBar" style="width: 0%; height: 100%; border-radius: 8px; background: linear-gradient(90deg, #dc2626, var(--gold)); transition: width 0.3s ease;"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Zone RETOUR (visible après guérison) -->
+            <div id="recoveryZoneRetour" style="display: none;">
+                <div style="text-align: center; margin-bottom: 20px;">
+                    <div style="display: inline-flex; align-items: center; gap: 8px; background: rgba(22,163,106,0.08); border: 1px solid rgba(22,163,106,0.2); padding: 8px 20px; border-radius: 8px;">
+                        <span style="font-size: 16px;">✅</span>
+                        <span style="font-family: var(--font-mono); font-size: 11px; font-weight: 800; color: #16a34a; text-transform: uppercase; letter-spacing: 0.1em;">Joueur apte — Retour autorisé</span>
+                    </div>
+                </div>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                    <div style="background: #ffffff; border: 1px solid rgba(28,25,23,0.05); border-left: 4px solid var(--gold); border-radius: 12px; padding: 20px; display:flex; justify-content:space-between; align-items:center; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                        <div style="font-family: var(--font-mono); font-size: 10px; color: var(--gold); text-transform: uppercase; letter-spacing: 0.15em;">Fatigue si Repos</div>
+                        <div id="recoveryFatigueValue" style="font-size: 32px; font-family: var(--font-main); font-weight: 900; color: var(--gold);">-- %</div>
+                    </div>
+                    <div style="background: #ffffff; border: 1px solid rgba(28,25,23,0.05); border-left: 4px solid #dc2626; border-radius: 12px; padding: 20px; display:flex; justify-content:space-between; align-items:center; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                        <div style="font-family: var(--font-mono); font-size: 10px; color: #dc2626; text-transform: uppercase; letter-spacing: 0.15em;">Risque si Joue (90')</div>
+                        <div id="recoveryRiskValue" style="font-size: 32px; font-family: var(--font-main); font-weight: 900; color: #dc2626;">-- %</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    ` : `
+    <!-- MODE ROTATION (Joueur apte) -->
     <div style="margin-top: 40px; padding-top: 40px; border-top: 1px solid rgba(28,25,23,0.05);">
         <div class="slbl-elite" style="margin-bottom: 20px; display: flex; justify-content: space-between; align-items: center;">
             <span style="font-weight: 700; letter-spacing: 0.08em; color: var(--gold);">PLANIFICATEUR DE ROTATION (PROCHAIN MATCH)</span>
@@ -8735,7 +8783,7 @@
         </div>
         
         <div style="background: rgba(28,25,23,0.02); border: 1px solid rgba(28,25,23,0.05); border-radius: 24px; padding: 30px;">
-            <input type="range" min="1" max="10" value="4" step="0.5" class="athletic-slider" id="simRestSlider" style="width: 100%; margin-bottom: 30px;" oninput="updateFutureSim('${p.name}')">
+            <input type="range" min="1" max="10" value="4" step="0.5" class="athletic-slider" id="simRestSlider" style="width: 100%; margin-bottom: 30px;" oninput="updateFutureSim('\${p.name}')">
             
             <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 30px;">
                 <!-- JAUGE A : REPOS SEUL -->
@@ -8750,10 +8798,9 @@
                     <div id="simPostMatchLevel" style="font-size: 32px; font-family: var(--font-main); font-weight: 900; color: #dc2626;">-- %</div>
                 </div>
             </div>
-
-
         </div>
     </div>
+    `}
 
   </div>
 
@@ -11255,6 +11302,74 @@
             }
         };
 
+        // --- CALENDRIER DE RÉTABLISSEMENT (Joueurs blessés) ---
+        window.updateRecoverySlider = function() {
+            const slider = document.getElementById('recoverySlider');
+            const container = document.getElementById('recoveryContainer');
+            const dayLabel = document.getElementById('recoveryDayLabel');
+            const zoneBlesse = document.getElementById('recoveryZoneBlesse');
+            const zoneRetour = document.getElementById('recoveryZoneRetour');
+            const progressBar = document.getElementById('recoveryProgressBar');
+            const pctLabel = document.getElementById('recoveryPctLabel');
+            const fatigueVal = document.getElementById('recoveryFatigueValue');
+            const riskVal = document.getElementById('recoveryRiskValue');
+
+            if (!slider || !container) return;
+
+            const day = parseInt(slider.value);
+            const daysRemaining = parseInt(container.dataset.recoveryDays) || 21;
+            const avgDays = parseInt(container.dataset.recoveryAvg) || 21;
+            const baseFatigue = parseFloat(container.dataset.fatigueScore) || 30;
+            const injuryType = container.dataset.injuryType || 'Blessure';
+
+            // Player is still injured
+            if (day < daysRemaining) {
+                const pct = Math.min(95, Math.round(((day) / daysRemaining) * 100));
+                
+                dayLabel.textContent = day === 0 ? 'J + 0 — BLESSÉ' : `J + ${day} — EN RÉÉDUCATION`;
+                dayLabel.style.background = 'rgba(220,38,38,0.08)';
+                dayLabel.style.color = '#dc2626';
+                dayLabel.style.borderColor = 'rgba(220,38,38,0.2)';
+                
+                zoneBlesse.style.display = 'block';
+                zoneRetour.style.display = 'none';
+                
+                // Update progress bar
+                const barColor = pct > 70 ? '#16a34a' : (pct > 40 ? '#B45309' : '#dc2626');
+                progressBar.style.width = pct + '%';
+                progressBar.style.background = `linear-gradient(90deg, #dc2626, ${barColor})`;
+                pctLabel.textContent = pct + '%';
+                pctLabel.style.color = barColor;
+            } else {
+                // Player is recovered — show fatigue/risk predictions
+                const daysPostRecovery = day - daysRemaining;
+                
+                dayLabel.textContent = `J + ${day} — ✅ APTE AU RETOUR`;
+                dayLabel.style.background = 'rgba(22,163,106,0.08)';
+                dayLabel.style.color = '#16a34a';
+                dayLabel.style.borderColor = 'rgba(22,163,106,0.2)';
+                
+                zoneBlesse.style.display = 'none';
+                zoneRetour.style.display = 'block';
+                
+                // Simulate fatigue decay after recovery
+                // Post-injury fatigue starts high (~60%) and decreases with rest days
+                const postInjuryBaseFatigue = 60;
+                const decayRate = 0.85; // 15% reduction per day of rest
+                const fatigueIfRest = Math.max(5, postInjuryBaseFatigue * Math.pow(decayRate, daysPostRecovery));
+                
+                // Risk if plays = higher fatigue + match load
+                const matchLoad = 25 + (daysPostRecovery < 3 ? 15 : (daysPostRecovery < 7 ? 8 : 0));
+                const riskIfPlays = Math.min(98, fatigueIfRest + matchLoad);
+                
+                fatigueVal.textContent = fatigueIfRest.toFixed(1) + '%';
+                fatigueVal.style.color = fatigueIfRest > 45 ? '#dc2626' : (fatigueIfRest > 25 ? '#B45309' : '#059669');
+                
+                riskVal.textContent = riskIfPlays.toFixed(1) + '%';
+                riskVal.style.color = riskIfPlays > 75 ? '#dc2626' : (riskIfPlays > 50 ? '#B45309' : '#059669');
+            }
+        };
+
         function renderSimilarityCards(candidates) {
             const container = document.getElementById('similarityResults');
             if (!container) return;
@@ -11391,21 +11506,25 @@
             let defScore = def * 0.8;
             let totalActivity = offScore + defScore + 0.1;
 
-            // Position de base par poste pour le réalisme
+            // Position de base par poste (nouveaux tags)
             let baseY = 50;
             if (player.native_pos === 'ATT') baseY = 15;
-            else if (player.native_pos === 'MOF') baseY = 40;
-            else if (player.native_pos === 'DEF') baseY = 75;
+            else if (player.native_pos === 'WING') baseY = 25;
+            else if (player.native_pos === 'MOF' || player.native_pos === 'MC') baseY = 45;
+            else if (player.native_pos === 'MDF') baseY = 60;
+            else if (player.native_pos === 'FB') baseY = 70;
+            else if (player.native_pos === 'CB' || player.native_pos === 'DEF') baseY = 80;
             else if (player.native_pos === 'GK') baseY = 90;
 
             // Ajustement dynamique par les stats
-            let yShift = (defScore / totalActivity) * 40 - (offScore / totalActivity) * 20;
-            let finalY = Math.max(10, Math.min(90, baseY + yShift));
+            let yShift = (defScore / totalActivity) * 30 - (offScore / totalActivity) * 20;
+            let finalY = Math.max(5, Math.min(95, baseY + yShift));
 
             // Calcul de la Largeur (X) : 10% (Gauche) à 90% (Droite)
-            // Les dribbleurs sont souvent excentrés.
-            let lateralBias = (dribbles > 1.5) ? (seed % 2 === 0 ? 25 : 75) : 50;
-            let finalX = lateralBias + (seed % 10 - 5); // Petit jitter pour l'unicité
+            // FB et WING sont toujours excentrés
+            let isWide = ['FB', 'WING'].includes(player.native_pos) || dribbles > 2.0;
+            let lateralBias = isWide ? (seed % 2 === 0 ? 15 : 85) : 50;
+            let finalX = lateralBias + (seed % 6 - 3); // Petit jitter pour l'unicité
 
             if (heatmap) {
                 heatmap.style.top = `${finalY}%`;
@@ -11429,8 +11548,8 @@
             const cons = reasons.filter(r => r.toLowerCase().includes('âge') || r.toLowerCase().includes('précoce')).slice(0, 1);
             if (cons.length === 0) cons.push("Volume défensif à optimiser selon le système");
 
-            prosList.innerHTML = pros.map(p => `<li class="flex items-start gap-2 text-[10px] text-emerald-400/80 font-medium leading-tight mb-1"><i data-lucide="check" class="w-3 h-3 mt-0.5 shrink-0"></i> ${p}</li>`).join('');
-            consList.innerHTML = cons.map(c => `<li class="flex items-start gap-2 text-[10px] text-red-400/80 font-medium leading-tight mb-1"><i data-lucide="minus" class="w-3 h-3 mt-0.5 shrink-0"></i> ${c}</li>`).join('');
+            prosList.innerHTML = pros.map(p => `<li class="text-xs text-slate-700 font-inter leading-relaxed mb-2">• ${p}</li>`).join('');
+            consList.innerHTML = cons.map(c => `<li class="text-xs text-slate-700 font-inter leading-relaxed mb-2">• ${c}</li>`).join('');
 
             // --- 6. TABLEAU STATISTIQUE FACE-À-FACE ---
             const statsTable = document.getElementById('detailsStatsTable');
@@ -11455,18 +11574,18 @@
                 if (key === 'distanceRun' && valA > 1000) valA /= 1000;
 
                 const diff = valB - valA;
-                const diffColor = diff > 0 ? 'text-emerald-400' : (diff < 0 ? 'text-red-400' : 'text-white/20');
+                const diffColor = diff > 0 ? 'text-emerald-600' : (diff < 0 ? 'text-red-600' : 'text-slate-300');
                 const diffSymbol = diff > 0 ? '+' : '';
 
                 tableHtml += `
-                    <div class="scout-stat-row flex justify-between items-center group/row py-1 border-b border-white/5 last:border-0">
-                        <span class="font-mono text-[9px] text-white/30 uppercase tracking-widest group-hover/row:text-white/60 transition-colors">${label}</span>
+                    <div class="scout-stat-row flex justify-between items-center group/row py-1 border-b border-slate-100 last:border-0">
+                        <span class="font-mono text-[9px] text-slate-500 uppercase tracking-widest group-hover/row:text-slate-700 transition-colors">${label}</span>
                         <div class="flex gap-4 items-center">
-                            <span class="font-outfit font-black text-xs text-white w-12 text-right">${valB.toFixed(2)}</span>
-                            <div class="w-[1px] h-3 bg-white/10"></div>
+                            <span class="font-outfit font-black text-xs text-[#1C1917] w-12 text-right">${valB.toFixed(2)}</span>
+                            <div class="w-[1px] h-3 bg-slate-200"></div>
                             <span class="font-mono text-[9px] font-bold ${diffColor} min-w-[45px] text-center">${diffSymbol}${diff.toFixed(2)}</span>
-                            <div class="w-[1px] h-3 bg-white/10"></div>
-                            <span class="font-outfit font-bold text-xs text-white/30 w-12 text-left">${valA.toFixed(2)}</span>
+                            <div class="w-[1px] h-3 bg-slate-200"></div>
+                            <span class="font-outfit font-bold text-xs text-slate-400 w-12 text-left">${valA.toFixed(2)}</span>
                         </div>
                     </div>
                 `;
@@ -11500,11 +11619,11 @@
                         {
                             label: `${player.target_name || 'Cible'}`,
                             data: featKeys.map(k => player.target_radar_stats[k]),
-                            backgroundColor: 'rgba(255, 255, 255, 0.1)',
-                            borderColor: 'rgba(255, 255, 255, 0.4)',
+                            backgroundColor: 'rgba(0, 0, 0, 0.05)',
+                            borderColor: 'rgba(0, 0, 0, 0.2)',
                             borderWidth: 2,
                             borderDash: [5, 5],
-                            pointBackgroundColor: 'rgba(255, 255, 255, 0.6)',
+                            pointBackgroundColor: 'rgba(0, 0, 0, 0.3)',
                             pointRadius: 2,
                             tension: 0.35,
                             z: 5
@@ -11514,10 +11633,10 @@
                 options: {
                     scales: {
                         r: {
-                            angleLines: { color: 'rgba(255, 255, 255, 0.1)' },
-                            grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                            angleLines: { color: 'rgba(0, 0, 0, 0.1)' },
+                            grid: { color: 'rgba(0, 0, 0, 0.05)' },
                             pointLabels: {
-                                color: 'rgba(255, 255, 255, 0.4)',
+                                color: '#64748b', // slate-500
                                 font: { size: 10, family: 'Outfit', weight: '900' },
                                 padding: 20
                             },
@@ -11531,7 +11650,7 @@
                             display: true,
                             position: 'bottom',
                             labels: {
-                                color: 'rgba(255, 255, 255, 0.7)',
+                                color: '#475569', // slate-600
                                 font: { size: 11, family: 'Outfit', weight: 'bold' },
                                 boxWidth: 15,
                                 padding: 25,
@@ -11563,22 +11682,22 @@
         };
     </script>
 
-    <div id="detailsModal" class="modal-overlay" style="z-index: 10000;"
+    <div id="detailsModal" class="modal-overlay bg-slate-900/60 backdrop-blur-md" style="z-index: 10000;"
         onclick="if(event.target===this) closeDetailsModal()">
-        <div class="modal-elite-content flex flex-col">
+        <div class="modal-elite-content flex flex-col bg-[#f8fafc] border border-slate-200">
             <!-- Header Elite -->
-            <div class="py-6 px-8 border-b border-white/5 flex items-center justify-between bg-white/[0.02]">
+            <div class="py-6 px-8 border-b border-slate-200 flex items-center justify-between bg-white">
                 <div class="flex items-center gap-6">
                     <div id="detailsRank"
-                        class="w-14 h-14 rounded-2xl bg-[#D49A36] flex items-center justify-center font-outfit font-black text-2xl text-black shadow-[0_0_20px_rgba(212, 154, 54,0.3)]">
+                        class="w-14 h-14 rounded-2xl bg-[#D49A36] flex items-center justify-center font-outfit font-black text-2xl text-white shadow-lg">
                         01</div>
                     <div>
                         <h2 id="detailsName"
-                            class="font-outfit font-black text-4xl text-white uppercase tracking-tighter leading-none mb-1">
+                            class="font-outfit font-black text-4xl text-[#1C1917] uppercase tracking-tighter leading-none mb-1">
                             NOM DU JOUEUR</h2>
                         <div class="flex items-center gap-3">
                             <span id="detailsClub"
-                                class="font-mono text-[10px] text-white/40 uppercase tracking-[0.2em] font-bold">CLUB
+                                class="font-mono text-[10px] text-slate-500 uppercase tracking-[0.2em] font-bold">CLUB
                                 ACTUEL</span>
                             <span class="w-1.5 h-1.5 rounded-full bg-[#D49A36]/30"></span>
                             <span id="detailsArchetypeBadge"
@@ -11588,8 +11707,8 @@
                 </div>
 
                 <div class="flex items-center gap-6">
-                    <div class="text-right pr-6 border-r border-white/5">
-                        <span class="block font-mono text-[8px] text-white/30 uppercase tracking-widest mb-1">SCORE
+                    <div class="text-right pr-6 border-r border-slate-200">
+                        <span class="block font-mono text-[8px] text-slate-400 uppercase tracking-widest mb-1">SCORE
                             SIMILARITÉ</span>
                         <span id="detailsSimilarityScore"
                             class="font-outfit font-black text-2xl text-[#D49A36] leading-none">0%</span>
@@ -11597,14 +11716,14 @@
 
                     <div class="flex items-center gap-3">
                         <button onclick="exportToPDF()"
-                            class="export-btn flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/70 font-outfit font-black text-[10px] uppercase tracking-widest hover:bg-[#D49A36] hover:text-black hover:border-[#D49A36] transition-all">
+                            class="export-btn flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white border border-slate-200 text-slate-600 font-outfit font-black text-[10px] uppercase tracking-widest hover:bg-slate-50 hover:text-[#1C1917] transition-all shadow-sm">
                             <i data-lucide="download" class="w-4 h-4"></i> EXPORT PDF
                         </button>
 
                         <button onclick="closeDetailsModal()"
-                            class="close-modal-btn w-11 h-11 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-red-500/20 hover:border-red-500/30 transition-all group">
+                            class="close-modal-btn w-11 h-11 rounded-full bg-white border border-slate-200 flex items-center justify-center hover:bg-red-50 hover:border-red-200 transition-all shadow-sm group">
                             <i data-lucide="x"
-                                class="w-5 h-5 text-white/30 group-hover:text-red-500 transition-colors"></i>
+                                class="w-5 h-5 text-slate-400 group-hover:text-red-500 transition-colors"></i>
                         </button>
                     </div>
                 </div>
@@ -11617,28 +11736,28 @@
                         <div class="flex items-center justify-between mb-6">
                             <div class="flex items-center gap-3">
                                 <i data-lucide="radar" class="w-5 h-5 text-[#D49A36]"></i>
-                                <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">
+                                <h3 class="font-outfit font-black text-sm text-slate-500 uppercase tracking-[0.2em]">
                                     Profil Comparatif Multivarié</h3>
                             </div>
                         </div>
 
                         <div
-                            class="w-full max-w-[450px] aspect-square relative mx-auto bg-white/5 rounded-full p-4 border border-white/5 shadow-inner">
+                            class="w-full max-w-[450px] aspect-square relative mx-auto bg-white rounded-full p-4 border border-slate-200 shadow-sm">
                             <canvas id="radarChart"></canvas>
                         </div>
 
                         <div class="mt-8 grid grid-cols-2 gap-6">
-                            <div class="bg-emerald-500/5 border border-emerald-500/10 rounded-2xl p-6">
+                            <div class="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
                                 <h4
-                                    class="font-mono text-[10px] text-emerald-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
-                                    <i data-lucide="trending-up" class="w-3 h-3"></i> Points Forts
+                                    class="font-outfit text-sm text-emerald-600 font-bold uppercase tracking-widest mb-4 flex items-center gap-2">
+                                    Points Forts
                                 </h4>
                                 <ul id="detailsPros" class="space-y-3"></ul>
                             </div>
-                            <div class="bg-red-500/5 border border-red-500/10 rounded-2xl p-6">
+                            <div class="bg-white border border-slate-200 rounded-xl p-6 shadow-sm">
                                 <h4
-                                    class="font-mono text-[10px] text-red-400 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
-                                    <i data-lucide="trending-down" class="w-3 h-3"></i> Limites
+                                    class="font-outfit text-sm text-red-600 font-bold uppercase tracking-widest mb-4 flex items-center gap-2">
+                                    Limites
                                 </h4>
                                 <ul id="detailsCons" class="space-y-3"></ul>
                             </div>
@@ -11647,45 +11766,45 @@
 
                     <div class="space-y-6">
                         <!-- HEATMAP TACTIQUE SECTION -->
-                        <div class="bg-white/5 border border-white/5 rounded-2xl p-6">
+                        <div class="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
                             <div class="flex items-center justify-between mb-6">
                                 <div class="flex items-center gap-3">
                                     <i data-lucide="map" class="w-4 h-4 text-[#D49A36]"></i>
                                     <h3
-                                        class="font-outfit font-black text-[10px] text-white/40 uppercase tracking-[0.2em]">
+                                        class="font-outfit font-black text-[10px] text-slate-500 uppercase tracking-[0.2em]">
                                         Positionnement Tactique & Influence</h3>
                                 </div>
                                 <span id="detailsHeatmapLabel"
-                                    class="font-mono text-[9px] text-[#D49A36] font-bold uppercase tracking-widest text-right">ZONE
+                                    class="font-mono text-[9px] text-[#D49A36] font-bold uppercase tracking-widest text-right whitespace-nowrap">ZONE
                                     ACTIVE</span>
                             </div>
 
                             <div class="flex gap-8 items-center">
-                                <div class="w-32 h-48 pitch-container flex-shrink-0">
-                                    <div class="pitch-line w-full h-[1px] top-1/2"></div>
-                                    <div class="pitch-line w-[1px] h-full left-1/2"></div>
-                                    <div class="pitch-center-circle"></div>
-                                    <div class="pitch-area top-0 border-t-0"></div>
-                                    <div class="pitch-area bottom-0 border-b-0"></div>
-                                    <div id="heatmapPoint" class="heatmap-glow"></div>
+                                <div class="w-32 h-48 flex-shrink-0 relative overflow-hidden rounded-xl border border-slate-200 bg-slate-50">
+                                    <div class="absolute w-full h-[1px] top-1/2 bg-slate-200"></div>
+                                    <div class="absolute w-[1px] h-full left-1/2 bg-slate-200"></div>
+                                    <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[30%] h-[20%] border border-slate-200 rounded-full"></div>
+                                    <div class="absolute top-0 left-[25%] w-[50%] h-[15%] border border-slate-200 border-t-0"></div>
+                                    <div class="absolute bottom-0 left-[25%] w-[50%] h-[15%] border border-slate-200 border-b-0"></div>
+                                    <div id="heatmapPoint" class="heatmap-glow" style="box-shadow: 0 0 30px 15px rgba(212, 154, 54, 0.4); background: rgba(212, 154, 54, 0.6);"></div>
                                 </div>
 
                                 <div class="flex-1 space-y-4">
-                                    <div class="p-4 bg-white/5 rounded-xl border border-white/5">
+                                    <div class="p-4 bg-slate-50 rounded-xl border border-slate-200">
                                         <p id="detailsTacticalNote"
-                                            class="text-[11px] text-white/60 font-inter leading-relaxed italic">--</p>
+                                            class="text-[11px] text-slate-600 font-inter leading-relaxed italic">--</p>
                                     </div>
                                     <div class="flex items-center gap-2">
                                         <div class="flex -space-x-2">
                                             <div
-                                                class="w-6 h-6 rounded-full bg-[#D49A36]/20 border border-[#D49A36]/30 flex items-center justify-center font-mono text-[8px] text-[#D49A36] font-black">
+                                                class="w-6 h-6 rounded-full bg-amber-50 border border-amber-200 flex items-center justify-center font-mono text-[8px] text-amber-600 font-black relative z-10">
                                                 1</div>
                                             <div
-                                                class="w-6 h-6 rounded-full bg-white/5 border border-white/10 flex items-center justify-center font-mono text-[8px] text-white/30 font-black">
+                                                class="w-6 h-6 rounded-full bg-slate-100 border border-slate-200 flex items-center justify-center font-mono text-[8px] text-slate-400 font-black relative z-0">
                                                 2</div>
                                         </div>
                                         <span
-                                            class="font-mono text-[8px] text-white/30 uppercase tracking-widest">Capacité
+                                            class="font-mono text-[8px] text-slate-500 uppercase tracking-widest">Capacité
                                             Multi-Poste Détectée</span>
                                     </div>
                                 </div>
@@ -11696,11 +11815,11 @@
                             <div class="flex items-center justify-between mb-6">
                                 <div class="flex items-center gap-3">
                                     <i data-lucide="bar-chart-3" class="w-5 h-5 text-[#D49A36]"></i>
-                                    <h3 class="font-outfit font-black text-sm text-white/40 uppercase tracking-[0.2em]">
+                                    <h3 class="font-outfit font-black text-sm text-slate-500 uppercase tracking-[0.2em]">
                                         Face-à-Face Statistique (P90)</h3>
                                 </div>
                                 <div
-                                    class="flex gap-6 font-mono text-[8px] text-white/30 uppercase tracking-widest font-black">
+                                    class="flex gap-6 font-mono text-[8px] text-slate-400 uppercase tracking-widest font-black">
                                     <span>Joueur</span>
                                     <span>Ecart</span>
                                     <span>Cible</span>
@@ -11709,25 +11828,23 @@
                             <div id="detailsStatsTable" class="grid grid-cols-1 gap-2"></div>
                         </div>
 
-                        <div
-                            class="bg-gradient-to-br from-[#D49A36] to-[#B88029] p-6 rounded-3xl relative overflow-hidden group">
-                            <i data-lucide="shield-check"
-                                class="absolute -right-4 -bottom-4 w-32 h-32 text-black/10 -rotate-12 group-hover:rotate-0 transition-transform duration-700"></i>
-                            <div class="relative z-10 text-black">
-                                <h4
-                                    class="font-outfit font-black text-xs uppercase tracking-[0.3em] mb-4 flex items-center gap-2 opacity-60">
-                                    <i data-lucide="award" class="w-4 h-4"></i> Verdict Analyste
-                                </h4>
-                                <div class="flex items-end justify-between gap-6">
-                                    <p id="detailsVerdict"
-                                        class="font-outfit font-black text-3xl leading-tight uppercase italic shrink-0">
-                                        Signature Recommandée</p>
-                                    <p id="detailsVerdictDesc"
-                                        class="text-[10px] opacity-80 font-medium leading-relaxed text-right font-inter">
-                                        Analyse tactique en cours...
-                                    </p>
-                                </div>
-                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- VERDICT ANALYSTE FULL WIDTH -->
+                <div class="mt-8 bg-white border border-slate-200 p-6 rounded-2xl shadow-sm">
+                    <div class="text-[#1C1917]">
+                        <h4 class="font-mono text-[10px] text-slate-500 font-black uppercase tracking-widest mb-4 flex items-center gap-2">
+                            <i data-lucide="award" class="w-3 h-3 text-[#D49A36]"></i> Verdict Analyste
+                        </h4>
+                        <div class="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
+                            <p id="detailsVerdict" class="font-outfit font-black text-2xl md:text-3xl leading-none uppercase italic text-amber-600 shrink-0">
+                                Signature Recommandée
+                            </p>
+                            <p id="detailsVerdictDesc" class="text-xs text-slate-600 font-medium leading-relaxed font-inter md:max-w-[60%]">
+                                Analyse tactique en cours...
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -11780,6 +11897,7 @@
             const heroIa = document.getElementById('hero-similarity');
             const btnClassic = document.getElementById('btn-mode-classic');
             const btnIa = document.getElementById('btn-mode-ia');
+            const dashboardDataContent = document.getElementById('dashboardDataContent');
 
             if (mode === 'classic') {
                 // UI Buttons
@@ -11799,6 +11917,11 @@
 
                     classicSec.classList.remove('hidden');
                     if (heroClassic) heroClassic.classList.remove('hidden');
+                    
+                    // Show fatigue dashboard if it was previously populated
+                    if (dashboardDataContent && dashboardDataContent.dataset.active === 'true') {
+                        dashboardDataContent.style.display = 'block';
+                    }
 
                     // Trigger reflow
                     void classicSec.offsetWidth;
@@ -11818,6 +11941,15 @@
                 // Sections
                 classicSec.classList.add('opacity-0');
                 if (heroClassic) heroClassic.classList.add('opacity-0');
+
+                // Hide the fatigue dashboard completely in IA mode
+                if (dashboardDataContent) {
+                    // Remember it was active
+                    if (dashboardDataContent.style.display === 'block' || dashboardDataContent.style.opacity === '1') {
+                        dashboardDataContent.dataset.active = 'true';
+                    }
+                    dashboardDataContent.style.display = 'none';
+                }
 
                 setTimeout(() => {
                     classicSec.classList.add('hidden');

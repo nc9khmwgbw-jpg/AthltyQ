@@ -12,18 +12,24 @@ def normalize_name(name):
     ).lower()
 
 POSITION_FIT = {
-    "ATT": {"ATT": 1.00, "MOF": 0.60, "MDF": 0.10, "DEF": 0.02, "GK": 0.00},
-    "MOF": {"MOF": 1.00, "ATT": 0.70, "MDF": 0.50, "DEF": 0.10, "GK": 0.00},
-    "MDF": {"MDF": 1.00, "MOF": 0.60, "DEF": 0.70, "ATT": 0.10, "GK": 0.00},
-    "DEF": {"DEF": 1.00, "MDF": 0.60, "MOF": 0.10, "ATT": 0.00, "GK": 0.00},
-    "GK": {"GK": 1.00}
+    "ATT": {"ATT": 1.0, "WING": 0.8, "MOF": 0.5, "MC": 0.2, "MDF": 0.1, "CB": 0.0, "FB": 0.1, "GK": 0.0},
+    "WING": {"WING": 1.0, "ATT": 0.8, "MOF": 0.7, "FB": 0.6, "MC": 0.3, "MDF": 0.2, "CB": 0.0, "GK": 0.0},
+    "MOF": {"MOF": 1.0, "WING": 0.7, "ATT": 0.5, "MC": 0.8, "MDF": 0.4, "CB": 0.1, "FB": 0.3, "GK": 0.0},
+    "MC": {"MC": 1.0, "MOF": 0.8, "MDF": 0.8, "WING": 0.4, "ATT": 0.2, "FB": 0.4, "CB": 0.3, "GK": 0.0},
+    "MDF": {"MDF": 1.0, "MC": 0.8, "CB": 0.6, "FB": 0.4, "MOF": 0.4, "WING": 0.1, "ATT": 0.0, "GK": 0.0},
+    "CB": {"CB": 1.0, "FB": 0.4, "MDF": 0.6, "MC": 0.3, "MOF": 0.0, "WING": 0.0, "ATT": 0.0, "GK": 0.0},
+    "FB": {"FB": 1.0, "CB": 0.4, "WING": 0.6, "MDF": 0.4, "MC": 0.4, "MOF": 0.2, "ATT": 0.1, "GK": 0.0},
+    "GK": {"GK": 1.0}
 }
 
 POSTE_MAP = {
-    'CF': 'ATT', 'ST': 'ATT', 'LW': 'ATT', 'RW': 'ATT', 'SS': 'ATT', 'F': 'ATT',
-    'AM': 'MOF', 'CM': 'MOF', 'RM': 'MOF', 'LM': 'MOF', 'M': 'MOF',
+    'CF': 'ATT', 'ST': 'ATT', 'F': 'ATT', 'ATT': 'ATT',
+    'LW': 'WING', 'RW': 'WING', 'AG': 'WING', 'AD': 'WING',
+    'AM': 'MOF', 'RM': 'MOF', 'LM': 'MOF', 'MOF': 'MOF',
+    'CM': 'MC', 'M': 'MC', 'MC': 'MC',
     'DM': 'MDF', 'MDF': 'MDF',
-    'CB': 'DEF', 'LB': 'DEF', 'RB': 'DEF', 'WB': 'DEF', 'D': 'DEF',
+    'CB': 'CB', 'D': 'CB',
+    'LB': 'FB', 'RB': 'FB', 'WB': 'FB',
     'GK': 'GK', 'G': 'GK'
 }
 
@@ -34,11 +40,23 @@ POSITION_WEIGHTS = {
         "Ground_Duels_Won_P90": 0.7, "Dribbles_P90": 1.8,
         "Fatigue_IA": 1.5, "Medical_Risk_Score": 2.0
     },
+    "WING": {
+        "Rating_MA10": 1.0, "xG_P90": 1.5, "xA_P90": 1.8, "Pass_Accuracy": 1.0,
+        "Tackles_P90": 0.5, "distanceRun": 1.2, "Possession_Security": 1.0,
+        "Ground_Duels_Won_P90": 1.0, "Dribbles_P90": 2.0,
+        "Fatigue_IA": 1.5, "Medical_Risk_Score": 2.0
+    },
     "MOF": {
         "Rating_MA10": 1.0, "xG_P90": 0.9, "xA_P90": 2.0, "Pass_Accuracy": 1.5,
         "Tackles_P90": 0.4, "distanceRun": 1.2, "Possession_Security": 1.3,
         "Ground_Duels_Won_P90": 1.0, "Dribbles_P90": 1.5,
         "Fatigue_IA": 1.5, "Medical_Risk_Score": 1.8
+    },
+    "MC": {
+        "Rating_MA10": 1.0, "xG_P90": 0.5, "xA_P90": 1.2, "Pass_Accuracy": 1.8,
+        "Tackles_P90": 1.0, "distanceRun": 1.5, "Possession_Security": 1.5,
+        "Ground_Duels_Won_P90": 1.2, "Dribbles_P90": 1.0,
+        "Fatigue_IA": 1.8, "Medical_Risk_Score": 2.0
     },
     "MDF": {
         "Rating_MA10": 1.0, "xG_P90": 0.2, "xA_P90": 1.0, "Pass_Accuracy": 1.8,
@@ -46,11 +64,17 @@ POSITION_WEIGHTS = {
         "Ground_Duels_Won_P90": 1.5, "Dribbles_P90": 0.5,
         "Fatigue_IA": 2.2, "Medical_Risk_Score": 2.5
     },
-    "DEF": {
+    "CB": {
         "Rating_MA10": 1.2, "xG_P90": 0.1, "xA_P90": 0.2, "Pass_Accuracy": 1.4,
         "Tackles_P90": 2.0, "distanceRun": 1.0, "Possession_Security": 1.2,
         "Ground_Duels_Won_P90": 2.0, "Dribbles_P90": 0.3,
         "Fatigue_IA": 1.8, "Medical_Risk_Score": 2.2
+    },
+    "FB": {
+        "Rating_MA10": 1.0, "xG_P90": 0.3, "xA_P90": 1.5, "Pass_Accuracy": 1.2,
+        "Tackles_P90": 1.5, "distanceRun": 1.8, "Possession_Security": 1.0,
+        "Ground_Duels_Won_P90": 1.5, "Dribbles_P90": 1.2,
+        "Fatigue_IA": 1.8, "Medical_Risk_Score": 2.0
     }
 }
 
@@ -150,7 +174,7 @@ class SimilarityEngine:
                     "full_reasons": full_reasons,
                     "medical_risk": "High" if row_b_raw.get('Medical_Risk_Score', 0) > 0.6 else "Low",
                     "confidence": int(row_b_raw.get('Match_Num', 10)),
-                    "versatility": {p: int(sim_score * POSITION_FIT[cand_pos].get(p, 0.1) * 100) for p in ["ATT", "MOF", "MDF", "DEF"]},
+                    "versatility": {p: int(sim_score * POSITION_FIT[cand_pos].get(p, 0.1) * 100) for p in ["ATT", "WING", "MOF", "MDF", "CB", "FB"]},
                     "raw_stats": {f: round(float(row_b_raw[f]), 2) for f in self.features_list},
                     "target_stats": {f: round(float(row_a_raw[f]), 2) for f in self.features_list},
                     "radar_stats": radar_b,

@@ -1,9 +1,9 @@
 ﻿Nom,Poste_Cat
 Aaron Bibout,AG
-Aaron Herrera,MOF
+Aaron Herrera,MC
 Aaron Hickey,CB
-Aaron Muirhead,MC
-Aaron Tshibola,MC
+Aaron Muirhead,ATT
+Aaron Tshibola,AG
 Aarón Martín,AG
 Abdallah Sima,AG
 Abdel Abqar,CB
@@ -14,21 +14,21 @@ Abderazak Hamdallah,ATT
 Abderrahman Rebbach,MOF
 Abdessamad Ezzalzouli,ATT
 Abdoul Ouattara,MC
-Abdoulaye Doucouré,MOF
+Abdoulaye Doucouré,MC
 Abdoulaye Faye,CB
 Abdoulaye Sissako,MC
-Abdoulaye Touré,MC
-Abdu Conté,LB
-Abdukodir Khusanov,MDF
-Abdul Fatawu Issahaku,ATT
+Abdoulaye Touré,ATT
+Abdu Conté,MC
+Abdukodir Khusanov,LB
+Abdul Fatawu Issahaku,MOF
 Abdulay Juma Bah,CB
 Abdulaziz Al Bishi,AG
 Abdulaziz Al Fawaz,AG
 Abdulaziz Al Hatila,ATT
 Abdulaziz Al-Aliwa,MOF
-Abdulaziz Al-Dwehe,AG
+Abdulaziz Al-Dwehe,ATT
 Abdulaziz Al-Harbi,MC
-Abdulaziz Al-Swealem,LB
+Abdulaziz Al-Swealem,CB
 Abdulaziz Noor,AG
 Abdulelah Al Khaibari,MC
 Abdulelah Al-Amri,LB
@@ -42,7 +42,7 @@ Abdullah Al-Khaibari,CB
 Abdullah Al-Qahtani,AG
 Abdullah Al-Shanqiti,CB
 Abdullah Khateeb,CB
-Abdulmalik Al Oyayari,AG
+Abdulmalik Al Oyayari,CB
 Abdulrahman Al-Dosari,CB
 Abdulrahman Al-Obaid,MOF
 Abdulrahman Alobud,AG
@@ -52,36 +52,40 @@ Abner Vinícius,MC
 Aboubacar Bah,MC
 Abraham Marcus,MOF
 Achraf Hakimi,RB
-Achraf Laaziri,CB
-Adam Armstrong,MC
+Achraf Laaziri,LB
+Adam Armstrong,ATT
 Adam Buksa,AG
-Adam Daghim,ATT
+Adam Daghim,AG
 Adam Forshaw,MDF
 Adam Hložek,ATT
 Adam Idah,AG
+Adam Markhiev,LB
 Adam Marušić,CB
 Adam Obert,MC
-Adam Randell,MC
+Adam Randell,MDF
 Adam Webster,CB
 Adam Wharton,AG
 Adama Camara,MC
-Adama Malouda Traoré,MOF
+Adama Malouda Traoré,AG
 Adedire Mebude,ATT
 Adem Arous,CB
 Adem Zorgane,MOF
 Ademola Lookman,ATT
+Adil Aouchiche,ATT
 Adil Demirbağ,CB
-Adilson Malanda,CB
-Adnane Abid,AG
+Adilson Malanda,MDF
+Adnane Abid,ATT
 Adri Mehmeti,MC
 Adrian Benedyczak,ATT
+Adrian Gantenbein,AG
 Adrian Segečić,ATT
+Adriano Grimaldi,AG
 Adrien Rabiot,ATT
 Adrien Thomasson,MC
 Adrien Truffert,MDF
 Adrià Pedrosa,AG
 Adrián Bernabé,AG
-Adrián Marín,LB
+Adrián Marín,CB
 Adrián de la Fuente,MC
 Afonso Moreira,ATT
 Ageu,LB
@@ -102,43 +106,43 @@ Ahmed Qasem,AG
 Ahmet Oğuz,MC
 Ahmetcan Kaplan,LB
 Aidan Morris,ATT
-Aiden  Hezarkhani,AG
+Aiden  Hezarkhani,ATT
 Aiden McFadden,LB
 Aiden O'Neill,MDF
 Aidomo Emakhu,CB
 Aiham Ousou,ATT
 Aimar Oroz,AG
-Ainsley Maitland-Niles,MC
+Ainsley Maitland-Niles,MDF
 Aitor Ruibal,AG
 Aiyegun Tosin,AG
 Ajani Fortune,CB
 Ajdin Hrustić,ATT
-Aji Alese,CB
+Aji Alese,MC
 Akor Adams,ATT
 Ala'a Al-Hejji,ATT
 Aladji Bamba,AG
 Alan,ATT
 Alan Browne,ATT
-Alan Matturro,CB
+Alan Matturro,MC
 Alan Núñez,MC
 Alan Varela,MC
-Albert Guðmundsson,AG
+Albert Guðmundsson,ATT
 Albert Rusnák,ATT
 Albert Sambi Lokonga,MOF
 Alberto Costa,MOF
 Alberto Grassi,AG
 Alberto Moleiro,MOF
 Alberto Reina,AG
-Albian Hajdari,MDF
+Albian Hajdari,LB
 Alec Van Hoorenbeeck,CB
 Aleix Febas,MC
 Aleix García,MOF
 Alejandro Catena,CB
-Alejandro Francés,LB
-Alejandro Garnacho,AG
+Alejandro Francés,MDF
+Alejandro Garnacho,ATT
 Alejandro Grimaldo,LB
 Alejandro Marqués,AG
-Alejandro Rego,AG
+Alejandro Rego,MDF
 Alejandro Rego Mora,MDF
 Aleksa Purić,CB
 Aleksandar Stanković,ATT
@@ -156,12 +160,15 @@ Alex Bangura,AG
 Alex Bonetig,CB
 Alex Cochrane,MOF
 Alex Iwobi,MOF
-Alex Mowatt,MOF
+Alex Mowatt,ATT
 Alex Muyl,CB
-Alex Roldán,LB
+Alex Roldán,MC
 Alex Scott,ATT
+Alexander Ahl Holmstrom,AG
+Alexander Bernhardsson,AG
 Alexander Gogić,ATT
 Alexander Isak,AG
+Alexander Nollenberger,MOF
 Alexander Prass,AG
 Alexander Sørloth,ATT
 Alexandre Lacazette,ATT
@@ -177,43 +184,44 @@ Alfa Semedo,MC
 Alfie Devine,ATT
 Alfie Doughty,AG
 Alfie Jones,CB
-Alfon González,AG
-Alfons Sampsted,MC
+Alfon González,ATT
+Alfons Sampsted,CB
 Alfonso Trezza,ATT
 Alhassan Yusuf,MC
 Ali Abdi,MC
 Ali Ahmed,ATT
 Ali Al Asmari,MC
-Ali Al Azaizah,AG
+Ali Al Azaizah,ATT
 Ali Al-Bulaihi,CB
 Ali Jasim,ATT
 Ali Lajami,CB
 Ali Majrashi,LB
-Ali McCann,LB
+Ali McCann,MC
 Ali Sowe,ATT
 Ali Youssef,CB
-Alieu Fadera,AG
+Alieu Fadera,ATT
 Alimami Gory,AG
 Alioune Ndoye,AG
-Alisson Santos,ATT
+Alisson Santos,AG
 Alistair Johnston,AG
 Allan,CB
 Allan Saint-Maximin,ATT
-Ally Samatta,AG
-Alonso Coello,MOF
+Ally Samatta,ATT
+Alonso Coello,MC
 Alonso Martínez,ATT
 Alonzo Engwanda,MDF
 Alpha Touré,AG
 Alphonso Davies,AG
 Alvas Powell,CB
 Alysson,AG
-Amad Diallo,ATT
+Amad Diallo,AG
 Amadou Koné,MOF
 Amadou Onana,MC
 Amadou Salif Mbengue,MC
 Amahl Pellegrino,AG
 Amar Dedić,MDF
-Amar Fatah,ATT
+Amar Fatah,AG
+Amara Condé,MC
 Amin Sarr,AG
 Amine Adli,ATT
 Amine Cherni,MOF
@@ -222,20 +230,20 @@ Amine Harit,ATT
 Amine Sbai,ATT
 Amir Hadžiahmetović,MDF
 Amir Murillo,MOF
-Amir Rrahmani,CB
-Amir Saâyoud,AG
+Amir Rrahmani,LB
+Amir Saâyoud,ATT
 Ammar Al Harfi,AG
-Amos Pieper,CB
+Amos Pieper,LB
 Anan Khalaili,MOF
 Anastasios Douvikas,AG
 Ander Barrenetxea,AD
 Ander Guevara,AG
 Anders Dreyer,ATT
-Andoni Gorosabel,MC
+Andoni Gorosabel,MDF
 Andre Brooks,AG
 Andre Dozzell,MC
 Andre Green,AG
-Andrea Belotti,CB
+Andrea Belotti,ATT
 Andrea Cambiaso,RB
 Andrea Pinamonti,AG
 Andreas Christensen,LB
@@ -243,22 +251,22 @@ Andreas Gianniotis,CB
 Andreas Hountondji,AG
 Andreas Ndoj,MC
 Andreas Schjelderup,ATT
-Andrei Girotto,LB
-Andrei Rațiu,MOF
+Andrei Girotto,CB
+Andrei Rațiu,MC
 Andrej Ilić,ATT
 Andrej Kramarić,ATT
 Andres Herrera,MC
-Andres Reyes,LB
+Andres Reyes,CB
 Andrew Gutman,ATT
 Andrew Hughes,MC
-Andrew Omobamidele,CB
+Andrew Omobamidele,LB
 Andrey,MOF
 Andrey Santos,CB
 Andri Fannar Baldursson,CB
 Andri Guðjohnsen,AG
 Andrias Edmundsson,CB
 András Schäfer,AG
-André,CB
+André,MDF
 André Ayew,ATT
 André Lacximicant,AG
 André Silva,ATT
@@ -266,23 +274,24 @@ Andrés Cubas,AG
 Andrés Perea,ATT
 Andy Najar,MC
 Andy Robertson,LB
-Anel Ahmedhodžić,MDF
+Anel Ahmedhodžić,MC
 Anfernee Jamal Dijksteel,CB
 Ange-Yoan Bonny,MC
-Angel Gomes,CB
-Angelo Fulgini,ATT
+Angel Gomes,MC
+Angelo Fulgini,MOF
 Angelo Stiller,MC
-Anis Ben Slimane,ATT
+Anis Ben Slimane,AG
 Anis Hadj Moussa,ATT
 Anis Mehmeti,AG
 Anouar Ait El Hadj,AG
+Anouar El Azzouzi,ATT
 Anselmo Garcia McNulty,MC
 Ansgar Knauff,AG
 Ansu Fati,AG
 Ante Budimir,ATT
 Ante Crnac,ATT
 Ante Šuto,AG
-Antef Tsoungui,CB
+Antef Tsoungui,MDF
 Anthony Caci,AG
 Anthony Dennis,CB
 Anthony Descotte,AG
@@ -291,20 +300,20 @@ Anthony Gordon,ATT
 Anthony Lopes,CB
 Anthony Markanich,ATT
 Anthony Musaba,AG
-Anthony Valencia,MOF
+Anthony Valencia,ATT
 Anthony van den Hurk,ATT
-Antoine Bernede,AG
+Antoine Bernede,MOF
 Antoine Bernier,ATT
 Antoine Griezmann,ATT
 Antoine Makoumbou,MC
-Antoine Mendy,CB
+Antoine Mendy,LB
 Antoine Semenyo,ATT
 Anton Kade,ATT
 Anton Salétros,MOF
 Anton Stach,AG
 Antonee Robinson,CB
 Antonino Gallo,MC
-Antonio Blanco,MC
+Antonio Blanco,MDF
 Antonio Caracciolo,MC
 Antonio Nusa,AG
 Antonio Rüdiger,CB
@@ -314,11 +323,11 @@ Antony Alves,ATT
 António Silva,MC
 Antônio Carlos,CB
 Aníbal Godoy,AG
-Ao Tanaka,AG
+Ao Tanaka,MC
 Arbnor Muja,ATT
 Archie Brown,AG
-Archie Goodwin,CB
-Archie Gray,CB
+Archie Goodwin,ATT
+Archie Gray,LB
 Arda Güler,MOF
 Arda Kurtulan,ATT
 Arda Kızıldağ,MC
@@ -342,8 +351,8 @@ Artem Dovbyk,ATT
 Artem Stepanov,AG
 Arthur,AG
 Arthur Atta,ATT
-Arthur Avom Ebong,MC
-Arthur Zagre,MC
+Arthur Avom Ebong,MDF
+Arthur Zagre,MOF
 Artur,CB
 Ashley Hay,AG
 Ashley Phillips,CB
@@ -353,49 +362,51 @@ Aske Adelgaard,MDF
 Assan Ouédraogo,ATT
 Assane Diao,AG
 Atakan Karazor,MC
-August Priske,ATT
+August Priske,AG
 Augustine Boakye,CB
 Augustus Kargbo,MC
-Aune Selland Heggebø,AG
+Aune Selland Heggebø,ATT
 Aurelio Oehlers,MC
-Aurèle Amenda,CB
+Aurèle Amenda,LB
 Aurélien Scheidler,ATT
 Aurélien Tchouaméni,MDF
 Axel Disasi,CB
-Axel Henriksson,MOF
+Axel Henriksson,AG
 Axel Tuanzebe,CB
 Axel Witsel,MDF
-Ayase Ueda,ATT
+Ayase Ueda,AG
 Ayman Yahya,AG
 Aymeric Laporte,CB
 Ayoni Santos,AG
-Ayoub Jabbari,ATT
-Ayoube Amaimouni Echghouyab,ATT
+Ayoub Jabbari,AG
+Ayoube Amaimouni Echghouyab,AG
 Ayoze Pérez,ATT
 Ayumu Seko,CB
 Ayyoub Bouaddi,MDF
 Azor Matusiwa,MC
 Azzedine Ounahi,ATT
 Aïssa Mandi,LB
-Babacar Fati,AG
+Babacar Fati,CB
 Bakery Jatta,AG
+Bambasé Conté,ATT
 Bamo Meïté,CB
 Baran Ali Gezek,CB
 Baris Kalayci,ATT
-Barry Bannan,AG
+Barry Bannan,ATT
 Bart Schenkeveld,CB
 Bart van Rooij,MOF
 Bartuğ Elmaz,MOF
 Barış Alper Yılmaz,AG
-Bas Kuipers,LB
-Bashir Humphreys,MDF
+Barış Atik,ATT
+Bas Kuipers,MC
+Bashir Humphreys,CB
 Bastien Meupiyou,CB
 Batista Mendy,CB
 Bazoumana Touré,ATT
 Başar Önal,ATT
-Beau Leroux,ATT
+Beau Leroux,AG
 Belal Halbouni,CB
-Ben Brereton Díaz,MOF
+Ben Brereton Díaz,ATT
 Ben Broggio,ATT
 Ben Cabango,CB
 Ben Chilwell,CB
@@ -408,26 +419,29 @@ Ben Whiteman,MOF
 Ben Wilmot,CB
 Benedict Hollerbach,AG
 Benedikt Gimber,CB
+Benedikt Pichler,AG
 Beni Baningime,CB
 Beni Mukendi,LB
-Benjamin André,MOF
+Benjamin André,MC
 Benjamin Henrichs,AG
 Benjamin Kikanović,LB
-Benjamin Mbunga-Kimpioka,CB
+Benjamin Källman,ATT
+Benjamin Mbunga-Kimpioka,LB
 Benjamin Nelson,CB
 Benjamin Nygren,ATT
 Benjamin Pavard,CB
 Benjamin Stambouli,CB
 Benjamin Šeško,ATT
-Berat Djimsiti,LB
+Berat Djimsiti,CB
 Berkan Kutlu,MC
-Berkay Özcan,MC
+Berkay Yılmaz,MC
+Berkay Özcan,MOF
 Bernard Kamungo,ATT
 Bernard Nguene,AG
-Bernardo,MDF
-Bernardo Schappo,LB
+Bernardo,LB
+Bernardo Schappo,CB
 Bernardo Silva,MC
-Bertrand Traoré,CB
+Bertrand Traoré,AG
 Bertuğ Yıldırım,AG
 Besard Sabović,CB
 Besfort Zeneli,AG
@@ -437,29 +451,30 @@ Beñat Turrientes,MDF
 Biel,AG
 Bilal Boutobba,ATT
 Bilal El Khannouss,ATT
-Bilal Nadir,MC
+Bilal Nadir,MDF
 Bilal Ould-Chikh,AG
-Billy Koumetio,MC
-Billy Mitchell,LB
+Billy Koumetio,ATT
+Billy Mitchell,CB
 Birger Verstraete,MDF
 Blaž Kramer,AG
-Bobby Clark,ATT
+Bobby Clark,MOF
 Bobby De Cordova-Reid,MC
-Bobby Thomas,MOF
-Bode Hidalgo,MDF
+Bobby Thomas,MC
+Bode Hidalgo,CB
+Boris Tomiak,ATT
 Borja Iglesias,AG
 Borja Mayoral,MC
 Borja Sainz,ATT
 Bosun Lawal,MC
 Boubacar Kamara,MC
-Boubacar Traoré,CB
-Boulaye Dia,AG
+Boubacar Traoré,MDF
+Boulaye Dia,MC
 Boy Kemper,MOF
 Boyd Reith,MOF
 Brad Potts,AG
 Brad Spencer,MC
 Bradley Barcola,AG
-Bradley Lyons,AG
+Bradley Lyons,MC
 Brahim Díaz,MOF
 Braian Ojeda,MDF
 Brajan Gruda,ATT
@@ -467,11 +482,12 @@ Branco Van den Boomen,MC
 Brandley Kuwas,AG
 Brandon Aguilera,AG
 Brandon Bye,MC
-Brandon Mechele,MC
-Brandon Servania,MC
+Brandon Mechele,MDF
+Brandon Servania,MDF
 Brandon Thomas-Asante,AG
 Brandon Vázquez,ATT
 Brandt Bronico,CB
+Branimir Hrgota,ATT
 Brayan Ceballos,CB
 Brayan Medina,CB
 Brayan Vera,CB
@@ -479,71 +495,76 @@ Breel Embolo,ATT
 Bremer,CB
 Brendan Chardonnet,CB
 Brendan Hines-Ike,CB
-Brendan McSorley,ATT
+Brendan McSorley,AG
 Brenden Aaronson,AG
-Brennan Johnson,AG
-Brenner,AG
+Brennan Johnson,ATT
+Brenner,ATT
 Brian Brobbey,ATT
-Brian De Keersmaecker,MOF
+Brian De Keersmaecker,MC
 Brian White,ATT
 Bright Arrey-Mbi,CB
 Brodie Spencer,LB
-Brooke Norton-Cuffy,MOF
-Brooklyn Kabongolo,MC
-Brooklyn Raines,LB
-Bruce Anderson,AG
-Bruno Damiani,ATT
+Brooke Norton-Cuffy,MC
+Brooklyn Kabongolo,ATT
+Brooklyn Raines,CB
+Bruce Anderson,CB
+Bruno Damiani,AG
 Bruno Fernandes,MOF
 Bruno Guimarães,ATT
-Bruno Langa,MC
+Bruno Langa,AG
 Bruno Martins Indi,CB
 Bruno Quiñonez,ATT
 Bryan Cristante,MC
 Bryan Gil,AG
 Bryan Heynen,ATT
+Bryan Lasme,CB
 Bryan Linssen,ATT
 Bryan Mbeumo,ATT
 Bryan Okoh,CB
-Bryan Ramirez,MOF
+Bryan Ramirez,MC
 Bryang Kayo,AG
 Brynjólfur Darri Willumsson,AG
 Budu Zivzivadze,AG
 Bukayo Saka,AD
 Burak Ince,AG
-Bünyamin Balcı,AG
+Bünyamin Balcı,MDF
 Cade Cowell,ATT
-Cafú,MC
+Cafú,LB
 Caio Henrique,LB
+Cajetan Lenz,MOF
 Caleb Ekuban,AG
 Caleb Okoli,CB
 Caleb Taylor,ATT
-Caleb Wiley,AG
-Callum Brittain,MOF
-Callum Doyle,MOF
+Caleb Wiley,MC
+Callum Brittain,MC
+Callum Doyle,MC
 Callum Elder,MOF
-Callum Hendry,ATT
+Callum Hendry,AG
 Callum Hudson Odoi,ATT
-Callum Lang,AG
+Callum Lang,ATT
+Callum Marshall,CB
 Callum McGregor,MC
 Callum O'Hare,ATT
 Callum Slattery,ATT
 Callum Styles,MOF
-Callum Wilson,MC
-Calvin Bassey,CB
-Calvin Fodrey,AG
+Callum Wilson,CB
+Calvin Bassey,MC
+Calvin Brackelmann,MC
+Calvin Fodrey,CB
 Calvin Harris,AG
 Calvin Miller,ATT
-Cameron Brannagan,ATT
+Cameron Brannagan,MOF
 Cameron Burgess,CB
 Cameron Carter-Vickers,CB
 Cameron Congreve,ATT
 Cameron Devlin,MDF
 Cameron Harper,ATT
 Cameron Pring,CB
-Cameron Puertas,MOF
+Cameron Puertas,ATT
 Camiel Neghli,ATT
 Can Uzun,ATT
 Capita,ATT
+Carl Johansson,MC
 Carl Starfelt,CB
 Carlens Arcus,MC
 Carles Aleñá,AG
@@ -551,12 +572,12 @@ Carles Gil,ATT
 Carlo Holse,ATT
 Carlos Alcaraz,ATT
 Carlos Augusto,CB
-Carlos Baleba,AG
+Carlos Baleba,CB
 Carlos Espí,ATT
 Carlos Forbs,ATT
 Carlos Garcés,CB
 Carlos Junior,ATT
-Carlos Romero,MOF
+Carlos Romero,MC
 Carlos Soler,MC
 Carlos Vicente,AG
 Carlos Álvarez,AG
@@ -572,32 +593,33 @@ Cassiano,AG
 Castello Lukeba,MDF
 Cavan Sullivan,AG
 Cedric Hatenboer,MOF
-Cedric Teuchert,ATT
+Cedric Teuchert,AG
 Cedric Zesiger,MC
 Celil Yüksel,MOF
 Cenk Özkaçar,CB
 Cesare Casadei,AG
 Chahid El Allachi,ATT
+Charalampos Makridis,MC
 Charles De Ketelaere,AG
-Charles Pickel,CB
-Charles Vanhoutte,MC
-Charles-Andre Raux Yao,AG
+Charles Pickel,AG
+Charles Vanhoutte,LB
+Charles-Andre Raux Yao,ATT
 Charles-Andreas Brym,ATT
 Charles-Emile Brunet,MOF
 Charlie Cresswell,MC
 Charlie McNeill,AG
 Che Adams,AG
 Cheick Keita,CB
-Chemsdine Talbi,AG
+Chemsdine Talbi,MC
 Cher Ndour,ATT
 Cherif Ndiaye,ATT
 Chibuike Nwaiwu,ATT
 Chidera Ejuke,AG
-Chiheb Labidi,MDF
+Chiheb Labidi,AG
 Chiquinho,AG
 Chris Führich,ATT
 Chris Mepham,CB
-Chris Richards,MC
+Chris Richards,CB
 Chris Smalling,CB
 Chris Wood,AG
 Chrislain Matsima,CB
@@ -614,10 +636,14 @@ Christian Marques,CB
 Christian Ordoñez,CB
 Christian Pulišić,ATT
 Christian Ramirez,AG
+Christian Rasmussen,ATT
 Christoph Baumgartner,ATT
 Christoph Klarer,CB
-Christopher Baah,MC
+Christoph Kobald,CB
+Christopher Baah,MOF
 Christopher Durkin,MC
+Christopher Lannert,AG
+Christopher Lenz,AG
 Christopher Lungoyi,ATT
 Christopher McVey,LB
 Christopher Nkunku,AG
@@ -630,38 +656,38 @@ Cicero,MDF
 Cihan Çanak,AG
 Ciro Immobile,ATT
 Clark Robertson,CB
-Claudio Echeverri,AG
-Clement Akpa,MDF
+Claudio Echeverri,ATT
+Clement Akpa,LB
 Clint Leemans,MC
-Clinton Mata,LB
+Clinton Mata,CB
 Cláudio Braga,ATT
-Cláudio Winck,MC
+Cláudio Winck,MDF
 Clément Jolibois,CB
 Cody Drameh,CB
 Cody Gakpo,AG
 Cole Bassett,ATT
 Cole Palmer,MOF
 Connor Barron,MOF
-Connor McLennan,AG
+Connor McLennan,ATT
 Connor Metcalfe,AG
-Connor Ogilvie,MC
+Connor Ogilvie,CB
 Connor Roberts,LB
 Connor Ronan,AG
 Conor Bradley,AG
 Conor Chaplin,ATT
-Conor Coventry,MC
+Conor Coventry,MDF
 Conor Gallagher,MC
-Conor Shaughnessy,MC
+Conor Shaughnessy,AG
 Conrad Harder,ATT
 Conrad Wallem,MOF
 Cooper Sanchez,AG
 Corentin Tolisso,MC
 Couhaib Driouech,ATT
-Craig Halkett,CB
+Craig Halkett,MC
 Craig Watson,MDF
 Cristhian Mosquera,CB
 Cristhian Stuani,AG
-Cristhoper Zambrano,AG
+Cristhoper Zambrano,CB
 Cristian Castro,CB
 Cristian Cásseres Jr.,MC
 Cristian Espinoza,MOF
@@ -673,28 +699,30 @@ Crysencio Summerville,ATT
 Cucho Hernández,ATT
 Curtis Jones,MDF
 Cyle Larin,AG
-Cyril Ngonge,AG
-Cédric Kipré,LB
+Cyril Ngonge,ATT
+Cédric Itten,ATT
+Cédric Kipré,MDF
 César Azpilicueta,CB
 César Tárrega,CB
 Daam Foulon,MDF
 Daan Heymans,ATT
 Daan Rots,ATT
-Dael Fry,CB
+Dael Fry,LB
 Daichi Kamada,MOF
-Daiki Hashioka,MC
+Daiki Hashioka,LB
 Dailon Rocha Livramento,AG
+Daisuke Yokota,ATT
 Daizen Maeda,ATT
-Daley Blind,CB
+Daley Blind,MDF
 Damien Durand,CB
 Damion Downs,CB
 Damon Mirani,CB
 Dan Agyei,ATT
-Dan Burn,CB
+Dan Burn,MC
 Dan N'Lundulu,ATT
 Dan Ndoye,CB
 Dan Neil,AG
-Dane Scarlett,AG
+Dane Scarlett,CB
 Danel Sinani,ATT
 Dango Ouattara,ATT
 Dani De Wit,ATT
@@ -702,15 +730,16 @@ Dani Olmo,MOF
 Dani Pérez,CB
 Dani Vivian,LB
 Daniel Ballard,MC
-Daniel Barlaser,MC
-Daniel Bennie,ATT
+Daniel Barlaser,MDF
+Daniel Bennie,AG
 Daniel Bragança,AG
 Daniel Edelman,MC
+Daniel Hanslik,AG
 Daniel Imray,MC
 Daniel James,CB
 Daniel Jebbison,CB
 Daniel Júnior,AG
-Daniel Kelly,CB
+Daniel Kelly,AG
 Daniel Lovitz,MC
 Daniel Maldini,AG
 Daniel Munie,CB
@@ -723,42 +752,45 @@ Daniele Ghilardi,CB
 Daniele Verde,ATT
 Danilho Doekhi,MC
 Danilo,ATT
-Danilo Cataldi,MDF
+Danilo Cataldi,MC
 Danilo Pereira,MC
 Danilo Veiga,CB
 Danley Jean Jacques,MDF
-Danny Bakker,ATT
+Danny Bakker,MC
 Danny Finlayson,CB
 Danny Namaso,CB
 Danny Welbeck,ATT
 Danny Wilson,CB
 Danny da Costa,LB
 Dante,CB
-Dante Polvara,LB
+Dante Polvara,CB
 Dante Sealy,AG
 Dante Vanzeir,ATT
 Daouda Guindo,MC
 Dara O'Shea,MC
 Dario Šarić,MC
 Dario Špikić,ATT
+Dariusz Stalmach,ATT
 Darko Churlinov,AG
 Darko Gyabi,AG
 Darko Nejašmić,MOF
-Darlin Yongwa,MC
+Darlin Yongwa,LB
 Darnell Furlong,MC
 Darren Yapi,AG
 Darwin Núñez,ATT
 Daryl Dike,ATT
-Dave Kwakman,MC
+Dave Kwakman,MOF
 David Affengruber,MDF
-David Akintola,AG
+David Akintola,CB
 David Brekalo,CB
 David Brooks,AG
 David Costas,CB
+David Herold,MOF
 David Kaiki,AG
-David López,LB
+David López,CB
 David Martínez Morales,MC
-David Min,AG
+David Min,CB
+David Mokwa,AG
 David Neres,AD
 David Okereke,MC
 David Ozoh,CB
@@ -769,7 +801,8 @@ David Sousa,MDF
 David Strelec,ATT
 David Tijanič,MC
 David Vazquez,AG
-David Watson,ATT
+David Watson,AG
+David Zec,LB
 David van der Werff,ATT
 Davide Biraschi,CB
 Davide Zappacosta,MOF
@@ -777,7 +810,8 @@ Davie Selke,AG
 Davinchi,MC
 Davinson Sánchez,CB
 Davy Klaassen,ATT
-Dawid Bugaj,MC
+Dawid Bugaj,CB
+Dawid Kownacki,AG
 Dayann Methalie,MDF
 DeAndre Yedlin,MC
 DeJuan Jones,MC
@@ -787,21 +821,23 @@ Dehmaine Tabibou,ATT
 Deiver Machado,AG
 Dejan Joveljić,ATT
 Dejan Kulusevski,AD
-Delano Burgzorg,ATT
+Dejan Ljubičić,ATT
+Delano Burgzorg,AG
 Demarai Gray,ATT
 Denis Bouanga,ATT
 Denis Drăguş,AG
-Denis Makarov,AG
+Denis Makarov,ATT
 Denis Odoi,MC
 Denis Radu,AG
 Denis Suárez,AG
 Denis Zakaria,MDF
-Deniz Gül,AG
+Deniz Gül,ATT
 Deniz Türüç,MOF
 Deniz Undav,ATT
 Dennis Eckert Ayensa,AG
 Dennis Geiger,AG
-Dennis Praet,MOF
+Dennis Praet,MC
+Dennis Srbeny,AG
 Denso Kasius,AG
 Denzel Dumfries,RB
 Derek Cornelius,LB
@@ -813,9 +849,11 @@ Destiny Udogie,MC
 Deveron Fonville,MDF
 Devin Padelford,CB
 Devon Koswal,CB
+Deyovaisio Zeefuik,MC
 Di'Shon Bernard,CB
 Diadié Samassékou,CB
-Diego Carlos,CB
+Dickson Abiama,ATT
+Diego Carlos,MC
 Diego Chará,MC
 Diego Coppola,CB
 Diego Duarte,AG
@@ -830,28 +868,28 @@ Dies Janse,MC
 Dimitri Foulquier,CB
 Dimitrios Giannoulis,MC
 Dimitris Goutas,CB
-Dimitris Kourbelis,LB
+Dimitris Kourbelis,MDF
 Dimitris Limnios,ATT
 Dinis Pinto,CB
 Diogo Bezerra,ATT
-Diogo Dalot,MC
+Diogo Dalot,MOF
 Diogo Leite,MC
 Diogo Sousa,AG
-Diogo Travassos,MOF
+Diogo Travassos,MC
 Dion Sanderson,CB
-Dje Tah D'Avilla,MDF
-Djed Spence,CB
-Djeidi Gassama,ATT
+Dje Tah D'Avilla,AG
+Djed Spence,LB
+Djeidi Gassama,AG
 Djenairo Daniels,CB
 Djibirin Harouna,AG
 Djibril Diani,MDF
-Djibril Sidibé,LB
+Djibril Sidibé,MC
 Djibril Soumaré,AG
 Djibril Sow,AG
-Dodi Lukebakio,ATT
-Dodô,MOF
+Dodi Lukebakio,AG
+Dodô,MC
 Domagoj Bradarić,MOF
-Domenico Berardi,AG
+Domenico Berardi,ATT
 Domingos Duarte,CB
 Dominic Calvert-Lewin,ATT
 Dominic Hyam,CB
@@ -866,7 +904,7 @@ Dor Turgeman,ATT
 Dorgeles Nene,AG
 Douglas Luiz,MC
 Doğukan Sinik,ATT
-Drey Wright,MC
+Drey Wright,LB
 Dries Wouters,CB
 Drissa Camara,ATT
 Duje Ćaleta-Car,CB
@@ -875,7 +913,7 @@ Duran Ferree,CB
 Duván Zapata,AG
 Dušan Vlahović,ATT
 Dwight Gayle,CB
-Dwight McNeil,AG
+Dwight McNeil,ATT
 Dylan Chambost,AG
 Dylan Nandín,AG
 Dylan Nealis,LB
@@ -885,44 +923,48 @@ Dániel Sallói,ATT
 Dávid Hancko,CB
 Désiré Doué,ATT
 Dženan Pejčinović,ATT
+Dženis Burnić,AG
 Eberechi Eze,ATT
 Ebou Adams,ATT
 Edan Diop,ATT
 Eddie Nketiah,ATT
-Eddy Doué,CB
+Eddy Doué,MDF
 Edgaras Utkus,CB
+Edin Džeko,ATT
 Edmond Tapsoba,CB
 Edo Kayembe,ATT
-Edoardo Bove,MDF
-Edson Álvarez,MC
+Edoardo Bove,MOF
+Edson Álvarez,MDF
 Edu Altozano,CB
 Edu Expósito,AG
 Eduard Atuesta,AG
 Eduard Löwen,ATT
 Eduardo Camavinga,MC
 Edvard Tagseth,MDF
-Edwin Cerrillo,LB
+Edwin Cerrillo,MDF
 Efraín Morales,CB
-Eiran Cashin,MC
+Eiran Cashin,ATT
 El Bilal Touré,ATT
 El Hadji Malick Diouf,MC
 Eldor Shomurodov,ATT
 Eli Dasa,MC
 Eli Junior Kroupi,ATT
+Elias Egouli,MC
 Elias Mokwana,AG
+Elias Saad,AG
 Elijah Dijkstra,AG
 Elijah Just,ATT
 Elijah Wynder,CB
 Elisha Owusu,CB
-Eljif Elmas,LB
+Eljif Elmas,MOF
 Elliot Anderson,MOF
 Elliot Watt,MC
 Ellis Simms,AG
-Elvis Rexhbeçaj,MC
-Elye Wahi,ATT
+Elvis Rexhbeçaj,AG
+Elye Wahi,AG
 Elías Báez,MC
 Emanuel Poku,ATT
-Emanuele Valeri,MC
+Emanuele Valeri,MOF
 Emeka Eneli,AG
 Emerson,MOF
 Emersonn,AG
@@ -934,30 +976,31 @@ Emiliano Buendía,ATT
 Emilio Aristizábal,ATT
 Emmanuel Agbadou,CB
 Emmanuel Agyei,MC
-Emmanuel Emegha,AG
-Emmanuel Kakou,MC
+Emmanuel Emegha,ATT
+Emmanuel Kakou,MDF
 Emmanuel Latte Lath,AG
 Emmanuel Longelo,ATT
 Emmanuel Maviram,MDF
 Emmanuel Sabbi,ATT
-Emmanuel van de Blaak,CB
+Emmanuel van de Blaak,MDF
 Emre Akbaba,ATT
 Emre Can,MDF
 Emre Kılınç,ATT
 Ender Echenique,AG
 Endrick,ATT
 Enea Mihaj,CB
-Enes Keskin,AG
+Enes Keskin,MC
 Enes Sali,AG
-Enes Ünal,ATT
-Enis Bardhi,ATT
+Enes Ünal,CB
+Enis Bardhi,AG
 Enrico Delprato,CB
 Enzo Boyomo,CB
-Enzo Cornelisse,AG
+Enzo Cornelisse,ATT
 Enzo Fernández,MC
 Enzo Koffi,AG
 Enzo Le Fée,MC
-Enzo Millot,ATT
+Enzo Leopold,MOF
+Enzo Millot,MOF
 Ephron Mason-Clark,ATT
 Eray Cömert,MC
 Eren Dinkçi,ATT
@@ -967,7 +1010,7 @@ Eric García,CB
 Eric Martel,ATT
 Eric Smith,MC
 Erik Ahlstrand,AG
-Erik Sviatchenko,CB
+Erik Sviatchenko,MC
 Erik Thommy,ATT
 Erling Haaland,ATT
 Ermedin Demirović,ATT
@@ -977,14 +1020,15 @@ Esmir Bajraktarević,AG
 Espen Van Ee,CB
 Esteban Lepaul,ATT
 Estêvão,CB
-Ethan Ampadu,MC
+Ethan Ampadu,MOF
 Ethan Brown,MC
-Ethan Galbraith,AG
+Ethan Galbraith,MC
 Ethan Hamilton,MC
 Ethan Laird,AG
 Ethan Mbappé,AG
 Ethan Ross,AG
 Ethan Williams,ATT
+Etienne Amenyido,AG
 Etienne Camara,MDF
 Etta Eyong,CB
 Evan Ferguson,ATT
@@ -1000,40 +1044,47 @@ Ezequiel Fernández,AG
 Ezequiel Ponce,ATT
 Ezri Konsa,CB
 Fabian Herbers,AG
-Fabian Rieder,MC
+Fabian Kunze,LB
+Fabian Reese,ATT
+Fabian Rieder,MOF
+Fabian Schleusener,AG
 Fabian Schär,ATT
-Fabiano Parisi,MOF
+Fabiano Parisi,AG
 Fabiano Souza,CB
 Fabien Centonze,MC
 Fabinho,MC
-Fabio Miretti,AG
-Fabián Ruiz,AG
+Fabio Gruber,CB
+Fabio Miretti,MDF
+Fabián Ruiz,ATT
 Facundo Cáseres,MDF
 Facundo Medina,LB
-Facundo Mura,MC
+Facundo Mura,AG
 Facundo Torres,ATT
-Fahad Zubaidi,ATT
+Fahad Zubaidi,AG
 Fali Candé,CB
+Falko Michel,LB
 Fallou Fall,LB
 Faris Abdi,LB
-Farouck Adekami,AG
+Farouck Adekami,ATT
 Farès Chaïbi,ATT
 Fashion Sakala,ATT
 Federico Baschirotto,CB
-Federico Bernardeschi,AG
+Federico Bernardeschi,ATT
 Federico Bonazzoli,ATT
 Federico Dimarco,MOF
 Federico Valverde,MC
 Federico Viñas,ATT
-Fedor Chalov,ATT
+Fedor Chalov,AG
 Felipe Andrade,CB
 Felipe Augusto,ATT
 Felippe Cardoso,ATT
 Felix Bacher,CB
+Felix Götze,CB
+Felix Klaus,ATT
 Felix Nmecha,MC
 Felix Passlack,ATT
 Femi Azeez,ATT
-Femi Seriki,AG
+Femi Seriki,MC
 Fer López,ATT
 Ferdi Kadıoğlu,MC
 Fermín López,ATT
@@ -1041,9 +1092,10 @@ Fernando Calero,CB
 Ferran Jutglà,AG
 Ferran Torres,AG
 Ferro,LB
-Fidan Aliti,MC
+Fidan Aliti,CB
 Figueiredo,ATT
 Fikayo Tomori,CB
+Filip Bilbija,AG
 Filip Ugrinić,AG
 Filipe Soares,AG
 Filippo Terracciano,CB
@@ -1052,11 +1104,13 @@ Findlay Marshall,ATT
 Finlay Pollock,AG
 Finn Azaz,ATT
 Finn Dahmen,CB
+Finn Ole Becker,AG
 Finn Surman,CB
 Firas Al-Buraikan,AG
-Fisayo Dele-Bashiru,LB
+Fisayo Dele-Bashiru,AG
 Fisnik Asllani,ATT
 Florent Hadergjonaj,MOF
+Florent Muslija,MOF
 Florentino Luís,MDF
 Florian Grillitsch,MDF
 Florian Lejeune,ATT
@@ -1075,31 +1129,32 @@ Fran Beltrán,AG
 Fran Navarro,AG
 Fran Pérez,AG
 Francesco Camarda,AG
-Francesco Pio Esposito,MC
+Francesco Pio Esposito,AG
 Francis Coquelin,CB
-Francisco Calvo,MC
+Francisco Calvo,ATT
 Francisco Chissumba,MDF
 Francisco Conceição,ATT
 Francisco Trincão,ATT
 Franck Honorat,MOF
-Franck Kessié,MC
-Franco Tongya,ATT
+Franck Kessié,MOF
+Franco Tongya,MOF
 Frank Anguissa,ATT
-Frank Magri,AG
-Frank Onyeka,ATT
-Frankie Westfield,MC
+Frank Magri,CB
+Frank Onyeka,AG
+Frankie Westfield,MOF
+Fraser Hornby,ATT
 Fredrik Aursnes,MOF
 Frenkie de Jong,MC
 Frimpong,CB
-Frédéric Guilbert,MDF
+Frédéric Guilbert,MC
 Furkan Soyalp,AG
 Fábio Martins,AG
-Fábio Silva,AG
+Fábio Silva,ATT
 Fábio Vieira,ATT
 Félix Correia,AG
 Gabri Veiga,AG
-Gabriel Carvalho,AG
-Gabriel Gudmundsson,CB
+Gabriel Carvalho,MOF
+Gabriel Gudmundsson,LB
 Gabriel Magalhães,CB
 Gabriel Martinelli,AG
 Gabriel Martínez,AG
@@ -1115,8 +1170,8 @@ Gabriel Veron,AG
 Gaius Makouta,MOF
 Gaizka Larrazabal,MOF
 Garrison Tubbs,CB
-Gary Magnee,MOF
-Gastón Álvarez,CB
+Gary Magnee,ATT
+Gastón Álvarez,LB
 Gauthier Hein,ATT
 Gautier Lloris,CB
 Gavin Molloy,MDF
@@ -1125,7 +1180,7 @@ Gaëtan Perrin,AG
 Gennaro Borrelli,AG
 Geny Catamo,ATT
 Geoffrey Kondo,CB
-George Campbell,LB
+George Campbell,MC
 George Dobson,MC
 George Hirst,AG
 George Ilenikhena,CB
@@ -1135,7 +1190,7 @@ Georgi Minoungou,AG
 Georginio Rutter,ATT
 Georginio Wijnaldum,ATT
 Geovany Quenda,ATT
-Gerard Gumbau,AG
+Gerard Gumbau,ATT
 Gerard Martín,LB
 Gerard Moreno,ATT
 Gerard Vandeplas,AG
@@ -1144,12 +1199,13 @@ German Onugkha,AG
 Germán Berterame,ATT
 Germán Valera,MOF
 Gernot Trauner,CB
-Gerrit Nauber,MC
+Gerrit Holtmann,ATT
+Gerrit Nauber,LB
 Gerónimo Rulli,CB
 Gessime Yassine,AG
 Ghislain Konan,MC
-Giacomo Bonaventura,LB
-Giacomo Raspadori,ATT
+Giacomo Bonaventura,CB
+Giacomo Raspadori,AG
 Gianluca Gaetano,MC
 Gianluca Mancini,MC
 Gianluca Prestianni,ATT
@@ -1177,9 +1233,9 @@ Givairo Read,ATT
 Gjivai Zechiël,ATT
 Goduine Koyalipou,AG
 Gonzalo Luján,CB
-Gonçalo Costa,AG
-Gonçalo Franco,ATT
-Gonçalo Guedes,AG
+Gonçalo Costa,MDF
+Gonçalo Franco,AG
+Gonçalo Guedes,MOF
 Gonçalo Inácio,CB
 Gonçalo Nogueira,AG
 Gonçalo Paciência,AG
@@ -1194,17 +1250,17 @@ Greg Kiltie,ATT
 Griffin Dorsey,MOF
 Griffin Yow,AG
 Grischa Prömel,ATT
-Guga,ATT
+Guga,AG
 Guido Rodríguez,MC
 Guilherme,ATT
 Guilherme Biro,MC
-Guilherme Luiz,AG
+Guilherme Luiz,CB
 Guilherme Neiva,AG
-Guilherme Romão,CB
+Guilherme Romão,LB
 Guilherme Smith,AG
 Gustaf Lagerbielke,CB
 Gustav Isaksen,AG
-Gustav Mortensen,LB
+Gustav Mortensen,MC
 Gustavo Caballero,AG
 Gustavo Hamer,ATT
 Gustavo Klismahn,AG
@@ -1214,8 +1270,8 @@ Gustavo Silva,AG
 Gustavo Sá,ATT
 Gustavo Varela,AG
 Guus Offerhaus,MC
-Guus Til,ATT
-Guéla Doué,MC
+Guus Til,MOF
+Guéla Doué,ATT
 Gvidas Gineitis,ATT
 Gyan de Regt,MOF
 Gyrano Kerk,ATT
@@ -1231,7 +1287,7 @@ Hakan Çalhanoğlu,MDF
 Hakon Arnar Haraldsson,ATT
 Hamari Traoré,MC
 Hamdi Akujobi,MC
-Hamed Junior Traorè,AG
+Hamed Junior Traorè,MC
 Hammam Al-Hammami,MC
 Hamza El Dahri,MC
 Hamza Igamane,AG
@@ -1259,6 +1315,7 @@ Harry Wilson,ATT
 Harry Winks,MC
 Harvey Barnes,ATT
 Harvey Vale,ATT
+Hasan Kuruçay,CB
 Hassan Ali Rabea,CB
 Hassan Altambakti,CB
 Hassan Kadesh,CB
@@ -1269,15 +1326,16 @@ Hayden Hackney,ATT
 Hazzaa Al-Ghamdi,AG
 Hector Fort,CB
 Hector Kyprianou,MDF
-Henk Veerman,AG
-Hennes Behrens,MOF
-Henok Teklab,MOF
+Henk Veerman,ATT
+Hennes Behrens,MC
+Henok Teklab,AG
+Henri Koudossou,MC
 Henrikh Mkhitaryan,MOF
-Henry Cartwright,MC
+Henry Cartwright,AG
 Henry Lawrence,MC
 Herman Johansson,MOF
-Hicham Boudaoui,CB
-Hidde ter Avest,CB
+Hicham Boudaoui,LB
+Hidde ter Avest,MC
 Hidemasa Morita,AG
 Himad Abdelli,CB
 Hirving Lozano,ATT
@@ -1289,15 +1347,16 @@ Hugo Bueno,MC
 Hugo Cuypers,ATT
 Hugo Duro,CB
 Hugo Ekitiké,ATT
-Hugo Félix,ATT
-Hugo Larsson,MOF
+Hugo Félix,AG
+Hugo Larsson,MC
 Hugo Magnetti,MC
-Hugo Picard,AG
+Hugo Picard,ATT
 Hugo Rincón,MC
 Hugo Siquet,MOF
 Hugo Vetlesen,ATT
-Hugo Álvarez,ATT
+Hugo Álvarez,AG
 Husain Al-Qahtani,AG
+Husseyn Chakroun,AG
 Hwang Hee-chan,CB
 Hwang In-beom,AG
 Hwang Ui-Jo,MC
@@ -1308,7 +1367,7 @@ Héctor Herrera,AG
 Héliton,ATT
 Iago Aspas,ATT
 Iago Silva,CB
-Ian Harkes,MC
+Ian Harkes,CB
 Ian Maatsen,CB
 Ianis Hagi,AG
 Ianis Stoica,ATT
@@ -1317,7 +1376,7 @@ Ibou Sane,CB
 Ibrahim Aliyu,CB
 Ibrahim Diabaté,AG
 Ibrahim Karamoko,CB
-Ibrahim Kaya,ATT
+Ibrahim Kaya,AG
 Ibrahim Maza,ATT
 Ibrahim Olawoyin,AG
 Ibrahim Osman,ATT
@@ -1327,11 +1386,11 @@ Ibrahima Ba,CB
 Ibrahima Baldé,CB
 Ibrahima Konaté,CB
 Ibrahima Sissoko,MDF
-Ibrahima Sory Bangoura,LB
-Idan Toklomati,MOF
+Ibrahima Sory Bangoura,MDF
+Idan Toklomati,AG
 Idrissa Gana Gueye,MOF
 Idrissa Gueye,AG
-Idrissa Touré,MC
+Idrissa Touré,CB
 Ignace Van der Brempt,MC
 Ignatius Kpene Ganago,AG
 Igor Jesus,ATT
@@ -1344,20 +1403,23 @@ Igor Zubeldia,CB
 Iker Kortajarena,ATT
 Iker Losada,AG
 Iker Luque,ATT
-Iker Muñoz,CB
+Iker Muñoz,LB
 Ilaix Moriba,LB
 Ilan Kebbal,ATT
-Ilay Feingold,MOF
+Ilay Feingold,MC
 Ilia Gruev,CB
 Ilias Akhomach,ATT
 Ilias Bronkhorst,MOF
 Ilias Chair,ATT
 Ilias Sebaoui,ATT
-Ilie Sánchez,MC
+Ilie Sánchez,AG
 Iliman Ndiaye,ATT
 Ilyas Ansah,MC
 Ilyas Chaira,ATT
+Imad Rondić,AG
 Iman Griffith,ATT
+Ime Okon,CB
+Immanuel Pherai,AG
 Imrân Louza,ATT
 Indiana Vassilev,AG
 Irakli Yegoian,ATT
@@ -1366,7 +1428,9 @@ Isaac Hayden,CB
 Isaac James,MC
 Isaac Price,ATT
 Isaac Romero,AG
+Isac Lidberg,ATT
 Isaiah LeFlore,CB
+Isaiah Young,AG
 Isak Hien,CB
 Isak Jansson,AG
 Isak Steiner Jensen,ATT
@@ -1375,7 +1439,7 @@ Isi Palazón,ATT
 Ismael Doukouré,CB
 Ismael Koné,MC
 Ismael Saibari,ATT
-Ismaelo Ganiou,MC
+Ismaelo Ganiou,MDF
 Ismaïla Sarr,ATT
 Issa Kaboré,AG
 Issa Soumaré,ATT
@@ -1383,8 +1447,10 @@ Ivan Azón,AG
 Ivan Barbero,ATT
 Ivan Brnić,ATT
 Ivan Losenko,MC
-Ivan Mesík,CB
+Ivan Mesík,MDF
+Ivan Nekić,MC
 Ivan Perišić,AG
+Ivan Prtajin,ATT
 Ivan Toney,ATT
 Ivo Pinto,MC
 Iván Angulo,MC
@@ -1400,14 +1466,14 @@ Iñigo Ruiz de Galarreta,AG
 Jacen Russell Rowe,AG
 Jack Clarke,ATT
 Jack Cooper Love,ATT
-Jack Currie,CB
+Jack Currie,LB
 Jack Elliott,CB
 Jack Grealish,MOF
 Jack Harrison,AG
 Jack Hendry,CB
 Jack Hinshelwood,ATT
-Jack McGlynn,MOF
-Jack Milne,CB
+Jack McGlynn,AG
+Jack Milne,MC
 Jack Rudoni,ATT
 Jack Skahan,AG
 Jack Stacey,MC
@@ -1416,7 +1482,7 @@ Jack Taylor,AG
 Jack Thomson,AG
 Jack Wilkie,MC
 Jackson Hopkins,ATT
-Jackson Irvine,ATT
+Jackson Irvine,MC
 Jackson Muleka,ATT
 Jackson Ragen,CB
 Jackson Tchatchoua,CB
@@ -1424,22 +1490,23 @@ Jackson Travis,CB
 Jacob Bartlett,MDF
 Jacob Brown,AG
 Jacob Davis,MDF
-Jacob Greaves,MDF
+Jacob Greaves,LB
 Jacob Murphy,AG
-Jacob Ramsey,ATT
+Jacob Ramsey,MC
+Jacob Rasmussen,LB
 Jacob Shaffelburg,CB
 Jacob Trenskow,ATT
 Jacobo Ramón,CB
 Jacopo Fazzini,AG
 Jacques Ekomié,CB
-Jaden Heskey,LB
+Jaden Heskey,MC
 Jaden Philogene-Bidace,AG
 Jadon Sancho,AG
 Jae-sung Lee,MC
-Jahkeele Marshall-Rutty,MOF
+Jahkeele Marshall-Rutty,LB
 Jaidon Anthony,ATT
 Jaka Bijol,CB
-Jake Cooper,CB
+Jake Cooper,LB
 Jake O'Brien,CB
 Jakob Breum,ATT
 Jakob Glesnes,CB
@@ -1461,45 +1528,53 @@ James Abankwah,CB
 James Garner,MC
 James Hill,MC
 James Justin,MC
-James Lawrence,MC
+James Lawrence,MDF
 James Maddison,MOF
-James Rodríguez,AG
+James Rodríguez,CB
 James Sands,MDF
 James Tarkowski,ATT
 James Ward-Prowse,MC
-Jamie Brandon,MC
+Jamie Brandon,MDF
 Jamie Donley,AG
 Jamie Leweling,ATT
 Jamie McGrath,MOF
-Jamie Vardy,AG
+Jamie Vardy,MC
 Jamil Siebert,CB
 Jamiro Monteiro,AG
 Jan Bednarek,CB
+Jan Elvedi,CB
+Jan Gyamerah,AG
+Jan Luca Schuler,AG
 Jan Paul van Hecke,CB
 Jan Schöppner,MC
 Jan Uwe Thielmann,AG
 Jan Virgili,AG
 Jan-Niklas Beste,AG
-Janderson,ATT
+Janderson,AG
 Jandro Orellana,AG
 Janik Haberer,MC
+Jannik Dehm,AG
+Jannik Hofmann,AG
+Jannik Rochelt,AG
 Jannik Vestergaard,LB
+Jannis Heuer,ATT
 Jano Monserrate,AG
+Jano Ter-Horst,MC
 Japhet Sery Larsen,CB
 Japhet Tanganga,CB
 Jarell Quansah,MC
-Jari Vandeputte,ATT
+Jari Vandeputte,AG
 Jarrad Branthwaite,MC
 Jarrod Bowen,MOF
 Jason,ATT
 Jason Knight,LB
 Jason van Duiven,AG
 Jasper Dahlhaus,CB
-Jaures Assoumou,AG
-Javi Galán,MC
+Jaures Assoumou,ATT
+Javi Galán,MDF
 Javi López,MC
 Javi Morcillo,CB
-Javi Rodríguez,CB
+Javi Rodríguez,MC
 Javi Sánchez,CB
 Javier Guerra,AG
 Javier Rueda,AG
@@ -1514,47 +1589,49 @@ Jayden Oosterwolde,CB
 Jaydon Banel,AG
 Jayson Molumby,MC
 Jaïro Riedewald,CB
-Jean Daniel Akpa-Akpro,MC
+Jean Daniel Akpa-Akpro,MOF
+Jean Hugonet,LB
 Jean Philippe Mateta,ATT
 Jean Victor Makengo,AG
 Jean-Baptiste Gorby,MC
 Jean-Clair Todibo,CB
 Jean-Luc Dompé,AG
-Jean-Mattéo Bahoya,AG
+Jean-Mattéo Bahoya,MOF
 Jean-Philippe Gbamin,LB
 Jean-Philippe Krasso,ATT
 Jean-Ricner Bellegarde,CB
 Jeanuël Belocian,MDF
 Jed Wallace,AG
-Jeevan Badwal,MOF
+Jeevan Badwal,MC
 Jeff Chabot,CB
 Jeff Hardeveld,MC
-Jefferson Díaz,MDF
-Jefferson Encada,CB
-Jefferson Lerma,MDF
+Jefferson Díaz,CB
+Jefferson Encada,MDF
+Jefferson Lerma,MC
 Jeffrey Gouweleeuw,MC
 Jeh,ATT
 Jehad Thakri,LB
 Jeisson Palacios,CB
 Jelani Seedorf,ATT
-Jens Castrop,ATT
+Jens Castrop,AG
 Jens Stage,ATT
 Jeppe Tverskov,MC
 Jerdy Schouten,MC
+Jeredy Hilterman,CB
 Jeremie Frimpong,AG
-Jeremy Ngakia,MC
+Jeremy Ngakia,MDF
 Jeremy Sarmiento,ATT
 Jeremy Toljan,MC
-Jerolldino Bergraaf,AG
+Jerolldino Bergraaf,CB
 Jerome Opoku,CB
 Jerry Afriyie,ATT
 Jerry Yates,ATT
 Jesper Ceesay,CB
 Jesper Karlsson,ATT
 Jesper Karlström,CB
-Jesper Lindstrøm,MDF
+Jesper Lindstrøm,AG
 Jessy Deminguet,MC
-Jesurun Rak-Sakyi,ATT
+Jesurun Rak-Sakyi,AG
 Jesus Bueno,AG
 Jesús Ferreira,ATT
 Jesús Ramírez,ATT
@@ -1564,17 +1641,17 @@ Ji-sung Eom,AG
 Jim Allevinah,AG
 Jimmy Dunne,MC
 Joachim Andersen,CB
-Joakim Mæhle,MC
+Joakim Mæhle,CB
 Joao Marques,MDF
 Joaquin Panichelli,ATT
 Joaquin Seys,MC
-Joaquín Pereyra,ATT
+Joaquín Pereyra,MOF
 Joaquín Valiente,AG
-Jobe Bellingham,MC
-Jocelin Ta Bi,CB
+Jobe Bellingham,MDF
+Jocelin Ta Bi,LB
 Jochem Ritmeester van de Kamp,MOF
 Joe Gelhardt,ATT
-Joe Gomez,MC
+Joe Gomez,MDF
 Joe Hodge,AG
 Joe Hugill,ATT
 Joe Rodon,CB
@@ -1583,11 +1660,13 @@ Joe Ward,MOF
 Joe Westley,AG
 Joe Willock,AG
 Joel Chima Fujita,AG
+Joel Felix,MC
+Joel Grodowski,AG
 Joel Ideho,ATT
 Joel Latibeaudiere,CB
 Joel Ordóñez,CB
 Joel Roca,AG
-Joel Schmied,MC
+Joel Schmied,CB
 Joel Waterman,CB
 Joelinton,AG
 Joelson Fernandes,AG
@@ -1600,47 +1679,51 @@ Johan Vásquez,CB
 Johann Lepenant,MOF
 John Buckley,MC
 John Donald,CB
-John Egan,CB
+John Egan,LB
 John Lundstram,AG
 John McGinn,AG
+John Tolkin,MOF
 Johnny Cardoso,CB
 Johnny Koutroumbis,AG
 Jon Ander Olasagasti,ATT
 Jon Aramburu,RB
 Jon Gallagher,MC
-Jon Gorrotxategi,CB
+Jon Gorrotxategi,MC
 Jon Guridi,ATT
 Jon Martin,CB
 Jon Moncayola,MC
 Jon Nouble,ATT
 Jonah Ayunga,AG
+Jonah Sticker,AG
+Jonas Meffert,MDF
+Jonas Therkelsen,ATT
 Jonas Wind,ATT
 Jonathan Bamba,ATT
 Jonathan Bell,CB
 Jonathan Buatu,CB
 Jonathan Burkardt,ATT
 Jonathan Clauss,MC
-Jonathan David,ATT
-Jonathan Gradit,LB
+Jonathan David,AG
+Jonathan Gradit,CB
 Jonathan Ikoné,AG
 Jonathan Okita,AG
 Jonathan Osorio,MC
 Jonathan Rowe,ATT
 Jonathan Tah,CB
-Jonathan Varane,AG
+Jonathan Varane,MC
 Jonny Otto,MC
 Joran Gerbet,CB
 Jordan Ayew,AG
 Jordan Bos,MOF
 Jordan Bustin,CB
-Jordan Holsgrove,MOF
-Jordan James,ATT
+Jordan Holsgrove,MC
+Jordan James,AG
 Jordan Lefort,CB
 Jordan Morris,ATT
-Jordan Obita,MC
+Jordan Obita,MOF
 Jordan Siebatcheu,AG
 Jordan Storey,CB
-Jordan Teze,MOF
+Jordan Teze,MC
 Jordan Thompson,AG
 Jordan Torunarigha,CB
 Jordi Altena,AG
@@ -1657,7 +1740,8 @@ Joris Kayembe,AG
 Joris Kramer,LB
 Joris van Overeem,MC
 Jorrel Hato,CB
-Josafat Mendes,MOF
+Jorrit Hendrix,MOF
+Josafat Mendes,AG
 Jose Fontán,CB
 Jose Gaya,MC
 Josep Chavarría,MC
@@ -1669,25 +1753,27 @@ Josh Campbell,AG
 Josh Coburn,ATT
 Josh Cullen,MC
 Josh Eccles,AG
-Josh Edwards,LB
+Josh Edwards,MOF
 Josh Knight,CB
 Josh Laurent,MC
 Josh Maja,ATT
 Josh Mulligan,MOF
 Josh Sargent,ATT
 Josh Tymon,MOF
-Josh Windass,ATT
+Josh Windass,AG
 Joshua Brenet,CB
 Joshua Duffus,CB
 Joshua Kimmich,MOF
 Joshua King,AG
-Joshua Kitolano,MOF
+Joshua Kitolano,ATT
+Joshua Mees,ATT
 Joshua Nisbet,MOF
-Joshua Zirkzee,ATT
-Josip Stanišić,MOF
+Joshua Zirkzee,CB
+Josip Brekalo,ATT
+Josip Stanišić,AG
 Josip Šutalo,CB
-Josué Casimir,MC
-Josué Homawoo,LB
+Josué Casimir,ATT
+Josué Homawoo,CB
 José Cifuentes,MOF
 José Copete,CB
 José Córdoba,CB
@@ -1695,24 +1781,25 @@ José Gomes,MC
 José Luis Gayà,AG
 José Tavares,AG
 José Ángel Carmona,MC
+José-Enrique Ríos Alonso,LB
 Jota,CB
 Jovan Lukić,MC
 Jovan Milošević,AG
 Jovane Cabral,ATT
 Jovany Ikanga,CB
 Jovon Makama,ATT
-João Aurélio,MDF
+João Aurélio,MC
 João Camacho,CB
 João Cancelo,MDF
 João Carvalho,ATT
 João Costa,MC
 João Félix,ATT
-João Gomes,CB
+João Gomes,MDF
 João Goulart,CB
 João Klauss,ATT
 João Mendes,MC
 João Moutinho,AG
-João Mário,AG
+João Mário,MDF
 João Neves,MDF
 João Palhinha,MC
 João Pedro,ATT
@@ -1720,7 +1807,7 @@ João Peglow,MOF
 João Silva,CB
 Joël Ito,MC
 Joël Veltman,CB
-Joško Gvardiol,MC
+Joško Gvardiol,LB
 Juan Berrocal,CB
 Juan Familia-Castillo,MC
 Juan Foyth,LB
@@ -1732,11 +1819,13 @@ Juan Pedroza,MC
 Juan Rodríguez,CB
 Juan Sanabria,MOF
 Juan Santos da Silva,ATT
-Juanlu Sánchez,AG
+Juanlu Sánchez,MC
 Jude Bellingham,MOF
 Jules Koundé,RB
 Julian Brandt,MOF
+Julian Eitschberger,CB
 Julian Hall,ATT
+Julian Justvan,ATT
 Julian Ryerson,MC
 Julian Weigl,MC
 Julien Le Cardinal,LB
@@ -1756,25 +1845,26 @@ Justin De Haas,MC
 Justin Haak,CB
 Justin Hubner,CB
 Justin Kluivert,AG
-Justin Lonwijk,AG
+Justin Lonwijk,MOF
 Justin Njinmah,AG
-Justin Obikwu,ATT
+Justin Obikwu,AG
 Jérémie Boga,ATT
 Jérémy Doku,ATT
 Jérémy Jacquet,MC
 Jérémy Livolant,MOF
-Jímer Fory,LB
+Jímer Fory,MDF
 Jørgen Strand Larsen,AG
 Jürgen Ekkelenkamp,MC
 Kacper Kozłowski,MOF
-Kacper Pasiek,CB
+Kacper Pasiek,AG
 Kai Havertz,ATT
-Kai Trewin,LB
+Kai Trewin,MC
 Kai Wagner,MOF
 Kaick,ATT
-Kaiky Naves,CB
+Kaiky Naves,MC
 Kaishu Sano,MOF
 Kaito Matsuzawa,AG
+Kaito Mizuta,ATT
 Kaj Sierhuis,ATT
 Kaj de Rooij,AG
 Kalani Kossa-Rienzi,MC
@@ -1790,62 +1880,68 @@ Karamoko Dembélé,AG
 Kareem Tunde,AG
 Karim Adeyemi,AG
 Karim Benzema,ATT
-Karim Coulibaly,LB
+Karim Coulibaly,CB
 Karim Dermane,AG
 Karlan Grant,ATT
 Karol Mets,CB
+Kasper Davidsen,CB
 Kasper Dolberg,AG
-Kay Tejan,ATT
+Kay Tejan,AG
 Kayne Ramsay,CB
 Kazeem Olaigbe,AG
 Kazımcan Karataş,AG
 Kaïl Boudache,AG
 Keane Lewis-Potter,ATT
-Keanu Baccus,MC
+Keanu Baccus,ATT
 Keaton Parks,AG
-Kees Smit,ATT
+Kees Smit,MOF
 Keinan Davis,ATT
 Keisuke Goto,ATT
-Keisuke Kurokawa,LB
+Keisuke Kurokawa,MC
 Kelechi Iheanacho,AG
 Kellen Fisher,MOF
 Kelvin Amian,CB
 Kelvin Yeboah,ATT
+Kenan Karaman,ATT
 Kenan Yıldız,AG
-Kenji Mboma Dem,ATT
+Kenji Mboma Dem,AG
+Kennet Eichhorn,AG
 Kenneth Paal,MC
+Kenneth Schmidt,MDF
 Kenneth Taylor,MOF
 Kenny Lala,MC
 Kenny McLean,MOF
-Kenny Tete,MC
+Kenny Prince Redondo,MDF
+Kenny Tete,ATT
 Kerem Aktürkoğlu,ATT
 Kerem Demirbay,MOF
 Kervin Arriaga,CB
 Kerwin Calderón Vargas,AG
 Keshi Anderson,AG
 Keven Schlotterbeck,LB
-Kevin,AG
+Kevin,ATT
 Kevin Cabral,CB
-Kevin Carlos Omoruyi,CB
+Kevin Carlos Omoruyi,AG
 Kevin Danso,CB
 Kevin De Bruyne,MOF
 Kevin Diks,MC
 Kevin Höög Jansson,AG
-Kevin Kelsy,AG
-Kevin Mac Allister,MC
+Kevin Kelsy,ATT
+Kevin Mac Allister,ATT
 Kevin Nisbet,ATT
 Kevin O'Toole,MC
 Kevin Pedro,CB
 Kevin Rodriguez,AG
 Kevin Schade,ATT
+Kevin Sessa,AG
 Kevin Stöger,ATT
-Kevin Van Den Kerkhof,MOF
+Kevin Van Den Kerkhof,ATT
 Khaled Al-Lazam,CB
-Khaled Narey,MC
+Khaled Narey,ATT
 Khalid Al-Ghannam,ATT
-Khalid Alsubaie,MDF
+Khalid Alsubaie,MC
 Khalifah Al-Dawsari,CB
-Khvicha Kvaratskhelia,ATT
+Khvicha Kvaratskhelia,AG
 Khéphren Thuram,ATT
 Ki-Jana Hoever,AG
 Kialonda Gaspar,CB
@@ -1858,26 +1954,30 @@ Kieran Trippier,AG
 Kiernan Dewsbury-Hall,ATT
 Kieron Bowie,ATT
 Kike García,AG
-Kike Salas,LB
+Kike Salas,CB
 Kiki,MDF
 Kiko,CB
 Kiko Bondoso,AG
 Kiko Femenía,MDF
 Kiliann Sildillia,ATT
+Killian Corredor,ATT
 Killian Phillips,ATT
 Kim Min-jae,MDF
 Kingsley Coman,ATT
 Kingsley Ehizibue,CB
 Kjetil Borry,ATT
-Kobbie Mainoo,LB
+Klaus Gjasula,LB
+Kobbie Mainoo,MC
 Kobe Franklin,MC
 Kodai Sano,MOF
 Koen Jansen,MOF
 Koen Kostons,MC
 Koffi Kouao,MC
+Koji Miyoshi,AG
 Kojo Peprah Oppong,CB
 Koke,MC
 Koki Saito,MC
+Kolja Oudenne,AG
 Koni De Winter,CB
 Konrad Laimer,AG
 Konstantinos Karetsas,ATT
@@ -1890,7 +1990,7 @@ Kristi Montgomery,CB
 Kristian Hlynsson,ATT
 Kristian Thorstvedt,ATT
 Kristijan Jakić,AG
-Kristjan Asllani,ATT
+Kristjan Asllani,AG
 Kristoffer Ajer,CB
 Kristoffer Lund,MC
 Kristoffer Peterson,AG
@@ -1902,7 +2002,7 @@ Kwame Poku,AG
 Kwasi Sibo,CB
 Kye Rowles,CB
 Kyle Bartley,MC
-Kyle Duncan,MC
+Kyle Duncan,AG
 Kyle Joseph,CB
 Kyle Walker,RB
 Kylian Mbappé,ATT
@@ -1910,50 +2010,57 @@ Kyrell Wilson,ATT
 Kyriani Sabbe,ATT
 Kéres Masangu,ATT
 Kévin Boma,CB
-Kévin Danois,MOF
+Kévin Danois,MC
 Kévin Denkey,ATT
 Kévin N'Doram,CB
 Kévin Rodrigues,MC
 Ladislav Krejčí,CB
-Lameck Banda,AG
+Lameck Banda,ATT
 Lamine Camara,MOF
 Lamine Cissé,ATT
 Lamine Sy,MDF
 Lamine Yamal,AD
 Lance Duijvestijn,ATT
 Landerson,AG
-Lanroy Machine,ATT
+Lanroy Machine,AG
 Largie Ramazani,ATT
-Lars-Jørgen Salvesen,AG
+Lars Lokotsch,ATT
+Lars-Jørgen Salvesen,CB
 Lassana Coulibaly,ATT
 Lasse Berg Johnsen,MDF
+Lasse Günther,AG
+Lasse Rosenboom,MC
 Lasse Selvåg Nordås,AG
 Lassine Sinayoko,ATT
 Lasso Coulibaly,AG
 Laurent Abergel,LB
-Lautaro Giannetti,LB
+Laurin Curda,MC
+Laurin Ulrich,ATT
+Lautaro Giannetti,CB
 Lautaro Martínez,ATT
 Lautaro Valenti,CB
 Lawrence Agyekum,AG
-Lawrence Ennali,MOF
+Lawrence Ennali,MC
 Lawrence Ofori,MDF
 Lawrence Shankland,ATT
 Leandro Antunes,ATT
 Leandro Barreiro,MC
 Leandro Cabrera,MC
+Leandro Morgalla,AG
 Leandro Trossard,AG
 Leif Davis,MOF
 Lennard Hartjes,AG
 Lenny Pintor,AG
 Leny Yoro,CB
 Leo Castledine,AG
-Leo Greiml,LB
+Leo Greiml,MC
 Leo Sauer,AG
 Leo Scienza,ATT
-Leo Østigård,CB
+Leo Østigård,LB
 Leon Avdullahu,MDF
 Leon Bailey,AG
 Leon Goretzka,ATT
+Leon Robinson,CB
 Leonardo Balerdi,CB
 Leonardo Lopes,LB
 Leonardo Spinazzola,AG
@@ -1962,38 +2069,40 @@ Leroy Sané,AG
 Lesley Ugochukwu,CB
 Levent Mercan,AG
 Levi Colwill,CB
-Lewie Coyle,LB
+Lewie Coyle,MC
 Lewin Blum,AG
 Lewis Baker,MOF
-Lewis Cook,MDF
+Lewis Cook,LB
 Lewis Dobbin,ATT
-Lewis Dunk,MC
+Lewis Dunk,CB
 Lewis Ferguson,CB
 Lewis Gibson,CB
-Lewis Hall,MC
+Lewis Hall,MDF
 Lewis Holtby,AG
 Lewis Koumas,MC
-Lewis Miley,MC
+Lewis Miley,MDF
 Lewis Miller,CB
-Lewis Morgan,AG
+Lewis Morgan,ATT
 Lewis O'Brien,MC
 Lewis Schouten,LB
 Lewis Smith,ATT
 Lewis Travis,MC
 Liam Cooper,CB
-Liam Cullen,AG
+Liam Cullen,CB
 Liam Delap,AG
 Liam Gibbs,MOF
-Liam Henderson,CB
+Liam Henderson,MDF
 Liam Millar,ATT
 Liam Morrison,CB
 Liam Palmer,CB
 Liam Scales,LB
 Lilian Brassier,CB
-Lilian Raolisoa,MC
-Lincoln,MC
+Lilian Egloff,ATT
+Lilian Raolisoa,MOF
+Lincoln,MOF
 Linton Maina,ATT
-Lionel Carole,LB
+Linus Gechter,MC
+Lionel Carole,CB
 Lionel Messi,ATT
 Lisandro Martínez,MDF
 Livan Burcu,AG
@@ -2004,20 +2113,22 @@ Loek Postma,MC
 Logan Costa,CB
 Logan Farrington,ATT
 Logi Tomasson,MC
-Loic Négo,LB
+Loic Négo,MDF
 Loide Augusto,ATT
 Loreintz Rosier,MDF
 Lorenzo Bernasconi,MOF
 Lorenzo Colombo,AG
 Lorenzo Lucca,AG
 Lorenzo Pellegrini,ATT
+Louey Ben Farhat,AG
 Louicius Don Deedson,CB
 Louis Leroux,AG
 Louis Mouton,AG
-Louis Munteanu,ATT
+Louis Munteanu,AG
 Louis Patris,ATT
 Loum Tchaouna,AG
 Luan Patrick,LB
+Lubambo Musonda,MC
 Luca Bombino,MDF
 Luca De La Torre,AG
 Luca Kjerrumgaard,AG
@@ -2028,26 +2139,29 @@ Luca Mazzitelli,AG
 Luca Oyen,AG
 Luca Petrasso,MC
 Luca Ranieri,CB
-Luca Stephenson,MOF
+Luca Schnellbacher,AG
+Luca Sirch,MOF
+Luca Stephenson,ATT
 Luca Waldschmidt,AG
-Lucas Ahijado,MC
+Lucas Ahijado,ATT
 Lucas Bartlett,ATT
-Lucas Beerten,LB
+Lucas Beerten,MDF
 Lucas Beltrán,ATT
 Lucas Bergvall,MC
 Lucas Boyé,ATT
-Lucas Da Cunha,ATT
+Lucas Brumme,ATT
+Lucas Da Cunha,MOF
 Lucas Digne,MOF
 Lucas Gourna-Douath,LB
 Lucas Halter,ATT
 Lucas Hernández,MDF
 Lucas Herrington,CB
-Lucas Höler,ATT
+Lucas Höler,AG
 Lucas Pires,MC
-Lucas Sanabria,MDF
+Lucas Sanabria,AG
 Lucas Schoofs,ATT
-Lucas Soares,MOF
-Lucas Stassin,LB
+Lucas Soares,MC
+Lucas Stassin,CB
 Lucas Torreira,AG
 Lucas Torró,AG
 Lucas Tousart,AG
@@ -2064,54 +2178,60 @@ Luis Rioja,AG
 Luis Vázquez,AG
 Luka Gavran,CB
 Luka Kulenović,ATT
+Luka Lochoshvili,MC
 Luka Modrić,MC
 Luka Sučić,AG
 Luka Vušković,ATT
 Lukas Engel,MDF
 Lukas Fadinger,AG
+Lukas Finn Pinckert,CB
 Lukas MacNaughton,CB
 Lukas Nmecha,CB
+Lukas Petkov,ATT
+Lukas Reich,ATT
 Luke Ayling,MC
 Luke Chambers,CB
-Luke Cundle,MC
+Luke Cundle,CB
 Luke Graham,ATT
 Luke McNally,MC
-Luke Shaw,LB
+Luke Shaw,CB
 Luke Thomas,ATT
 Lushendry Edward Martes,MDF
 Lutsharel Geertruida,CB
 Luuk Brouwers,AG
 Luuk de Jong,ATT
 Luís Esteves,ATT
-Luís Guilherme,ATT
+Luís Guilherme,AG
 Luís Henrique,AG
-Lyall Cameron,AG
+Lyall Cameron,ATT
 Lyle Foster,CB
-Lyndon Dykes,ATT
+Lyndon Dykes,MC
 László Bénes,ATT
 Lázaro,ATT
 Léo Duarte,CB
 Léo Pétrot,CB
-Léo Santos,MDF
+Léo Santos,MC
 M'Baye Niang,AG
-M'bala Nzola,ATT
+M'bala Nzola,AG
 Maas Willemsen,CB
 Macaulay Langstaff,CB
 Macaulay Tait,MC
-Madallah Al-Olayan,CB
+Madallah Al-Olayan,AG
+Mael Corboz,ATT
 Maestro,CB
 Maghnes Akliouche,MOF
 Mahamadou Doumbia,ATT
 Mahamadou Nagida,AG
-Mahamadou Susoho,CB
+Mahamadou Susoho,MDF
 Mahdi Camara,ATT
+Maik Nawrocki,LB
 Majed Omar Kanabah,MDF
 Majid Hosseini,CB
 Makan Aïko,ATT
 Makaya Ibrahima Diaby,AG
 Maksim Paskotsi,ATT
 Maksym Talovierov,CB
-Malang Sarr,LB
+Malang Sarr,CB
 Malcom,ATT
 Malcom Bokele,MC
 Malick Fofana,ATT
@@ -2122,17 +2242,17 @@ Malik Tillman,CB
 Malo Gusto,MC
 Malte Amundsen,MDF
 Mama Baldé,AG
-Mamadou  Dieng,MC
+Mamadou  Dieng,CB
 Mamadou Coulibaly,AG
 Mamadou Doumbia,ATT
 Mamadou Fofana,CB
 Mamadou Sangare,ATT
-Mamadou Sylla,ATT
+Mamadou Sylla,AG
 Mandela Keita,CB
 Manor Solomon,ATT
 Mansour Hamzi,AG
 Manu Duah,CB
-Manu García,MOF
+Manu García,MC
 Manu Koné,MC
 Manu Morlanes,AG
 Manuel Akanji,CB
@@ -2144,46 +2264,53 @@ Marc Aguado,CB
 Marc Bernal,AG
 Marc Bola,MOF
 Marc Cucurella,MOF
-Marc Guéhi,ATT
+Marc Guéhi,MOF
 Marc Kempf,LB
-Marc Leonard,MC
+Marc Leonard,MDF
 Marc Pubill,CB
+Marcel Beifus,ATT
+Marcel Benger,AG
+Marcel Franke,MC
 Marcel Hartel,ATT
 Marcel Sabitzer,MC
 Marcelino Núñez,ATT
 Marcelo Brozović,MC
 Marco Asensio,ATT
-Marco Brescianini,AG
+Marco Brescianini,MC
 Marco Friedl,LB
 Marco Grüll,ATT
 Marco Ilaimaharitra,MC
+Marco John,CB
 Marco Palestra,MC
 Marco Pašalić,ATT
 Marco Rente,MOF
 Marco Reus,AG
 Marco Tol,LB
-Marcos Alonso,LB
+Marcos Alonso,CB
 Marcos Leonardo,AG
 Marcos Llorente,MC
 Marcos Senesi,MDF
 Marcus Edwards,AG
-Marcus Fraser,LB
+Marcus Fraser,MDF
 Marcus Ingvartsen,AG
 Marcus Linday,MDF
+Marcus Mathisen,MC
 Marcus Pedersen,MC
 Marcus Rashford,ATT
 Marcus Tavernier,ATT
 Marcus Thuram,ATT
 Marcão,MC
 Mardochee Nzita,MC
+Marek Janssen,AG
 Maren Haile-Selassie,ATT
 Mariano Troilo,MC
+Marin Ljubičić,AG
 Marin Petkov,ATT
 Marin Pongračić,CB
 Mario Dorgeles,ATT
 Mario Engels,AG
-Mario Gila,LB
-Mario Hermoso,CB
+Mario Gila,CB
+Mario Hermoso,AG
 Mario Lemina,MC
 Mario Martín,AG
 Mario Mitaj,MC
@@ -2194,29 +2321,33 @@ Marius Bülter,ATT
 Marius Marin,MDF
 Marius Mouandilmadji,ATT
 Marius Wolf,AG
+Marius Wörl,ATT
 Mark Delgado,MC
 Mark Harris,ATT
 Mark McKenzie,CB
 Mark O'Hara,ATT
 Mark Sykes,AG
+Marko Ivezić,CB
 Marko Jevtović,ATT
 Marko Milovanović,AG
 Marko Pjaca,AG
-Marko Stamenić,MC
-Marley Watkins,AG
-Marlon Fossey,AG
+Marko Stamenić,CB
+Marley Watkins,MC
+Marlon Fossey,MC
 Marlon Pack,MC
+Marlon Ritter,AG
 Marnon Busch,MOF
 Marshall Munetsi,ATT
-Marten de Roon,MDF
+Marten Winkler,ATT
+Marten de Roon,AG
 Marten-Chris Paalberg,ATT
-Martijn Kaars,AG
-Martim Fernandes,CB
-Martin Baturina,ATT
+Martijn Kaars,MC
+Martim Fernandes,MDF
+Martin Baturina,AG
 Martin Boyle,AG
 Martin Fernández,AG
-Martin Frese,LB
-Martin Terrier,AG
+Martin Frese,MC
+Martin Terrier,ATT
 Martin Valjent,CB
 Martin Ødegaard,MOF
 Martín Ojeda,ATT
@@ -2225,9 +2356,12 @@ Martín Satriano,ATT
 Martín Zubimendi,MDF
 Marvin Ducksch,AG
 Marvin Elimbi Gilbert,CB
-Marvin Peersman,ATT
+Marvin Obuz,ATT
+Marvin Peersman,MC
 Marvin Pieringer,AG
+Marvin Schulz,AG
 Marvin Senaya,CB
+Marvin Wanitzek,ATT
 Marvin Young,CB
 Marwane Saadane,CB
 Mason Greenwood,ATT
@@ -2238,7 +2372,7 @@ Mateja Stjepanović,MC
 Mateo Biondic,AG
 Mateo Borrell,CB
 Mateo Flores,AG
-Mateo Joseph,MC
+Mateo Joseph,AG
 Mateo Pellegrino,ATT
 Mateo Retegui,ATT
 Mateo Silvetti,AG
@@ -2247,16 +2381,17 @@ Mateus Mané,ATT
 Mateus Pivô,CB
 Mateusz Bogusz,ATT
 Mateusz Łęgowski,MC
+Mateusz Żukowski,ATT
 Matheus Cunha,ATT
-Matheus Dias,MDF
+Matheus Dias,MC
 Matheus Gonçalves,AG
 Matheus Nascimento,AG
 Matheus Nunes,CB
-Matheus Pereira,AG
+Matheus Pereira,MOF
 Mathew Ryan,CB
 Mathew Tegiri Gbomadu,AG
 Mathias De Amorim,ATT
-Mathias Honsak,ATT
+Mathias Honsak,AG
 Mathias Jensen,MOF
 Mathias Jørgensen,AG
 Mathias Kvistgaarden,AG
@@ -2273,13 +2408,14 @@ Matias Moreno,CB
 Matija Frigan,ATT
 Matisse Didden,CB
 Matisse Samoise,MDF
-Mats Deijl,LB
-Mats Knoester,CB
+Mats Deijl,MC
+Mats Knoester,LB
+Mats Pannewig,ATT
 Mats Rots,MOF
 Mats Wieffer,ATT
 Matt Clarke,CB
 Matt Crooks,MC
-Matt Godden,AG
+Matt Godden,CB
 Matt Grimes,MC
 Matt Miazga,CB
 Matt Polster,LB
@@ -2296,17 +2432,18 @@ Matthew Freese,CB
 Matthew Kennedy,CB
 Matthew Longstaff,MOF
 Matthew Pollock,CB
-Matthias Ginter,MOF
+Matthias Ginter,MC
+Matthias Zimmermann,AG
 Matthieu Udol,ATT
-Matthijs de Ligt,MC
+Matthijs de Ligt,CB
 Matthis Abline,ATT
 Matti Peltola,MOF
-Mattia Felici,ATT
+Mattia Felici,AG
 Mattia Zaccagni,AG
 Mattias Svanberg,AG
 Matties Volckaert,CB
 Matty Cash,LB
-Matty James,MC
+Matty James,MDF
 Mattéo Guendouzi,MDF
 Matías Fernández,ATT
 Matías Fernández-Pardo,ATT
@@ -2314,16 +2451,18 @@ Matías Galarza,ATT
 Matías Kranevitter,CB
 Matías Soulé,AG
 Matías Vargas,ATT
+Matúš Bero,MC
+Maurice Neubauer,MC
 Mauricio Benitez,ATT
 Mauricio Cuevas,AG
 Mauro Arambarri,ATT
-Mauro Icardi,AG
+Mauro Icardi,ATT
 Mauro Júnior,MOF
 Mawouna Amevor,CB
 Max Bird,AG
-Max Cleworth,CB
+Max Cleworth,MC
 Max Dean,ATT
-Max Johnston,AG
+Max Johnston,MC
 Max Lowe,CB
 Max Watters,ATT
 Maxence Caqueret,MC
@@ -2338,13 +2477,17 @@ Maxime Estève,CB
 Maxime López,AG
 Maximilian Arfsten,ATT
 Maximilian Arnold,MOF
+Maximilian Bauer,ATT
 Maximilian Beier,ATT
 Maximilian Eggestein,MC
-Maximilian Mittelstädt,AG
+Maximilian Mittelstädt,MOF
+Maximilian Rohr,MDF
 Maximilian Rosenfelder,LB
-Maximiliano Araújo,MOF
+Maximilian Wittek,MOF
+Maximiliano Araújo,MC
 Maximiliano Falcón,CB
 Maximilien Balard,MDF
+Maxwell Gyamfi,CB
 Maxwell Woledzi,CB
 Maya Yoshida,MDF
 Mbekezeli Mbokazi,LB
@@ -2353,10 +2496,12 @@ Mehdi Léris,AG
 Melih Kabasakal,CB
 Melih İbrahimoğlu,MDF
 Melker Widell,AG
-Melle Meulensteen,MOF
+Melle Meulensteen,MC
 Melvin Bard,CB
+Mergim Berisha,AG
 Merih Demiral,ATT
 Mert Müldür,MC
+Mertcan Ayhan,MC
 Meschak Elia,AG
 Metehan Altunbaş,AG
 Metehan Mimaroğlu,ATT
@@ -2370,55 +2515,59 @@ Michael Keane,ATT
 Michael Olise,ATT
 Michael Schjønning-Larsen,AG
 Michael Steinwender,MDF
-Michał Helik,MC
+Michaël Cuisance,ATT
+Michał Helik,ATT
+Michał Karbownik,MDF
 Michał Skóraś,MOF
-Michel Adopo,MC
+Michel Adopo,ATT
 Michel Aebischer,MOF
 Michel Diaz,CB
+Mickaël Biron,AG
 Micky van de Ven,CB
 Miguel Almirón,ATT
-Miguel Baeza,AG
+Miguel Baeza,MC
 Miguel Cardoso,ATT
 Miguel Carvalho,AG
-Miguel Changa Chaiwa,MC
+Miguel Changa Chaiwa,AG
 Miguel Cubo,AG
 Miguel Freckleton,MC
 Miguel Gutiérrez,MC
-Miguel Navarro,CB
-Miguel Puche,ATT
-Miguel Rodríguez,AG
-Miguel Román,MOF
+Miguel Navarro,LB
+Miguel Puche,MDF
+Miguel Rodríguez,MC
+Miguel Román,MC
 Mihailo Ivanović,ATT
-Mika Biereth,AG
+Mika Baur,MOF
 Mika Godts,ATT
+Mika Haas,ATT
 Mikael Ellertsson,MC
 Mikael Mandron,ATT
 Mike Van der Hoorn,CB
 Mike te Wierik,CB
 Mikel Jauregizar,CB
-Mikel Merino,AG
+Mikel Merino,MC
 Mikel Oyarzabal,ATT
 Mikel Villanueva,CB
-Mikey Johnston,ATT
+Mikey Johnston,MOF
 Mikey Moore,ATT
 Miki Yamane,AG
-Mikkel Damsgaard,MOF
+Mikkel Damsgaard,ATT
 Mikkel Desler,AG
 Mikkel Kaufmann,AG
 Milan Borjan,CB
 Milan Iloski,ATT
-Milan Zonneveld,ATT
+Milan Zonneveld,AG
 Milan de Haan,AG
 Milan van Ewijk,MC
-Miles Leaburn,AG
-Miles Robinson,CB
+Miles Leaburn,MC
+Miles Robinson,LB
 Millenic Alli,AG
 Million Manhoef,ATT
-Miloš Kerkez,LB
+Miloš Kerkez,AG
 Milutin Osmajić,AG
-Mimeirhel Benita,MDF
+Mimeirhel Benita,AG
 Mirko Topić,AG
-Miro Muheim,MOF
+Miro Muheim,MC
 Mitchell Van Bergen,ATT
 Mitchell Weiser,MOF
 Mithat Pala,MC
@@ -2426,6 +2575,7 @@ Mo El Hankouri,AG
 Modibo Sagnan,CB
 Mohamad Sylla,CB
 Mohamed Ali Cho,ATT
+Mohamed Ali Zoma,ATT
 Mohamed Amoura,AG
 Mohamed Bamba,ATT
 Mohamed Bayo,ATT
@@ -2434,13 +2584,13 @@ Mohamed Farsi,AG
 Mohamed Ihattaren,ATT
 Mohamed Kaba,AG
 Mohamed Kader Meite,AG
-Mohamed Kanno,MOF
+Mohamed Kanno,MC
 Mohamed Nassoh,ATT
 Mohamed Salah,AD
-Mohamed Simakan,MDF
+Mohamed Simakan,CB
 Mohamed Touré,ATT
-Mohammad Alsalkhadi,MC
-Mohammed Abu Al-Shamat,ATT
+Mohammad Alsalkhadi,CB
+Mohammed Abu Al-Shamat,MOF
 Mohammed Al Baqawi,CB
 Mohammed Al Dossari,CB
 Mohammed Al Fatil,LB
@@ -2450,27 +2600,28 @@ Mohammed Al-Konaideri,CB
 Mohammed Al-Kunaydiri,CB
 Mohammed Al-Kuwaykibi,ATT
 Mohammed Al-Thani,CB
-Mohammed Alburayk,MOF
+Mohammed Alburayk,AG
 Mohammed Fuseini,AG
-Mohammed Kudus,ATT
+Mohammed Kudus,AG
 Mohammed Mahzari,MC
 Mohammed Salisu,CB
-Mohau Nkota,MC
+Mohau Nkota,MOF
 Moise Bombito,LB
 Moise Kean,AG
 Moisés Caicedo,MDF
+Monju Momuluh,ATT
 Montassar Talbi,CB
 Morato,CB
 Morgan Gibbs-White,ATT
 Morgan Guilavogui,ATT
 Morgan Rogers,ATT
-Morgan Sanson,AG
+Morgan Sanson,MC
 Morgan Whittaker,ATT
 Moritz Jenz,CB
 Morlaye Sylla,MOF
 Morris Duggan,CB
 Morrison Agyemang,CB
-Mortadha Ben Ouanes,MC
+Mortadha Ben Ouanes,MDF
 Morten Frendrup,CB
 Morten Hjulmand,MC
 Moses Simon,AG
@@ -2480,10 +2631,12 @@ Mousa Tamari,ATT
 Moussa Baradji,AG
 Moussa Dembélé,ATT
 Moussa Diaby,AG
+Moussa Ndiaye,MC
 Moussa Niakhaté,CB
 Moussa Soumano,ATT
+Moussa Sylla,ATT
 Moustapha Mbow,CB
-Muath Faqeehi,CB
+Muath Faqeehi,LB
 Muhammad Sawan,AG
 Muhannad Shanqeeti,MC
 Mujaid Sadick,CB
@@ -2494,22 +2647,25 @@ Musa Barrow,CB
 Musab Al Juwayr,ATT
 Musah Mohammed,CB
 Mustafa Eskihellaç,MC
+Mustapha Bundu,ATT
 Muteb Al-Mufarrij,CB
 Myenty Abena,CB
 Mykhailo Mudryk,LB
 Myles Peart-Harris,ATT
-Myron Boadu,ATT
+Myron Boadu,AG
 Myrto Uzuni,ATT
-Myziane Maolida,ATT
+Myziane Maolida,MOF
 Márk Kosznovszky,AG
+Márton Dárdai,CB
 Máximo Perrone,MC
-Mërgim Vojvoda,MOF
+Mërgim Vojvoda,AG
 N'Golo Kanté,MC
+Naatan Skyttä,ATT
 Nabil Alioui,AG
 Nabil Bentaleb,MDF
 Nabil Donga,CB
-Nabil Touaizi,MOF
-Nacho Fernández,LB
+Nabil Touaizi,ATT
+Nacho Fernández,CB
 Nacho Vidal,CB
 Nadiem Amiri,ATT
 Nadir Zortea,MC
@@ -2522,47 +2678,49 @@ Naif Masoud,CB
 Nampalys Mendy,MDF
 Naouirou Ahamada,AG
 Nasser Al Haleel,CB
-Nasser Al-Dawsari,AG
+Nasser Al-Dawsari,ATT
 Natan,CB
 Nathan Broadhead,AG
 Nathan Byrne,MC
 Nathan Collins,CB
 Nathan Harriel,MC
-Nathan Mbala,ATT
+Nathan Mbala,AG
 Nathan N'Goumou,ATT
 Nathan Ngoy,CB
-Nathan Tella,ATT
+Nathan Tella,AG
 Nathan Wood,CB
-Nathan Zeze,MC
+Nathan Zeze,ATT
 Nathaniel Adjei,CB
-Nathaniel Brown,MC
+Nathaniel Brown,MDF
 Nathaniel Chalobah,AG
-Nathaniel Phillips,MC
+Nathaniel Phillips,CB
 Nawaf Al-Habashi,ATT
 Nayef Aguerd,CB
-Nazım Sangaré,LB
-Naïs Djouahra,MOF
-Neal Maupay,AG
-Neco Williams,MOF
+Nazım Sangaré,CB
+Naïs Djouahra,MC
+Neal Maupay,CB
+Neco Williams,MC
 Nectarios Triantis,AG
 Neil El Aynaoui,AG
-Nelson Abbey,LB
-Nelson Weiper,ATT
+Nelson Abbey,MDF
+Nelson Weiper,AG
 Nemanja Gudelj,MC
 Nemanja Matić,AG
 Neraysho Kasanwirjo,LB
-Nestory Irankunda,ATT
+Nestory Irankunda,AG
 Neto Borges,LB
 Neville Nwankwo,CB
 Ngal'ayel Mukau,AG
-Nhoa Sangui,LB
-Niccolò Pisilli,MC
+Nhoa Sangui,MC
+Niccolò Pisilli,MDF
+Nicholas Mickelson,AG
 Nicholas Opoku,CB
+Nick Bätzner,ATT
 Nick Hagglund,MC
 Nick Verschuren,CB
-Nick Woltemade,MOF
+Nick Woltemade,CB
 Nickseon Gomis,CB
-Nicky Cadden,MOF
+Nicky Cadden,AG
 Nicky Devlin,MC
 Niclas Füllkrug,AG
 Nico Elvedi,CB
@@ -2571,22 +2729,23 @@ Nico Paz,ATT
 Nico Schlotterbeck,CB
 Nico Williams,AG
 Nicola Zalewski,AG
+Nicolai Rapp,CB
 Nicolai Remberg,CB
 Nicolas Cozza,CB
 Nicolas Fonseca,MDF
 Nicolas Janvier,MOF
-Nicolas Madsen,ATT
+Nicolas Madsen,MOF
 Nicolas Pépé,AD
 Nicolas Raskin,ATT
 Nicolas Rommens,ATT
-Nicolas Seiwald,MC
+Nicolas Seiwald,LB
 Nicolás Capaldo,MOF
 Nicolás Domínguez,AG
 Nicolás Fernández,ATT
-Nicolás González,MC
+Nicolás González,AG
 Nicolás Otamendi,CB
-Nicolás Tagliafico,AG
-Nicolás Valentini,ATT
+Nicolás Tagliafico,MC
+Nicolás Valentini,MC
 Nicolò Barella,MC
 Nicolò Bertola,CB
 Nicolò Cambiaghi,AG
@@ -2594,11 +2753,12 @@ Nicolò Fagioli,ATT
 Nicolò Tresoldi,ATT
 Nicolò Zaniolo,ATT
 Niklas Dorsch,MC
-Niklas Vesterlund,CB
+Niklas Vesterlund,LB
 Niko Tsakiris,ATT
+Nikola Katić,MC
 Nikola Krstović,ATT
 Nikola Markovic,MDF
-Nikola Milenković,CB
+Nikola Milenković,LB
 Nikola Moro,AG
 Nikola Storm,ATT
 Nikola Vlašić,ATT
@@ -2609,9 +2769,10 @@ Nils Rossen,MDF
 Nilson Angulo,ATT
 Nkosi Tafari,CB
 Nnamdi Collins,MC
-Noah Cadiou,MC
+Noah Cadiou,LB
 Noah Eile,CB
-Noah Nartey,AG
+Noah Loosli,CB
+Noah Nartey,MC
 Noah Naujoks,ATT
 Noah Okafor,ATT
 Noah Sadiki,MC
@@ -2620,14 +2781,17 @@ Noah Streit,ATT
 Nobel Mendy,CB
 Noe Lebreton,ATT
 Noel Caliskan,MOF
+Noel Futkeu,ATT
 Nolan Gillot,ATT
 Noni Madueke,AD
 Norbert Gyömbér,LB
 Nordi Mukiele,MC
 Nordin Bukala,MDF
+Norman Bassette,AG
 Nouhou Tolo,LB
 Noussair Mazraoui,MC
 Novatus Miroshi,ATT
+Noël Aséko,MC
 Nuno Lima,CB
 Nuno Mendes,LB
 Nuno Santos,AG
@@ -2641,35 +2805,36 @@ Odsonne Édouard,ATT
 Odysseus Velanas,ATT
 Ogün Bayrak,AG
 Oier Zarraga,AG
-Oihan Sancet,ATT
-Oisin McEntee,MOF
-Ola Aina,CB
+Oihan Sancet,AG
+Oisin McEntee,MC
+Ola Aina,MC
 Oleksandr Zinchenko,LB
 Oleksandr Zubkov,ATT
 Olger Escobar,CB
 Oli McBurnie,ATT
 Olinho,AG
 Oliver Braude,MC
-Oliver Burke,ATT
+Oliver Burke,AG
+Oliver Olsen,MC
 Oliver Provstgaard,LB
 Oliver Skipp,MDF
 Oliver Sørensen,CB
-Olivier Deman,MOF
+Olivier Deman,MC
 Olivier Giroud,ATT
 Olivier Kemen,ATT
-Olivier Ntcham,AG
+Olivier Ntcham,ATT
 Ollie Watkins,ATT
 Oluwaseun Adewumi,ATT
-Olwethu Makhanya,LB
+Olwethu Makhanya,CB
 Omar Al Soma,ATT
 Omar Alderete,CB
 Omar Marmoush,CB
 Omar Mascarell,CB
 Omar Richards,CB
-Omari Hutchinson,ATT
+Omari Hutchinson,AG
 Omri Gandelman,MC
 Ondrej Duda,MC
-Ondrej Lingr,MOF
+Ondrej Lingr,AG
 Onni Valakari,MDF
 Orel Mangala,AG
 Orkun Kökçü,ATT
@@ -2678,29 +2843,30 @@ Orri Óskarsson,AG
 Osama Al-Boardi,CB
 Osame Sahraoui,AG
 Osaze Urhoghide,ATT
-Oscar Bobb,MOF
+Oscar Bobb,CB
 Oscar Fraulo,AG
 Oscar Højlund,AG
 Oscar Priestman,AG
 Oscar Schwartau,AG
 Oscar Verhoeven,AG
+Oscar Vilhelmsson,AG
 Oskar Pietuszewski,ATT
-Oso,MOF
+Oso,MC
 Otavio,CB
 Othmane Maamma,ATT
-Otávio,MC
+Otávio,ATT
 Oumar Camara,AG
-Oumar Diakité,ATT
+Oumar Diakité,AG
 Oumar Diouf,ATT
 Oumar Ngom,CB
-Oumar Solet,MOF
+Oumar Solet,MC
 Ousmane Camara,MC
 Ousmane Dembélé,AD
-Ousmane Diakité,MC
+Ousmane Diakité,MDF
 Ousmane Diomande,CB
 Oussama El Azzouzi,MC
 Oussama Targhalline,MC
-Ousseni Bouda,MOF
+Ousseni Bouda,AG
 Owen Elding,AG
 Owen Gene,MDF
 Owen Wolff,AG
@@ -2709,44 +2875,45 @@ Ozan Tufan,MC
 Oğulcan Ülgün,AG
 Pablo Barrios,MDF
 Pablo Durán,AG
-Pablo Felipe,CB
+Pablo Felipe,AG
 Pablo Fornals,MOF
 Pablo Gavi,MC
-Pablo Gozálbez,ATT
-Pablo Ibáñez,AG
+Pablo Gozálbez,AG
+Pablo Ibáñez,ATT
 Pablo Maffeo,MDF
 Pablo Martínez,AG
 Pablo Marí,LB
 Pablo Marín,CB
-Pablo Messias Cardozo,ATT
+Pablo Messias Cardozo,AG
 Pablo Pagis,ATT
 Pablo Torre,ATT
 Pacha,AG
 Panos Katseris,AG
 Panutche Camará,ATT
 Paolo Fernandes,ATT
-Papa Amadou Diallo,AG
-Pape Diop,MC
+Papa Amadou Diallo,ATT
+Pape Diop,MDF
 Pape Gueye,ATT
 Pape Matar Sarr,ATT
 Pape Meissa Ba,CB
 Pape Moussa Fall,ATT
 Parfait Guiagon,ATT
 Paris Maghoma,ATT
-Pascal Groß,MOF
+Pascal Groß,MC
 Pascal Struijk,MC
 Pathé Ismaël Ciss,MC
 Pathé Mboup,AG
-Patric,CB
+Patric,AG
 Patrick Agyemang,ATT
 Patrick Bamford,ATT
 Patrick Brouwer,ATT
 Patrick Dorgu,ATT
+Patrick Erras,MC
 Patrick Mainka,ATT
 Patrick Osterhage,MC
 Patrick Pflücke,ATT
 Patrick Wimmer,AG
-Patrick Yazbek,MC
+Patrick Yazbek,MDF
 Patrik Schick,ATT
 Patson Daka,ATT
 Pau Cubarsí,CB
@@ -2755,20 +2922,24 @@ Pau Torres,CB
 Pau Víctor,ATT
 Paul Arriola,AG
 Paul Gladon,ATT
-Paul Marie,CB
+Paul Jaeckel,CB
+Paul Joly,ATT
+Paul Marie,MOF
 Paul McGinn,LB
 Paul Nebel,ATT
 Paul Onuachu,ATT
-Paul Rothrock,ATT
+Paul Rothrock,MC
+Paul Seguin,MC
 Paul Smyth,ATT
-Paul Wanner,ATT
+Paul Wanner,MOF
+Paul Will,MOF
 Paulinho Bóia,ATT
 Paulo Dybala,ATT
-Paulo Moreira,CB
+Paulo Moreira,LB
 Paulo Vitor,CB
-Pavel Bucha,MC
+Pavel Bucha,MOF
 Pavel Šulc,MC
-Paxten Aaronson,MOF
+Paxten Aaronson,ATT
 Pedri,MOF
 Pedro,AG
 Pedro Amaral,AG
@@ -2780,7 +2951,7 @@ Pedro Lima,ATT
 Pedro Neto,AD
 Pedro Pereira,MC
 Pedro Porro,ATT
-Pedro Santos,MC
+Pedro Santos,ATT
 Pedro de la Vega,AG
 Peer Koopmeiners,MOF
 Pelle Clement,AG
@@ -2788,22 +2959,27 @@ Pelle Mattsson,MDF
 Pep Biel,ATT
 Pepelu,CB
 Pepê,AG
-Peque Fernández,MC
+Peque Fernández,MOF
 Pere Milla,AG
 Petar Musa,ATT
-Petar Sučić,MOF
-Peter Kingston,AG
+Petar Sučić,AG
+Peter Kingston,MC
 Peyton Miller,AG
 Phil Foden,AG
-Philip Brittijn,CB
+Phil Harres,ATT
+Philip Brittijn,MDF
 Philip Zinckernagel,ATT
+Philipp Hercher,MC
+Philipp Hofmann,ATT
 Philipp Lienhart,CB
-Philipp Sander,MDF
-Philipp Treu,LB
+Philipp Sander,MC
+Philipp Strompf,CB
+Philipp Treu,CB
+Philipp Ziereis,CB
 Philippe Sandler,MDF
 Phillip Tietz,ATT
-Phillipp Mwene,MC
-Piero Hincapié,MC
+Phillipp Mwene,AG
+Piero Hincapié,LB
 Pierre Kalulu,MC
 Pierre Landry Kaboré,ATT
 Pierre Lees Melou,ATT
@@ -2811,6 +2987,7 @@ Pierre Lemonnier,CB
 Pierre-Emerick Aubameyang,ATT
 Pierre-Emile Højbjerg,MOF
 Pierrick Capelle,AG
+Piet Scobel,AG
 Pieter Gerkens,ATT
 Piotr Zieliński,AG
 Pol Lozano,AG
@@ -2826,25 +3003,28 @@ Qazim Laci,ATT
 Quaresma,MC
 Quentin Merlin,MC
 Quinn Sullivan,ATT
-Quinten Timber,MC
+Quinten Timber,AG
+Rabby Nzingoula,AG
 Rafa Mir,AG
 Rafa Silva,ATT
 Rafa Soares,MC
 Rafael Brito,AG
 Rafael Leão,AG
+Rafael Lubach,ATT
 Rafael Navarro,ATT
 Rafael Obrador,AG
 Rafael Santos,AG
 Rafik Belghali,CB
 Rafik Guitane,ATT
 Rafiki Saïd,AG
-Rafiu Durosinmi,MC
+Rafiu Durosinmi,AG
 Ragnar Ache,ATT
 Raheem Edwards,AG
-Rakan Al-Tulayhi,ATT
+Rakan Al-Tulayhi,AG
 Rakan Kaabi,CB
 Ralf Seuntjens,ATT
 Ramazan Civelek,MDF
+Ramien Safi,AG
 Ramiro,MC
 Ramiro Enrique,ATT
 Ramiz Zerrouki,MOF
@@ -2854,7 +3034,8 @@ Ramzi Safouri,MOF
 Ramón Terrats,AG
 Randal Kolo Muani,AG
 Rani Khedira,CB
-Ransford Yeboah Königsdörffer,ATT
+Ransford Yeboah Königsdörffer,AG
+Raphael Obermair,MOF
 Raphael Onyedika,ATT
 Raphinha,AG
 Rasmus Højlund,ATT
@@ -2865,7 +3046,8 @@ Raul Gustavo,MC
 Rayan,ATT
 Rayan Aït-Nouri,AG
 Rayan Cherki,MOF
-Rayan Enad,CB
+Rayan Enad,AG
+Rayan Ghrieb,ATT
 Rayan Hamed,CB
 Rayan Kolli,AG
 Rayane Belaid,ATT
@@ -2877,7 +3059,7 @@ Raúl Moro,AG
 Rebocho,MC
 Reece James,RB
 Reed Baker-Whiting,CB
-Regan Charles-Cook,ATT
+Regan Charles-Cook,AG
 Regan Poole,CB
 Regan Slater,MDF
 Reggie Cannon,LB
@@ -2885,31 +3067,34 @@ Reid Roberts,CB
 Rein Van Helden,MC
 Reinildo Mandava,CB
 Remo Freuler,LB
-Remy Labeau Lascary,ATT
+Remy Labeau Lascary,AG
 Renato Veiga,CB
+Reno Münz,CB
 Renzo Saravia,CB
 Rhaldney,MC
-Rhian Brewster,AG
+Rhian Brewster,ATT
 Rhys Bozinovski,CB
-Rhys Norrington-Davies,MDF
+Rhys Norrington-Davies,MC
 Ricard Sánchez,MOF
 Ricardo Esgaio,LB
 Ricardo Horta,ATT
 Ricardo Pepi,ATT
-Ricardo Pereira,LB
+Ricardo Pereira,CB
 Riccardo Calafiori,CB
 Riccardo Orsolini,ATT
-Riccardo Sottil,AG
+Riccardo Sottil,ATT
 Richard Kone,ATT
 Richard Ríos,ATT
 Richarlison,AG
 Richie Laryea,MDF
-Rick Meissen,LB
-Rick Van Drongelen,CB
-Ricky van Wolfswinkel,AG
-Rico Henry,MDF
-Ridle Baku,MC
-Rigoberto Rivas,CB
+Richmond Tachie,AG
+Rick Meissen,CB
+Rick Van Drongelen,LB
+Ricky van Wolfswinkel,ATT
+Rico Henry,LB
+Rico Preißinger,MDF
+Ridle Baku,AG
+Rigoberto Rivas,AG
 Rihito Yamamoto,ATT
 Riley McGree,ATT
 Ringo Meerveld,ATT
@@ -2918,7 +3103,7 @@ Riqui Puig,ATT
 Ritsu Doan,AG
 Riyad Idrissi,CB
 Riyad Mahrez,MOF
-Ro-Zangelo Daal,ATT
+Ro-Zangelo Daal,AG
 Rob Dickie,CB
 Rob Holding,LB
 Rob Schoofs,AG
@@ -2929,27 +3114,29 @@ Robert Andrich,MDF
 Robert Atkinson,CB
 Robert Lewandowski,ATT
 Robert Mühren,ATT
-Robert Navarro,ATT
+Robert Navarro,AG
 Robert-Jan Vanwesemael,MOF
 Roberto Fernández,AG
-Roberto Gagliardini,LB
+Roberto Gagliardini,MC
 Roberto Piccoli,ATT
+Roberts Uldriķis,AG
 Robin Fellhauer,AG
 Robin Gosens,AG
 Robin Hranáč,CB
 Robin Jansson,CB
+Robin Knoche,ATT
 Robin Koch,CB
 Robin Le Normand,CB
-Robin Lod,ATT
+Robin Lod,AG
 Robin Mirisola,AG
-Robin Pröpper,CB
-Robin van Cruijsen,ATT
+Robin Pröpper,MDF
+Robin van Cruijsen,AG
 Robinho,AG
 Rocco Reitz,ATT
 Rocky Bushiri,CB
 Rodolfo Aloko,CB
 Rodri,MDF
-Rodrigo Abascal,MC
+Rodrigo Abascal,MDF
 Rodrigo Alonso,CB
 Rodrigo Becão,CB
 Rodrigo Bentancur,MC
@@ -2965,23 +3152,24 @@ Rodrigo Zalazar,ATT
 Rodrygo,AD
 Roger Brugué,ATT
 Roger Fernandes,AG
-Roger Ibañez,MC
+Roger Ibañez,LB
 Roger Martínez,ATT
 Roggerio Nyakossi,CB
 Roland Sallai,MC
 Rolando Mandragora,ATT
-Romain Del Castillo,MOF
+Romain Del Castillo,ATT
 Romain Faivre,ATT
 Romain Perraud,MOF
 Romaine Mundle,CB
 Roman Yaremchuk,ATT
 Romano Schmid,ATT
 Romeo Vermant,AG
-Roméo Lavia,AG
+Roméo Lavia,MDF
+Ron Schallenberg,MDF
 Ronald,AG
 Ronald Araújo,CB
 Ronald Donkor,MC
-Ronaldo Vieira,MC
+Ronaldo Vieira,MOF
 Roni,CB
 Ronnie Edwards,LB
 Roshon van Eijma,CB
@@ -2990,10 +3178,12 @@ Ross McCrorie,CB
 Ross Stewart,AG
 Ross Sykes,ATT
 Ruairi McConville,MC
-Ruan Pereira Duarte,ATT
+Ruan Pereira Duarte,MOF
 Ruben Aguilar,AG
-Ruben Kluivert,LB
+Ruben Kluivert,CB
 Ruben Loftus-Cheek,MC
+Ruben Müller,AG
+Ruben Reisig,AG
 Ruben Vargas,AG
 Rubén García,AG
 Rudy Camacho,LB
@@ -3007,15 +3197,16 @@ Ryan Astley,CB
 Ryan Christie,AG
 Ryan Don Naderi,ATT
 Ryan Dow,ATT
-Ryan Flamingo,MC
-Ryan Flynn,CB
+Ryan Flamingo,MDF
+Ryan Flynn,LB
 Ryan Gauld,AG
 Ryan Giles,MC
 Ryan Gravenberch,MDF
 Ryan Guilherme,AG
 Ryan Hedges,AG
-Ryan Manning,MC
-Ryan Merlen,AG
+Ryan Johansson,AG
+Ryan Manning,MOF
+Ryan Merlen,ATT
 Ryan Ponti,CB
 Ryan Porteous,CB
 Ryan Sessegnon,CB
@@ -3023,7 +3214,7 @@ Ryan Thomas,AG
 Ryan Yates,AG
 Ryotaro Ito,ATT
 Ryoya Morishita,ATT
-Rémy Cabella,ATT
+Rémy Cabella,MOF
 Róbert Boženík,AG
 Rômulo,AG
 Rúben Neves,MOF
@@ -3037,16 +3228,16 @@ Sabri Abdu Dahal,AG
 Sadibou Sané,CB
 Sadio Mané,ATT
 Saeed Al Hamsal,CB
-Saeed Baattia,MOF
+Saeed Baattia,MC
 Said El Mala,ATT
 Saimon Bouabre,AG
 Saleh Al-Amri,ATT
 Saleh Al-Shehri,AG
-Salem Al-Dawsari,ATT
-Sam Adekugbe,CB
+Salem Al-Dawsari,AG
+Sam Adekugbe,MC
 Sam Beukema,CB
 Sam Field,AG
-Sam Gallagher,ATT
+Sam Gallagher,MOF
 Sam Kersten,CB
 Sam Lammers,ATT
 Sam Larsson,ATT
@@ -3054,27 +3245,27 @@ Sam Long,MC
 Sam Morsy,MDF
 Sam Smith,AG
 Sam Surridge,ATT
-Sambou Soumano,AG
+Sambou Soumano,MC
 Samet Akaydın,MC
 Sami Lahssaini,MDF
 Sami Ouaissa,ATT
 Samir Caetano,CB
 Samir El Mourabet,MDF
-Samir Sophian Chergui,CB
+Samir Sophian Chergui,MDF
 Sammie Szmodics,ATT
 Samson Baidoo,CB
 Samu,ATT
 Samu Aghehowa,ATT
-Samuel Amo-Ameyaw,MC
+Samuel Amo-Ameyaw,AG
 Samuel Ballet,MC
 Samuel Chukwueze,AG
 Samuel Dahl,MDF
 Samuel Edozie,AG
 Samuel Gueulette,CB
-Samuele Angori,MC
-Samuele Ricci,AG
-Samú Costa,LB
-Sander Berge,LB
+Samuele Angori,MOF
+Samuele Ricci,MC
+Samú Costa,CB
+Sander Berge,CB
 Sander van de Streek,ATT
 Sandro Kulenović,CB
 Sandro Lima,AG
@@ -3082,33 +3273,38 @@ Sandro Tonali,MOF
 Santi Comesaña,MDF
 Santi García,ATT
 Santiago Bueno,CB
-Santiago Castro,ATT
-Santiago Colombatto,MC
-Santiago Giménez,AG
+Santiago Castañeda,AG
+Santiago Castro,AG
+Santiago Colombatto,MDF
+Santiago Giménez,CB
 Santiago Hidalgo,AG
-Santiago Mouriño,CB
+Santiago Mouriño,MDF
 Santiago Pierotti,ATT
+Satoshi Tanaka,MC
 Saud Abdulhamid,MC
 Saud Al Rashed,MC
 Savinho,CB
+Sayfallah Ltaief,AG
 Saïd Benrahma,ATT
 Saúl Coco,CB
-Saša Lukić,MOF
+Saša Lukić,MC
 Scott McTominay,MC
 Scott Pittman,MC
 Scott Robinson,AG
-Scott Stewart,MC
+Scott Stewart,MDF
 Scott Twine,ATT
 Scott Wright,AG
 Sean Fusire,MC
-Sean Longstaff,LB
+Sean Longstaff,CB
 Sean McLoughlin,CB
 Sean Zawadzki,CB
 Sebastian Berhalter,ATT
+Sebastian Jung,AG
+Sebastian Klaas,AG
 Sebastian Nanasi,AG
 Sebastian Sebulonsen,MC
 Sebastian Szymański,AG
-Sebastian Walukiewicz,CB
+Sebastian Walukiewicz,MC
 Sebastiano Esposito,ATT
 Sebastiano Luperto,CB
 Sebastien Ibeagha,LB
@@ -3120,6 +3316,7 @@ Sem Scheperman,ATT
 Sem Steijn,ATT
 Sem van Duijn,ATT
 Semih Güler,CB
+Semih Şahin,ATT
 Senne Lynen,MC
 Senny Mayulu,ATT
 Sepp van den Berg,CB
@@ -3129,47 +3326,52 @@ Sergej Milinković-Savić,ATT
 Sergi Cardona,MOF
 Sergi Darder,AG
 Sergi Gómez,CB
-Sergi Palencia,LB
+Sergi Palencia,CB
 Sergi Roberto,CB
 Sergi Solans,ATT
-Serginho,AG
+Serginho,ATT
 Sergio Camello,ATT
 Sergio Carreira,MDF
 Sergio Córdova,AG
 Sergio González,CB
-Sergio Gómez,MC
+Sergio Gómez,LB
 Sergio Santos,AG
 Sergiño Dest,MDF
 Serhou Guirassy,ATT
 Seung Ho Paik,MC
-Shapi Suleymanov,ATT
+Shapi Suleymanov,AG
 Shaq Moore,LB
 Shaquille Riley Pinas,MC
-Shavy Babicka,ATT
+Shavy Babicka,AG
 Shawn Adewoye,CB
 Shea Charles,ATT
 Sheraldo Becker,ATT
 Sherel Constancio Floranus,LB
+Shin Yamada,ATT
+Shinta Appelkamp,ATT
 Shogo Taniguchi,LB
 Shola Shoretire,ATT
-Show,MC
+Show,CB
 Shunsuke Mito,ATT
 Shuto Machino,AG
 Sidiki Cherif,AG
 Sidney Lima,CB
 Sidny Lopes Cabral,ATT
-Siebe Horemans,MC
-Siebe Schrijvers,AG
-Siebe Van Der Heyden,MC
+Siebe Horemans,MOF
+Siebe Schrijvers,ATT
+Siebe Van Der Heyden,MDF
 Sikou Niakaté,LB
 Silas,ATT
+Silas Gnaka,AG
 Silvan Hefti,MC
 Silvan Widmer,AG
 Silvère Ganvoula,AG
-Simon Adingra,AG
+Sima Suso,MC
+Simon Adingra,ATT
+Simon Asta,AG
 Simon Becher,ATT
 Simon Ebonog,MC
-Simon Elisor,AG
+Simon Elisor,ATT
 Simon Graves,LB
 Simon Murray,AG
 Simone Canestrelli,CB
@@ -3177,11 +3379,11 @@ Sinaly Diomandé,CB
 Siphephelo Sithole,CB
 Siriki Dembélé,AG
 Sirlord Conteh,AG
-Snyder Brunell,MC
+Snyder Brunell,MDF
 Sofiane Bendebka,ATT
 Sofiane Boufal,AG
 Sofiane Diop,AG
-Sofyan Amrabat,MDF
+Sofyan Amrabat,CB
 Sondre Langås,CB
 Sondre Tronstad,MOF
 Sondre Ørjasæter,ATT
@@ -3189,10 +3391,12 @@ Soner Dikmen,MC
 Sonny Carey,ATT
 Sorba Thomas,MC
 Sorriso,ATT
-Sory Kaba,ATT
-Souffian El Karouani,MOF
+Sory Kaba,AG
+Sotiris Alexandropoulos,MC
+Souffian El Karouani,ATT
+Soufiane El-Faouzi,ATT
 Soufiane Hetli,ATT
-Souleymane Isaak Touré,CB
+Souleymane Isaak Touré,LB
 Stanislav Lobotka,MDF
 Stanley Mills,ATT
 Stav Lemkin,CB
@@ -3200,8 +3404,13 @@ Stefan Bajčetić,MDF
 Stefan Posch,MC
 Stefan Schimmer,AG
 Stefano Denswil,MC
+Stefano Marino,AG
 Stefano Moreo,ATT
+Stefano Russo,ATT
+Steffen Tigges,ATT
 Stefán Ingi Sigurðarson,AG
+Stefán Teitur Þórðarson,AG
+Stephan Ambrosius,CB
 Stephane Keller,MDF
 Stephen Afrifa,AG
 Stephen Eustaquio,CB
@@ -3210,10 +3419,11 @@ Stephen Welsh,LB
 Stephy Mavididi,AG
 Steve Mounié,ATT
 Steve Ngoura,ATT
-Steven Alzate,AG
+Steven Alzate,MOF
 Steven Berghuis,AG
 Steven Bergwijn,ATT
-Steven Moreira,LB
+Steven Moreira,MC
+Steven Skrzybski,ATT
 Steven​ N'Zonzi,AG
 Stevie May,ATT
 Stije Resink,ATT
@@ -3222,59 +3432,60 @@ Strahinja Pavlović,MC
 Stuart Armstrong,ATT
 Stuart Findlay,MC
 Suat Serdar,AG
-Sulemana,MC
+Sulemana,MDF
 Sultan Al-Ghannam,AG
 Sultan Harun,ATT
 Sultan Mandash,AG
 Sultan Tanker,CB
 Svante Ingelsson,MC
 Sven Botman,ATT
+Sven Michel,ATT
 Sven Mijnans,ATT
 Sven Simons,ATT
 Sydie Peck,ATT
 Sydney van Hooijdonk,AG
-Szymon Włodarczyk,AG
+Szymon Włodarczyk,ATT
 Sébastien Haller,AG
 Sékou Mara,AG
 Søren Tengstedt,AG
 Tadeo Allende,ATT
 Taha Habroune,AG
-Tahith Chong,AG
+Tahith Chong,MDF
 Tai Baribo,ATT
 Taichi Fukui,MC
 Tairyk Arconte,LB
 Tajon Buchanan,CB
 Takahiro Akimoto,CB
 Takefusa Kubo,AD
-Takuma Asano,AG
+Takuma Asano,CB
 Takumi Minamino,ATT
 Talha Ülvan,MC
 Talisca,ATT
 Talles Magno,AG
-Tamblé Monteiro,ATT
-Tammy Abraham,CB
+Tamblé Monteiro,AG
+Tammy Abraham,MOF
 Tamás Nikitscher,MC
-Tanguy Coulibaly,ATT
-Tanner Tessmann,CB
+Tanguy Coulibaly,AG
+Tanner Tessmann,MDF
 Tarik Muharemović,MC
-Tariq Mohammed,CB
+Tariq Mohammed,LB
 Tate Johnson,MOF
 Tatsuhiro Sakamoto,ATT
 Tatsuki Seko,MC
 Tawanda Maswanhise,ATT
-Tayfur Bingöl,ATT
+Tayfur Bingöl,AG
 Taylan Antalyalı,MDF
-Taylor Harwood-Bellis,ATT
-Tayo Adaramola,LB
+Taylor Harwood-Bellis,MC
+Tayo Adaramola,MC
 Tayvon Gray,MC
 Taşkın Ilter,MDF
 Teddy Okou,ATT
 Teddy Tarbotton,CB
-Teddy Teuma,MC
+Teddy Teuma,AG
 Teenage Hadebe,CB
 Telasco Segovia,MC
-Telmo Arcanjo,AG
-Teo Quintero,LB
+Telmo Arcanjo,ATT
+Teo Quintero,MC
 Terry Devlin,MDF
 Tete Morente,AG
 Teun Koopmeiners,MOF
@@ -3283,16 +3494,16 @@ Thamer Al Khaibri,AG
 Theo Corbeanu,ATT
 Theo Hernández,LB
 Theodore Ku-DiPietro,AG
-Thiago Almada,MOF
-Thiago Balieiro,MC
+Thiago Almada,AG
+Thiago Balieiro,MDF
 Thiago Borbas,CB
 Thiago Fernández,ATT
 Thiago Martins,CB
 Thibaud Verlinden,AG
 Thibo Baeten,ATT
-Thierno Barry,AG
+Thierno Barry,ATT
 Thierry Correia,MC
-Thijmen Blokzijl,LB
+Thijmen Blokzijl,MDF
 Thijs Oosting,ATT
 Thilo Kehrer,CB
 Thom van Bergen,ATT
@@ -3300,75 +3511,84 @@ Thomas Beelen,CB
 Thomas Bruns,AG
 Thomas Kristensen,CB
 Thomas Lemar,AG
-Thomas Meunier,MC
+Thomas Meunier,AG
 Thomas Müller,ATT
-Thomas O'Brien,CB
+Thomas O'Brien,MC
 Thomas O'Connor,CB
 Thomas Partey,MDF
 Thomas Van den Belt,ATT
-Théo Le Bris,CB
+Théo Le Bris,MC
 Tiago Araújo,MOF
-Tiago Cukur,AG
+Tiago Cukur,ATT
 Tiago Esgaio,MOF
 Tiago Gabriel,CB
 Tiago Gouveia,AG
 Tiago Santos,AG
-Tiago Souza,CB
+Tiago Souza,AG
 Tiago Tomás,AG
 Tidjany Touré,AG
 Tijjani Noslin,ATT
 Tika de Jonge,ATT
-Tim Iroegbunam,MC
-Tim Jabol-Folcarelli,CB
+Tim Iroegbunam,ATT
+Tim Jabol-Folcarelli,LB
 Tim Kleindienst,ATT
 Tim Lemperle,ATT
+Tim Oberdorf,MDF
 Tim Ream,CB
 Tim Weah,MOF
-Tim van de Loo,AG
+Tim van de Loo,MC
 Tim van der Leij,ATT
 Timo Baumgartl,CB
+Timo Becker,MC
 Timo Werner,AG
 Timothee Nkada,AG
 Timothee Pembele,MC
 Timothy Castagne,CB
 Timothy Tillman,AG
+Tjark Lasse Scheller,CB
 Tjaronn Chery,ATT
 Tobias Lauritsen,ATT
 Tobias Mohr,AG
+Tobias Müller,LB
 Tochi Chukwuani,AG
 Todd Cantwell,ATT
 Tokmac Chol Nguen,CB
 Tolu Arokodare,ATT
 Tom Alexander Rothe,ATT
+Tom Baack,MC
 Tom Barlow,AG
-Tom Cairney,MC
+Tom Cairney,CB
 Tom Davies,AG
 Tom Dele-Bashiru,CB
 Tom Krauß,MC
 Tom Louchet,AG
 Tom Lowery,AG
 Tom Reyners,ATT
-Tom Sparrow,MC
+Tom Sparrow,AG
 Tom Van De Looi,MC
-Toma Bašić,AG
+Tom Zimmerschied,ATT
+Toma Bašić,MC
 Tomané,AG
 Tomas Magnusson,ATT
-Tomas Totland,MC
+Tomas Totland,CB
 Tomi Horvat,ATT
 Tommaso Baldanzi,ATT
-Tommaso Barbieri,MC
+Tommaso Barbieri,AG
 Tommy Conway,ATT
 Tommy Doyle,AG
 Tomoki Iwata,MDF
 Tomoya Ando,CB
-Tomás Araújo,CB
+Tomás Araújo,LB
 Tomás Chancalay,ATT
 Tomás Jacob,MDF
+Tomáš Kalas,LB
 Tomáš Rigo,AG
-Tomáš Souček,CB
+Tomáš Souček,MC
 Toni Martínez,ATT
-Tony Strata,MC
-Tony Yogane,AG
+Tony Strata,MDF
+Tony Yogane,ATT
+Torben Müsel,ATT
+Torge Paetow,MC
 Toti Gomes,CB
 Toyosi Olusanya,ATT
 Tozé,ATT
@@ -3382,7 +3602,7 @@ Tristan van Gilst,AG
 Troy Parrott,ATT
 Tsuyoshi Watanabe,MC
 Tunde Akinsola,MOF
-Tuur Rommens,AG
+Tuur Rommens,MOF
 Tygo Land,MC
 Tyler Adams,MC
 Tyler Bindon,CB
@@ -3392,9 +3612,9 @@ Tyreece John-Jules,ATT
 Tyrese Campbell,AG
 Tyrese Noslin,AG
 Tyrese Spicer,ATT
-Tyrhys Dolan,MOF
-Tyrick Mitchell,MOF
-Tyrone Owusu,AG
+Tyrhys Dolan,AG
+Tyrick Mitchell,MC
+Tyrone Owusu,MDF
 Ugo Raghouber,CB
 Umar Abubakar,ATT
 Umar Sadiq,AG
@@ -3402,28 +3622,30 @@ Umut Bozok,ATT
 Umut Güneş,CB
 Umut Meraş,LB
 Umut Nayir,AG
+Umut Tohumcu,AG
 Unai López,AG
 Unai Núñez,MDF
 Urko González,CB
-Uğurcan Yazğılı,CB
+Uğurcan Yazğılı,MC
 Valentin Atangana Edoa,ATT
 Valentin Mihăilă,ATT
 Valentin Rongier,MC
-Valentin Rosier,MC
+Valentin Rosier,MDF
 Valentín Barco,ATT
 Valentín Castellanos,ATT
 Valentín Vada,ATT
-Valy Konaté,MC
+Valgeir Lunddal Fridriksson,MDF
+Valy Konaté,MDF
 Vanderson,AG
 Vangelis Pavlidis,ATT
 Vasilios Zagaritis,AG
 Vedat Muriqi,ATT
-Veysel Sarı,CB
+Veysel Sarı,MC
 Vicko Ševelj,ATT
 Victor Edvardsen,ATT
 Victor Froholdt,MC
 Victor Gómez,MC
-Victor Hugo,CB
+Victor Hugo,MDF
 Victor Lekhal,LB
 Victor Loturi,LB
 Victor Muñoz,ATT
@@ -3443,7 +3665,8 @@ Vinicius Júnior,AG
 Vinícius Lopes,ATT
 Virgil van Dijk,CB
 Visar Musliu,CB
-Vitaliy Mykolenko,MC
+Vitalie Becker,AG
+Vitaliy Mykolenko,LB
 Vitaly Janelt,MC
 Vitinha,MC
 Vito van Crooij,AG
@@ -3454,17 +3677,17 @@ Vladimír Coufal,MOF
 Vladyslav Vanat,ATT
 Václav Černý,ATT
 Víctor Chust,MC
-Víctor García,AG
+Víctor García,ATT
 Vítor Carvalho,CB
-Wagane Faye,MC
-Wagner Pina,MC
+Wagane Faye,LB
+Wagner Pina,AG
 Waldemar Anton,CB
 Waleed Al-Ahmed,MC
 Walid Cheddira,AG
 Walid Ould-Chikh,AG
-Walker Zimmerman,ATT
+Walker Zimmerman,MC
 Waren Kamanzi,CB
-Warmed Omari,CB
+Warmed Omari,LB
 Warren Bondo,CB
 Warren Madrigal,AG
 Warren O'Hora,CB
@@ -3474,7 +3697,7 @@ Welinton Torrao,MOF
 Wenderson Galeno,ATT
 Wes Burns,AG
 Wesley,MC
-Wesley Delgado,AG
+Wesley Delgado,MOF
 Wesley Fofana,CB
 Wesley Hoedt,CB
 Wesley Saïd,ATT
@@ -3485,19 +3708,19 @@ Wilfried Kanga,ATT
 Wilfried Singo,RB
 Wilfried Zaha,ATT
 Will Lankshear,ATT
-Will Smallbone,ATT
+Will Smallbone,AG
 Will Vaulks,ATT
-Willem Geubbels,CB
+Willem Geubbels,MOF
 Willi Orbán,CB
-William Ferry,MOF
-William Gomes,ATT
-William Mikelbrencis,AG
+William Ferry,ATT
+William Gomes,AG
+William Mikelbrencis,MC
 William Osula,ATT
 William Saliba,LB
 William Sands,LB
 Willian Pacho,CB
 Williot Swedberg,AG
-Wilson Isidor,AG
+Wilson Isidor,CB
 Wilson Odobert,ATT
 Woo-Yeong Jeong,AG
 Wout Faes,CB
@@ -3507,35 +3730,36 @@ Wouter Goes,LB
 Xaver Schlager,MC
 Xavi Simons,ATT
 Xeka,CB
-Yacine Adli,MOF
+Yacine Adli,MC
 Yalçın Kayan,AG
 Yan Dhanda,MOF
 Yan Diomande,ATT
 Yan Maranhão,AG
 Yang Hyun-Jun,AG
-Yangel Herrera,MC
+Yangel Herrera,AG
 Yanis Begraoui,ATT
 Yanis Zouaoui,AG
-Yankuba Minteh,ATT
+Yankuba Minteh,AG
 Yann Bisseck,MC
 Yann Gboho,ATT
-Yannick Bright,MDF
+Yannick Bright,MC
 Yannick Carrasco,ATT
-Yannick Engelhardt,MC
+Yannick Engelhardt,ATT
 Yannick Leliendal,MC
-Yasin Ayari,LB
+Yasin Ayari,MC
 Yassin Belkhdim,ATT
 Yassin Oukili,AG
 Yassine Benzia,MOF
+Yassine Bouchama,ATT
 Yassine Kechta,AG
 Yassine Titraoui,MOF
-Yehor Yarmoliuk,MDF
-Yeimar Gómez,CB
+Yehor Yarmoliuk,CB
+Yeimar Gómez,LB
 Yerry Mina,CB
-Yerson Mosquera,ATT
+Yerson Mosquera,MC
 Yhoan Andzouana,MDF
 Ylber Ramadani,MC
-Yllan Okou,LB
+Yllan Okou,CB
 Yoann Barbet,MC
 Yoann Cathline,ATT
 Younes Ebnoutalib,ATT
@@ -3545,7 +3769,7 @@ Youri Baas,CB
 Youri Regeer,AG
 Youri Tielemans,MC
 Yousef Al-Shammari,AG
-Youssef Aït Bennasser,LB
+Youssef Aït Bennasser,CB
 Youssef Chermiti,ATT
 Youssef En-Nesyri,ATT
 Youssef Hamdaoui,AG
@@ -3553,14 +3777,14 @@ Youssef Maleh,MC
 Youssef Maziz,ATT
 Youssef el Kachati,AG
 Youssouf Fofana,MDF
-Youssouf Ndayishimiye,LB
+Youssouf Ndayishimiye,MDF
 Youssouf Oumarou,MC
 Yu Hirakawa,AG
 Yuito Suzuki,MOF
 Yuki Ohashi,ATT
-Yukinari Sugawara,MOF
+Yukinari Sugawara,MC
 Yunus Emre Çift,CB
-Yunus Konak,MDF
+Yunus Konak,AG
 Yuri Berchiche,MC
 Yussuf Poulsen,AG
 Yusuf Akçiçek,LB
@@ -3571,9 +3795,9 @@ Yves Bissouma,MDF
 Yéremy Pino,ATT
 Zachary Sapsford,AG
 Zaid Romero,CB
-Zaidu Sanusi,AG
+Zaidu Sanusi,MC
 Zak Sturge,AG
-Zak Swanson,AG
+Zak Swanson,MOF
 Zak Vyner,LB
 Zakaria El Ouahdi,ATT
 Zakaria Hawsawi,MC
@@ -3582,14 +3806,14 @@ Zavier Gozo,ATT
 Zaydou Youssouf,MOF
 Ze Vitor,ATT
 Zeidane Inoussa,AG
-Zeki Amdouni,AG
+Zeki Amdouni,ATT
 Zeki Yavru,AG
-Zeki Çelik,MOF
+Zeki Çelik,MC
 Zeno Van Den Bosch,CB
 Zian Flemming,ATT
 Zico Buurmeester,MC
 Ziyad Aljari,CB
-Ziyad Aljohani,CB
+Ziyad Aljohani,MC
 Zuriko Davitashvili,LB
 Zé Carlos,AG
 Zé Pedro,CB
@@ -3600,26 +3824,27 @@ Zé Pedro,CB
 Álvaro Medrán,MOF
 Álvaro Rodriguez,ATT
 Ángel Alarcón,ATT
-Ángel Algobia,AG
+Ángel Algobia,MC
 Ángel Pérez,MOF
 Ângelo,MOF
 Éder Militão,CB
 Éderson,ATT
 Édier Ocampo,MC
-Édouard Michut,LB
+Édouard Michut,MDF
 Ísak Bergmann Jóhannesson,AG
 Óscar Aranda,AG
 Óscar Gil,ATT
 Óscar Mingueza,MOF
 Óscar Perea,AG
 Óscar Rivas,CB
-Óscar Valentín,MC
+Óscar Valentín,AG
 Ömer Ali Şahiner,LB
-Ümit Akdağ,LB
+Ümit Akdağ,MC
 Đorđe Mihailović,ATT
 İrfan Can Kahveci,ATT
 İsmail Yüksek,AG
 Ľubomír Šatka,LB
+Łukasz Poręba,MC
 Łukasz Łakomy,AG
 Žan Vipotnik,ATT
 Žan Žužek,CB

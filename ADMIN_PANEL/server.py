@@ -3,6 +3,7 @@ import asyncio
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 import uvicorn
 
 app = FastAPI(title="AthlytIQ Control Center")
@@ -17,6 +18,10 @@ app.add_middleware(
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(BASE_DIR)
+STATIC_DIR = os.path.join(BASE_DIR, "static")
+os.makedirs(STATIC_DIR, exist_ok=True)
+
+app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
 PIPELINE_STEPS = {
     "step_1": {
@@ -70,12 +75,25 @@ PIPELINE_STEPS = {
     "step_13": {
         "name": "Évaluation et Visualisation",
         "cmd": ".venv/bin/python LM/models/benchmark/generate_visuals.py && .venv/bin/python LM2/benchmark/generate_scouting_visuals.py"
+    },
+    "step_14": {
+        "name": "Génération des Graphiques ML (14 graphes)",
+        "cmd": ".venv/bin/python generate_model_graphs.py --output_dir ADMIN_PANEL/static/graphs"
     }
 }
 
 @app.get("/")
 async def get_index():
     return FileResponse(os.path.join(BASE_DIR, "index.html"))
+
+@app.get("/api/graphs")
+async def get_graphs():
+    graphs_dir = os.path.join(STATIC_DIR, "graphs")
+    if not os.path.exists(graphs_dir):
+        return {"graphs": []}
+    files = [f for f in os.listdir(graphs_dir) if f.endswith(".png")]
+    files.sort()
+    return {"graphs": [f"/static/graphs/{f}" for f in files]}
 
 async def run_pipeline_steps(websocket: WebSocket, selected_steps: list, context: dict):
     try:
